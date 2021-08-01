@@ -1,21 +1,24 @@
 
-## Yorku REST api *for all things York Univesity*
+# Yorku REST api *for all things York Univesity*
 
-### The problem
+### The problem ❓
 
-I wanted a proper api that I could use to automate tasks.
-Help me navigate throguh university, find buildings, libraries and so on.
-#### And maybe create an app around it to help other students while at it.
+I wanted a yorku API that I could use to automate tasks, navigate efficiently, find buildings, libraries cool hangout/study spots and so on.
+#### And maybe create an app around it to help other students ¯\_(ツ)_/¯
 
-### The solution!
-Use Yorku official api, using endpoints they provide but the issue is Yorku doesn't have a proper api, most universities tend to have apis of their own. *Waterloo, I'm looking at you*. anyways that wasn't possible, so I ended up creating my own.
+---
 
+### The solution 💡
+Use Yorku official api, using endpoints they provide BUT THE ISSUE WAS  Yorku doesn't have an api, so I ended up creating my own.
 
-### Who can use it?
+---
+
+### Who can use it? ✅
 Everyone.
 
+---
 
-### Endpoints
+### Endpoints 💻
 - Food Building database, including open - close time.
 - More to come... like courses, their ratings?, study spots, and so on.
 
