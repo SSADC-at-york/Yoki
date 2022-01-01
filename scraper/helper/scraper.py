@@ -1,8 +1,14 @@
+"""
+Scraper module which sends get request to youku food service servers and extracts
+the data from the response, and returns it as a dictionary.
+"""
+
 import datetime
 from typing import List
 
 import bs4
 import requests
+import sys
 
 if __name__ == "__main__":
     import utils
@@ -12,18 +18,17 @@ else:
     yutil = utils.Utils()
 
 
-
 class Extractor:
     def __init__(self):
         self.current_error = None
 
     def dining_dir(self) -> List:
         json_data = {
-            "last_updated" : None,
-            "data" : []
+            "last_updated": None,
+            "data": []
         }
 
-        URL = "https://www.yorku.ca/foodservices/dining-directory/"
+        url = "https://www.yorku.ca/foodservices/dining-directory/"
 
         data_model = {
             "isOpen": False,
@@ -32,15 +37,14 @@ class Extractor:
             "address": None,
             "map_address": None,
         }
-        
 
         # Get the page
-        response = requests.get(URL)
+        response = requests.get(url)
 
         if response.status_code != 200:
             current_error = "Could not get page"
             print(current_error)
-            exit()
+            sys.exit(1)
 
         # create soup
         soup = bs4.BeautifulSoup(response.text, "html.parser")
@@ -51,7 +55,6 @@ class Extractor:
         # get rows
         rows = table.find_all("tr")
 
-
         #  extract data
         for row in rows:
             # get columns
@@ -60,11 +63,10 @@ class Extractor:
             if len(columns) > 1:
                 name = columns[0].find("a").text
                 # extract hours
-                hours = columns[1].find("div", {"class": "op-is-open-shortcode"}).text
+                hours = columns[1].find(
+                    "div", {"class": "op-is-open-shortcode"}).text
                 # extract address
                 address = columns[2].text
-                # extract map
-                map = ""
 
                 if yutil.extract_time(hours) is not None:
                     data_model["hours"] = yutil.extract_time(hours)
@@ -75,6 +77,7 @@ class Extractor:
                 data_model["map_address"] = yutil.extract_shop_address(address)
 
                 json_data["data"].append(data_model.copy())
-                
-        json_data["last_updated"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+
+        json_data["last_updated"] = datetime.datetime.now().strftime(
+            "%Y-%m-%d %H:%M:%S")
         return json_data

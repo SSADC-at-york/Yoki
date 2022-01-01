@@ -6,10 +6,12 @@ name = "pypi"
 [packages]
 bs4 = "*"
 requests = "*"
+regex = "*"
 
 [dev-packages]
 pylint = "*"
 pytest = "*"
+autopep8 = "*"
 
 [requires]
 python_version = "3.9"
