@@ -243,12 +243,9 @@ class CourseScraper:
             if not os.path.exists(self.export_dir):
                 os.makedirs(self.export_dir)
 
-            with open(os.path.join(self.export_dir, subject_code + ".json"), 'w') as outfile:
+            with open(os.path.join(self.export_dir, subject_code + ".json"), 'w', encoding="utf-8") as outfile:
                 json.dump(jobj, outfile, indent=4)
-
-            # debug msg check progress
             print(f"Scraped {num_courses} in dept {subject_code}")
-
             total_scraped += num_courses
 
         print(
@@ -259,7 +256,7 @@ def main():
     '''
     TODO: Migrate to pytest
     '''
-    course_scraper = CourseScraper(exportdir="courses")
+    course_scraper = CourseScraper(exportdir="../docs/data/courses")
     course_scraper.start_full_scrape()
 
 
