@@ -79,3 +79,10 @@ _Example_
 Use the pre-cached jsons files that's in [docs/data/courses](https://github.com/SSADC-at-york/Yoki/tree/main/docs/data/courses)
 
 > pls offload :), it's faster to fetch from github anyways!
+
+---
+
+### 🙏 Thank you
+
+- [@PresidentKevvol](https://github.com/PresidentKevvol)
+
