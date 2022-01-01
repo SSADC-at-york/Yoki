@@ -1,0 +1,232 @@
+{
+  "last_updated": "2021-08-01 20:10:38",
+  "data": [
+    {
+      "isOpen": false,
+      "name": "Bakery @ Stong",
+      "hours": null,
+      "address": "Stong Dining Hall",
+      "map_address": "Building 14"
+    },
+    {
+      "isOpen": true,
+      "name": "Bakery @ Winters",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Winters Dining Hall",
+      "map_address": "Building 54"
+    },
+    {
+      "isOpen": true,
+      "name": "Cucinetta Italian Cafe",
+      "hours": [
+        "12:00",
+        "22:30"
+      ],
+      "address": "York Lanes",
+      "map_address": "Building 24"
+    },
+    {
+      "isOpen": true,
+      "name": "Express @ Winters",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Winters Dining Hall",
+      "map_address": "Building 54"
+    },
+    {
+      "isOpen": true,
+      "name": "Grill @ Winters",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Winters Dining Hall",
+      "map_address": "Building 54"
+    },
+    {
+      "isOpen": true,
+      "name": "Healthy Kitchen - Stong",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Stong Dining Hall",
+      "map_address": "Building 14"
+    },
+    {
+      "isOpen": true,
+      "name": "Healthy Kitchen - Winters",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Winters Dining Hall",
+      "map_address": "Building 54"
+    },
+    {
+      "isOpen": true,
+      "name": "Hero Burger",
+      "hours": [
+        "10:30",
+        "22:30"
+      ],
+      "address": "York Lanes",
+      "map_address": "Building 24"
+    },
+    {
+      "isOpen": true,
+      "name": "La Cucina - Stong",
+      "hours": [
+        "10:30",
+        "22:30"
+      ],
+      "address": "Stong Dining Hall",
+      "map_address": "Building 14"
+    },
+    {
+      "isOpen": true,
+      "name": "Marley Coffee @ Winters",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Winters Dining Hall",
+      "map_address": "Building 54"
+    },
+    {
+      "isOpen": true,
+      "name": "Orange Snail Pub",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Stong College, Courtyard Level",
+      "map_address": null
+    },
+    {
+      "isOpen": true,
+      "name": "Pan Fusion - Stong",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Stong Dining Hall",
+      "map_address": "Building 14"
+    },
+    {
+      "isOpen": true,
+      "name": "Pasta @ Winters",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Winters Dining Hall",
+      "map_address": "Building 54"
+    },
+    {
+      "isOpen": true,
+      "name": "Pizza Pizza - Stong",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Stong Dining Hall",
+      "map_address": "Building 14"
+    },
+    {
+      "isOpen": true,
+      "name": "Pizza Pizza - Winters",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Winters Dining Hall",
+      "map_address": "Building 54"
+    },
+    {
+      "isOpen": true,
+      "name": "Qoola Frozen Yogurt Bar",
+      "hours": [
+        "10:00",
+        "19:00"
+      ],
+      "address": "York Lanes",
+      "map_address": "Building 24"
+    },
+    {
+      "isOpen": true,
+      "name": "Sakura Japanese Foods",
+      "hours": [
+        "10:00",
+        "19:00"
+      ],
+      "address": "York Lanes",
+      "map_address": "Building 24"
+    },
+    {
+      "isOpen": true,
+      "name": "Starbucks CSQ",
+      "hours": [
+        "10:00",
+        "19:00"
+      ],
+      "address": "Central Square",
+      "map_address": "Building 27"
+    },
+    {
+      "isOpen": true,
+      "name": "Stong Dining Hall",
+      "hours": [
+        "10:00",
+        "19:00"
+      ],
+      "address": "Stong College",
+      "map_address": "Building 14"
+    },
+    {
+      "isOpen": true,
+      "name": "Stong Grill",
+      "hours": [
+        "10:00",
+        "19:00"
+      ],
+      "address": "Stong Dining Hall",
+      "map_address": "Building 14"
+    },
+    {
+      "isOpen": true,
+      "name": "Subway",
+      "hours": [
+        "10:00",
+        "19:00"
+      ],
+      "address": "Central Square",
+      "map_address": "Building 27"
+    },
+    {
+      "isOpen": true,
+      "name": "Tim Hortons",
+      "hours": [
+        "09:00",
+        "17:00"
+      ],
+      "address": "William Small Centre",
+      "map_address": "Building 15"
+    },
+    {
+      "isOpen": true,
+      "name": "Winters Dining Hall",
+      "hours": [
+        "08:00",
+        "21:00"
+      ],
+      "address": "Winters College, Courtyard Level",
+      "map_address": "Building 54"
+    }
+  ]
+}

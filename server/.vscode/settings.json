@@ -1,7 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./scraper",
-        "./scraper/helper"
-    ],
-    "python.pythonPath": "/Users/aayushpokharel/.local/share/virtualenvs/scrape_data-NKHxP-4R/bin/python"
-}
