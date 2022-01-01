@@ -5,7 +5,7 @@ from helper.utils import Utils
 util = Utils()
 
 def test_extract_time():
-    example_hour1 = "We're currently open.Today's Hours: 8:00 am - 11:00 am"
+    example_hour1 = "We're currently open. Today's Hours: 8:00 am - 11:00 am"
     assert util.extract_time(example_hour1) == [
         '08:00', '11:00'], "Time Extraction Failed"
 
