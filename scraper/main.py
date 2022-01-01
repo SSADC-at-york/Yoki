@@ -1,6 +1,5 @@
 """
 Main file which runs the program.
-Imports helper functions from helper folder
 """
 
 import json
