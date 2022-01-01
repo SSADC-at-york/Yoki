@@ -1,0 +1,188 @@
+{
+    "courses": [
+        {
+            "dept": "ysdn",
+            "code": "3003",
+            "credit": 3.0,
+            "name": "Typeface Design",
+            "prereqs": "ysdn2007",
+            "desc": "Introduces students to a number of methods for designing a typeface, with an emphasis in using vector drawing software. Starting with a number of initial exercises, students will learn about the design decisions that go into shapes, serifs/sans serifs, spacing, and other often overlooked details. Prerequisite: FA/YSDN 2007 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "3004",
+            "credit": 3.0,
+            "name": "Communication Design 2",
+            "prereqs": "ysdn2004",
+            "desc": "Continues investigation into two-dimensional, print-oriented design problems. Various communication and learning theories are integrated into the design process assisting students to develop a multi-disciplined approach to design. Prerequisite: FA/YSDN 2004 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "3005",
+            "credit": 3.0,
+            "name": "User Centred Design: Prototyping and Usability",
+            "prereqs": "ysdn2005",
+            "desc": "Continues investigation into complex problem-solving which emphasizes the application of systemic design methods. Individual and team problem-solving techniques are utilized to identify and analyze problems, develop content, specify functions, evaluate solutions and produce prototypes at the system level. Prerequisite: FA/YSDN 2005 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "3009",
+            "credit": 3.0,
+            "name": "Time-based Communication",
+            "prereqs": "ysdn1006",
+            "desc": "Focuses upon the visual grammar and language syntax of time-based communication and motion graphics and explores concepts and techniques involved in the integration of images, typography, digital video and audio into vibrant and persuasive communication environments. Prerequisites: FA/YSDN 1006 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Package Design",
+            "prereqs": "ysdn2010",
+            "desc": "This specialized practicum course focuses on the principles, vocabulary and contemporary production of package design. An historical overview and current design strategies in the context of the retail environment will be investigated. Prerequisites: FA/YSDN 2010 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "3011",
+            "credit": 3.0,
+            "name": "Editorial Design",
+            "prereqs": "",
+            "desc": "Focuses on the design of print and electronic editorial documents. Students will investigate the relationship between type, illustration, photo and graphic imagery. Prerequisites: Third- or fourth-year standing in the BDes program or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "3013",
+            "credit": 3.0,
+            "name": "Time-Based Communication 2",
+            "prereqs": "ysdn3009",
+            "desc": "Extends the curriculum of Time Based Communication. It enables students to acquire in-depth knowledge and understanding of the visual grammar and language syntax of time based communications. Through the analysis and construction of meaningful messages and the development of communication strategies, students develop projects through the application of design process. Prerequisite: FA/YSDN 3009 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "3102",
+            "credit": 3.0,
+            "name": "Contemporary Problems in Design",
+            "prereqs": "",
+            "desc": "Offers an identification and examination of the various roles that design and designers play in the solving of visual and cultural problems in today\u0092\u0091s rapidly changing society. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "3104",
+            "credit": 3.0,
+            "name": "Design for Public Awareness:  Investigation, Identification and Integration in Design Communication",
+            "prereqs": "",
+            "desc": "Focuses upon the contribution of design to public awareness of social issues in this design studies course. Students learn that responsible designers also have social responsibilities, and have the opportunity to be of service to marginalized populations. Students will be introduced to the role(s) of graphic agitation, interventions, major and alternative modes of public address and culture jamming. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4002",
+            "credit": 3.0,
+            "name": "Type in Motion",
+            "prereqs": "ysdn2007",
+            "desc": "Explores the storytelling abilities of motion design for broadcast and cinema using the temporal and sequential aspects of typography, image and sound. Work is created using both analog and digital methods, and is deliberately focused on using experimental techniques and graphic means to make graphic communication. Prerequisite: FA/YSDN 2007 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply. Integrated with GS/MDES 5402 3.00."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4003",
+            "credit": 3.0,
+            "name": "Advanced Topics in Interactivity",
+            "prereqs": "ysdn3005 ysdn3006",
+            "desc": "Offers an advanced investigation into systems-intuitive and learned-that support human activities via interactive communication and distribution networks. An understanding of these communication/distribution methods working in reciprocal fashion from users to the computer and back, is presented. Prerequisite: FA/YSDN 3005 3.00 or FA/YSDN 3006 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply. Integrated with GS/MDES 5403 3.00."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4004",
+            "credit": 6.0,
+            "name": "Design Workshop",
+            "prereqs": "",
+            "desc": "Students develop a series of self-directed projects using a multidisciplined approach in solving two-dimensional, three-dimensional and interactive digital design problems. The student proposal is adjudicated by a department committee. Required course for design major which can only be taken in their graduating year. Prerequisites: All required practicum and studies courses or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4005",
+            "credit": 3.0,
+            "name": "Book Design",
+            "prereqs": "",
+            "desc": "Offers an advanced level practicum course that explores the structuring of bound, print-oriented, multiple page documents. The history, anatomy, and structural dynamics of the book are examined and the contemporary private and commercial press/publishing process of the printed book is investigated. Prerequisite: Third- or fourth-year standing in the BDes program or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply. Integrated with GS/MDES 5405 3.00."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4007",
+            "credit": 3.0,
+            "name": "Corporate Identity Design",
+            "prereqs": "",
+            "desc": "Focuses on the design of a corporate identity system for an organization. The system will involve the design of graphic identifiers, typography, selected applications and supporting documents. Prerequisite: Third- or fourth-year standing in the BDes program or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply. Integrated with GS/MDES 5407 3.00."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4009",
+            "credit": 3.0,
+            "name": "Interactive Objects and Environments",
+            "prereqs": "ysdn3009",
+            "desc": "Introduces students to theories and practices of communication design for interactive environments. Interaction scenarios and user experience will be explored through alternative interfaces using sensors, and other inputs to control projected video, graphics, and sound. Prerequisite: FA/YSDN 3009 3.00 or permission of the Department of Design. PRIOR TO WINTER 2013: course credit exclusion: FA/YSDN 4001C 3.00."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Advanced Package Design",
+            "prereqs": "ysdn3010",
+            "desc": "Offers a continued in-depth examination of the conceptualization and creation of effective package structures and graphics in relation to contemporary society and the realities of professional practice. Prerequisite: FA/YSDN 3010 3.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4013",
+            "credit": 3.0,
+            "name": "Design Lab",
+            "prereqs": "",
+            "desc": "Students function as the Department of Design's in-house design team to create work for clients affiliated with the York University community. The goal of the class is to expose the student to the inner workings of graphic design beyond just the design process itself. The Design Lab provides fourth-year BDes students with actual client experience in a working office environment. Each student will be exposed to many of the daily processes involved in running a design firm. Under Instructor supervision, students assume all project responsibilities from project management, client relations, research, collaboration with photographers, illustrators and writers, design presentations, production of both print and motion-based graphics, and vendor selection and coordination, to mention just a few.\r\n  It is expected that Design Lab students will leave each semester with strong skills, new confidence, professional experience, a sense of entrepreneurship and a path leading to internships and jobs.\r\n  In addition to obtaining course credits toward graduation, participation in the studio provides students with valuable experience in teamwork, professional business practices and client and vendor interaction. \r\n\r\nStudent participation in the studio is based upon approval in a highly selective process. Admission is limited to fourth-year students by portfolio review and a minimum of B+ average."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4102",
+            "credit": 3.0,
+            "name": "Design Management",
+            "prereqs": "",
+            "desc": "Examines the theories and practice of design management in contemporary organizations. Through case studies and presentations by visiting speakers, students learn to construct practical working models of management systems. Projects require students to demonstrate investigative, analytical, organizational and business-oriented communication skills. Prerequisite: Third or fourth year standing in the BDes program or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply. Integrated with \r\nGS/MDES 5412 3.0.\r\n"
+        },
+        {
+            "dept": "ysdn",
+            "code": "4104",
+            "credit": 3.0,
+            "name": "Professional Aspects of Design",
+            "prereqs": "",
+            "desc": "The areas of professional responsibility, accreditation, presentation techniques, portfolio preparation, branding and promotion will culminate in the planning and mounting of a graduation exhibition. Required course for Design major. Corequisite: FA/YSDN 4004 6.00 or permission of the Department of Design. Note: For students not in the BDes program, compulsory and voluntary supplementary fees apply."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Independent Studies: Design Practicum",
+            "prereqs": "",
+            "desc": "Offers an individualized study program for highly motivated students in their final year of study who wish to pursue specific and intensive independent practicum projects under the supervision of a faculty member on topics not available in other courses in the department. No more than one independent study course may be taken in any given year. Prerequisites: Fourth-year standing in the BDes progam, an overall major GPA of 7.0 or better and permission of the Department of Design. Note: Applications are available in the spring for the following academic session. Applications must include written support of faculty supervisor prior to submission to the department for approval. "
+        },
+        {
+            "dept": "ysdn",
+            "code": "4900",
+            "credit": 6.0,
+            "name": "Independent Studies: Design Practicum",
+            "prereqs": "",
+            "desc": "Offers an individualized study program for highly motivated students in their final year of study who wish to pursue specific and intensive independent practicum projects under the supervision of a faculty member on topics not available in other courses in the department. No more than one independent study course may be taken in any given year. Prerequisites: Fourth-year standing in the BDes program, an overall major GPA of 7.0 or better and permission of the Department of Design. Note: Applications are available in the spring for the following academic session. Applications must include written support of faculty supervisor prior to submission to the department for approval. "
+        },
+        {
+            "dept": "ysdn",
+            "code": "4901",
+            "credit": 6.0,
+            "name": "Independent Studies: Design Studies",
+            "prereqs": "",
+            "desc": "Offers an individualized study program for highly motivated students in their final year of study who wish to pursue specific and intensive independent studies projects under the supervision of a faculty member on topics not available in other courses in the department. No more than one independent study course may be taken in any given year. Prerequisites: Fourth-year standing in the BDes program, an overall major GPA of 7.0 or better, and permission of the Department of Design. Note: Applications are available in the spring for the following academic session. Applications must include written support of faculty supervisor prior to submission to the Department of Design for approval prior to submission to the Department of Design for approval."
+        },
+        {
+            "dept": "ysdn",
+            "code": "4901",
+            "credit": 3.0,
+            "name": "Independent Studies: Design Studies",
+            "prereqs": "",
+            "desc": "Offers an individualized study program for highly motivated students in their final year of study who wish to pursue specific and intensive independent studies projects under the supervision of a faculty member on topics not available in other courses in the department. No more than one independent study course may be taken in any given year. Prerequisites: Fourth-year standing in the BDes program, an overall major GPA of 7.0 or better, and permission of the Department of Design. Note: Applications are available in the spring for the following academic session. Applications must include written support of faculty supervisor prior to submission to the Department of Design for approval."
+        }
+    ]
+}

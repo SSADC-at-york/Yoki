@@ -1,0 +1,164 @@
+{
+    "courses": [
+        {
+            "dept": "law",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Law in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Law in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Law in the intermediate and senior grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "law",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Law in the Intermediate-Senior Division - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Law in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Law areas in order to further develop students' expertise for teaching this subject. ED/LAW 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "law",
+            "code": "6010",
+            "credit": 3.0,
+            "name": "Independent Research Paper",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "law",
+            "code": "6030",
+            "credit": 3.0,
+            "name": "Guided Study",
+            "prereqs": "",
+            "desc": "Where justified in the view of the supervisor and Director of the Graduate Program, candidates may be permitted to enrol in undergraduate\r\nLLB courses or seminars at Osgoode to fulfill Graduate Program requirements. In such cases, a graduate level research paper is\r\nrequired of graduate candidates to fulfill the course requirement. In no case may a candidate take a course in the LLB program that\r\noverlaps substantially with previous work."
+        },
+        {
+            "dept": "law",
+            "code": "6033",
+            "credit": 0.0,
+            "name": "Guided Study: LL.B. Number and Name of Course (Non-Credit)",
+            "prereqs": "",
+            "desc": "Where justified in the view of the supervisor and Director of the Graduate Program, candidates may be permitted to enrol in undergraduate LLB courses or seminars at Osgoode for audit purposes only. They are not obliged to do coursework affiliated with the course. Prerequisite: permission of the Instructor. "
+        },
+        {
+            "dept": "law",
+            "code": "6040",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "law",
+            "code": "6131",
+            "credit": 3.0,
+            "name": "Study Group on Law in a Global Context I",
+            "prereqs": "",
+            "desc": "This reading group will consider a broad swath of interdisciplinary and legal theoretical scholarship that seeks to address the question of the place of law in our current global order.  Under the ambit of this topic would fall critical, feminist, postcolonial, and third world approaches to international law, law and development, legal and political theory, international economic law, as well as a range of interdisciplinary scholarship on globalization.  Issues that may be taken up for discussion include the rule of law and the place of the exception, legal imperialism, the laws of war, global legal pluralism, transnational constitutionalism, the changing role of states and civil society in transnational governance, trade and development, and human rights.  The reading group is envisioned as an engaged and collaborative undertaking.  While the convener will propose a range of options for weekly topics and readings, participants will have the opportunity to participate in determining the specifics of the list over the course of the year.\r\n"
+        },
+        {
+            "dept": "law",
+            "code": "6132",
+            "credit": 0.0,
+            "name": "Study Group on Law in a Global Context II",
+            "prereqs": "",
+            "desc": "This reading group will consider a broad swath of interdisciplinary and legal theoretical scholarship that seeks to address the question of the place of law in our current global order.  Under the ambit of this topic would fall critical, feminist, postcolonial, and third world approaches to international law, law and development, legal and political theory, international economic law, as well as a range of interdisciplinary scholarship on globalization.  Issues that may be taken up for discussion include the rule of law and the place of the exception, legal imperialism, the laws of war, global legal pluralism, transnational constitutionalism, the changing role of states and civil society in transnational governance, trade and development, and human rights.  The reading group is envisioned as an engaged and collaborative undertaking.  While the convener will propose a range of options for weekly topics and readings, participants will have the opportunity to participate in determining the specifics of the list over the course of the year."
+        },
+        {
+            "dept": "law",
+            "code": "6133",
+            "credit": 0.0,
+            "name": "Study Group on Law in a Global Context III",
+            "prereqs": "",
+            "desc": "This reading group will consider a broad swath of interdisciplinary and legal theoretical scholarship that seeks to address the question of the place of law in our current global order.  Under the ambit of this topic would fall critical, feminist, postcolonial, and third world approaches to international law, law and development, legal and political theory, international economic law, as well as a range of interdisciplinary scholarship on globalization.  Issues that may be taken up for discussion include the rule of law and the place of the exception, legal imperialism, the laws of war, global legal pluralism, transnational constitutionalism, the changing role of states and civil society in transnational governance, trade and development, and human rights.  The reading group is envisioned as an engaged and collaborative undertaking.  While the convener will propose a range of options for weekly topics and readings, participants will have the opportunity to participate in determining the specifics of the list over the course of the year.  "
+        },
+        {
+            "dept": "law",
+            "code": "6151",
+            "credit": 3.0,
+            "name": "Study Group on Law and Social Justice I",
+            "prereqs": "",
+            "desc": "The Study Group on \u0091justice\u0092 will seek to tackle the elusive and sprawling question \u0091what is justice?\u0092 The question has been posed since time immemorial and has elicited many and varied responses. The goal of the Study Group will not be to inculcate any particular approach or set of answers. Instead, it will canvass a range of topics and materials so as to enable students to receive a broad sense of the contemporary challenges to be met and pitfalls to be avoided in addressing this question. The readings will comprise an eclectic mix of interdisciplinary material, drawing from political economy, philosophy, literature, economics, social theory, and, of course, law and jurisprudence."
+        },
+        {
+            "dept": "law",
+            "code": "6152",
+            "credit": 0.0,
+            "name": "Study Group on Law and Social Justice II",
+            "prereqs": "",
+            "desc": "The Study Group on \u0091justice\u0092 will seek to tackle the elusive and sprawling question \u0091what is justice?\u0092 The question has been posed since time immemorial and has elicited many and varied responses. The goal of the Study Group will not be to inculcate any particular approach or set of answers. Instead, it will canvass a range of topics and materials so as to enable students to receive a broad sense of the contemporary challenges to be met and pitfalls to be avoided in addressing this question. The readings will comprise an eclectic mix of interdisciplinary material, drawing from political economy, philosophy, literature, economics, social theory, and, of course, law and jurisprudence."
+        },
+        {
+            "dept": "law",
+            "code": "6153",
+            "credit": 0.0,
+            "name": "Study Group on Law and Social Justice III",
+            "prereqs": "",
+            "desc": "The Study Group on \u0091justice\u0092 will seek to tackle the elusive and sprawling question \u0091what is justice?\u0092 The question has been posed since time immemorial and has elicited many and varied responses. The goal of the Study Group will not be to inculcate any particular approach or set of answers. Instead, it will canvass a range of topics and materials so as to enable students to receive a broad sense of the contemporary challenges to be met and pitfalls to be avoided in addressing this question. The readings will comprise an eclectic mix of interdisciplinary material, drawing from political economy, philosophy, literature, economics, social theory, and, of course, law and jurisprudence."
+        },
+        {
+            "dept": "law",
+            "code": "6155",
+            "credit": 3.0,
+            "name": "Study Group on Theoretical Perspectives I",
+            "prereqs": "",
+            "desc": "This group will investigate a  motley crew  of  readings  on legal pluralism,  reflexive law,  informal law,  soft law and other  perspectives which challenge  the basic but largely  unexplored assumption of  most writing about law: that  formal state law  is  the only significant form of law.  Instead, for these purposes, state law will be treated as one amongst many competing normative systems, and not necessarily the most dominant.   In addition to conventional legal-theoretical writing, group members may introduce work from the other social sciences, novels, serious journalism etc.   Law will also be placed in its historical context, with resources drawn from legal history.  Group members will be invited to speak to the readings from the perspective of whatever field of law is of particular interest to them - international, labour, criminal, corporate, family - and to reflect on the practical as well as the theoretical implications of these readings."
+        },
+        {
+            "dept": "law",
+            "code": "6156",
+            "credit": 0.0,
+            "name": "Study Group on Theoretical Perspectives II",
+            "prereqs": "",
+            "desc": "This group will investigate a  motley crew  of  readings  on legal pluralism,  reflexive law,  informal law,  soft law and other  perspectives which challenge  the basic but largely  unexplored assumption of  most writing about law: that  formal state law  is  the only significant form of law.  Instead, for these purposes, state law will be treated as one amongst many competing normative systems, and not necessarily the most dominant.   In addition to conventional legal-theoretical writing, group members may introduce work from the other social sciences, novels, serious journalism etc.   Law will also be placed in its historical context, with resources drawn from legal history.  Group members will be invited to speak to the readings from the perspective of whatever field of law is of particular interest to them - international, labour, criminal, corporate, family - and to reflect on the practical as well as the theoretical implications of these reading."
+        },
+        {
+            "dept": "law",
+            "code": "6157",
+            "credit": 0.0,
+            "name": "Study Group on Theoretical Perspectives III",
+            "prereqs": "",
+            "desc": "This group will investigate a  motley crew  of  readings  on legal pluralism,  reflexive law,  informal law,  soft law and other  perspectives which challenge  the basic but largely  unexplored assumption of  most writing about law: that  formal state law  is  the only significant form of law.  Instead, for these purposes, state law will be treated as one amongst many competing normative systems, and not necessarily the most dominant.   In addition to conventional legal-theoretical writing, group members may introduce work from the other social sciences, novels, serious journalism etc.   Law will also be placed in its historical context, with resources drawn from legal history.  Group members will be invited to speak to the readings from the perspective of whatever field of law is of particular interest to them - international, labour, criminal, corporate, family - and to reflect on the practical as well as the theoretical implications of these readings. "
+        },
+        {
+            "dept": "law",
+            "code": "6507",
+            "credit": 3.0,
+            "name": "Directed Study II",
+            "prereqs": "",
+            "desc": "Candidates will participate in an upper year undergraduate LL.B. course or seminar, chosen from a list of relevant courses, in consultation with the program Director. Graduate level work is required of graduate students to fulfil the course requirement, with the candidate using the course materials, classroom sessions, and occasional meetings with the Instructor as structure and guidance for their own learning in the area covered by the LL.B. course or seminar. In no case may a candidate take a course in the LL.B. program that overlaps substantially with previous work."
+        },
+        {
+            "dept": "law",
+            "code": "6610",
+            "credit": 3.0,
+            "name": "Graduate Seminar    ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "law",
+            "code": "6611",
+            "credit": 3.0,
+            "name": "Graduate Seminar II:  Advanced Legal Research Methodologies",
+            "prereqs": "",
+            "desc": "The seminar in advanced legal research methodologies offers a review of both quantitative and qualitative research methods employed in legal research.  Specific sessions may include legal and policy related interviewing, ethnographic methods, surveys and other quantitative methods, data collection and analysis, archival and document collection and analysis. "
+        },
+        {
+            "dept": "law",
+            "code": "6680",
+            "credit": 3.0,
+            "name": "Democratic Administration",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "law",
+            "code": "6719",
+            "credit": 3.0,
+            "name": "Court Organization and Management",
+            "prereqs": "",
+            "desc": "An overview of court administration in Canada, beginning with a study of judicial independence and the unique administrative problems this governing principle raises, the constitutional parameters of judicial administration, and court and tribunal administrative structures, and then moving to recent issues of court and tribunal administration such as case-flow management."
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "courses": [
+        {
+            "dept": "modr",
+            "code": "1610",
+            "credit": 3.0,
+            "name": "Introduction to Statistical Methods I",
+            "prereqs": "",
+            "desc": "This course covers the elements of probability theory and standard probability distributions, the measures and techniques used in descriptive statistics, principles of sampling and tests of significance. Prerequisite: OAC or Grade 12 mathematics. Course credit exclusions: SC/MATH 1131 3.00, SC/MATH 2560 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1620",
+            "credit": 3.0,
+            "name": "Introduction to Statistical Methods II ",
+            "prereqs": "math1610",
+            "desc": "This course covers the correlations and regression analysis, analysis of variance and parametric tests, and problem work emphasizing applications of statistics in the social sciences. Prerequisite: GL/MATH 1610 3.00 or permission of the Department. Course credit exclusion: SC/MATH 2570 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1650",
+            "credit": 3.0,
+            "name": "Modes of Mathematical Reasoning",
+            "prereqs": "",
+            "desc": "This course develops basic mathematical literacy in logic (true/false statements; correct/incorrect conclusions: quantifiers), in the language of sets (finite/infinite sets; set operations; Cartesian products), on functions (composition; invertibility; direct/inverse images), on mathematical induction and combinatorics. Prerequisites: At least one OAC mathematics credit or its equivalent, or permission of the department. Course credit exclusions: SC/MATH 1190 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1660",
+            "credit": 3.0,
+            "name": "Linear Algebra I",
+            "prereqs": "",
+            "desc": "This is a basic mathematics course as well as a very useful course for someone who wishes to do applied research in the social sciences. Among the topics considered are vectors, bases, matrices, systems of linear equations, rank and determinants. Some applications of linear algebra to various other disciplines, such as economics, are also included. Course credit exclusions: SC/MATH 1021 3.00, SC/MATH 2221 3.00, GL/MATH 2650 3.00, GL/MODR 2650 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1670",
+            "credit": 6.0,
+            "name": "Fundamentals of Mathematics",
+            "prereqs": "",
+            "desc": "This course is intended for students whose pre-university mathematical background is incomplete. The following topics are covered: basic algebra; linear, quadratic, polynomial, exponential, logarithmic and trigonometric functions; systems of equations; and inequalities. Note: This is a remedial course and as such cannot be counted towards major/minor credits. Course credit exclusions: SC/MATH 1710 6.00, SC/MATH 1510 6.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1902",
+            "credit": 3.0,
+            "name": "Beyond Google: Research Methods in English Studies",
+            "prereqs": "",
+            "desc": "This course introduces the research methods appropriate for English literary studies shared by other disciplines in the humanities. Going beyond basic search engine queries, the students master discipline-specific research databases and resources, apply critical source-evaluation, and learn to use referencing styles."
+        },
+        {
+            "dept": "modr",
+            "code": "1930",
+            "credit": 3.0,
+            "name": "Calcul diff\u00e9rentiel et int\u00e9gral I   ",
+            "prereqs": "",
+            "desc": "Ce cours est le premier cours de base de math\u00e9matiques de niveau universitaire. Les notions trait\u00e9es sont : les fonctions, les limites, la continuit\u00e9, la diff\u00e9rentiation, le graphe des fonctions, les probl\u00e8mes de maximisation et de minimisation de fonctions d'une variable, l'int\u00e9grale de Riemann et les primitives. Condition pr\u00e9alable : au moins un cr\u00e9dit en math\u00e9matiques CPO ou permission du d\u00e9partement. Cours incompatible : SC/MATH 1300 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1930",
+            "credit": 3.0,
+            "name": "Calculus I                 ",
+            "prereqs": "",
+            "desc": "This is a basic course in university calculus. Topics covered are functions, limits, continuity, differentiation, curve sketching, maximization and minimization problems for functions of one variable, the Riemann integral and antiderivatives. Prerequisite: At least one OAC mathematics credit or permission of the department. Course credit exclusion: SC/MATH 1300 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1940",
+            "credit": 3.0,
+            "name": "Calculus II  ",
+            "prereqs": "math1930",
+            "desc": "A continuation of GL/MATH 1930 3.00. Topics covered are logarithms and exponentials, trigonometry including inverse trigonometric functions, hyperbolic trigonometry, the techniques of integration, indeterminate forms and l'H\u00f4pital Rule, an introduction to sequences and series. Applications of the integral to the calculation of areas, volumes, work. Prerequisite: GL/MATH 1930 3.00. Course credit exclusion: SC/MATH 1310 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1940",
+            "credit": 3.0,
+            "name": "Calcul diff\u00e9rentiel et int\u00e9gral II   ",
+            "prereqs": "",
+            "desc": "La suite de Calcul diff\u00e9rentiel et int\u00e9gral I. Les notions trait\u00e9es sont : les logarithmes et exponentielles, la trigonom\u00e9trie y compris les fonctions trigonom\u00e9triques inverses, la trigonom\u00e9trie hyperbolique, les techniques d'int\u00e9gration, les formes ind\u00e9termin\u00e9es et la r\u00e8gle de l'H\u00f4pital, une introduction aux suites et s\u00e9ries. Applications de l'int\u00e9grale aux calculs des aires, des volumes et du travail. Condition pr\u00e9alable : GL/MATH 1930 3.00. Cours incompatible : SC/MATH 1310 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "1950",
+            "credit": 3.0,
+            "name": "Mathematics of Investment I",
+            "prereqs": "modr1930",
+            "desc": "This course introduces the concept of time value of money and the notions of interest rates, inflation rate, annuities and perpetuities, bonds, and the repayment of debt via amortized loans and sinking fund loans.\r\nPrerequisite: GL/MATH/MODR 1930 3.00.\r\nCourse credit exclusions: GL/MATH/MODR 2680 6.00, SC/MATH 1581 3.00, SC/MATH 2280 3.00, SC/MATH 2580 6.00."
+        },
+        {
+            "dept": "modr",
+            "code": "2635",
+            "credit": 3.0,
+            "name": "Creation and Management of a site on the WWW",
+            "prereqs": "itec2915",
+            "desc": "This course presents the client server model of the Web with different methods to secure a Web site. The students will learn how to build and manage a Web site using DHTML, Java Script, and animation and sound manipulation software. Prerequisite: GL/ITEC 2915 3.00.\r\nCourse credit exclusions: GL/MODR 1960 3.00 and GL/MODR 1970 3.00, GL/SOSC 1960 3.00, GL/SOSC 1970 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "2635",
+            "credit": 3.0,
+            "name": "La cr\u00e9ation et la gestion d'un site sur le WWW",
+            "prereqs": "",
+            "desc": "Le cours pr\u00e9sente le mod\u00e8le client serveur du Web et plusieurs m\u00e9thodes pour s\u00e9curiser un site Web. Les \u00e9tudiants apprendront comment construire et g\u00e9rer un site Web en utilisant DHTML, Java Script et des logiciels d'animation et de manipulation du son. Condition pr\u00e9alable : GL/ITEC 2915 3.00. Cours incompatibles: GL/MODR 1960 3.00 et GL/MODR 1970 3.00, GL/SOSC 1960 3.00 et GL/SOSC 1970 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "2640",
+            "credit": 6.0,
+            "name": "Logic",
+            "prereqs": "",
+            "desc": "This course is an introduction to the basic concepts and techniques of modern logic. No previous course in logic or philosophy is required. Course credit exclusion: AP/PHIL 2100 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "2655",
+            "credit": 3.0,
+            "name": "Introduction to Computer Music and Digital Audio Editing",
+            "prereqs": "",
+            "desc": "This course offers a hands-on introduction to the basics of computer music, digital audio recording and editing, and the MIDI system (Musical Instrument Digital Interface) and its software."
+        },
+        {
+            "dept": "modr",
+            "code": "2660",
+            "credit": 3.0,
+            "name": "Linear Algebra II",
+            "prereqs": "math1660",
+            "desc": "This is a continuation of Linear Algebra I. More about vectors spaces, subspaces, linear transformations. Eigenvalues, eigenvectors, similarity, diagonalization. Positive definite quadratic forms. Inner product spaces and Gram-Schmidt orthogonalization. Prerequisite: GL/MATH 1660 3.00. Course credit exclusions: SC/MATH 2222 3.00, SC/MATH 2022 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "2902",
+            "credit": 3.0,
+            "name": "Idea, Opinion, Argument: Rhetoric for Academic Settings",
+            "prereqs": "",
+            "desc": "This course introduces students to the theory and practice of effective persuasion in academic discourse. Focusing on written forms of persuasion from various fields, students will gain argumentative expertise by understanding the history and written techniques of rhetorical communication.\r\nCourse credit exclusion:  AP/PRWR 2007 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "2915",
+            "credit": 3.0,
+            "name": "Computer Usage and Software Applications I",
+            "prereqs": "",
+            "desc": "The course will present the main computer components (hardware and software); advanced topics for the use, edition and layout of documents alone or as part of a team; the creation and use of dynamic Web pages; advanced INTERNET information search techniques; and the design and implementation of a relational database using a database management system (DBMS) with applications to specific environments. Course credit exclusions: GL/MODR 1960 3.00, GL/MODR 1970 3.00, GL/SOSC 1960 3.00, GL/SOSC 1970 3.00.\r\n\r\n"
+        },
+        {
+            "dept": "modr",
+            "code": "2925",
+            "credit": 3.0,
+            "name": "Computer Usage and Software Applications II",
+            "prereqs": "itec2915",
+            "desc": "This course presents advanced options in Microsoft Word and Excel used to format: correct a document automatically; create and manipulate a collaborative document; create, use, and store macros in a document; secure a document. The students will learn how to enhance a Web site using image animation and sound. Prerequisite: GL/ITEC 2915 3.00."
+        },
+        {
+            "dept": "modr",
+            "code": "3934",
+            "credit": 3.0,
+            "name": "Belief, Truth and Knowledge",
+            "prereqs": "",
+            "desc": "This course is an examination of the nature and structure of human knowledge. Topics include the relationship between truth, belief and knowledge, the structure of justified belief and knowledge, contextualism, and naturalistic epistemology."
+        },
+        {
+            "dept": "modr",
+            "code": "4200",
+            "credit": 0.0,
+            "name": "Work Placement",
+            "prereqs": "",
+            "desc": "This not-for-credit experiential education course provides students the opportunity to analyze and apply the knowledge, skills and competencies gained in the classroom in a professional environment and to reflect on the relationship between theory and practice. Note: This course cannot be used to satisfy the general education requirement."
+        }
+    ]
+}

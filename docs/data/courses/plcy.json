@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "plcy",
+            "code": "7010",
+            "credit": 3.0,
+            "name": "Strategic Management Seminar I         ",
+            "prereqs": "",
+            "desc": "This seminar focuses on the theories and current research in those areas which represent the  more accepted and more often researched topics within strategic management.  Both &quot;content&quot; and &quot;process&quot; streams are discussed and critiqued.  (Offered in alternate years.)"
+        },
+        {
+            "dept": "plcy",
+            "code": "7900",
+            "credit": 3.0,
+            "name": "Selected Problems in Administration",
+            "prereqs": "",
+            "desc": "Under the guidance of a faculty member, students may undertake a special program of independent studies tailored to the mutual interests of the student and faculty member. For record purposes, the course is given the indicator letters of the major area involved, such as SB/FINE 7900 3.00 if it is taken in the Finance area."
+        },
+        {
+            "dept": "plcy",
+            "code": "7901",
+            "credit": 3.0,
+            "name": "Selected Problems in Administration",
+            "prereqs": "",
+            "desc": "Under the guidance of a faculty member, students may undertake a special program of independent studies tailored to the mutual interests of the student and faculty member. For record purposes, the course is given the indicator letters of the major area involved, such as SB/FINE 7900 3.00 if it is taken in the Finance area."
+        }
+    ]
+}

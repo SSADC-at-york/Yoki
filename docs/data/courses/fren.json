@@ -1,0 +1,92 @@
+{
+    "courses": [
+        {
+            "dept": "fren",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Teaching French in the Intermediate Division",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning French in the intermediate grades.\nOnly available to students in the Bachelor of Education (BEd) program. "
+        },
+        {
+            "dept": "fren",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching French as a Second Language in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of French in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching French in the intermediate and senior grades.\nOnly available to students in the Bachelor of Education (BEd) program. "
+        },
+        {
+            "dept": "fren",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching French as a Second Language in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of French in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching French areas in order to further develop students' expertise for teaching this subject. ED/FREN 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "fren",
+            "code": "5230",
+            "credit": 3.0,
+            "name": "Le Roman F\u00e9minin en Alg\u00e9rie",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "fren",
+            "code": "5244",
+            "credit": 3.0,
+            "name": "Ecriture poetique franco-ontarienne contemporaine",
+            "prereqs": "",
+            "desc": "&quot;Ce cours examine l'ecriture poetique franco-ontarienne contemporaine a partir de certains auteurs, themes et developpements theoriques. La poesie franco-ontarienne reflete des thematiques universelles et des specificites socioculturelles et linguistiques propres au contexte minoritaire. Les thematiques abordees dans la production poetique que nous etudions cherchent a montrer, entre autres, les influences determinantes du contexte sur les poetes et vice versa.\r\n\n\r\nThis course, given in French, examines contemporary Franco-Ontarian poetry from the perspective of major poetic, literary, and related theories that apply to poetry. Franco-Ontarian poetry reflects, generally, on the human condition, and also on the culture/language as a minority. The poets studied will speak to the historical, social, and cultural influences on poetry; and how poetry has influence, in turn.&quot;"
+        },
+        {
+            "dept": "fren",
+            "code": "5245",
+            "credit": 3.0,
+            "name": "Translating Balzac/Balzac translated=Traduire Balzac/Balzac traduit",
+            "prereqs": "",
+            "desc": "Stemming from Translation and Reception theories (Jauss, Iser) and more recent cultural theories (Bassnett, Lefevere), this course highlights some of the issues - political, social, historical among others - that determine the translation of an author in a receiving country. Case studies of Balzac in English and in Chinese serve as a basis of study of his translation/reception in other languages and/or countries.\r\n\r\nPartant des th\u00e9ories de la r\u00e9ception (Jauss, Iser) et des approches culturelles plus r\u00e9centes en traductologie (Bassnett, Lefevere), ce cours mettra en lumi\u00e8re quelques-unes des questions, politiques, sociales, historiques et autres qui d\u00e9terminent la traduction d'un auteur \u00e0 l'\u00e9tranger. Des \u00e9tudes de cas sur Balzac en anglais et en chinois serviront de base \u00e0 l'\u00e9tude de la r\u00e9ception de Balzac dans d'autres langues et/ou pays.\r\n\r\nNote: The language of instruction will be French when the course is offered by the Graduate Program in French/Francophone Studies, and may be French or English when the course is offered by the Graduate Program in Translation Studies.\r\nWhen offered by the Graduate Program in French/Francophone Studies, more emphasis is put on the analysis of the source text."
+        },
+        {
+            "dept": "fren",
+            "code": "5622",
+            "credit": 3.0,
+            "name": "Didactique de la grammaire du fran\u00e7ais \u00e9crit",
+            "prereqs": "",
+            "desc": "Ce cours initie les \u00e9tudiants aux techniques d'enseignement de la grammaire pour l'am\u00e9lioration du fran\u00e7ais \u00e9crit. Il pr\u00e9sente une d\u00e9marche d'apprentissage des r\u00e8gles et des m\u00e9canismes du fran\u00e7ais visant \u00e0 renforcer la compr\u00e9hension du fonctionnement du syst\u00e8me de la langue dans ses diff\u00e9rents aspects (morphologique, syntaxique, s\u00e9mantique) et propose une approche p\u00e9dagogique faisant converger les connaissances grammaticales vers la pratique de l'\u00e9crit. (La langue d'enseignement est le fran\u00e7ais.) "
+        },
+        {
+            "dept": "fren",
+            "code": "5900",
+            "credit": 3.0,
+            "name": "Cours de lecture dirigee",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "fren",
+            "code": "6101",
+            "credit": 3.0,
+            "name": "M\u00e9thodes de recherche en \u00e9tudes litt\u00e9raires et linguistiques ",
+            "prereqs": "",
+            "desc": "Ce s\u00e9minaire vise \u00e0 explorer, dans le cadre de la r\u00e9daction d'un travail de recherche, d'un m\u00e9moire de ma\u00eetrise ou d'une th\u00e8se de doctorat, la d\u00e9marche scientifique, la formulation d'hypoth\u00e8ses, les m\u00e9thodes de v\u00e9rification et le d\u00e9veloppement de conclusions, dans le but de conduire les \u00e9tudiants \u00e0 concevoir et \u00e0 d\u00e9velopper leur projet de recherche."
+        },
+        {
+            "dept": "fren",
+            "code": "6209",
+            "credit": 3.0,
+            "name": "Translating Balzac/Balzac translated=Traduire Balzac/Balzac traduit",
+            "prereqs": "",
+            "desc": "Stemming from Translation and Reception theories (Jauss, Iser) and more recent cultural theories (Bassnett, Lefevere), this course highlights some of the issues - political, social, historical among others - that determine the translation of an author in a receiving country. Case studies of Balzac in English and in Chinese serve as a basis of study of his translation/reception in other languages and/or countries.\r\n\r\nPartant des th\u00e9ories de la r\u00e9ception (Jauss, Iser) et des approches culturelles plus r\u00e9centes en traductologie (Bassnett, Lefevere), ce cours mettra en lumi\u00e8re quelques-unes des questions, politiques, sociales, historiques et autres qui d\u00e9terminent la traduction d'un auteur \u00e0 l'\u00e9tranger. Des \u00e9tudes de cas sur Balzac en anglais et en chinois serviront de base \u00e0 l'\u00e9tude de la r\u00e9ception de Balzac dans d'autres langues et/ou pays.\r\n\r\nNote: The language of instruction will be French when the course is offered by the Graduate Program in French/Francophone Studies, and may be French or English when the course is offered by the Graduate Program in Translation Studies.\r\nWhen offered by the Graduate Program in French/Francophone Studies, more emphasis is put on the analysis of the source text."
+        },
+        {
+            "dept": "fren",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Cours de lecture dirig\u00e9e / Cours individuel (Directed reading)",
+            "prereqs": "",
+            "desc": "Students have the option of taking a Directed Reading Course with a member of the Program provided a suitable graduate course is not available in the current curriculum, and provided the course does not overlap significantly with a course taken previously. In all cases, the course shall be directly relevant to the students' dissertation project."
+        }
+    ]
+}

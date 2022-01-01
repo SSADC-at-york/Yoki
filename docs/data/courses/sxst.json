@@ -1,0 +1,140 @@
+{
+    "courses": [
+        {
+            "dept": "sxst",
+            "code": "1601",
+            "credit": 6.0,
+            "name": "Introduction \u00e0 l'\u00e9tude de la sexualit\u00e9",
+            "prereqs": "",
+            "desc": "Ce cours propose une introduction \u00e0 la sexualit\u00e9 \u00e0 partir d'une perspective interdisciplinaire, transnationale et intersectionelle dans le contexte culturel contemporain. Diverses analyses et grilles th\u00e9oriques feront l'examen des divers axes de pouvoir, d'identit\u00e9 et des diff\u00e9rences incluant la classe, la race, l'in/capacit\u00e9, l'\u00e2ge, la sexualit\u00e9, le nationalisme, etc., en les ins\u00e9rant dans leur contexte canadien et transnational. Cours incompatibles : AP/WMST 2600 6.00 (avant l'automne 2013)."
+        },
+        {
+            "dept": "sxst",
+            "code": "1601",
+            "credit": 6.0,
+            "name": "Introduction to Sexuality Studies",
+            "prereqs": "",
+            "desc": "Uses interdisciplinary, transnational and intersectional perspectives to introduce the field of sexuality studies in contemporary culture. Analyses and theoretical frameworks explore various axes of power, identity and difference including class, race, ability/disability, age, sexuality, nationalism etc. in both a Canadian and transnational framework.\n"
+        },
+        {
+            "dept": "sxst",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Critical Foundations in Sexuality Studies  ",
+            "prereqs": "",
+            "desc": "This course is an interdisciplinary and transnational introduction to theories, methods, themes, debates and issues that constitute the field of critical sexuality studies. The course will examine how sexuality intersects with other lines and relations of power including gender, race, class, dis/ability, family among others. It will also examine key theoretical innovations within the field of sexuality studies, as well as how theoretical directions pioneered in other fields have shaped sexuality studies. Previously offered as: AP/WMST 2600 6.00, GL/WMST 2600 6.00."
+        },
+        {
+            "dept": "sxst",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Critical Foundations in Sexuality Studies  ",
+            "prereqs": "",
+            "desc": "This course is an interdisciplinary and transnational introduction to theories, methods, themes, debates and issues that constitute the field of critical sexuality studies. The course will examine how sexuality intersects with other lines and relations of power including gender, race, class, dis/ability, family among others. It will also examine key theoretical innovations within the field of sexuality studies, as well as how theoretical directions pioneered in other fields have shaped sexuality studies. Previously offered as: AP/WMST 2600 6.00, GL/WMST 2600 6.00."
+        },
+        {
+            "dept": "sxst",
+            "code": "3602",
+            "credit": 3.0,
+            "name": "Transnational Sexualities",
+            "prereqs": "",
+            "desc": "This interdisciplinary course examines transnational and diasporic sexualities, with special emphasis on African, Asian, Caribbean, Latin American, Middle Eastern, and indigenous contexts. Prerequisite: six credits in AP/SXST core or primary courses."
+        },
+        {
+            "dept": "sxst",
+            "code": "3602",
+            "credit": 3.0,
+            "name": "Transnational Sexualities",
+            "prereqs": "",
+            "desc": "This interdisciplinary course examines transnational and diasporic sexualities, with special emphasis on African, Asian, Caribbean, Latin American, Middle Eastern, and indigenous contexts. Prerequisite: six credits in AP/SXST core or primary courses."
+        },
+        {
+            "dept": "sxst",
+            "code": "3603",
+            "credit": 3.0,
+            "name": "Sexual Activism, Movements and Politics",
+            "prereqs": "",
+            "desc": "Examines 20th and 21st century sexual activism, movements, and politics, focusing on everyday resistance, organized protest, and mobilizations for reform and revolution. Prerequisite: six credits in AP/SXST core or primary courses."
+        },
+        {
+            "dept": "sxst",
+            "code": "3603",
+            "credit": 3.0,
+            "name": "Sexual Activism, Movements and Politics",
+            "prereqs": "",
+            "desc": "Examines 20th and 21st century sexual activism, movements, and politics, focusing on everyday resistance, organized protest, and mobilizations for reform and revolution. Prerequisite: six credits in AP/SXST core or primary courses."
+        },
+        {
+            "dept": "sxst",
+            "code": "3901",
+            "credit": 6.0,
+            "name": "Directed Readings/Travaux Individuels",
+            "prereqs": "",
+            "desc": "This course enables students to pursue independent work on a specialized topic. Proposals are developed in consultation with a faculty member affiliated with the Sexuality Studies Program. Prerequisites: AP/SXST 2600, 12 SXST credits, and normally a minimum of 7.0 cumulative GPA."
+        },
+        {
+            "dept": "sxst",
+            "code": "3901",
+            "credit": 3.0,
+            "name": "Directed Readings/Travaux Individuels",
+            "prereqs": "",
+            "desc": "This course enables students to pursue independent work on a specialized topic. Proposals are developed in consultation with a faculty member affiliated with the Sexuality Studies Program. Prerequisites: AP/SXST 2600, 12 SXST credits, and normally a minimum of 7.0 cumulative GPA."
+        },
+        {
+            "dept": "sxst",
+            "code": "3901",
+            "credit": 6.0,
+            "name": "Directed Readings/Travaux Individuels",
+            "prereqs": "",
+            "desc": "This course enables students to pursue independent work on a specialized topic. Proposals are developed in consultation with a faculty member affiliated with the Sexuality Studies Program. Prerequisites: AP/SXST 2600, 12 SXST credits, and normally a minimum of 7.0 cumulative GPA."
+        },
+        {
+            "dept": "sxst",
+            "code": "3901",
+            "credit": 3.0,
+            "name": "Directed Readings/Travaux Individuels",
+            "prereqs": "",
+            "desc": "This course enables students to pursue independent work on a specialized topic. Proposals are developed in consultation with a faculty member affiliated with the Sexuality Studies Program. Prerequisites: AP/SXST 2600, 12 SXST credits, and normally a minimum of 7.0 cumulative GPA."
+        },
+        {
+            "dept": "sxst",
+            "code": "4600",
+            "credit": 6.0,
+            "name": "Advanced Seminar in Sexuality Studies",
+            "prereqs": "",
+            "desc": "This seminar reviews and synthesizes theories, methods and practices in sexuality studies. Students explore the intersections and tensions within and between disciplines involved in sexuality research to develop and improve skills for designing, implementing and assessing research projects. Previously offered as: AP/WMST 4600 6.00, GL/WMST 4600 6.00."
+        },
+        {
+            "dept": "sxst",
+            "code": "4901",
+            "credit": 3.0,
+            "name": "Directed Readings/Travaux Individuels",
+            "prereqs": "",
+            "desc": "This course enables students to pursue independent work on a specialized topic. Proposals are developed in consultation with a faculty member affiliated with the Sexuality Studies Program. Prerequisites: AP/SXST 2600, 12 SXST credits, and normally a minimum of 7.0 cumulative GPA."
+        },
+        {
+            "dept": "sxst",
+            "code": "4901",
+            "credit": 6.0,
+            "name": "Directed Readings/Travaux Individuels",
+            "prereqs": "",
+            "desc": "This course enables students to pursue independent work on a specialized topic. Proposals are developed in consultation with a faculty member affiliated with the Sexuality Studies Program. Prerequisites: AP/SXST 2600, 12 SXST credits, and normally a minimum of 7.0 cumulative GPA."
+        },
+        {
+            "dept": "sxst",
+            "code": "4901",
+            "credit": 6.0,
+            "name": "Directed Readings/Travaux Individuels",
+            "prereqs": "",
+            "desc": "This course enables students to pursue independent work on a specialized topic. Proposals are developed in consultation with a faculty member affiliated with the Sexuality Studies Program. Prerequisites: AP/SXST 2600, 12 SXST credits, and normally a minimum of 7.0 cumulative GPA."
+        },
+        {
+            "dept": "sxst",
+            "code": "4901",
+            "credit": 3.0,
+            "name": "Directed Readings/Travaux Individuels",
+            "prereqs": "",
+            "desc": "This course enables students to pursue independent work on a specialized topic. Proposals are developed in consultation with a faculty member affiliated with the Sexuality Studies Program. Prerequisites: AP/SXST 2600, 12 SXST credits, and normally a minimum of 7.0 cumulative GPA."
+        }
+    ]
+}

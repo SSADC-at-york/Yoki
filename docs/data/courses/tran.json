@@ -1,0 +1,332 @@
+{
+    "courses": [
+        {
+            "dept": "tran",
+            "code": "1410",
+            "credit": 3.0,
+            "name": "Le fran\u00e7ais \u00e9crit pour traducteurs I",
+            "prereqs": "",
+            "desc": "Ce cours vise l'apprentissage et le renforcement de la grammaire de la phrase pour l'am\u00e9lioration des comp\u00e9tences des futurs traducteurs, en compr\u00e9hension et en production. Des activit\u00e9s de lecture et d'\u00e9criture de textes informatifs favoriseront la r\u00e9flexion m\u00e9talinguistique et l'acquisition de strat\u00e9gies d'apprentissage et d'autocorrection.  "
+        },
+        {
+            "dept": "tran",
+            "code": "1411",
+            "credit": 3.0,
+            "name": "Le fran\u00e7ais \u00e9crit pour traducteurs II",
+            "prereqs": "",
+            "desc": "Ce cours vise l'approfondissement des notions de la grammaire de la phrase pour la consolidation des comp\u00e9tences des futurs traducteurs, en compr\u00e9hension et en production. Des activit\u00e9s de lecture et d'\u00e9criture de textes litt\u00e9raires (fiction et non-fiction) favoriseront la r\u00e9flexion m\u00e9talinguistique et l'acquisition de strat\u00e9gies d'apprentissage et d'autocorrection.\nCondition pr\u00e9alable : GL/TRAN 1410 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "1604",
+            "credit": 3.0,
+            "name": "\u00c9criture, r\u00e9\u00e9criture, traduction, communication/Writing, Rewriting, Translation, Communication ",
+            "prereqs": "",
+            "desc": "This course introduces writing and rewriting across languages and cultures, and links these practices with translation and other types of cross-cultural communication. Students analyze English and French texts of various types and learn to rewrite them for specific audiences/purposes.Ce cours porte sur l'\u00e9criture et la r\u00e9\u00e9criture de textes entre langues et cultures et met ces pratiques en rapport avec la traduction et d'autres types de communication transculturelle. Les \u00e9tudiants analysent des textes (fran\u00e7ais et anglais) et apprennent \u00e0 les r\u00e9\u00e9crire \u00e0 l'intention de publics divers. "
+        },
+        {
+            "dept": "tran",
+            "code": "1640",
+            "credit": 3.0,
+            "name": "Ideas Through Time and Space: Knowledge Transfer Across Languages and Cultures",
+            "prereqs": "",
+            "desc": "This course investigates the movement of ideas and knowledge across time, cultures, and languages through translated texts. Canonic texts are examined with a focus on identifying linguistic, religious, political and social factors involved when ideas cross language barriers and cultural boundaries."
+        },
+        {
+            "dept": "tran",
+            "code": "2210",
+            "credit": 3.0,
+            "name": "Introduction to Translation into English I",
+            "prereqs": "",
+            "desc": "This course introduces students to the tools, principles, and methods used in translation, from both a practical and theoretical perspective. Individual and group exercises and assignments help students acquire both basic skills and an understanding of the translation process."
+        },
+        {
+            "dept": "tran",
+            "code": "2210",
+            "credit": 3.0,
+            "name": "Traduction g\u00e9n\u00e9rale I",
+            "prereqs": "",
+            "desc": "Initiation aux outils, aux principes et aux m\u00e9thodes de la traduction.  Introduction aux enjeux th\u00e9oriques et pratiques. Les exercices et les travaux (de groupe et individuels) visent l'acquisition des comp\u00e9tences de base et de l'aptitude \u00e0 analyser les d\u00e9marches."
+        },
+        {
+            "dept": "tran",
+            "code": "2220",
+            "credit": 3.0,
+            "name": "Traduction g\u00e9n\u00e9rale II",
+            "prereqs": "",
+            "desc": "Approfondissement des principes et des m\u00e9thodes de la traduction par le biais de textes de difficult\u00e9 croissante. Les travaux et les exercices visent le perfectionnement de comp\u00e9tences de base et de l'aptitude \u00e0 \u00e9valuer les d\u00e9marches et les produits. Condition pr\u00e9alable : GL/TRAN 2210 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "2220",
+            "credit": 3.0,
+            "name": "Introduction to Translation into English II",
+            "prereqs": "",
+            "desc": "Students build on their understanding of translation in specialized fields. They continue to acquire specialized translation strategies. They increase and apply their knowledge of research tools and resources, learn techniques for resolving translation problems, and practice appropriate English usage. Prerequisite: GL/TRAN 2210 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "2250",
+            "credit": 3.0,
+            "name": "Stylistique compar\u00e9e / Comparative Stylistics",
+            "prereqs": "",
+            "desc": "\u00c9tude des probl\u00e8mes de traduction d\u00e9coulant des diff\u00e9rences et similarit\u00e9s lexicales, syntaxiques et stylistiques entre l\u0092anglais et le fran\u00e7ais. Students learn to solve translation problems, access appropriate references, and explain their choices using the terminology of the field."
+        },
+        {
+            "dept": "tran",
+            "code": "2280",
+            "credit": 3.0,
+            "name": "Documentation and Terminology",
+            "prereqs": "",
+            "desc": "This blended course introduces future translators to research methods in documentation and terminology. Assignments focus on\r\nthe development of critical and analytical thinking and on the practical application of these methods to translation projects.\r\nCourse credit exclusions: GL/TRAN 3260 3.00, GL/TRAN 4370 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "2280",
+            "credit": 3.0,
+            "name": "Documentation et terminologie / Documentation and Terminology",
+            "prereqs": "",
+            "desc": "Ce cours semi-pr\u00e9sentiel initie les futurs traducteurs aux m\u00e9thodes de recherche en documentation et en terminologie. Les\r\ntravaux sont ax\u00e9s sur le d\u00e9veloppement de l\u0092esprit critique et analytique et sur l\u0092application pratique de ces m\u00e9thodes \u00e0 des\r\nprojets de traduction.\r\nCourse credit exclusions/Cours incompatibles : GL/TRAN 3260 3.00, GL/TRAN 4370 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "Traduction sp\u00e9cialis\u00e9e - M\u00e9decine et sciences de la sant\u00e9            ",
+            "prereqs": "",
+            "desc": "Introduction \u00e0 la traduction de textes sp\u00e9cialis\u00e9s en m\u00e9decine et en sciences de sant\u00e9. Les \u00e9tudiants d\u00e9veloppent leurs aptitudes \u00e0 la recherche documentaire et terminologique. Ils acqui\u00e8rent de nouvelles strat\u00e9gies de traduction et perfectionnent leurs comp\u00e9tences.  Condition pr\u00e9alable : GL/TRAN 2210 3.00 et GL/TRAN 2220 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "Translation of Specialized Texts Into English, Level I   ",
+            "prereqs": "",
+            "desc": "Introduction to translation in a specialized area. Students acquire strategies for handling specialized translations from French to English. They increase and apply their knowledge of research tools and resources, learn techniques for resolving translation problems, and practice appropriate English usage. Prerequisite: GL/TRAN 2220 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "Traduction sp\u00e9cialis\u00e9e - juridique, administrative, financi\u00e8re",
+            "prereqs": "",
+            "desc": "Introduction \u00e0 la traduction de textes techniques et sp\u00e9cialit\u00e9s dans les domaines juridiques, administratifs et financiers. Les \u00e9tudiants poursuivent le perfectionnement de leurs comp\u00e9tences traductives et de leurs aptitudes \u00e0 la recherche documentaire et terminologique. Condition pr\u00e9alable :  GL/TRAN 3210 3.00. "
+        },
+        {
+            "dept": "tran",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "Translation of Specialized Texts into English II",
+            "prereqs": "tran3210",
+            "desc": "Students build on their understanding of translation strategies. Knowledge in a chosen field is expanded by reading specialized texts and participating in discussions. Texts will vary in their genre, register and complexity. Prerequisite: GL/TRAN 3210 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "3270",
+            "credit": 3.0,
+            "name": "Th\u00e9orie de la traduction / Theory of Translation",
+            "prereqs": "",
+            "desc": "Initiation \u00e0 la r\u00e9flexion critique sur la traduction, aux concepts cl\u00e9s en traductologie et \u00e0 la recherche. Students are introduced to the schools of thought that have shaped Translation Studies since the second half of the 20th century."
+        },
+        {
+            "dept": "tran",
+            "code": "3270",
+            "credit": 3.0,
+            "name": "Theory in Translation/Teor\u00eda de la traducci\u00f3n",
+            "prereqs": "",
+            "desc": "This course explores historical, linguistic, and philosophical approaches to the field of translation studies from various theoretical perspectives. It covers canonical texts on translation, particularly from the Western tradition./Mediante el uso de textos de autores importantes dentro de la traducci\u00f3n occidental, en este curso se exploran los enfoques lingu\u00edsticos y filos\u00f3ficos de la traductolog\u00eda. Prerequisite: to be enrolled in the SP-EN/EN-SP Translation Certificate Program. Course credits exclusion: GL/TRAN 3270, GL/TRAN 3270."
+        },
+        {
+            "dept": "tran",
+            "code": "3310",
+            "credit": 3.0,
+            "name": "Problems in Professional Writing      ",
+            "prereqs": "",
+            "desc": "Students learn to problem-solve through writing, the essence of good professional communication. They learn to select information for a given audience and choose effective language for the needs of government, business, and industry."
+        },
+        {
+            "dept": "tran",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Onsite Professional Internship/Stage professionnel en entreprise",
+            "prereqs": "",
+            "desc": "Au cours d\u0092un trimestre, les stagiaires effectuent l'\u00e9quivalent de quatre semaines de travail \u00e0 temps plein dans un cabinet ou service de traduction, une entreprise ou un organisme. Les stagiaires sont encadr\u00e9s par un traducteur chevronn\u00e9, un agent de communication, un webmestre ou autre professionnel exp\u00e9riment\u00e9. Leur travail est not\u00e9 par un membre du corps professoral.\r\nOver the course of one semester, interns perform the equivalent of four weeks of fulltime work in a translation firm or unit, a business or an organization. They are supervised by a senior translator, a communications officer, webmaster or other experienced professional. Their work is graded by a faculty member.\r\n\r\nCondition pr\u00e9alable : Permission de l'\u00c9cole de traduction ou du Programme de communications / Prerequisite: Permission from the School of Translation or the Communications Program."
+        },
+        {
+            "dept": "tran",
+            "code": "4225",
+            "credit": 3.0,
+            "name": "Introduction to Translation into Language B/Introduction \u00e0 la traduction vers la langue B",
+            "prereqs": "",
+            "desc": "Introduction to translation from students' dominant (A) language into their (B) language. Working with a variety of texts of increasing complexity, students further their knowledge of their B language and familiarize themselves with translation norms in this language./Initiation \u00e0 la traductino de la langue dominante (A) vers la langue (B). Les \u00e9tudiants traduisent des textes vari\u00e9s et de complexit\u00e9 croissante. Ils perfectionnent leur langue B et se familiarisent avec les normes de traduction dans cette langue. Prerequisite/Condition pr\u00e9alable : GL/TRAN 2210 3.00 and/et GL/TRAN 2220 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "Translation of specliazed texts into language B/Traduction de textes sp\u00e9cialis\u00e9s vers la langue B",
+            "prereqs": "tran4225",
+            "desc": "In this second course on translation into the B language students translate texts from a variety of specialized fields. They are introduced to area-specific resources, and hone their translation skills as well as their skills in their non-dominant language./Dans ce deuxi\u00e8me cours de traduction vers la langue B, les \u00e9tudiants traduisent des textes de divers domaines de sp\u00e9cialisation. Ils s'initient aux ressoures propres \u00e0 ces domaines, perfectionnnent leurs aptitudes \u00e0 la traduction et approfondissent leur langue B. Prerequisite/Condition pr\u00e9alable : GL/TRAN 4225 3.00"
+        },
+        {
+            "dept": "tran",
+            "code": "4235",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la traduction audiovisuelle : Introduction to audiovisual translation",
+            "prereqs": "tran3220",
+            "desc": "Ce cours initie les \u00e9tudiants et les \u00e9tudiantes aux enjeux th\u00e9oriques et pratiques de la traduction audiovisuelle. Les exercices d'analyse, de transcription, de traduction, de sc\u00e9narisation et de sous-titrage les pr\u00e9parent \u00e0 g\u00e9rer diff\u00e9rentes phases de la communication multimodale./This course provides a theoretical and practical introduction to audiovisual translation. Exercises such as analysis, transcription, translation, screenwriting and subtitling prepare students to deal with different stages of multimodal communication. Prerequisite: GL/TRAN 3220 3.00. Corequisite: GL/TRAN 3220 3.00. "
+        },
+        {
+            "dept": "tran",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Techniques of Revision in Translation",
+            "prereqs": "",
+            "desc": "Through this course students learn to analyse texts from the perspectives of communication theory, discourse and revision practice. The course also helps students hone their advanced communication and revision skills. "
+        },
+        {
+            "dept": "tran",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Technique de la r\u00e9vision en traduction       ",
+            "prereqs": "",
+            "desc": "Initiation au travail de post-traduction. Les \u00e9tudiants pratiquent la r\u00e9vision unilingue pour am\u00e9liorer le texte traduit en fonction des normes linguistiques r\u00e9dactionnelles, ainsi que la r\u00e9vision bilingue pour v\u00e9rifier le degr\u00e9 d'\u00e9quivalence entre l'original et la traduction. "
+        },
+        {
+            "dept": "tran",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Techniques in Business and Technical Writing I   ",
+            "prereqs": "coms3310",
+            "desc": "Builds on the skills learned in GL/TRAN 3310 3.00. Students learn to direct their writing to a given audience, to begin to work with layout and design of documents, and develop the skills required by team and project writing. Prerequisite: GL/TRAN/COMS 3310 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "4320",
+            "credit": 3.0,
+            "name": "Techniques in Business and Technical Writing II ",
+            "prereqs": "tran4310",
+            "desc": "Students develop the analytic, writing, and documentation skills needed to produce software user manuals, reference guides, tutorials, online and hypertext information. They learn to work in a team-based production environment on real software documentation problem. Prerequisite: GL/TRAN 4310 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "4330",
+            "credit": 3.0,
+            "name": "Documentation in Business and Industry",
+            "prereqs": "tran4320",
+            "desc": "Students learn the requirements for online documentation from a theoretical and research perspective and develop project management skills. Prerequisite: GL/TRAN 4320 3.00.\n\r\nNote: Course open to students majoring in Translation and to students registered in the Certificate of Technical &amp; Professional Writing."
+        },
+        {
+            "dept": "tran",
+            "code": "4510",
+            "credit": 3.0,
+            "name": "Advanced Translation Practicum/Travaux pratiques avanc\u00e9s en traduction ",
+            "prereqs": "tran3260 tran4370 tran3210",
+            "desc": "Under the supervision of an Instructor, students undertake small- and large-scale translation projects proposed by internal (York) or external clients, applying advanced documentation, translation, self-revision, revision and quality control techniques to real-life projects./Sous la direction d'un professeur, les \u00e9tudiants entreprennent des projets de traduction (de petite et grande envergure) pour des clients internes (York) et externes. Ils appliquent leurs comp\u00e9tences pouss\u00e9es en documentation, traduction, auto-r\u00e9vision, r\u00e9vision et contr\u00f4le de la qualit\u00e9. Prerequisites/Conditions pr\u00e9alables : GL/TRAN 3260 3.00, GL/TRAN 4370 3.00, GL/TRAN 3210 3.00. Corequisite/Condition concomitante : GL/TRAN 3220 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "4525",
+            "credit": 3.0,
+            "name": "Translation and Localization Tools",
+            "prereqs": "tran2280",
+            "desc": "In this course students are acquainted with the main tools used to facilitate translation and localization. We assess their usefulness as well as methods of integrating local cultures through localizing software and multimedia products. Prerequisite : GL/TRAN 2280 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "4636",
+            "credit": 3.0,
+            "name": "History, Translation and Ancient Civilizations",
+            "prereqs": "",
+            "desc": "The historical evolution of Western civilization is explored from the dawn of writing to the Roman Empire from a cross-cultural perspective, with special emphasis on ancient civilizations and languages in contact, and the dissemination of knowledge and cultural exchange through translation."
+        },
+        {
+            "dept": "tran",
+            "code": "4638",
+            "credit": 3.0,
+            "name": "History, Translation, and European Societies",
+            "prereqs": "",
+            "desc": "The evolution of Western civilization is explored from early Christianity to the electronic age from a cross-cultural perspective, with special emphasis on European societies and languages in contact, and the dissemination of knowledge and cultural exchange through translation."
+        },
+        {
+            "dept": "tran",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Online Professional Internship/Stage professionnel \u00e0 distance",
+            "prereqs": "",
+            "desc": "Au cours d'un trimestre, les stagiaires effectuent, \u00e0 distance, l'\u00e9quivalent de quatre semaines de travail \u00e0 temps plein pour un cabinet ou service de traduction, une entreprise ou un organisme. Les stagiaires sont encadr\u00e9s par un traducteur chevronn\u00e9, un agent de communication, un webmestre ou autre professionnel exp\u00e9riment\u00e9. Leur travail est not\u00e9 par un membre du corps professoral. \r\nOver the course of one semester, interns perform the equivalent of four weeks of fulltime work for a translation firm or unit, a business or an organization. Their distancelearning internship is supervised by a senior translator, a communications officer, webmaster or other experienced professional. Their work is graded by a faculty member.\r\n\r\nCondition pr\u00e9alable : Permission de l'\u00c9cole de traduction ou du Programme de communications / Prerequisite: Permission from the School of Translation or the Communications Program."
+        },
+        {
+            "dept": "tran",
+            "code": "4910",
+            "credit": 3.0,
+            "name": "Methodology of Spanish-English Translation 1: Advanced practice, technologies and project management",
+            "prereqs": "sp3550 tran3260 sp3200 tran3205",
+            "desc": "This course provides intensive practice translating pragmatic texts from various domains. Conceptual and methodological tools from translation studies and applied linguistics are intended to teach students to analyze texts and plan and carry out a variety of translation projects. Prerequisites: GL/SP 3550 3.00 and GL/TRAN 3260 3.00. GL/SP 3200 3.00 and GL/TRAN 3205 3.00. PRIOR TO FALL 2011: Course credit exclusions: GL/SP 4610 3.00, GL/TRAN 4610 3.00. PRIOR TO FALL 2010: course credit exclusion: GL/SP 4610 3.00 (EN), GL/TRAN 4610 3.00 (EN)."
+        },
+        {
+            "dept": "tran",
+            "code": "4915",
+            "credit": 3.0,
+            "name": "Specialized Spanish-English Translation: Literary and Humanistic",
+            "prereqs": "sp3550 tran3260 tran3200 tran3205",
+            "desc": "This course provides advanced practice and reflection on the translation of literary and humanistic texts. Notions of literacy and critical theory are applied to analyze and translate literary texts from various genres and diverse cultural contexts. Prerequisites: GL/SP 3550 3.00, GL/TRAN 3260 3.00, GL/TRAN 3200 3.00 and GL/TRAN 3205 3.00. Course credit exclusion: GL/SP 4615 3.00, GL/TRAN 4615 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "4920",
+            "credit": 3.0,
+            "name": "Methodology of Spanish-English/English-Spanish Translation 2: Revision and project management",
+            "prereqs": "sp3550 tran3260 tran3200 tran3205 sp4910",
+            "desc": "This course is geared toward the practice of translation within the conditions of current professional translation environments.  The course covers revision, translation technologies and project management and is based on practices and trends in the translation industry.  Prerequisites:  GL/SP 3550 3.00, GL/TRAN 3260 3.00, GL/TRAN 3200 3.00, GL/TRAN 3205 3.00 and GL/SP 4910  3.00. Course credit exclusion: GL/SP/TRAN 4620 3.00."
+        },
+        {
+            "dept": "tran",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Translation Studies / Traductologies",
+            "prereqs": "",
+            "desc": "A survey of the various theoretical approaches to studying translation, since the beginning of the twentieth century. The historical and cultural contexts of appearance of each approach are taken into account."
+        },
+        {
+            "dept": "tran",
+            "code": "5155",
+            "credit": 3.0,
+            "name": "Voyage, D\u00e9placement, Traduction",
+            "prereqs": "",
+            "desc": "Le s\u00e9minaire vise \u00e0 mieux comprendre l\u0092inscription de la traduction dans un environnement multilingue et multiethnique, ainsi que dans les enjeux de la mondialisation. Seront abord\u00e9es en particulier les questions du brouillage des fronti\u00e8res et du positionnement identitaire."
+        },
+        {
+            "dept": "tran",
+            "code": "5190",
+            "credit": 3.0,
+            "name": "Cultural Translation: Beyond Textual Practices",
+            "prereqs": "",
+            "desc": "This course explores the translation of cultural practices in various contexts and periods, primarily through non-textual means. Readings and case studies serve as the basis for an examination of the intersections between culture and translation."
+        },
+        {
+            "dept": "tran",
+            "code": "5324",
+            "credit": 3.0,
+            "name": "Traduction Bancaire                    ",
+            "prereqs": "",
+            "desc": "Specialized Translation (Economics). This seminar includes a considerable number of practical exercises as well as a theoretical component. Students first examine the principles, methods and objectives common to all fields of specialized translation before analyzing the terminology, knowledge base and writing conventions specific to one particular field.\n\r\n"
+        },
+        {
+            "dept": "tran",
+            "code": "5700",
+            "credit": 3.0,
+            "name": "Interpreting Studies",
+            "prereqs": "",
+            "desc": "This course familiarizes students with research in the nascent subdiscipline of 'interpreting studies.'  Students explore the quantitative and qualitative methods used to examine interpreting in various modes and settings, including the community, the courtroom and the conference hall. \r\n"
+        },
+        {
+            "dept": "tran",
+            "code": "5900",
+            "credit": 3.0,
+            "name": "Reading Course/Travail Individuel      ",
+            "prereqs": "",
+            "desc": "Special reading courses may be arranged with individual faculty members subject to the approval of the Director of the Graduate Program. Reading courses are designed to enable a student to pursue a research interest or acquire special skills which are not covered by available courses."
+        }
+    ]
+}

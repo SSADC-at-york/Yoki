@@ -1,0 +1,364 @@
+{
+    "courses": [
+        {
+            "dept": "itec",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Introduction to Information Technologies",
+            "prereqs": "",
+            "desc": "Introduces basic concepts of contemporary information technologies (computers, networks, telecommunications) used to process and store information in organizations. The course material includes both hardware and software components, which students compare, select and combine to solve information problems. NCR: students who have successfully completed or who are currently enrolled in any computer science course at the 2000-level or higher. Course credit exclusion: GL/ITEC 1011 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Information and Organizations",
+            "prereqs": "",
+            "desc": "The value and importance of information to organizations, how it is used, stored and processed; emphasizes the uses of information technologies of various kinds, the benefits of the technologies, and the associated costs and problems; use of desktop applications. \r\nCourse credit exclusion: GL/ITEC 1010 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "1610",
+            "credit": 3.0,
+            "name": "Introduction to Computer Programming",
+            "prereqs": "",
+            "desc": "This is a first course on computer programming using Python.  It introduces elementary data, lists, sets, tuples and dictionaries.  It also introduces the Python program structure control flow, functions, classes, objects and methods. This course uses simple examples to facilitate the understanding of the programming language."
+        },
+        {
+            "dept": "itec",
+            "code": "1620",
+            "credit": 3.0,
+            "name": "Object-Based Programming",
+            "prereqs": "",
+            "desc": "An introduction to problem solving, task decomposition, and algorithm development in the context of object-oriented and structured programming techniques. Taught in Java, topics include primitive data types, control structures, simple classes, strings and arrays. The course also introduces object-oriented design and the use of API's to develop applications from existing classes. Note: This course will not count for computer science major or minor credit. \r\nCourse credit exclusions: GL/CSLA 1620 3.00, GL/ITEC 1620 3.00, LE/CSE 1020 3.00 (prior to Fall 2014).\n\r\nPRIOR TO SUMMER 2013: Course credit exclusions: GL/CSLA 1620 3.00, GL/ITEC 1620 3.00, SC/CSE 1020 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "1670",
+            "credit": 6.0,
+            "name": "Fundamentals of Mathematics",
+            "prereqs": "",
+            "desc": "This course is intended for students whose pre-university mathematical background is incomplete. The following topics are covered: basic algebra; linear, quadratic, polynomial, exponential, logarithmic and trigonometric functions; systems of equations; and inequalities. Note: This is a remedial course and as such cannot be counted towards major/minor credits. Course credit exclusions: SC/MATH 1710 6.00, SC/MATH 1510 6.00."
+        },
+        {
+            "dept": "itec",
+            "code": "2210",
+            "credit": 3.0,
+            "name": "System Administration ",
+            "prereqs": "itec1000 itec1010 itec1620",
+            "desc": "Covers the fundamentals of server administration in both Windows and Linux (or Unix) environments: Gives an overview of network operating systems and the tasks involved in operating system installation, configuration and maintenance and introduces the knowledge of shell scripts.\r\nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00 and AP/ITEC 1620 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "2600",
+            "credit": 3.0,
+            "name": "Introduction to Analytical Programming ",
+            "prereqs": "itec1620",
+            "desc": "The course presents an extension of structured programming concepts covered in ITEC1620. Students are introduced to new programming environments (e.g., MATLAB) for industrial applications and develop skills in technical computing, data visualization and simulation. Prerequisite: AP/ITEC 1620 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "2610",
+            "credit": 3.0,
+            "name": "Object-Oriented Programming",
+            "prereqs": "itec1620 eecs1022 itec1620 eecs1020 cse1020 itec1620 cse1020",
+            "desc": "A continuation of problem solving and algorithm development in the context of object-oriented programming techniques. Taught in Java, topics include inheritance, polymorphism, interfaces and events. Object-oriented design principles are presented in conjunction with applications in graphics and user interface. \nPrerequisites: AP/ITEC 1620 3.00 or LE/EECS 1022 3.00\nPRIOR to FALL 2015: Prerequisites: AP/ITEC 1620 3.00 or LE/EECS 1020 3.00 or LE/CSE 1020 3.00\nPRIOR TO SUMMER 2013: Prerequisites: AP/ITEC 1620 3.00 or SC/CSE 1020 3.00. \nCourse credit exclusions: GL/CSLA 1630 3.00, GL/ITEC 1630 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "2615",
+            "credit": 3.0,
+            "name": "Object Oriented Programming for Internationally Educated Professionals",
+            "prereqs": "",
+            "desc": "Provides the fundamental Java programming skills to Internationally Educated Professionals who already have some computer programming training in other programming languages. Java programming is today the most utilized software development tool in the Canadian industry. Presents an overview of Java-based object-oriented programming and covers class implementation, object-oriented design (with UML), graphics user interfaces, event programming and data structures. Course credit exclusions: AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, LE/CSE 1020 3.00 (prior to Fall 2014), LE/CSE 1030 3.00 (prior to Fall 2014). PRIOR TO SUMMER 2013: Course credit exclusions: AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, SC/CSE 1020 3.00, SC/CSE 1030 3.00. "
+        },
+        {
+            "dept": "itec",
+            "code": "2620",
+            "credit": 3.0,
+            "name": "Introduction to Data Structures",
+            "prereqs": "itec1620 itec2610",
+            "desc": "A completion to introductory problem solving and algorithm development. Taught in Java, topics include linked lists, binary trees, stacks, queues and other elementary data structures. Complexity analysis is introduced with an emphasis on searching and sorting algorithms. Note: This course will not count for computer science major or minor credit. Prerequisites: AP/ITEC 1620 3.00, AP/ITEC 2610 3.00. \nPRIOR TO FALL 2014: Course credit exclusions: LE/CSE 1030 3.00.\nPRIOR TO SUMMER 2013: Prerequisites: AP/ITEC 1620 3.00, AP/ITEC 2610 3.00. Course credit exclusions: GL/CSLA 2620 3.00, GL/ITEC 2620 3.00, SC/CSE 1030 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "2635",
+            "credit": 3.0,
+            "name": "Creation and Management of a site on the WWW",
+            "prereqs": "itec2915",
+            "desc": "This course presents the client server model of the Web with different methods to secure a Web site. The students will learn how to build and manage a Web site using DHTML, Java Script, and animation and sound manipulation software. Prerequisite: GL/ITEC 2915 3.00.\r\nCourse credit exclusions: GL/MODR 1960 3.00 and GL/MODR 1970 3.00, GL/SOSC 1960 3.00, GL/SOSC 1970 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "2635",
+            "credit": 3.0,
+            "name": "La cr\u00e9ation et la gestion d'un site sur le WWW",
+            "prereqs": "",
+            "desc": "Le cours pr\u00e9sente le mod\u00e8le client serveur du Web et plusieurs m\u00e9thodes pour s\u00e9curiser un site Web. Les \u00e9tudiants apprendront comment construire et g\u00e9rer un site Web en utilisant DHTML, Java Script et des logiciels d'animation et de manipulation du son. Condition pr\u00e9alable : GL/ITEC 2915 3.00. Cours incompatibles: GL/MODR 1960 3.00 et GL/MODR 1970 3.00, GL/SOSC 1960 3.00 et GL/SOSC 1970 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "2655",
+            "credit": 3.0,
+            "name": "Introduction to Computer Music and Digital Audio Editing",
+            "prereqs": "",
+            "desc": "This course offers a hands-on introduction to the basics of computer music, digital audio recording and editing, and the MIDI system (Musical Instrument Digital Interface) and its software."
+        },
+        {
+            "dept": "itec",
+            "code": "2915",
+            "credit": 3.0,
+            "name": "Computer Usage and Software Applications I",
+            "prereqs": "",
+            "desc": "The course will present the main computer components (hardware and software); advanced topics for the use, edition and layout of documents alone or as part of a team; the creation and use of dynamic Web pages; advanced INTERNET information search techniques; and the design and implementation of a relational database using a database management system (DBMS) with applications to specific environments. Course credit exclusions: GL/MODR 1960 3.00, GL/MODR 1970 3.00, GL/SOSC 1960 3.00, GL/SOSC 1970 3.00.\r\n\r\n"
+        },
+        {
+            "dept": "itec",
+            "code": "2925",
+            "credit": 3.0,
+            "name": "Computer Usage and Software Applications II",
+            "prereqs": "itec2915",
+            "desc": "This course presents advanced options in Microsoft Word and Excel used to format: correct a document automatically; create and manipulate a collaborative document; create, use, and store macros in a document; secure a document. The students will learn how to enhance a Web site using image animation and sound. Prerequisite: GL/ITEC 2915 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Systems Analysis and Design I",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565",
+            "desc": "Case studies in the development of information systems; exposing the reasons for success or failure; IS planning; various IS development methodologies and their strengths and weaknesses; role of the analyst; analysis project. Prerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Web Technologies",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565",
+            "desc": "Web technology is the amalgamation of Web related software and systems. This course covers some programming topics such as CGI, Java and JavaScript and some fundamental topics such as data markup, networking, security and text processing. \nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00.\nPRIOR TO FALL 2014: Course credit exclusion: LE/CSE 2041 3.00.\nPRIOR TO SUMMER 2013: Prerequisites: AP/ITEC 2610 3.00 and general prerequisites. Course credit exclusion: SC/CSE 2041 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "3030",
+            "credit": 3.0,
+            "name": "Systems Architecture ",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565",
+            "desc": "An introduction to basic architectural and design concepts for software-intensive information systems. Students will be exposed to such ideas as architectural styles and patterns, architectural modeling, the role of quality attributes, object-oriented design and enterprise architecture. \nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "3040",
+            "credit": 3.0,
+            "name": "Introduction to Data Analytics",
+            "prereqs": "",
+            "desc": "An introduction to the field of data analytics with an emphasis on techniques relevant to managing modern organizations. Topics on descriptive, predictive and prescriptive analytics are discussed. Topics to be covered include statistical methods, data mining techniques, forecasting, risk analysis, linear and integer optimization, as well as text and web mining, decision analysis techniques and big data considerations. Prerequisites: ITEC General Prerequisites"
+        },
+        {
+            "dept": "itec",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "Applied Data Communications and Networks",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565",
+            "desc": "Communications systems, environments and components; choices for data, voice and imagery; network control, design and management; distributed and local networks; client/server and Intranet technologies; Web-based technologies. \r\nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "Using and Designing Database Systems",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565",
+            "desc": "An examination of databases, trends in database management systems and their application in a wide range of organizational areas. The course provides an overview of database processing in modern organizations and discusses current and emerging trends in database processing. Prerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00. Course credit exclusions: GL/CSLA 3620 3.00 (prior to Fall 2011), GL/ITEC 3620 3.00, HH/HLST 3320 3.00, HH/NURS 3230 3.00 (prior to Winter 2012)."
+        },
+        {
+            "dept": "itec",
+            "code": "3230",
+            "credit": 3.0,
+            "name": "Designing User Interfaces",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565",
+            "desc": "Examines a range of topics in the analysis and design of interfaces and human-computer interaction. Focusing on the human perspective, the course will discuss improving interaction with computers and reducing the possible mismatch between human and machine. \r\nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00.\r\nPRIOR TO FALL 2014: Course credit exclusions: LE/CSE 3461 3.00.\r\nPRIOR TO SUMMER 2013: Prerequisites: General prerequisites. Course credit exclusions: SC/CSE 3461 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Information Technology Risk Management",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565 itec2610 itec3010",
+            "desc": "This course covers key IT risk components and ways to mitigate those risks. Areas of instruction include how to manage IT-related risks addressed by CobiT, ITIL and ISO 17799 standards. \nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.0, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00.\nPRIOR TO FALL 2014: Prerequisites: AP/ITEC 2610 3.00, AP/ITEC 3010 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "3505",
+            "credit": 3.0,
+            "name": "Information Technology Project Management",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565",
+            "desc": "This course is uniquely suited to the needs of IT professionals entering the corporate world as effective project managers or project team members. It examines all aspects of IT projects including hardware, software, methodologies, and vendor relationships and presents core concepts, skills, tools, and techniques needed to develop information systems on time, within budget and to specification.\r\nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00. \rCourse credit exclusion: AP/ADMS 3353 3.00.\n\r\nPRIOR TO FALL 2014: Prerequisites: General Prerequisites for all 3000-level (except for AP/ITEC 3010 3.00) or above courses. Students must have successfully completed all 1000- and 2000- level required courses in information technology and mathematics required for their program option and AP/ITEC 3010 3.00 before taking courses in information technology at the 3000- or 4000- level including earning a minimum grade of C in either AP/ITEC 2610 3.00 or AP/ITEC 3010 3.00. Course credit exclusion: AP/ADMS 3353 3.00.\n"
+        },
+        {
+            "dept": "itec",
+            "code": "3900",
+            "credit": 0.0,
+            "name": "Internship Term",
+            "prereqs": "itec3010 itec3020 itec3210 itec3220 itec2610 itec3010 writ3988",
+            "desc": "The industrial internship provides qualified students with the opportunity to work in the technology field as part of their honours degree program. The Technology Internship Office (TIP) will coordinate placement of students with a specific internship position. Note 1: Registration in sections of AP/ITEC 3900 0.00 while on an internship placement provides a transcript notation of the student's participation in the internship program. Note 2: Students are required to register in this course in every term of their work-term (i.e. internship). Note 3: Every student registered in the course will be assigned a faculty supervisor who will assess the student's performance during the internship. \r\n\r\nPRIOR TO FALL 2014: Prerequisites: 1) Successful completion of any of the nine AP/ITEC credits at 3000-level listed below, within the three terms prior to enrolment: AP/ITEC 3010 3.00, AP/ITEC 3020 3.00, AP/ITEC 3210 3.00, AP/ITEC 3220 3.00. \r\n2) An overall average of at least B (6.0) in the AP/ITEC courses completed. \r\n3) A minimum of in AP/ITEC 2610 3.00 and AP/ITEC 3010 3.00. \r\n4) Completion of AP/WRIT 3988 3.00 is recommended. \r\n5) Have a minimum of 18 credits remaining to complete their honours degree upon enrolment to the course including courses that are in progress."
+        },
+        {
+            "dept": "itec",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Independent Research Project in Information Technology",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565 itec3210 itec3220 itec3230 itec3210 cse3211 itec3220 cse3421 itec3230 cse3461 itec3210 cse3211 itec3220 cse3421 itec3230 cse3461",
+            "desc": "Under the supervision of a faculty member, and with permission of the program coordinator, students may carry out an independent research project in an area of information technology. Note: Please consult the Faculty of Liberal Arts &amp; Professional Studies Advising and Student Responsibility section of the calendar for regulations on independent study courses. Prerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00, AP/ITEC 3210 3.00, AP/ITEC 3220 3.00, AP/ITEC 3230 3.00.\n\r\n\r\nPRIOR TO FALL 2014: General prerequisites; AP/ITEC 3210 3.00 or LE/CSE 3211 3.00; AP/ITEC 3220 3.00 or LE/CSE 3421 3.00; AP/ITEC 3230 3.00 or LE/CSE 3461 3.00; and permission of the program coordinator.\n\r\n\r\nPRIOR TO SUMMER 2013: Prerequisites: General prerequisites; AP/ITEC 3210 3.00 or SC/CSE 3211 3.00; AP/ITEC 3220 3.00 or SC/CSE 3421 3.00; AP/ITEC 3230 3.00 or SC/CSE 3461 3.00; and permission of the program coordinator."
+        },
+        {
+            "dept": "itec",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Systems Analysis and Design II",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565 itec3220 itec3220 cse3421",
+            "desc": "This course deals with intermediate and advanced topics in systems analysis and design. Topics include the systems development life cycle, object-oriented design, CASE tools and recent advances in system analysis and design. Prerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00, AP/ITEC 3220 3.00. PRIOR TO FALL 2014: Prerequisites: General prerequisites; AP/ITEC 3220 3.00 or LE/CSE 3421 3.00. \r\nCourse credit exclusion: GL/ITEC 3800 3.00. PRIOR TO SUMMER 2013: Prerequisites: General prerequisites; AP/ITEC 3220 3.00 or SC/CSE 3421 3.00. Course credit exclusion: GL/ITEC 3800 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Internet Client-Server Systems",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565 itec3020 itec3220 itec3230 itec3020 cse2041 itec3220 cse3421 itec3230 cse3461",
+            "desc": "Offers a thorough treatment of client-server systems concepts, with programming techniques that yield results in Web pages and Web-based applications. Topics include effective Web page design, server and client-side scripting, Java servlets, ActiveX controls and the essentials of electronic commerce. Prerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00, AP/ITEC 3020 3.00, AP/ITEC 3220 3.00, AP/ITEC 3230 3.00.\r\n \r\nPRIOR TO FALL 2014: Prerequisites: General prerequisites; AP/ITEC 3020 3.00 or LE/CSE 2041 3.00, AP/ITEC 3220 3.00 or LE/CSE 3421 3.00; AP/ITEC 3230 3.00 or LE/CSE 3461 3.00. Course credit exclusions: GL/CSLA 3632 3.00, GL/ITEC 3632 3.00. \r\n\r\nPRIOR TO SUMMER 2013: Prerequisites: General prerequisites; AP/ITEC 3020 3.00 or SC/CSE 2041 3.00, AP/ITEC 3220 3.00 or SC/CSE 3421 3.00; AP/ITEC 3230 3.00 or SC/CSE 3461 3.00. Course credit exclusions: GL/CSLA 3632 3.00, GL/ITEC 3632 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "4030",
+            "credit": 3.0,
+            "name": "Business Process Management Systems",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565 itec3010 itec3220",
+            "desc": "An overview of current generic IT solutions used to support business processes in organizations. An emphasis is placed on the analysis of those business processes, how to improve them and how to connect them with the appropriate IT solutions available. \r\n\r\nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00., AP/ITEC 3010 3.00, AP/ITEC 3220 3.00.\r\nCourse credit exclusion: GL/ITEC 4030 3.00.\r\n\r\nPRIOR TO FALL 2014: Prerequisites: General prerequisites; AP/ITEC 3010 3.00; AP/ITEC 3220 3.00 or LE/CSE 3421 3.00. Course credit exclusion: GL/ITEC 4030 3.00.\r\n\r\nPRIOR TO SUMMER 2013: Prerequisites: General prerequisites; AP/ITEC 3010 3.00; AP/ITEC 3220 3.00 or SC/CSE 3421 3.00. Course credit exclusion: GL/ITEC 4030 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "4040",
+            "credit": 3.0,
+            "name": "Requirements Management",
+            "prereqs": "itec3010 itec3220 cse3421 itec3230 cse3461",
+            "desc": "This course focuses on methods and techniques to elicit, model, analyze and manage software requirements for improving current business processes. Topics include project management, including how to manage software development through all phases of the life cycle. \r\n\r\nPrerequisites: ITEC 1000 3.0, ITEC 1010 3.0, ITEC 1620 3.0, ITEC 2610 3.0, ITEC 2620 3.0, MATH 1190 3.0, MATH 2320 3.0, MATH 2565 3.0\r\nplus ITEC 3010 3.0, ITEC 3220 3.0, ITEC 3230 3.0\r\n\r\nPRIOR TO FALL 2014: Prerequisites: General prerequisites; AP/ITEC 3010 3.00, AP/ITEC 3220 3.00 or LE/CSE 3421 3.00, and AP/ITEC 3230 3.00 or SC/CSE 3461 3.00. Course credit exclusions: None.\r\n\r\nPRIOR TO SUMMER 2013: Prerequisites: General prerequisites; AP/ITEC 3010 3.00, AP/ITEC 3220 3.00 or SC/CSE 3421 3.00, and AP/ITEC 3230 3.00 or SC/CSE 3461 3.00. Course credit exclusions: None.\r\n\r\nPRIOR TO FALL 2009: Prerequisites: General prerequisites; AS/AK/ITEC 3220 3.00 or AS/AK/ITEC 3421 3.00 or AS/AK/SC/COSC 3421 3.00 or AS/AK/SC/CSE 3421 3.00. Recommended: AS/AK/ITEC 4010 3.00. Course credit exclusion: AK/ITEC 4040 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "4060",
+            "credit": 3.0,
+            "name": "Enterprise Architecture",
+            "prereqs": "",
+            "desc": "Introduces the basic concepts of Enterprise Architecture (EA) via in-depth examination of a specific framework for practicing (TOGAF) and modeling (Archimate) EA. Additional topics include architectural decision making, business continuity, integration patterns, related management\r\nframeworks with a focus on security, service oriented architecture (SOA), content management and information architecture.\r\nPrerequisites: ITEC 3010 3.00\r\nOpen to: ITEC Honours, Majors, Minors; BCom ITEC\r\nNot open to: ITEC General (90 credit degree program)"
+        },
+        {
+            "dept": "itec",
+            "code": "4070",
+            "credit": 3.0,
+            "name": "Information Systems Strategy, Management and Innovation",
+            "prereqs": "",
+            "desc": "This course explores the issues and approaches in managing the information technology and information systems function in organizations and how the IT/IS function integrates, supports and enables various types of organizational capabilities. Digital technologies are now at the core of business transformation and require IT leaders to become strategic business partners ensuring alignment of IT strategy and business objectives.\nPREREQUISITES: AP/ITEC 3010 - Systems Analysis and Design I (3.00)"
+        },
+        {
+            "dept": "itec",
+            "code": "4101",
+            "credit": 3.0,
+            "name": "Business Integration Technologies",
+            "prereqs": "itec3210 itec3220 itec3230",
+            "desc": "Students learn about business integration issues and use development tools (Websphere Studio) that help organizations meet their business integration needs. \r\nPrerequisites: ITEC 1000 3.0, ITEC 1010 3.0, ITEC 1620 3.0, ITEC 2610 3.0, ITEC 2620 3.0, MATH 1190 3.0, MATH 2320 3.0, MATH 2565 3.0\r\nplus ITEC 3010 3.0, ITEC 3220 3.0 and ITEC 3230 3.0\r\n\r\nPRIOR TO FALL 2009: Prerequisites: General ITEC upper-year prerequisites and AK/ITEC 3210 3.00, AK/ITEC 3220 3.00 and AK/ITEC 3230 3.00. Course credit exclusion: AK/ITEC 4101 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "4220",
+            "credit": 3.0,
+            "name": "Modern Approaches to Data Management: Database Management Systems",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 math2565 itec3220 itec3220 cse3421 itec3220 cse3421",
+            "desc": "Examines approaches to relational database administration, and investigates modern logical data models and tools supporting their implementation. Topics include transaction management, crash recovery, security, object database systems and information retrieval systems. Prerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/MATH 2565 3.00, AP/ITEC 3220 3.00.\r\nPRIOR TO FALL 2014: Prerequisites: General prerequisites; AP/ITEC 3220 3.00 or LE/CSE 3421 3.00. \r\nPRIOR TO SUMMER 2013: Prerequisites: General prerequisites; AP/ITEC 3220 3.00 or SC/CSE 3421 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "4305",
+            "credit": 3.0,
+            "name": "Web Mining",
+            "prereqs": "itec1000 itec1010 itec1620 itec2610 itec2620 math1190 math2320 itec3220 itec3230 itec4020",
+            "desc": "Web mining is the application of data mining techniques to discover useful information from the Web. This course provides an overview of relevant techniques from data mining and information retrieval and their applications in e-commerce and Web information systems. \r\nPrerequisites: AP/ITEC 1000 3.00, AP/ITEC 1010 3.00, AP/ITEC 1620 3.00, AP/ITEC 2610 3.00, AP/ITEC 2620 3.00, SC/MATH 1190 3.00, SC/MATH 2320 3.00, SC/ MATH 2565 3.00\r, AP/ITEC 3220 3.00, AP/ITEC 3230 3.00, AP/ITEC 4020 3.00."
+        },
+        {
+            "dept": "itec",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Applied Artificial Intelligence",
+            "prereqs": "",
+            "desc": "A brief survey to the theory and development of artificial intelligence (AI) leading to current models of application and deployment. Full hands-on training with one example of a commercial AI service platform. A large project assignment will provide course participants with an opportunity to build an AI-based application.\r\nPrerequisites: ITEC 3040 3.00 \r\nOpen to: IEP students, other students who meet pre-requisites\r\n"
+        },
+        {
+            "dept": "itec",
+            "code": "5210",
+            "credit": 3.0,
+            "name": "System Analysis and Design",
+            "prereqs": "itec3010",
+            "desc": "The course discusses concepts, theories, and techniques for analysis, design and implementation of software systems. The focus is on distributed applications, with special emphasis on requirements gathering, modeling techniques and design trade-off analysis. \r\nPrerequisite: AP/ITEC 3010 3.00 or equivalent."
+        },
+        {
+            "dept": "itec",
+            "code": "6002",
+            "credit": 3.0,
+            "name": "Directed Readings",
+            "prereqs": "",
+            "desc": "A student may count Directed Readings towards the credits required for the degree, subject to the permission of the graduate program director and the Instructor who will be directing the course. Topics will depend on student and Instructor interests but will not cover the same material as other MAIST courses offered in the same year. Prerequisites: Permission of the Graduate Program Director and Instructor."
+        },
+        {
+            "dept": "itec",
+            "code": "6120",
+            "credit": 3.0,
+            "name": "Systems Requirements Management",
+            "prereqs": "",
+            "desc": "This course covers advanced and emerging methods and techniques used to elicit, model, analyze, and manage software requirements. Students will also acquire skills and knowledge necessary for conducting research in the field. \rPrrequisites: An undergraduate systems requirements course equivalent to AP/ITEC 4040 3.00 or LE/EECS 4312 3.00 is desirable but not mandatory."
+        },
+        {
+            "dept": "itec",
+            "code": "6170",
+            "credit": 3.0,
+            "name": "Information Visualization",
+            "prereqs": "",
+            "desc": "This course focuses on the design, development, and study of interactive visualization techniques for the analysis, comprehension, exploration, and explanation of large collections of datasets. Topics covered include principles of visual perception, data and task abstractions, visual encodings of data, interaction methods, visual analytics, and evaluation techniques. Students get hands-on experience through projects. Prerequisite: Permission by instructor."
+        },
+        {
+            "dept": "itec",
+            "code": "6210",
+            "credit": 3.0,
+            "name": "Advanced Information Retrieval Systems",
+            "prereqs": "itec4020",
+            "desc": "Introduces advanced techniques and core technologies used in information retrieval and studies the theory, design, and implementation of text-based information retrieval systems. Focuses on effectively interpreting imprecise queries and providing a high quality response to them from large text-based collections.\rPrerequisite: AP/ITEC 4020 3.00 or equivalent."
+        },
+        {
+            "dept": "itec",
+            "code": "6220",
+            "credit": 3.0,
+            "name": "Advanced Information Management",
+            "prereqs": "itec3220 eecs3421",
+            "desc": "This course covers design principles and techniques of advanced information management systems such as relational database systems and big data platforms. Both classic data management issues and emerging topics in big data management are discussed. Programming projects are required.\r\nPrerequisites: Knowledge equivalent to an undergraduate database course such as AP/ITEC 3220 3.00 or LE/EECS 3421 3.00 would be desirable but is not mandatory."
+        },
+        {
+            "dept": "itec",
+            "code": "6310",
+            "credit": 3.0,
+            "name": "Research Methods in Information Technology",
+            "prereqs": "",
+            "desc": "Provides a foundation in scientific inquiry applied to both practical and theoretical IT-related problems. Students formulate research questions, select appropriate research design to collect and analyze data, prepare reports, and evaluate research proposals and projects. Students must complete this course during their first-year in the program or take this course later with Graduate Program Director's approval."
+        },
+        {
+            "dept": "itec",
+            "code": "6510",
+            "credit": 3.0,
+            "name": "Applied Optimization Techniques in Information Systems",
+            "prereqs": "",
+            "desc": "Introduces students to the idea of optimal solutions. A survey of selected topics in operations research (OR) is provided emphasizing on practical applications rather than on the mathematical properties as well as on their integration into information systems. Students engage in term-long projects and conduct an in-depth study of a topic through readings and paper reviews. Prerequisite: AP/ITEC 4030 or by permission of the instructor."
+        },
+        {
+            "dept": "itec",
+            "code": "6970",
+            "credit": 3.0,
+            "name": "Advanced Topics in Information Technology ",
+            "prereqs": "",
+            "desc": "Introduces emerging and &quot;hot&quot; topics in information technology discussed in the research literature.  Topics will rotate annually and will focus on a specific area of interest to the instructor that is not covered in existing courses.  Proposed topics include information systems security, service-oriented architecture, management of IT, web services.\r\nPrerequisite: None."
+        }
+    ]
+}

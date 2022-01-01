@@ -1,0 +1,68 @@
+{
+    "courses": [
+        {
+            "dept": "fsl",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "D\u00e9couverte du fran\u00e7ais / Discovering French",
+            "prereqs": "",
+            "desc": "This course introduces French to students with no prior formal or informal training in the language. It allows students to acquire the basics of French necessary to interact in an officially bilingual and socially plurilingual setting. \r\nCe cours propose une introduction \u00e0 l\u0092apprentissage du fran\u00e7ais pour les \u00e9tudiants n\u0092ayant aucune exp\u00e9rience d\u0092apprentissage formelle ou informelle du fran\u00e7ais. Il permet aux \u00e9tudiants d\u0092acqu\u00e9rir les bases pour interagir en fran\u00e7ais dans un contexte de bilinguisme institutionnel et de plurilinguisme social.\r\nCours incompatible : GL/FSL 1000 6.00."
+        },
+        {
+            "dept": "fsl",
+            "code": "1110",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais \u00e9l\u00e9mentaire 1 : Portraits ",
+            "prereqs": "",
+            "desc": "This course prepares beginner students (A1.2 of the CEFRL) to interact in oral and written French via the study of biographies and portraits of \r\ncities/places, in an officially bilingual and socially plurilingual setting. \r\nCe cours pr\u00e9pare les \u00e9tudiants d\u00e9butants en fran\u00e7ais (A1.2 du CECRL) \u00e0 interagir \u00e0 l\u0092oral et \u00e0 l\u0092\u00e9crit \u00e0 travers l\u0092\u00e9tude du portrait de personnes ou de lieux, en contexte de bilinguisme institutionnel et de plurilinguisme social.\r\nCondition pr\u00e9alable : Placement, ou GL/FSL 1000 6.00, ou GL/FSL 1001 3.00 avec une note de C, ou la permission du Centre.\r\nCours incompatible : GL/FSL 1100 6.00."
+        },
+        {
+            "dept": "fsl",
+            "code": "1120",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais \u00e9l\u00e9mentaire 2 : Itin\u00e9rances",
+            "prereqs": "",
+            "desc": "Ce cours pr\u00e9pare les \u00e9tudiants d\u00e9butants en fran\u00e7ais (A2.1 du CECRL) \u00e0 interagir \u00e0 l\u0092oral et \u00e0 l\u0092\u00e9crit \u00e0 travers l\u0092\u00e9tude du r\u00e9cit d\u0092immigration ou de voyage, en contexte de bilinguisme institutionnel et de plurilinguisme social.  \r\nThis course prepares beginner students (A2.1 of the CEFRL) to interact in oral and written French via the study of migrant stories and travel accounts, in an officially bilingual and socially plurilingual setting. \r\nCondition pr\u00e9alable : Placement, ou GL/FSL1110 3.00 avec une note de C, ou la permission du Centre.\r\nCours incompatible : GL/FSL 1100 6.00."
+        },
+        {
+            "dept": "fsl",
+            "code": "1210",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais interm\u00e9diaire 1 : L'actualit\u00e9",
+            "prereqs": "",
+            "desc": "This course prepares intermediate students (A2.2 of the CEFRL) to interact in oral and written French via the study of \u0093le fait divers\u0094 (human-interest stories), in an officially bilingual and socially plurilingual setting. \r\nCe cours permet aux \u00e9tudiants interm\u00e9diaires en fran\u00e7ais (A2.2 du CECRL) de d\u00e9velopper la comp\u00e9tence \u00e0 interagir \u00e0 l\u0092oral et \u00e0 l\u0092\u00e9crit \u00e0 travers l\u0092\u00e9tude du fait divers et de l\u0092actualit\u00e9, en contexte de bilinguisme institutionnel et de plurilinguisme social.\r\nCondition pr\u00e9alable : Placement, ou GL/FSL1100 6.00, ou GL/FSL1120 3.00 avec une note de C, ou la permission du Centre.\r\nCours incompatible : GL/FSL 1200 6.00."
+        },
+        {
+            "dept": "fsl",
+            "code": "1220",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais interm\u00e9diaire 2 : La controverse",
+            "prereqs": "",
+            "desc": "This course prepares intermediate students (B1.1 of the CEFRL) to interact in oral and written French via the study of argumentative texts such as editorials, opinion pieces and blogs, in an officially bilingual and socially plurilingual setting. \r\nCe cours permet aux \u00e9tudiants interm\u00e9diaires en fran\u00e7ais (B1.1 du CECRL) de d\u00e9velopper la comp\u00e9tence \u00e0 interagir \u00e0 l\u0092oral et \u00e0 l\u0092\u00e9crit \u00e0 travers l\u0092\u00e9tude de textes argumentatifs, comme le blog ou l\u0092\u00e9ditorial, en contexte de bilinguisme institutionnel et de plurilinguisme social.\r\nCondition pr\u00e9alable : Placement, ou GL/FSL1210 3.00 avec une note minimale de C, ou la permission du Centre.\r\nCours incompatible : GL/FSL 1200 6.00."
+        },
+        {
+            "dept": "fsl",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais avanc\u00e9 1 : la vulgarisation scientifique",
+            "prereqs": "",
+            "desc": "Ce cours permet aux \u00e9tudiants avanc\u00e9s en fran\u00e7ais (B1.2 du CECRL) de consolider la comp\u00e9tence \u00e0 interagir en fran\u00e7ais, \u00e0 l\u0092oral comme \u00e0 l\u0092\u00e9crit, \u00e0 travers l\u0092\u00e9tude de l\u0092article de vulgarisation scientifique, en contexte de bilinguisme institutionnel et de plurilinguisme social.\r\nCondition pr\u00e9alable : Placement, ou GL/FSL1200 6.00, ou GLFSL1220 3.00 avec une note minimale de C, ou la permission du Centre \r\n"
+        },
+        {
+            "dept": "fsl",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais avanc\u00e9 2 : L'essai",
+            "prereqs": "",
+            "desc": "Ce cours permet aux \u00e9tudiants avanc\u00e9s en fran\u00e7ais (B2.1 du CECRL) de consolider la comp\u00e9tence \u00e0 interagir, \u00e0 l\u0092oral et \u00e0 l\u0092\u00e9crit, \u00e0 travers l\u0092\u00e9tude d\u0092extraits d\u0092essais, en contexte de bilinguisme institutionnel et de plurilinguisme social.\r\nCondition pr\u00e9alable : Placement, ou FSL 2000 3.0 avec une note minimale de C, ou la permission du Centre."
+        },
+        {
+            "dept": "fsl",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Le fran\u00e7ais par l'exp\u00e9rience",
+            "prereqs": "",
+            "desc": "Ce cours offre la possibilit\u00e9 aux \u00e9tudiants avanc\u00e9s en fran\u00e7ais (B2 du CECRL) d\u0092approfondir leur apprentissage de la langue en effectuant un stage dans la communaut\u00e9 francophone. Remarque : pour s\u0092inscrire, les \u00e9tudiants doivent se soumettre au processus de s\u00e9lection du \r\nd\u00e9partement. Condition pr\u00e9alable : GL/FSL 2000 3.00 ou placement.   "
+        }
+    ]
+}

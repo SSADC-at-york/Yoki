@@ -1,0 +1,212 @@
+{
+    "courses": [
+        {
+            "dept": "desn",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "Communication Design Foundation ",
+            "prereqs": "",
+            "desc": "Introduces foundational skills relevant to the discipline of graphic design. Rather than focus on practical application, such as how to design a book, brochure, logo or website, this course places an emphasis on experimenting with the raw visual language of design. Students develop and expand their vocabularies in visual communication design, exploring basic design elements and compositional principles used in design via drawing, collage and other methods of image and form-making.  Required course for BDes major. Course credit exclusion: FA/YSDN 1001 3.00."
+        },
+        {
+            "dept": "desn",
+            "code": "1002",
+            "credit": 3.0,
+            "name": "Understanding Form and Context",
+            "prereqs": "desn1001",
+            "desc": "This course introduces terms and theories to explain images and meanings in visual communication design. Topics covered include how meaning is formed, the reading of signs and symbols, text and images, and codes and cultures. Students express their creative potential through idea generation and image manipulation processes. Required course for BDes major. Prerequisite: FA/DESN 1001 3.00. Course credit exclusion: FA/YSDN 1002 3.00. "
+        },
+        {
+            "dept": "desn",
+            "code": "1003",
+            "credit": 3.0,
+            "name": "Typography: Letter and Word ",
+            "prereqs": "",
+            "desc": "Is the first in a sequence of three courses that cover typographic practice, both as a technical skill and an expressive medium. Typography, which deals with the shaping of language, resides at the center of the discipline of graphic design. This course is an introduction to the basic principles of typography, contemporary aesthetic practices (which includes print and screen-based applications), and user-centered practices.  Required course for BDes major. Course credit exclusion: FA/YSDN 1005 3.00."
+        },
+        {
+            "dept": "desn",
+            "code": "1004",
+            "credit": 3.0,
+            "name": "Drawing for Design ",
+            "prereqs": "",
+            "desc": "Introduces drawing as it is used in design as a tool for expression, exploration, idea generation and refinement. Ideas and concepts will be explored and translated into literal, abstract and symbolic form for use in graphic representations, pictograms, symbols and letterforms. Students are challenged to go beyond accuracy in representation to embrace expression and abstraction for effective communication. Required course for BDes major. Course credit exclusion: FA/YSDN 2012 3.00.  "
+        },
+        {
+            "dept": "desn",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Introduction to Design: Practice and Appreciation (for non-majors)",
+            "prereqs": "",
+            "desc": "This blended introductory course is designed for non-majors who are interested in design. Through key readings, writing assignments and hands-on projects, students will develop basic literacy in visual communication design and gain an appreciation of design in society at large and in the business world. Students need to be aware that this is not a software training course, but rather requires intensive readings, writing reflections on short design articles, documentation of rigorous design processes, research reports, creative rationales as well as applied design projects with the learning goals to enhance students' abilities and sensitivity to design and creativity. This course has no tests or examinations, but weekly lesson activities and design projects provide students with opportunities to embrace the continuous learning experience of an in-depth design studio education."
+        },
+        {
+            "dept": "desn",
+            "code": "1011",
+            "credit": 3.0,
+            "name": "Visual Interaction Design",
+            "prereqs": "desn1001",
+            "desc": "Investigates the role of basic coding and software applications in interaction design. The use of imagery, typography and form within compositional structures are explored through the development of human computer user interfaces, which incorporate the integration of visual elements with non-visual interactions. Required course for BDes major. Prerequisite: FA/DESN 1001 3.00 or permission of the Department of Design. Course credit exclusion: FA/YSDN 1006 3.00."
+        },
+        {
+            "dept": "desn",
+            "code": "1111",
+            "credit": 3.0,
+            "name": "Design of the 20th Century: Icons, movements and contexts",
+            "prereqs": "",
+            "desc": "Equips students with the contextual analytical skills required to evaluate a range of key icons and art movements of twentieth century design across the world. Students gain a better understanding of the historical, social, political, cultural, economic, philosophical and aesthetic conditions in the development of design as a creative, cultural and professional practice in this period. Required course for BDes majors."
+        },
+        {
+            "dept": "desn",
+            "code": "2001",
+            "credit": 3.0,
+            "name": "Communication Design Process",
+            "prereqs": "desn1001 desn1002",
+            "desc": "Introduces a design thinking process for visual communication. Students are encouraged to establish methods through various design thinking stages to foster innovative results. Rather than focusing on visualization skills, the course stresses the importance of generating creative strategies for the enhancement of the user experience. Required course for BDes major. Prerequisite: FA/DESN 1001 3.00 and FA/DESN 1002 3.00 or permission of the Department of Design. Course credit exclusion: FA/YSDN 2004 3.00. "
+        },
+        {
+            "dept": "desn",
+            "code": "2002",
+            "credit": 3.0,
+            "name": "Typography for Publishing Systems ",
+            "prereqs": "desn1003",
+            "desc": "Introduces students to systematic concerns of typography intended for long text documents in multiple page print documents and extended screen-based reading. The course introduces best practices for micro and macro typography and covers the use of master pages, paragraph styles, grids and responsive screen typesetting. Required course for BDes major. Prerequisite: FA/DESN 1003 3.00. Course credit exclusion: FA/YSDN 2003 3.00."
+        },
+        {
+            "dept": "desn",
+            "code": "2011",
+            "credit": 3.0,
+            "name": "Designing for Human Interactions",
+            "prereqs": "desn1011",
+            "desc": "Examines systems of communication that move beyond singular artefacts by exploring more complex designed experiences that involve multiple levels of interaction. This course will consider the relationships between human purpose, material objects and the role of the designer within larger technological and social ecosystems. Required course for BDes majors. Prerequisite: FA/DESN 1011 3.0."
+        },
+        {
+            "dept": "desn",
+            "code": "2012",
+            "credit": 3.0,
+            "name": "Prototyping and User-Centred Strategies",
+            "prereqs": "",
+            "desc": "Focuses on iteration to explore, encourage and discover how user input informs design. Prototyping and user testing is applied across a broad spectrum of design situations using methods that offer insights into what kind of design is possible. This course will consider prototyping and user testing as a form of design inquiry. By developing specific skills in building prototypes for evaluation, students create an opportunity to deepen their understanding of user-centred design. Required course for the BDes major. Prerequisite: Second-year standing in the BDes Program or permission of the Department of Design.\nCourse credit exclusion: FA/YSDN 3005 3.00.\n"
+        },
+        {
+            "dept": "desn",
+            "code": "2021",
+            "credit": 3.0,
+            "name": "Information Design for Understanding ",
+            "prereqs": "",
+            "desc": "Examines and applies the relevant theories and methodologies which allow the designer to prioritize, simplify and creatively visualize a wide range of complex textual and visual information. Required course for BDes major. Prerequisite: Second year standing in the BDes Program or permission of the Department of Design. Course credit exclusion: FA/YSDN 2008 3.00. "
+        },
+        {
+            "dept": "desn",
+            "code": "2101",
+            "credit": 3.0,
+            "name": "Design in Contemporary Society ",
+            "prereqs": "",
+            "desc": "Offers an identification and examination of the various roles that design and designers play in the solving of visual and cultural problems in today's rapidly changing society. Required course for BDes major. Course credit exclusion: FA/YSDN 3102 3.00.   "
+        },
+        {
+            "dept": "desn",
+            "code": "2111",
+            "credit": 3.0,
+            "name": "History and Development of Western Typography",
+            "prereqs": "desn1111",
+            "desc": "Explores the development of typographic form, from the origins of alphabet to the present. Discussion includes the study of historical and cultural periods, typographic classifications and exploration of contemporary typography. Prerequisite: FA/DESN 1111 3.00. Course credit exclusion: FA/YSDN 2107 3.00. "
+        },
+        {
+            "dept": "desn",
+            "code": "2112",
+            "credit": 3.0,
+            "name": "Evolution of Information Design",
+            "prereqs": "desn1111",
+            "desc": "Examines the origin and development of designed artifacts to provide clarity and enable understanding of complex data, processes, and environments. It considers influencing factors of social, technological and historical developments in the representation of information. Using a blended course model, classes alternate weekly between face-to-face and online meetings. Prerequisite: FA/DESN 1111 3.00. Course credit exclusion: FA/YSDN 2108 3.00. "
+        },
+        {
+            "dept": "desn",
+            "code": "2113",
+            "credit": 3.0,
+            "name": "History and Culture of Interaction Design",
+            "prereqs": "desn1111",
+            "desc": "Introduces students to the development of interaction design as an emerging field of practice and research. Grounded in historical advancements, the role of interaction design as a cultural phenomenon and technological practice will be explored. Using a blended model, this course will alternate between face-to-face and online classes. Prerequisite: FA/DESN 1111 3.00. Course credit exclusion: FA/YSDN 2109 3.00."
+        },
+        {
+            "dept": "desn",
+            "code": "3001",
+            "credit": 3.0,
+            "name": "Designing for Existing Systems",
+            "prereqs": "",
+            "desc": "Requires students to work in collaborative groups. Students develop an innovative approach to an existing complex issue that engages a design solution. Issues oscillate between different scales of thinking about the city, the environment, the institution and the individual. The topic of focus may vary between years and even sections depending upon the expertise of the instructor, the industry partner and the topical nature of current events. Potential external project partners include industry, government or NGOs, or local not-for-profit groups. Solutions may involve products, communications or environments. Required course for BDes majors. Prerequisite: Third- or fourth-year standing in the BDes Program."
+        },
+        {
+            "dept": "desn",
+            "code": "3002",
+            "credit": 3.0,
+            "name": "Designing for Future Systems",
+            "prereqs": "desn3001",
+            "desc": "Requires students to work in collaborative groups where students will develop a speculative outlook on a complex issue that engages a design solution. The topic of focus may vary between years and even sections depending upon the expertise of the instructor, the industry partner and the topical nature of current events. Potential external project partners include industry, government, NGOs, or local not-for-profit groups. Students will explore the power of design to inspire and accelerate innovation. Required course for BDes majors. Prerequisite: FA/DESN 3001 3.00."
+        },
+        {
+            "dept": "desn",
+            "code": "3003",
+            "credit": 3.0,
+            "name": "Motion Design",
+            "prereqs": "",
+            "desc": "Focuses upon the visual grammar and language syntax of time-based communication and motion graphics and explores concepts and techniques involved in the integration of images, typography, digital video and audio into vibrant and persuasive communication environments. Prerequisite: Third-year or fourth-year standing in the BDes Program or permission of the Department of Design. Course credit exclusion: FA/YSDN 3009 3.00"
+        },
+        {
+            "dept": "desn",
+            "code": "3004",
+            "credit": 3.0,
+            "name": "Package Design",
+            "prereqs": "",
+            "desc": "This specialized studio course focuses on the principles, vocabulary and contemporary production of package design. An historical overview and current design strategies in the context of the retail environment will be investigated. Prerequisite: Third-year or fourth-year standing in the BDes Program or permission of the Department of Design. Course credit exclusion: FA/YSDN 3010 3.00."
+        },
+        {
+            "dept": "desn",
+            "code": "3005",
+            "credit": 3.0,
+            "name": "Design Inquiry",
+            "prereqs": "desn2001 desn2002",
+            "desc": "Introduces students to exploration in design through making with an emphasis on practicing design as a formal, aesthetic and cultural activity. Design methodology itself provides the basis for theme-based formal exploration. Theories grounded in contemporary design discourse are introduced and discussed in relation to work produced in the course. Required course for BDes majors. Prerequisites: FA/DESN 2001 3.00 and FA/DESN 2002 3.00."
+        },
+        {
+            "dept": "desn",
+            "code": "3012",
+            "credit": 3.0,
+            "name": "Generative Design",
+            "prereqs": "",
+            "desc": "Examines and explores the intersection of coding and creative thinking. By introducing the developing theories and models of computational frameworks, students acquire procedural literacy and become knowledgeable about parametric and/or iterative design methods employed in computational problem solving and algorithmic production of content. Prerequisite: Third- or fourth-year standing in the BDes Program."
+        },
+        {
+            "dept": "desn",
+            "code": "3022",
+            "credit": 3.0,
+            "name": "Information Mapping and Networks",
+            "prereqs": "desn2021",
+            "desc": "Builds on principles and methodologies introduced in Information Design for Understanding with a specific focus on visualization through mapping practices, ranging from conceptual approaches to practical applications using print/digital media. Prerequisite: FA/DESN 2021 3.00. Course credit exclusion: FA/YSDN 3012 3.00.  "
+        },
+        {
+            "dept": "desn",
+            "code": "3122",
+            "credit": 3.0,
+            "name": "Design Advocacy",
+            "prereqs": "",
+            "desc": "Focuses upon the contribution of design to public awareness of social issues in this design studies course. Students learn that responsible designers also have social responsibilities, and have the opportunity to be of service to marginalized populations. Students will be introduced to the role(s) of graphic agitation, interventions, major and alternative modes of public address and culture jamming. Course credit exclusion: FA/YSDN 3104 3.00.  "
+        },
+        {
+            "dept": "desn",
+            "code": "3201",
+            "credit": 3.0,
+            "name": "Design Placement",
+            "prereqs": "",
+            "desc": "Prepares students to launch their careers as designers, improve prospects for employment and to make a meaningful contribution to their profession in design.  Full-time participation is required for three weeks in an approved professional design environment. Required course for BDes major. Prerequisite: Third-year standing in the BDes Program. Course credit exclusion: FA/YSDN 3111 3.00   "
+        },
+        {
+            "dept": "desn",
+            "code": "4101",
+            "credit": 3.0,
+            "name": "East Asian Design History in Transnational Perspectives",
+            "prereqs": "",
+            "desc": "This blended course focuses on the history of modern East Asian design in the contemporary context of globalization in transnational perspectives. In East Asia, the development of &quot;modern&quot; design histories began with cultural translation through Western culture in the late nineteenth century. The term &quot;design&quot; itself raises complex questions that are currently under investigation, reflecting an interest in cultural translation and transnational studies within postcolonial studies. This course will explore how modern design in East Asia has been adapted, practiced, theorized and discussed as an interactive process between heritage-rich cultures of East Asia and modernism in the West. We will examine the terminology of &quot;design&quot; in the East Asian context, key designers and their works, movements, and definitions and developments-oriental modernity, nationalism and political ideology-within regional and international design frameworks. Through this examination, students will explore the significance of the connections between design artefacts and everyday life. This course will stimulate a transnational and interdisciplinary understanding of design in the age of globalization by reflecting on the past, present and future of East Asian design.\nOpen to non-majors. Integrated with GS/MDES 5411 3.0."
+        }
+    ]
+}

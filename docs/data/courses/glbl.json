@@ -1,0 +1,316 @@
+{
+    "courses": [
+        {
+            "dept": "glbl",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Global Political Studies",
+            "prereqs": "",
+            "desc": "This course introduces students to the historical contexts and junctures within which 'the global' has taken shape and been transformed. It is the introductory core course in Global Political Studies.\n"
+        },
+        {
+            "dept": "glbl",
+            "code": "2201",
+            "credit": 3.0,
+            "name": "Introduction to International Politics",
+            "prereqs": "",
+            "desc": "The study of the forces that structure, power, conflict, compromise and cooperation both within states and among them, emphasizing the diversities and inequalities, the violence, and the on-going struggles to achieve political community that mark the present era of 'globalization.'\nCourse credit exclusion: AP/POLS 2940 6.00"
+        },
+        {
+            "dept": "glbl",
+            "code": "2400",
+            "credit": 3.0,
+            "name": "Introduction to Comparative Politics",
+            "prereqs": "",
+            "desc": "An introduction to the comparative study of political systems, institutions, and processes. The second half of the course will examine in detail the government and politics of specific countries and regions.\nCourse credit exclusion: AP/POLS 2950 6.00"
+        },
+        {
+            "dept": "glbl",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Global Conflict and Security I",
+            "prereqs": "",
+            "desc": "This course acquaints students with issues surrounding conflict and security in global politics as it has evolved over the past three centuries. It examines the history and development of war from the medieval period to the era of total war, and the main currents of thought on issues of war and peace."
+        },
+        {
+            "dept": "glbl",
+            "code": "3230",
+            "credit": 3.0,
+            "name": "Global Issues in Foreign Policy",
+            "prereqs": "",
+            "desc": "Increasingly, problems such as environmental degradation, sustainable development, the uses and effects of technology in financial, production and communication systems, human rights abuses, refugee and population movements and militarization, require solutions that can only be realized within a system of multilateral cooperation. The purpose of this course is to introduce students to the foreign policy decision-making process in terms of these global issues."
+        },
+        {
+            "dept": "glbl",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Multilateralism I: The United Nations, Regional Organizations and International Law",
+            "prereqs": "",
+            "desc": "Multilateralism concerns the management of conflict and the building of cooperation among the variety of political entities and agents that enter the field of world politics and governance. This course provides students with a better understanding of the evolving role of international organization within the broader context of changing world politics and international law. Emphasis is placed on the historical development of international organization. Course credit exclusions: GL/ILST 3615 6.00, GL/POLS 3615 6.00."
+        },
+        {
+            "dept": "glbl",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "Multilateralism II: The Political Economy of International Organizations",
+            "prereqs": "pols3240",
+            "desc": "Multilateralism concerns the management of conflict and the building of cooperation among the variety of political entities and agents that enter the field of world politics and governance. The course builds upon the introduction provided in AP/POLS 3240 3.00, and examines actual structures, processes, activities and instruments of international organizations within and outside the UN Family. Prerequisite: AP/POLS 3240 3.00. Course credit exclusions: GL/ILST 3615 6.00, GL/POLS 3615 6.00.&quot;"
+        },
+        {
+            "dept": "glbl",
+            "code": "3270",
+            "credit": 3.0,
+            "name": "Global Political Economy I: Theory and Approaches",
+            "prereqs": "",
+            "desc": "Introduces theoretical perspectives and concepts of global political economy, and applies them in the identification of various substructures in the context of historical developments, especially since the 19th century. Course credit exclusions: AP/ECON 3190 3.00, AP/ECON 3199 3.00, \nPreviously offered as: AP/REI 3270 3.00."
+        },
+        {
+            "dept": "glbl",
+            "code": "3275",
+            "credit": 3.0,
+            "name": "Global Political Economy II: Issues and Problems Since 1945",
+            "prereqs": "",
+            "desc": "This course focuses on problems and issues relating to the post-1945 global political economy. Course credit exclusions: AP/ECON 3190 3.00,  AP/ECON 3199 3.00. \nPreviously offered as: AP/REI 3275 3.00."
+        },
+        {
+            "dept": "glbl",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Political Economy of Industrial Democracies",
+            "prereqs": "",
+            "desc": "This course provides an analysis of the political economy of the advanced capitalist democracies in the postwar period. The primary area of focus is Western Europe, but the subject matter may also include Japan and the USA. \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Course credit exclusions: AS/POLS 3400 3.00, AS/POLS 3700 3.00 (prior to Fall/Winter 2003-2004)."
+        },
+        {
+            "dept": "glbl",
+            "code": "3411",
+            "credit": 3.0,
+            "name": "The Political Economy of Newly-Industrialized Countries",
+            "prereqs": "",
+            "desc": "The course examines theoretical debates concerning development and political economy of the newly-industrialized countries. It provides a comparative and historical lens to analyze major political economic transformations in the global South in the post-World War II era. "
+        },
+        {
+            "dept": "glbl",
+            "code": "3520",
+            "credit": 3.0,
+            "name": "Governing the New Europe ",
+            "prereqs": "",
+            "desc": "Examines the government and politics of the new Europe. It considers structures and process of governance at the national, sub-national and supra-national level. The course examines different patterns of development and the changing nature of democracy in Europe. It draws on historical and current trends to consider similarities and differences in political and social institutions, political culture and economic forces. Course credit exclusion: GL/POLS 3210 6.00.\n"
+        },
+        {
+            "dept": "glbl",
+            "code": "3521",
+            "credit": 3.0,
+            "name": "European Union: Integration and Disintegration",
+            "prereqs": "",
+            "desc": "Examines the processes and policies of European integration. It pays particular attention to the advantages of closer integration on the European continent while also considering the difficulties of governing a multi-level and multi-national polity. Topics include current European issues such as the Euro and Euro-zone crisis, enlargement, democratic accountability as well as specific policy areas. PRIOR TO WINTER 2015: Course credit exclusion: AP/POLS 4515 3.00."
+        },
+        {
+            "dept": "glbl",
+            "code": "3540",
+            "credit": 3.0,
+            "name": "American Government and Politics",
+            "prereqs": "",
+            "desc": "An analysis of the American system via examination of recent political events. Attention is given to the composition of the socio-political elite, the nature of mass influence in public policies, and the operation of such major institutions as the congress, courts, presidency and political parties. Course credit exclusion: GL/POLS 3230 6.00."
+        },
+        {
+            "dept": "glbl",
+            "code": "3560",
+            "credit": 6.0,
+            "name": "The Global South: Politics, Policy and Development",
+            "prereqs": "",
+            "desc": "Explores various dimensions of the global south, with emphasis on political-economy and development. It examines the similarities and differences between various local experiences in the global south and explores their contemporary dynamic in a historical context."
+        },
+        {
+            "dept": "glbl",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Local to Global: City and Nation in the Age of Globalization",
+            "prereqs": "",
+            "desc": "Examines political experience in the era of globalization. Issues covered include work in the global city; immigration and racism; culture and media; women and the international division of labour, and; environmental sustainability."
+        },
+        {
+            "dept": "glbl",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Global Political Studies Honours Colloquium",
+            "prereqs": "",
+            "desc": "The colloquium is the global studies Honours BA seminar. The seminar meets on a weekly basis to discuss assigned readings about current issues and debates in global politics. Course credit exclusion: AP/POLS 4902 3.00. Prior to Fall 2020: POLS 4985 6.00 PRIOR TO FALL 2009: Course credit exclusions: AS/POLS 4900 6.00 Section B (prior to Fall/Winter 2006- 2007), AS/POLS 4902 3.00 and AS/POLS 4985\n6.00.\n\nPre-requisites for the course beginning in Fall 2020 are GLBL 1000 6.0, 2000 3.0, and 3000 3.0, with grandparenting for students enrolled in the program during the transition period between cohorts."
+        },
+        {
+            "dept": "glbl",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Peace Research",
+            "prereqs": "",
+            "desc": "Examines the rationale, assumptions and key issues of peace research, focusing on the possible contributions which peace research can bring to the processes of social change. The course begins with an examination of power, both within the contemporary strategic environment and within the discipline of peace research. A series of issues is then examined, including militarism, feminist perspectives on peace, eco-politics, etc."
+        },
+        {
+            "dept": "glbl",
+            "code": "4215",
+            "credit": 3.0,
+            "name": "Global Governance",
+            "prereqs": "",
+            "desc": "This course explores the ideas, institutions and practices of associated with global governance, with a particular emphasis on the forces shaping contemporary global politics (e.g. states, cultures, social movements) as well as the challenges and opportunities they may confront in influencing global structural change. "
+        },
+        {
+            "dept": "glbl",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Canadian Foreign Policy",
+            "prereqs": "",
+            "desc": "A research seminar focusing on such topics as Canada's role in NATO and NORAD, the Law of the Sea Conference, relations with the United States, North-South issues, international economic trends and domestic sources of foreign policy."
+        },
+        {
+            "dept": "glbl",
+            "code": "4265",
+            "credit": 3.0,
+            "name": "Human Rights and Democracy in Asia",
+            "prereqs": "",
+            "desc": "The course examines the international politics of human rights and democracy in the region as a window on theoretical and other debates over the universality, origins and purposes of these norms and related institutions in a context of globalization. \r\nCourse credit exclusions: None.  \r\n\r\nPrior TO FALL 2009: Course credit exclusions: AS/POLS 4265 3.00, AS/POLS 4705 3.00 (prior to Fall/Winter 2003-2004)."
+        },
+        {
+            "dept": "glbl",
+            "code": "4290",
+            "credit": 3.0,
+            "name": "Topics in International Political Economy",
+            "prereqs": "",
+            "desc": "An examination of the actors, processes and issues involved in the politics of international economic relations. \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Course credit exclusion: AS/POLS 4290 3.00."
+        },
+        {
+            "dept": "glbl",
+            "code": "4291",
+            "credit": 3.0,
+            "name": "Capital and Power in the Global Political Economy",
+            "prereqs": "",
+            "desc": "This course focuses on the connection between capital and power in the international political economy. The interaction between capital, labour, states and other social groups is examined, with particular attention paid global capital accumulation and state restructuring. "
+        },
+        {
+            "dept": "glbl",
+            "code": "4292",
+            "credit": 6.0,
+            "name": "Political Economy of Capital Accumulation",
+            "prereqs": "",
+            "desc": "Examines capital as the central power institution of capitalism. It traces the evolution of accumulation from conceptual, historical and empirical perspectives, while helping students develop their ability to engage in independent research."
+        },
+        {
+            "dept": "glbl",
+            "code": "4295",
+            "credit": 3.0,
+            "name": "Political Economy of Global Finance",
+            "prereqs": "pols3275",
+            "desc": "Examines the functioning and broader ramifications of international finance. Emphasis is put on how financial markets operate, their historical evolution and their larger role in the working of the global political economy. Prerequisite: AP/POLS 3275 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "glbl",
+            "code": "4402",
+            "credit": 3.0,
+            "name": "Protest Movements and Democracy",
+            "prereqs": "",
+            "desc": "This seminar surveys the critical understandings of democracy articulated by several mass protest movements throughout the world, including populism; women's movements; labour activism; and the politics of difference. Democracy is explored as a contested concept in various spatial and historical contexts."
+        },
+        {
+            "dept": "glbl",
+            "code": "4403",
+            "credit": 3.0,
+            "name": "Economic Unions and Globalization",
+            "prereqs": "",
+            "desc": "This course explores how economic globalization fosters the tendency to form regional sub-global economic and political entities. Topics include an analysis of the trajectories of a number of economic unions like the EU, NAFTA, Mercosur and others."
+        },
+        {
+            "dept": "glbl",
+            "code": "4406",
+            "credit": 3.0,
+            "name": "The Contemporary Politics of Work and Labour",
+            "prereqs": "",
+            "desc": "An analysis of the ability of late-capitalist political and economic institutions to restructure and project themselves anew, including more flexible forms of production and new political alliances. Forces shaping the contemporary politics of work and labour are examined, as well as the restructuring of waged work, and the altering spatial patterns of production."
+        },
+        {
+            "dept": "glbl",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Social Justice and Political Activists",
+            "prereqs": "",
+            "desc": "This seminar surveys alternative philosophical terrains for discussing social justice and past approaches to constructing a better world. Its main focus is social justice in modern capitalism - not just as a matter of alternative policies, but of alternative politics."
+        },
+        {
+            "dept": "glbl",
+            "code": "4440",
+            "credit": 3.0,
+            "name": "Global Governance &amp; Politics in Comparative Perspective",
+            "prereqs": "",
+            "desc": "The global order is undergoing fundamental changes, giving rise to increasingly complex problems of international organization and global governance - including international economic inequality and instability, conflict and peace-building, global environmental change, international development assistance, and humanitarian crises and intervention.  How are these problems addressed at the global level? Are the mechanisms for addressing these challenges effective or just?  The course addresses the above questions, giving focused attention to two dimensions of global change, the rising powers, and global governance."
+        },
+        {
+            "dept": "glbl",
+            "code": "4450",
+            "credit": 3.0,
+            "name": "Political Economy and Political Power",
+            "prereqs": "",
+            "desc": "Offers a critical understanding of political power. It discusses the meaning and origin of power, its intertwining with the social division of labor, its relationship to economic and ideological power. Further, the course offers a critical analysis of the state, political processes, leadership, and the establishment of consensus. It then discusses the conditions and implications of democracy.\r\n\r\n\r\n\r\n\r\n"
+        },
+        {
+            "dept": "glbl",
+            "code": "4470",
+            "credit": 3.0,
+            "name": "Working Class Politics in Capitalist Democracies",
+            "prereqs": "",
+            "desc": "This course seeks to understand the current parameters of working class politics through a theoretical and historical examination of the relationship between parties, trade unions and the democratic capitalist state."
+        },
+        {
+            "dept": "glbl",
+            "code": "4490",
+            "credit": 3.0,
+            "name": "Inequality, Development and the Global South",
+            "prereqs": "",
+            "desc": "This seminar examines diverse approaches to understanding the challenges, political and economic, that confront &quot;the South&quot; within the global capitalist system, emphasizing issues of &quot;underdevelopment&quot;, poverty and resistance, and making comparisons between diverse states, movements and development strategies across regions (Africa, South and East Asia, the Middle East and Latin America)."
+        },
+        {
+            "dept": "glbl",
+            "code": "4517",
+            "credit": 3.0,
+            "name": "Debates in Contemporary European Union Politics",
+            "prereqs": "pols3520",
+            "desc": "This course assumes students have a basic knowledge of the EU and its institutions. The course considers how multi-level structures of governance and multiple actors are involved in compromise, negotiation and policy making in Europe. This course uses debates, simulations and other interactive tools to address the complex issues facing the European Union and its member states. Prerequisites: AP/POLS 3520 3.00 or the permission of the Instructor."
+        },
+        {
+            "dept": "glbl",
+            "code": "4546",
+            "credit": 3.0,
+            "name": "Politics, Society and Democracy in the United States",
+            "prereqs": "",
+            "desc": "Explores the disjunction between US democratic ideals and practices within their political-economic context. Social, economic and ethnic inequalities are scrutinized in light of the strong symbolism provided by the US constitution and democratic institutions."
+        },
+        {
+            "dept": "glbl",
+            "code": "4555",
+            "credit": 3.0,
+            "name": "Latin American Development",
+            "prereqs": "",
+            "desc": "An examination of the processes and issues connected with development in Latin America including the impact of political economy on culture and on women."
+        },
+        {
+            "dept": "glbl",
+            "code": "4575",
+            "credit": 3.0,
+            "name": "The Politics of Southern Africa",
+            "prereqs": "",
+            "desc": "Examines South Africa's racial capitalist system and resistance to it, focusing on the present transition to a more equitable political and economic system. The course also explores the current situation in other southern Africa countries (Angola, Mozambique, Namibia, Zimbabwe)."
+        },
+        {
+            "dept": "glbl",
+            "code": "4595",
+            "credit": 3.0,
+            "name": "Asia in the New Global Order",
+            "prereqs": "",
+            "desc": "Using East, Southeast, and South Asia as its focus, this course addresses questions relating to economic development, political change and security in the emerging global order. It stimulates interest in politics and international relations of countries in these Asian sub-regions."
+        },
+        {
+            "dept": "glbl",
+            "code": "4610",
+            "credit": 3.0,
+            "name": "States, Societies &amp; Information  Technology",
+            "prereqs": "",
+            "desc": "Offers a critical understanding of the dynamic between political power and information and communication technologies (ICTs). It discusses the role of information technologies in the formation and development of state power and in the development of civil society and its various communities and institutions. Of special concern is the tension between states and societies and the role of ICTs in that tension."
+        }
+    ]
+}

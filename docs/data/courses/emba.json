@@ -1,0 +1,372 @@
+{
+    "courses": [
+        {
+            "dept": "emba",
+            "code": "5050",
+            "credit": 2.0,
+            "name": "Competitive Strategy",
+            "prereqs": "",
+            "desc": "Explores the economic principles of business strategy and the relationship between business obligations and the values of the broader social community. The course develops analytic frameworks that incorporate the multiple dimensions of strategic leadership in organizations. Emphasis is placed both on market-related objectives and constraints faced by the organization, and on the relationships that organizations have with the communities with which they are embedded."
+        },
+        {
+            "dept": "emba",
+            "code": "5060",
+            "credit": 2.0,
+            "name": "Quantitative Methods for Business",
+            "prereqs": "",
+            "desc": "This course is about quantitative methods for business and management applications. It will familiarize participants with basic mathematical tools, such as Differential Calculus and Statistics by applying them to economic problems and strategic decision making. Participants will also learn how to use Microsoft Excel for calculation, illustration and advanced applications.\n"
+        },
+        {
+            "dept": "emba",
+            "code": "5140",
+            "credit": 2.0,
+            "name": "Managerial Decision Analysis",
+            "prereqs": "",
+            "desc": "Explores the languages of statistics with a focus on teaching students how to become knowledgeable consumers of statistical reports, effective managers of those doing the statistical analysis and confident critics of statistics done poorly. Regression analysis as a tool for understanding relationships of various types is also introduced."
+        },
+        {
+            "dept": "emba",
+            "code": "5160",
+            "credit": 2.0,
+            "name": "Financial Reporting Systems",
+            "prereqs": "",
+            "desc": "Examines the role of financial accounting information from the perspective of users and decision-makers. Emphasis is placed on the choices that the preparers of accounting information make and how these choices effect what is presented to decision-makers and ultimately the decisions they make. Cases are used to emphasize the impact that these choices can have on financial reporting and decisions."
+        },
+        {
+            "dept": "emba",
+            "code": "5180",
+            "credit": 2.0,
+            "name": "Marketing",
+            "prereqs": "",
+            "desc": "This course helps students to understand contemporary marketing practices based on traditional transactional perspectives versus contemporary relationship and network perspectives.  Key concepts and controversies in marketing are explored by comparing practices in contrasting contexts such as business-to-consumer versus business-to- business markets. The impacts of globalization, technological developments, socio-cultural changes and high velocity competition on the emergence and implementation of marketing strategy are examined. "
+        },
+        {
+            "dept": "emba",
+            "code": "5250",
+            "credit": 2.0,
+            "name": "Leadership and Organizations",
+            "prereqs": "",
+            "desc": "Explores individual and group behaviour in organizations with a focus on how to create knowledgeable, flexible and resilient work units that can respond to strategic level change in organizations. The focus on individual and team-based decision making, communications and commitment within a context of diversity is intended to help students improve organizational effectiveness through attraction and retention of the best workers."
+        },
+        {
+            "dept": "emba",
+            "code": "6010",
+            "credit": 2.0,
+            "name": "The World Economy",
+            "prereqs": "",
+            "desc": "The world economy is undergoing a period of very rapid change. In this course we study the most important business regions in the world, including the US, Europe, Japan, China, India, Russia, Eastern Europe, Latin America, and Africa to provide students with a working knowledge of the economic drivers, challenges and opportunities that are present in these regions. The course also discusses the performance of equity and bond markets and the economic forces underlying oil and other commodities."
+        },
+        {
+            "dept": "emba",
+            "code": "6015",
+            "credit": 2.0,
+            "name": "The China Consumer Market",
+            "prereqs": "",
+            "desc": "This course is designed to discuss various issues related to the Chinese consumer market and the strategies that successful Chinese companies employ to leverage this market. It will cover the history and the characteristics of the Chinese market and discuss the various strategies that enabled companies to succeed in this market."
+        },
+        {
+            "dept": "emba",
+            "code": "6035",
+            "credit": 4.0,
+            "name": "Mergers &amp; Acquisitions and Other Reorganization Methods",
+            "prereqs": "",
+            "desc": "The course involves the analysis of corporate restructuring strategies including mergers, acquisitions, and takeovers focusing on fundamental concepts of valuation and analytical tools of corporate finance related to restructuring. The course integrates the corporate governance and agency dimensions, financial and strategic management aspects, and legal and accounting considerations into a unified framework, applying theoretical approaches with the case study method."
+        },
+        {
+            "dept": "emba",
+            "code": "6065",
+            "credit": 2.0,
+            "name": "Political Economy \u0096 A Global Perspective",
+            "prereqs": "",
+            "desc": "This course is designed to discuss the relationship between China and other countries/regions from both the cultural perspective and political perspective. We will cover the history of the relationship between China and these countries/regions and discuss impacts on world dynamics."
+        },
+        {
+            "dept": "emba",
+            "code": "6075",
+            "credit": 0.0,
+            "name": "Introduction to the Authentic Leadership Journey",
+            "prereqs": "",
+            "desc": "This course, offered in Residence Week, introduces the students to various styles of leadership and invites them to consider where on the spectrum they themselves are situated. Its goals are for the student to understand how leaders are born or made and share with the class their experience with leadership. It is a prerequisite for the Authentic Leadership Journey course."
+        },
+        {
+            "dept": "emba",
+            "code": "6085",
+            "credit": 2.0,
+            "name": "Authentic Leadership Journey",
+            "prereqs": "emba6075",
+            "desc": "This course challenges students to reflect on what type of leader they would like to be by confronting them with multiple leaders from different institutional environments and varied organizations. The course spans the whole duration of the program and asks students to develop, question and modify a leadership style that represents their own ambitions while being adaptable to organizational realities.\r\nPrerequisite: SB/EMBA 6075 0.00 "
+        },
+        {
+            "dept": "emba",
+            "code": "6110",
+            "credit": 2.0,
+            "name": "Strategic Decisions in Operations",
+            "prereqs": "",
+            "desc": "This course focuses on strategic operational decisions made within a supply chain. These include decisions related to the network design of the supply chain including sourcing. The learning objectives of this course are to understand how supply chain design and planning decisions impact the performance of the firm as well as the entire supply chain. The key will be to understand the link between supply chain structures and financial performance in a firm or supply chain. The course is structured to discuss a variety of concepts illustrated through cases. "
+        },
+        {
+            "dept": "emba",
+            "code": "6115",
+            "credit": 2.0,
+            "name": "Technology Strategy \u0096 FinTech and Big Data Analytics",
+            "prereqs": "",
+            "desc": "This course aims to provide students with a foundation on how new technologies interplay with each other to create new business models. The course focuses especially on the impact of big data and business analytics, fintech and blockchain, and cybersecurity."
+        },
+        {
+            "dept": "emba",
+            "code": "6125",
+            "credit": 2.0,
+            "name": "Entrepreneurial Selling: How Revenue-Responsible Leaders Build Amazing Companies",
+            "prereqs": "",
+            "desc": "This course is designed to help leaders build amazing companies by adopting and embedding the habits of high-performing entrepreneurs and sales executives. Participants will learn skills of highperformance and practice building a sales culture to help them and their teams activate the habits that are shown to grow revenue."
+        },
+        {
+            "dept": "emba",
+            "code": "6170",
+            "credit": 2.0,
+            "name": "Marketing Analytics",
+            "prereqs": "",
+            "desc": "Examines how various retail problems can be tackled with analytics, focusing in particular on pricing and promotion, but also tackling problems in retail advertising and unstructured text analysis. Participants will be introduced to analytic techniques that have been adopted by the best-in-class firms and have an opportunity to use state-of-the-art commercial software."
+        },
+        {
+            "dept": "emba",
+            "code": "6185",
+            "credit": 2.0,
+            "name": "Leading the Strategic Change Process",
+            "prereqs": "",
+            "desc": "This course will help students understand what goes wrong when trying to translate strategies into reality and how to significantly improve the odds of success when leading strategic change. It brings together a broad set of skills that all managers will have to employ at some point in their careers, draws on different management disciplines, including strategy, operations, managerial control, leadership and change management, and uses case studies, self-application, arts-based training and a simulation."
+        },
+        {
+            "dept": "emba",
+            "code": "6190",
+            "credit": 4.0,
+            "name": "New Venture Design",
+            "prereqs": "",
+            "desc": "The objectives for this course are to enable participants to practice thinking and acting entrepreneurially, and gain confidence doing so. Participants will engage in the venture development process, identify opportunities, develop business concepts and validate them, ideally enabling them to present their venture projects within their own organizations or to pitch them to potential resource providers."
+        },
+        {
+            "dept": "emba",
+            "code": "6220",
+            "credit": 2.0,
+            "name": "Managing Globally",
+            "prereqs": "",
+            "desc": "The purpose of this course is to familiarize participants with the challenges faced by global managers and identify ways in which they can be mastered successfully.  The course is unique in that it uses historical case studies.  This does not mean that it is a course about history per se; historical cases are used because they can provide unique insights. The cases cover a wide range of time periods, geographic locations and sectors. While not the primary purpose of the course, the comparison with global business in earlier periods will also help identify the specific features of the current global economy. "
+        },
+        {
+            "dept": "emba",
+            "code": "6235",
+            "credit": 4.0,
+            "name": "Startup in the making - An entrepreneur's and VC's perspectives",
+            "prereqs": "",
+            "desc": "The purpose of this course is to examine how to build and evaluate startups by utilizing both an entrepreneur's and a Venture Capital's perspectives. The main goal will be to attain a broad understanding of the venture capital and the startup ecosystem and how both VCs and entrepreneurs look to create long lasting value."
+        },
+        {
+            "dept": "emba",
+            "code": "6260",
+            "credit": 4.0,
+            "name": "Global Corporate Restructuring",
+            "prereqs": "",
+            "desc": "This is a finance course, which deals with risks and rewards in privately held firms in countries around the world. It will provide entrepreneurial managers, family firms, closely held firms and those who finance them with the necessary tools to design and execute ventures that effectively match opportunities and resources in an international context."
+        },
+        {
+            "dept": "emba",
+            "code": "6275",
+            "credit": 2.0,
+            "name": "Doing 'Magic' with Big Data",
+            "prereqs": "",
+            "desc": "This course will teach participants how to make intelligent, skin-in-the-game decisions from data, learn and develop in a world dominated by uncertainty, while leveraging access to data and technology. Each of its 7 units will focus on one profession that relies on data, their goals, the analytics methods they rely on and the data structures they use."
+        },
+        {
+            "dept": "emba",
+            "code": "6280",
+            "credit": 2.0,
+            "name": "Visualization for Persuasion",
+            "prereqs": "",
+            "desc": "Provides expertise in the principles and cutting-edge methods for effective data visualization, as well as a practical toolkit for conveying your ideas in ways that are convincing, catchy, and contagious. Based on the latest insights cognitive science, computer science, and graphic design, it will use interactive exercises and hands-on experience helping participants to present data-based evidence with impact."
+        },
+        {
+            "dept": "emba",
+            "code": "6310",
+            "credit": 2.0,
+            "name": "Leading High Impact Teams",
+            "prereqs": "",
+            "desc": "Examines the design, management, and leadership of teams in organizational settings. The focus is on the interpersonal processes and structural characteristics that influence the effectiveness of teams, the dynamics of intra-team relationships, and sharing of knowledge and information in teams. The purpose of this course is to understand the theory and processes of group and team behavior so that leaders can successfully work with teams. Students who take advantage of everything this course."
+        },
+        {
+            "dept": "emba",
+            "code": "6320",
+            "credit": 2.0,
+            "name": "Value Investing",
+            "prereqs": "",
+            "desc": "This course will systematically present the fundamental tenets of value investing: search, valuation, and the construction of a portfolio, focusing on the equity market and applying concepts from accounting, microeconomics and corporate finance. Addressed at those dealing with investors or investing themselves, it will introduce the styles of famous value investors and discuss the basic similarities and differences between them."
+        },
+        {
+            "dept": "emba",
+            "code": "6335",
+            "credit": 2.0,
+            "name": "Leading Organizational Transformation",
+            "prereqs": "",
+            "desc": "This course takes the perspective of chief executives who operate at \u0093height and scale.\u0094 It explores management issues when leading thousands of employees and hundreds of millions in revenue. How do they lead when they are only one person and can\u0092t \u0093do\u0094 the work of the organization themselves, and can only steer the course of those who do?"
+        },
+        {
+            "dept": "emba",
+            "code": "6340",
+            "credit": 2.0,
+            "name": "Strategic Crisis Management",
+            "prereqs": "",
+            "desc": "Strategic Crisis Management provides managers with conceptual tools to successfully master high-pressure, complex crisis scenarios.  Topics include issue and media management, dealing with activists and interest groups, and surviving legal, legislative, and regulatory challenges."
+        },
+        {
+            "dept": "emba",
+            "code": "6350",
+            "credit": 2.0,
+            "name": "Creating and Managing Strategic Alliances",
+            "prereqs": "",
+            "desc": "Examines the theory and practice of creating and managing different types of strategic alliances, such as joint ventures,\r\nlicensing agreements, buyer-supplier partnerships, and consortia. It enables students to better understand the costs and benefits of strategic alliances compared to other strategies such as internal development or M&amp;A, design alliances, and avoid potential problems and complications in managing them."
+        },
+        {
+            "dept": "emba",
+            "code": "6370",
+            "credit": 2.0,
+            "name": "Strategic Brand Management",
+            "prereqs": "",
+            "desc": "The strategic brand management course is focused on building skills at creating and managing strong brands. The course builds on the material covered in earlier courses in Marketing Management and Strategic Marketing. The course integrates information from various functional areas including finance, strategy and operations since every function is involved in brand management to some degree."
+        },
+        {
+            "dept": "emba",
+            "code": "6390",
+            "credit": 2.0,
+            "name": "Advertising Strategy",
+            "prereqs": "",
+            "desc": "Provides a balanced analysis of advertising strategy and execution. The first half focuses on selecting an attractive target for advertsing and developing an effective brand position. This section stresses the importance of customer insight as a basis of creating coherence between target and position. Students examine in depth how planning is made operational in terms of advertising and other communication devices. The remainder of the course examines the execution of the strategy. We also examine ways to evaluate the likely impact of ad copy and review approaches to measuring the effectiveness of advertising as a vehicle for enhancing the impact of ad campaigns.\r\n\r\nThe course examines approaches to development, evaluating and managing advertising strategy. The course follows the structure of an advertising campaign, beginning with targeting and positioning, followed by media analysis and creative strategy implementation. The course concludes with a discussion of strategies for managing client-agency relations.\r\n\r\nPrerequisites: Students must have completed all EMBA Foundation Courses."
+        },
+        {
+            "dept": "emba",
+            "code": "6400",
+            "credit": 2.0,
+            "name": "Negotiations",
+            "prereqs": "",
+            "desc": "In this course students develop negotiation and dispute resolution skills through simulations set in dyads, groups, and multilateral contexts within and between organizations and across cultures. This course focuses on the diagnosis of organizational conflicts, and offers strategies for addressing their underlying causes through development of negotiation skills. Students engage in, and receive feedback on their performance in, a variety of experiential exercises beginning with simple two-party disputes and moving to complex multi-party conflicts. The class is team-taught in order to maximize opportunities for feedback and discussion."
+        },
+        {
+            "dept": "emba",
+            "code": "6455",
+            "credit": 2.0,
+            "name": "Responsible Business Leadership",
+            "prereqs": "",
+            "desc": "This course introduces students to five fundamental strategies companies use to respond to growing pressures to adopt more responsible business practices. Through these strategies, students will develop an understanding of the major causes that leave companies at odds with society and how leadership in responsible business requires graduates to challenge the fundamental institutions that guide industrial activity."
+        },
+        {
+            "dept": "emba",
+            "code": "6500",
+            "credit": 2.0,
+            "name": "Economics of Competition",
+            "prereqs": "",
+            "desc": "This course studies the economics of competition within individual industries. The emphasis is on diagnosing the determinants of an industry's structure and formulating a rational, competitive strategy for coping with that structure. Special attention is given to problems of entry, exit, and pricing."
+        },
+        {
+            "dept": "emba",
+            "code": "6515",
+            "credit": 2.0,
+            "name": "Social Dynamics and Networks",
+            "prereqs": "",
+            "desc": "Explores cutting edge research on the relationship between individual choices and collective outcomes with the goal of improving students' ability to manage and lead organizations in today's complex and highly interconnected world. The course employs simple yet powerful interactive models and hands-on exercises to develop understanding of both the theory and applications of social dynamics. Topics covered will include social networks, social media, tipping points, contagion, herd behavior, the wisdom of crowds, and prediction markets."
+        },
+        {
+            "dept": "emba",
+            "code": "6520",
+            "credit": 2.0,
+            "name": "Financial Instruments and Capital Markets",
+            "prereqs": "",
+            "desc": "Examines the various types of primary and derivative financial instruments and the markets in which they are traded. A major focus of the course is on becoming familiar with the structure of the instruments, as well as how they can be used to control risk. In addition to the technical and descriptive content, current corporate governance and best practices will be examined, by using various case studies."
+        },
+        {
+            "dept": "emba",
+            "code": "6525",
+            "credit": 2.0,
+            "name": "FinTech Strategy: Innovations in Financial Services",
+            "prereqs": "",
+            "desc": "This course will examine the opportunities arising from innovation in financial services markets for both conventional financial institutions and new non-financial institutions. It will use economic frameworks to distinguish sustainable from non-sustainable initiatives in so-called FinTech and to assess the viability of partnerships and other win-win strategies both the established financial institutions and the entrants can employ."
+        },
+        {
+            "dept": "emba",
+            "code": "6540",
+            "credit": 2.0,
+            "name": "Designing Brand Experiences (Blended Course)",
+            "prereqs": "",
+            "desc": "Focusing on the branded corporation as a value creating system, this course aims to develop (a) an integrative managerial approach and mind-set for designing compelling and distinctive brand experiences in today\u0092s hyper-competitive marketplace, and (b) the knowledge and\r\nperspective necessary to lead, facilitate and support the design and implementation of desired brand experiences and to continuously enhance them over time. \r\n"
+        },
+        {
+            "dept": "emba",
+            "code": "6560",
+            "credit": 4.0,
+            "name": "Strategies for Growth",
+            "prereqs": "",
+            "desc": "This course examines the strategic fundamentals underpinning profitable growth, focusing on organizations that are beyond the initial start-up stage and are explicitly looking to expand their business. The course connects frameworks from economics and strategy to the experiences of firms attempting growth initiatives (including first person accounts) to illustrate why some businesses can scale successfully while others struggle."
+        },
+        {
+            "dept": "emba",
+            "code": "6570",
+            "credit": 2.0,
+            "name": "Biases, Forecasts and Deep Uncertainty",
+            "prereqs": "",
+            "desc": "This course focuses on the challenges of making good decisions in the presence of deep uncertainty, where past experiences are of questionable value and judgements are clouded by behavioural biases, leading to frequent failures. The course provides frameworks to identify these biases and shows how tools of cognitive psychology and probability can effectively mitigate them and improve decision-making processes."
+        },
+        {
+            "dept": "emba",
+            "code": "6600",
+            "credit": 2.0,
+            "name": "Human and Machine Intelligence: Creating Business Value Through Artificial Intelligence",
+            "prereqs": "",
+            "desc": "This course covers cutting edge research on machine-learning and artificial intelligence and its applications for business leaders. Using hands-on cases and applications it shows how to use a critical set of machine learning decision tools, including natural language processing, sentiment analysis, and pattern recognition, to discover new competitive strategies, turn raw numbers into convincing stories, and make less biased judgments."
+        },
+        {
+            "dept": "emba",
+            "code": "6620",
+            "credit": 2.0,
+            "name": "Healthcare Strategy",
+            "prereqs": "",
+            "desc": "This course will focus on strategic principles in a variety of healthcare settings. In so doing, participants will become acquainted with several US health sectors, regulatory oversight of these sectors, and major policy issues. Sustainable strategies given the current and future industry structures, conduct, and government regulations, and the recent US healthcare reform will also be covered."
+        },
+        {
+            "dept": "emba",
+            "code": "6630",
+            "credit": 2.0,
+            "name": "Entrepreneurial Finance and Venture Capital",
+            "prereqs": "",
+            "desc": " This course will focus on financing issues facing new, young, high growth business ventures. The course will provide an in depth exploration of how startup ventures are funded, evaluated and valued by investors. We will explore business models and business plans, the major types of risks faced by start-up ventures and considered by investors, valuation methods and eventual exit. Further, we will explore tools and approaches used when selling an idea to potential investors. The Venture Capital industry -- its structure, common terminology and usage, as well as its contracting environment -- will be explored in detail. "
+        },
+        {
+            "dept": "emba",
+            "code": "6650",
+            "credit": 2.0,
+            "name": "Intellectual Capital Management",
+            "prereqs": "",
+            "desc": "This course covers the broad agenda of using intellectual capital for competitive advantage.  In the knowledge-intensive economy, intellectual assets like human capital, intellectual property, brands, and trademarks are becoming an increasingly important proportion of a firm's total wealth. And yet, most firms do a poor job of managing intellectual capital strategically.  In this course, we adopt a &quot;lifecycle&quot; approach to the management of an intellectual asset.  This lifecycle covers the creation of the intellectual asset, the codification of the asset in the form of intellectual property (IP), the valuation of intellectual assets, the protection of intellectual assets, and leveraging of intellectual assets."
+        },
+        {
+            "dept": "emba",
+            "code": "6700",
+            "credit": 2.0,
+            "name": "Deal-Making in China and Asia",
+            "prereqs": "",
+            "desc": "This course focuses on formulating and applying strategies in a real world, transaction by transaction context, in the Asia Pacific region.  Among the principal strategies examined are: 1) negotiating strategies; 2) entry strategies; 3) pricing strategies; and 4) strategies for dealing with governments and state-owned enterprises.  The course is taught from the perspective of management decision-making.  In many cases, the participant is placed at the negotiating table and has the opportunity to create appropriate deal strategies.  Principal objective include: 1) offering the participant through the reading materials and handouts a comprehensive overview of doing business in the Asia Pacific region; and 2) offering the participant, through a series of short-form cases (&quot;caselets&quot;), the opportunity to strategize and be the decision maker in practical, &quot;real world&quot; business situations throughout the Asia Pacific region, which illustrate successful and unsuccessful management strategies in Asia."
+        },
+        {
+            "dept": "emba",
+            "code": "6840",
+            "credit": 2.0,
+            "name": "International Finance",
+            "prereqs": "",
+            "desc": "The course provides a working knowledge of international instruments, markets and institutions. Topics include the nature of foreign exchange risk, the determinants of exchange rates and interest rates, the management of foreign exchange risk with forwards and options, the evaluation of international investments, exchange rate forecasting and the anatomy of currency crises."
+        },
+        {
+            "dept": "emba",
+            "code": "6850",
+            "credit": 2.0,
+            "name": "Investment Banks, Hedge Funds and Private Equity",
+            "prereqs": "",
+            "desc": "Wall Street, Hedge Funds and LBO Funds focuses on the key role that investment banks, LBO funds and hedge funds play in the M&amp;A and corporate finance markets and their influence on corporate decision-making and governance. Competition between investment banks, LBO funds and hedge funds will be considered in the context of resulting threats and opportunities for corporations. "
+        }
+    ]
+}

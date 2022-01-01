@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "sela",
+            "code": "6118",
+            "credit": 3.0,
+            "name": "Foundations of Securities Law",
+            "prereqs": "",
+            "desc": "This course is required for students in the Securities Law LLM program who have not had practical or regulatory training as securities lawyers in Canada. This course is intended to provide a strong foundation for the advanced study of securities regulation and capital markets in Canada and elsewhere. "
+        },
+        {
+            "dept": "sela",
+            "code": "6119",
+            "credit": 3.0,
+            "name": "Securities Law - Theoretical Approaches",
+            "prereqs": "",
+            "desc": "This course is intended to provide a strong theoretical foundation for the advanced study of securities regulation and capital markets in Canada and elsewhere. "
+        },
+        {
+            "dept": "sela",
+            "code": "6741",
+            "credit": 6.0,
+            "name": "Products, Transactions &amp; Legal Structures",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

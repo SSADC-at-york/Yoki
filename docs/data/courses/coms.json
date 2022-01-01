@@ -1,0 +1,276 @@
+{
+    "courses": [
+        {
+            "dept": "coms",
+            "code": "1100",
+            "credit": 3.0,
+            "name": "Methods in Communication Research",
+            "prereqs": "",
+            "desc": "This course introduces students to the major research paradigms and research methodologies in the field of communication studies. Corequisite: GL/COMS 1000 6.00. "
+        },
+        {
+            "dept": "coms",
+            "code": "1100",
+            "credit": 3.0,
+            "name": "M\u00e9thodes de recherche en communications ",
+            "prereqs": "",
+            "desc": "Ce cours introduit les \u00e9tudiants aux principaux paradigmes de recherches et de m\u00e9thodologies dans le champ des \u00e9tudes en communication. Condition concomitante : GL/COMS 1000 6.00. "
+        },
+        {
+            "dept": "coms",
+            "code": "1910",
+            "credit": 6.0,
+            "name": "Introduction to Communication Studies",
+            "prereqs": "",
+            "desc": "This course introduces the main sub-fields in communication studies and the approaches to studying them from the perspective of the individual, organizations, and society. \r\nCorequisite: GL/COMS 1100 3.00. Course credit exclusion: GL/COMS 1000 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "1910",
+            "credit": 6.0,
+            "name": "Introduction aux \u00e9tudes en communication",
+            "prereqs": "",
+            "desc": "Ce cours initie les \u00e9tudiants aux principaux sous-domaines des \u00e9tudes en communications et aux m\u00e9thodes employ\u00e9es pour l'analyse de ph\u00e9nom\u00e8nes individuels, organisationnels et sociaux. Condition concomitante : GL/COMS 1100 3.00. Cours incompatible : GL/COMS 1000 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Social Media, Marketing and Advertising",
+            "prereqs": "",
+            "desc": "This course introduces students to the study of interactive, mobile and immediate communication forms (Twitter, YouTube, blogs, etc.) in the service of marketing and the production of promotional material."
+        },
+        {
+            "dept": "coms",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Les m\u00e9dias sociaux, la publicit\u00e9 et le marketing",
+            "prereqs": "",
+            "desc": "Ce cours initie les \u00e9tudiants \u00e0 l'\u00e9tude des modes de communication interactifs, mobiles et interm\u00e9diaires (Twitter, Youtube, blogs, etc.) au service du marketing et de la production de mat\u00e9riel de promotion. "
+        },
+        {
+            "dept": "coms",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "Pixel Power: Digital Games as Communications",
+            "prereqs": "coms1910 en1910",
+            "desc": "This course introduces students to key theories for and approaches to the study of digital games. We will consider the role and impact of games in communications by exploring their play, communities, production, and growing industries of streaming and eSports.\nPrerequisite: GL/COMS 1910 6.00 or GL/EN 1910 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "Le pouvoir des pixels : jeux et communications",
+            "prereqs": "",
+            "desc": "Ce cours pr\u00e9sente les principales th\u00e9ories et approches pour l'\u00e9tude des jeux num\u00e9riques. Nous examinerons le r\u00f4le et l'impact des jeux dans les communications en explorant leurs joueurs, leurs communaut\u00e9s, leur production ainsi que les industries de streaming et des eSports.\nCondition pr\u00e9alable : GL/COMS 1910 6.00 ou GL/EN 1910 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Au-del\u00e0 des mots: communications, langages et m\u00e9dias",
+            "prereqs": "",
+            "desc": "Ce cours analyse la construction des cultures et discours organisationnels par le biais de la langue et de diff\u00e9rents m\u00e9dias. Il se fonde sur plusieurs cadres th\u00e9oriques. "
+        },
+        {
+            "dept": "coms",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Computer tools and applications for communication ",
+            "prereqs": "",
+            "desc": "This course teaches computer applications used in communication for an understanding of computer and Internet architecture, use of databases for communication, advanced tools in office and collaborative work, with a critical eye to issues like security, accessibility and multi-platform communication. "
+        },
+        {
+            "dept": "coms",
+            "code": "2205",
+            "credit": 3.0,
+            "name": "Creating and Promoting Web Content ",
+            "prereqs": "coms2200",
+            "desc": "This course teaches tools and knowledge necessary to create, host and promote a web site and its content, with the aim to develop skills to better bridge human needs and technological solutions. Prerequisite: GL/COMS 2200 3.00."
+        },
+        {
+            "dept": "coms",
+            "code": "2902",
+            "credit": 3.0,
+            "name": "Idea, Opinion, Argument: Rhetoric for Academic Settings",
+            "prereqs": "",
+            "desc": "This course introduces students to the theory and practice of effective persuasion in academic discourse. Focusing on written forms of persuasion from various fields, students will gain argumentative expertise by understanding the history and written techniques of rhetorical communication.\r\nCourse credit exclusion:  AP/PRWR 2007 3.00."
+        },
+        {
+            "dept": "coms",
+            "code": "3201",
+            "credit": 3.0,
+            "name": "Beyond Borders and Bridges: Transnational Communications",
+            "prereqs": "",
+            "desc": "This course addresses implications related to communications, media and language in the context of globalization and increased international interactions. Issues of power relationships as well as theoretical perspectives will be the focus of this course."
+        },
+        {
+            "dept": "coms",
+            "code": "3202",
+            "credit": 3.0,
+            "name": "The Hitchhiker's Guide to Technoculture: Digital Discourse and Design",
+            "prereqs": "",
+            "desc": "This course looks at the delivery and reception of digital communication, focusing on effective visual and interaction design. A particular interest will be given to the ethical and cultural dimensions of design practices. "
+        },
+        {
+            "dept": "coms",
+            "code": "3203",
+            "credit": 3.0,
+            "name": "Enjeux en communication interculturelle",
+            "prereqs": "",
+            "desc": "Ce cours \u00e9tudie l'importance de la culture dans notre vie quotidienne, et examine les rapports entre la culture et les processus de communication. Le cours fournit des aper\u00e7us th\u00e9oriques, m\u00e9thodologiques et pratiques dans la communication interculturelle."
+        },
+        {
+            "dept": "coms",
+            "code": "3203",
+            "credit": 3.0,
+            "name": "Practices in Intercultural Communications ",
+            "prereqs": "",
+            "desc": "This course focuses on the importance of culture in our everyday lives, and the ways in which culture interrelates with and affects communication processes. The course provides theoretical, methodological and practical insights into intercultural communication. "
+        },
+        {
+            "dept": "coms",
+            "code": "3208",
+            "credit": 3.0,
+            "name": "Can Theory Save The Planet? Emergent Ideas in Communications 1",
+            "prereqs": "coms1910 coms1000",
+            "desc": "This is the first of two courses offering an overview of new ideas in communications and media studies. It examines the\r\nrelevance of theories today. It addresses communicative issues in a context of activism and political transformations.\r\nPrerequisite: GL/COMS 1910 6.00 or GL/COMS 1000 6.00.\r\nCourse credit exclusion: GL/COMS 3207 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "3208",
+            "credit": 3.0,
+            "name": "La th\u00e9orie peut-elle sauver la plan\u00e8te? Id\u00e9es \u00e9mergentes en communications 1",
+            "prereqs": "",
+            "desc": "Premier de deux cours offrant un panorama des nouvelles id\u00e9es en \u00e9tudes des communications et des m\u00e9dias. Il examine la pertinence des th\u00e9ories aujourd\u0092hui et explore les probl\u00e8mes de communication dans un contexte de transformations politiques et d\u0092activisme.\r\nCondition pr\u00e9alable : GL/COMS 1910 6.00 ou GL/COMS 1000 6.00. Cours incompatible : GL/COMS 3207 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "3209",
+            "credit": 3.0,
+            "name": "The Production of the World Is the Message: Emergent Ideas in Communications 2",
+            "prereqs": "coms3208",
+            "desc": "This is the second of two courses offering an overview of new ideas in communications and media studies. It examines how communication and media shapes the world we are presently living in from a variety of novel perspectives.\r\nPrerequisite: GL/COMS 3208 3.00. Course credit exclusion: GL/COMS 3207 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "3310",
+            "credit": 3.0,
+            "name": "Problems in Professional Writing      ",
+            "prereqs": "",
+            "desc": "Students learn to problem-solve through writing, the essence of good professional communication. They learn to select information for a given audience and choose effective language for the needs of government, business, and industry."
+        },
+        {
+            "dept": "coms",
+            "code": "3800",
+            "credit": 3.0,
+            "name": "Apprendre en faisant / Less reading, more doing: Stage en communications Internship I",
+            "prereqs": "",
+            "desc": "This internship gives students the opportunity to gain work or research experience outside the University, in Canada or abroad, during one semester. Students must work a minimum of 80 hours. A faculty member supervises and grades the internship.\nCourse credit exclusions: GL/COMS/TRAN 3900 3.00."
+        },
+        {
+            "dept": "coms",
+            "code": "3806",
+            "credit": 6.0,
+            "name": "Digital Media and Publishing",
+            "prereqs": "",
+            "desc": "This experiential course gives students the opportunity to develop skills in writing, editing and digital production that will allow them to design and produce a digital arts and culture magazine. "
+        },
+        {
+            "dept": "coms",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "\u00c9tudes individuelles",
+            "prereqs": "",
+            "desc": "Ce cours permet \u00e0 un.e \u00e9tudiant.e et un membre du personnel enseignant de travailler ensemble \u00e0 un projet supervis\u00e9 en \u00e9tudes des communications et des m\u00e9dias. Il consiste en une \u00e9tude approfondie d\u0092un enjeu de communication particulier (th\u00e9orique, pratique). Il peut inclure une \u00e9tude de terrain. R\u00e9serv\u00e9 aux \u00e9tudiant.es de 4e ann\u00e9e inscrit.es pour une majeure ou une mineure en Communications. L\u0092approbation du responsable de la coordination du programme est requise."
+        },
+        {
+            "dept": "coms",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Individual Studies",
+            "prereqs": "",
+            "desc": "This course brings together one student and one instructor for a supervised project in communication and media studies. It consists of a close examination of a particular communication problem (theoretical and practical). It may or may not include field activities.\r\nRestricted to 4th-year Communications majors and minors. Approval from the Program Coordinator is required."
+        },
+        {
+            "dept": "coms",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "\u00c9tudes individuelles",
+            "prereqs": "",
+            "desc": "Ce cours permet \u00e0 un.e \u00e9tudiant.e et un membre du personnel enseignant de travailler ensemble \u00e0 un projet supervis\u00e9 en \u00e9tudes des communications et des m\u00e9dias. Il consiste en une \u00e9tude approfondie d\u0092un enjeu de communication particulier (th\u00e9orique, pratique). Il peut inclure une \u00e9tude de terrain. R\u00e9serv\u00e9 aux \u00e9tudiant.es de 4e ann\u00e9e inscrit.es pour une majeure ou une mineure en Communications. L\u0092approbation du responsable de la coordination du programme est requise."
+        },
+        {
+            "dept": "coms",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Individual Studies",
+            "prereqs": "",
+            "desc": "This course brings together one student and one instructor for a supervised project in communication and media studies. It consists of a close examination of a particular communication problem (theoretical and practical). It may or may not include field activities.\r\nRestricted to 4th-year Communications majors and minors. Approval from the Program Coordinator is required."
+        },
+        {
+            "dept": "coms",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Diss\u00e9mination des connaissances: talking taboos and breaking news",
+            "prereqs": "",
+            "desc": "This course examines information, knowledge and epistemic formation and diffusion through contemporary case-studies. / Ce cours explore la cr\u00e9ation et la diffusion d'informations, de connaissances et de syst\u00e8mes de savoir \u00e0 travers des \u00e9tudes de cas contemporains."
+        },
+        {
+            "dept": "coms",
+            "code": "4201",
+            "credit": 3.0,
+            "name": "Fail. Fail again. Fail better. Mediations and Conflicts",
+            "prereqs": "",
+            "desc": "This course examines communication dynamics in interindividual and transnational conflicts. It exposes the ambiguity of communication processes that can feed conflicts and resolve them. It introduces students to theories and practices regading mediation tactics and strategies."
+        },
+        {
+            "dept": "coms",
+            "code": "4202",
+            "credit": 3.0,
+            "name": "Bo\u00eete \u00e0 outils pour les communications d'aujourd'hui : Advanced Communications Research Methods",
+            "prereqs": "coms1100",
+            "desc": "This bilingual course introduces students to advanced research methodologies and research tools in the field of communication studies.  Students design and conduct their own research projects. Ce cours bilingue initie les \u00e9tudiants aux m\u00e9thodologies et aux outils de recherche avanc\u00e9e en communications. Ils con\u00e7oivent et r\u00e9alisent leurs propres projets de recherche. \r\nPrerequisite/Condition pr\u00e9alable : GL/COMS 1100 3.00."
+        },
+        {
+            "dept": "coms",
+            "code": "4208",
+            "credit": 3.0,
+            "name": "R\u00eaver aux moutons \u00e9lectriques : pratiques \u00e9mergentes en communications 1",
+            "prereqs": "",
+            "desc": "Premier de deux cours offrant un panorama des nouvelles pratiques en \u00e9tudes des communications et des m\u00e9dias. Il examine sp\u00e9cifiquement les tendances li\u00e9es aux innovations en ligne et les nouvelles formes de communications mobiles et interpersonnelles.\r\nCours incompatible : GL/COMS 4203 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "4208",
+            "credit": 3.0,
+            "name": "Dreaming of Electric Sheep: Emergent Practices in Communications 1",
+            "prereqs": "",
+            "desc": "This is the first of two courses offering an overview of emerging practices in communication &amp; media technologies. This course focuses on trends in web-based innovations as well as on new forms of interpersonal and mobile communication.\r\nCourse credit exclusion: GL/COMS 4203 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "4209",
+            "credit": 3.0,
+            "name": "Une autre fin du monde est possible : pratiques \u00e9mergentes en communications 2",
+            "prereqs": "",
+            "desc": "Ce cours est le second de deux cours offrant un panorama des nouvelles pratiques technologiques en \u00e9tudes des communications et des m\u00e9dias. Il examine comment les tendances \u00e9mergentes dans ces domaines bouleversent nos vies sur les plans individuel, social et politique.\r\nCours incompatible : GL/COMS 4203 6.00."
+        },
+        {
+            "dept": "coms",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Techniques in Business and Technical Writing I   ",
+            "prereqs": "coms3310",
+            "desc": "Builds on the skills learned in GL/TRAN 3310 3.00. Students learn to direct their writing to a given audience, to begin to work with layout and design of documents, and develop the skills required by team and project writing. Prerequisite: GL/TRAN/COMS 3310 3.00."
+        },
+        {
+            "dept": "coms",
+            "code": "4800",
+            "credit": 3.0,
+            "name": "De la carte au territoire - From map to territory: Stage en communications Internship II",
+            "prereqs": "",
+            "desc": "This internship gives students the opportunity to gain work or research experience outside the University, in Canada or abroad, during one semester. Students must work a minimum of 120 hours. A faculty member supervises and grades the internship."
+        }
+    ]
+}

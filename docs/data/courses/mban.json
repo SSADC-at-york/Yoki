@@ -1,0 +1,60 @@
+{
+    "courses": [
+        {
+            "dept": "mban",
+            "code": "5140",
+            "credit": 3.0,
+            "name": "Visual Analytics and Modelling",
+            "prereqs": "",
+            "desc": "This course is an introduction to the fundamental theories of visual communication design applied in data visualization and visual analytics. Students become familiar with data-driven decision making workflows and storytelling best practices. Major areas for discussion include visual design principals, data structures, taxonomy of data visualization models and weekly technical tutorials using the Tableau software."
+        },
+        {
+            "dept": "mban",
+            "code": "5210",
+            "credit": 3.0,
+            "name": "Predictive Modelling II",
+            "prereqs": "mban5120",
+            "desc": "This course provides advanced tools needed to build models from data sets, validate models, and make predictions. The course emphasizes the SAS environment. Major areas for discussion include analysis of variance, regression, decision trees, and predictive modelling. The course emphasizes both theory and practice, allowing students to use statistical theory for purposes of business case analysis. Prerequisite: SB/MBAN 5120 3.0"
+        },
+        {
+            "dept": "mban",
+            "code": "6090",
+            "credit": 6.0,
+            "name": "Analytics Consulting Project",
+            "prereqs": "",
+            "desc": "The Analytics Consulting Project is the capstone integrative course of the MBAN program. It will allow students to deepen their understanding of the subject matter and methodologies, as well as provide an opportunity for hands-\u00ad?on, problem-\u00ad?driven research and application. It is an intensive, 8 month project where groups of 4 MBAN students undertake a comprehensive analytics project of an organization (&quot;client site&quot;) and provide business insights to enhance the site's future success. At the conclusion of the analytics consulting project students submit and present their final work to a panel of at least two experts, including the course director, and also to the client site.\r\n"
+        },
+        {
+            "dept": "mban",
+            "code": "6120",
+            "credit": 3.0,
+            "name": "Data Science II",
+            "prereqs": "mban6110",
+            "desc": "This course is designed for business students who will pursue a career in the related industries. The course first teaches students Unix command line and Python programming language, which constitute the uniform computing environment for the following topics: data visualization; predictive modelling; relational database and SQL; Web APIs; big data, Hadoop and MapReduce; and Stochastic Search and Optimization methods. Towards the end of the course, various business cases from data science are introduced; examples may include:\r\n(i) online recommender systems; and (ii) Online targeted display advertising. Through in-class labs, the course gives students hands-on experience of advanced data science techniques. Students are required to bring own laptop to participate these inclass labs.\r\nPrerequisite: MBAN student, SB/MBAN 6110 3.00"
+        },
+        {
+            "dept": "mban",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Realizing Value from AI and Analytics in Organizations",
+            "prereqs": "",
+            "desc": "This course provides a practical grounding in analytics and artificial intelligence (AI) and its business applications in organizations. Students will learn how to address business pain points through AI and analytics solutions and how to sell and deliver project ideas. Students will gain skills needed to transform an organization into an innovative, efficient and data driven company of the future."
+        },
+        {
+            "dept": "mban",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Multivariate Methods for Business Analytics",
+            "prereqs": "",
+            "desc": "Provides a critical overview of the issues and methods involved in conducting empirical Operations Management (OM) research. This is a required course for doctoral students majoring Operations Management."
+        },
+        {
+            "dept": "mban",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Artificial Intelligence in Business I",
+            "prereqs": "",
+            "desc": "Students are introduced to the field of artificial intelligence, with a focus on business applications and a historical perspective that covers the basic terminology and concepts. The course covers multiple facets of artificial intelligence including knowledge representation and symbolic reasoning; biologically inspired approaches to artificial intelligence; supervised, unsupervised, and reinforcement learning; multi-agent systems; planning; and natural language processing."
+        }
+    ]
+}

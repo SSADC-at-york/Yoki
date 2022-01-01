@@ -1,0 +1,524 @@
+{
+    "courses": [
+        {
+            "dept": "ilst",
+            "code": "1205",
+            "credit": 3.0,
+            "name": "Introduction au droit des affaires",
+            "prereqs": "",
+            "desc": "Ce cours propose une introduction au droit et aux notions juridiques les plus pertinentes pour ceux qui travaillent dans les affaires, incluant les contrats, la propri\u00e9t\u00e9, les organisations commerciales, la r\u00e9glementation gouvernementale de l''\u00e9conomie et le cadre juridique du commerce international. "
+        },
+        {
+            "dept": "ilst",
+            "code": "1600",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la gestion",
+            "prereqs": "",
+            "desc": "Ce cours porte sur les principes de gestion, les types de gestion, les r\u00f4les/fonctions et les comp\u00e9tences des gestionnaires, et les d\u00e9fis actuels en mati\u00e8re de gestion. La th\u00e9orie, la structure, la culture et le comportement des organisations sont \u00e9tudi\u00e9s. Les concepts th\u00e9oriques sont illustr\u00e9s par des applications pratiques \u00e0 des probl\u00e8mes et des sc\u00e9narios de gestion du monde r\u00e9el. "
+        },
+        {
+            "dept": "ilst",
+            "code": "1903",
+            "credit": 3.0,
+            "name": "English in the World; the World in English",
+            "prereqs": "",
+            "desc": "This course introduces students to the historical development and current state of English as a world language, particularly in the context of cultural, economic and political globalization. Course themes explore the world of English through literatures, popular culture, and new media, drawing attention to their implications for English Language Teaching."
+        },
+        {
+            "dept": "ilst",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la gestion de projets",
+            "prereqs": "",
+            "desc": "Ce cours porte sur les r\u00f4les des projets dans les organisations publiques et priv\u00e9es, la m\u00e9thodologie de gestion de projets, le portfeuille de projet, le cycle de projet, les structures de gestion de projet, les techniques et les habilet\u00e9s en leadership et interculturelles. Des activit\u00e9s exp\u00e9rientielles (Cas, projets, logiciel Microsoft project) permettent d'illustrer les concepts th\u00e9oriques et de d\u00e9velopper les habilet\u00e9s techniques. Condition pr\u00e9alable : GL/ILST 1200 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "2610",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la gestion de ressources humaines",
+            "prereqs": "",
+            "desc": "Ce cours analyse le r\u00f4le de la gestion et de l\u0092administration des ressources humaines, notamment l\u0092analyse d\u0092emplois, la planification, la s\u00e9lection, la formation, l\u0092\u00e9valuation du rendement, la r\u00e9mun\u00e9ration, les relations professionnelles et la s\u00e9curit\u00e9, et la sant\u00e9 des employ\u00e9s.\r\nCours incompatible : GL/ILST 2110 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "2612",
+            "credit": 3.0,
+            "name": "Introduction au marketing",
+            "prereqs": "",
+            "desc": "Ce cours initie les \u00e9tudiants aux modes d\u0092enqu\u00eate en marketing - \u00e0 la fa\u00e7on dont les mercaticiens voient le monde. Les \u00e9tudiants apprennent \u00e0 comprendre les march\u00e9s, ressortir l\u0092information pertinente des donn\u00e9es, \u00e9laborer un plan et g\u00e9rer un programme de marketing."
+        },
+        {
+            "dept": "ilst",
+            "code": "2622",
+            "credit": 3.0,
+            "name": "Culture, Globalization and International Civil Society",
+            "prereqs": "",
+            "desc": "A multicultural, interdisciplinary introduction to global civil society. The concept of globalization in a multicultural context, including debates over economic, social, political and cultural issues. Particular attention to transnational social processes, actors and organizations. PRIOR TO FALL 2014: Course credit exclusion: GL/ILST 2300 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "2622",
+            "credit": 3.0,
+            "name": "Culture, mondialisation et soci\u00e9t\u00e9 civile internationale",
+            "prereqs": "",
+            "desc": "Introduction interdisciplinaire et multiculturelle \u00e0 la soci\u00e9t\u00e9 civile mondiale. \u00c9tude du concept de mondialisation dans un contexte multiculturel, avec attention particuli\u00e8re port\u00e9e aux questions culturelles, \u00e9conomiques, sociales et politiques ainsi qu'aux organismes et mouvements sociaux transnationaux. Avant l'automne 2014: cours incompatible : GL/ILST 2300 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "2644",
+            "credit": 6.0,
+            "name": "International Society: History, Philosophy and Theories",
+            "prereqs": "",
+            "desc": "An introduction to the historical and philosophical foundations of contemporary international society and to the main theoretical models and research approaches to the study of international society, including the question of the level of analysis."
+        },
+        {
+            "dept": "ilst",
+            "code": "2644",
+            "credit": 6.0,
+            "name": "Soci\u00e9t\u00e9 internationale : Histoire, philosophie et th\u00e9ories",
+            "prereqs": "",
+            "desc": "Introduction \u00e0 l'\u00e9tude des fondements historiques et philosophiques de la soci\u00e9t\u00e9 internationale contemporaine, aux principaux mod\u00e8les th\u00e9oriques et m\u00e9thodologiques de l'\u00e9tude de la soci\u00e9t\u00e9 internationale, y compris la question du niveau de l'analyse."
+        },
+        {
+            "dept": "ilst",
+            "code": "2655",
+            "credit": 6.0,
+            "name": "Global Geography: Physical and Human Aspects",
+            "prereqs": "",
+            "desc": "An introduction to the main geographical concepts of and approaches to the study of humans-nature relationship, notably humans and the biosphere, the spatial dimension of the development of societies, cultures and civilizations and the multilevel management of space (local, national, global). PRIOR TO FALL 2013: course credit exclusions: AP/WMST 2504 3.00, GL/WMST 2504 3.00, GL/SOSC 2600 3.00, AP/GEOG 1000 6.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "2655",
+            "credit": 6.0,
+            "name": "G\u00e9ographie mondiale : aspects physiques et humains",
+            "prereqs": "",
+            "desc": "Ce cours examine la dimension spatiale des relations humaines, en particulier les approches et les concepts de g\u00e9ographie physique et humaine au niveau local, national et global, notamment la dynamique humains/nature, la distribution humaine et la gestion de l\u0092espace."
+        },
+        {
+            "dept": "ilst",
+            "code": "2920",
+            "credit": 6.0,
+            "name": "Introduction aux relations internationales    ",
+            "prereqs": "",
+            "desc": "Ce cours offre une introduction aux principaux concepts et probl\u00e8mes de relations internationales et plus particuli\u00e8rement des probl\u00e8mes internationaux contemporains. L'actualit\u00e9 internationale contemporaine sert de base \u00e0 l'analyse de cas concrets.."
+        },
+        {
+            "dept": "ilst",
+            "code": "2920",
+            "credit": 6.0,
+            "name": "Introduction to International Relations     ",
+            "prereqs": "",
+            "desc": "A study of the nature of international politics, with special attention given to the conditions and consequences of war and peace among nation states; the impact on the international system of factors such as the politics of food, environment, population, the sea-bed and outer space, multinational corporations and cartels of raw-materials producers, the call for a new international economic order."
+        },
+        {
+            "dept": "ilst",
+            "code": "2930",
+            "credit": 6.0,
+            "name": "The 20th Century:  A Global Perspective",
+            "prereqs": "",
+            "desc": "The history of the world from the First World War to the fall of communism. The course will consider the history of politics, war, culture and society. Subjects and themes will include the two world wars and their political and cultural impacts, the great depression of the 1930s, communism, fascism, liberalism and conservatism, feminism, demographic change, movements for national independence, the rise of the global economy, the environment and the apparent triumph of capitalism at the end of the century."
+        },
+        {
+            "dept": "ilst",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Race, Gender, Transitional Justice and the Politics of  Memory",
+            "prereqs": "",
+            "desc": "The course encourages students to critically think about memory and memorialization as political constructs and sites of struggle. This course explores how race and gender offer epistemological and ontological positions to investigate conceptualizations of power in the production of memory in a globalized world."
+        },
+        {
+            "dept": "ilst",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "International Economics and Development",
+            "prereqs": "",
+            "desc": "Conceived mainly for students who are not specialized in economics. This course focuses on the interaction of national and international political economy, including the efficiency-equity relationship. It examines major international and development theories, factors, problems, policies and institutions."
+        },
+        {
+            "dept": "ilst",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "\u00c9conomie internationale et d\u00e9veloppement",
+            "prereqs": "",
+            "desc": "Ce cours s'adresse surtout aux \u00e9tudiants qui ne sp\u00e9cialisent pas en \u00e9conomie. Il met l'accent sur l'interd\u00e9pendance entre l'\u00e9conomie politique et internationale, y compris la relation existante entre l'efficacit\u00e9 et \u00e9quit\u00e9. On y examine les principaux facteurs, probl\u00e8mes, th\u00e9ories, politiques et institutions concernant l'\u00e9conomie internationale et le d\u00e9veloppement."
+        },
+        {
+            "dept": "ilst",
+            "code": "3505",
+            "credit": 3.0,
+            "name": "Research in International Studies",
+            "prereqs": "ilst2200 ilst2644",
+            "desc": "This course consolidates students' research and analysis skills in International Studies. It introduces key principles of academic research, as well as the ethical, methodological and epistemological issues.\r\nPrerequisite: GL/ILST 2200 6.00 (EN or FR) or GL/ILST 2644 6.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3505",
+            "credit": 3.0,
+            "name": "Recherche en \u00c9tudes internationales",
+            "prereqs": "",
+            "desc": "Ce cours permet aux \u00e9tudiants de consolider leurs techniques de recherche et d'analyse en \u00c9tudes internationales. Il porte sur les principes cl\u00e9s de la recherche acad\u00e9mique, y compris les enjeux \u00e9thiques, m\u00e9thodologiques et \u00e9pist\u00e9mologiques.\r\nCondition pr\u00e9alable : GL/ILST 2200 6.00 (FR ou EN) ou GL/ILST 2644 6.00. "
+        },
+        {
+            "dept": "ilst",
+            "code": "3602",
+            "credit": 3.0,
+            "name": "Illiberal Politics",
+            "prereqs": "",
+            "desc": "This course examines challenges to modern liberalism from both the illiberal left and right, including fascism and totalitarianism,\r\nauthoritarianism and populism, Leninism/Stalinism, anarchism, and the so-called \u0093alt-right.\u0094"
+        },
+        {
+            "dept": "ilst",
+            "code": "3621",
+            "credit": 3.0,
+            "name": "Canada in Global Perspective/Le Canada, perspective globale",
+            "prereqs": "",
+            "desc": "This course will examine the impact of globalization on Canada and Canadians. It will focus on international economic forces and the influence they exert on the Canadian economy, on domestic politics and on social relations within Canada./Le cours examine l'impact de la mondialisation sur le Canada et sur les canadiens. Il explore principalement les forces \u00e9conomiques qui sont en jeu et l'influence qu'elles exercent sur l'\u00e9conomie canadienne, sur la politique nationale et sur les relations sociales \u00e0 l'int\u00e9rieur du pays."
+        },
+        {
+            "dept": "ilst",
+            "code": "3636",
+            "credit": 3.0,
+            "name": "Social Inequality",
+            "prereqs": "soci2510 ilst2200",
+            "desc": "This course addresses a key topic in sociology: social inequality. It examines and explains the causes and consequences of social inequalities, generally and in specific contexts, as well as the processes by which inequalities are created and challenged. Prerequisite: GL/SOCI 2510 6.00 or GL/ILST 2200 6.00. Course credit exclusion: GL/SOCI 3305 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3639",
+            "credit": 3.0,
+            "name": "Comparative Slavery and Emancipation in the Americas ",
+            "prereqs": "",
+            "desc": "Africans formed a core population in the colonies of the Americas. This course looks at the daily life of slaves along with the laws and codes that constructed and justified racial difference, comparing slave societies from fifteenth-century Iberia through to post-emancipation. Course credit exclusion: GL/HIST 3317 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3645",
+            "credit": 3.0,
+            "name": "Applied Business Analytics",
+            "prereqs": "buec1600",
+            "desc": "This course covers the processes, methodologies and practices used to transform data into useful information to support\r\nbusiness decision-making. In this hands-on course, students develop basic knowledge of data mining, analytics and visualizations\r\nusing SAP, Tableau and IBM software.\r\nPrerequisite: GL/ILST/BUEC 1600 3.0 or with professor permission."
+        },
+        {
+            "dept": "ilst",
+            "code": "3646",
+            "credit": 3.0,
+            "name": "Business Information Systems",
+            "prereqs": "buec1600",
+            "desc": "This course covers the role of information systems in organizations, their support of business operations and decision making, and their impact on organizations' competitive position. Case studies and hands-on computer simulations and exercises are utilized.\r\nPrerequisite: GL/ILST/BUEC 1600 3.0 or with professor permission."
+        },
+        {
+            "dept": "ilst",
+            "code": "3648",
+            "credit": 3.0,
+            "name": "Music and Culture in Global Perspective ",
+            "prereqs": "",
+            "desc": "This course surveys music traditions and practices of diverse cultures and regions, through the perspective of ethnomusicology. Guided listening is a key component of lectures, which will also consider social context, identify, and diaspora, and issues of transnationalism and globalization."
+        },
+        {
+            "dept": "ilst",
+            "code": "3650",
+            "credit": 3.0,
+            "name": "Paix, s\u00e9curit\u00e9 et droits humains internationaux",
+            "prereqs": "",
+            "desc": "Introduction interdisciplinaire et multiculturelle aux questions de paix, de s\u00e9curit\u00e9 et de droits humains dans la soci\u00e9t\u00e9 internationale. Le cours met l'accent sur l'\u00e9volution des th\u00e9ories et des pratiques dans ce domaine et fait ressortir les liens qui unissent la s\u00e9curit\u00e9 internationale et la poursuite de la prosp\u00e9rit\u00e9."
+        },
+        {
+            "dept": "ilst",
+            "code": "3650",
+            "credit": 3.0,
+            "name": "International Peace, Security and Human Rights",
+            "prereqs": "",
+            "desc": "Interdisciplinary and multicultural introduction to the international peace, security and human rights dimension of international society. The course emphasizes the evolution of thought and practices in this area and stresses the interconnectedness of the international security and prosperity quests."
+        },
+        {
+            "dept": "ilst",
+            "code": "3652",
+            "credit": 3.0,
+            "name": "Introduction to International Law",
+            "prereqs": "ilst2200 ilst2644",
+            "desc": "This course is an introduction to public international law and the law of international organisations. It is intended for upper-year students who are pursuing an interdisciplinary approach to international affairs. The course explores the fundamental principles and processes of the international legal order so that students will understand the specific methodology and theories that distinguish international law from the other disciplines that make up international studies. Prerequisite: GL/ILST 2200 6.00 or GL/ILST 2644 6.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3658",
+            "credit": 3.0,
+            "name": "Colonialisme, genre soci\u00e9t\u00e9s en Afrique noire",
+            "prereqs": "",
+            "desc": "La colonisation par sa mission civilisatrice a contribu\u00e9 entre autres \u00e0 forger des rapports de genre dans les soci\u00e9t\u00e9s africaines. Dans ce sens, ce cours traite de son impact sur les rapports sociaux de sexe autant en Afrique coloniale que postcoloniale. Offert pr\u00e9c\u00e9demment comme suit: AP/WMST 3524 3.00, GL/WMST 3524 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3659",
+            "credit": 3.0,
+            "name": "Revolutions in Latin America",
+            "prereqs": "",
+            "desc": "This comparative course focuses on the socio-political and economic roots of revolutions, as well as the changing nature of revolutionary experiences in Latin America, from the Cuban wars for independence (1868-98) through the uprising in Chiapas, Mexico (1994).\r\nCourse credit exclusion: GL/HIST 3212 6.00. Previously offered as: GL/HIST 3659 6.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3660",
+            "credit": 3.0,
+            "name": "Introduction to Social Psychology",
+            "prereqs": "psyc2510 psyc2520",
+            "desc": "Examines human social behaviour from the perspective of the experimental social psychologist. Topics include theories and research methods of social psychology, social perception and attraction, social cognition, language and bilingualism, attitudes, attitude change and prejudice. Prerequisite: GL/PSYC 2510 6.00 or equivalent. GL/PSYC 2520 3.00 is strongly recommended. Course credit exclusions: HH/PSYC 2120 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3665",
+            "credit": 6.0,
+            "name": "Femmes et mondialisation",
+            "prereqs": "",
+            "desc": "Ce cours porte sur la situation des femmes dans un contexte de mondialisation. Il traite de l'impact de la mondialisation sur les conditions de vie des femmes aux niveaux local et international et analyse leur capacit\u00e9 \u00e0 s'auto-organiser economiquement et politiquement. \r\nOffert pr\u00e9c\u00e9demment comme suit: AP/WMST 3503 6.00, GL/WMST 3503 6.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3671",
+            "credit": 3.0,
+            "name": "Politics and Society in Latin America",
+            "prereqs": "",
+            "desc": "This course analyzes key themes of Latin American politics and society, providing a theoretical and empirical framework for understanding political, social, cultural, and economic dynamics in the region. A region-wide focus is coupled with in-depth examination of relevant country cases."
+        },
+        {
+            "dept": "ilst",
+            "code": "3685",
+            "credit": 3.0,
+            "name": "Politique compar\u00e9e des pays en voie de d\u00e9veloppement",
+            "prereqs": "",
+            "desc": "Ce cours analyse de fa\u00e7on comparative la politique des pays en voie de d\u00e9veloppement, incluant les \u00c9tats d'Am\u00e9riques, d'Afrique et d'Asie du Sud-est. Il \u00e9tudie les syt\u00e8mes politiques ainsi que les grandes orientations du d\u00e9veloppement international.Condition pr\u00e9alable : GL/POLS 2510 6.00 ou GL/POLS 2920 6.00. Cours incompatible : GL/POLS 3220 6.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3686",
+            "credit": 3.0,
+            "name": "Politics of the Middle East and North Africa",
+            "prereqs": "",
+            "desc": "This course surveys core themes in the comparative politics of the Middle East and North Africa such as state formation and (de)colonization, authoritarianism and democratization, migration, social movements, gender, and religion and politics, through comparative and interdisciplinary perspectives."
+        },
+        {
+            "dept": "ilst",
+            "code": "3692",
+            "credit": 6.0,
+            "name": "Theories of Society",
+            "prereqs": "",
+            "desc": "A comparative study of significant contributions to sociological theory, based on an intensive reading of such authors as Durkheim, Weber, Marx, Simmel, Freud, Cooley, Mead, Parsons, Berger and Goffman. PRIOR TO FALL 2013: course credit exclusion: AP/SOCI 3330 6.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "3694",
+            "credit": 3.0,
+            "name": "Cities, Migrants, and the Politics of Belonging",
+            "prereqs": "",
+            "desc": "This course examines how migrants shape cities and vice versa, considering literatures on urban citizenship, human mobility, local governance, and migrant rights. It considers analytical, empirical, and normative perspectives on the relationship between migration and the creation and maintenance of state borders."
+        },
+        {
+            "dept": "ilst",
+            "code": "3920",
+            "credit": 3.0,
+            "name": "\u00c9conomie du d\u00e9veloppement              ",
+            "prereqs": "",
+            "desc": "La premi\u00e8re partie du cours est une revue g\u00e9n\u00e9rale des probl\u00e8mes des pays en voie de d\u00e9veloppement. Cette partie couvre: i) les th\u00e9ories du d\u00e9veloppement; ii) les facteurs critiques du d\u00e9veloppement \u00e9conomique comme la mobilisation des ressources, d\u00e9mographie et capital humain, le d\u00e9veloppement agricole, l'industrialisation et les syst\u00e8mes d'organisation; et iii) les politiques fiscales, mon\u00e9taires et le commerce ext\u00e9rieur. La deuxi\u00e8me partie du cours traite des questions de planification \u00e9conomique et de strat\u00e9gie de d\u00e9veloppement. Le cours se concentre sur l'\u00e9valuation des projets d investissement (analyse des co\u00fbts et b\u00e9n\u00e9fices) bas\u00e9e sur des cas d'\u00e9tudes relevant de l'exp\u00e9rience d'organismes se sp\u00e9cialisant sur les probl\u00e8mes du d\u00e9veloppement comme la Banque mondiale. Cours incompatible : AP/ECON 3550 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "This course permits students enrolled in an Honours program to pursue a particular topic of interest in depth with the assistance of a qualified faculty member. The subject has to be chosen by the student in conjunction with and be approved by the faculty member. Proposals must be approved by the supervising faculty and the program coordinator."
+        },
+        {
+            "dept": "ilst",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "M\u00e9moire de sp\u00e9cialisation",
+            "prereqs": "",
+            "desc": "Le m\u00e9moire sert \u00e0 approfondir un sujet sous la direction d'un membre du corps enseignant du Coll\u00e8ge. Le sujet est choisi et d\u00e9limit\u00e9 avec l'aide du/de la professeur(e) qui dirigera le travail. Les propositions doivent \u00eatre accept\u00e9es par le/la professeur(e) d\u00e9sign\u00e9(e) ainsi que par le coordonnateur/la coordonnatrice du programme."
+        },
+        {
+            "dept": "ilst",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Individual Studies",
+            "prereqs": "",
+            "desc": "Individual studies is an opportunity for students to create and pursue appropriate interests with the assistance and guidance of a qualified faculty member. Details of the final proposal must be approved by the supervising faculty and the program coordinator."
+        },
+        {
+            "dept": "ilst",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Travaux individuels",
+            "prereqs": "",
+            "desc": "Les travaux individuels permettent d'approfondir un sujet de son choix sous la direction d'un membre du corps enseignant du Coll\u00e8ge. Les d\u00e9tails de la proposition doivent \u00eatre accept\u00e9s par le/la professeur(e) d\u00e9sign\u00e9(e) ainsi que par le coordonnateur/la coordonnatrice du programme."
+        },
+        {
+            "dept": "ilst",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Travaux individuels",
+            "prereqs": "",
+            "desc": "Les travaux individuels permettent d'approfondir un sujet de son choix sous la direction d'un membre du corps enseignant du Coll\u00e8ge. Les d\u00e9tails de la proposition doivent \u00eatre accept\u00e9s par le/la professeur(e) d\u00e9sign\u00e9(e) ainsi que par le coordonnateur/la coordonnatrice du programme."
+        },
+        {
+            "dept": "ilst",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Individual Studies",
+            "prereqs": "",
+            "desc": "Individual studies is an opportunity for students to create and pursue appropriate interests with the assistance and guidance of a qualified faculty member. Details of the final proposal must be approved by the supervising faculty and the program coordinator."
+        },
+        {
+            "dept": "ilst",
+            "code": "4260",
+            "credit": 3.0,
+            "name": "Finance internationale",
+            "prereqs": "",
+            "desc": "Ce cours porte sur l'aspect mon\u00e9taire des relations \u00e9conomiques internationales et les notions de base li\u00e9es aux transactions financi\u00e8res internationales. Il permet de comprendre la balance des paiements, le march\u00e9 des devises et les r\u00e9gimes de taux de change. Condition pr\u00e9alable : GL/ILST 3250 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "4275",
+            "credit": 3.0,
+            "name": "Global Environmental Challenges \u0096 Local Solutions / D\u00e9fis environnementaux mondiaux - solutions locales",
+            "prereqs": "ilst3250",
+            "desc": "Ce cours exp\u00e9rientiel communautaire examine les d\u00e9fis environnementaux mondiaux avec un accent sur l\u0092urgence climatique. Il d\u00e9veloppe des solutions locales pour cr\u00e9er une \u00e9conomie circulaire sur le campus Glendon. This community based experiential learning course explores global environmental challenges with specific reference to the current climate emergency and develops local solutions based on a circular economy on the Glendon Campus. \r\nPrerequisite/Condition pr\u00e9alable : GL/ILST 3250 3.0 or permission of the Department."
+        },
+        {
+            "dept": "ilst",
+            "code": "4300",
+            "credit": 6.0,
+            "name": "Stage pratique professionnel",
+            "prereqs": "",
+            "desc": "Le stage pratique consiste en une p\u00e9riode de travail ou de recherche effectu\u00e9e en dehors de l'Universit\u00e9, au Canada ou \u00e0 l'\u00e9tranger, durant une p\u00e9riode pouvant aller de 3 mois \u00e0 une ann\u00e9e. Les stages pourront avoir lieu soit dans des organismes du secteur public (gouvernement municipal, provincial ou f\u00e9d\u00e9ral, agences des Nations-Unies, organismes continentaux ou trans-continentaux comme l'Organisation des \u00c9tats am\u00e9ricains ou l'Union europ\u00e9enne), soit dans le secteur priv\u00e9 (organismes non-gouvernementaux, banques nationales et internationales, soci\u00e9t\u00e9s multinationales, syndicales et associations de consommateurs). Les \u00e9tudiants soumettront r\u00e9guli\u00e8rement des rapports au professeur du programme d\u00e9crivant leurs activit\u00e9s et leurs responsabilit\u00e9s, ainsi que leurs r\u00e9flexions sur l'exp\u00e9rience acquise durant leur travail ou dans leur recherche. Ils devront \u00e9galement remettre un travail final qui fera la synth\u00e8se entre ce qu'ils ont appris durant leur stage et les connaissances acquises dans les cours du programme."
+        },
+        {
+            "dept": "ilst",
+            "code": "4300",
+            "credit": 6.0,
+            "name": "Professional Internship",
+            "prereqs": "",
+            "desc": "The internship takes the form of work or research experience outside the University, in Canada or abroad, for a period that could vary from three months to a full year. Placement opportunities will be sought in both the public sector (municipal, provincial and federal governments and agencies, the United Nations family of institutions, continental and sub-continental organizations, such as the OAS and the EU) and the private sector (NGOs, national and international banks, multinational corporations, consumer and labour unions). Students will submit regular reports to the Instructor, describing their activities and responsibilities, as well as the students' reflections on their experiences at work, with particular reference as to how those experiences relate to the students' academic program. In addition, students will write a final paper which will connect some aspect of what the student has learned during the placement with the academic contents of his/her courses."
+        },
+        {
+            "dept": "ilst",
+            "code": "4320",
+            "credit": 6.0,
+            "name": "Projet entrepreneurial",
+            "prereqs": "",
+            "desc": "Ce cours porte sur les th\u00e9ories/concepts/m\u00e9thodes associ\u00e9es \u00e0 l\u0092esprit entrepreneurial, aux \u00e9quipes entrepreneuriales, opportunit\u00e9s entrepreneuriales et outils pour d\u00e9marrer/op\u00e9rer une entreprise \u00e0 but lucratif/non lucratif. Il inclut la r\u00e9alisation d\u0092un projet entrepreneurial avec les ressources de l\u0092incubateur d\u0092entreprises de Glendon.\r\nPr\u00e9requis :  GL/ILST/BUEC 1600 3.00 ou sur la permission du professeur."
+        },
+        {
+            "dept": "ilst",
+            "code": "4501",
+            "credit": 3.0,
+            "name": "Capstone Seminar",
+            "prereqs": "ilst3505",
+            "desc": "The seminar develops students research capabilities by examining selected research theories and methods, promoting an interdisciplinary and multicultural analytic perspective and providing, possibly, a forum for the presentation and discussion of participants' research designs, processes and results. Prerequisite: GL/ILST 3505 3.00. Course credit exclusion: GL/ILST 4500 6.00 (EN), GL/ILST 4500 6.00 (FR)."
+        },
+        {
+            "dept": "ilst",
+            "code": "4501",
+            "credit": 3.0,
+            "name": "S\u00e9minaire avanc\u00e9",
+            "prereqs": "",
+            "desc": "Le s\u00e9minaire avanc\u00e9 d\u00e9veloppe les aptitudes des \u00e9tudiants \u00e0 effectuer des recherches. On y \u00e9tudie les principales th\u00e9ories et m\u00e9thodes de recherche, en mettant l'accent sur l'analyse interdisciplinaire et multiculturelle et on offre, \u00e9ventuellement, la possibilit\u00e9 aux \u00e9tudiants qui travaillent sur leur recherche personnelle de pr\u00e9senter leur d\u00e9marche et les r\u00e9sultats obtenus et d'en discuter avec le groupe. Condition pr\u00e9alable : GL/ILST 3505 3.00. Cours incompatible : GL/ILST 4500 6.00 (EN), GL/ILST 4500 6.00 (FR)."
+        },
+        {
+            "dept": "ilst",
+            "code": "4510",
+            "credit": 6.0,
+            "name": "Annual International Studies Symposium",
+            "prereqs": "ilst3505",
+            "desc": "This course develops the student's knowledge of a selected country or region of the world and also the project management capabilities necessary to organize an annual symposium and includes a field trip to the selected country or region. Prerequisites: GL/ILST 3505 3.00 and permission of the department."
+        },
+        {
+            "dept": "ilst",
+            "code": "4520",
+            "credit": 3.0,
+            "name": "Social enterprise design: creating innovative solutions and blended value to solve global issues",
+            "prereqs": "",
+            "desc": "This course introduces the theories/concepts of social entrepreneurship/social enterprise/social entrepreneur/social entrepreneurship process. Using design thinking methods, students are introduced to the processes of opportunity recognition and creation of blended value with innovative/sustainable solutions to local/global issues (poverty/health/education/climate change/food security/fair trade/etc.). "
+        },
+        {
+            "dept": "ilst",
+            "code": "4523",
+            "credit": 3.0,
+            "name": "Femmes, genre, migration internationale et mondialisation",
+            "prereqs": "",
+            "desc": "Dans une perspective f\u00e9ministe intersectionnelle, ce s\u00e9minaire s'articule autour des d\u00e9bats sur la division internationale du travail selon le genre. Une r\u00e9flexion critique est d\u00e9velopp\u00e9e sur ses implications pour la situation des femmes dans la migration et la mondialisation. Cours incompatibles : GL/GWST 3564 3.00, GL/ILST 3564 3.00, AP/GWST 3564 3.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "4601",
+            "credit": 3.0,
+            "name": "Issues in International Law",
+            "prereqs": "ilst3650 ilst3652",
+            "desc": "This seminar examines various advanced issues in the field of international law that are relevant to an interdisciplinary approach to international affairs.\r\nPrerequisite: GL/ILST 3650 3.00 or GL/ILST 3652 3.00, or permission from the professor."
+        },
+        {
+            "dept": "ilst",
+            "code": "4609",
+            "credit": 3.0,
+            "name": "Sovereignty",
+            "prereqs": "",
+            "desc": "This course examines \u0093sovereignty\u0094 and the authority of law. Who can be the sovereign? How does the emergence of sovereignty\r\nrelate to the state system? How can the concept help or hinder how we understand political authority and law?"
+        },
+        {
+            "dept": "ilst",
+            "code": "4618",
+            "credit": 3.0,
+            "name": "Diplomacy",
+            "prereqs": "",
+            "desc": "This course examines the history and nature of diplomacy, its role in international politics, its various dimensions, the changes that it has undergone as in its development and practice, particularly economic negotiations, and its future either as an alternative or complement to the use of force."
+        },
+        {
+            "dept": "ilst",
+            "code": "4619",
+            "credit": 3.0,
+            "name": "Cultural Encounters in Early Modern Europe, 1492-1700",
+            "prereqs": "",
+            "desc": "This seminar course examines European society\u0092s first contact with the world beyond the Mediterranean, a crucial sustained moment in the cultural transformation of Europe, Africa, and the Americas. The course considers questions of power, perception, and understanding in that long cultural encounter."
+        },
+        {
+            "dept": "ilst",
+            "code": "4630",
+            "credit": 6.0,
+            "name": "Brazil Globalization Seminar",
+            "prereqs": "",
+            "desc": "This discussion seminar examines major contemporary developments in Brazil's domestic situation and external relations, notably the rise of nationalism, industrialization, urbanization, the social condition of Afro-Brazilian and indigenous peoples, migration flows, and the country's role in intra-Hemispheric and world affairs. Course credit exclusions: GL/HIST 3670 3.00, GL/HIST 3710 6.00."
+        },
+        {
+            "dept": "ilst",
+            "code": "4635",
+            "credit": 3.0,
+            "name": "Corporate governance in an international context",
+            "prereqs": "",
+            "desc": "Examines concepts related to corporate governance. This includes mechanisms to control managers and conflicts of interests between stakeholders. Particular attention is given to the international context by studying large multinational firms and emerging countries. "
+        },
+        {
+            "dept": "ilst",
+            "code": "4652",
+            "credit": 3.0,
+            "name": "Borders, Displacement, and the State",
+            "prereqs": "",
+            "desc": "This course analyzes the role of population displacement in state transformation, drawing on both historical and contemporary cases to show how migration both contests and shapes borders and the relationship between citizens, the state, and society more broadly."
+        },
+        {
+            "dept": "ilst",
+            "code": "4667",
+            "credit": 3.0,
+            "name": "The Sociology of International Migration: Contemporary Issues and Debates",
+            "prereqs": "",
+            "desc": "Global migration is among the most contentious phenomena of our times. This course begins with an overview of contemporary debates on migration and refugee studies. It then discusses key issues (i.e., border security politics) shaping today\u0092s multifaceted realities of international migration."
+        },
+        {
+            "dept": "ilst",
+            "code": "4685",
+            "credit": 3.0,
+            "name": "The Foreign Policy of the Major Asian States",
+            "prereqs": "",
+            "desc": "A comparative study of the foreign policies in China, Japan and India, with an emphasis on policy-making and policy outputs. Examples will be drawn from territorial, security and economic issues."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "por",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Portuguese",
+            "prereqs": "",
+            "desc": "This course is designed for absolute beginners, with no formal training in Portuguese. The course introduces the Portuguese language within its cultural contexts worldwide, including European and Brazilian Portuguese. The skills of listening, speaking, reading and writing are emphasized. This course offers a range of multimedia learning platforms such as aural/oral and written web-based activities, access to audio and video resources as well as experiential learning activities. Students acquire a functional competence in elementary written and spoken Portuguese. Course credit exclusion: AP/POR 1010 6.00."
+        },
+        {
+            "dept": "por",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Portuguese",
+            "prereqs": "por1000 por1010",
+            "desc": "This course is intended for students who have some oral and written knowledge of Portuguese - as determined by the placement test or successful completion of the prerequisite AP/POR 1000 or equivalent - and who wish to improve their command of the language within its cultural contexts worldwide. This course includes European and Brazilian Portuguese variants. Further development of speaking, listening, reading and writing skills; additional study of grammar; vocabulary building. This course offers a range of multimedia learning platforms such as aural/oral and written web-based activities, access to audio and video resources as well as experiential learning activities. Prerequisite: AP/POR 1000 6.00 or AP/POR 1010 6.00 (or equivalent) or permission of the department."
+        },
+        {
+            "dept": "por",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Advanced Portuguese",
+            "prereqs": "por1050 por2000",
+            "desc": "Offers students a more in-depth development of communicative skills, namely, the ability to listen and to communicate in various contexts, to read according to different purposes and to write several texts in standard Portuguese - including the European and the Brazilian variants. Students acquire an advanced level of competence in order to (inter)act in a wide range of daily situations (personal, public, educational, professional domains). The course also addresses wide cultural contexts representative of the entire Lusophone world with enhanced experiential learning activities and multimedia learning platforms. Special attention is given to subtler points of grammar, idiomatic and context specific language, as well as thematically structured vocabulary. Prerequisite: AP/POR 1050 6.00 or AP/POR 2000 6.00 or permission of the department."
+        }
+    ]
+}

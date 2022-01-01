@@ -1,0 +1,204 @@
+{
+    "courses": [
+        {
+            "dept": "ovgs",
+            "code": "6901",
+            "credit": 3.0,
+            "name": "Ontario Visiting Graduate Student",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "6901",
+            "credit": 1.5,
+            "name": "Ontario Visiting Graduate Student",
+            "prereqs": "",
+            "desc": "Ontario Visiting Graduate Student"
+        },
+        {
+            "dept": "ovgs",
+            "code": "7901",
+            "credit": 3.0,
+            "name": "Ontario Visiting Graduate Student",
+            "prereqs": "",
+            "desc": "Ontario Visiting Graduate Student"
+        },
+        {
+            "dept": "ovgs",
+            "code": "7902",
+            "credit": 3.0,
+            "name": "Ontario Visiting Graduate Student",
+            "prereqs": "",
+            "desc": "Ontario Visiting Graduate Student"
+        },
+        {
+            "dept": "ovgs",
+            "code": "7903",
+            "credit": 3.0,
+            "name": "Ontario Visiting Graduate Student",
+            "prereqs": "",
+            "desc": "Ontario Visiting Graduate Student"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8000",
+            "credit": 0.0,
+            "name": "University of Toronto",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8001",
+            "credit": 0.0,
+            "name": "University of Toronto",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8005",
+            "credit": 0.0,
+            "name": "Trent University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8010",
+            "credit": 0.0,
+            "name": "Brock University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8015",
+            "credit": 0.0,
+            "name": "Ryerson University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8020",
+            "credit": 0.0,
+            "name": "Carleton University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8025",
+            "credit": 0.0,
+            "name": "OCAD University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8030",
+            "credit": 0.0,
+            "name": "University of Guelph",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8035",
+            "credit": 0.0,
+            "name": "Laurentian University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8040",
+            "credit": 0.0,
+            "name": "McMaster University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8045",
+            "credit": 0.0,
+            "name": "Lakehead University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8050",
+            "credit": 0.0,
+            "name": "University of Ottawa",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8055",
+            "credit": 0.0,
+            "name": "University of Ontario Institute of Technology",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8060",
+            "credit": 0.0,
+            "name": "Queens University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8065",
+            "credit": 0.0,
+            "name": "Royal Military College of Canada",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8070",
+            "credit": 0.0,
+            "name": "University of Waterloo",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8071",
+            "credit": 0.0,
+            "name": "University of Waterloo",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8080",
+            "credit": 0.0,
+            "name": "University of Western Ontario",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8085",
+            "credit": 0.0,
+            "name": "Wilfrid Laurier University",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ovgs",
+            "code": "8090",
+            "credit": 0.0,
+            "name": "University of Windsor",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "courses": [
+        {
+            "dept": "la",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Latin",
+            "prereqs": "",
+            "desc": "This course is intended for students with no previous training in Latin. Note: Further courses in Latin are listed under Classical Studies. Course credit exclusion: GL/HUMA 1622 6.00."
+        },
+        {
+            "dept": "la",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Latin",
+            "prereqs": "",
+            "desc": "The course begins with a review of Latin grammar and syntax and then concentrates on the reading of selected passages from Latin prose and verse in the original Latin. Selections may include passages from Horace, Ovid, Catullus, Cicero, Caesar, and selections from the Latin Bible. \nPre-requisites for Glendon students: GL/HUMA 1622 6.00 or GL/LIN 1622 6.00"
+        },
+        {
+            "dept": "la",
+            "code": "3060",
+            "credit": 3.0,
+            "name": "Roman Historians",
+            "prereqs": "la2000",
+            "desc": "A study of selected works by Roman historians such as Caesar, Livy and Tacitus. Prerequisite: AP/LA 2000 6.00 (or equivalent) or permission of the director of classical studies. Course credit exclusion: AP/LA 4060 3.00."
+        },
+        {
+            "dept": "la",
+            "code": "3120",
+            "credit": 3.0,
+            "name": "Roman Satire",
+            "prereqs": "la2000",
+            "desc": "A study of the development and central themes of Roman Satire, and the literary achievement of the Roman Satirists, particularly Horace and Juvenal. \nPrerequisite: AP/LA 2000 6.00 (or equivalent) or permission of the director of classical studies. \nCourse credit exclusion: AP/LA 4120 3.00.  \n\n"
+        },
+        {
+            "dept": "la",
+            "code": "4060",
+            "credit": 3.0,
+            "name": "Roman Historians",
+            "prereqs": "",
+            "desc": "A study of selected works by Roman historians such as Caesar, Livy and Tacitus. Prerequisite: At least six credits at the 3000-level in AP/LA or permission of director of classical studies. Course credit exclusion: AP/LA 3060 3.00."
+        },
+        {
+            "dept": "la",
+            "code": "4120",
+            "credit": 3.0,
+            "name": "Roman Satire",
+            "prereqs": "",
+            "desc": "A study of the development and central themes of Roman Satire, and the literary achievement of the Roman Satirists, particularly Horace and Juvenal. \nPrerequisite: At least six credits at the 3000 level in Latin (AP/LA) or permission of director of classical studies. \nCourse credit exclusion: AP/LA 3120 3.00. \n\n"
+        },
+        {
+            "dept": "la",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Guided Readings in Roman Authors",
+            "prereqs": "",
+            "desc": "An independent reading program with material chosen according to the interest of the student. Note: Open only with the permission of the director. Please consult the Enrolment and Registration section, Faculty of Liberal Arts and Professional Studies for regulations on independent reading course"
+        },
+        {
+            "dept": "la",
+            "code": "4130",
+            "credit": 6.0,
+            "name": "Guided Readings in Roman Authors",
+            "prereqs": "",
+            "desc": "An independent reading program with material chosen according to the interest of the student. Note: Open only with the permission of the director. Please consult the Enrolment and Registration section, Faculty of Liberal Arts and Professional Studies for regulations on independent reading courses."
+        },
+        {
+            "dept": "la",
+            "code": "4140",
+            "credit": 6.0,
+            "name": "Honours Essay",
+            "prereqs": "",
+            "desc": "Open only to honours candidates with the permission of the director. Note: Consult the director of the program for further information on course offerings in Latin literature."
+        }
+    ]
+}

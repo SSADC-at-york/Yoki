@@ -1,0 +1,68 @@
+{
+    "courses": [
+        {
+            "dept": "digm",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Foundations of Digital Media",
+            "prereqs": "",
+            "desc": "Students learn the essential skills of postgraduate-level research in areas of digital media and computational arts, and attain core literacies in mathematical and computational bases for digital media to support applications spanning areas including sound, image, and digital signal processing, 3D environments and the graphics pipeline, software design, simulation and complex systems, etc. These literacies are contextualized by reference to exemplary projects in diverse practices such as computational art, music, video games, information visualization, web-based media, responsive architecture, physical computing, etc., including the examination of landmark texts and projects in digital media, computational arts and culture spanning the past century, addressing the continual overlap between artistic and scientific practices. Literacy is evaluated through the ability to understand and transfer published research in these fields into creative applications, recreating established research results, projects, or through works of specific interest to the student\u0092s research area(s)."
+        },
+        {
+            "dept": "digm",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "Vertical Studio-Lab I",
+            "prereqs": "",
+            "desc": "Students lead a team of Masters students working collaboratively on a large-scale project that tackles a well-defined research problem spanning art and science methods and practices. Students are expected to take leadership roles. The problem domain will be defined by contexts such as a research laboratory of a Digital Media faculty member or an outside organization, in order to explore a range of research approaches and issues, professional and research ethics, and reflective practice within academic, professional and arts contexts. An important component is the discussion of critical issues related to cultural interactions with new and emerging technologies, including an appreciation of how art-making practices have shaped, and been shaped by, trajectories of technological change. Advanced Vertical Studio/Lab I is normally be taken in\r\nthe second year of the program. There is a possibility for student teams to be co-supervised by program faculty and a program associate, which is a practitioner from an outside organization (for-profit -Ubisoft, not-for-profit, NGO, arts festival, trade organization, artist collective, design group, museum, MCC). Program associates may not be the sole supervisor."
+        },
+        {
+            "dept": "digm",
+            "code": "5070",
+            "credit": 3.0,
+            "name": "Interactive Media for Electro-Acoustic Orchestra",
+            "prereqs": "",
+            "desc": "This course engages an electro-acoustic musical ensemble as a site for composing interactive multimedia works. Students develop an interactive system through weekly sessions in collaboration with the ensemble, and iteratively refine this over the course of the term. Projects from the course are presented in public concerts."
+        },
+        {
+            "dept": "digm",
+            "code": "5071",
+            "credit": 3.0,
+            "name": "Interactive Sonic Arts",
+            "prereqs": "",
+            "desc": "This course prepares students to compose and perform interactive music and sound art using computational means. Students learn the fundamental programming techniques required to realize algorithmic music compositions and interactive performance systems. Following the paradigms of composer/performer and of the composed-instrument, students' projects focus on writing an interactive composition (solo or ensemble) for their classmates, and developing an interactive performance system for personal expression. Topics include orientation to algorithmic composition principles, sound analysis/processing/synthesis methods, developing new interfaces for musical expression, and fundamentals of acoustics and auditory perception as they relate to computational music and sonic art creation. Contemporary research-creation practices in these arts are introduced, and contextualized relative to the rich historical, aesthetic and conceptual literature in the field of Computer Music. Integrated with DATT/MUSI 4071."
+        },
+        {
+            "dept": "digm",
+            "code": "5520",
+            "credit": 3.0,
+            "name": "Spatial Computing in Responsive Environments",
+            "prereqs": "",
+            "desc": "This practice-based course addresses 3D space as a creative computational medium drawing upon human-computer interaction (HCI), virtual and augmented reality, computer vision, projectionmapping, and natural interaction.\r\nIntegrated with the undergraduate cousre DATT 4520 3.0"
+        },
+        {
+            "dept": "digm",
+            "code": "5990",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Students have the option of taking a Directed Reading course with any faculty member appointed to the Program, provided a suitable graduate course is not available in the current curriculum, and provided the course does not overlap significantly with a course taken previously. In all cases, the course will be directly relevant to the student\u0092s thesis/dissertation project."
+        },
+        {
+            "dept": "digm",
+            "code": "6020",
+            "credit": 3.0,
+            "name": "Vertical Studio-Lab II",
+            "prereqs": "",
+            "desc": "Students lead a team of Masters students working collaboratively on a large-scale project that tackles a well-defined research problem spanning art and science methods and practices. Students are expected to take leadership roles. The problem domain is defined by contexts such as a research laboratory of a Digital Media faculty member or an outside organization, in order to explore a range of research approaches and issues, professional and research ethics, and reflective practice within academic, professional and arts contexts. An important component is the discussion of critical issues related to cultural interactions with new and emerging technologies, including an appreciation of how art-making practices have shaped, and been shaped by, trajectories of technological change. Advanced Vertical Studio/Lab I will normally be taken in the second year of the program. There is a possibility for student teams to be co-supervised by program faculty and a program associate, which is a practitioner from an outside organization (for-profit -Ubisoft, not-for-profit, NGO, arts festival, trade organization, artist collective, design group, museum, MCC). Program associates may not be the sole supervisor."
+        },
+        {
+            "dept": "digm",
+            "code": "6071",
+            "credit": 3.0,
+            "name": "Advanced Interactive Sonic Arts",
+            "prereqs": "",
+            "desc": "In this course, students incrementally develop an advanced interactive system for sound-based performance, using hardware and software, that draws on approaches from the fields of electroacoustics, computer music, and the sonic arts. Topics include generative composition, sound analysis/synthesis, machine learning for sound, digital instrument design, acoustics, auditory perception, and digital performance practice."
+        }
+    ]
+}

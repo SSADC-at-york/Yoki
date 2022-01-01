@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "pcs",
+            "code": "6163",
+            "credit": 3.0,
+            "name": "Internet Censorship and Global Surveillance",
+            "prereqs": "",
+            "desc": "This course focuses on issues relating to censorship, blocking and surveillance of on-line activities. Lack of access to comprehensive on-line service is a component of data security, yet monitoring on-line behaviour can have a significant impact on privacy. At the same time, governments or government-sponsored actors often have legitimate reasons for such activities, for example, to reduce the incidence of crime or terrorism. The course considers these activities and their competing agendas. Key topics include some technological aspects of censorship, surveillance and anti-circumvention, attribution of unwanted acts, and justifications for blocking and monitoring.  "
+        },
+        {
+            "dept": "pcs",
+            "code": "6164",
+            "credit": 3.0,
+            "name": "The Law of Confidential Information",
+            "prereqs": "",
+            "desc": "This course examines the legal concepts and issues related to the law of confidential information."
+        },
+        {
+            "dept": "pcs",
+            "code": "6165",
+            "credit": 3.0,
+            "name": "Special Topics in Laws Governing Data Use and Data Disclosure ",
+            "prereqs": "",
+            "desc": "This course examines Canadian and international laws that regulate the use and disclosure of data, particularly personal information, by exploring how these laws balance privacy with the public interest. In doing so, this course examines critical issues such as criminal law protections for data, compelled disclosure for national security, use and disclosure in the public interest, the accommodation of commercial interests for outsourcing and cloud services, and the evolving debate over the monetization of data and its consumer protection and competition law aspects."
+        },
+        {
+            "dept": "pcs",
+            "code": "6166",
+            "credit": 3.0,
+            "name": "International Laws and Multi-lateral Frameworks for Data Protection and Cybersecurity",
+            "prereqs": "",
+            "desc": "Data protection and cybersecurity are issues that transcend national borders. This course will compare international laws and multi-lateral frameworks that have been established or that are being developed to protect personal information. The course is divided into four parts: (i) Enforcement Agencies; (ii) Multi-lateral Instruments and International Cooperation; (iii) Privacy and Trade; (iv) Comparative National Approaches.  "
+        },
+        {
+            "dept": "pcs",
+            "code": "6701",
+            "credit": 3.0,
+            "name": "Selected Topics in Privacy and Cybersecurity Law",
+            "prereqs": "",
+            "desc": "This course explores in greater detail important issues and debates in Privacy and Cybersercurity law. A new topic will be explored in detail in each offering. The course will be taught by a visiting expert scholar and/or practitioner in that area."
+        }
+    ]
+}

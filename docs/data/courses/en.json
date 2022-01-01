@@ -1,0 +1,884 @@
+{
+    "courses": [
+        {
+            "dept": "en",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "An Introduction to Literary Study",
+            "prereqs": "",
+            "desc": "An introduction to the study of, and writing about, literature. Through short readings (essays, stories, poems and plays), students learn to observe, understand and evaluate how literary texts work. Through specific attention to the technical language of literature, the mechanics of writing and the preparation of an essay, students learn to write effectively about literature."
+        },
+        {
+            "dept": "en",
+            "code": "1002",
+            "credit": 3.0,
+            "name": "Intertextualities",
+            "prereqs": "en1001",
+            "desc": "This course advances students' training in comparative literary analysis, research and writing. It introduces students to intertextual relationships between old forms and new that exemplify literary movements and influences as well as canon and counter-canon formation. \r\nPrerequisite: AP/EN 1001 3.00 or permission by the department."
+        },
+        {
+            "dept": "en",
+            "code": "1006",
+            "credit": 3.0,
+            "name": "A Writer's Introduction to Literary Forms ",
+            "prereqs": "",
+            "desc": "An introduction to the fundamental principles governing the production and reception of four principal literary forms in English: poetry, prose fiction, prose non-fiction and drama. Extensive consideration is given to the form's ties to the parallel concept of genre. \r\nCourse credit exclusion: AP/PRWR 1006 3.00 (prior to Fall 2012).\n"
+        },
+        {
+            "dept": "en",
+            "code": "1101",
+            "credit": 6.0,
+            "name": "Literature and Law",
+            "prereqs": "",
+            "desc": "Explores the representation of legal issues in literature, by analyzing how authors thematize justice and injustice (social, economic, political, racial, via depictions of crime, policing, state power and individual resistance). It also explores when and why literature has become a focus of legal concern (libel, obscenity, pornography), resulting in bans, censorship, or special protection (sacred texts). Previously offered as: AP/EN 1101 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "1102",
+            "credit": 6.0,
+            "name": "Literature and Health",
+            "prereqs": "",
+            "desc": "Explores themes of physical and mental health-related issues in literature, the literary conventions and figurative language necessary for their expression, as well as the use of literature in health-related practices. From the conception of life to death, issues include varieties of trauma, euphoria, disease, recovery, and pain as signifier of negative occurrence and positive accomplishment. Course credit exclusion: AP/EN 1102 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "1700",
+            "credit": 9.0,
+            "name": "Writing: Process and Practice",
+            "prereqs": "",
+            "desc": "This course considers a wide range of written expression including fiction, nonfiction, poetry and other genres, with an emphasis on the theory and practice of writing. Note: This is an approved LA&amp;PS General Education course: Humanities.\nCourse credit exclusion: AP/WRIT 1980 9.00 (prior to Fall 2012), AP/WRIT 1701 9.00, AP/WRIT 1702 6.00, AP/WRIT 1703 6.00\n"
+        },
+        {
+            "dept": "en",
+            "code": "1900",
+            "credit": 3.0,
+            "name": "Reconciling Literature: Understanding Texts &amp; Contexts",
+            "prereqs": "",
+            "desc": "This course responds to the Truth and Reconciliation Commission's Calls to Action by examining literature representing Canadian Indigenous peoples. While building student capacity for intercultural understanding, this course introduces literary elements and techniques, and the methods of textual analysis.\r\nCourse credit exclusions: GL/EN 1520 6.00, GL/EN/HUMA 1602 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "1901",
+            "credit": 3.0,
+            "name": "Reading with Purpose: An Introduction to Contemporary Critical Approaches to Literature",
+            "prereqs": "",
+            "desc": "This course introduces students to the interpretive methods and theoretical concepts used in contemporary literary criticism. By studying both primary texts and numerous critical responses, the goal is for students to develop their own critical thinking and writing about literature.\r\nCourse credit exclusions: AP/EN 1001 3.00, AP/EN 1006 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "1902",
+            "credit": 3.0,
+            "name": "Beyond Google: Research Methods in English Studies",
+            "prereqs": "",
+            "desc": "This course introduces the research methods appropriate for English literary studies shared by other disciplines in the humanities. Going beyond basic search engine queries, the students master discipline-specific research databases and resources, apply critical source-evaluation, and learn to use referencing styles."
+        },
+        {
+            "dept": "en",
+            "code": "1903",
+            "credit": 3.0,
+            "name": "English in the World; the World in English",
+            "prereqs": "",
+            "desc": "This course introduces students to the historical development and current state of English as a world language, particularly in the context of cultural, economic and political globalization. Course themes explore the world of English through literatures, popular culture, and new media, drawing attention to their implications for English Language Teaching."
+        },
+        {
+            "dept": "en",
+            "code": "1910",
+            "credit": 6.0,
+            "name": "Introduction to Communication Studies",
+            "prereqs": "",
+            "desc": "This course introduces the main sub-fields in communication studies and the approaches to studying them from the perspective of the individual, organizations, and society. \r\nCorequisite: GL/COMS 1100 3.00. Course credit exclusion: GL/COMS 1000 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "1953",
+            "credit": 6.0,
+            "name": "Canadian Writers in Person",
+            "prereqs": "",
+            "desc": "Explores the works of 12 contemporary Canadian writers who give readings to the class and respond to questions about their work."
+        },
+        {
+            "dept": "en",
+            "code": "2001",
+            "credit": 3.0,
+            "name": "Literary Theory I",
+            "prereqs": "",
+            "desc": "Introduces students to early literary theory. We will discuss major developments in the theory and practice of literary representation, from antiquity to romanticism; students will learn the meanings and implications of historically foundational critical terms and debates. Course credit exclusion: AP/EN 2000 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "2002",
+            "credit": 3.0,
+            "name": "Literary Theory II",
+            "prereqs": "",
+            "desc": "Introduces students to contemporary literary and cultural theory. We will discuss major developments in the theory and practice of literature, from romanticism to postmodernism; students will learn the meanings and political implications of current critical terms and debates.\r\nCourse credit exclusion: AP/EN 2000 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "2010",
+            "credit": 6.0,
+            "name": "Gender Studies",
+            "prereqs": "",
+            "desc": "An examination of how gender mediates the creation, reception and interpretation of literary/cultural texts. It provides students with critical tools for understanding gender in contemporary theory, and reading and writing about gender in literary texts."
+        },
+        {
+            "dept": "en",
+            "code": "2130",
+            "credit": 6.0,
+            "name": "The Short Story",
+            "prereqs": "",
+            "desc": "Provides an overview of the short story genre from its inception in the early nineteenth century to the present. It provides detailed analyses and theoretical considerations of the form of stories by well-known writers from many countries. PRIOR TO SUMMER 2015: Course credit exclusions: AP/EN 4130 3.00, AP/EN 4130 6.00.\nCCE: AP/EN 2130 3.00"
+        },
+        {
+            "dept": "en",
+            "code": "2130",
+            "credit": 3.0,
+            "name": "The Short Story",
+            "prereqs": "",
+            "desc": "Provides an overview of the short story genre from its inception in the early nineteenth century to the present. It provides detailed analyses and theoretical considerations of the form of stories by well-known writers from many countries. PRIOR TO SUMMER 2015: Course credit exclusions: AP/EN 4130 3.00, AP/EN 4130 6.00.\nCCE: AP/EN 2130 6.00"
+        },
+        {
+            "dept": "en",
+            "code": "2140",
+            "credit": 6.0,
+            "name": "Drama",
+            "prereqs": "",
+            "desc": "An introduction to the study of drama, presented from a theatrical as well as a literary point of view, with the emphasis on the changing nature of dramatic convention and the relation of plays to their historical background. PRIOR TO FALL 2010: Course credit exclusions: GL/DRST 2610 3.00, GL/DRST 2612 3.00, GL/EN 2610 3.00, GL/EN 2612 3.00, GL/HUMA 2610 3.00, GL/HUMA 2612 3.00. Previously offered as: AP/EN 2140 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "2170",
+            "credit": 3.0,
+            "name": "Horror and Terror: Variations on Gothic",
+            "prereqs": "",
+            "desc": "The course addresses Gothic as a popular genre eliciting and managing fear, whether accompanied by anticipation and dread (terror) or confrontation and disgust (horror). Attention is paid to Gothic's 18th-century origins, but the focus is on more recent texts. \r\nCourse credit exclusion: AP/EN 2300 3.00 (prior to Fall 2011), AP/EN 3170 3.00\r\nPrior to Fall 2011: AP/EN 3170 3.00 was AP/EN 2300 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "2172",
+            "credit": 3.0,
+            "name": "Apocalyptic Science Fiction",
+            "prereqs": "",
+            "desc": "This course surveys apocalyptic themes from the Bible to the present day. It focuses primarily on images of the end of the world in 19th- and 20th-century science fiction, and places the works studied in their cultural and historical contexts. \r\nCourse credit exclusion: AP/EN 2302 3.00 (prior to Fall 2011)., AP/EN 3172 3.00\r\nPrior to Fall 2011: AP/EN 3172 3.00 was AP/EN 2302 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "2174",
+            "credit": 3.0,
+            "name": "20th Century Children's Literature",
+            "prereqs": "",
+            "desc": "This course is a historical study of children's literature written in the 20th century. It explores possible ways of reading that literature, taking into account such issues as its cultural context and its audience. \r\nCourse credit exclusions: GL/EN 3590 6.00 (prior to Fall 2013), AP/EN 2304 3.00 (prior to Fall 2011), AP/EN 3174 3.00"
+        },
+        {
+            "dept": "en",
+            "code": "2176",
+            "credit": 3.0,
+            "name": "Comics and Cartoons I",
+            "prereqs": "",
+            "desc": "From the Yellow Kid to Captain America (1900-Cold War) this course explores the growth of comics and cartoons: creative conflicts, contexts and themes (outsiders, war, ethnicity), Bugs Bunny, Superman, superheroes and Disney, and how they account for their times. \r\nCourse credit exclusion: AP/EN 2306 3.00 (prior to Fall 2011), AP/EN 2176 3.00"
+        },
+        {
+            "dept": "en",
+            "code": "2177",
+            "credit": 3.0,
+            "name": "Comics and Cartoons II",
+            "prereqs": "",
+            "desc": "From Road Runner to The Simpsons, this course explores trends in post-war comics and cartoons: vigilantism, paranoia, national insecurity, normality and abnormality, Peanuts and MAD, the counterculture, R. Crumb, Spiderman, X-Men and new directions. \r\nCourse credit exclusion: AP/EN 2307 3.00 (prior to Fall 2011), AP/EN 3177 3.00\r\nPrior to Fall 2011: AP/EN 3177 3.00 was AP/EN 2307 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "2220",
+            "credit": 6.0,
+            "name": "Canadian Literature",
+            "prereqs": "",
+            "desc": "A critical and historical study of the literature of Canada. When relevant, material for the course will be drawn from other literatures. \r\nPRIOR TO FALL 2013: course credit exclusion: GL/EN 2550 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "2230",
+            "credit": 6.0,
+            "name": "Introduction to American Literature",
+            "prereqs": "",
+            "desc": "Provides a broad but selective overview of American literature from the European encounter to the present. It introduces students to the major concepts, issues, contexts, events, and writers necessary for future study in the field."
+        },
+        {
+            "dept": "en",
+            "code": "2231",
+            "credit": 6.0,
+            "name": "African American Literature",
+            "prereqs": "",
+            "desc": "An introduction to the African American literary tradition across genres, from its slavery-era origins until today, exploring representations of selfhood, consciousness, solidarity, conflict, power, literacy, voice, heritage, and destiny."
+        },
+        {
+            "dept": "en",
+            "code": "2250",
+            "credit": 6.0,
+            "name": "Introduction to British Literature",
+            "prereqs": "",
+            "desc": "This course introduces British literature in its historical context, from its Germanic roots and the earliest writings in English to the contemporary period. There will be reading from historical accounts as well as non-canonical writings. PRIOR TO FALL 2013: Course credit exclusion: GL/EN 2510 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "2261",
+            "credit": 3.0,
+            "name": "Introduction to World Literature 1: Beginnings to the Early Modern Period",
+            "prereqs": "en1001",
+            "desc": "This course surveys a wide range of literary forms and genres (myth, epic, ballad, lyric, drama, romance, novel), from the earliest surviving literary texts to the 17th century, drawing on literatures from all areas of the globe. The course also surveys critical interrogations of world literature. \r\nPrerequisites: English Majors/Minors must complete AP/EN 1001 3.0 (with a grade of D or higher) and A/P EN 1002 3.0 (with a grade of C or higher).  Non-majors by permission.\r\nCourse credit exclusions:  AP/EN 2260 6.0"
+        },
+        {
+            "dept": "en",
+            "code": "2262",
+            "credit": 3.0,
+            "name": "Introduction to World Literature 2: The Modern Period",
+            "prereqs": "en1001",
+            "desc": "This course surveys a wide range of literary forms and genres (myth, epic, ballad, lyric, drama, romance, novel), from the 18th century to the 21st, drawing on literatures from all areas of the globe. The course also surveys critical interrogations of world literature. \r\nPrerequisites: English Majors/Minors must complete AP/EN 1001 3.0 (with a grade of D or higher) and A/P EN 1002 3.0 (with a grade of C or higher).  Non-majors by permission.\r\nCourse credit exclusions:  AP/EN 2260 6.0"
+        },
+        {
+            "dept": "en",
+            "code": "2632",
+            "credit": 6.0,
+            "name": "Western Drama: Ancient to Modern",
+            "prereqs": "",
+            "desc": "This course provides a text-based study of major theatrical achievements from early Greece to the late nineteenth century. This study situates the plays within cultural and historical contexts while focusing on practices of theatrical staging. PRIOR TO FALL 2010: course credit exclusions: GL/EN 2610 3.00, GL/EN 2612 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "2633",
+            "credit": 6.0,
+            "name": "The Literary Tradition of English",
+            "prereqs": "",
+            "desc": "This course provides an introduction to the literary tradition of the English language from the medieval period to the 21st century. Historical and cultural backgrounds to major periods and authors are considered, and important works are selected for close study. Course credit exclusions: AP/EN 2250 6.00, GL/EN 2510 6.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "en",
+            "code": "2900",
+            "credit": 3.0,
+            "name": "Sex, Swords, and Sandals: Classical Foundations of English Literature",
+            "prereqs": "",
+            "desc": "This course studies classical Greco-Roman texts and mythology, which have influenced the development of English literature, through a variety of theoretical approaches, including Freudian psychoanalytical readings and Jungian archetypal criticism."
+        },
+        {
+            "dept": "en",
+            "code": "2902",
+            "credit": 3.0,
+            "name": "Idea, Opinion, Argument: Rhetoric for Academic Settings",
+            "prereqs": "",
+            "desc": "This course introduces students to the theory and practice of effective persuasion in academic discourse. Focusing on written forms of persuasion from various fields, students will gain argumentative expertise by understanding the history and written techniques of rhetorical communication.\r\nCourse credit exclusion:  AP/PRWR 2007 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Teaching English in the Intermediate Division",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning English in the intermediate grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "en",
+            "code": "3011",
+            "credit": 3.0,
+            "name": "Reading the News: Examining the Rhetoric of the Press",
+            "prereqs": "",
+            "desc": "This course examines not only what is &quot;news&quot; but how the press presents news stories to the reading public. Issues in bias, spinning and framing, ideology and politics will be of focus. \r\n\r\nCourse credit exclusions: AP/WRIT/EN 4752. \r\nPRIOR TO FALL 2009: Course credit exclusion: AS/EN 4756 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "3175",
+            "credit": 3.0,
+            "name": "Travel Writing in English",
+            "prereqs": "",
+            "desc": "Dealing with 19th- and 20th-century travel writing (British, Canadian, American, African, Asian and Caribbean), this course examines the construction of a travelling/narrating self, its representations of other landscapes, cultures and peoples and the writer's rhetorical strategies. \r\nCourse credit exclusion: AP/EN 2305 3.00 (prior to Fall 2011).\r\n\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/EN 2260 3.00.\r\n"
+        },
+        {
+            "dept": "en",
+            "code": "3191",
+            "credit": 3.0,
+            "name": "Comedy",
+            "prereqs": "",
+            "desc": "The nature, powers and limits of comedy are explored through reading a selection of comedies from Elizabethan to modern times. "
+        },
+        {
+            "dept": "en",
+            "code": "3192",
+            "credit": 6.0,
+            "name": "Tragedy in Western Literature: Ancient and Modern",
+            "prereqs": "",
+            "desc": "A study of concepts of tragedy and tragic themes in literature from antiquity to the present viewed in their cultural and historical contexts as well as in relation to their contemporary relevance. Readings by authors such as Aeschylus, Shakespeare, Ibsen, Chekhov, Pirandello, Brecht. \r\nCourse credit exclusion: AP/EN 4142 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "3193",
+            "credit": 6.0,
+            "name": "Studies in Satire",
+            "prereqs": "",
+            "desc": "An examination of works that exemplify one of the four major kinds of literature - satire. Students will focus on works of one or two authors, periods, and/or genres, from antiquity to the present. Course credit exclusion: AP/EN 3193 3.00. PRIOR TO FALL 2013: Course credit exclusions: AP/EN 2150 3.00, AP/EN 2150 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "3220",
+            "credit": 6.0,
+            "name": "Modern Canadian Drama",
+            "prereqs": "",
+            "desc": "This course focuses on the wide range of English-language drama written and performed in Canada since 1967. \r\nCourse credit exclusions: GL/DRST 3950 6.00, GL/EN 3950 6.00, GL/HUMA 3950 6.00, AP/EN 3220 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "3255",
+            "credit": 3.0,
+            "name": "Indigenous Drama in Canada",
+            "prereqs": "",
+            "desc": "This course offers a literary and theatrical study of Indigenous drama in Canada with some attention to critical theory and relevant historical and cultural contexts. It examines the historical and theatrical conditions that led to the emergence and growth of Indigenous drama in Canada, analyzing key texts in terms of their formal, thematic, and theatrical innovations.\nCourse Credit Exclusions: GL/DRST 3633 "
+        },
+        {
+            "dept": "en",
+            "code": "3305",
+            "credit": 3.0,
+            "name": "Native American Literature",
+            "prereqs": "en1001 en1002",
+            "desc": "Surveys a range of writings by (and occasionally about) Native Americans from the US, beginning with the oral tradition and extending to the present day.\r\nPrerequisites: For English Majors/Minors only; AP/EN 1001 3.00 (with a grade of C or higher) and AP/EN 1002 3.00 (with a grade of C or higher). Course credit exclusions: AP/MIST 3538 6.00, AP/MIST 4765 3.00, AP/MIST 4765 6.00, AP/REI 3538 6.00 (prior to Fall 2013), AP/REI 4765 3.00 (prior to Fall 2013), AP/REI 4765 6.00 (prior to Fall 2013). Open to: Yr  03 and Yr 04 English, ENPR, PRWR and CRWR majors/ minors.\r\n"
+        },
+        {
+            "dept": "en",
+            "code": "3323",
+            "credit": 3.0,
+            "name": "American Literature: 21st Century",
+            "prereqs": "",
+            "desc": "Explores American literature in the twenty-first century. The course will emphasize emerging literary voices of the new millennium but will also consider how writers who established themselves in the twentieth century adapt to, and write about, the changing cultural conditions of the new century.\r"
+        },
+        {
+            "dept": "en",
+            "code": "3331",
+            "credit": 6.0,
+            "name": "Into the Fray: British Literature from the Romantic Period",
+            "prereqs": "",
+            "desc": "This course focuses on British literary works from the Romantic Period (1770-1832), a period of literal and literary revolutions with writers actively engaging with real world issues. Topics under consideration include the role of the individual in society, the effects of technology, poverty, race relations, class, and gender expectations, and the question of what \u0093counts\u0094 as literature.\r\nCourse credit exclusions: GL/EN 3222 3.00/6.00, GL/EN 3330 6.00, AP/EN 3560 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "3410",
+            "credit": 3.0,
+            "name": "Caribbean Literature",
+            "prereqs": "",
+            "desc": "Examines Caribbean literature in English. The course explores how colonialism, post-colonialism and the lived experiences of the Caribbean people have shaped the novel, short story, poetry and drama."
+        },
+        {
+            "dept": "en",
+            "code": "3420",
+            "credit": 6.0,
+            "name": "African Literature",
+            "prereqs": "",
+            "desc": "This course introduces students to some important literary works from the continent of Africa. Texts will be studied in the context of histories of decolonialization of African nation states and how African writers respond to this history. \r\nCourse credit exclusions: None. \r\n\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/EN 2371 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "3440",
+            "credit": 6.0,
+            "name": "Contemporary Literature",
+            "prereqs": "",
+            "desc": "A study of literature published since 1950 focusing on writing in English from at least two regions, including Europe and North America."
+        },
+        {
+            "dept": "en",
+            "code": "3535",
+            "credit": 6.0,
+            "name": "Shakespeare",
+            "prereqs": "",
+            "desc": "An introduction to the study of Shakespeare's plays. Course credit exclusions: AP/EN 3536 6.00, GL/DRST 3620 6.00, GL/EN 3620 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "3545",
+            "credit": 3.0,
+            "name": "Elizabethan and Jacobean Drama",
+            "prereqs": "",
+            "desc": "This survey will familiarize students with the work of Shakespeare and his Elizabethan and Jacobean contemporaries with emphasis on the dramatic language of the periods. \nCourse credit exclusions:  AP/EN 3545 6.00, AP/EN 3536 6.00, AP/EN 4536 6.00, GL/DRST/EN 3630 3.00, GL/DRST/EN 3630 63.00"
+        },
+        {
+            "dept": "en",
+            "code": "3555",
+            "credit": 3.0,
+            "name": "Bede, Battles, &amp; Beowulf: Anglo-Saxon Literature in Translation",
+            "prereqs": "",
+            "desc": "This course focuses on literature in Old English (c.700-1100), including poetry, prose chronicles, letters, and the earliest English epic, Beowulf, all of which will be read in translation. The cultural context will also be considered, especially recent archeological discoveries."
+        },
+        {
+            "dept": "en",
+            "code": "3560",
+            "credit": 6.0,
+            "name": "The English Romantics",
+            "prereqs": "",
+            "desc": "A study of the period 1780-1830 in English poetry and prose, that is, of the Romantics and some of their contemporaries. \r\nCourse credit exclusion: AP/EN 3625 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "3604",
+            "credit": 3.0,
+            "name": "Varieties of English",
+            "prereqs": "en1601 en1603",
+            "desc": "Within a linguistic framework, the course analyzes written and oral varieties of English language and language use based on social, temporal, geographical, institutional and individual circumstances. Prerequisite: GL/EN 1601 6.00 or GL/EN 1603 6.00 or an equivalent introductory linguistics course or permission of the Instructor. \r\nFor GL/EN 3604 6.00 Praat software is used in the study of oral varieties."
+        },
+        {
+            "dept": "en",
+            "code": "3606",
+            "credit": 3.0,
+            "name": "Learning English as a Second Language",
+            "prereqs": "",
+            "desc": "This course studies the process of acquisition of a second language, considered in the light of relevant theory and research, and the analysis of linguistic, psychological, sociocultural and other factors in second language learning. Course credit exclusion: GL/EN 3500 3.00, AP/LING 3240 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "3620",
+            "credit": 6.0,
+            "name": "Reading Shakespeare",
+            "prereqs": "",
+            "desc": "A study of a representative selection of Shakespeare's playtexts, with particular attention to how we produce their meanings.\nCourse credit exclusions: AP/EN 3535 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "3622",
+            "credit": 6.0,
+            "name": "Postcolonial Drama in English",
+            "prereqs": "",
+            "desc": "This course examines contemporary English-speaking postcolonial drama issuing from one or a combination of the following regions: South and West Africa, Southeast Asia, India, Australia, New Zealand, the Caribbean and Canada."
+        },
+        {
+            "dept": "en",
+            "code": "3625",
+            "credit": 3.0,
+            "name": "Medieval English Drama",
+            "prereqs": "",
+            "desc": "This course studies the early development of English drama from the Biblical cycles of the medieval carft guilds, and the moralities and interludes, through to the humanist drama of the first half of the 16th century."
+        },
+        {
+            "dept": "en",
+            "code": "3806",
+            "credit": 6.0,
+            "name": "Digital Media and Publishing",
+            "prereqs": "",
+            "desc": "This experiential course gives students the opportunity to develop skills in writing, editing and digital production that will allow them to design and produce a digital arts and culture magazine. "
+        },
+        {
+            "dept": "en",
+            "code": "3941",
+            "credit": 6.0,
+            "name": "From Dominion to Domain Name: Twentieth-Century Canadian Literatures",
+            "prereqs": "",
+            "desc": "This course surveys literary production in Canada from the First World War to the late twentieth century. Particular attention is paid to the problems of canon-formation, transnational political issues, and the importance of Indigenous and multicultural works within the literary tradition in English Canada. Translated Francophone works are also examined to provide a comparative study of the literary tradition of Quebec. By covering a variety of texts from across the country, this course aims to provide students with a firm grounding in the historical development of literary cultures in Canada.\r\nCourse credit exclusions: AP/EN 2220 6.00, AP/EN 3230 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching English in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of English in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching English in the intermediate and senior grades. \nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "en",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching English in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of English in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching English areas in order to further develop students' expertise for teaching this subject. ED/EN 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "en",
+            "code": "4050",
+            "credit": 3.0,
+            "name": "The Arts of Memory",
+            "prereqs": "",
+            "desc": "Thematically organized around studies in memory, this course traverses literature, philosophy, psychology and the visual arts, from Plato to the digital age, in an effort to understand the interrelatedness of all the arts with respect to one of the most complicated domains of human thought and practice. \r\nCourse credit exclusions: AP/COMN 4780 6.00, AP/EN 4050 6.00. Open to: Yr 04 English majors/minors. Notes: students who have taken AP/EN 4070 6.00 A (Fall/Winter 2009-2010) or AP/EN 4070 6.00 B (Fall/Winter 2011-2012) may not take AP/EN 4050 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "4061",
+            "credit": 3.0,
+            "name": "Ecocriticism: Environmental Justice Literature",
+            "prereqs": "",
+            "desc": "This course complicates the canon of nature writing by examining ways in which environmental justice writing consistently links the exploitation of the environment with human exploitation. Attention is also paid to how environmental degradation unequally effects poor people and ethnic minorities. \r\nCourse credit exclusions: None. \r\n\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/EN 4451 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "4070",
+            "credit": 6.0,
+            "name": "Literature and Other Arts",
+            "prereqs": "",
+            "desc": "Studies in critical theory and literature's relationship to the visual arts, music and film."
+        },
+        {
+            "dept": "en",
+            "code": "4099",
+            "credit": 6.0,
+            "name": "Honours Thesis/Work Placement",
+            "prereqs": "",
+            "desc": "Provides an opportunity for sustained research under the direction of a member of the department on topics not covered in the English curriculum. The research may take the form of either a thesis or a work placement. \nOpen only to Honours English students who have passed at least 84 credits, with the permission of the director of undergraduate studies in English. \nNote: Please consult the Faculty of Liberal Arts and Professional Studies' Academic Advising and Student Responsibility section of the calendar for regulations on independent reading courses and work placement.\nRegistration: It is regarded as tentative until a thesis proposal or work placement proposal  is submitted and approved in September. Students should have in mind an alternative course in case their September essay proposal should not be approved.\n"
+        },
+        {
+            "dept": "en",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Students will do independent reading and/or research, together with written assignments, under the guidance of a member of the English Department. Prerequisite: Permission of the department."
+        },
+        {
+            "dept": "en",
+            "code": "4115",
+            "credit": 6.0,
+            "name": "Contemporary Poetry and Poetics",
+            "prereqs": "",
+            "desc": "Examines some of the dominant trends in contemporary poetry and poetics in English-language poetry. Through analysis of the works of important post-WWII poets and theorists of poetry, the course investigates styles of writing and ideas that may be national and/or international in nature."
+        },
+        {
+            "dept": "en",
+            "code": "4120",
+            "credit": 6.0,
+            "name": "Studies in 18th-Century Literature: The Rise of the Novel",
+            "prereqs": "",
+            "desc": "Explores the early development of the novel from its partial origins in classical romance through a detour into the Oriental tale to its ultimate deconstruction in the writings of Laurence Sterne."
+        },
+        {
+            "dept": "en",
+            "code": "4140",
+            "credit": 3.0,
+            "name": "Contemporary Drama",
+            "prereqs": "",
+            "desc": "Studies in theatre and drama of recent decades; selected American, British, Canadian and European plays. \r\nCourse credit exclusion: AP/EN 4140 6.00. \r\n\r\nPRIOR TO FALL 2009:  Course credit exclusions: AK/EN 3670 6.00 (prior to Fall/Winter 2002), AK/EN 3930 6.00, AS/EN 4320 6.00, AK/THEA 3440 6.00 (prior to Summer 1995).\r\n\r\n"
+        },
+        {
+            "dept": "en",
+            "code": "4143",
+            "credit": 6.0,
+            "name": "Plays and Counterplays",
+            "prereqs": "",
+            "desc": "This seminar examines a number of contemporary theatrical interrogations - what Bertolt Brecht termed counterplays - of the plays of two major dramatists: William Shakespeare or Anton Chekhov. \r\nCourse credit exclusions: AP/EN 4143 3.00, AP/EN 4146 3.00. \r\n\r\nPRIOR TO FALL 2009: Course credit exclusions: AS/EN 4324 3.00, AS/EN 4326 3.00, AS/EN 4326 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "4161",
+            "credit": 3.0,
+            "name": "The Theory and Practice of Autobiography",
+            "prereqs": "",
+            "desc": "Through selected texts, this course examines the theories and practice of autobiography in transhistorical and transgeneric texts.\nCourse credit exclusions: AP/EN 4161 6.00 \n"
+        },
+        {
+            "dept": "en",
+            "code": "4163",
+            "credit": 6.0,
+            "name": "Visionaries: From Hildegard von Bingen and William Blake to Bob Dylan and Patti Smith",
+            "prereqs": "",
+            "desc": "Examines the visionary tradition - a heretical medley of trauma, trance, introspection, formal innovation, and apocalyptic speculation - in key poets and prose writers from William Blake to Sylvia Plath and James Merrill. Course credit exclusion: AP/EN 4163 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "4181",
+            "credit": 6.0,
+            "name": "Studies in Contemporary Literature: Writers and Drugs",
+            "prereqs": "",
+            "desc": "Explores the connections between drugs and writing in contemporary culture, including the intersections between religious, scientific and cultural thought and practice that go into constructing descriptions of drug experiences in our time."
+        },
+        {
+            "dept": "en",
+            "code": "4220",
+            "credit": 6.0,
+            "name": "Canadian Graphic Novel",
+            "prereqs": "en1001 en1002",
+            "desc": "Explores the Canadian graphic novel. It examines the development of this literary form in Canada and analyzes a range of graphic novels. Topics may include: the historical graphic novel, race and representation, and the intersection of visual culture and literary criticism. Please consult the department supplemental calendar for a detailed course description. Prerequisites: For English Majors/Minors only: AP/EN 1001 3.00 (with a grade of D or higher) and AP/EN 1002 3.00 (with a grade of C or higher)."
+        },
+        {
+            "dept": "en",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "Canadian Short Story",
+            "prereqs": "",
+            "desc": "This course explores the evolution and diversity of the short story as one of the signal achievements of Canadian literature. Taking note of some of its antecedents, we focus primarily on its development as a modern form. \r\nCourse credit exclusion: AP/EN 4230 6.00. \r\n\r\nPRIOR TO FALL 2009:  Course credit exclusions: AS/EN 4270A 6.00 (prior to Fall/Winter 2003-2004), AS/EN 4372 6.00, AS/EN 4274 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "4252",
+            "credit": 6.0,
+            "name": "Canadian Topics: Life-Writing",
+            "prereqs": "",
+            "desc": "Life writing raises issues of form voice, structure, selection of detail, persona, invention, context and the publishing process itself. In this course we examine these issues in a Canadian context with reference to wider theoretical questions as well. Course credit exclusion: AP/EN 4252 3.00."
+        },
+        {
+            "dept": "en",
+            "code": "4254",
+            "credit": 6.0,
+            "name": "Canadian Topics: Contemporary Writers",
+            "prereqs": "",
+            "desc": "With an eye to continuing and emerging themes, issues, and styles, this course examines works produced by Canadian writers over the recent decades.  A variety of genres are considered as well as relevant critical approaches and theories\r\nCourse credit exclusions:  AP/EN 4254 3.00, AP/EN 4255 6.00, GL/EN 4450 6.00. \r\n\r\nPRIOR TO FALL 2009: Course credit exclusions:  AK/EN 3963 6.00, AS/EN 4270E 6.00 (prior to Fall/Winter 2003-2004), AS/EN 4276 6.00, GL/EN 4450 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "4332",
+            "credit": 3.0,
+            "name": "Edgar Allan Poe",
+            "prereqs": "",
+            "desc": "Applying various critical approaches, the course examines Poe's tales of horror, his detective fiction, his one novel, his lyric poetry, and his critical theories about the short story and poetry."
+        },
+        {
+            "dept": "en",
+            "code": "4335",
+            "credit": 3.0,
+            "name": "Outcasts and Outsiders: Literature from the &quot;Other Side&quot; of the Victorian Period",
+            "prereqs": "",
+            "desc": "This course focuses on the Victorian period which has often been inaccurately labelled as the &quot;age of the middle-class&quot;-due to its emphasis on propriety, respectability, duty, honour and &quot;appropriate&quot; sexuality-and analyzes the literary emergence of those who fail to &quot;fit&quot; into mainstream middle-class Victorian society: the Outcasts and Outsiders."
+        },
+        {
+            "dept": "en",
+            "code": "4400",
+            "credit": 6.0,
+            "name": "Diaspora Literatures",
+            "prereqs": "",
+            "desc": "This course interprets diaspora broadly and addresses recent fiction written by migrant minorities (especially new immigrants who form visible minorities) and national minorities (such as the African diaspora and indigenous/tribal cultures) in Britain, Canada, the USA, Australia and New Zealand."
+        },
+        {
+            "dept": "en",
+            "code": "4420",
+            "credit": 6.0,
+            "name": "African Drama",
+            "prereqs": "",
+            "desc": "The course investigates the cultural and linguistic diversities of Africa and the constitutive roles of language, gender, history, the local, and the universal, in the production of African Drama."
+        },
+        {
+            "dept": "en",
+            "code": "4504",
+            "credit": 6.0,
+            "name": "Arthurian Literature",
+            "prereqs": "",
+            "desc": "A comparative historical examination of the adventure-romances, epics and spiritual narratives written in Medieval Europe about King Arthur and the Round-Table knights. Areas of study include the use of imaginative literature to control attitudes about warfare, gender, politics, spiritual development. PRIOR TO WINTER 2018: course credit exclusion: AP/HUMA 3003 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "4523",
+            "credit": 3.0,
+            "name": "Milton",
+            "prereqs": "",
+            "desc": "An introduction to the major poetry and selected prose of John Milton, featuring a reading of Paradise Lost that tracks the origins of this work in the Hebrew scriptures, Classical epic, and Renaissance humanism, as well as the history of the seventeenth century.\r\nPreviously offered as: AP/EN 4523 6.00.\n"
+        },
+        {
+            "dept": "en",
+            "code": "4531",
+            "credit": 3.0,
+            "name": "Renaissance Spectacles and Festivals: Civic and Court",
+            "prereqs": "",
+            "desc": "Explores civic and court ceremonies of the Tudor and Stuart era. Particular attention is paid to the spectacular and shifting rituals of power as they are played out in royal entries, coronations, Lord Mayor's shows, and masques. Course credit exclusion: AP/EN 4531 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "4596",
+            "credit": 9.0,
+            "name": "Teaching English as an International Language",
+            "prereqs": "",
+            "desc": "This course surveys current principles and practices of teaching English in settings outside Canada. Besides the methodological instruction at Glendon, an integral component of the course is a teaching practicum, normally fulfilled in an international setting, held for 2-3 weeks following the Spring exam period. Note: Open to students registered in the Certificate Programme in the Discipline of Teaching English as an International Language.\r\nPrerequisites: EN1903 3.0; EN 3595 6.0; EN 3606 3.0; A minimum grade of B is required in each of the above courses.\r\nCorequisite: EN 4695 3.0. A minimum grade of B will be required to continue in the DTEIL Certificate.\r\nCourse credit exclusion: GL/EN 4696 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "4606",
+            "credit": 6.0,
+            "name": "History of the English Language",
+            "prereqs": "en1601 en1603",
+            "desc": "Provides an outline of both the cultural and the formal linguistic history of English, from its beginnings to the present. \r\nPrerequisite: GL/EN 1601 6.00 or GL/EN 1603 6.00 or an equivalent introductory linguistics course or permission of the Instructor. Course credit exclusion: AP/LING 3060 3.00.\r\n"
+        },
+        {
+            "dept": "en",
+            "code": "4641",
+            "credit": 3.0,
+            "name": "Beyond &quot;Two Solitudes&quot;: The Contact Zones of Canadian Literature",
+            "prereqs": "",
+            "desc": "This course challenges the dichotomous model of Canada's anglophones and francophones as &quot;two solitudes&quot; by studying works of fiction, non-fiction and poetry (in English or English translation) that explore the contact zones between English, French and Indigenous Canadian writers."
+        },
+        {
+            "dept": "en",
+            "code": "4643",
+            "credit": 3.0,
+            "name": "Writing Toronto",
+            "prereqs": "",
+            "desc": "This course examines the literary representation of Toronto in Canadian prose and poetry, exploring themes of economic, racial, ethnic, and linguistic differences, as well as notions of landscape and identity; it investigates how these representations relate to literary regionalism and nationalist myths of identity. "
+        },
+        {
+            "dept": "en",
+            "code": "4644",
+            "credit": 3.0,
+            "name": "The Golden Age of Children's Literature (1863-1911)",
+            "prereqs": "",
+            "desc": "This course focuses on the &quot;Golden Age&quot; of Children's literature (1863-1911). Landmark texts are considered in terms of their innovation, experimentation and enduring influence. Cultural, historical, and sociopolitical contexts are considered."
+        },
+        {
+            "dept": "en",
+            "code": "4681",
+            "credit": 3.0,
+            "name": "Medieval Women's Writing",
+            "prereqs": "",
+            "desc": "This course explores texts in a variety of genres by women from Late Antiquity to the Early Modern Period. The strategies and techniques used by women in their attempts to set forth their views will also be considered."
+        },
+        {
+            "dept": "en",
+            "code": "4851",
+            "credit": 3.0,
+            "name": "Literary, Musical, and Visual Cultures: Modernism Across the Arts",
+            "prereqs": "",
+            "desc": "Examines literary, musical, and visual arts of the modernist period to explore why there is an inter and multidisciplinary impetus during the period and how such crossovers between and among different cultural forms contributes to the generation of new modes of artistic material.\r\nCourse credit exclusion: AP/CLTR 4851 6.00."
+        },
+        {
+            "dept": "en",
+            "code": "6000",
+            "credit": 0.0,
+            "name": "Literary Research Methods",
+            "prereqs": "",
+            "desc": "Situating literary research methods in the context of those of other disciplines, this course is designed to introduce new graduate students in English department to conceptual and methodological frameworks which characterize literary scholarship; how to perform literature reviews; specialized research and writing resources; critical methods for interrogating those resources; and relevant, emerging issues in scholarly communication. "
+        },
+        {
+            "dept": "en",
+            "code": "6010",
+            "credit": 3.0,
+            "name": "Directed Reading                       ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "en",
+            "code": "6010",
+            "credit": 6.0,
+            "name": "Directed Reading                       ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "en",
+            "code": "6010A",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "en",
+            "code": "6010A",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "en",
+            "code": "6150",
+            "credit": 3.0,
+            "name": "Satire: Twisting World Literature",
+            "prereqs": "",
+            "desc": "This course studies satire from its the origins to the present but along a distinct through-line of the sub-genre called the grotesque.  Melding repellent physicality with politically commentary, the grotesque invokes rude histories and contemporary dangers, producing abject responses to monstrous combinations of political horror and laughter. "
+        },
+        {
+            "dept": "en",
+            "code": "6157",
+            "credit": 3.0,
+            "name": "Comparative and World Literature Seminar: History and Practice",
+            "prereqs": "",
+            "desc": "Introduces students to the conditions of emergence and development of the discipline of Comparative Literature from its beginnings in nineteenth-century Europe to its most recent global iteration of World Literature. Students will experience how expanded understandings of cultural translation and textuality have radically altered and expanded the Eurocentric character of the discipline.\r\n\r\nQuestions for investigation includes: How have the aesthetics and politics of Comparative Literature changed over the past two hundred years? What factors have influenced those changes? How is World Literature related to Comparative Literature? How do both relate to colonial, post-colonial, diasporic, cultural and translation studies and digital humanities?"
+        },
+        {
+            "dept": "en",
+            "code": "6311",
+            "credit": 3.0,
+            "name": "Allegories of the Pastoral",
+            "prereqs": "",
+            "desc": "The Tradition of Pastoral in Literature, Theory, Film: From Edenic Myth to Lacanian Imaginary."
+        },
+        {
+            "dept": "en",
+            "code": "6450",
+            "credit": 3.0,
+            "name": "Nineteenth Century British Fiction",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "en",
+            "code": "6544",
+            "credit": 3.0,
+            "name": "Sophocles' Antigonein Modern and Contemporary International Re-visionings.",
+            "prereqs": "",
+            "desc": "This course examines international theatrical responses to Sophocles' Antigone.  2500 years later the tragedy resonates urgently in the 21stcentury. We study the cultural and political contexts of the Greek play and its re-visionings and interrogate philosophical, theatrical, thematic and theoretical concerns.  "
+        },
+        {
+            "dept": "en",
+            "code": "6564",
+            "credit": 3.0,
+            "name": "Redressing the Canon: Shakespeare and Contemporary Drama",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "en",
+            "code": "6695",
+            "credit": 3.0,
+            "name": "Muslim Women Write Back",
+            "prereqs": "",
+            "desc": "In this course we will read and discuss contemporary literature and theory by and about Muslim/Middle Eastern women, with an emphasis on current world issues."
+        },
+        {
+            "dept": "en",
+            "code": "6714",
+            "credit": 3.0,
+            "name": "Considering Black Canada ",
+            "prereqs": "",
+            "desc": "Focuses on contemporary black Canadian writing in English, investigating both the literature and theoretical frameworks for locating its concerns and impact.\r\n"
+        },
+        {
+            "dept": "en",
+            "code": "6743",
+            "credit": 3.0,
+            "name": "The International Avant-Garde (1896-1947)",
+            "prereqs": "",
+            "desc": "A survey of avant-garde poetry, prose, and drama in an international context."
+        },
+        {
+            "dept": "en",
+            "code": "6776",
+            "credit": 3.0,
+            "name": "Seminar-Workshop in Creative Writing: Poetry",
+            "prereqs": "",
+            "desc": "Along with matters of craft, this workshop course considers questions that confront poets: how to make poetry relevant in today's society, what forms of attention does poetry allow, what relationship to poetic tradition is most effective, what is an effective relationship towards formal tradition and innovation, etc. All students will write both poetry and academic\npapers (critical and/or theoretical engagements with elements of contemporary poetry and poetics). Students taking the course as part of the GDiP in Creative Writing will be evaluated primarily on their poetry; other students will be evaluated on the basis of their academic work."
+        },
+        {
+            "dept": "en",
+            "code": "6778",
+            "credit": 3.0,
+            "name": "Writing Food",
+            "prereqs": "",
+            "desc": "This course will train students in the history, craft, and profession of food writing. Students will gain expertise in multiple aspects of culinary literature, including restaurant reviews, food memoirs, cookbook writing, food journalism, play- and\nscreenwriting, food in social media, and scholarly research in foodways."
+        },
+        {
+            "dept": "en",
+            "code": "6779",
+            "credit": 3.0,
+            "name": "Seminar-Workshop in Creative Writing: Fiction",
+            "prereqs": "",
+            "desc": "What exactly is realism in fiction? How is it challenged by other ways of telling? Where is the border between factual and fictional narrative? How do we engage creatively with a world in crisis? Readings will be drawn from a range of contemporary fiction and criticism, spanning regions and genres. Students will write fiction and a short critical paper."
+        },
+        {
+            "dept": "en",
+            "code": "6988",
+            "credit": 3.0,
+            "name": "Girlhood",
+            "prereqs": "",
+            "desc": "Many scholars contend that girlhood is a modern invention. However, girls appear in many early modern texts. This course examines early modern conceptions of girlhood, looking at literary as well as historical figures, and seeking to locate a space for girls within current feminist theory. \r\n"
+        },
+        {
+            "dept": "en",
+            "code": "6998",
+            "credit": 3.0,
+            "name": "Studies in Contemporary Literature",
+            "prereqs": "",
+            "desc": "This course focuses on texts and theories of contemporary English literature. The content and method change from year to year, depending on the instructor. "
+        },
+        {
+            "dept": "en",
+            "code": "7000",
+            "credit": 0.0,
+            "name": "Dissertation Proposal Writing Workshop",
+            "prereqs": "",
+            "desc": "This writing workshop analyses the components of the dissertation proposal, discusses appropriate writing strategies, and provides a faculty-member-facilitated, peer-review setting for students to develop their dissertation topics and draft their proposals according to Faculty of Graduate Studies' guidelines.\r\n"
+        }
+    ]
+}

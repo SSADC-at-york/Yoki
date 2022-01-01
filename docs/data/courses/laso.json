@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "laso",
+            "code": "3365",
+            "credit": 6.0,
+            "name": "Privacy and the Law",
+            "prereqs": "",
+            "desc": "Examines contemporary legal doctrines of privacy with special attention paid to the underlying socio-political transformations they embody. The course will examine in detail the dilemmas facing privacy law in the age of social media.\n"
+        }
+    ]
+}

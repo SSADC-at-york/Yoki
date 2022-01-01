@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "lldv",
+            "code": "3735",
+            "credit": 6.0,
+            "name": "Language and Literacy Development 1",
+            "prereqs": "",
+            "desc": "The central purposes of this course are to enable teacher candidates: (i) to understand the process of language acquisition in hearing, Deaf and Hard-of-Hearing children; (ii) to understand reading/writing processes and how these children learn to read and write; (iii) to develop knowledge about the pedagogical practices and instructional approaches that best promote language/literacy learning with Deaf and Hard-of-Hearing students. There will be an emphasis on how theoretical understandings must underpin notions of pedagogy and classroom practice, and how practice can be interrogated in light of these theoretical frameworks. The expectation is that effective practitioners have a strong sense of what they know and how they know it, and what they are doing and why they are doing it. The general approach of the course will be exploratory rather than didactic. At all levels, learning can be thought of as research: an active construction of personal knowledge, based on formulating and testing hypotheses and, in light of an evaluation of the results, modifying one's beliefs and practices. In this spirit, we shall attempt to make connections between the reading, writing and discussion that take place in the course, and the reading, writing and discussion of the classroom setting. Class sessions will vary in format and will include discussions of the readings which are set for each week, lectures, guest presentations and work on individual and group projects.\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing. Only available to students in the Deaf and Hard of Hearing Teacher Education program. "
+        },
+        {
+            "dept": "lldv",
+            "code": "3736",
+            "credit": 6.0,
+            "name": "Language and Literacy Development in Deaf and Hard of Hearing Learners II",
+            "prereqs": "",
+            "desc": "The central purposes of this course are to develop an understanding of reading and writing processes in learners with hearing loss, and to develop knowledge about the pedagogical practices and assessment/evaluation strategies that support text-based literacy development in this population. There will be an emphasis on how theoretical understandings underpin notions of pedagogy and classroom practice, and how practice can be interrogated in light of these theoretical frameworks. The expectation is that effective practitioners have a strong sense of what they know and how they know it, and what they are doing and why they are doing it.  This course will provide teacher candidates with the skills and knowledge needed to provide assessment and instruction in the development of spoken language through listening, to learners who are Deaf or Hard of Hearing from preschool to school age. Information about typical child development and the impact of hearing loss on child development and school achievement will be presented. Assessment and instruction techniques will be presented and then applied during the practicum and case studies.\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        }
+    ]
+}

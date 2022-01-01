@@ -167,7 +167,7 @@ class CourseScraper:
         courses_info = []
         for course in courses:
             # debug statement
-            print(f"Current Scraping: {course[0]} {course[1]}")
+            print(f"Scraping: {course[0]} {course[1]}", end='\r')
 
             course_page_url = self.base_url + course[4]
 
@@ -246,7 +246,8 @@ class CourseScraper:
             thread = threading.Thread(target=self.scrape_subject, args=(subject,))
             thread.start()
             # waiting for a bit to not overload the server (this is wayyy faster then before)
-            time.sleep(2)
+            # if you have slow internet, you can increase this to 3-5 seconds 
+            time.sleep(1)
 
 
 def main():
@@ -254,10 +255,8 @@ def main():
     TODO: Migrate to pytest
     '''
     course_scraper = CourseScraper(exportdir="../../docs/data/courses")
-    start = time.time()
     course_scraper.start_full_scrape()
-    end = time.time()
-    print(f"Scraped all courses in {end - start} seconds")
+
 
 
 if __name__ == '__main__':

@@ -1,0 +1,556 @@
+{
+    "courses": [
+        {
+            "dept": "nurs",
+            "code": "1511",
+            "credit": 3.0,
+            "name": "Development of Self as Nurse: Professionhood and Knowledge of Nursing I",
+            "prereqs": "",
+            "desc": "Socialization into the profession and discipline of nursing through exploration of nursing theory, with emphasis on human science theories and multiple ways of knowing. Students examine aspects of theory and professionhood in relation to nursing/health care. Course Credit Exclusion: HH/NURS 1960 3.00 (prior to Winter 2012), HH/NURS 3040 3.00, HH/NURS 3010 3.00. Open to: Students in the York-Seneca-Georgian Collaborative and 2nd Entry BScN Program. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "1543",
+            "credit": 3.0,
+            "name": "Health and Healing: Health Assessment",
+            "prereqs": "nurs1542",
+            "desc": "Provides an overview of the theory and instruction in the skills of health assessment using therapeutic communication skills. Students will develop focused assessment skills related to the physical, psychosocial and spiritual aspects of the healthy individual across the lifespan. Prerequisite: HH/NURS 1542 2.00. Corequisite: HH/NURS 1521 3.00. Prerequisite or corequisite: HH/NURS 1532 3.00. Open to: Students in the York-Seneca-Georgian Collaborative and 2nd Entry BScN Programs. Note: A minimum grade 5.00 (C+) is required in this course for the BScN degree. "
+        },
+        {
+            "dept": "nurs",
+            "code": "1900",
+            "credit": 6.0,
+            "name": "Health &amp; Healing: Nursing in the Context of Wellness",
+            "prereqs": "",
+            "desc": "Introduces students to the foundation of nursing practice through classroom, laboratory, and practicum settings. A wellness focus frames exploration of lifespan issues. Introduces nursing therapeutics through theory and practice of the fundamental healing arts. Open only to: students enrolled in the 2nd Entry BScN program. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "1900P",
+            "credit": 0.0,
+            "name": "Practicum for HH/NURS 1900 6.00",
+            "prereqs": "",
+            "desc": "Students enrolled in HH/NURS 1900 6.00 must also enrol in this mandatory practicum. "
+        },
+        {
+            "dept": "nurs",
+            "code": "1950",
+            "credit": 3.0,
+            "name": "Development of Self as Nurse: Foundations Of Nursing: Thinking, Communicating, and Relating",
+            "prereqs": "",
+            "desc": "Introduces students to the discipline of nursing by exploring its evolution, key concepts, processes and obligations. With reference to selected nursing theorists and caring concepts and using experiential learning activities, this course aims to strengthen thinking, communicating and relating in nursing. Open only to: students enrolled in the 2nd Entry BScN Program. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "2300",
+            "credit": 3.0,
+            "name": "Development of Self as Nurse: Understanding and Interpreting Quantitative Data Analysis in Nursing Research",
+            "prereqs": "",
+            "desc": "Introduces the concepts of quantitative data analysis within the context of nursing research. Focuses on understanding and interpreting research results through examination of nursing research. Examines the fit between research purpose and results, and results and implications for nursing practice. Course credit exclusions: HH/PSYC 2021 3.00, HH/KINE 2050 3.00. Open to: students in the Post RN IEN BScN program. Note 1: Recommend HH/NURS 2300 3.00 be completed prior to or concurrently with HH/NURS 3300 3.00 or equivalent. Note 2: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "2512",
+            "credit": 3.0,
+            "name": "Development of Self as Nurse: Professionhood and Knowledge of Nursing II",
+            "prereqs": "nurs1511",
+            "desc": "Builds on HH/NURS 1511 3.00 by expanding application of knowledge of nursing. Introduction of professional organizations, standards and nursing leadership roles and their impact on professional practice and health care today. Prerequisite: HH/NURS 1511 3.00. Prerequisite or corequisite: HH/NURS 2513 3.00. PRIOR TO WINTER 2012: course credit exclusions: HH/NURS 1960 3.00, HH/NURS 2950 3.00. Open to: Students in the York-Seneca-Georgian Collaborative and 2nd Entry BScN Programs. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree. "
+        },
+        {
+            "dept": "nurs",
+            "code": "2522",
+            "credit": 6.0,
+            "name": "Health and Healing: Client-Centred Care of Individuals with Common Health Challenges ",
+            "prereqs": "nurs1521 nurs1543",
+            "desc": "Integrates the theoretical and practice components of client-centred nursing in the context of common health challenges. Through classroom and practicum experiences, students expand their knowledge of the therapeutic role of nursing and nursing praxis in situations of these health challenges. Prerequisite for Collaborative students: HH/NURS 1521 4.00, HH/NURS1543 2.00. Prerequisite or Corequisite for Collaborative students: HH/NURS 2533 3.00, HH/NURS 2534 3.00, HH/NURS 2544 3.00. Prerequisites for second Entry students: HH/NURS 1543 3.00, HH/NURS 1900 6.00. Corequisite for second Entry students: HH/NURS 2533 3.00. Students who failed to achieve the minimum grade of 5.00 (C+) in course prerequisites will be ineligible to proceed/withdrawn from this course. PRIOR TO WINTER 2012: course credit exclusion: HH/NURS 2900 6.00. Open to: Students in the York-Seneca-Georgian Collaborative and 2nd Entry BScN Programs. Notes: Students need to pass both the classroom and practical components in order to pass the course. Students must provide their own transportation to practice placements. A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "2522P",
+            "credit": 0.0,
+            "name": "Practicum for HH/NURS 2522 6.00",
+            "prereqs": "",
+            "desc": "Students enrolled in HH/NURS 2522 6.00 must also enrol in this mandatory practicum."
+        },
+        {
+            "dept": "nurs",
+            "code": "2533",
+            "credit": 3.0,
+            "name": "Processes of Human Diseases I",
+            "prereqs": "nurs1532",
+            "desc": "An introduction to human disease that focuses on the fundamental principles of homeostatic mechanisms and how alterations in homeostatic mechanisms disrupt the human body. Overall mechanisms of disease will be studied by systems and have been categorized into concepts. These concepts will be examined for the effect that they produce on the structure and function of the body. Prerequisite: HH/NURS 1532 3.00 or equivalent. PRIOR TO WINTER 2012: course credit exclusion: HH/NURS 2960 3.00. Open to: Students in the York-Seneca-Georgian Collaborative and 2nd Entry BScN Programs. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree. "
+        },
+        {
+            "dept": "nurs",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Trends and Contemporary Issues for the Aging Adult in Canada ",
+            "prereqs": "",
+            "desc": "Presents aging as a normal part of the life cycle and explores topics that demonstrate quality of life at every age. Examines current trends and issues for the aging adult in Canada with a nursing focus. Explore current topics such as ageism, sexuality, technology, abuse, care giving, mental wellness, cross-cultural issues and the positive contributions of older adults. Open to: York University BScN students. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Health and Healing: Promoting Health and Healing with Individuals and Families",
+            "prereqs": "",
+            "desc": "Philosophies and theories of health promotion and healing are critically examined. Students explore the meaning of health promotion with individuals in families, within a caring-healing perspective. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Creating Intercultural Safety  ",
+            "prereqs": "hlst1010 ihst1010 psyc1010",
+            "desc": "Global health requires students to understand the core concepts in understanding and navigating &quot;differences&quot; as these are socially produced and embedded within power relations. Students critically examine theoretical approaches to cultural safety, cultural competence and anti-oppression to develop an integrative approach to intercultural awareness and safety. Working with a broad definition of culture that explicitly includes an intersectional understanding of culture/diversity students explore the impact of cultural patterns and social locations on self and others. Through reflective assignments, students gain insight into their own cultural positionality and explore how to be an affective ally and advocate to promote equity and health for all. Understanding varied definitions of health and healing and different approaches to communication are fundamental tools for developing effective health care policies, strategies, and care approaches.\r\nPrerequisites: HH/HLST 1010 3.00 or HH/IHST 1010 3.00 or HH/PSYC 1010 6.00 \r\nNote: This course does not count as a science credit for BSc degree programs."
+        },
+        {
+            "dept": "nurs",
+            "code": "3514",
+            "credit": 3.0,
+            "name": "Development of Self as Nurse: Nurse as Leader and Agent of Change",
+            "prereqs": "nurs2512",
+            "desc": "Explores leadership and change theories and applies related concepts and processes to the practice of nursing. Develops understanding of the socio-political context for change, analyzes leadership and change strategies to enhance professional practice and health care. Prerequisite: HH/NURS 2512 3.00. Course Credit Exclusion(s): HH/NURS 3050 3.00 (prior to Winter 2012), HH/NURS 4000 3.00. Open to: Students in the York-Seneca-Georgian Collaborative and 2nd Entry BScN Programs. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3515",
+            "credit": 3.0,
+            "name": "Development of Self as Nurse: Research and Inquiry",
+            "prereqs": "",
+            "desc": "Explores the research basis of nursing practice. Research methods, including qualitative and quantitative approaches are examined along with methods of analysis. Students develop the ability to critique nursing research and to use research in practice. Course credit exclusions: HH/NURS 3300 3.00, AP/ADMS 2300 6.00. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3524P",
+            "credit": 0.0,
+            "name": "Practicum for HH/NURS 3524 6.00",
+            "prereqs": "",
+            "desc": "Students enrolled in HH/NURS 3524 6.00 must also enrol in this mandatory practicum. "
+        },
+        {
+            "dept": "nurs",
+            "code": "3524",
+            "credit": 6.0,
+            "name": "Health and Healing: Client Centred Care of Individuals and Families in Child and Mental Health Settings  ",
+            "prereqs": "nurs2523 nurs2534 nurs2512 nurs2513",
+            "desc": "Emphasizes planning and implementing caring/healing and health promotion activities with culturally diverse individuals and families in child health and mental health settings. A specific human science theory informs the construction and interpretation of client-centred approaches to care in each setting. Integrates current theory drawn from both within and outside of nursing with opportunities for clinical application through practicum placements. Prerequisites: HH/NURS 2523 6.00, HH/NURS 2534 3.00, HH/NURS 2512 3.00, HH/NURS 2513 3.00, HH/NURS 4525 6.00 (for second Entry BScN students only). Students who failed to achieve the minimum grade of 5.00 (C+) in course prerequisites will be ineligible to proceed/withdrawn from this course. Course Credit Exclusion: HH/NURS 3910 6.00. Open to: Students in the York-Seneca-Georgian Collaborative and 2nd Entry BScN Programs. Note: Students need to pass both classroom and both practicum components in order to pass the course. Students must provide their own transportation to practicum placements. "
+        },
+        {
+            "dept": "nurs",
+            "code": "3710",
+            "credit": 3.0,
+            "name": "Nurses' Experience in Health Care Environments",
+            "prereqs": "",
+            "desc": "Explores the lived experience of nurses in diverse healthcare settings. Through reading, dialogue, writing, on-site classes and guest conversations, students will transform their understanding of the experience of working in healthcare reform environments in which stories intermingle. Note: Open only to students in the BScN programs. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3740",
+            "credit": 3.0,
+            "name": "Health Care Planning for Communities",
+            "prereqs": "",
+            "desc": "This course provides a theoretical and methodological background for health problem analysis and program/service planning at the community and regional levels.  Cross-listed to: HH/NURS 3740 3.00"
+        },
+        {
+            "dept": "nurs",
+            "code": "3770",
+            "credit": 3.0,
+            "name": "Leadership Development: Part I",
+            "prereqs": "nurs3040 nurs3010",
+            "desc": "This course focuses on nursing management roles and functions, organizational structure and processes and the management of human resources in a variety of health care settings. Prerequisites: For students in the collaborative BScN program, HH/NURS 3040 3.00; for students in the Post-RN BScN program, HH/NURS 3010 3.00. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3780",
+            "credit": 3.0,
+            "name": "Clinical Decision-Making in Nursing Practice",
+            "prereqs": "",
+            "desc": "Extends the foundational preparation of the nursing process to explore theoretical frameworks influencing nurse decision-making in health care settings. Analyzes the nature of novice-to-expert thinking patterns, and the challenges for its development in entry level nursing practice. Applies concepts of clinical reasoning and judgment to complex and varied nursing care scenarios, and critiques person-centred outcomes in relation to safe and effective care. Prerequisites: For second Entry BScN students - completion of all 2000-level courses; For Collaborative BScN students- Completion of first- and second-year courses. Open to: BScN student only. Note 1: May be offered in face to face, or blended format; mandatory lab component. Note 2: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3800",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Students select an area for extensive reading and writing. Specific areas to be selected in consultation with an appropriate faculty member. Prerequisite: Students must be accepted by a faculty supervisor before they can register in this course. The course transaction form for this course must be submitted with the signature of the supervisor indicating willingness to supervise. Permission of the undergraduate director is also required. Open to: Students in the Post-RN BScN program. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3800",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Students select an area for extensive reading and writing. Specific areas to be selected in consultation with an appropriate faculty member. Prerequisite: Students must be accepted by a faculty supervisor before they can register in this course. The course transaction form for this course must be submitted with the signature of the supervisor indicating willingness to supervise. Permission of the undergraduate director is also required. Note: Open only to students in the Post-RN BScN program. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3901",
+            "credit": 3.0,
+            "name": "Pharmacotherapeutics for Nursing in Ontario",
+            "prereqs": "",
+            "desc": "Emphasizes the particulars of therapeutics used in the Canadian health care context. Focuses on pharmacology and specific nursing therapeutic regimens. Examines essential clinical content necessary for safe and competent nursing practice. Open to: students admitted to the qualifying pre-session of the Post RN IEN BScN program only. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3902",
+            "credit": 3.0,
+            "name": "Providing Culturally Competent Care",
+            "prereqs": "",
+            "desc": "Focuses on professional issues necessary for transition to the Canadian workplace. Social, political, and regulatory issues central to nursing in Ontario will be augmented with opportunities to be mentored in the healthcare workplace. Supports preparation of culturally competent practitioners. Open to: students admitted to the qualifying pre-session of the Post-RN IEN BScN program only. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "3950",
+            "credit": 3.0,
+            "name": "Development of Self: Communicating and Relating In Complex Situations",
+            "prereqs": "",
+            "desc": "Examines complex communication skills and explores how they influence the nurse's effectiveness working with client groups, collaborating on interdisciplinary teams and supporting families. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4131P",
+            "credit": 0.0,
+            "name": "Practicum for HH/NURS 4131 6.00",
+            "prereqs": "",
+            "desc": "Students enrolled in HH/NURS 4131 6.00 must also enrol in this mandatory practicum. "
+        },
+        {
+            "dept": "nurs",
+            "code": "4131",
+            "credit": 6.0,
+            "name": "Client Centered Care in the Canadian Context",
+            "prereqs": "nurs2731",
+            "desc": "Focuses on the care of patients and families within complex care situations using a client and family centred approach. Utilizes practice experience in Ontario healthcare settings to highlight essential competencies necessary for nursing practice in Canada. Prerequisite: HH/NURS 2731 6.00. Open to: Students admitted to the qualifying pre-session of the Post-RN IEN BScN program only. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4370",
+            "credit": 3.0,
+            "name": "The History and Health of Indigenous Individuals, Families and Communities",
+            "prereqs": "",
+            "desc": "Analyzes the impact of the history of Indigenous Peoples of Canada from a nursing perspective. Studies colonization, the Report of the Truth and Reconciliation Commission of Canada (TRCC), and other relevant materials to inform and provide context to the examination of topics related to Indigenous Health. Explores meaning of traditional healing, cultural safety and nursing praxis in Indigenous communities. Open to: Students in the York-Seneca-Georgian Collaborative and 2nd Entry BScN Programs. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4516",
+            "credit": 3.0,
+            "name": "Development of Self as Nurse: Advanced Professional Issues",
+            "prereqs": "nurs3514",
+            "desc": "Prepares students for transitioning into the workforce by examining the context of nursing practice within the Canadian health care system, analyzing current workplace and professional issues which influence nurses' roles in health care, and developing skills related to seeking employment. Prerequisite: HH/NURS 3514 3.00. Prerequisite or corequisite for Collaborative students: HH/NURS 4525 6.00, HH/NURS 4526 6.00. Prerequisites or corequisites for second Entry students: HH/NURS 4525 6.00, HH/NURS 3524 6.00. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4525",
+            "credit": 6.0,
+            "name": "Health and Healing: Community as Partner ",
+            "prereqs": "nurs3524",
+            "desc": "This course focuses on the community as partner. Knowledge and skills related to caring for the community will be explored. The roles, concepts, and theories related to promoting of communities, using population-focused approach, will be critically examined and applied in practice. A practicum with a minimum of 144 hours over a 12 week semester provides opportunity for praxis. Prerequisites for Collaborative BScN students: HH/NURS 3524 6.00. Prerequisite or corequisite for Collaborative BScN students: HH/NURS 3515 3.00, HH/NURS 3514 3.00. Prerequisite for second Entry BScN students: HH/NURS 2523 6.00. Prerequisite for Post RN IEN students: HH/NURS 4131 6.00. PRIOR TO FALL 2012: course credit exclusion: HH/NURS 4120 6.00. Notes: Students need to pass both practicum components in order to pass the course and are responsible for providing their own transportation to and from practicum sites. 2nd Entry and Post RN IEN students who failed to achieve the minimum grade of 5.00 (C+) in course prerequisites will be ineligible to proceed/withdrawn from this course. "
+        },
+        {
+            "dept": "nurs",
+            "code": "4525P",
+            "credit": 0.0,
+            "name": "Practicum for HH/NURS 4525 6.00",
+            "prereqs": "",
+            "desc": "Students enrolled in HH/NURS 4525 6.00 must also enrol in this mandatory practicum. "
+        },
+        {
+            "dept": "nurs",
+            "code": "4526",
+            "credit": 6.0,
+            "name": "Health and Healing: Client Centred Care of Individuals and Families in Homes and Acute Settings  ",
+            "prereqs": "nurs3524",
+            "desc": "Integrates the theoretical and practice components of family/client-centred nursing care with clients experiencing acute or chronic health challenges. Through classroom and practicum experiences, students expand their knowledge of the therapeutic role of nursing care of individuals and families in homes and acute care settings. Prerequisite: HH/NURS 3524 6.00. Prerequisites or corequisites: HH/NURS 3514 3.00, HH/NURS 3515 3.00. Students who failed to achieve the minimum grade of 5.00 (5.00 (C+)) in course prerequisites will be ineligible to proceed/withdrawn from this course. Course credit equivalent: HH/NURS 4130 6.00. Open to: Students in the York-Seneca-Georgian Collaborative BScN Program. Note: Students need to pass both classroom and practicum components in order to pass the course. Students are responsible for their own transportation to and from practice placements"
+        },
+        {
+            "dept": "nurs",
+            "code": "4526P",
+            "credit": 0.0,
+            "name": "Practicum for HH/NURS 4526 6.00",
+            "prereqs": "",
+            "desc": "Students enrolled in HH/NURS 4526 6.00 must also enrol in this mandatory practicum. "
+        },
+        {
+            "dept": "nurs",
+            "code": "4527",
+            "credit": 9.0,
+            "name": "Health &amp; Healing: Integrated Nursing Science Practicum",
+            "prereqs": "",
+            "desc": "Intensive practice experience in a variety of traditional and non-traditional nursing settings. Synthesizes previous knowledge to help students articulate a framework for professional and clinical practice. This course totals 432 practicum experience hours. Prerequisites: Successfully earned (completed) all prior BScN program courses. Corequisite: HH/NURS 4528 3.00. Students who failed to achieve the minimum grade of 5.00 (C+) in course prerequisites will be ineligible to proceed/withdrawn from this course. Course credit exclusions: HH/NURS 4110 9.00, HH/NURS 4900 9.00. Only open to: Collaborative and second Entry BScN students. Notes: Students must successfully complete both HH/NURS 4527 9.00 and HH/NURS 4528 3.00 concurrently in order to be recognized with a passing grade or credit in either course. Students are responsible for their own transportation to and from practicum sites. "
+        },
+        {
+            "dept": "nurs",
+            "code": "4528",
+            "credit": 3.0,
+            "name": "Health and Healing: Integrated Nursing Science Theory",
+            "prereqs": "",
+            "desc": "Synthesizes previous knowledge to help students articulate a framework for professional and clinical practice and apply to an intensive practice experience in a variety of traditional and non-traditional nursing settings. This course is equivalent to 36 classroom contact hours. Prerequisites: Successfully earned (completed) all prior BScN program courses. Corequisite: HH/NURS 4527 9.00. Course credit exclusions: HH/NURS 4111 3.00, HH/NURS 4901 3.00. Only open to: Collaborative and 2nd Entry BScN students. Note 1: Students must successfully complete both HH/NURS 4527 9.00 and HH/NURS 4528 3.00 concurrently in order to be recognized with a passing grade or credit in either course. Note 2: Students are responsible for their own transportation to and from practicum sites. Note 3: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4546",
+            "credit": 3.0,
+            "name": "Health and Healing: Global Context of Nursing ",
+            "prereqs": "",
+            "desc": "Focuses on global issues and trends related to present and future scenarios of human and planetary health. Caring, the central concept in nursing is explored within the global context. Nurses' roles, responsibilities and actions are examined in relation to the promotion of global health. Prerequisites or corequisites for BScN program: all 3000-level courses. Post-RN Course credit exclusion: HH/NURS 4100 3.00 (prior to Fall 2012). Open to: students in the York BScN program. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4610",
+            "credit": 3.0,
+            "name": "Human Experience of Chronic Health Challenges",
+            "prereqs": "nurs3040 nurs3300 nurs3040 nurs3300",
+            "desc": "Focus on human experience of living with chronic health challenges from perspectives of individuals, their families and caregivers, and the health care system. Explores personal accounts and reflections. Analyzes concepts, theories and relevant literature. Discussion focuses on current relevant issues. Prerequisites: For students in Collaborative BScN program, HH/NURS 3040 3.00 and HH/NURS 3300 3.00; for students in Post-RN BScN program, HH/NURS 3040 3.00 and HH/NURS 3300 3.00; or for students with equivalent preparation, permission of the Instructor. Note 1: Open only to students in the BScN program. Note 2: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4620",
+            "credit": 3.0,
+            "name": "Women's Health and Women's Health Movements: Critical Perspectives",
+            "prereqs": "",
+            "desc": "Through a collaborative learning environment, students will critically analyze issues affecting women's health/health care including pathologization, medicalization, women healers, women's mental health, body image, environmental and occupational health, sexuality, violence, diversity and societal marginalization, gender roles and women's health research. Note 1: Open only to students in the BScN program or with permission of the undergraduate director. Note 2: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4650",
+            "credit": 3.0,
+            "name": "Advanced Paediatric Nursing",
+            "prereqs": "nurs3524",
+            "desc": "Building on the fundamental content of HH/NURS 3524 6.00, this course will develop further depth and breadth of nursing knowledge related to the care of infants, children and youth. Through classroom learning, students will develop beginning expertise in the knowledge, skill and judgment critical for paediatric nursing. This course is suited to those who have an interest in a career in paediatrics. Prerequisite: HH/NURS 3524 6.00 for collaborative students. Prerequisite or corequisite: HH/NURS 3524 6.00 for second degree entry or by permission of the Instructor. Notes: 1) This course is best suited for those students who have had a paediatric placement in HH/NURS 3524 3.00. 2) A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4700",
+            "credit": 3.0,
+            "name": "Secondary Prevention of Heart Disease: Cardiac Rehabilitation in a Global Context",
+            "prereqs": "",
+            "desc": "Examines the secondary prevention of cardiovascular disease from a behavioural, psychosocial and health services lens. Major emphasis is placed on cardiac rehabilitation, with regard to delivery, effects on health outcomes, and equitable access. Development of cardiac rehabilitation in low-resource settings, and global efforts in control of non-communicable diseases will also be examined. \r\nPrerequisite or corequisite: HH/NURS 3515 3.00 or HH/KINE 2049 3.00 or HH/IHST 2100 3.00.\r\nCross-listed to: HH/IHST 4720 3.00, HH/NURS 4700 3.00"
+        },
+        {
+            "dept": "nurs",
+            "code": "4710",
+            "credit": 3.0,
+            "name": "The Canadian Health Care System",
+            "prereqs": "nurs3300 nurs2700 adms2300",
+            "desc": "The components of the Canadian health care system; roles played by governments, professional organizations; contemporary issues of cost control; organization and delivery of health services. Prerequisite: For BScN students HH/NURS 3300 3.00 or HH/NURS 2700 6.00; for students in other programs AP/ADMS 2300 6.00 or equivalent or permission of the Instructor. Note: A minimum grade of 5.00 (C+) is required in this course for the BScN degree. "
+        },
+        {
+            "dept": "nurs",
+            "code": "4720",
+            "credit": 3.0,
+            "name": "Nurses as Teachers and Learners",
+            "prereqs": "",
+            "desc": "Explores multiple theories and theoretical perspectives on teaching and learning within the context of nursing to promote health and healing from viewpoints of both teachers and learners. Opportunities for analysis and development of teaching/learning situations with critique and application of relevant theories and teaching/learning modalities to praxis. PRIOR TO WINTER 2012: course credit exclusions: HH/NURS 3720 3.00. Note 1: Open only to students in the BScN program. Note 2: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4760",
+            "credit": 3.0,
+            "name": "Child Rights and Child/Youth Centredness in Canadian Nursing",
+            "prereqs": "",
+            "desc": "Enables nurses to develop a model of nursing practice which values child rights and which partners with children and youth. Child/youth centred nursing is explained within the context of children's lived experiences, Canadian nursing ethics and child rights. Note 1: Open only to students in the BScN program or for other students with permission of the undergraduate director. Note 2: Fieldwork is required. Note 3: A minimum grade of 5.00 (C+) is required in this course for the BScN degree. Previously offered as: HH/NURS 3760 3.00."
+        },
+        {
+            "dept": "nurs",
+            "code": "4800",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "nurs2700 nurs4710 nurs4750",
+            "desc": "An independent reading course in which students select one or two areas for extensive reading and writing. Specific areas are to be selected in consultation with an appropriate faculty member. Prerequisites: 78 credits including HH/NURS 2700 6.00, HH/NURS 4710 3.00 and HH/NURS 4750 3.00, and permission of the undergraduate director. Open only to Nursing majors. Note 1: Students must be accepted by a faculty supervisor before they can register in this course. The course transaction form for such a course must be submitted with a note from the supervisor stating his or her willingness to perform this task. Permission of the undergraduate director is also required. Note 2: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "4800",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "nurs2700 nurs4710 nurs4750",
+            "desc": "An independent reading course in which students select one or two areas for extensive reading and writing. Specific areas are to be selected in consultation with an appropriate faculty member. Prerequisites: 78 credits including HH/NURS 2700 6.00, HH/NURS 4710 3.00 and HH/NURS 4750 3.00, and permission of the undergraduate director. Open only to Nursing majors. Note 1: Students must be accepted by a faculty supervisor before they can register in this course. The course transaction form for such a course must be submitted with a note from the supervisor stating his or her willingness to perform this task. Permission of the undergraduate director is also required. Note 2: A minimum grade of 5.00 (C+) is required in this course for the BScN degree."
+        },
+        {
+            "dept": "nurs",
+            "code": "5000",
+            "credit": 3.0,
+            "name": "Directed Reading ",
+            "prereqs": "",
+            "desc": "An independent directed reading course on a topic approved by the supervisory committee and the Graduate Program Director.\r\n"
+        },
+        {
+            "dept": "nurs",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Theoretical and Philosophical Foundations of Nursing Science",
+            "prereqs": "",
+            "desc": "This course focuses on the major ontological schools of thought, including the assumptions, concepts, and theories that integrate the breadth and depth of nursing knowledge across domains of practice. Students explore, analyze, and critique specific concepts, nursing theories, and theoretical approaches aligned with nursing practices and connect these with their own philosophical beliefs and values about nursing through dialogue, reflection, and aesthetic inquiry."
+        },
+        {
+            "dept": "nurs",
+            "code": "5145",
+            "credit": 3.0,
+            "name": "Canadian Health Care System Reform: Issues and Debates",
+            "prereqs": "",
+            "desc": "The course critically examines current issues and debates in the ongoing reform of the Canadian Health Care System. The influence of global political, economic and social contexts on health reform directions are analyzed, offering nurses additional tools to assess the implications of current reform directions for those who receive and those who provide health care. "
+        },
+        {
+            "dept": "nurs",
+            "code": "5200",
+            "credit": 3.0,
+            "name": "Qualitative Research Methods in Nursing Science",
+            "prereqs": "",
+            "desc": "This course focuses on the conceptual, ethical, and methodological dimensions of qualitative nursing research. Emphasis is on the ontological-epistemological-methodological links in the research process. Selected qualitative nursing research methods are analyzed and critiqued and a qualitative research proposal is developed."
+        },
+        {
+            "dept": "nurs",
+            "code": "5300",
+            "credit": 3.0,
+            "name": "Quantitative Research Methods in Nursing",
+            "prereqs": "",
+            "desc": "Focuses on acquisition and application of fundamental concepts, methods, and procedures of quantitative nursing research required to develop a research proposal including but not limited to: developing researchable questions and designing research selecting appropriate methods and analysis strategies."
+        },
+        {
+            "dept": "nurs",
+            "code": "5400",
+            "credit": 3.0,
+            "name": "Advanced Nursing Practicum",
+            "prereqs": "",
+            "desc": "Participants engage in an advanced practicum in nursing theory-guided practice, leadership, or teaching-learning (186 hours). Concurrently, students participate in online activities. Both the practicum and online components must be successfully completed in order to pass the course. Practicum sites and evidence of the scholarship will be individually determined based on the student's learning focus.  "
+        },
+        {
+            "dept": "nurs",
+            "code": "5500",
+            "credit": 3.0,
+            "name": "Nursing Research Development and Knowledge Mobilization",
+            "prereqs": "nurs5100 nurs5200 nurs5300 nurs5400",
+            "desc": "This advanced research course builds on research methodologies and theoretical inquiry to provide students with activities that involve exploration, analysis, synthesis, and discussion of research questions and proposal development. Emphasis is placed on collaborative research planning, funding, ethics, and dissemination. Prerequisites: GS/NURS 5100 3.00, GS/NURS 5200 3.00, GS/NURS 5300 3.00, GS/NURS 5400 3.00, two electives completed and the third taken concurrently."
+        },
+        {
+            "dept": "nurs",
+            "code": "5700",
+            "credit": 3.0,
+            "name": "Applied Intermediate Statistics in Nursing",
+            "prereqs": "",
+            "desc": "This course focuses on the acquisition, interpretation and application of fundamental concepts, methods, procedures, and results of intermediate quantitative data analysis. Prerequisite or corequisite: GS/NURS 5100 6.00; GS/NURS 5300 3.00."
+        },
+        {
+            "dept": "nurs",
+            "code": "5750",
+            "credit": 3.0,
+            "name": "Interpretation and Data Analysis",
+            "prereqs": "",
+            "desc": "This course focuses on the processes by which the major schools of thought frame interpretation in research and inquiry. Students explore, analyze, and critique the ways in which these different traditions influence the what, why and how of nursing research practices and their links to diverse forms of data analysis. "
+        },
+        {
+            "dept": "nurs",
+            "code": "5810",
+            "credit": 3.0,
+            "name": "Pathophysiology for Nurse Practitioners",
+            "prereqs": "",
+            "desc": "Examines the concepts of pathophysiology which guide the practice of advanced nursing practice. Explores pathophysiological changes in individuals in a primary health care setting by taking into account their age, acuity, chronicity, and evolution of the conditions"
+        },
+        {
+            "dept": "nurs",
+            "code": "5820",
+            "credit": 3.0,
+            "name": "Primary Health Care Nurse Practitioner Roles and Responsibilities",
+            "prereqs": "",
+            "desc": "Compares and contrasts advanced practice nursing and related frameworks to develop, integrate, sustain, and evaluate the role of the nurse practitioner within primary health care. Critically analyzes and develops strategies to implement advanced practice nursing competencies with a community focus."
+        },
+        {
+            "dept": "nurs",
+            "code": "5830",
+            "credit": 3.0,
+            "name": "Advanced Health Assessment and Diagnosis I&quot;",
+            "prereqs": "",
+            "desc": "Analyzes and critiques concepts and frameworks essential to advanced health assessment and diagnosis using clinical reasoning skills. Applies clinical, theoretical and research knowledge in relation to comprehensive and focused health assessment for the individual client\u0092s diagnostic plan of care./Pre- or Corequisite 5810 3.0 "
+        },
+        {
+            "dept": "nurs",
+            "code": "5840",
+            "credit": 3.0,
+            "name": "Advanced Health Assessment and Diagnosis II",
+            "prereqs": "",
+            "desc": "Integrates knowledge and apply conceptual frameworks integral to advanced health assessment and diagnosis in advanced nursing practice. Demonstrates initiative, responsibility, and accountability in complex decision making for individuals, groups, and/or families within the nurse practitioner scope of practice based on current research findings./Prerequisite: Nursing 5830 3.0 "
+        },
+        {
+            "dept": "nurs",
+            "code": "5850",
+            "credit": 3.0,
+            "name": "Therapeutics in Primary Health Care I&quot;",
+            "prereqs": "",
+            "desc": "Critically appraises and interprets concepts and frameworks integral to pharmacotherapy, advanced counselling, and complementary therapies for common conditions across the lifespan. Develops, initiates, manages, and evaluates therapeutic plans of care that incorporate client values and acceptability, goals of therapy, analysis of different approaches, pharmacotherapeutic principles./Co- or prerequisite: Nursing 5830 3.0 and 5810 3.0 "
+        },
+        {
+            "dept": "nurs",
+            "code": "5860",
+            "credit": 3.0,
+            "name": "Therapeutics in Primary Health Care II",
+            "prereqs": "",
+            "desc": "Integrates conceptual frameworks and evidence underlying the study of pharmacotherapy, advanced counselling, and complementary therapies for complex client situations. Demonstrates substantive initiative, responsibility, and accountability in complex decision making./Prerequisite: Nursing 5850 3.0/Corequisite: Nursing 5840 3.0 "
+        },
+        {
+            "dept": "nurs",
+            "code": "5880",
+            "credit": 0.0,
+            "name": "Nurse Practitioner Research Development and Knowledge Mobilization",
+            "prereqs": "",
+            "desc": "The practice-based Research Proposal (PRP) provides the opportunity for a critical and analytic reflection on a topic/issue/problem related to the student's practicum experience. This advanced research course builds on research methodologies and theoretical inquiry to facilitate students' exploration, analysis, synthesis, and discussion of research questions and proposal development. Emphasis is on addressing a practice-based question using research."
+        },
+        {
+            "dept": "nurs",
+            "code": "6300",
+            "credit": 0.0,
+            "name": "Expressions of Nursing Scholarship",
+            "prereqs": "",
+            "desc": "All MScN candidates are required to take part in this compulsory colloquium course which is offered in a hybrid online and classroom format. The course provides participants with an opportunity to discuss their progress in the major research project."
+        },
+        {
+            "dept": "nurs",
+            "code": "7000",
+            "credit": 6.0,
+            "name": "Philosophical Foundations of Contemporary Nursing Science",
+            "prereqs": "",
+            "desc": "Students inquire into ontological traditions and related philosophical concepts that inform nursing science. The historical development of the empirical, interpretive, critical, and complexity ontologies will be examined in light of contemporary developments and controversies. Students examine diverse assumptions about reality and link these assumptions to theoretical frameworks in nursing science. Philosophical concepts are examined in depth and affiliated with students experiences and praxis in multiple contexts.\r\nCo-requisite: GS/NURS 7005 6.0:  Research Approaches in Nursing Science \r\n"
+        },
+        {
+            "dept": "nurs",
+            "code": "7005",
+            "credit": 6.0,
+            "name": "Research Approaches in Nursing Science",
+            "prereqs": "",
+            "desc": "In this course students understand and apply methodologies, methods and research designs that contribute to knowledge development in the discipline of nursing. Students develop their own research question and proposal based on their area of interest."
+        },
+        {
+            "dept": "nurs",
+            "code": "7015",
+            "credit": 0.0,
+            "name": "PhD Doctoral Nursing Seminar 1",
+            "prereqs": "",
+            "desc": "Students in the first year of the PhD program explore critical issues in their doctoral work with peers in the first and second year of the program and invited faculty members. Classes consist of presentations and discussions facilitated by students, faculty and invited speakers addressing key topics of interest to students."
+        },
+        {
+            "dept": "nurs",
+            "code": "7020",
+            "credit": 0.0,
+            "name": "PhD Doctoral Nursing Seminar 2",
+            "prereqs": "",
+            "desc": "Students in the second year of the PhD program continue to explore critical issues in their doctoral work with peers in the first and second year and invited faculty members. Classes consist of presentations and discussions facilitated by second year doctoral seminar students, faculty and invited speakers addressing key topics of interest to students."
+        },
+        {
+            "dept": "nurs",
+            "code": "7045",
+            "credit": 3.0,
+            "name": "Social Justice Nursing: Philosophies and Practices",
+            "prereqs": "",
+            "desc": "The centrality of social justice for nursing is embraced across Canada. The Canadian Nurses Association views social justice as &quot;means to an end and an end in itself,&quot;  acknowledging its consistency with the values set out in our code of ethics. To that end, with social justice as our ethos, nursing can be argued as social justice. "
+        },
+        {
+            "dept": "nurs",
+            "code": "8000",
+            "credit": 3.0,
+            "name": "Independent Directed Reading",
+            "prereqs": "",
+            "desc": "An independent directed reading course on a topic approved by the supervisory committee and the Graduate Program Director."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "courses": [
+        {
+            "dept": "tech",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Technological Education in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Technological Education in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Technological Education in the intermediate and senior grades. \nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "tech",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Technological Education in the Intermediate-Senior Division - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Technological Education in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Technological Education areas in order to further develop students' expertise for teaching this subject. ED/TECH 4000 (Part A) is a prerequisite for this course.\nOnly available to students in the Bachelor of Education (BEd) program. "
+        },
+        {
+            "dept": "tech",
+            "code": "4050",
+            "credit": 3.0,
+            "name": "Curriculum Connections for Technological Education",
+            "prereqs": "",
+            "desc": "This course introduces students to the broad-based technologies approach to technological education, the 'Exploring Technologies' focus in the curriculum, and the value of these technologies in cross-curricular teaching and learning in Ontario schools. It explores cross curricular connections between teaching technological education, and policy, literacy, numeracy, STEM, experiential education, environmental/sustainability education, and social justice.\nCourse only available to students in the Bachelor of Education program. "
+        },
+        {
+            "dept": "tech",
+            "code": "4051",
+            "credit": 3.0,
+            "name": "Teaching Design Thinking Within Technology Frameworks",
+            "prereqs": "",
+            "desc": "Examines a range of problem-solving methods and design processes integral to all broad-based technologies in the Ontario technological education curriculum. Students will be introduced to practical, process-focused frameworks for developing student projects in the intermediate/senior classroom.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "courses": [
+        {
+            "dept": "sp",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "First steps in Spanish",
+            "prereqs": "",
+            "desc": "This course introduces students to the language and culture of the Hispanic world. Students will be trained in basic grammar and communication skills.\r\nNote: No previous knowledge of Spanish is assumed.\r\nCourse credit exclusion: AP/SP 1000 6.00."
+        },
+        {
+            "dept": "sp",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Spanish",
+            "prereqs": "",
+            "desc": "This is an intensive introductory course to the language and culture of the Hispanic world. Equal attention is paid to the four skills of listening, speaking, reading and writing. In addition, students acquire a command of all the essential grammatical structures of Spanish and a vocabulary of a minimum of 2,500 items. This course is designed for students with no knowledge of Spanish. Course credit exclusions: AP/SP 1001 3.00, AP/SP 1002 3.00, GL/SP 1000 6.00."
+        },
+        {
+            "dept": "sp",
+            "code": "1605",
+            "credit": 6.0,
+            "name": "Hispanic culture: art, literature and cinema",
+            "prereqs": "",
+            "desc": "This interdisciplinary course explores the continuity and tensions of Hispanic cultural productions across its history and geographies, from early productions of Phoenician and Roman civilizations to contemporary Chicano performance movements in the US, Latin American Cinema, and decolonial indigenous art."
+        },
+        {
+            "dept": "sp",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Spanish / Espagnol interm\u00e9diaire",
+            "prereqs": "sp1000",
+            "desc": "This intermediate level language course provides an in-depth treatment of more complex aspects of Spanish grammar and enhances students' listening, speaking, reading and writing skills. Prerequisite: GL/SP 1000 6.00 or permission of the department. Course credit exclusion: AP/SP 2000 6.00. / \r\nCe cours de langue de niveau interm\u00e9diaire propose une \u00e9tude approfondie des aspects plus complexes de la grammaire espagnole et renforce la comp\u00e9tence auditive, la lecture et l'expression orale et \u00e9crite.\r\nCondition pr\u00e9alable : GL/SP 1000 6.00 ou permission de la d\u00e9partement.\r\nCours incompatible : AP/SP 2000 6.00."
+        },
+        {
+            "dept": "sp",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Spanish",
+            "prereqs": "sp1000",
+            "desc": "This course is an extensive review of the fundamentals of Spanish grammar and emphasizes the four skills, listening, speaking, reading and writing through compositions, written exercises, oral presentations and conversations.\r\nPrerequisite: AP/SP 1000 6.00 or OAC Spanish or Grade 12U or M Spanish or placement through testing. Course credit exclusions: AP/SP 2010 6.00, AP/SP 2020 6.00, AP/SP 2050 6.00, GL/SP 1520 6.00 (prior to Fall 2011). Note: Students who are Spanish-speakers are NOT allowed to enrol in AP/SP 1000 6.00, AP/SP 2000 6.00 or AP/SP 2020 6.00. The grammatical and the cultural components in AP/SP 2010 6.00 treat those aspects of Spanish that especially challenge the abilities of the native speaker."
+        },
+        {
+            "dept": "sp",
+            "code": "2050",
+            "credit": 3.0,
+            "name": "Spanish Conversation",
+            "prereqs": "sp1000",
+            "desc": "This course develops communication skills in Spanish through guided conversations on a variety of topics related to the contemporary Hispanic World, ranging from social and political issues to TV and pop culture, visual arts, films, music, fashion, food, and sports. \nPrerequisite: GL/SP 1000 6.00, or permission of the department."
+        },
+        {
+            "dept": "sp",
+            "code": "2100",
+            "credit": 6.0,
+            "name": "Introduction to Spanish Literary Texts",
+            "prereqs": "sp1000",
+            "desc": "An introduction to literary texts written by Spanish and Latin American writers. Selected texts are analyzed for their literacy, linguistic and cultural content. This course also prepares students for analytical reading and writing of essays in the advanced-level courses. Prerequisite: GL/SP 1000 6.00. Prerequisite or permission of the Department. Corequisite: GL/SP 2000 6.00. PRIOR TO FALL 2011: course credit exclusion: GL/SP 1530 6.00."
+        },
+        {
+            "dept": "sp",
+            "code": "2200",
+            "credit": 6.0,
+            "name": "Hispanic Literature: Exploring Transformative Texts of the Hispanic World ",
+            "prereqs": "sp1000 sp2000 sp2010 sp2020 sp2000",
+            "desc": "This course  offers a thematic, historical and social introduction of literature from the Spanish-speaking world, studying narrative, poetry, drama and essays from the medieval period to the present. The basic tools and techniques of literary analysis are emphasized and practised in order to prepare students to proceed to more advanced courses in Ibero-American literature and culture. It is taught in English and required for all students who intend to major or minor in Spanish. \n\nPrerequisite: None for students outside the major/minor; AP/SP 1000 6.0 for Spanish majors and minors. Co-requisite: None for students outside the major/minor; AP/SP 2000 6.0 or AP/SP 2010 6.00 or AP/SP 2020 6.00 or GL/SP 2000 6.00 for Spanish majors and minors. \nCourse credit exclusions: GL/SP 2100. PRIOR TO FALL 2011: course credit exclusion: GL/SP 1530 6.00."
+        },
+        {
+            "dept": "sp",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Advanced Spanish Language and Grammar",
+            "prereqs": "sp2000 sp2020 sp2010",
+            "desc": "This course covers extensively the fundamentals of Spanish grammar and em-phasizes listening, speaking, reading and writing through written exercises, es-says, conversations, presentations and active participation. Students develop command of the target language through analysis and discussion, as well as for-mal and informal written responses to selected readings and short movies\nPrerequisite: AP/SP 2000 6.00 or AP/SP 2020 6.00 or AP/SP 2010 6.00 or equivalent with a minimum grade of C.\n\nCourse credit exclusions: GL/SP 3000 6.00. \nPRIOR TO FALL 2011: Course credit exclusions: GL/LIN 2610 6.00, GL/SP 2610 6.00."
+        },
+        {
+            "dept": "sp",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Advanced Spanish / Espagnol Avanc\u00e9",
+            "prereqs": "sp2000 sp2100",
+            "desc": "This course offers an overview of the intricacies of advanced Spanish grammar through extensive practice in reading, writing and conversation. \u00c9tude approfondie des complexit\u00e9s de la grammaire espagnole au niveau avanc\u00e9 \u00e0 travers des exercices de lecture, d\u0092\u00e9criture et de conversation.\r\nPrerequisites/Conditions pr\u00e9alables : GL/SP 2000 6.00 and GL/SP 2100 6.00 or permission of the department.\r\nCorequisites/Conditions concomitantes : GL/SP 3300 6.00 and/or GL/SP 3400 6.00 or permission of the department\r\nCourse credit exclusions/Cours incompatibles : GL/SP 3100 6.00, GL/SP 3200 6.00, AP/SP 3000 6.00."
+        },
+        {
+            "dept": "sp",
+            "code": "3201",
+            "credit": 3.0,
+            "name": "Spanish for Business I",
+            "prereqs": "sp3000 sp3200",
+            "desc": "This course introduces students to the language and context of business Spanish. Students are exposed to a variety of authentic texts and commercial environments. Prerequisite: GL/SP 3000 6.00 or GL/SP 3200 6.00 or permission of the Department."
+        },
+        {
+            "dept": "sp",
+            "code": "3300",
+            "credit": 6.0,
+            "name": "Spanish Literature and Civilization",
+            "prereqs": "sp2000 sp2100",
+            "desc": "This course studies Spanish literature, civilization and other art forms with emphasis on historically different literary periods and streams. It prepares students for more advanced courses in the Hispanic Studies program. Prerequisites: GL/SP 2000 6.00 and GL/SP 2100 6.00 or permission of the Department. Corequisite: GL/SP 3000 6.00 or GL/LIN 3000 6.00, GL/SP 3400 6.00. PRIOR TO FALL 2011: course credit exclusion: GL/SP 2300 6.00."
+        },
+        {
+            "dept": "sp",
+            "code": "3400",
+            "credit": 6.0,
+            "name": "Spanish-American Literature, Culture and Society, from the Pre-Colonial Period to the Present",
+            "prereqs": "sp2000 sp2100",
+            "desc": "This course examines the development of literary genres in Spanish America within the context of historical, cultural and social circumstances. This course studies fundamental principles of several literary theories and their application to the analysis of representative literary texts. Prerequisites: GL/SP 2000 6.00 and GL/SP 2100 6.00 or permission of the department. Corequisites: GL/SP 3000 6.00, GL/SP 3300 6.00 (taken as of FW2011). Course credit exclusion: GL/SP 3300 6.00 (taken before FW2011).\r\n"
+        },
+        {
+            "dept": "sp",
+            "code": "3545",
+            "credit": 3.0,
+            "name": "An Introduction to Spanish/English Translation: Practice and Analysis ",
+            "prereqs": "sp2100 sp3000",
+            "desc": "This course offers an introduction to translation as a practice, as a form of writing, and as a strategy for analysis. Based on practical and theoretical perspectives, students learn basics and applications of tools, principles and methods of Spanish/English translation. Prerequisites: GL/SP 2100 6.00 and GL/SP 3000 6.00 or equivalent. Course credit exclusion: GL/SP 3245 3.00."
+        },
+        {
+            "dept": "sp",
+            "code": "3550",
+            "credit": 3.0,
+            "name": "Comparative Stylistics for Spanish-English Translation",
+            "prereqs": "sp3000",
+            "desc": "This course provides students with the necessary elements for comparative stylistic analysis between Spanish and English. It is intended as a basis for specialized studies in Spanish-English translation. Prerequisite: GL/SP 3000 6.00 or permission of the Department. PRIOR TO FALL 2011: course credit exclusion: GL/SP 3250 3.00."
+        },
+        {
+            "dept": "sp",
+            "code": "3660",
+            "credit": 3.0,
+            "name": "Teaching Spanish as a Foreign Language",
+            "prereqs": "",
+            "desc": "This course studies Spanish language learning and teaching from theoretical and practical (experiential) points of view. It also examines principles and practices of teaching Spanish with a focus on recent interactive and communicative models of foreign language instruction.\r\nPrerequisite: SP 3000 6.00 or permission of the Department."
+        },
+        {
+            "dept": "sp",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Varieties of Spanish Worldwide",
+            "prereqs": "sp3100 sp3000 sp3050",
+            "desc": "Explores regional varieties of Spanish from the Iberian Peninsula and Latin American, including indigenous and African contributions to Latin America Spanish, and contact varieties in the United States and elsewhere. Prerequisite: AP/SP 3100 3.00 or AP/SP 3000 6.00 or AP/SP 3050 6.00 or equivalent or permission of the Instructor."
+        },
+        {
+            "dept": "sp",
+            "code": "4201",
+            "credit": 3.0,
+            "name": "Spanish for Business II",
+            "prereqs": "sp3000 sp3200 sp3201",
+            "desc": "This course provides students with a more in-depth foundation in business language, and introduces cross-cultural analysis that will help them function in today's Spanish-speaking business world. Students critically analyze authentic scenarios and gain an understanding of business cultural practices in Spain and Latin America. Prerequisite: GL/SP 3000 6.00 or GL/SP 3200 6.00 or GL/SP 3201 3.00 or permission of the Department. "
+        },
+        {
+            "dept": "sp",
+            "code": "4345",
+            "credit": 3.0,
+            "name": "Spanish Women in Literature and the Arts: Rethinking the Body",
+            "prereqs": "sp3000 sp3300 lin3300",
+            "desc": "This course focuses on the representations of the female body in contemporary Spanish literature, art and film. Works of female writers, painters, photographers and filmmakers will be examined to trace physical and symbolic representations of the body and to discuss how those texts challenge, dissolve and re-write the scripts of womanhood in Spain. Prerequisites: GL/SP 3000 6.00 and GL/SP 3300 6.00 or GL/LIN 3300 6.00 or permission of the Department."
+        },
+        {
+            "dept": "sp",
+            "code": "4694",
+            "credit": 3.0,
+            "name": "Spanish as a Global Language",
+            "prereqs": "",
+            "desc": "This course explores the growing global presence of the Spanish language in its historical and current aspects. It also examines the whys and wherefores of the history, present-day status and future potential of Spanish as an international language of communication.\r\nPrerequisite: SP 3000 6.00 or permission of the Department."
+        },
+        {
+            "dept": "sp",
+            "code": "4700",
+            "credit": 3.0,
+            "name": "The Poetics and Politics of Hispanic Literature and Film",
+            "prereqs": "sp3000",
+            "desc": "This course examines literature and cinema in Spanish as political artifacts. Through selections of literary works and one film, students analyze how these forms of discourse relate to questions of power and resistance such as race, gender, class, the body, the subject, etc. Prerequisite: GL/SP 3000 6.00. "
+        },
+        {
+            "dept": "sp",
+            "code": "4701",
+            "credit": 3.0,
+            "name": "Hispanic Community Narratives in the GTA",
+            "prereqs": "sp2000",
+            "desc": "This project-based course collects and explores community narratives of Hispanic and Latinx people in the GTA. Switching between in-class preparation/analysis sessions and community field work, it focuses on how participants construct themselves narratively and negotiate differences across languages and cultures. \nPrerequisite: GL/SP 2000 6.00 or equivalent or permission of the department."
+        },
+        {
+            "dept": "sp",
+            "code": "4910",
+            "credit": 3.0,
+            "name": "Methodology of Spanish-English Translation 1: Advanced practice, technologies and project management",
+            "prereqs": "sp3550 tran3260 sp3200 tran3205",
+            "desc": "This course provides intensive practice translating pragmatic texts from various domains. Conceptual and methodological tools from translation studies and applied linguistics are intended to teach students to analyze texts and plan and carry out a variety of translation projects. Prerequisites: GL/SP 3550 3.00 and GL/TRAN 3260 3.00. GL/SP 3200 3.00 and GL/TRAN 3205 3.00. PRIOR TO FALL 2011: Course credit exclusions: GL/SP 4610 3.00, GL/TRAN 4610 3.00. PRIOR TO FALL 2010: course credit exclusion: GL/SP 4610 3.00 (EN), GL/TRAN 4610 3.00 (EN)."
+        },
+        {
+            "dept": "sp",
+            "code": "4915",
+            "credit": 3.0,
+            "name": "Specialized Spanish-English Translation: Literary and Humanistic",
+            "prereqs": "sp3550 tran3260 tran3200 tran3205",
+            "desc": "This course provides advanced practice and reflection on the translation of literary and humanistic texts. Notions of literacy and critical theory are applied to analyze and translate literary texts from various genres and diverse cultural contexts. Prerequisites: GL/SP 3550 3.00, GL/TRAN 3260 3.00, GL/TRAN 3200 3.00 and GL/TRAN 3205 3.00. Course credit exclusion: GL/SP 4615 3.00, GL/TRAN 4615 3.00."
+        },
+        {
+            "dept": "sp",
+            "code": "4920",
+            "credit": 3.0,
+            "name": "Methodology of Spanish-English/English-Spanish Translation 2: Revision and project management",
+            "prereqs": "sp3550 tran3260 tran3200 tran3205 sp4910",
+            "desc": "This course is geared toward the practice of translation within the conditions of current professional translation environments.  The course covers revision, translation technologies and project management and is based on practices and trends in the translation industry.  Prerequisites:  GL/SP 3550 3.00, GL/TRAN 3260 3.00, GL/TRAN 3200 3.00, GL/TRAN 3205 3.00 and GL/SP 4910  3.00. Course credit exclusion: GL/SP/TRAN 4620 3.00."
+        },
+        {
+            "dept": "sp",
+            "code": "4990",
+            "credit": 3.0,
+            "name": "Foreign Language and Digital Media: Developing Skills for Online, Spanish-English Publications ",
+            "prereqs": "",
+            "desc": "In this capstone course, students engage in high-impact Community Focused Experiential Education. Activities focus on writing, researching, editing and publishing works for an online university undergraduate magazine. Students complete individual and collaborative assignments centered on current matters affecting the Spanish Speaking world -within and outside of Canada-. A final, collaborative project involves the magazine's yearly academic publication. Taught in English."
+        }
+    ]
+}

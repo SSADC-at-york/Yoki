@@ -1,0 +1,236 @@
+{
+    "courses": [
+        {
+            "dept": "omis",
+            "code": "1050",
+            "credit": 3.0,
+            "name": "Managing Data for Business Decisions",
+            "prereqs": "",
+            "desc": "Informed business decisions rely on data and technological support. This course introduces students to concepts of data, information, and\r\ntechnology to support business decisions. Topics discussed include data collection process; infrastructure of information systems; data\r\nunderstanding, summarization, and representation; hardware and software used to store and analyze data and to deploy data-driven solutions\r\nfor modern business applications; and social and ethical issues surrounding data and IT security.\r"
+        },
+        {
+            "dept": "omis",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "Operations Management",
+            "prereqs": "mgmt1050",
+            "desc": "Examines a broad range of concepts using management science models, particularly as they pertain to production and operations management. The course emphasizes techniques, but also strives to convey an appreciation of how these techniques can be used to solve problems in operations and planning.\r\nPrerequisites: SB/MGMT 1050 3.00"
+        },
+        {
+            "dept": "omis",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Predictive Analytics",
+            "prereqs": "omis2010 mgmt2050",
+            "desc": "Predictive analytics is the practice of extracting insight from data by creating models that accurately predict future outcomes. This course presents a wide range of data science techniques that support the art of prediction. This includes the manipulation of large data sets, exploratory data analysis, quantitative modelling, performance evaluation, and the effective communication of business insight.\r\r\nPrerequisites: SB/OMIS 2010 3.00 and SB/MGMT 2050 3.00"
+        },
+        {
+            "dept": "omis",
+            "code": "3670",
+            "credit": 3.0,
+            "name": "Spreadsheet-Based Decision Support",
+            "prereqs": "omis2010",
+            "desc": "Decision support systems (DSS) are intelligent information systems that are used to extract data from various sources, provide interfaces and processing methods, and derive meaningful decisions there from. By combining Excel with its built-in programming language, VBA, this course shows how to create spreadsheet-based DSS and demonstrates how to successfully integrate them into actual business applications. No prior VBA background is required.\r\n\r\nPrerequisite: SB/OMIS 2010 3.00."
+        },
+        {
+            "dept": "omis",
+            "code": "3710",
+            "credit": 3.0,
+            "name": "Information Systems",
+            "prereqs": "mgmt1050",
+            "desc": "This course acquaints students with the terminology, concepts, and managerial issues associated with information systems. Issues covered include: decision-making using data-driven business intelligence systems; emerging technologies and digital transformation of the enterprise; management implications of hardware, software, and telecommunications technologies; and organizational prescriptions for information security, privacy, ethics, and governance.\r\nPrerequisite: SB/MGMT 1050 3.00\n."
+        },
+        {
+            "dept": "omis",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Prescriptive Analytics",
+            "prereqs": "omis2010 mgmt2050",
+            "desc": "This course surveys topics in prescriptive analytics. It focuses on developing quantitative methods and computer simulations\r\nto gain insight into real-world problems. Emphasis is placed on practical applications rather than mathematical proofs. Students are\r\nexpected to create mathematical models and solve them using Excel and by programming in Python. Application areas include supply chain\r\nand revenue management, logistics, and healthcare.\r\nPrerequisites: SB/OMIS 2010 3.00 and SB/MGMT 2050 3.00\r "
+        },
+        {
+            "dept": "omis",
+            "code": "4550",
+            "credit": 3.0,
+            "name": "Inventory Management                   ",
+            "prereqs": "",
+            "desc": "Explores practical methods for planning and controlling inventories which can be understood and implemented by managers. Inventories are studied as a component of total business strategy. Specific topics include: statistical forecasting procedures and their evaluations, the nature of production and inventory systems, scheduling and planning of aggregate production, workforce and inventories and the design of operational decision systems for transmitting aggregate policy decisions consistently to the level of the individual stock keeping unit (SKU)."
+        },
+        {
+            "dept": "omis",
+            "code": "4560",
+            "credit": 3.0,
+            "name": "Supply Chain Management",
+            "prereqs": "",
+            "desc": "Supply chain management (SCM) underlies the strategy and operations of all firms that manufacture or distribute products and services. The torrid pace of improvements in information technologies made SCM both possible and, along with their global reach, also more complicated. This course will provide students with an understanding of the choices and trade-offs involved in designing and operating supply chains domestically and globally."
+        },
+        {
+            "dept": "omis",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study - Selected Problems in OMIS",
+            "prereqs": "",
+            "desc": "Guided Study - Selected Problems in Operations Management and Information Systems"
+        },
+        {
+            "dept": "omis",
+            "code": "5110",
+            "credit": 1.5,
+            "name": "Information Systems",
+            "prereqs": "",
+            "desc": "The aim of this course is to create an understanding of key management issues with respect to the use of computer and information systems in modern business applications."
+        },
+        {
+            "dept": "omis",
+            "code": "5120",
+            "credit": 1.5,
+            "name": "Quantitative Methods",
+            "prereqs": "",
+            "desc": "An introduction to the use of quantitative methods for business research, analysis, forecasting and optimization. The aim is to convey not only an understanding of methods, but also to give an appreciation of their use in addressing actual business problems, and to acquaint students with computer software necessary for implementing these methods."
+        },
+        {
+            "dept": "omis",
+            "code": "5210",
+            "credit": 1.5,
+            "name": "Operations Management",
+            "prereqs": "",
+            "desc": "Operations management in both manufacturing and service organizations involves the coordination of complex and dynamic systems of people, technology and materials to achieve competitive objectives.  The impact of alternative strategies for delivering quality products in a cost-effective manner is examined.  This includes currently popular inventory management philosophies such as `Total Quality Management' and `Just-In-Time' inventory management."
+        },
+        {
+            "dept": "omis",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "Models&amp;Applications In Operational Res ",
+            "prereqs": "omis5120 omis5210",
+            "desc": "Provides a survey of selected topics in operational research (OR). Emphasis is placed on the practical application of OR tools rather than on the mathematical properties. Application areas include: financial planning and portfolio selection, production, priority planning and marketing. Topics include: linear programming and its applications; programming to achieve a set of goals or targets with applications in finance and production; capital budgeting and project selection; transportation and network models; and portfolio models.\r\n\r\nPrerequisites: SB/OMIS 5120 1.50 and SB/OMIS 5210 1.50 or permission of the Instructor."
+        },
+        {
+            "dept": "omis",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Strategic Supply Chain Management",
+            "prereqs": "actg5200 mstm5060",
+            "desc": "The major choices confronting senior managers in managing the flow of product, money and information to achieve an effective supply chain strategy leading to a sustainable organization are examine in this course. Choice of transportation mode, location of facilities, inventory policy etc. will be placed in the context of the needs of the overall organization to grow and prosper responsibly.\r\nPrerequisites: SB/ACTG 5200 3.00 and SB/MSTM 5060 3.00 \r\n"
+        },
+        {
+            "dept": "omis",
+            "code": "6210",
+            "credit": 3.0,
+            "name": "Transportation and Logistics Management",
+            "prereqs": "actg5200 mstm5060",
+            "desc": "This course examines the role of transportation in a logistical network and the necessary investment in transportation processes and infrastructure to control costs, manage risk and improve   customer service. Benefit and cost analysis is done on alternative modes and strategies for   securing on-time delivery.  We introduce concepts, techniques and technology for improved  routing, cost reduction and supply chain asset utilization. \r\nPrerequisites: SB/ACTG 5200 3.00 and SB/MSTM 5060 3.00."
+        },
+        {
+            "dept": "omis",
+            "code": "6220",
+            "credit": 3.0,
+            "name": "Supply Relationship Management",
+            "prereqs": "actg5200",
+            "desc": "Supply Chain managers must find the best suppliers and work effectively with them. In this course, we identify a purchasing organization's critical supply needs and risks. We examine ethical and   sustainable practices for identifying and selecting competent suppliers as well as negotiating and   problem solving in the formulation of inter-organizational agreements.\r\nPrerequisite: SB/ACTG 5200 3.00\r\n"
+        },
+        {
+            "dept": "omis",
+            "code": "6230",
+            "credit": 3.0,
+            "name": "Coordinating Demand and Supply",
+            "prereqs": "mstm5060",
+            "desc": "This course introduces students to quantitative models for demand forecasting, aggregate planning, inventory control, and revenue management. The focus is on developing a basic understanding of how organizations in multi-echelon supply chains make data-driven\r\ndecisions using sophisticated computational techniques. Topics include time series, machine learning, and mathematical optimization with\r\napplications to logistics, manufacturing, inventory coordination, contracting, customer segmentation, and pricing.\r\nPrerequisite: SB/MSTM 5060 3.00\r\n"
+        },
+        {
+            "dept": "omis",
+            "code": "6300",
+            "credit": 1.5,
+            "name": "Managing Change In Supply Chains",
+            "prereqs": "",
+            "desc": "Major changes to supply chains must align logistics, inventory management, purchasing, distribution, customer service and manufacturing by engaging critical stakeholders within and between organizations. This course takes a design for supply chain approach to all business cases for critical organizational initiatives. Best practices in managing teams and engaging all relevant stakeholders in a process of change are highlighted. \nPrerequisite:  SB/ OMIS 6200 3.00 \n"
+        },
+        {
+            "dept": "omis",
+            "code": "6310",
+            "credit": 3.0,
+            "name": "Managing International Trade in Supply Chains",
+            "prereqs": "omis6200 omis6210 omis6220",
+            "desc": "Plant location, supplier selection and product and process development are international business decisions.  This course will focus on preparing realistic international business plans for creating and changing networks of supply and distribution that trade across multiple countries. It explores the multilateral issues of international value creation and develops skills in negotiating and problem solving in an international trade context. Prerequisites: SB/OMIS 6200 3.00, SB/OMIS 6210 3.00 and SB/OMIS 6220 3:00\r\n"
+        },
+        {
+            "dept": "omis",
+            "code": "6320",
+            "credit": 3.0,
+            "name": "Managing Digital Supply Chain Technology",
+            "prereqs": "",
+            "desc": "This course provides frameworks to evaluate and plan the adoption and implementation of supply chain new technologies. This includes the assessment of the competitive limits of existing organizational systems, processes and relationships for doing supply chain tasks and supporting potentially new business models. We discuss the challenges and strategies for innovating to secure supply chains against risks such as climate change and technological disruption.\r\n"
+        },
+        {
+            "dept": "omis",
+            "code": "6350",
+            "credit": 3.0,
+            "name": "Advanced Spreadsheet Modelling &amp; Programming for Business",
+            "prereqs": "omis5110 omis5120",
+            "desc": "This course enables the design, development, and implementation of integrated business analysis systems by combining the extended functionality of spreadsheets with the Visual Basic for Applications (VBA) programming language. The course demonstrates the power of combining the advanced analysis and modelling techniques of spreadsheets and VBA through applications to several practical problems from disparate business functions.\r\nPrerequisites: SB/OMIS 5110 1.50 and SB/OMIS 5120 1.50 or permission of the Instructor."
+        },
+        {
+            "dept": "omis",
+            "code": "6400",
+            "credit": 4.5,
+            "name": "Supply Chain Consulting Project",
+            "prereqs": "",
+            "desc": "The Supply Chain Consulting Project (SCCP) is a capstone project for the Masters of Supply Chain (MSCM) program. Students will work with an organization on a SCM relate project. They will be mentored to use the knowledge from foundational course studied in previous terms of the MSCM program to provide insightful analysis and develop actionable recommendations for a client organization."
+        },
+        {
+            "dept": "omis",
+            "code": "6560",
+            "credit": 3.0,
+            "name": "Supply Chain Management",
+            "prereqs": "omis5110 omis5120 omis5210",
+            "desc": "This course is about how to make decisions that lead to the better design and management of supply chains. This often involves changing the network of relationships between suppliers and customers and other stakeholders as they design, contract, order, plan and coordinate goods and services together. This course covers essential quantitative supply chain management models, supportive information and ecommerce technologies, environmentally and socially responsible practices and customer-supplier relationship management.\r\nPrerequisites: SB/OMIS 5110 1.50, SB/OMIS 5120 1.50, SB/OMIS 5210 1.50."
+        },
+        {
+            "dept": "omis",
+            "code": "6610",
+            "credit": 3.0,
+            "name": "Digital Transformation in Services",
+            "prereqs": "",
+            "desc": "Digital technologies are changing the way service organizations do business and interact with their customers. Students explore and learn the foundations of digital transformation and make the connection among strategy, technology, and implementation. The course will provide students with real-life business cases in which various trade-offs must be made according to the technology, the business strategy, and the service requirements."
+        },
+        {
+            "dept": "omis",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Operations Management and Information Systems",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "omis",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Operations Management and Information Systems",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "omis",
+            "code": "7100",
+            "credit": 3.0,
+            "name": "Strategic Operations Management",
+            "prereqs": "",
+            "desc": "This required course provides a critical overview of the research literature on strategic Operations Management. Topics covered include performance and competitiveness, (international) supply chains, and environmentally conscious operations strategies. This course is required for doctoral students majoring in Operations Management at the Schulich School of Business."
+        },
+        {
+            "dept": "omis",
+            "code": "7200",
+            "credit": 3.0,
+            "name": "Strategic Operations Management II",
+            "prereqs": "",
+            "desc": "The primary objective of OMIS 7200 is to survey the major theoretical perspectives and issues under the general heading of manufacturing and supply chain strategy (M&amp;SCS). The seminar is designed to guide Ph.D. students through various topics in the evolution of operations strategy and its interface with the business strategy and extensions to competing through supply chains. The seminar surveys the field from a number of perspectives, including impact of the research, appropriateness of the design and research tools, and emerging themes. This course will stress the use of theory in framing research questions, and particularly in directing empirically-based research."
+        },
+        {
+            "dept": "omis",
+            "code": "7900",
+            "credit": 3.0,
+            "name": "Selected Problems in Administration",
+            "prereqs": "",
+            "desc": "Under the guidance of a faculty member, students may undertake a special program of independent studies tailored to the mutual interests of the student and faculty member. For record purposes, the course is given the indicator letters of the major area involved, such as SB/FINE 7900 3.00 if it is taken in the Finance area."
+        }
+    ]
+}

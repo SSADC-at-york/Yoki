@@ -1,0 +1,36 @@
+{
+    "courses": [
+        {
+            "dept": "prwr",
+            "code": "2006",
+            "credit": 3.0,
+            "name": "Fundamentals of Editing",
+            "prereqs": "",
+            "desc": "The course addresses the problems of sorting and arranging information and of writing it up in a manner that is clear and comprehensible in limited spaces. Students edit their own work and the work of others, learning both to administer and accept criticism. \r\nCourse credit exclusions: AP/PRWR 3720 3.00\r\n"
+        },
+        {
+            "dept": "prwr",
+            "code": "2007",
+            "credit": 3.0,
+            "name": "Rhetoric: Strategy and Application ",
+            "prereqs": "",
+            "desc": "Examines classical forms and expanded contemporary views of rhetoric. The course establishes as its basis four categories of rhetoric: gestural, verbal, textural and visual, and explores similarities and differences among these in theory and practice in literary, communications, and historical contexts. Course credit exclusion: AP/PRWR 1007 3.00 (prior to Fall 2014), AP/EN 1007 3.00 (prior to Fall 2012). Open to: Professional Writing majors."
+        },
+        {
+            "dept": "prwr",
+            "code": "3910",
+            "credit": 3.0,
+            "name": "The Mechanics of Style",
+            "prereqs": "",
+            "desc": "Introduces students to print protocols, explores fundamental problems in book and other print formats and considers the adaptations of these protocols to and in the age of the computer. Also at issue are the basic problems of book design."
+        },
+        {
+            "dept": "prwr",
+            "code": "4801",
+            "credit": 3.0,
+            "name": "Advanced Workshop 2: Multimedia Authoring and Practices",
+            "prereqs": "",
+            "desc": "The course addresses the challenges and opportunities offered by the hardware and software involved in net-based communications. It considers the advantages and drawbacks of recent applications and develops strategies to avoid becoming the servant of the technology."
+        }
+    ]
+}

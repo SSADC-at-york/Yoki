@@ -1,0 +1,292 @@
+{
+    "courses": [
+        {
+            "dept": "hreq",
+            "code": "1010",
+            "credit": 6.0,
+            "name": "Introduction To Human Rights And Equity Studies",
+            "prereqs": "",
+            "desc": "This course is a critical introduction to the interdisciplinary field of human rights and equity studies. The course covers the origins and history of human\nrights and equity, examining such concepts as natural rights, religious and legal conceptions of rights, and debates over competing and complementary\nrights.\nCourse credit exclusion: AP/HREQ 2010 6.00 Introduction to Human Rights and Equity Studies"
+        },
+        {
+            "dept": "hreq",
+            "code": "2030",
+            "credit": 6.0,
+            "name": "Theoretical Foundations of Rights and Equity",
+            "prereqs": "hreq1010 hreq2010",
+            "desc": "This course explores the philosophical, religious, historical and conceptual bases of rights and equity.\nPrerequisites: AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00)\nOpen to: majors in AP/HREQ\n"
+        },
+        {
+            "dept": "hreq",
+            "code": "2060",
+            "credit": 6.0,
+            "name": "Racism and Colonialism",
+            "prereqs": "",
+            "desc": "Colonialism and racial conflict are examined in historical and comparative perspective, including a discussion of links between racism and sexism, and the experiences of Indigenous peoples. Examples are drawn from Africa, Asia, the Americas, and the Middle East.\nCourse credit exclusions: Prior to Fall 2018:  AP/MIST 3620/AP/POLS 3565 6.00; Prior to Fall 2013: AP/REI 3620 6.00; Prior to Fall 2012: AP/SOCI 3620 6.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "2310",
+            "credit": 6.0,
+            "name": "Introduction to Refugee and Migration Studies",
+            "prereqs": "",
+            "desc": "Description: An introduction to the study of refugees that covers conceptual issues (definitions, refugee rights, ethical norms), history, Canadian policy, and issues in specific areas of the world, including Africa, Asia, Latin America, Eastern Europe and the Middle East.\nCourse credit exclusion: AP/MIST 2000 6.00, AP/SOSC1130 9.00, AP/SOSC 1139 9.00."
+        },
+        {
+            "dept": "hreq",
+            "code": "2440",
+            "credit": 6.0,
+            "name": "Human Rights in the Age of Surveillance",
+            "prereqs": "",
+            "desc": "This course explores the ways in which human rights are impacted by the surveillance activities of state, corporate, and societal actors. The course analyzes the effects of practices such as racial profiling, cyber tracking, and government monitoring, and assesses the consequences of surveillance for targeted communities. \nCourse Credit Exclusion: AP/HREQ 2000 6.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "3005",
+            "credit": 3.0,
+            "name": "Human Rights and Humanitarian Action",
+            "prereqs": "hreq1010 hreq2010",
+            "desc": "This course explores the foundations, origins and contemporary challenges in the interplay between human rights and humanitarian action. It analyses classical and contemporary approaches towards understanding the relationship between human rights and humanitarian action, including origins of humanitarianism, institutional developments and contemporary critiques. It examines and evaluates underlying principles, concepts, practices and contemporary method of protection.\nPrerequisites: 24 credits, including AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00)"
+        },
+        {
+            "dept": "hreq",
+            "code": "3010",
+            "credit": 6.0,
+            "name": "Imperialism, Racism and the Global Economy",
+            "prereqs": "hreq1010 hreq2010 hreq2030",
+            "desc": "This course examines how dominant state and corporate entities form an imperial network of global power relations that further economic class division, racial discrimination and refugee migration, as well as a perpetual war economy. The course pays special attention to the categories of race, class, culture and gender as axes of domination in the globalized world.\nPrerequisites: 24 credits, including AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00) and AP/HREQ 2030 6.00\nCourse credit exclusion: Prior to Fall/Winter 2018: AP/HREQ 3010 6.00, AP/POLS 3255 6.00 Human Rights and the Global Economy\n"
+        },
+        {
+            "dept": "hreq",
+            "code": "3100",
+            "credit": 6.0,
+            "name": "Research Methods in Human Rights and Equity Studies",
+            "prereqs": "",
+            "desc": "This course is an introduction to interdisciplinary approaches in human rights and equity studies research. Students learn to distinguish between methodology\n(theoretical orientation) and methods (procedures) as they develop their research question, and become familiar with ethics, protocols, and procedures for collecting, analyzing, and disseminating data. Requirements include completion of a research proposal.\nCourse credit exclusion: AP/MIST 3100 6.00\nPrerequisites: 24 credits, including AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00)"
+        },
+        {
+            "dept": "hreq",
+            "code": "3150",
+            "credit": 6.0,
+            "name": "International Frameworks for Human Rights",
+            "prereqs": "hreq1010 hreq2010",
+            "desc": "This course provides students with a particular interdisciplinary and multicultural understanding of international frameworks for the protection of human rights. It analyses the historical and philosophical foundation of international human rights, critically examining the sources of international human rights law, including institutions and dedicated regional and universal enforcement mechanisms.\nPrerequisites: 24 credits, including AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00)"
+        },
+        {
+            "dept": "hreq",
+            "code": "3240",
+            "credit": 6.0,
+            "name": "Human Rights and the Middle East: War, Forced Migration, Reconciliation and Peace",
+            "prereqs": "hreq1010",
+            "desc": "This course studies human rights in the Middle East from an interdisciplinary perspective with attention on five countries - Afghanistan, Iran, Iraq, Palestine, Syria. Subject matter will provide understandings in legacies of colonialism, and militarism. Current regional struggles will be discussed within the global context of state (re)building, migration, reconciliation and peace processes\nPrerequisites: AP/HREQ 1010 6.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "3450",
+            "credit": 6.0,
+            "name": "Legal Institutions and Social Justice",
+            "prereqs": "hreq1010 hreq2010 hreq2030",
+            "desc": "This course examines the impact of legal institutions on equity in civil society. Topics explored include transformative/restorative justice, racism and racial profiling, moral regulation, nation-building, and the influence of different cultural legal traditions.\nPrerequisites: 24 credits, including AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00) and AP/HREQ 2030 6.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "3561",
+            "credit": 6.0,
+            "name": "Racism, Human Rights, and the Law in Canada",
+            "prereqs": "",
+            "desc": "This course discusses Canadian criminal law specifically in reference to current and historical policies and practices of racialization. The course examines the role of policing, prosecution, judging, and punishment in promoting and/or eradicating racism, and provides an analysis of the problems and prospects of criminal law practices in advancing human rights.\n\nCourse credit exclusion: Prior to Fall 2017: AP/MIST 3561 6.00 Racism and the Law; ); AP/HREQ 3561 6.00 Racism and the Law (prior to Fall 2021). \n \nPrerequisites: 24 credits"
+        },
+        {
+            "dept": "hreq",
+            "code": "3562",
+            "credit": 6.0,
+            "name": "Health in a Multicultural Context",
+            "prereqs": "",
+            "desc": "This course examines concepts of health, race, and culture from a cross-cultural perspective, critically analyzing racial and cultural stratification in health policies and practices.\nCourse credit exclusion: AP/MIST 3562 6.00 \nPrerequisite: 24 credits"
+        },
+        {
+            "dept": "hreq",
+            "code": "3580",
+            "credit": 6.0,
+            "name": "Ethnicity, Equity and Inclusion",
+            "prereqs": "",
+            "desc": "This course explores the experiences of ethnic groups in Canada, including their prospects and struggles. Topics explored include leadership, institutions, the evolution of ethnic identity, and the impact of Canadian policies.\nCourse credit exclusion: AP/MIST 3580 6.00 \nPrerequisite: 24 credits"
+        },
+        {
+            "dept": "hreq",
+            "code": "3610",
+            "credit": 6.0,
+            "name": "Global Migration and Diaspora Cultures",
+            "prereqs": "",
+            "desc": "This course examines migration and diasporic cultures in historical and comparative perspective, including patterns of forced displacement and migrant labour, and issues of citizenship, racism, religious and ethnic identity.\nCourse credit exclusion: AP/MIST 3610 6.00\nPrerequisite: 24 credits"
+        },
+        {
+            "dept": "hreq",
+            "code": "3680",
+            "credit": 6.0,
+            "name": "Racism in Canada",
+            "prereqs": "",
+            "desc": "This course examines racial discrimination as affected by institutional practices in Canada, together with efforts to affirm principles of equity. Topics may include: immigration, police and the criminal justice system, education, hospitals, media, and private corporations.\nCourse credit exclusions: AP/MIST 3680 6.00\nPrerequisites: 24 credits\n"
+        },
+        {
+            "dept": "hreq",
+            "code": "3800",
+            "credit": 6.0,
+            "name": "Human Rights, Islamic Thought and Politics",
+            "prereqs": "",
+            "desc": "Critically examines the relationship between Islam and human rights. Describes the state of human rights in Muslim-majority countries and debates within them and amongst Muslim minorities in liberal democracies over the compatibility of human rights claims with Islamic principles. \r\nCourse credit exclusion: AP/HREQ 3800 3.00."
+        },
+        {
+            "dept": "hreq",
+            "code": "3830",
+            "credit": 6.0,
+            "name": "Women's Health and Equity",
+            "prereqs": "",
+            "desc": "Using women's health research, this course will use a Critical Multicultural and Anti Racist Feminist approach to examine women health and the social determinants that shape their lives. Health and illness as it relates to gender and sexuality permit this course to employ gender roles, reproductive health, violence, mental health and body image as it relates to Eating Disorders to deal with issues that affect women's everyday lives. As health is part of our political, social, cultural, and economic life and the course will explore these areas and how they contribute to women's health and wellness.\nPrerequisite: 24 credits"
+        },
+        {
+            "dept": "hreq",
+            "code": "3890",
+            "credit": 6.0,
+            "name": "Social Justice: Theory and Practice",
+            "prereqs": "",
+            "desc": "This course addresses inequality and domination, resistance and collective empowerment, in Canada and beyond, and examines the historical importance and the contemporary relevance of struggles to overcome inequality and injustice.\nPrerequisite: 24 credits"
+        },
+        {
+            "dept": "hreq",
+            "code": "3961",
+            "credit": 3.0,
+            "name": "International Human Rights and Children",
+            "prereqs": "",
+            "desc": "Description: This course connects economic, social, and structural powers that allow violence against children, drawing on expressive literature as well as social science materials. Topics include the Convention on the Rights of the Child and other legislation for children, UN children organizations, and the role of civil society and government."
+        },
+        {
+            "dept": "hreq",
+            "code": "3962",
+            "credit": 3.0,
+            "name": "Trauma, Social Dislocation and Human Rights",
+            "prereqs": "",
+            "desc": "The course examines violence, torture and inhumane treatment understood as health issues and as issues in international human rights. It engages with survivors' experiences in countries of origin and the human costs and challenges of the entry process in Canada.\nPrerequisite: 24 credits"
+        },
+        {
+            "dept": "hreq",
+            "code": "3990",
+            "credit": 6.0,
+            "name": "Directed Reading/Special Study",
+            "prereqs": "hreq1010 hreq2030",
+            "desc": "This course enables students to do a supervised 6-credit 3000-level directed reading course. Students must be accepted by a faculty supervisor before they can register in the course. The course transaction form for this course must be submitted with the supervisor's name and signature stating his/her willingness to supervise the student.\nNote: only 6 credits of 3000-level reading courses are permitted for a BA in Human Rights and Equity Studies.\nPrerequisites: 48 credits, including AP/HREQ 1010 6.00; AP/HREQ 2030 6.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "3990",
+            "credit": 3.0,
+            "name": "Directed Reading/Special Study",
+            "prereqs": "hreq1010 hreq2030",
+            "desc": "This course enables students to do a supervised 3-credit 3000-level directed reading course. Students must be accepted by a faculty supervisor before they can register in the course. The course transaction form for this course must be submitted with the supervisor's name and signature stating his/her willingness to supervise the student.\nNote: only 6 credits of 3000-level reading courses are permitted for a BA in Human Rights and Equity Studies\nPrerequisites: 48 credits, including AP/HREQ 1010 6.00; AP/HREQ 2030 6.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "4052",
+            "credit": 3.0,
+            "name": "Race, Ethnicity and Social Policy",
+            "prereqs": "",
+            "desc": "Focuses on training students to analyze and construct public policy analysis on social issues through the lens of race and ethnicity. Through this course, public policy analysis will be utilized as a tool for understanding and impacting the prevailing social agenda from a race and ethnicity perspective. Course credit exclusions: AP/MIST 3680 6.00, AP/REI 3680 6.00 (prior to Fall 2013), AP/SOCI 3680 6.00 (prior to Fall 2012), AP/MIST 4052 3.00\nPreviously offered as: AP/MIST 4052 3.00."
+        },
+        {
+            "dept": "hreq",
+            "code": "4081",
+            "credit": 6.0,
+            "name": "Gender, Culture and Society in the Middle East",
+            "prereqs": "",
+            "desc": "This course examines culture and social change in the Middle East, with a specific focus on the politics of religion, gender and identity, both within and beyond the region's borders. Case studies may include such countries as Algeria, Egypt, Iran, Israel, Pakistan and Turkey.\nCourse credit exclusion: AP/MIST 4081 6.00\nPrerequisites: 78 credits, or permission from the Undergraduate Program Director."
+        },
+        {
+            "dept": "hreq",
+            "code": "4450",
+            "credit": 6.0,
+            "name": "Theories of Rights and Equity: Advanced Perspectives",
+            "prereqs": "",
+            "desc": "An examination at an advanced level of critical issues in social theory with a focus on the ways in which theories engage with concerns addressed by human rights and equity studies practitioners and advocates.\nCourse credit exclusion: (Prior to Fall/Winter 2019: AP/HREQ 4450 6.00 Social Theories and Human Rights\nPrerequisites: 78 credits including AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00 prior to 2019), AP/HREQ 2030 6.00, AP/HREQ 3010 6.00, and AP/HREQ 3100 6.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "4600",
+            "credit": 6.0,
+            "name": "Research Seminar",
+            "prereqs": "",
+            "desc": "This seminar adopts an advanced approach to research and interpretation, including data collection and analysis within a relevant theoretical framework. Students will develop a research question, formulate a thesis, and complete a substantial research project.\nCourse credit exclusion: Prior to Fall 2018: AP/MIST 4600 6.00 \nPrerequisites: 78 credits, including AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00), AP/HREQ 2030 6.00, and AP/HREQ 3100 6.00, or permission of the Undergraduate Program Director"
+        },
+        {
+            "dept": "hreq",
+            "code": "4652",
+            "credit": 6.0,
+            "name": "Violence, Enslavement and Human Rights",
+            "prereqs": "",
+            "desc": "This course examines the violation of human rights through theoretical interpretations of the concept of violence, as well as modern forms of human enslavement as one particular form of violent control operating in the world today. The course relies on a critical interdisciplinary analysis to formulate understandings of the complexities of violence and modern slavery\nPrerequisites: 78 credits, or permission from the Undergraduate Program Director.\nCourse credit exclusion: AP/HREQ 4652 3.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "4720",
+            "credit": 6.0,
+            "name": "Directed Reading/Special Study",
+            "prereqs": "hreq2030 hreq3100",
+            "desc": "This course provides an opportunity for students to carry out an independent research project under the supervision of a faculty member. The student selects a research issue, formulates related research questions, and sets the project within a theoretical context.\nPrerequisites: 78 credits, including AP/HREQ 2030 6.00 &amp; AP/HREQ 3100 6.00 or permission of the Undergraduate Program Director.\nNote: Students must be accepted by a faculty supervisor before they can register in the course. This acceptance must be recorded on the course transaction form.\nThis course is available only for Honours and Specialized Honours students."
+        },
+        {
+            "dept": "hreq",
+            "code": "4720",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "hreq2030 hreq3100",
+            "desc": "Description: This course provides an opportunity for students to carry out an independent research project under the supervision of a faculty member. The student selects a research issue, formulates related research questions, and sets the project within a theoretical context.\nPrerequisites: 78 credits, including AP/HREQ 2030 6.00 &amp; AP/HREQ 3100 6.00 or permission of the Undergraduate Program Director.\nNote: Students must be accepted by a faculty supervisor before they can register in the course. This acceptance must be recorded on the course transaction form.\nThis course is available only for Honours and Specialized Honours students."
+        },
+        {
+            "dept": "hreq",
+            "code": "4740",
+            "credit": 6.0,
+            "name": "Ideology and Freedom of Expression",
+            "prereqs": "",
+            "desc": "This course analyzes the role of the state, institutions, and groups in the creation of dominant ideologies. Using select case studies, it further explores the interrelationship between equity, agency, and freedom of expression.\nCourse credit exclusion: Prior to Fall 2019: AP/HREQ 4740 6.00\nPrerequisites: 78 credits or, permission of the Undergraduate Program Director."
+        },
+        {
+            "dept": "hreq",
+            "code": "4770",
+            "credit": 6.0,
+            "name": "Democracy, Social Movements and Freedom of Assembly",
+            "prereqs": "",
+            "desc": "This course explores the legal and institutional safeguards required for democratic organizing and action. It takes an historical view of the constitutional and practical measures required to protect the operation of a democratic public sector in varying historical forms of the state, as well as the legitimate constraints on the operation of the right to freedom of assembly.\nCourse credit exclusion: AP/HREQ 4770 6.00\nPrerequisites: 78 credits or, permission of the Undergraduate Program Director."
+        },
+        {
+            "dept": "hreq",
+            "code": "4772",
+            "credit": 3.0,
+            "name": "Migration and Refugee Protection",
+            "prereqs": "hreq1010",
+            "desc": "This seminar provides students with a critical analysis of the politics of migration and refugee protection. It develops an interdisciplinary and multicultural understanding of the nature and evolution of national and international refugee regimes, with emphasis on the different types of actors, structures, processes and norms that organise and control borders.\nPrerequisites: 78 credits, including AP/HREQ 1010 6.0 or permission from the Undergraduate Program Director\nCourse credit exclusions: AP/PPAS 4111 3.00, AP/PPAS 4112 3.00"
+        },
+        {
+            "dept": "hreq",
+            "code": "4780",
+            "credit": 6.0,
+            "name": "Gender, Religion and Human Rights in Cross-Cultural Perspectives",
+            "prereqs": "",
+            "desc": "This seminar course examines how religion plays a substantial role in women's lives across different cultures. The course also studies the contributions of politics, economy/class, society and culture in shaping peoples' religious beliefs and practices. The first part of the course explores women's status and rights in select religious texts as well as theories and methods in studying women and gender.  The second part critically studies women's rights in different religions' and cultures' family law, civil and criminal law and their compatibility with the Canadian Charter of Rights and Freedom, and the Universal Declaration of Human Rights.\nCourse credit exclusion: AP/HREQ 3891 3.00 \nPrerequisites: 78 credits, or permission of the Undergraduate Program Director. \n"
+        },
+        {
+            "dept": "hreq",
+            "code": "4800",
+            "credit": 6.0,
+            "name": "Honours Thesis ",
+            "prereqs": "hreq2030 hreq3100",
+            "desc": "This course requires students to plan, develop and execute a research project. This project consists of a literature review, a proposal and a major paper.\nNote: Student must be accepted by a faculty supervisor before they can register in the AP/HREQ 4800 Honours Thesis course. The course transaction from for this course must be signed stating the faculty member's willingness to supervise.\nThis course is available only to Honours and Specialized Honours students.\nPrerequisites: 78 credits, including AP/HREQ 2030 6.00 and AP/HREQ 3100 6.00, or permission of the Undergraduate Program Director"
+        },
+        {
+            "dept": "hreq",
+            "code": "4820",
+            "credit": 6.0,
+            "name": "Atrocity, Genocide and Crimes against Humanity",
+            "prereqs": "",
+            "desc": "The overall aim of the course is to develop a critical understanding of genocide and to develop the student's ability to analyze genocide in both historical and contemporary contexts. The course will examine the causes and consequences of genocide. Genocides studied include Indigenous, Armenian, the Holocaust, Cambodian, Rwandan, former Yugoslavian, and others. Students will investigate the terms genocide, crimes against humanity, and war crimes and explore them through the lens of human rights and equity.\nCourse credit exclusion: Prior to Fall 2019: HREQ/SOCI 4020 6.00\nPrerequisites: 78 credits, or permission of the Undergraduate Program Director."
+        }
+    ]
+}

@@ -1,0 +1,1028 @@
+{
+    "courses": [
+        {
+            "dept": "biol",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Biology I - Cells, Molecular Biology and Genetics",
+            "prereqs": "biol1500 chem1500",
+            "desc": "An introduction to major unifying concepts and fundamental principles of biology, including evolution and cell theory. Topics include cells, biological energetics, metabolism, cell division and genetics. The laboratory and lecture components must be passed independently to pass the course. Prerequisite: OAC Biology or 12U Biology or SC/BIOL 1500 3.00; OAC Chemistry or 12U Chemistry or SC/CHEM 1500 4.00. Course credit exclusions: SC/ISCI 1101 3.00; SC/ISCI 1110 6.0."
+        },
+        {
+            "dept": "biol",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction aux sciences biologiques",
+            "prereqs": "",
+            "desc": "Ce cours est une introduction aux concepts biologiques fondamentaux de la science. Les sujets abord\u00e9s comprendront la structure et la fonction des mol\u00e9cules biologiques, la biologie cellulaire et physiologie des membranes, les g\u00e8nes, la g\u00e9n\u00e9tique, la biologie d\u00e9veloppementale, la biologie \u00e9volutive, le comportement des animaux et l'histoire de la vie. Conditions pr\u00e9alables : OAC Biology ou 12U Biology, OAC Chemistry ou 12U Chemistry. Cours incompatibles : GL/NATS 1540 6.00 (exemptions sous r\u00e9serve de la politique de York : (http://secretariat-policies.info.yorku.ca/policies/cross-listed-courses/)."
+        },
+        {
+            "dept": "biol",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Biological Science",
+            "prereqs": "",
+            "desc": "This course is an introduction to the fundamental biological concepts in science. Topics covered includes structure and function of biological molecules, cell biology and membrane physiology, genes, genetics, developmental biology, evolutionary biology, animal behaviour and the history of life. Prerequisites: OAC Biology or 12U Biology, OAC Chemistry of 12U Chemistry. Course Credit Exclusion: GL/NATS 1540 6.00 (exemptions subject to York policy: http://secretariat-policies.info.yorku.ca/policies/cross-listed-courses/)."
+        },
+        {
+            "dept": "biol",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "Biology II - Evolution, Ecology, Biodiversity and Conservation Biology",
+            "prereqs": "biol1500 chem1500",
+            "desc": "A continuation of SC/BIOL 1000 3.00, exploring major unifying concepts and fundamental principles of biology, building on earlier concepts. Topics include mechanisms of evolution, ecology, a survey of biodiversity and conservation biology. The laboratory and lecture components must be passed independently to pass the course. Prerequisites: 12U Biology or SC/BIOL 1500 3.00; 12U Chemistry or SC/CHEM 1500 4.00.  Course Credit Exclusions:  SC/ISCI 1102 3.00; SC/ISCI 1110 6.00."
+        },
+        {
+            "dept": "biol",
+            "code": "1500",
+            "credit": 3.0,
+            "name": "Introduction to Biology",
+            "prereqs": "",
+            "desc": "An introductory course in Biology for students needing adequate preparation for SC/BIOL 1000 3.00.  The course explores underlying theories and the unity and diversity of life.  Topics include evlution, cell theory, introductory biochemistry, inheritance, biodiversity, and ecology.  NCR NOTE:  May not be taken by any student who has passed or is currently taking another university course in biology.  Note:  Not eligible for Biology credit towards a Biology, Biochemistry or Environmental Biology program. \r\n\r\n"
+        },
+        {
+            "dept": "biol",
+            "code": "1601",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course. Students are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enrol. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enrol. Students will not be allowed to enrol in a biology research practicum course with their Honours Thesis (SB/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SB/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in biology or biochemistry majors."
+        },
+        {
+            "dept": "biol",
+            "code": "1602",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nNote: This course does not count for degree credit in any program. Students are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "biol",
+            "code": "2010",
+            "credit": 4.0,
+            "name": "Plant Biology",
+            "prereqs": "biol1000 biol1001 isci1110 isci1101 isci1102",
+            "desc": "Current advances in plant biology research, highlighting plant structure, physiology, development and diversity. Prerequisite:  SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00 or SC/ISCI 1110 6.00 or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "Biochemistry  ",
+            "prereqs": "",
+            "desc": "A study of the cell biology and biochemistry of biomolecules. Topics include intermediary metabolism related to bioenergetics, including the biology of mitochondria and chloroplasts, protein structure and function, nucleic acid replication, gene expression, chromosome organization and recombinant DNA technology.  Not open to Chemistry majors. Prerequisites: (1) Both SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00, or SC/ISCI 1110 6.00, or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00; and (2) both SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00, or SC/CHEM 1000 6.00, or both SC/ISCI 1201 3.00 and SC/ISCI 1202 3.00, or SC/ISCI 1210 6.00.  Course credit exclusion:  SC/CHEM 2050 4.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "2021",
+            "credit": 3.0,
+            "name": "Cell Biology",
+            "prereqs": "biol1000 biol1001 chem1000 chem1001 isci1110 isci1210 isci1101 isci1102 isci1201 isci1202",
+            "desc": "A study of cell biology and aspects of related biochemistry. Topics include membranes, the endomembrane system, the cytoskeleton, cellular motility, the extracellular matrix, intercellular communication and intracellular regulation. Prerequisites: One of the following: (1) SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00 and SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00 (2) SC/ISCI 1110 6.00 and SC/ISCI 1210 6.00 (3) SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00 and SC/ISCI 1201 3.00 and SC/ISCI 1202 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2030",
+            "credit": 4.0,
+            "name": "Animals",
+            "prereqs": "biol1000 biol1001 isci1110 isci1101 isci1102",
+            "desc": "A study of the diversity of animals, their structure, physiology and evolution. Prerequisite:  SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00 or SC/ISCI 1110 6.00 or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00.  Course Credit ExclusionL SC/BIOL 2030 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2030",
+            "credit": 3.0,
+            "name": "Animals",
+            "prereqs": "biol1010 biol1000 isci1110 isci1101 isci1102",
+            "desc": "A study of the diversity of animals, their structure, physiology and evolution.  Prerequisite: SC/BIOL 1010 6.0 or  SC/BIOL 1000 3.00 and SC/BIOL 1001\n3.00 or SC/ISCI 1110 6.0 or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00.  Course Credit Exclusion SC/BIOL 2030 4.00.  "
+        },
+        {
+            "dept": "biol",
+            "code": "2040",
+            "credit": 3.0,
+            "name": "Genetics",
+            "prereqs": "biol1000 biol1001 isci1110 isci1101 isci1102",
+            "desc": "A study of the organization and behaviour of genes and chromosomes and their roles in cells, organisms, populations and evolution. Prerequisite: Both SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00 or SC/ISCI 1110 6.00, or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2050",
+            "credit": 4.0,
+            "name": "Ecology",
+            "prereqs": "biol1000 biol1001 isci1110 isci1101 isci1102",
+            "desc": "A study of the interactions between organisms and their abiotic environments, presented in an evolutionary context. Includes processes of evolution, ecosystems and communities, competition, predation, population ecology and current environmental problems such as habitat loss and extinction. Prerequisite: Both SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00, or SC/ISCI 1110 6.00, or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00. Prerequisite or corequisite: SC/BIOL 2060 3.00.\r\n"
+        },
+        {
+            "dept": "biol",
+            "code": "2060",
+            "credit": 3.0,
+            "name": "Statistics for Biologists",
+            "prereqs": "cse1520 cse1530 cse1540 eecs1520 eecs1530 eecs1540 math1014 math1505 math1013 math1025",
+            "desc": "Statistical problem solving for biologists. Basic theory for the analysis of parametric and non-parametric data. A project period is devoted to discussion and solving of statistical problems. One project period. Prerequisites:  LE/CSE 1520 3.00, or LE/CSE 1530 3.00, or LE/CSE 1540 3.00, or LE/EECS 1520 3.00, or LE/EECS 1530 3.00, or LE/EECS 1540 3.00; and SC/MATH 1014 3.00, or SC/MATH 1505 6.00, or both SC/MATH 1013 3.00 and SC/MATH 1025 3.00, or ISCI 1410 6.00, or both ISCI 1401 3.00 and 1402 3.00, or both ISCI 1401 3.00 and MATH 1025 3.00, or equivalents. \nCourse Credit Exclusions: AP/ECON 2500 3.00, AP/ECON 3210 3.00, AP/ECON 3480 3.00, AP/ECON 3500 3.00, AP/GEOG 2420 3.00 or SC/GEOG 2420 3.00, HH/KINE 2050 3.00, HH/KINE 3150 3.00, SC/MATH 1131 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00, SC/MATH 2570 3.00, AP/POLS 3300 6.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, AP/SOCI 3030 6.00.\n"
+        },
+        {
+            "dept": "biol",
+            "code": "2070",
+            "credit": 3.0,
+            "name": "Research Methods in Cell and Molecular Biology",
+            "prereqs": "biol1000 biol1001 isci1110 isci1101 isci1102 chem1000 chem1001 isci1201 isci1202 isci1210",
+            "desc": "This course focuses on laboratory techniques in the life sciences. Practical research skills are developed through experiential learning using current biochemistry, cell and molecular biology techniques. Research skills include scientific writing, data analysis/interpretation, experimental design and hypothesis testing. Prerequisites: (1) Both SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00, or SC/ISCI 1110 6.00, or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00; and (2) both SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00, or both SC/ISCI 1201 3.00 and SC/ISCI 1202 3.00, or SC/ISCI 1210 6.00.  Course Credit Exclusion: SC/BIOL 2071 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2071",
+            "credit": 3.0,
+            "name": "Techniques and Methods in Cell and Molecular Biology",
+            "prereqs": "biol1010 biol1000 biol1001 chem1000 chem1001",
+            "desc": "This course explores contemporary methods and skills required for basic research in biochemistry and cell and molecular biology.\nIt introduces students to equipment, techniques, and theory relevant to current research, and its application to solve modern and historic problems in biology.\nPrerequisites: SC/BIOL 1010 6.0 OR SC/BIOL 1000 3.0 AND SC/BIOL 1001 3.0; SC/CHEM 1000 3.0 AND SC/CHEM 1001 3.0.  Course Credit Exclusion: SC/BIOL 2070 3.0"
+        },
+        {
+            "dept": "biol",
+            "code": "2090",
+            "credit": 3.0,
+            "name": "Current Topics in Biophysics",
+            "prereqs": "phys1010 isci1310 isci1301 isci1302 phys1800 phys1801 phys1410 phys1420 biol1000 biol1001 isci1110 isci1101 isci1102",
+            "desc": "An introduction to biophysics highlighting major themes in pure and applied biophysical research. Included is coverage of fundamental concepts in fluid mechanics. The course will present biology and physics students with an overview of the role of physics in biological research. Prerequisites: (1) SC/PHYS 1010 6.00, or SC/ISCI 1310 6.00, or both SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00, or both SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or a minimum grade of C in SC/PHYS 1410 6.00 or SC/PHYS 1420 6.00; and (2) both SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00, or SC/ISCI 1110 6.00, or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00; or permission of Instructor."
+        },
+        {
+            "dept": "biol",
+            "code": "2205",
+            "credit": 6.0,
+            "name": "Ressources \u00e9nerg\u00e9tiques et sant\u00e9 des \u00e9cosyst\u00e8mes",
+            "prereqs": "",
+            "desc": "Ce cours analyse l'impact de l'utilisation des ressources \u00e9nerg\u00e9tiques (combustibles fossiles, hydro\u00e9lectricit\u00e9, \u00e9nergie nucl\u00e9aire, etc.) sur le fonctionnement et l'int\u00e9grit\u00e9 des \u00e9cosyst\u00e8mes. Le cours traite autant de l'impact local (ex: smog) que de l'impact global (ex: r\u00e9chauffement climatique).\r\nCondition pr\u00e9alable : GL/BIOL 1000 6.00 ou permission du d\u00e9partement.\r\nCours incompatible : GL/NATS 2205 6.00"
+        },
+        {
+            "dept": "biol",
+            "code": "2300",
+            "credit": 3.0,
+            "name": "General Ecology",
+            "prereqs": "biol1000 biol1001 biol1010",
+            "desc": "This course is an introduction to the scientific study of relationships between organisms and their physical and biological environments. General principles will be used to interpret patterns in the distribution, abundance, and characteristics of organisms in space and time. .Prerequisites: SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00 (or SC/BIOL 1010 6.00) or permission of the Department. Previously offered as: GL/NATS 2300 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2310",
+            "credit": 3.0,
+            "name": "Fundamentals of Conservation Biology",
+            "prereqs": "biol1000 biol1001 biol1010",
+            "desc": "This course explores species preservation methods, the causes of their decline and the effects of human intervention. Concepts and theories underlying conservation biology are used to develop critical thinking in matters related to biodiversity and the protection of endangered species. Prerequisites: SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00 (or SC/BIOL 1010 6.00) or permission of the Department. Previously offered as: GL/NATS 2310 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2320",
+            "credit": 3.0,
+            "name": "Botany",
+            "prereqs": "biol1000",
+            "desc": "This course is an overview of our present knowledge of plants, their function, their origin, their evolution and their role in ecosystems. The course includes three lecture hours and three hours laboratory tutorials per week. Prerequisite: GL/BIOL 1000 6.00 or permission of the department. Course credit exclusions; GL/BIOL 2320 6.00 &amp; SC/BIOL 2010 4.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2601",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nStudents are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enrol. Students may enroll in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "biol",
+            "code": "2602",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nStudents are expected to commit to approximately 5-10 hours per week (on average) . The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "biol",
+            "code": "2900",
+            "credit": 3.0,
+            "name": "Clinical Microbiology for Nurses",
+            "prereqs": "",
+            "desc": "An introductory course in medical microbiology designed for nursing students. Topics include: structure/function relationships of viruses, bacteria and fungi; physical and chemical control of microbial growth; human/microbe interactions; immunology; major infectious diseases of humans; epidemiology and public health. Prerequisite: Entry in the collaborative Nursing program. Course credit exclusions: SC/BIOL 2905 3.00, SC/BIOL 3150 4.00. Note: Not eligible for biology credit towards a Biology/Biochemistry /Environmental Biology program. Not open to students who have taken SC/BIOL 3150 4.00."
+        },
+        {
+            "dept": "biol",
+            "code": "2905",
+            "credit": 3.0,
+            "name": "Introduction to Medical Microbiology",
+            "prereqs": "biol1000 biol1001 biol1010 nats1610 nats1650 nats1660 nats1670 nats1675 nats1680 kine2011 kine2031",
+            "desc": "Medical microbiology for students interested in nursing and other health fields. This course is an introduction to concepts of medical microbiology, human-microbe interactions, mechanisms of microbial diseases, control of microbial growth, immunology and epidemiology. Prerequisite: At least 30 credits towards a degree program; six credits from the following: SC/BIOL 1000 3.00, SC/BIOL 1001 3.00, SC/BIOL 1010 6.00; SC/NATS 1610 6.00, SC/NATS 1650 6.00, SC/NATS 1660 6.00, SC/NATS 1670 6.00, SC/NATS1675 6.00, SC/NATS 1680 6.00, HH/KINE 2011 3.00, HH/KINE 2031 3.00; or permission of the Instructor. Course credit exclusions: SC/BIOL 2900 3.00, SC/BIOL 3150 3.00 (prior to Fall 2016), or SC/BIOL 3150 4.00. Note: Not eligible for Biology credit towards a Biology or Biochemistry program."
+        },
+        {
+            "dept": "biol",
+            "code": "3001",
+            "credit": 3.0,
+            "name": "Field Course",
+            "prereqs": "biol2050 biol2060",
+            "desc": "A course given at one of several biological stations, the objective of which is to give the student the opportunity to study plants and animals in their natural surroundings. The departmental brochure should be consulted for further details. Two-week field course. Prerequisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00; plus other prerequisites if specified for a given module. Note: Students must be manually enrolled in this course through the Biology Department in early January or prior to the session in which the course is offered. Enrolment is not possible at any other time of year. In addition to the tuition fee levied by the University, each student must pay for transportation, room and board."
+        },
+        {
+            "dept": "biol",
+            "code": "3001",
+            "credit": 3.0,
+            "name": "Behavioural Ecology",
+            "prereqs": "biol1000",
+            "desc": "Using an ethological approach, this course examines the mechanistic and evolutionary causes of animal behaviour, including social behaviour (competition, cooperation), communication, foraging, anti-predator behaviour, habitat selection, reproduction and mating systems, and parental care.\r\nPrerequisite: GL/BIOL 1000 6.00"
+        },
+        {
+            "dept": "biol",
+            "code": "3002",
+            "credit": 3.0,
+            "name": "Field Course",
+            "prereqs": "",
+            "desc": "This is a second field course, which may be taken for credit, the contents of which must differ materially from SC/BIOL 3001 2.00 or SC/BIOL 3001 3.00 as determined by the Instructor. The departmental brochure should be consulted for further details. Two-week field course. Prerequisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00; plus other prerequisites if specified for a given module. Note: Students must be manually enrolled in this course through the Biology Department early in January or prior to the session in which the course is offered. Enrolment is not possible at any other time of year. In addition to the tuition fee levied by the University, each student must pay for transportation, room and board."
+        },
+        {
+            "dept": "biol",
+            "code": "3003",
+            "credit": 3.0,
+            "name": "Field Course",
+            "prereqs": "",
+            "desc": "This is a third field course, which may be taken for credit, the contents of which must differ materially from SC/BIOL 3001 2.00 or SC/BIOL 3001 3.00, and SC/BIOL 3002 2.00 or SC/BIOL 3002 3.00, as determined by the Instructor. The departmental brochure should be consulted for further details. Two-week field course. Prerequisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00; plus other prerequisites if specified for a given module. Note: Students must be manually enrolled in this course through the Biology Department early in January or prior to the session in which the course is offered. Enrolment is not possible at any other time of year. In addition to the tuition fee levied by the University, each student must pay for transportation, room and board."
+        },
+        {
+            "dept": "biol",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Advanced Biochemistry",
+            "prereqs": "biol2020 bchm2020 chem2050 chem2020 chem2021",
+            "desc": "A detailed discussion of enzyme structure and function. The chemistry and metabolism of biological molecules. Metabolic regulation at the level of enzyme activity. Knowledge of general concepts of metabolism and of basic aspects of enzyme structure and function is assumed. Prerequisites: SC/BIOL 2020 3.00 or SC/BCHM 2020 3.00 or SC/CHEM 2050 4.00; SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3030",
+            "credit": 4.0,
+            "name": "Physiology of the Invertebrates",
+            "prereqs": "biol2030",
+            "desc": "A treatment of the physiology of major invertebrate phyla with emphasis on interphyletic relationships. Laboratory exercises address the diversity and physiology of invertebrates. Prerequisite: SC/BIOL 2030 4.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3051",
+            "credit": 3.0,
+            "name": "Macromolecules of Biochemical Interest",
+            "prereqs": "chem2020 chem2021 chem2050 bchm2020 biol2020",
+            "desc": "A discussion of the structures and functions of naturally occurring macromolecules, including nucleic acids, proteins, polysaccharides and related macromolecular conjugates. Prerequisites: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00 and either SC/CHEM 2050 4.00 or SC/BCHM 2020 3.00 or SC/BIOL 2020 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3060",
+            "credit": 4.0,
+            "name": "Animal Physiology I",
+            "prereqs": "biol2020 biol2021 biol2030",
+            "desc": "Fundamental concepts in sensory, neural and behavioural physiology. The biochemical mechanisms whereby nerve cells detect and transmit information and the processes whereby information is integrated in the nervous system and gives rise to the outputs of behaviour. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2030 4.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3070",
+            "credit": 4.0,
+            "name": "Animal Physiology II",
+            "prereqs": "biol2020 biol2021 biol2030",
+            "desc": "The processes of digestion, osmoregulation and excretion, circulatory systems and gaseous exchange, metabolism, growth and reproduction are considered. The course adopts a comparative approach, first analyzing the basic principles underlying physiological activities, then examining the means whereby different organisms perform them. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, and SC/BIOL 2030 4.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3075",
+            "credit": 3.0,
+            "name": "Introduction to Drug Discovery and Development",
+            "prereqs": "chem2020 chem2021 chem2050 bchem2020",
+            "desc": "This course introduces students to the fundamentals of modern drug development such as how the structure, metabolism, route of administration, additives in formulation, etc. play key roles in determining a drug's activity and efficacy.  The course explains how a molecule can be identified as a leading compound (by high throughput screenings or computational modeling) and then optimized to ensure maximum efficacy and minimal side effects.  The course is mainly focused on elements of structural biology and the pharmacological aspects of medicinal chemistry.  Several classes of drug molecules are explained to ensure that students are exposed to a broad overview about the real world of drug discovery and development procedures.  Guest speakers from pharmaceutical companies will speak about current pharmaceutical research and development as well as patents and innovation.  Overall the course is designed to make sure that students are familiarized with the idea of drug design and development, and the recent approaches taking place in this field of science.  \r\n\r\nPrerequisites:  SC/CHEM 2020 3.00, SC/CHEM 2021 3.00 and either SC/CHEM 2050 4.00 or SC/BIOL/BCHEM 2020 3.00.\r\nCourse Credit Exclusion: SC/CHEM 3071 3.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "3110",
+            "credit": 3.0,
+            "name": "Molecular Biology I: Nucleic Acid Metabolism",
+            "prereqs": "biol2020 biol2021 biol2040 biol2070",
+            "desc": "Discussion of the metabolism of DNA and RNA, including the physical-chemical properties of nucleic acids; DNA-protein interactions; chromosome structure; nucleic acid replication, repair and recombination; recombinant DNA technology. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2040 3.00, and SC/BIOL 2070 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3120",
+            "credit": 3.0,
+            "name": "Immunobiology",
+            "prereqs": "biol2020 biol2021 biol2040 biol2070",
+            "desc": "The biology and chemistry of the immune response. Structure and function of antibodies; antibody diversity; anatomy and development of the immune system; cellular interactions; immunological responses in disease. Production and use of monoclonal and polyclonal antibodies. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2040 3.00, SC/BIOL 2070 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Molecular Biology II: Regulation of Gene Expression",
+            "prereqs": "biol3110 bchm3110",
+            "desc": "Gene structure and function. Mechanisms of gene expression in prokaryotes and eukaryotes. Storage and retrieval of genetic information; transcription, translation and their control. Prerequisite: SC/BIOL 3110 3.00 or SC/BCHM 3110 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3140",
+            "credit": 4.0,
+            "name": "Advanced Biochemistry and Molecular Genetics Laboratory",
+            "prereqs": "",
+            "desc": "Research techniques used in biochemistry and molecular biology, including recombinant DNA technology, are illustrated. Purification of a restriction endonuclease; isolation and mapping of bacterial plasmids, bacteriophage and recombinant molecules; polymerase chain reaction (PCR); nucleic acid hybridization. Prerequisite or corequisite: SC/BIOL 3110 3.00 or SC/BCHM 3110 3.00. Strongly recommended prerequisite or corequisite: SC/BIOL 3130 3.00 or SC/BCHM 3130 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3150",
+            "credit": 4.0,
+            "name": "Microbiology",
+            "prereqs": "biol2020 biol2021 biol2040 biol2070",
+            "desc": "Fundamentals of microbiology; microbial organisms; microbe-host interactions; microbial genetics and evolution; microorganisms and human disease; environmental and applied microbiology. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2040 3.00, and SC/BIOL 2070 3.00.  Course credit exclusion: SC/BIOL 3150 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3155",
+            "credit": 3.0,
+            "name": "Virology",
+            "prereqs": "biol2020 biol2021",
+            "desc": "An in-depth examination of cellular, molecular and structural aspects of virology. Molecular processes and concepts are emphasized using examples from current research literature. Virus-host interactions are investigated in various systems. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3171",
+            "credit": 3.0,
+            "name": "Population Ecology",
+            "prereqs": "",
+            "desc": "Using lectures and labs, this course explores the dynamic and changing field of population ecology, focusing primarily on demographic traits of populations and patterns of population growth and change. Topics to be investigated include temporal and spatial dynamics of populations; constraints on the distributions of populations; patterns of population growth and regulation; density dependence and density independence; vital statistics and life history biology; age and sex structure of populations; meta-populations and dispersal; and the genetic attributes of populations.   Labs provide experiential exposure to several of the topics developed in lectures.   Two lecture hours and three lab hours per week. Pre-requisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00  Course Credit Exclusion: SC/BIOL 3170 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3172",
+            "credit": 3.0,
+            "name": "Community Ecology",
+            "prereqs": "",
+            "desc": "Using lectures and tutorials, this course explores the many ways that species interact over diverse spatial and temporal scales. Major themes include scales of interaction; mutualistic and antagonistic relationships; communities as coevolved relationships; community assembly, structure, and stability; responses to disruptions; ecological succession; measures of diversity; and methods for assessing the correlation between animal species distributions with plant species distributions.  \nThree lecture hours and one tutorial hour per week. Pre-requisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00.   Course Credit Exclusion: SC/BIOL 3170 3.00"
+        },
+        {
+            "dept": "biol",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Processes of Evolution",
+            "prereqs": "biol2040",
+            "desc": "The process and principles of evolution, the mechanisms by which genetic change occurs, the patterns of genetic variation and molecular studies that relate the structure of organisms to their evolution are examined. Prerequisite: SC/BIOL 2040 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3206",
+            "credit": 3.0,
+            "name": "Human parasitology",
+            "prereqs": "biol1000",
+            "desc": "This course is an introduction to the biology of human parasites. The course will examine the morphological, life cycle, physiological \r\nand molecular adaptations to parasitism. \r\nPrerequisite: GL/BIOL 1000 6.00 or permission of the department.\r\nCourse credit exclusion: GL/NATS 3206 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3225",
+            "credit": 3.0,
+            "name": "Biology of insects and related arthropods",
+            "prereqs": "biol2325",
+            "desc": "This course examines the form and function of insects and related arthropods within evolutionary and ecological contexts. The \r\ncourse also explores the roles played by these animals in ecosystems and their impact on agriculture, forestry and health.\r\nPrerequisite: GL/BIOL 2325 3.00 or permission of the department."
+        },
+        {
+            "dept": "biol",
+            "code": "3230",
+            "credit": 6.0,
+            "name": "G\u00e9n\u00e9tique et sant\u00e9 humaine",
+            "prereqs": "",
+            "desc": "Le cours pr\u00e9sente les bases cellulaires et mol\u00e9culaires de la g\u00e9n\u00e9tique. Il adopte une approche historique de la g\u00e9n\u00e9tique moderne mend\u00e9lienne et classique et vise \u00e0 initier les \u00e9tudiant(e)s \u00e0 l\u0092analyse g\u00e9n\u00e9tique moderne du g\u00e9notype des maladies humaines.\r\nCondition pr\u00e9alable : GL/BIOL 1000 6.00 ou permission du d\u00e9partement.\r\nCours incompatible : GL/NATS 3230 6.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3250",
+            "credit": 4.0,
+            "name": "Experimental design for environmental and evolutionary biology",
+            "prereqs": "biol2060",
+            "desc": "Examines advanced concepts associated with the design and implementation of experiments in environmental and evolutionary biology. Both basic and applied designs are described and major contemporary developments summarized. Prerequisites: SC/BIOL 2060 3.00 or an equivalent statistics course."
+        },
+        {
+            "dept": "biol",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Origins and Development of Biological Theories",
+            "prereqs": "",
+            "desc": "An analysis of the origins and development of biological theories, which may include those in evolutionary biology, ecology, biodiversity, and molecular phylogenetics.  Note Open only to students in the third or final year of a biology program, or with permission of the Instructor.  Only open to students who have completed a minimum of 12 credits at the 2000-level in BIOL courses. Course Credit Exclusion: SC/BIOL 4300 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3305",
+            "credit": 3.0,
+            "name": "Evolution and Ecology of Humans",
+            "prereqs": "biol1000",
+            "desc": "This course contrasts the ecological conditions attendant upon early human evolution with the complex environmental situations now faced by modern technological societies. Essential themes are Darwinism, the effect of earlier cultures upon the environment and selected modern examples in human ecology. Prerequisites: GL/BIOL 1000 6.00 or permission of the department. PRIOR TO SUMMER 2017: course credit exclusion: GL/BIOL 2305 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3350",
+            "credit": 4.0,
+            "name": "Comparative Chordate Anatomy",
+            "prereqs": "biol2030",
+            "desc": "A comparative study of the anatomy of chordate animals in which the evidence of their evolutionary relationships is emphasized. Three lecture hours, three laboratory hours. One term.  Prerequisites: SC/BIOL 2030 4.00. Course Credit Exclusion: SC/BIOL 4350 4.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3380",
+            "credit": 3.0,
+            "name": "Sensory Systems",
+            "prereqs": "biol3060 psyc2220",
+            "desc": "This course explores sensory systems in humans, animals and machines, and how they are used to control action, behaviour and physiological state.  \nStudents learn about the various ways in which an agent can exploit physical energies such as light, sound, and chemical signals to serve their species-specific needs. Adopting a comparative approach, the course focuses on highly specialized sensory systems and unusual, often surprising solutions to sensory challenges. \n Sensory systems are explored with respect to the function, the principles of the underlying information processing, and their physiological implementation in the organism. To understand the value of specialized sensory systems, the course also discusses the context in which sensory systems are used, and the constraints that may limit their evolution. \nTechnical solutions to sensory problems in robotics are discussed and compared to those invented by natural evolution. \nTheories covered include Bayesian Inference, Ideal Observer Theory, and Control Theory. Discussion of original literature and examples that showcase the reality of empirical science are used whenever appropriate.  Prerequisites: SC/BIOL 3060 4.00 or HH/PSYC 2220 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Biogeography",
+            "prereqs": "geog2500 geog2500 biol2050",
+            "desc": "An analysis of the geography of plants and animals emphasizing processes that operate at the population level, the origin and diversity of plants and animals, geographic patterns of diversity, and dynamics of species populations from local to continental scales. Prerequisite: AP/GEOG 2500 3.00 or SC/GEOG 2500 3.00 or SC/BIOL 2050 4.00."
+        },
+        {
+            "dept": "biol",
+            "code": "3601",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course. \nStudents are expected to commit to approximately 5-10 hours per week (on average). The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enrol. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enrol. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "biol",
+            "code": "3602",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nNote: This course does not count for degree credit in any program. Students are expected to commit to approximately 5-10 hours per week (on average). The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enroll in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enrol in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "biol",
+            "code": "3901",
+            "credit": 0.0,
+            "name": "Biology Internship Work Term",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer. Enrollment is by permission only. \n Prerequisites: Criteria for permission include:  1. A cumulative GPA and a major GPA of at least 7.5;  2. Completion of a minimum of 84 credits overall, including at least 24 BIOL credits.  3. Enrolled full-time in the Honours or Specialized Honours program in Biology or Environmental Biology prior to beginning the internship;  4. Student has not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  5. Upon enrolling in this course student has a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and must return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n Note: This is a pass/fail course, which does not count for degree credit. Registration in BIOL 3901/2/3/4 0.00 provides a record on the transcript for each work term. "
+        },
+        {
+            "dept": "biol",
+            "code": "3902",
+            "credit": 0.0,
+            "name": "Biology Internship Work Term",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer. Enrollment is by permission only. \n Prerequisites: Criteria for permission include:  1. A cumulative GPA and a major GPA of at least 7.5;  2. Completion of a minimum of 84 credits overall, including at least 24 BIOL credits.  3. Enrolled full-time in the Honours or Specialized Honours program in Biology or Environmental Biology prior to beginning the internship;  4. Student has not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  5. Upon enrolling in this course student has a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and must return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n Note: This is a pass/fail course, which does not count for degree credit. Registration in BIOL 3901/2/3/4 0.00 provides a record on the transcript for each work term. "
+        },
+        {
+            "dept": "biol",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Projet de recherche",
+            "prereqs": "",
+            "desc": "Ce cours permet aux \u00e9tudiants de compl\u00e9ter un projet de recherche en biologie, approfondi en laboratoire, sur le terrain et / ou en biblioth\u00e8que, sous la supervision d'un membre du corps professoral de biologie \u00e0 Glendon."
+        },
+        {
+            "dept": "biol",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "A substantial written thesis, including a literature review based on library investigations, under the supervision of a faculty member. Rules governing this course are outlined in the Department of Biology undergraduate handbook. Note: Open only to Honours students majoring in Biology, Environmental Biology or Environmental Science (life sciences stream) with at least 84 credits, and a Biology Major GPA of at least 6.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Honours Thesis in Biology",
+            "prereqs": "",
+            "desc": "This course allows students to complete an in-depth laboratory, field, and/or library research project in Biology under the supervision of a full-time faculty member from Glendon's Biology Program."
+        },
+        {
+            "dept": "biol",
+            "code": "4000",
+            "credit": 8.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "A research thesis based on laboratory and/or field investigations under the supervision of a faculty member. Rules governing this course are outlined in the Department of Biology undergraduate handbook. Note: Only open to Honours students majoring in biology and environmental biology or environmental science (life sciences stream) with at least 84 credits, and a Biology Major GPA of at least 6.0. "
+        },
+        {
+            "dept": "biol",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Biology in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Biology in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Biology in the intermediate and senior grades. \nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "biol",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Projet de recherche",
+            "prereqs": "",
+            "desc": "Ce cours permet aux \u00e9tudiants de compl\u00e9ter un projet de recherche en biologie, approfondi en laboratoire, sur le terrain et / ou en biblioth\u00e8que, sous la supervision d'un membre du corps professoral de biologie \u00e0 Glendon."
+        },
+        {
+            "dept": "biol",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Honours Thesis in Biology",
+            "prereqs": "",
+            "desc": "This course allows students to complete an in-depth laboratory, field, and/or library research project in Biology under the supervision of a full-time faculty member from Glendon's Biology Program."
+        },
+        {
+            "dept": "biol",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Biology in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Biology in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Biology areas in order to further develop students' expertise for teaching this subject. ED/BIOL 4000 (Part A) is a prerequisite for this course.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "biol",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Biology of Cancer",
+            "prereqs": "biol3130 bchm3130",
+            "desc": "Explores the basic molecular and cellular concepts and principles related to the development of cancer, and medical applications to treatment and prevention of the disease. Prerequisites: SC/BIOL 3130 3.00 or SC/BCHM 3130 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Genomics",
+            "prereqs": "biol2060 math2560 math2565 psyc2020 psyc2021 biol3130",
+            "desc": "The study of genome structure, function and evolution, with emphasis on the primary literature.  Topics include: gene duplication, evolution of noncoding DNA, population genomics, horizontal gene transfer, transposable element evolution and base composition.  Three lecture hours.  One term.  Three credits. Prerequisites: SC/BIOL 2060 3.00 or SC/MATH 2560 3.00 or SC/MATH 2565 3.00 or HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 (or equivalent); SC/BIOL 3130 3.00.\r\n"
+        },
+        {
+            "dept": "biol",
+            "code": "4030",
+            "credit": 3.0,
+            "name": "Proteomics",
+            "prereqs": "biol3130",
+            "desc": "Contemporary proteomic methodologies and applications. Specific topics: high-throughput methods, protein identification, protein complexes, structural proteomics, sub-cellular proteomics and molecular modeling. Prerequisite: SC/BIOL 3130 3.00 "
+        },
+        {
+            "dept": "biol",
+            "code": "4050",
+            "credit": 3.0,
+            "name": "Protein Structure and Mechanisms of Disease",
+            "prereqs": "",
+            "desc": "This course introduces advanced topics in protein structure and function, especially how a protein's tertiary structure facilitates its function. The effects of mutations on protein function and their links to various medical disorders or diseases will be explored. The focus of the course will be on the structural basis of interaction with other proteins, DNA, ligands or drug compounds, and will include advanced analysis of and visualization of protein structures using molecular graphics software.\nThree lecture hours per week. One term. Three credits.  Prerequisites: BIOL 3010 3.00 and BIOL 3130 3.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "4051",
+            "credit": 3.0,
+            "name": "Bioanalytical Chemistry",
+            "prereqs": "biol2020 bchm2020 biol2021 bchm2021 chem2020 chem2021",
+            "desc": "This course describes modern methods of bioanalytical chemistry in their application to the analysis of biological polymers: proteins, nucleic acids, carbohydrates and lipids. Analytical aspects of genomics and proteomics are considered. Prerequisites: SC/BIOL 2020 3.00 or SC/BCHM 2020 3.00 or SC/ CHEM 2050 4.00;  SC/BIOL 2021 3.00 or SC/BCHM 2021 3.00; SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4061",
+            "credit": 3.0,
+            "name": "Cell and Molecular Biology of Development",
+            "prereqs": "biol2020 biol2021 biol2040 biol2070",
+            "desc": "This course presents a genetic and molecular biological approach to the field of developmental biology. Topics range from unicellular systems, both prokaryotic and eukaryotic, to more complex, multicellular systems. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2040 3.00, SC/BIOL 2070 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4095",
+            "credit": 3.0,
+            "name": "Applied Plant Ecology",
+            "prereqs": "biol2050 biol4090",
+            "desc": "This course concentrates on how pollution, including acid precipitation and climatic change, and activities such as overgrazing have affected plant growth and productivity. Prerequisite: SC/BIOL 2050 4.00 or permission of the Instructor; SC/BIOL 4090 4.00 is recommended."
+        },
+        {
+            "dept": "biol",
+            "code": "4120",
+            "credit": 3.0,
+            "name": "Applied Immunology",
+            "prereqs": "biol3120",
+            "desc": "This course explores the structure and function of the immune system and its applications. Students will build a deeper understanding of the molecular, cellular and regulatory mechanisms of the immune system while exploring the research on, and application of, immunology in living systems. Both normal immune functions and disorders of the immune response will be addressed.  Prerequisite: SC/BIOL 3120 3.0."
+        },
+        {
+            "dept": "biol",
+            "code": "4141",
+            "credit": 3.0,
+            "name": "Current Topics and Methods in Cell Biology",
+            "prereqs": "biol3130",
+            "desc": "Selected topics in cell biology, such as membrane dynamics, cell cycle control, apoptosis, signal transduction and cellular rhythmicity. Presentation and critical discussion of recent research papers, emphasizing current methods and experimental design. Prerequisite: SC/BIOL 3130 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4150",
+            "credit": 3.0,
+            "name": "Cellular Regulation",
+            "prereqs": "biol2020 biol2021 biol2070 biol3010 biol3110",
+            "desc": "A detailed examination of molecular, cellular and physiological processes associated with the action of peptide hormones, neuro-transmitters and growth factors. Emphasis is on cell receptors and signal transduction mechanisms involving cyclic nucleotides and calcium. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2070 3.00. SC/BIOL 3010 3.00 and SC/BIOL 3110 3.00 strongly recommended as prerequisites or corequisites."
+        },
+        {
+            "dept": "biol",
+            "code": "4151",
+            "credit": 3.0,
+            "name": "Membrane Transport",
+            "prereqs": "biol2020 biol2021 biol3010 biol3110",
+            "desc": "The fundamental properties of solute transport are presented by discussing active ion pumps, passive transporters and ion channels of bacteria, plants and animals. The role of transport in regulating the intracellular environment in animals and plants is emphasized. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00. SC/BIOL 3010 3.00 and SC/BIOL 3110 3.00 strongly recommended as prerequisites or corequisites."
+        },
+        {
+            "dept": "biol",
+            "code": "4154",
+            "credit": 3.0,
+            "name": "The Human Microbiome",
+            "prereqs": "biol3150",
+            "desc": "This course focuses on the microbial world that is part of the complex ecosystem of human body. It explores the mechanisms and consequences of microbial interactions with the human body, including the microbial communities that inhabit our bodies, their essentiality to our health, and the delicate balance between health-promoting and disease-causing microbial behaviour. The application aspect of the human microbiome also is discussed in terms of factors that lead to the alteration of human microbiota, and their implication in treatment of human disorders.  Prerequisites: SC BIOL3150 4.0 or SC/BIOL 3150 3.0.\n"
+        },
+        {
+            "dept": "biol",
+            "code": "4155",
+            "credit": 3.0,
+            "name": "Advanced Virology",
+            "prereqs": "biol3110 biol3130 biol3155",
+            "desc": "Investigates advanced concepts and experimental systems in virology, including recent basic and applied research that has led to major scientific innovations in medicine, agriculture and nanotechnology. Prerequisites: SC/BIOL 3110 3.00, SC/BIOL 3130 3.00, SC/BIOL 3155 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4200",
+            "credit": 6.0,
+            "name": "Invasion Biology, Biogeography and Evolution ",
+            "prereqs": "biol2310",
+            "desc": "The course presents a balanced, comprehensive, evolutionary, and critical analysis of the young and rapidly expanding field of invasion biology. The complex role of non-native species in novel ecosystems is discussed in depth through numerous examples and case studies.Prerequisite: GL/BIOL 2310 3.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Selected Readings in Biology",
+            "prereqs": "",
+            "desc": "A reading course offered by special arrangement between an individual student and a faculty supervisor which focuses on a specialized area of biology of mutual interest. The subject matter must be significantly different from that of the student's honours thesis. A student may take this course only once for credit. Note: Open only to students with a minimum science GPA of 6.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Insect Herbivore Ecology",
+            "prereqs": "biol2300",
+            "desc": "This course analyses the mechanisms underlying plant defense against herbivores and insect adaptations to utilize plants for nutrition, defense and shelter. These mechanisms are examined at the molecular and organismal levels in the context of both ecological interactions and evolutionary processes. Prerequisite: GL/BIOL 2300 3.00 or permission of the department."
+        },
+        {
+            "dept": "biol",
+            "code": "4215",
+            "credit": 3.0,
+            "name": "Animal Communication and Sensory Ecology",
+            "prereqs": "biol2300",
+            "desc": "Explores the various categories of signals used by animals in a variety of contexts and the sensory channels which allow these signals to be sent, received and analyzed. Prerequisite: GL/BIOL 2300 3.00 or permission of the department. Previously offered as: GL/NATS 4215 3.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "4245",
+            "credit": 3.0,
+            "name": "Conservation Biology",
+            "prereqs": "biol2050 biol2060",
+            "desc": "Explores the role of biological science in efforts to conserve natural resources, systems and the organisms therein. Prerequisites: SC/BIOL 2050 4.00, SC/BIOL 2060 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Birds and the Environment",
+            "prereqs": "biol2050 biol2060",
+            "desc": "A review of the adaptations of birds to different environments, behaviour and ecology, biodiversity and evolution, and current threats to the world's birds. Laboratories include field trips, a study of bird anatomy and examination of museum specimens. Prerequisites: SC/BIOL 2050 4.00, SC/BIOL 2060 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4255",
+            "credit": 3.0,
+            "name": "Biodiversity",
+            "prereqs": "",
+            "desc": "We do not know the number of species on Earth, even to the nearest order of magnitude. This course discusses the factors that influence the number of species in an area and the importance of biodiversity to humanity. Note: Completion of 60 credits required, towards a degree in biology or environmental science or environmental studies, or permission of the Instructor."
+        },
+        {
+            "dept": "biol",
+            "code": "4265",
+            "credit": 3.0,
+            "name": "Biology in Environmental Management",
+            "prereqs": "biol2050 biol2060",
+            "desc": "This course summarizes our progress in conceptualizing, understanding and in solving large-scale ecological problems caused by the introduction of pollutants and exotic species to the environment. Prerequisites: SC/BIOL 2050 4.00, SC/BIOL 2060 3.00; or permission of the Instructor."
+        },
+        {
+            "dept": "biol",
+            "code": "4270",
+            "credit": 3.0,
+            "name": "Integrative Reproduction: Questions and Concepts",
+            "prereqs": "biol3130 biol2040 biol3171 biol2040 biol3070",
+            "desc": "Evolutionary, molecular, physiological, and ecological aspects of reproduction. Evolutionary advantages and disadvantages of different forms of sexual and asexual reproduction. Topics updated to represent current or relevant findings. Independent and team work on projects, paired with written and oral communication to a variety of audiences. Prerequisites: SC/BIOL 3130 3.00; OR both SC/BIOL 2040 3.00 and SC/BIOL 3171 3.00; OR both SC/BIOL 2040 3.00 and SC/BIOL 3070 4.00"
+        },
+        {
+            "dept": "biol",
+            "code": "4285",
+            "credit": 3.0,
+            "name": "Human Molecular Genetics                ",
+            "prereqs": "",
+            "desc": "Covers the application of genetic and molecular biological techniques to study human diseases and other related areas, and discusses ethical concerns that might arise from this research. Prerequisite or corequisite: SC/BIOL 3130 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4290",
+            "credit": 4.0,
+            "name": "Biotechnology",
+            "prereqs": "biol3110 bchm3110",
+            "desc": "Covers some of the methods currently in use in biotechnology research in industry and academia. Emphasis is placed on methods for transforming eukaryotes with marker genes. Advanced methods used in molecular biology are also covered. Prerequisite: SC/BIOL 3110 3.00 or SC/BCHM 3110 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4300",
+            "credit": 3.0,
+            "name": "Environmental physiology",
+            "prereqs": "biol1000",
+            "desc": "This course examines the physiological adaptations of animals to their environment. Emphasis is placed on the mechanisms by which animals (including humans) respond and adjust to a change in the environment through the coordination of various physiological systems.      \r\nPrerequisite: GL/BIOL 1000 6.00 or permission of the department.\r\nCourse credit exclusion: GL/NATS 4210 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4305",
+            "credit": 3.0,
+            "name": "Controversies in the Modern Life Sciences",
+            "prereqs": "biol2040",
+            "desc": "The study of past and contemporary controversies in genetics, evolutionary theory and ecology. The focus is on analyzing the diverse aims, concepts, theories, techniques and institutional strategies which have shaped the development of modern biology. Prerequisite: SC/BIOL 2040 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Physiology of Circadian Timing",
+            "prereqs": "biol2020 biol2020 biol2021 biol2021 biol3060",
+            "desc": "Examines the mechanism by which cells generate 24h (circadian) rhythms, how the numerous sites of these cells are coordinated by nerves and hormones and the critical roles of human circadian clocks in health and diseases. Prerequisites: SC/BIOL 2020 4.00 or SC/BIOL 2020 3.00; SC/BIOL 2021 4.00 or SC/BIOL 2021 3.00; SC/BIOL 3060 4.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Physiology of Circadian Timing",
+            "prereqs": "biol2020 biol2021 biol3060 biol2020 biol2021 kine2011 kine3012",
+            "desc": "Examines the mechanism by which cells generate 24h (circadian) rhythms, how the numerous sites of these cells are coordinated by nerves and hormones and the critical roles of human circadian clocks in health and diseases. Prerequisites:  One of the following: (1) SC/BIOL 2020 3.00  and SC/BIOL 2021 3.00 and SC/BIOL 3060 4.00 OR (2) SC/BIOL 2020 3.00 and SC/BIOL 2021 3.00, HH/KINE 2011 3.00 and HH/KINE 3012 3.00 OR (3) HH/SC NRSC 2000 3.00 and HH/SC NRSC 3000 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4320",
+            "credit": 3.0,
+            "name": "Vertebrate Endocrinology",
+            "prereqs": "biol2020 biol2021 biol2030",
+            "desc": "Vertebrate endocrine structure and function; synthesis and regulation of hormones; mechanisms of hormone actions; and hormonal integration of physiological processes. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2030 4.00. Course credit exclusion: HH/KINE 4448 3.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "4340",
+            "credit": 3.0,
+            "name": "Fish Biology",
+            "prereqs": "biol2030",
+            "desc": "A study of fish biology (ichthyology), including anatomy, systematics, physiology, behaviour and ecology of freshwater and marine fishes. Special emphasis is placed on the unique features of fishes and their functional adaptation to aquatic environments. Prerequisite: SC/BIOL 2030 4.00. Note: Completion of 60 credits required."
+        },
+        {
+            "dept": "biol",
+            "code": "4360",
+            "credit": 3.0,
+            "name": "Parasitology",
+            "prereqs": "biol2030",
+            "desc": "Biology of animal parasites; developmental, structural and functional adaptations to the parasitic environments; immune and other responses of hosts; parasitic diseases. Prerequisite: SC/BIOL 2030 4.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4370",
+            "credit": 3.0,
+            "name": "Neurobiology",
+            "prereqs": "biol2020 biol2021 biol3060",
+            "desc": "An analysis of recent advances in neurobiology, particularly information processing and storage in nervous systems and the biochemical basis of learning, memory and behaviour. The neurobiology of addiction, diseases of the nervous system and regeneration are also discussed. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 3060 4.00. PRIOR TO WINTER 2010: course credit exclusion: HH/KINE 4512 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4380",
+            "credit": 3.0,
+            "name": "Systems Neuroscience",
+            "prereqs": "biol3060",
+            "desc": "Investigates the neural basis of visual and auditory perception, echolocation, smell, short- and long-term memory, and motor control. Emphasis is on understanding how neural interactions analyze sensory information and control complex behaviour.  Prerequisite: SC/BIOL 3060 4.00 or HH/SC NRSC 2100 3.0. "
+        },
+        {
+            "dept": "biol",
+            "code": "4390",
+            "credit": 3.0,
+            "name": "Population Genetics",
+            "prereqs": "biol2040 biol2040 biol2060",
+            "desc": "The course focuses on theoretical and empirical population genetics and phenotypic evolution. Learning the underlying principles, students will generate, analyze and interpret population genetic data. Prerequisites: SC/BIOL 2040 3.00 or SC/BIOL 2040 4.00; SC/BIOL 2060 3.00 (or equivalent)."
+        },
+        {
+            "dept": "biol",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Behavioural Genetics",
+            "prereqs": "biol2040 biol2050 biol2060 biol3200",
+            "desc": "Differences in behaviour are analyzed through evolutionary and mechanistic approaches. Hypotheses, models, experimental and field data are used to address the importance of heredity and environment in the development of individual differences, social systems, communication, habitat and sexual selection. Three lecture hours. One term. Three credits. Prerequisites: SC/BIOL 2040 3.00; SC/BIOL 2050 4.00; SC/BIOL 2060 3.00; SC/BIOL 3200 3.00.\n"
+        },
+        {
+            "dept": "biol",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Advanced Drosophila Genetics",
+            "prereqs": "biol2020 biol2021 biol2040 biol2070",
+            "desc": "A study of recent advances in Drosophila genetics. The course addresses techniques such as chromosomal analysis, lethal tagging, genetic dissection, mosaic analysis, genetic screens, transposon tagging, enhancer trapping, methods for manipulating genes in transgenic flies and genetic ablation. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2040 3.00, SC/BIOL2070 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4450",
+            "credit": 4.0,
+            "name": "Animal Development",
+            "prereqs": "biol2020 biol2021 biol2030 biol2040 biol2070",
+            "desc": "Fertilization, cleavage, differentiation and development in selected animals. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2030 4.00, SC/BIOL 2040 3.00, SC/BIOL 2070 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4510",
+            "credit": 3.0,
+            "name": "Cellular and Molecular Basis of Muscle Physiology",
+            "prereqs": "kine3012 biol3060 biol3070",
+            "desc": "Topics include muscle development, muscle-specific gene expression, molecular basis of muscle contraction, biochemical plasticity of muscle, sarcolemmal and nuclear signal transduction in muscle.  \nPrerequisite(s): AS/HH/SC/KINE 3012 3.00 or SC/BIOL 3060 4.00 and SC/BIOL 3070 4.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "4601",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nStudents are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. The course evaluation will be pass/fail only. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "biol",
+            "code": "4602",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nNote: This course does not count for degree credit in any program. Students are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enroll in this course during any term, and there is no limit to the number of terms in which they are allowed to enrol. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "biol",
+            "code": "4700",
+            "credit": 3.0,
+            "name": "Current Topics in Environmental Biology",
+            "prereqs": "biol2050 biol2060",
+            "desc": "A review of recent advances in environmental biology with an emphasis on current research, experimental design and biological methods. Prerequisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00."
+        },
+        {
+            "dept": "biol",
+            "code": "4710",
+            "credit": 3.0,
+            "name": "Integrative Environmental Physiology",
+            "prereqs": "biol2030 biol2070 biol2050 biol3170",
+            "desc": "Explores the influence of the environment on the physiology of animals, from the gene level to the population level, with an emphasis on evolutionary adaptations. Experimental design and data analysis will be stressed. Prerequisites: SC/BIOL 2030 4.00; and one of SC/BIOL 2070 4.00 or SC/BIOL 2050 4.00; and one of SC/BIOL 3170 4.00 or 3110 3.00 or 3060 4.00. "
+        },
+        {
+            "dept": "biol",
+            "code": "4720",
+            "credit": 3.0,
+            "name": "Environmental Contaminants: Impacts on Organisms and Ecosystems",
+            "prereqs": "",
+            "desc": "This course provides an overview of major environmental contaminants, and their sources, as well as their impacts on the atmospheric, terrestrial\r\nand aquatic environments. The course emphasizes the mechanisms by which anthropogenic contaminants affect people, animals, and the ecosystems as a whole. Specifically, this course discusses the fundamental concepts regarding the physical and chemical changes induced in the environment by contaminants, their fate and transport in the environment, and their exposure pathways and biological effects. The impact of contaminants on environmental health and the long-term implications, the methods and recent advances in toxicological research, as well as the regulatory framework for environmental contaminants, are also discussed in this course. Suggested pre-requisites: This is a multidisciplinary course. It is expected that students should\r\nhave basic knowledge in ecology and animal biology. SC/BIOL 2030 4.0, SC/BIOL 2050 4.0, and SC/BIOL 3070 4.0"
+        },
+        {
+            "dept": "biol",
+            "code": "5027",
+            "credit": 1.5,
+            "name": "Topics in Molecular Biology I: Gene Expressions",
+            "prereqs": "",
+            "desc": "This course covers the area of gene expression, including topics in chromatin remodelling, mechanisms of transcriptional activation/repression and activation of transcription factors by extracellular signals.\r Prerequisites: undergraduate courses in biochemistry and molecular biology.\r Students may not also receive credit for GS/BIOL 5027 3.00.\n"
+        },
+        {
+            "dept": "biol",
+            "code": "5028",
+            "credit": 1.5,
+            "name": "Topics in Molecular Biology II: Proteins",
+            "prereqs": "",
+            "desc": "This  course covers the area of molecular biology called proteins, including topics in protein synthesis, folding, transport, regulation and degradation.  Topics on proteins will include recent advances in the mechanisms and control of protein synthesis, folding, transport, regulation (allostery) and degradation.  "
+        },
+        {
+            "dept": "biol",
+            "code": "5038",
+            "credit": 1.5,
+            "name": "Current Topics in Molecular and Cellular Biology",
+            "prereqs": "",
+            "desc": "This course is designed for graduate students to introduce them to the process of scientific inquiry and hypothesis-based research.  Students will be taught different formats of scientific writing and oral presentation."
+        },
+        {
+            "dept": "biol",
+            "code": "5081",
+            "credit": 3.0,
+            "name": "Intro. To Biostatistics                ",
+            "prereqs": "",
+            "desc": "This course examines common statistical methods used in biology. Data science and statistical workflows are developed. Descriptive statistics, generalized linear models, regression, nonparametric tests, bootstrapping, randomization tests, multivariate statistics, and bioinformatic analyses may be considered. The R programming language will be used.\n"
+        },
+        {
+            "dept": "biol",
+            "code": "5086",
+            "credit": 1.5,
+            "name": "Critical Skills in Ecology and Evolution",
+            "prereqs": "",
+            "desc": "This course reviews expectations and responsibilities of graduate research in ecology and evolution.  It trains students in communicating research in oral and written forms, and in the importance of understanding the deep history of ideas in their research field.  \r\n"
+        },
+        {
+            "dept": "biol",
+            "code": "5088",
+            "credit": 1.5,
+            "name": "Advanced Topics in Ecology and Evolution",
+            "prereqs": "",
+            "desc": "This  course introduces graduate students to classical and recent literature in Ecology and Evolution, outline the current state of the field, and explain the contribution of novel experimental and empirical approaches to solving evolutionary and ecological questions.  Students are also exposed to the latest methodological innovations in the field."
+        },
+        {
+            "dept": "biol",
+            "code": "5098",
+            "credit": 1.5,
+            "name": "Conservation Biology ",
+            "prereqs": "",
+            "desc": "Examines current topics in conservation biology including causes and consequences of biodiversity loss, conservation genetics, and contemporary evolution in response to human impacts and multiple environmental stressors."
+        },
+        {
+            "dept": "biol",
+            "code": "5100",
+            "credit": 1.5,
+            "name": "Critical Skills in Animal Physiology",
+            "prereqs": "",
+            "desc": "This course reviews expectations and responsibilities of graduate research in Animal Physiology. It trains students in communicating research in oral and written forms, and in the importance of understanding the deep history of ideas in their research field.\r\n\r\nThis course is required for all new MSc students in the Animal Physiology stream.\r\n"
+        },
+        {
+            "dept": "biol",
+            "code": "5128",
+            "credit": 1.5,
+            "name": "Current Topics in Comparative and Intergrative Animal Pysiology",
+            "prereqs": "",
+            "desc": "This  course covers advanced topics in comparative animal physiology with an emphasis on regulatory mechanisms and homeostasis. Topics include endocrinology, neurobiology, metabolism, osmotic and ionic regulation, reproduction and hi-light modern integrative physiology techniques. Examples are drawn from both vertebrate and  invertebrate animals."
+        },
+        {
+            "dept": "biol",
+            "code": "5144",
+            "credit": 3.0,
+            "name": "Computer Programming for Experimental Psychology",
+            "prereqs": "",
+            "desc": "This graduate course covers computer programming methods that are useful for running experiments and analyzing data in experimental psychology.  Students will learn a general-purpose programming language such as MATLAB or Python.  Topics include basic programming methods and data structures, data files, curve fitting, device calibration, data visualization, statistical tests, model simulations, and interfacing to external devices."
+        },
+        {
+            "dept": "biol",
+            "code": "5146",
+            "credit": 3.0,
+            "name": "Fundamentals of Neuroscience I: Structures, Neurons and Synapses",
+            "prereqs": "",
+            "desc": "This course will focus on molecular and cellular mechanisms underlying the structure and function of the nervous system, functional neuroanatomy, and the neurophysiology of movement. Prerequisites: undergraduate course in neuroscience or equivalent or by permission of Instructor"
+        },
+        {
+            "dept": "biol",
+            "code": "5147",
+            "credit": 3.0,
+            "name": "Fundamentals of Neuroscience II: Circuits, Systems and Behaviour",
+            "prereqs": "",
+            "desc": "This course focuses on a systems approach to specialized circuits within the central nervous system that determine sensory, motor and cognitive systems. Permission of the Instructors is required to enrol in the course."
+        },
+        {
+            "dept": "biol",
+            "code": "5151",
+            "credit": 1.5,
+            "name": "Current Topics in Endocrinology",
+            "prereqs": "",
+            "desc": "In-depth studies of current topics in Endocrinology; including regulation of functions of hormones and molecular mechanisms of hormone actions; cutting edge research technologies; and emerging concepts."
+        },
+        {
+            "dept": "biol",
+            "code": "6021",
+            "credit": 3.0,
+            "name": "M.Sc. Research Evaluation              ",
+            "prereqs": "",
+            "desc": "Progress in research is assessed annually as described in M.Sc. Course Requirements."
+        },
+        {
+            "dept": "biol",
+            "code": "6022",
+            "credit": 3.0,
+            "name": "M.Sc. Research Evaluation              ",
+            "prereqs": "",
+            "desc": "Progress in research is assessed annually as described in M.Sc. Course Requirements.\n"
+        },
+        {
+            "dept": "biol",
+            "code": "7021",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation              ",
+            "prereqs": "",
+            "desc": "Progress in research is assessed annually as described in Ph.D. Course Requirements\n"
+        },
+        {
+            "dept": "biol",
+            "code": "7022",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation              ",
+            "prereqs": "",
+            "desc": "Progress in research is assessed annually as described in Ph.D. Course Requirements\n."
+        },
+        {
+            "dept": "biol",
+            "code": "7023",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation              ",
+            "prereqs": "",
+            "desc": "Progress in research is assessed annually as described in Ph.D. Course Requirements\n"
+        },
+        {
+            "dept": "biol",
+            "code": "7024",
+            "credit": 3.0,
+            "name": "Ph.D. Research Evaluation              ",
+            "prereqs": "",
+            "desc": "Progress in research is assessed annually as described in Ph.D. Course Requirements\n"
+        }
+    ]
+}

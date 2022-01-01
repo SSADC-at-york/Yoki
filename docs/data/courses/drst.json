@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "dept": "drst",
+            "code": "1200",
+            "credit": 6.0,
+            "name": "Smoke and Mirrors: An Introduction to Technical Theatre",
+            "prereqs": "",
+            "desc": "This course aims to give students an introduction to the technical processes of theatrical production, including scenery, lighting, sound, multimedia, properties, and stage management. Students will apply their \nnew skills to support at least one Glendon theatre production.\nCourse credit exclusion: GL/DRST 2200 6.00."
+        },
+        {
+            "dept": "drst",
+            "code": "1210",
+            "credit": 3.0,
+            "name": "Performance I",
+            "prereqs": "",
+            "desc": "This course acquaints students with key elements of performance through the study of written texts and practical exercises. After introducing major concepts central to all the performing arts, it focuses on fundamentals specific to text-based performance. Course credit exclusion: GL/DRST 2210 3.00."
+        },
+        {
+            "dept": "drst",
+            "code": "1215",
+            "credit": 3.0,
+            "name": "Performance II/Arts de la sc\u00e8ne II",
+            "prereqs": "",
+            "desc": "This course pursues at a more advanced level the study of major concepts central to the performing arts, and the practice of performance exercises. It prepares the students to deal with text and acquaints them \nwith various performance styles./ Ce cours poursuit \u00e0 un niveau plus avanc\u00e9 l'\u00e9tude des concepts fondamentaux des arts de la sc\u00e8ne et la pratique d'exercices. Il initie les \u00e9tudiants au travail sur le texte et \u00e0 diff\u00e9rents styles de jeu th\u00e9\u00e2tral.\nPRIOR TO FALL 2014: course credit exclusion: GL/DRST 2215 3.00."
+        },
+        {
+            "dept": "drst",
+            "code": "2632",
+            "credit": 6.0,
+            "name": "Western Drama: Ancient to Modern",
+            "prereqs": "",
+            "desc": "This course provides a text-based study of major theatrical achievements from early Greece to the late nineteenth century. This study situates the plays within cultural and historical contexts while focusing on practices of theatrical staging. PRIOR TO FALL 2010: course credit exclusions: GL/EN 2610 3.00, GL/EN 2612 3.00."
+        },
+        {
+            "dept": "drst",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Individual Studies",
+            "prereqs": "",
+            "desc": "Students do independent reading and research together with written assignments under the guidance of a member of the college. All individual studies in drama studies at Glendon are subject to specific regulations which the program will supply on request. (Since there is no assurance that a proposed project will be accepted, students are encouraged to enrol in another course until a decision is made concerning the proposal.)"
+        },
+        {
+            "dept": "drst",
+            "code": "3100",
+            "credit": 6.0,
+            "name": "Individual Studies",
+            "prereqs": "",
+            "desc": "Students do independent reading and research together with written assignments under the guidance of a member of the college. All individual studies in drama studies at Glendon are subject to specific regulations which the program will supply on request. (Since there is no assurance that a proposed project will be accepted, students are encouraged to enrol in another course until a decision is made concerning the proposal.)"
+        },
+        {
+            "dept": "drst",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "La dramaturgie du XVIIe si\u00e8cle",
+            "prereqs": "",
+            "desc": "Ce cours porte sur le th\u00e9\u00e2tre du \u00ab Grand Si\u00e8cle \u00bb. Seront \u00e9tudi\u00e9es certaines oeuvres de Corneille, Moli\u00e8re et Racine aussi bien que quelques pi\u00e8ces baroques et les th\u00e9ories de Boileau sur le th\u00e9\u00e2tre. Condition pr\u00e9alable : GL/FRAN 2870 3.00 ou GL/FRLS 2700 3.00 ou permission du d\u00e9partement d'\u00e9tudes fran\u00e7aises.\nCours incompatible: GL/FRAN 3250 3.00."
+        },
+        {
+            "dept": "drst",
+            "code": "3620",
+            "credit": 6.0,
+            "name": "Reading Shakespeare",
+            "prereqs": "",
+            "desc": "A study of a representative selection of Shakespeare's playtexts, with particular attention to how we produce their meanings.\nCourse credit exclusions: AP/EN 3535 6.00."
+        },
+        {
+            "dept": "drst",
+            "code": "3622",
+            "credit": 6.0,
+            "name": "Postcolonial Drama in English",
+            "prereqs": "",
+            "desc": "This course examines contemporary English-speaking postcolonial drama issuing from one or a combination of the following regions: South and West Africa, Southeast Asia, India, Australia, New Zealand, the Caribbean and Canada."
+        },
+        {
+            "dept": "drst",
+            "code": "3625",
+            "credit": 3.0,
+            "name": "Medieval English Drama",
+            "prereqs": "",
+            "desc": "This course studies the early development of English drama from the Biblical cycles of the medieval carft guilds, and the moralities and interludes, through to the humanist drama of the first half of the 16th century."
+        },
+        {
+            "dept": "drst",
+            "code": "3633",
+            "credit": 3.0,
+            "name": "Indigenous Drama and Theatre",
+            "prereqs": "",
+            "desc": "A study of the development of Indigenous drama and theatre in Canada, this course examines key performances and dramatic texts, and situates them within their theoretical, historical, and theatrical contexts. It also considers the practical aspects of staging and performance."
+        },
+        {
+            "dept": "drst",
+            "code": "3865",
+            "credit": 3.0,
+            "name": "Le fran\u00e7ais des stars",
+            "prereqs": "",
+            "desc": "Ce cours a pour objectif de travailler prononciation et \u00e9locution par le biais du fran\u00e7ais oral des milieux litt\u00e9raire, th\u00e9\u00e2tral/cin\u00e9matographique et m\u00e9diatique. Il pr\u00e9sente l'\u00e9volution de la prononciation et de l'\u00e9locution fran\u00e7aises et invite les \u00e9tudiants \u00e0 r\u00e9citer des po\u00e8mes, d\u00e9clamer des tirades et pr\u00e9senter l'actualit\u00e9. \r\nCondition pr\u00e9alable : GL/FRAN 2870 3.00 avec un minimum de C ou permission du D\u00e9partement d'\u00e9tudes fran\u00e7aises. Remarque : ce cours n'est pas ouvert aux francophones.\r\nCours incompatible : GL/FRLS 3925 3.00."
+        },
+        {
+            "dept": "drst",
+            "code": "3955",
+            "credit": 6.0,
+            "name": "Approaches to Theatre",
+            "prereqs": "",
+            "desc": "This course will introduce students to theatre by the study of theoretical and practical approaches to production. First-term classes and workshops will culminate in a second-term production."
+        },
+        {
+            "dept": "drst",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "The Stage Director's Process/Le processus du metteur en sc\u00e8ne",
+            "prereqs": "drst1200 drst1210 drst1215 drst2517 drst2615",
+            "desc": "This course introduces approaches towards directing, with an eye towards the relationship between director and actor. Students acquire skills through hands-on directorial experiences./Ce cours pr\u00e9sente diverses approches de la mise en sc\u00e8ne et, se concentre sur la relation entre le metteur en sc\u00e8ne et l'acteur. L'apprentissage inclut des exp\u00e9riences pratiques.\nPrerequisites: At least two of the following: GL/DRCA/DRST 1200 6.00, GL/DRCA/DRST 1210 3.00, GL/DRCA/DRST 1215 3.00, GL/DRCA/DRST 2517 6.00, GL/DRCA/DRST 2615 6.00 or permission of the Department. "
+        },
+        {
+            "dept": "drst",
+            "code": "4621",
+            "credit": 6.0,
+            "name": "Current Intercultural Performance Practices",
+            "prereqs": "",
+            "desc": "This course offers historical, theoretical and experiential approaches to intercultural, multicultural, Indigenous, and diasporic performance, with an emphasis on contemporary practices. It provides a framework for understanding theatre and performance in relation to cultural specificity, both internationally and in Canada."
+        }
+    ]
+}

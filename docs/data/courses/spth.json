@@ -1,0 +1,212 @@
+{
+    "courses": [
+        {
+            "dept": "spth",
+            "code": "6001B",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "spth",
+            "code": "6001",
+            "credit": 3.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "spth",
+            "code": "6001",
+            "credit": 6.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "spth",
+            "code": "6033",
+            "credit": 3.0,
+            "name": "The Politics of PostIdentity",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "spth",
+            "code": "6039",
+            "credit": 3.0,
+            "name": "Gramsci and Contemporary Political Theory: The Challenge of Post-Modernism",
+            "prereqs": "",
+            "desc": "Explores the influence of Antonio Gramsci on current political thought. It begins with a careful examination of some of Gramsci's main ideas. Among them, the concepts of hegemony and ethico-political life, his views on the state, and the general theoretical assumptions of this brand of historicism will be given particular attention. In the second half, current debates on the same issues will be explored with the aim of both seeing the limitations of Gramsci and postmodernism, and critically assessing the historical and theoretical assumptions of some current social and political theory."
+        },
+        {
+            "dept": "spth",
+            "code": "6043",
+            "credit": 3.0,
+            "name": "Contemporary Topics in Social Theory",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "spth",
+            "code": "6070",
+            "credit": 3.0,
+            "name": "The Critical Theory of the Frankfurt School - Adorno, Marcuse, Horkheimer",
+            "prereqs": "",
+            "desc": "Covers the themes of critique, 'negative' thought and utopian possibility in the works of Frankfurt School Critical Theorists Adorno, Herbert Marcuse and Max Horkheimer. We will explore their critiques of western philosophy, Reason, consciousness, ideology, capitalism, mass consumer/popular culture, aesthetics, mass psychology and authoritarianism, as well as their philosophical, historical, social, cultural and political contexts and the implications of their distinctive analysis. Course credit exclusion: GS/SPTH 6600 6.00, GS/POLS 6070 6.00."
+        },
+        {
+            "dept": "spth",
+            "code": "6100A",
+            "credit": 6.0,
+            "name": "Contexts Of Victorian Science      ",
+            "prereqs": "",
+            "desc": "Contexts of Victorian Science. This course focuses on nineteenth century\nBritish and European science and its social, political, cultural, and intellectual contexts. Adopting the contextualist approach to the history of science allows us to raise a series of provocative questions: in what way did all of these different contexts shape the nature of nineteenth century\nscientific thought? How were scientific facts socially constructed? What was it about the nineteenth century context that led many intellectuals to reject Christianity and embrace science as providing a new, privileged form of knowledge? Included among the topics to be covered are the discourse of natural theology, the politics of geological controversy, Scottish philosophy and phrenology, radical working class Lamarckianism in England during the 1830s, the plurality of worlds debate, science and gender, the professionalization of science, English scientific naturalism and German scientific materialism, the literary structure of Darwin's Origin of Species, Darwinian theory and its ideological uses, and late nineteenth century physics and psychics. This course will be of interest to students of British, European, social, and intellectual history.\n"
+        },
+        {
+            "dept": "spth",
+            "code": "6104",
+            "credit": 6.0,
+            "name": "Social and Political Thought:  Theories, Approaches, and Methods",
+            "prereqs": "",
+            "desc": "This full-year course is mandatory for all first-year PhD students in Social &amp; Political Thought.  Normally the course is facilitated by the gradate program director of Social &amp; Political Thought and reviews a diverse variety of ideas, theories, methods and research approaches."
+        },
+        {
+            "dept": "spth",
+            "code": "6105",
+            "credit": 3.0,
+            "name": "Master's Practicum: Major Research Paper Development",
+            "prereqs": "",
+            "desc": "The course provides students with an opportunity to draft their proposal and their Major Research Paper (MRP) in a collective environment.  It also provides them a chance to work closely with their instructor in developing the design, methodology and theoretical approach of the MRP.  Third, it gives students a chance for reflexive and dialogical space for students to interact and provide feedback on each other's projects. \r\n\r\n"
+        },
+        {
+            "dept": "spth",
+            "code": "6122",
+            "credit": 6.0,
+            "name": "Modern Cultural History",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "spth",
+            "code": "6135",
+            "credit": 3.0,
+            "name": "Black Radical Thought",
+            "prereqs": "",
+            "desc": "The aim of this seminar is to introduce students to 20th century revolutionary thought that was produced through black struggle against legacies of slavery, colonialism, and imperialism. It engages specifically with the ideas of C.L.R. James, Frantz Fanon, Claudia Jones, and Walter Rodney, all of Caribbean descent, whose intellectual and political work has had international impact."
+        },
+        {
+            "dept": "spth",
+            "code": "6193",
+            "credit": 3.0,
+            "name": "Ethics and Alterity: Connecting Disparate Discourses in European Thought",
+            "prereqs": "",
+            "desc": "This course explores major texts in modern European religious thought, philosophy, and literature in order to pose the question of whether an ethics of alterity is presupposed by, and allows readers to establish the interconnections among, thinkers whose texts are often viewed as involving disparate, even opposed, discourses."
+        },
+        {
+            "dept": "spth",
+            "code": "6220",
+            "credit": 3.0,
+            "name": "Global Capital",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "spth",
+            "code": "6230",
+            "credit": 3.0,
+            "name": "Contemporary Cinema and Media Theory",
+            "prereqs": "",
+            "desc": "This course is intended as an in depth study of major theoretical schools and debates within contemporary film theory.  The course is divided into three key units, each of which will focus on the historical development, methodological principles and philosophic underpinning of a specific school.   This is a required course for all Critical and Historical Studies students. "
+        },
+        {
+            "dept": "spth",
+            "code": "6271",
+            "credit": 3.0,
+            "name": "Political Economy:  Major Texts",
+            "prereqs": "",
+            "desc": "An in-depth introduction to major texts in the history of political economy, in this course we shall analyze texts by such thinkers as Adam Smith, Karl Marx, and J.M. Keynes with particular attention to issues having to do with methodology, the nature of the economic, and the relation of the economic to other areas of social life.\r\nSame as Social and Political Thought 6271 3.0\r\n\r\n"
+        },
+        {
+            "dept": "spth",
+            "code": "6291",
+            "credit": 3.0,
+            "name": "The Politics of Intellectual Property",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "spth",
+            "code": "6305",
+            "credit": 3.0,
+            "name": "Advanced Topics in Latin American and Caribbean Politics",
+            "prereqs": "",
+            "desc": "Examines the impact of international economic integration on Latin America and the Caribbean. It focuses on the social impact of \rglobalization and the responses that these changes call forth: state\rpolicies, the rise of new political parties, unions and grassroots\rorganizations and, in particular, international migration a transnationalism."
+        },
+        {
+            "dept": "spth",
+            "code": "6319",
+            "credit": 3.0,
+            "name": "Cinema and Media Studies:  Key Concepts",
+            "prereqs": "",
+            "desc": "Explores key concepts, texts and debates in the field of contemporary cinema and media studies. While maintaining a focus on the intellectual and material histories of cinema studies and media studies as disciplines (and their recent convergence), including epistemological and ontological frameworks, methodological approaches, and institutional and technological supports, the course will emphasize recent developments in cinema and media studies. Three broad areas of study will structure the course: cinema and cultural theory; national and transnational cinema; cinema and technologies of the image."
+        },
+        {
+            "dept": "spth",
+            "code": "6411",
+            "credit": 3.0,
+            "name": "Black Studies: Concepts and Contexts",
+            "prereqs": "",
+            "desc": "The course is an overview of the field &quot;Black Studies.&quot; The focus of the course is, as much as possible, to provide both an international and historical view of these fields.  "
+        },
+        {
+            "dept": "spth",
+            "code": "6412",
+            "credit": 3.0,
+            "name": "Imagining Slavery and Freedom",
+            "prereqs": "",
+            "desc": "This course engages a critical examination of Transatlantic slavery and its afterlife, and the ways in which the imagination functions in the articulation of a desired, but always elusive, Black freedom."
+        },
+        {
+            "dept": "spth",
+            "code": "6632",
+            "credit": 3.0,
+            "name": "Thinking Power and Violence:  from Nietzsche to Agamben",
+            "prereqs": "",
+            "desc": "About the meaning of power and violence as fundamental categories of human existence. The course is concerned with violence in many forms and manifestations: violence at the foundation of human community, conservative violence, \u0091divine violence,\u0092 redemptive violence, self as violence against self and other, exclusionary violence, the violence of liberal freedom and the commodity, counter-hegemonic violence, the violence of the spectacle, the violence of outsiders and gender violence. Course credit exclusion: GS/SPTH 6632 3.00."
+        },
+        {
+            "dept": "spth",
+            "code": "6665",
+            "credit": 3.0,
+            "name": "Theorizing Modernity and Problems of Postcolonial Theorizations",
+            "prereqs": "",
+            "desc": "The course focuses on exploring different ways in which the concept of modernity has been understood and how various approaches to postcoloniality relates to them. Notions of 'modernity' and postcolonialism are explored in historical, sociological and cultural terms in their diversity of formulation and application.\t Issues of epistemology and the notion of 'theorizing' are subjected to a historical materialist critique involving a critique of ideology. "
+        },
+        {
+            "dept": "spth",
+            "code": "6674",
+            "credit": 3.0,
+            "name": "Diasporas:  Transnational Communities and Limits of Citizenship",
+            "prereqs": "",
+            "desc": "Provides a comparative inquiry about the nature of transnational communal, religious, and political identities at the age of late capitalism. It puts emphasis on critical approaches to diasporas, their variant constructions of homeland and home, and their marked effects on the politics of the post-Westphalian state and international relations. "
+        },
+        {
+            "dept": "spth",
+            "code": "6683",
+            "credit": 3.0,
+            "name": "Topics in Biopolitics",
+            "prereqs": "",
+            "desc": "This course investigates biopolitics: the varying relations between politics and life that date to  Ancient Greece.  Since the eighteenth century biopolitics has been a domain of rationalized practices pertaining to the vital events of human and non-human species. "
+        },
+        {
+            "dept": "spth",
+            "code": "6695",
+            "credit": 3.0,
+            "name": "Settler Colonialism and Settler Subjects",
+            "prereqs": "",
+            "desc": "The course critically examines settler colonialism and settler subject formations. Constitutive processes of settler subject formation, including racialization and gender will be analysed. While examples from different settler societies are examined, Canadian settler society and subject formations are the central focus of the course. "
+        }
+    ]
+}

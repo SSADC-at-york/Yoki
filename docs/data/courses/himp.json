@@ -1,0 +1,52 @@
+{
+    "courses": [
+        {
+            "dept": "himp",
+            "code": "6110",
+            "credit": 3.0,
+            "name": "The Business of Healthcare",
+            "prereqs": "",
+            "desc": "This course examines the role of the private sector within the multi-faceted publiclyfunded healthcare program, including major industry segments such as pharmaceuticals, medical devices, consulting, the role of IT and public-private partnerships. All industry participants need to be aware of the roles played by other sub-industries.\r\nAll 5100-series Required Foundations of Management Core Courses or permission of instructor."
+        },
+        {
+            "dept": "himp",
+            "code": "6130",
+            "credit": 3.0,
+            "name": "Strategy in Healthcare",
+            "prereqs": "",
+            "desc": "This course examines the roles played by hospitals, governments, regional authorities, as well as their decisionmaking and accountability structures. The course also examines costs and financing; stakeholders; consolidation and clinical integration; challenges and threats. The course illustrates strategic management concepts in various management and multi-disciplinary settings, changing technologies and methods of health delivery.\r\nPre-requisites: All 5100-series Required Foundations of Management Core Courses or permission of instructor.\r\nCo-requisite: SB/SGMT 6000.030"
+        },
+        {
+            "dept": "himp",
+            "code": "6150",
+            "credit": 3.0,
+            "name": "Economics of Healthcare",
+            "prereqs": "",
+            "desc": "This course examines the demand and utilization of health services; drivers of healthcare costs; measuring output in healthcare; tradeoffs between efficiency, operational effectiveness and equity; realignment of capacity; how healthcare reforms affects demand; utilization and the mix of providers in the healthcare industry.\r\nPrerequisites: All 5100-series Required Foundations of Management Core Courses or permission of instructor."
+        },
+        {
+            "dept": "himp",
+            "code": "6180",
+            "credit": 3.0,
+            "name": "Entrepreneurship &amp; Innovation in Healthcare",
+            "prereqs": "",
+            "desc": "This course examines the entrepreneurial landscape in healthcare (e.g., long-term care and nursing homes), the role of disruptive technologies, innovation, new business models, leveraging public-private partnerships, understanding complex regulatory requirements, and the need for human capital. This course explores value creation through the art and science of business planning to drive investment, innovation and transformation in healthcare.\r\nPre-requisites: All 5100-series Required Foundations of Management Core Courses or permission of instructor."
+        },
+        {
+            "dept": "himp",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study - Health Industry Management Program",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "himp",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study - Health Industry Management Program ",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

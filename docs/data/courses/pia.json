@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "dept": "pia",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "Public Management ",
+            "prereqs": "",
+            "desc": "Examines the principles and processes of public management. It covers specific topics such as financial management, budget process, personnel management, political and administrative control. Analysis of proposals for public sector reform. Canadian and comparative experiences are studied."
+        },
+        {
+            "dept": "pia",
+            "code": "6001",
+            "credit": 3.0,
+            "name": "Le processus d \u00e9laboration des politiques ",
+            "prereqs": "",
+            "desc": "Examen des diverses \u00e9tapes de l\u0092analyse des politiques : d\u00e9finition, conception, mise en oeuvre et \u00e9valuation. Exploration de la gamme des th\u00e9ories et mod\u00e8les de processus d\u0092\u00e9laboration des politiques. Les exp\u00e9riences faites au Canada et dans d\u0092autres r\u00e9gimes comparables sont au programme. "
+        },
+        {
+            "dept": "pia",
+            "code": "6002",
+            "credit": 3.0,
+            "name": "Economics and Public Policy ",
+            "prereqs": "",
+            "desc": "Application of fundamental economic principles to the design and analysis of government programs and policies. The dilemma between equity/efficiency faced by governments in their interventions is addressed, as well as how economics devises optimal practical solutions to this problem. "
+        },
+        {
+            "dept": "pia",
+            "code": "6003",
+            "credit": 3.0,
+            "name": "M\u00e9thodes de recherche",
+            "prereqs": "",
+            "desc": "Ce cours examine un vaste \u00e9ventail de m\u00e9thodes qualitatives et quantitatives afin d\u0092habiliter les \u00e9tudiants \u00e0 utiliser, interpr\u00e9ter et analyser les donn\u00e9es qualitatives et quantitatives ainsi qu\u0092\u00e0 \u00e9valuer les analyses r\u00e9alis\u00e9es par d\u0092autres. "
+        },
+        {
+            "dept": "pia",
+            "code": "6005",
+            "credit": 3.0,
+            "name": "Le contexte international d \u00e9laboration des politiques ",
+            "prereqs": "",
+            "desc": "Le cours explore les tentatives des d\u00e9cideurs en vue d\u0092am\u00e9liorer les politiques nationales au moyen de comparaisons syst\u00e9matiques entre les performances des pays. Bien qu\u0092il ne soit pas nouveau, cet \u00ab exercice d\u0092analyse comparative \u00bb est de plus en plus r\u00e9alis\u00e9 en collaboration avec des organisations internationales. "
+        },
+        {
+            "dept": "pia",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Capstone Seminar ",
+            "prereqs": "",
+            "desc": "Students pursue individual projects, starting with policy briefs and culminating in major research papers or a policy analysis exercise.  A major research paper is an independent examination of an issue in public affairs. A policy analysis exercise is developed in collaboration with a public sector organization, or client, exploring issues that confront the client and proposing recommendations. Drafts of texts are presented in the weekly seminars and the completed papers are presented in a year-end colloquium, attended by the full student body.   "
+        },
+        {
+            "dept": "pia",
+            "code": "6200",
+            "credit": 1.5,
+            "name": "Colloquium:  Canada and its Place in the World ",
+            "prereqs": "",
+            "desc": "Critical reflection on challenges facing Canada and the Canadian state, from both domestic and international perspectives. Sessions involve faculty members, visiting faculty, practitioners, members of School advisory committee, etc.\r\n"
+        },
+        {
+            "dept": "pia",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "State and Society",
+            "prereqs": "",
+            "desc": "This course opens up the &quot;black box&quot; of the state, exploring key theoretical approaches to state power and examining differing modes of statecraft in historical and contemporary perspective.  Themes include: state/civil society relations and boundaries; the mechanisms of state power, from the symbolic to the carceral; the colonial underpinnings of Canadian statecraft; neo-liberal governance structures; and the populist state. "
+        },
+        {
+            "dept": "pia",
+            "code": "6303",
+            "credit": 3.0,
+            "name": "Migration mondiale et les lois et politiques du Canada. ",
+            "prereqs": "",
+            "desc": "Aper\u00e7u des lois et politiques canadiennes li\u00e9es \u00e0 la migration et exploration des d\u00e9fis que rencontrent les d\u00e9cideurs. Examen du d\u00e9bat qui a cours sur les mouvements migratoires internationaux, des questions connexes li\u00e9es \u00e0 la souverainet\u00e9 des \u00c9tats, des tendances d\u00e9mographiques, du contr\u00f4le des migrations et du respect des obligations en mati\u00e8re de droits de la personne"
+        },
+        {
+            "dept": "pia",
+            "code": "6308",
+            "credit": 3.0,
+            "name": "International Law and International Organizations",
+            "prereqs": "",
+            "desc": "This course deals with public international law and the law of international organizations. It explores principles and processes of the international legal order so that students will understand how international law affects public affairs and the work of international organizations. \r\n\r\n"
+        },
+        {
+            "dept": "pia",
+            "code": "6310",
+            "credit": 3.0,
+            "name": "Politique de la sant\u00e9 dans un contexte international",
+            "prereqs": "",
+            "desc": "Grand d\u00e9fi auquel les soci\u00e9t\u00e9s sont confront\u00e9es, la sant\u00e9 est au centre des pr\u00e9occupations des gouvernements et organisations internationales. Il existe une diversit\u00e9 de syst\u00e8mes de sant\u00e9 (int\u00e9grant, chacun \u00e0 leur facon, les fonctions curative, pr\u00e9ventive, palliative et reg\u00e9n\u00e9ratrice) qui se d\u00e9cline en une vari\u00e9t\u00e9 de politiques de sant\u00e9. Le cours emprunte une perspective internationale et comparative dans un contexte de d\u00e9veloppement durable."
+        },
+        {
+            "dept": "pia",
+            "code": "6314",
+            "credit": 3.0,
+            "name": "The Environmental Crisis: International and Public Policy Implications",
+            "prereqs": "",
+            "desc": "The environmental crisis is a multi-dimensional phenomenon in which climate change, pollution, resource depletion, food, energy, consumption, culture, social justice and demography interact. This course examines the ramifications of these interactions for international and national public policy questions."
+        },
+        {
+            "dept": "pia",
+            "code": "6339",
+            "credit": 3.0,
+            "name": "The Dynamics of International Development",
+            "prereqs": "",
+            "desc": "This course endeavours to understand international development through a social scientific lens. It explores the various conceptions of \u0093development\u0094 and considers both internal and external determinants of development, specifically examining current debates in the field surrounding the roles of foreign aid, states and colonial legacies in shaping modern development."
+        },
+        {
+            "dept": "pia",
+            "code": "6345",
+            "credit": 3.0,
+            "name": "Politics and Public Policy in Europe / La politique et les politiques publiques dans l'Union europ\u00e9enne",
+            "prereqs": "",
+            "desc": "Public policy traditionally focuses on domestic politics, but decades of integration have significantly altered the conduct of government and governance in Europe. This course analyses European politics and public policy in areas such as migration, citizenship, borders, economics, and law. The course can be offered in either French or English. This course is integrated with Glendon Political Science 4810."
+        },
+        {
+            "dept": "pia",
+            "code": "6400",
+            "credit": 6.0,
+            "name": "Internship ",
+            "prereqs": "",
+            "desc": "Provides an internship consisting of work in a public or para-public institution related to public and international affairs, supervised by a professor responsible for the academic evaluation. Students will provide written reports reflecting on their work experience.\r\n"
+        }
+    ]
+}

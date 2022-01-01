@@ -1,0 +1,404 @@
+{
+    "courses": [
+        {
+            "dept": "visa",
+            "code": "1006",
+            "credit": 3.0,
+            "name": "The Photographic Experience",
+            "prereqs": "",
+            "desc": "An introduction to photography practices for non-majors. Basic skills are developed through online classes comprised of lectures, technical training and demonstrations, project based assignments and group tutorials. Photography skills, creative methods, concepts and history are explored. Camera or mobile device required. Course credit exclusions: FA/VISA 1006 6.00; VISA 2061 3:00. Open to non-majors only. This course has compulsory supplementary fees."
+        },
+        {
+            "dept": "visa",
+            "code": "1010",
+            "credit": 6.0,
+            "name": "Art Fundamentals: Concept, Creativity and Production",
+            "prereqs": "",
+            "desc": "Introduces students to the visual arts studios, faculty and a spectrum of production methods addressing two dimensional, three dimensional and the element of time in art making.  An established theme provides students with a starting point for research, conceptualization and the exploration of fundamental processes as a means of visualizing their creative ideas. Course work is presented at an end of term exhibition."
+        },
+        {
+            "dept": "visa",
+            "code": "2024",
+            "credit": 3.0,
+            "name": "Painting: Composition and Colour",
+            "prereqs": "",
+            "desc": "Introduces composition and colour through a number of assigned painting projects on how to structure a painting. Emphasis is on formal elements, particularly colour, and combining them through a diversity of compositional means that cover a range of painting genres. \r\nCourse credit exclusion: FA/VISA 2022 3.00."
+        },
+        {
+            "dept": "visa",
+            "code": "2025",
+            "credit": 3.0,
+            "name": "Painting: Approaches to Techniques and Materials",
+            "prereqs": "",
+            "desc": "Explores a range of approaches to painting through a study of both traditional and contemporary techniques and materials. Students develop the technical and conceptual competency required for further exploration in painting, and discuss contemporary issues relating to the practice. "
+        },
+        {
+            "dept": "visa",
+            "code": "2032",
+            "credit": 3.0,
+            "name": "Sculpture Explorations",
+            "prereqs": "",
+            "desc": "Students will explore their urban environments as site and source, to play, research and develop sculptural works, which investigate space, found subjects and materials, the ephemeral, poetics and abstraction. Projects will take many forms from field trips, drawing and recording, videos, working in the environment, events, group work, and studio projects. This course builds upon the intensive experience of the Fundamentals course and offers further insight into the potential of an expanded materials and research practice."
+        },
+        {
+            "dept": "visa",
+            "code": "2037",
+            "credit": 3.0,
+            "name": "Introduction to Ceramic Sculpture ",
+            "prereqs": "",
+            "desc": "Designed to expose students to various processes used to develop sculpture in clay. Projects will focus on themes relevant to understanding object materiality, and offers a solid framework of clay and ceramic sculpture techniques, concept development, evaluation skills, and is the foundation for continuing on into Advanced Ceramic Sculpture."
+        },
+        {
+            "dept": "visa",
+            "code": "2053",
+            "credit": 3.0,
+            "name": "Time-Based Art: Crossing Boundaries",
+            "prereqs": "",
+            "desc": "Introduces students to interdisciplinary studio practice, emphasizing critical thinking and creative exploration of time and process. Sound, video and performance are investigated. Technical workshops include introductions to sound and video editing, audio recorder and microphone use. Compulsory supplementary fees. Open to FES students formally registered in CAP."
+        },
+        {
+            "dept": "visa",
+            "code": "2055",
+            "credit": 3.0,
+            "name": "Time-Based Art: Performance Art and Everyday Life",
+            "prereqs": "",
+            "desc": "Focuses on individual and group projects plus readings on time-based media, especially contemporary performance art. Students participate in exercises that promote original responses to the everyday environment, and are encouraged to use a variety of media in making works. Compulsory supplementary fees. Open to FES students formally registered in CAP."
+        },
+        {
+            "dept": "visa",
+            "code": "2056",
+            "credit": 3.0,
+            "name": "Time-Based Art: Introduction to Video Art - Production",
+            "prereqs": "",
+            "desc": "Introduces students to the creative practice of video art in a production studio environment, including both concepts and techniques. Classes include workshops on camera, lighting, video effects and sound recording techniques. Students create individual creative video projects. Compulsory supplementary fees. "
+        },
+        {
+            "dept": "visa",
+            "code": "2060",
+            "credit": 3.0,
+            "name": "Photography: The Black &amp; White Darkroom",
+            "prereqs": "",
+            "desc": "This hands-on studio course is an exploration of B&amp;W processes and darkroom technique in a contemporary context. With a focus on analogue production, students are taught B&amp;W negative and print production, DIY camera creation and camera-less photography techniques. Technical proficiency and aesthetic awareness are nurtured alongside the development of concept-driven artworks.\n\nThis course has compulsory supplementary fees. Students are required to work on campus. Access to an analogue, manually operable camera is required. Students seeking camera and photography fundamentals should register in VISA 2061. VISA 2060 is open to visual arts majors."
+        },
+        {
+            "dept": "visa",
+            "code": "2061",
+            "credit": 3.0,
+            "name": "Photography Fundamentals - Camera to Print ",
+            "prereqs": "",
+            "desc": "This course offers an introductory studio in photographic theory and practice fundamentals. Tools, techniques and ideas related to seeing and photo-based art are explored with emphasis on the photographer as informed image-maker.\nStudents gain hands-on skills in capture and printing while developing an understanding of the basic principles of lens-based image making. Short, topic- oriented production assignments enable ongoing critical reflection and analysis. This course has compulsory supplementary fees."
+        },
+        {
+            "dept": "visa",
+            "code": "2065",
+            "credit": 3.0,
+            "name": "Photography: Post Production for Screen &amp; Web",
+            "prereqs": "",
+            "desc": "This online course introduces students to photographic software and concepts related to the digital environment. Students will acquire skills in digital workflow and image processing by introducing raw files to Adobe Lightroom and Photoshop. Students will use software to produce and manipulate photographs for the screen &amp; web. By the end of the course students will have acquired a working knowledge of the basic tools, applications and creative techniques related to digital, screen-based photography.\n\nThis course has compulsory supplementary fees. Students will require access to a computer equipped with Adobe Lightroom Classic and Photoshop. Access to a DSLR camera is advantageous. Requires skill in basic digital photography. Students seeking camera and photography fundamentals should register in VISA 2061 before taking this course. VISA 2065 is open to visual arts majors and is a prerequisite for 3000-level photography courses. This course is cross-listed with FA/FILM 2065 3.00 and is open to Film majors (BA and BFA). Course credit exclusions: FA/VISA 2006 3.00; FA/FILM 2065 3.00."
+        },
+        {
+            "dept": "visa",
+            "code": "2070",
+            "credit": 3.0,
+            "name": "Print Media: Lithography",
+            "prereqs": "",
+            "desc": "In this introduction to lithography, students are exposed to the ideas and aesthetics informing contemporary print media. Demonstrations and projects cover various approaches to this medium, including drawing, transfer and photographic or digital methods. An understanding of the material and conceptual possibilities of lithography will allow students to develop individual print practices. Compulsory materials fee. Mandatory safety equipment is required. Open to FES students formally registered in CAP."
+        },
+        {
+            "dept": "visa",
+            "code": "2073",
+            "credit": 3.0,
+            "name": "Print Media: Relief ",
+            "prereqs": "",
+            "desc": "In this introduction to relief printing, students are exposed to the ideas and aesthetics informing contemporary print media. Demonstrations and projects include various approaches to relief printing such as woodcut, linocut and collagraph, and cover a range of techniques and material processes."
+        },
+        {
+            "dept": "visa",
+            "code": "2074",
+            "credit": 3.0,
+            "name": "Print Media: Screenprinting",
+            "prereqs": "",
+            "desc": "In this introduction to screen-printing, students are exposed to the ideas and aesthetics informing contemporary print media. Demonstrations and projects cover various approaches to screen-printing with a range of techniques and material processes."
+        },
+        {
+            "dept": "visa",
+            "code": "2075",
+            "credit": 3.0,
+            "name": "Imprints and Monoprints: Print-Based Drawing",
+            "prereqs": "",
+            "desc": "In this foundation-level printmaking course, students are exposed to a hybrid of printmaking and print-based drawing processes. Projects explore a range of print and mark-making gestures as they occur both within and outside the studio, utilizing both press-based and hand-based printing. Topics draw from ideas and aesthetics informing contemporary print media, including: the transfer of object to imprinted trace; making and finding; the artist's hand and the occurrence of chance. Techniques include monoprinting, collagraph and object printing through a general introduction to intaglio and relief print processes. Demonstrations and lectures introduce students to a range of techniques, material processes and thematic content utilized across both historical and contemporary artmaking. Compulsory Supplementary Fees. Open to non-majors."
+        },
+        {
+            "dept": "visa",
+            "code": "2081",
+            "credit": 3.0,
+            "name": "Drawing: Perception, Proportion, Structure (Blended Online)",
+            "prereqs": "",
+            "desc": "Explores contemporary approaches to traditional genres such as the still life, portrait, landscape and architecture are developed in relation to formal drawing skills. Studio projects include observational drawing and the application of representational systems such as perspective. The creative process is stressed encouraging personal, imaginative solutions to class projects and home assignments. 50% Studio based, 50% Online content."
+        },
+        {
+            "dept": "visa",
+            "code": "2083",
+            "credit": 3.0,
+            "name": "Drawing: Contemporary  Practices",
+            "prereqs": "",
+            "desc": "Explores conceptual, perceptual and formal drawing strategies for developing images. Emphasis is placed on the creative process leading students to develop and sustain personally relevant images."
+        },
+        {
+            "dept": "visa",
+            "code": "2084",
+            "credit": 3.0,
+            "name": "Drawing: Image and Object",
+            "prereqs": "",
+            "desc": "An integrated sculpture / drawing course that introduces concepts and techniques of drawing and object making as they relate to translation of object to image, and from image to object. Open to non-majors."
+        },
+        {
+            "dept": "visa",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Teaching Visual Arts in the Intermediate Division",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Visual Arts in the intermediate grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "visa",
+            "code": "3022B",
+            "credit": 3.0,
+            "name": "Painting: The Spaces We Live In",
+            "prereqs": "",
+            "desc": "Offers Thematic painting studio that focuses on contemporary concepts of space: the 'real' space of super-modernity as experienced in large urban centres and virtual or cyberspace. The conceptual ideas related to the theme are introduced through selected readings. Prerequisites: Three credits from FA/VISA 202x series of courses."
+        },
+        {
+            "dept": "visa",
+            "code": "3022C",
+            "credit": 3.0,
+            "name": "Painting: Constructing the Human Figure",
+            "prereqs": "",
+            "desc": "Investigates the representation of the naked and clothed human figure in painting. Working from close observation of a life model, appropriated images and from their imagination, students explore questions of identity and social references while developing technical and compositional skills. Prerequisites: Three credits from the FA/VISA 202x series of courses."
+        },
+        {
+            "dept": "visa",
+            "code": "3022E",
+            "credit": 3.0,
+            "name": "Painting: Contemporary Approaches to Nature",
+            "prereqs": "",
+            "desc": "Investigates how painters are exploring contemporary approaches to nature and landscape through such questions as: How is nature represented in the media? How is the urban/nature opposition beginning to break down? How can cities be ecologically friendly? These questions are discussed through: an historical survey of how artists of the past viewed and represented nature, a class visit to the McMichael Collection, and an examination of how contemporary painters are re-engaging with nature. Students explore these themes through three, studio projects. Students are encouraged to draw and paint from nature instead of using only photographic sources. The projects are evaluated by extensive individual and class critiques. Prerequisite: three credits from FA/VISA 202x 3.00 series of courses.\n"
+        },
+        {
+            "dept": "visa",
+            "code": "3024C",
+            "credit": 3.0,
+            "name": "Painting: Shifting the Boundaries of Abstraction",
+            "prereqs": "visa1000",
+            "desc": "Examines the recent shift of the boundaries of abstraction and figuration in pictorial experience. In a series of painting, students create new relationships between abstraction and figuration by using the visual strategies of convergence, interference and mutation. Prerequisite: FA/VISA 1000 3.00; six credits from the FA/VISA 202x series of courses."
+        },
+        {
+            "dept": "visa",
+            "code": "3026",
+            "credit": 3.0,
+            "name": "Painting 2.0: digital and material encounters",
+            "prereqs": "",
+            "desc": "This course explores the intersection between current digital imaging processes and painting. Attributes and procedures associated with the digital, such as the informational, virtual, archivable/disposable/deletable, &quot;infinite&quot; dissemination and connectivity, and the non-perspectival, etc. are presented as invigorating opportunities for painting. Through the exploration, the course opens conceptual and technical possibilities to further painting as a viable medium for contemporary artistic expression. Open to non-majors.\r\n\r\nThe course does not require extensive knowledge of digital technology. Rather, the digital paradigm will be introduced through class presentation and discussion. New possibilities arising from these presentations will usher the integration of &quot;ideas&quot; informed by the digital. These ideas will be translated and executed through new forms of painting and construction of pictorial spaces."
+        },
+        {
+            "dept": "visa",
+            "code": "3032C",
+            "credit": 3.0,
+            "name": "Advanced Ceramic Sculpture ",
+            "prereqs": "visa2037",
+            "desc": "Explores the highly experimental and immediate process of modeling and firing clay to create sculpture. This course builds upon the information presented in Introduction to Ceramic Sculpture, with the goal of pushing the possibilities of the material, while developing personal research projects in clay. Prerequisite: FA/VISA 2037 3.00."
+        },
+        {
+            "dept": "visa",
+            "code": "3032E",
+            "credit": 3.0,
+            "name": "Intermediate Sculpture Processes: Foundry - Lost wax/Ceramic Shell",
+            "prereqs": "visa2031 visa2032 visa2033 visa2034",
+            "desc": "Explores the casting process using the lost wax method. Students produce an object in metal from start to finish. Prerequisite: FA/VISA 2031 3.00 or FA/VISA 2032 3.00 or FA/VISA 2033 3.00 or FA/VISA 2034 3.00 or FAVISA 2035 3.00 and three credits from the 203x series of courses."
+        },
+        {
+            "dept": "visa",
+            "code": "3033",
+            "credit": 3.0,
+            "name": "Modelling for 3D Fabrication",
+            "prereqs": "datt2050",
+            "desc": "Introduces students to the possibilities for creating digital objects using advanced 3D design software and 3D scanning technologies, and the related conceptual concerns. Prerequisite: three credits from FA/VISA 203x 3.00 series of courses; for DIGM students: FA/DATT 2050 3.00."
+        },
+        {
+            "dept": "visa",
+            "code": "3034",
+            "credit": 3.0,
+            "name": "Digital Fabrication",
+            "prereqs": "datt3940 visa3033",
+            "desc": "Introduces students to the possibilities for translating digital objects into physical objects using three-dimensional printing technologies, and the related conceptual concerns. Prerequisite: FA/DATT 3940 3.00 or FA/VISA 3033 3.00."
+        },
+        {
+            "dept": "visa",
+            "code": "3056",
+            "credit": 3.0,
+            "name": "TIME-BASED ART: SOUND FOR ARTISTS",
+            "prereqs": "",
+            "desc": "Explores sound art both as a distinct practice and through its interdisciplinary intersections with new media, sculptural, installation, performative, musical, and other time-based art practices. Prerequisite: 6.0 credits from the VISA 205x series of courses. Course Credit Exclusion: FA/FACS 3937 3.00."
+        },
+        {
+            "dept": "visa",
+            "code": "3057",
+            "credit": 3.0,
+            "name": "Time-Based Art: Video in the Expanded Field",
+            "prereqs": "",
+            "desc": "Explores video art both as a distinct practice and through its interdisciplinary intersections with new media, sound, filmic, performative, musical, and other time-based art practices. Compulsory Material Fees. Prerequisite: six credits from the FA/VISA 205x series of courses. Open to non-majors."
+        },
+        {
+            "dept": "visa",
+            "code": "3058",
+            "credit": 3.0,
+            "name": "Time-Based Art: Performance: Event, Intervention, Duration",
+            "prereqs": "",
+            "desc": "Explores a myriad of performance modes situated between the staged event and the tactical intervention into everyday life, with a particular focus on time and duration. Compulsory Supplementary Fees apply. "
+        },
+        {
+            "dept": "visa",
+            "code": "3062",
+            "credit": 3.0,
+            "name": "Photography: Light and Studio",
+            "prereqs": "visa2061 visa2065",
+            "desc": "Directorial approaches using lighting and the studio are explored. Emphasis is on integrating artificial light and staged production within photographic practice. Technique and skill are contextualized in a study of contemporary art works. Prerequisite: FA/VISA 2061 3.00 or FA/VISA 2065 3.0 or permission of the course director."
+        },
+        {
+            "dept": "visa",
+            "code": "3063",
+            "credit": 3.0,
+            "name": "Photography: Landscape &amp; Place ",
+            "prereqs": "",
+            "desc": "Through a range of production strategies, field trips, discussions and readings, students will examine how the landscape genre can embrace an understanding of the natural world in relation to history, politics, ideology and notions of place. Topics include defining and expanding the boundaries of landscape as an artistic genre, exploring our impact on the natural world, the relationships between history, political ideology, and our environment, and how we create a sense of, and an understanding of place. Pre-requisite: FA/VISA2061 3.0 or FA/VISA 2065."
+        },
+        {
+            "dept": "visa",
+            "code": "3070",
+            "credit": 3.0,
+            "name": "Extended Print Practice",
+            "prereqs": "",
+            "desc": "Building upon knowledge gained from introductory printmaking courses, students will have the opportunity to work in various print media as well as investigate extended print media practice such as artists\u0092\u0091 book, printed ephemera, print installation and digital imaging. Compulsory supplementary fees. Mandatory safety equipment is required. Prerequisite: Six credits from the FA/VISA 207x series of printmedia courses."
+        },
+        {
+            "dept": "visa",
+            "code": "3071",
+            "credit": 3.0,
+            "name": "Artists' Books and Multiples",
+            "prereqs": "",
+            "desc": "Considers a range of ideas and material approaches focusing on the artists' book and the multiple in the context of contemporary print media practices. Compulsory supplementary fees. Prerequisite: 6 credits from the 2000 level Printmaking series of courses. Course Credit Exclusion: FA/VISA 3071 6.00 "
+        },
+        {
+            "dept": "visa",
+            "code": "3082",
+            "credit": 3.0,
+            "name": "Drawing and the Expanded Image",
+            "prereqs": "",
+            "desc": "Explores drawing as a multidisciplinary process. Students combine traditional approaches to this artform with other media including photography, painting, sculpture and installation."
+        },
+        {
+            "dept": "visa",
+            "code": "3088",
+            "credit": 3.0,
+            "name": "Drawing: Comics and Sequential Art",
+            "prereqs": "",
+            "desc": "This course introduces students to the discipline of drawing as it is practiced in comics and sequential art. With a focus on medium, form, and process, this course teaches the fundamentals of making comics, emphasizing the hybrid nature of the form and its potential as a medium for self-expression. This is primarily a drawing course but offers the opportunity to explore multiple aspects and methods of making comics. Drawing, layout, production techniques, story writing, and character development are covered. Open to non-majors."
+        },
+        {
+            "dept": "visa",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Visual Arts in the Intermediate-Senior Division - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Visual Arts in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Visual Arts in the intermediate and senior grades. \nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "visa",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Professional Practices for Visual Artists",
+            "prereqs": "",
+            "desc": "Introduces upper level Visual Arts Majors to the contemporary art world and the professional practices that they will encounter as emerging visual artists giving them the knowledge and the practical skills to understand the extended art community and to navigate their own diverse paths within it.\r\nCourse content includes lectures on the structure of art institutions, including artist residencies and how artists can leverage their abilities to navigate this system. The course content will expand student's understanding of a professional studio practice, encompassing collaborative professional development with other disciplines (science, technology, engineering etc), artist driven curatorial projects, collaborative community based projects, and examining the possibilities for traditional research based practices (working with archives, educational institutions, etc.). Lectures, guest speakers, and field trips address a variety of topics such as an evaluation of graduate programs, grant writing, contracts, copyright / intellectual property, exhibition proposals, research practices and skills, networking, social media promotion, documentation archive, marketing and business development. \r\n Students evolve individual plans for transitioning from undergraduate study to post graduate study or work by researching and analyzing the requirements and limitations of opportunities relevant to their current practice and future goals."
+        },
+        {
+            "dept": "visa",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Visual Arts in the Intermediate-Senior Division - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Visual Arts in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Visual Arts areas in order to further develop students' expertise for teaching this subject. ED/VISA 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "visa",
+            "code": "4090",
+            "credit": 6.0,
+            "name": "Honours Studio",
+            "prereqs": "",
+            "desc": "VISA 4090 is a capstone studio course designed for BFA Honours students. This course provides senior-level students with the opportunity to develop an independent studio practice, furthering their creative, conceptual and technical skills within both an area specific and interdisciplinary focus. Over the year students are expected to develop a self-directed, cohesive body of work, while making connections between their practice and a broader context of art and ideas. \n\nPre-requisite: Fourth year standing with six credits from the 3000 level studio courses with a grade of B or better."
+        },
+        {
+            "dept": "visa",
+            "code": "4091",
+            "credit": 6.0,
+            "name": "Independent Studies:  Practicum",
+            "prereqs": "visa4090",
+            "desc": "An individualized study program for highly motivated visual arts students in their final year of study who wish to pursue specific and intensive independent projects under the supervision of a faculty member on topics not available in other courses in visual arts. Supplementary fees are charged in studio areas where such fees are applicable. Prerequisite: Applications are restricted to students who fulfill all of the following criteria: BFA Honours major in visual arts with a minimum overall average of 7.0 (B+); successful completion of 90 credits towards the BFA, including a minimum of six credits in FA/VISA 4090 6.00 in the proposed discipline. Note: The annual submission deadline for an independent studies application is by the end of April for the next summer and fall/winter academic sessions. Applications are subject to department approval. Applications are not available after the deadline."
+        },
+        {
+            "dept": "visa",
+            "code": "4091",
+            "credit": 3.0,
+            "name": "Independent Studies:  Practicum",
+            "prereqs": "visa4090",
+            "desc": "Offers an individualized study program for highly motivated visual arts students in their final year of study who wish to pursue specific and intensive independent projects under the supervision of a faculty member on topics not available in other courses in visual arts. Supplementary fees are charged in studio areas where such fees are applicable. Prerequisite: Applications are restricted to students who fulfill all of the following criteria: BFA Honours major in visual arts with a minimum overall average of 7.0 (B+); successful completion of 90 credits towards the BFA, including a minimum of six credits in FA/VISA 4090 6.00 series in the proposed discipline. Note: The annual submission deadline for an independent studies application is by the end of April for the next summer and fall/winter academic sessions. Applications are subject to department approval. Applications are not available after the deadline."
+        },
+        {
+            "dept": "visa",
+            "code": "5600",
+            "credit": 3.0,
+            "name": "Contemporary Theory in the Visual Arts",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "visa",
+            "code": "5610",
+            "credit": 3.0,
+            "name": "Theoretical Issues in Contemporary Art",
+            "prereqs": "",
+            "desc": "Examines recent theoretical interventions in the formulation of critical practice in the field of the visual arts. Working from the premise that 'art' and theory are social constructions and therefore, are historically specific practices, this course addresses the intersection between theory and practice at particular moments in time, taking into consideration the implicit and explicit references of artists, critics, historians and contemporary cultural theorists. Course credit exclusion: GS/ARTH 5160 3.00."
+        },
+        {
+            "dept": "visa",
+            "code": "5620",
+            "credit": 3.0,
+            "name": "Graduate Seminar",
+            "prereqs": "",
+            "desc": "Weekly meetings with guest artists and faculty will provide a forum for peer critiques and critical discussion of student's work and the issues arising from that discussion. This venue will lead to development of the thesis support paper.\n"
+        },
+        {
+            "dept": "visa",
+            "code": "5640",
+            "credit": 3.0,
+            "name": "Graduate Seminar",
+            "prereqs": "",
+            "desc": "Weekly meetings with guest artists and faculty will provide a forum for peer critiques and critical discussion of student's work and the issues arising from that discussion. This venue will lead to development of the thesis support paper.\n"
+        },
+        {
+            "dept": "visa",
+            "code": "5650",
+            "credit": 3.0,
+            "name": "Methods in Practice-Based Research",
+            "prereqs": "",
+            "desc": "The focus of the course is how to characterize &quot;research&quot; in the context of art practice. Course materials and discussions will address the terminology, categorization and goals of practice-based research (or research-creation). Students will consider the formal and conceptual strategies required for producing artwork in parallel with scholarly reading of historical and theoretical texts and individuated forms of writing."
+        },
+        {
+            "dept": "visa",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A supervised reading course on a topic for which there is no current course offering.  Permission of the Graduate Program Director is required"
+        }
+    ]
+}

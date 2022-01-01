@@ -1,0 +1,60 @@
+{
+    "courses": [
+        {
+            "dept": "txlw",
+            "code": "6100",
+            "credit": 6.0,
+            "name": "Tax Policy, Statutory Interpretation and the Foundations of the Taxation of Individuals",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "txlw",
+            "code": "6201",
+            "credit": 3.0,
+            "name": "Introduction to the Taxation of Corporations and Shareholders ",
+            "prereqs": "",
+            "desc": "This course is a survey of the tax policy issues and laws relating to the taxation of corporations and their shareholders. It is designed for students with little background in the Canadian rules for taxing corporations and shareholders. "
+        },
+        {
+            "dept": "txlw",
+            "code": "6729",
+            "credit": 3.0,
+            "name": "Selected Topics in Tax Law",
+            "prereqs": "",
+            "desc": "This course explores in greater detail important issues and debates in taxation law. A new topic will be explored in detail in each offering. The course will be taught by a visiting expert scholar and/or practitioner in that area."
+        },
+        {
+            "dept": "txlw",
+            "code": "6731",
+            "credit": 3.0,
+            "name": "Taxation of Trusts and Estates",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "txlw",
+            "code": "6737",
+            "credit": 3.0,
+            "name": "Overview of United States Taxation and Recent Developments",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "txlw",
+            "code": "6739",
+            "credit": 3.0,
+            "name": "International Taxation",
+            "prereqs": "",
+            "desc": "International taxation topics covered in this course include: jurisdiction to tax; the foreign affiliate system; foreign tax credit; corporate immigration; emigration and continuance, aspects of transfer pricing; ownership and financing of overseas operations of Canadian companies; structuring foreign joint ventures, financing US affiliates, cross-border mergers and de-mergers and other forms of corporate reorganizations; alternative inbound investment structures; international finance companies, computer software; cross-border issues; and issues relating to tax treaties."
+        },
+        {
+            "dept": "txlw",
+            "code": "6802",
+            "credit": 3.0,
+            "name": "Partnerships and Tax Shelters",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

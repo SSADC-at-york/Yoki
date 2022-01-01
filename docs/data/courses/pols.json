@@ -1,0 +1,1404 @@
+{
+    "courses": [
+        {
+            "dept": "pols",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Politics: Exploring the Democratic Experience",
+            "prereqs": "",
+            "desc": "Introduces students to the central concepts of political science. The emphasis is on how individuals participate in politics and on how politics may be changed. Among the topics to be considered are the following: nationalism and nation building, liberalism, communism, fascism, power, war, imperialism and dependency, international organization, interdependence and integration. Material from municipal, provincial, national and international levels of politics will be included as well as material on current policy issues, such as recent changes in the Ontario Human Rights Code. Course credit exclusion: GL/POLS 1400 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "1090",
+            "credit": 3.0,
+            "name": "Introduction to Business, Government and Society",
+            "prereqs": "",
+            "desc": "Three decades of sweeping change in the organization of the Canadian economy and state have transformed Canadian social life, from unemployment to the workplace. This course explores these changes within a broader historical and global framework."
+        },
+        {
+            "dept": "pols",
+            "code": "1200",
+            "credit": 3.0,
+            "name": "The Politics of Law",
+            "prereqs": "",
+            "desc": "Introduces students to the study of the relationship between political science and the law. Addresses varying approaches to the study of these disciplines. Emphasizes the dynamic interaction among institutions, actors, and processes in the domestic and international legal arenas. Analyzes major themes in these fields by examining the politics of law in the context of governance. Issues addressed range from the rights of sex workers and food safety to patent regimes and the environment."
+        },
+        {
+            "dept": "pols",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Perspectives on Politics: Classics of Political Thought",
+            "prereqs": "",
+            "desc": "Examines answers to critical questions concerning the nature and purposes of political life through a survey of classical works of political thought.\nCourse Credit Exclusion: AP/POLS 2900 6.00"
+        },
+        {
+            "dept": "pols",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Introduction to Canadian Politics",
+            "prereqs": "",
+            "desc": "This course introduces Canada's democracy. The course covers the politics and political institutions of Canada such as\nthe constitution, the Charter of Rights, federalism, elections, economy, and civil society.\nCourse credit exclusion: AP/POLS 2910 6.00; GL/CDNS 2600 Cr=6.00; GL/POLS 2600 Cr=6.00"
+        },
+        {
+            "dept": "pols",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Communities and Public Law",
+            "prereqs": "",
+            "desc": "Introduces students to the Canadian legal system and the major components of public law. More specifically it examines the relationship between communities and the fundamental principles underpinning administrative law, constitutional law and criminal law."
+        },
+        {
+            "dept": "pols",
+            "code": "2201",
+            "credit": 3.0,
+            "name": "Introduction to International Politics",
+            "prereqs": "",
+            "desc": "The study of the forces that structure, power, conflict, compromise and cooperation both within states and among them, emphasizing the diversities and inequalities, the violence, and the on-going struggles to achieve political community that mark the present era of 'globalization.'\nCourse credit exclusion: AP/POLS 2940 6.00"
+        },
+        {
+            "dept": "pols",
+            "code": "2400",
+            "credit": 3.0,
+            "name": "Introduction to Comparative Politics",
+            "prereqs": "",
+            "desc": "An introduction to the comparative study of political systems, institutions, and processes. The second half of the course will examine in detail the government and politics of specific countries and regions.\nCourse credit exclusion: AP/POLS 2950 6.00"
+        },
+        {
+            "dept": "pols",
+            "code": "2485",
+            "credit": 6.0,
+            "name": "Introduction to Political Theory",
+            "prereqs": "",
+            "desc": "This course provides a critical and historical overview of the essential concepts of political thought and an introduction to different theories of political and social authority. Examination of concepts such as authority, democracy, freedom, equality, sovereignty, law, and justice."
+        },
+        {
+            "dept": "pols",
+            "code": "2510",
+            "credit": 6.0,
+            "name": "Introduction to Comparative Politics",
+            "prereqs": "",
+            "desc": "This course focuses on comparative political analysis which explains differences between political regimes, explores why countries are democratic or undemocratic; why institutions and policies differ between states; and, the political impact of nationalism, regional integration, economic development and globalization.\r\nPRIOR TO FALL 2015: Course credit exclusion: GL/POLS 3010 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "2600",
+            "credit": 3.0,
+            "name": "Introduction to Gender and Politics",
+            "prereqs": "",
+            "desc": "The aim of this course is to offer a historical and critical survey of gender politics. We will examine the central role gender plays in shaping, understanding, and evaluating the political world. This course will explore gender in relation to a number\nof political issues and themes including power, oppression, democracy, colonialism, nationalism, conflict, work, economy, and policy."
+        },
+        {
+            "dept": "pols",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Introduction to Canadian Politics",
+            "prereqs": "",
+            "desc": "This course examines some of the key institutions and processes of political life in Canada. It deals with the origins and development of Canadian political traditions, political parties, the evolution and contemporary nature of the federal system, the role of interest groups, the electoral system and voting behaviour, the Prime Minister and the Cabinet, the legislative system and the public policy process. Course credit exclusions: GL/POLS 2540 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "2610",
+            "credit": 3.0,
+            "name": "Introduction to Statistical Methods I",
+            "prereqs": "",
+            "desc": "This course covers the elements of probability theory and standard probability distributions, the measures and techniques used in descriptive statistics, principles of sampling and tests of significance. Prerequisite: OAC or Grade 12 mathematics. Course credit exclusions: SC/MATH 1131 3.00, SC/MATH 2560 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "2620",
+            "credit": 3.0,
+            "name": "Introduction to Statistical Methods II ",
+            "prereqs": "math1610",
+            "desc": "This course covers the correlations and regression analysis, analysis of variance and parametric tests, and problem work emphasizing applications of statistics in the social sciences. Prerequisite: GL/MATH 1610 3.00 or permission of the Department. Course credit exclusion: SC/MATH 2570 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "2632",
+            "credit": 3.0,
+            "name": "Introduction to Ancient Philosophy",
+            "prereqs": "",
+            "desc": "This course introduces topics that were first discussed by Ancient Greek philosophy. We explore ways of thinking about the world, the question of what it means to know, the question of justice, and others. \nCourse credit exclusions: GL/PHIL/POLS/SOSC 2645 6.00; AP/PHIL 2015 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "2633",
+            "credit": 3.0,
+            "name": "Ancient Ethical and Political Theory",
+            "prereqs": "",
+            "desc": "What led the Greek philosophers to carve out the world in such a way that the two topics of Ethics and Politics could be discussed on their own in a meaningful way? This, and associated questions, animate this course. \nCourse credit exclusions: GL/PHIL/POLS/SOSC 2645 6.00; AP/PHIL 2015 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "2920",
+            "credit": 6.0,
+            "name": "Introduction aux relations internationales    ",
+            "prereqs": "",
+            "desc": "Ce cours offre une introduction aux principaux concepts et probl\u00e8mes de relations internationales et plus particuli\u00e8rement des probl\u00e8mes internationaux contemporains. L'actualit\u00e9 internationale contemporaine sert de base \u00e0 l'analyse de cas concrets.."
+        },
+        {
+            "dept": "pols",
+            "code": "2920",
+            "credit": 6.0,
+            "name": "Introduction to International Relations     ",
+            "prereqs": "",
+            "desc": "A study of the nature of international politics, with special attention given to the conditions and consequences of war and peace among nation states; the impact on the international system of factors such as the politics of food, environment, population, the sea-bed and outer space, multinational corporations and cartels of raw-materials producers, the call for a new international economic order."
+        },
+        {
+            "dept": "pols",
+            "code": "3011",
+            "credit": 3.0,
+            "name": "The Politics of Sexuality/Sexual Politics",
+            "prereqs": "",
+            "desc": "Since the 1980s research has challenged popular conceptions of sex as a natural and biological force. This course explores the socio-political construction of sexualities through the fields of psychoanalysis, law, education, sexology and popular culture."
+        },
+        {
+            "dept": "pols",
+            "code": "3040",
+            "credit": 6.0,
+            "name": "Modern Political Thought",
+            "prereqs": "",
+            "desc": "Student shall study  political thinkers whose theories have had significant impact in shaping the modern world.\nCourse credit exclusions: GL/PHIL 3637 6.00, GL/POLS 3637 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3045",
+            "credit": 6.0,
+            "name": "Human Rights, Islamic Thought and Politics",
+            "prereqs": "",
+            "desc": "Critically examines the relationship between Islam and human rights. Describes the state of human rights in Muslim-majority countries and debates within them and amongst Muslim minorities in liberal democracies over the compatibility of human rights claims with Islamic principles. \r\nCourse credit exclusion: AP/HREQ 3800 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3065",
+            "credit": 3.0,
+            "name": "Political Culture of Race and Racism",
+            "prereqs": "",
+            "desc": "This course analyzes the political, economic and cultural development of race and racism in political discourse. Attention is given to categories such as Eurocentric and the West. We deal with the historical development of identity politics versus political correctness debates."
+        },
+        {
+            "dept": "pols",
+            "code": "3070",
+            "credit": 3.0,
+            "name": "Psychology and Politics",
+            "prereqs": "",
+            "desc": "This course involves the use of personality concepts in contemporary political thought. After outlining some psychological theories, starting with Freud, the focus is on selected problems: ideology, freedom and the law, community and utopia, leadership and biography, democratic participation, totalitarianism and conservatism."
+        },
+        {
+            "dept": "pols",
+            "code": "3075",
+            "credit": 3.0,
+            "name": "Law, Justice and Jurisprudence",
+            "prereqs": "",
+            "desc": "This course deals with the theories and principles of law and justice which underlie legal systems, with an emphasis on how these theories and principles impact on the political process. Readings draw from a variety of classical and contemporary sources."
+        },
+        {
+            "dept": "pols",
+            "code": "3085",
+            "credit": 6.0,
+            "name": "Political Economy as a Moral Science: The Economics of Marx and Keynes",
+            "prereqs": "",
+            "desc": "The course develops a conception of &quot;political economy&quot; as a &quot;moral science&quot; through study of the economics of Karl Marx and John Maynard Keynes. It also explores the relation of the conception to German idealist philosophy and psychoanalytic psychology."
+        },
+        {
+            "dept": "pols",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Media, Identity and Citizenship",
+            "prereqs": "",
+            "desc": "This course examines the principles and theories underlying communications and cultural practices, policy and regulation in Canada, with particular attention to the role of the state and the private sector in shaping the nature of political and cultural discourse in Canada. \r\nCourse credit exclusions: None.  \r\n\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/POLS 3100 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3102",
+            "credit": 3.0,
+            "name": "Indigenous Politics in Canada ",
+            "prereqs": "",
+            "desc": " A survey course, it examines the relationships between indigenous peoples, the state, society and economy in Canada. Topics include: globalization, (de)colonization, citizenship, constitutionalism, gender, land claims, self-government and resistance.\n\nCourse credit exclusions: AP/POLS 3102 3.00 (Prior to Fall 2014)"
+        },
+        {
+            "dept": "pols",
+            "code": "3135",
+            "credit": 3.0,
+            "name": "Public Law I: The Constitution and the Courts in Canada",
+            "prereqs": "",
+            "desc": "An examination of the Canadian court structure, judicial review of federalism, the role of courts and lawyers, and the relationship between law, politics and public policy. Using technology-enhanced learning, students participate in electronic discussions and mock trials."
+        },
+        {
+            "dept": "pols",
+            "code": "3135",
+            "credit": 3.0,
+            "name": "Public Law I: The Constitution and the Courts in Canada",
+            "prereqs": "",
+            "desc": "An examination of the Canadian court structure, judicial review of federalism, the role of courts and lawyers, and the relationship between law, politics and public policy. Using technology-enhanced learning, students participate in electronic discussions and mock trials."
+        },
+        {
+            "dept": "pols",
+            "code": "3136",
+            "credit": 3.0,
+            "name": "Public Law II: The Charter of Rights and Freedoms and the Limits of Public Administration",
+            "prereqs": "",
+            "desc": "We focus on the Canadian Charter of Rights and Freedoms, including freedom of expression, legal rights, equality rights, language rights, aboriginal people's rights and judicial review of public administration.\nCourse credit exclusion: AP/SOSC 3360 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3136",
+            "credit": 3.0,
+            "name": "Public Law II: The Charter of Rights and Freedoms and the Limits of Public Administration",
+            "prereqs": "",
+            "desc": "We focus on the Canadian Charter of Rights and Freedoms, including freedom of expression, legal rights, equality rights, language rights, aboriginal people's rights and judicial review of public administration.\nCourse credit exclusion: AP/SOSC 3360 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3150",
+            "credit": 3.0,
+            "name": "Political Parties in Canada",
+            "prereqs": "",
+            "desc": "An intensive examination of the origins and development of political parties in Canada, including the three major parties and smaller parties which have arisen from time to time at the federal and provincial levels."
+        },
+        {
+            "dept": "pols",
+            "code": "3155",
+            "credit": 3.0,
+            "name": "Election Campaigns in Canada",
+            "prereqs": "",
+            "desc": "An intensive examination of political science studies of elections, voter decision-making, campaigns and campaign strategies in Canada."
+        },
+        {
+            "dept": "pols",
+            "code": "3170",
+            "credit": 3.0,
+            "name": "Canada's Social Policy",
+            "prereqs": "",
+            "desc": "Examines Canadian federal, provincial and municipal programs aimed at those outside the paid labour force. Programs covered include health care, child care services and benefits, old age pensions, social assistance and disability. Covers current debates on future of the welfare state. \nCourse credit exclusions: Prior to Fall 2019: AP/HREQ 3761 3.00\n\n"
+        },
+        {
+            "dept": "pols",
+            "code": "3171",
+            "credit": 3.0,
+            "name": "Canada's Labour Market",
+            "prereqs": "",
+            "desc": "Examines the development and operation of government programs in Canada directed at influencing labour supply/demand, including training and education policies, employment/unemployment insurance, job creation policies, collective bargaining, employment standards, pay equity and employment equity, and immigration. Considers current debates about the role of the state in regulating the labour market. \nCourse credit exclusions: Prior to Fall 2019: AP/HREQ 3762 3.00\n\n"
+        },
+        {
+            "dept": "pols",
+            "code": "3190",
+            "credit": 6.0,
+            "name": "Public Administration",
+            "prereqs": "",
+            "desc": "Examines the theory and practice of policy making and public administration as well as the machinery of government, with particular reference to Canada. It discusses who makes policy, how policy is developed and implemented, and how the system is controlled and evaluated. Course credit exclusion: GL/POLS 2500 6.00.\r\n"
+        },
+        {
+            "dept": "pols",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Global Conflict and Security I",
+            "prereqs": "",
+            "desc": "This course acquaints students with issues surrounding conflict and security in global politics as it has evolved over the past three centuries. It examines the history and development of war from the medieval period to the era of total war, and the main currents of thought on issues of war and peace."
+        },
+        {
+            "dept": "pols",
+            "code": "3212",
+            "credit": 3.0,
+            "name": "Les relations intergouvernementales au Canada",
+            "prereqs": "",
+            "desc": "Ce cours porte sur le f\u00e9d\u00e9ralisme canadien, s'attardant particuli\u00e8rement aux relations entre le gouvernement f\u00e9d\u00e9ral et les provinces. Nous \u00e9tudions les arrangements institutionnels, formels et informels, structurant la relation entre les deux niveaux de gouvernements. Condition pr\u00e9alable : GL/POLS 2500 6.00 ou GL/POLS 2600 6.00 ou la permission du d\u00e9partment."
+        },
+        {
+            "dept": "pols",
+            "code": "3230",
+            "credit": 3.0,
+            "name": "Global Issues in Foreign Policy",
+            "prereqs": "",
+            "desc": "Increasingly, problems such as environmental degradation, sustainable development, the uses and effects of technology in financial, production and communication systems, human rights abuses, refugee and population movements and militarization, require solutions that can only be realized within a system of multilateral cooperation. The purpose of this course is to introduce students to the foreign policy decision-making process in terms of these global issues."
+        },
+        {
+            "dept": "pols",
+            "code": "3235",
+            "credit": 3.0,
+            "name": "International Relations Through Film and Literature",
+            "prereqs": "",
+            "desc": "This course critically analyses theories and concepts in international relations through films and literary works, with a particular focus on war, conflict and US foreign policy. Epistemology and method are addressed alongside pivotal wars of the last century."
+        },
+        {
+            "dept": "pols",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Multilateralism I: The United Nations, Regional Organizations and International Law",
+            "prereqs": "",
+            "desc": "Multilateralism concerns the management of conflict and the building of cooperation among the variety of political entities and agents that enter the field of world politics and governance. This course provides students with a better understanding of the evolving role of international organization within the broader context of changing world politics and international law. Emphasis is placed on the historical development of international organization. Course credit exclusions: GL/ILST 3615 6.00, GL/POLS 3615 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "Multilateralism II: The Political Economy of International Organizations",
+            "prereqs": "pols3240",
+            "desc": "Multilateralism concerns the management of conflict and the building of cooperation among the variety of political entities and agents that enter the field of world politics and governance. The course builds upon the introduction provided in AP/POLS 3240 3.00, and examines actual structures, processes, activities and instruments of international organizations within and outside the UN Family. Prerequisite: AP/POLS 3240 3.00. Course credit exclusions: GL/ILST 3615 6.00, GL/POLS 3615 6.00.&quot;"
+        },
+        {
+            "dept": "pols",
+            "code": "3270",
+            "credit": 3.0,
+            "name": "Global Political Economy I: Theory and Approaches",
+            "prereqs": "",
+            "desc": "Introduces theoretical perspectives and concepts of global political economy, and applies them in the identification of various substructures in the context of historical developments, especially since the 19th century. Course credit exclusions: AP/ECON 3190 3.00, AP/ECON 3199 3.00, \nPreviously offered as: AP/REI 3270 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3275",
+            "credit": 3.0,
+            "name": "Global Political Economy II: Issues and Problems Since 1945",
+            "prereqs": "",
+            "desc": "This course focuses on problems and issues relating to the post-1945 global political economy. Course credit exclusions: AP/ECON 3190 3.00,  AP/ECON 3199 3.00. \nPreviously offered as: AP/REI 3275 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3300",
+            "credit": 6.0,
+            "name": "Statistics for Social Sciences",
+            "prereqs": "",
+            "desc": "Provides a basic understanding of the statistical reasoning and fundamental statistical techniques frequently used to analyze social data. It introduces students to the uses of computers and statistics in the social sciences. It helps develop necessary critical skills to evaluate empirical research. \r\nCourse credit exclusions: AP/ADMS 2320 3.00, AP/ECON 2500 3.00, AP/GEOG 2420 3.00, SC/GEOG 2420 3.00, AP/GEOG 3421 3.00, SC/GEOG 3421 3.00, GL/MATH 1610 3.00, GL/MATH 1620 3.00, GL/MODR 1610 3.00, GL/MODR 1620 3.00, GL/POLS 2610 3.00, GL/POLS 2620 3.00, GL/SOCI 2610 3.00, GL/SOCI 2620 3.00, HH/KINE 2050 3.00, HH/KINE 3150 3.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, HH/PSYC 2022 3.00, SC/BIOL 2060 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00, SC/MATH 2570 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3350",
+            "credit": 3.0,
+            "name": "Communist and Post-Communist Politics",
+            "prereqs": "",
+            "desc": "This course examines the politics of various communist and post-communist societies, including Eastern Europe, China, North Korea, and Cuba. It analyzes how these countries/regions functioned under communism, as well as the reforms in Eastern Europe and China."
+        },
+        {
+            "dept": "pols",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Political Economy of Industrial Democracies",
+            "prereqs": "",
+            "desc": "This course provides an analysis of the political economy of the advanced capitalist democracies in the postwar period. The primary area of focus is Western Europe, but the subject matter may also include Japan and the USA. \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Course credit exclusions: AS/POLS 3400 3.00, AS/POLS 3700 3.00 (prior to Fall/Winter 2003-2004)."
+        },
+        {
+            "dept": "pols",
+            "code": "3411",
+            "credit": 3.0,
+            "name": "The Political Economy of Newly-Industrialized Countries",
+            "prereqs": "",
+            "desc": "The course examines theoretical debates concerning development and political economy of the newly-industrialized countries. It provides a comparative and historical lens to analyze major political economic transformations in the global South in the post-World War II era. "
+        },
+        {
+            "dept": "pols",
+            "code": "3450",
+            "credit": 3.0,
+            "name": "Women and Politics ",
+            "prereqs": "",
+            "desc": "This course examines women's political position in advanced capitalist countries. The focus is historical, theoretical and issue-oriented. Issues examined include the politics of racism, sexuality, reproduction, pornography within formal political structures and community organizing. \r\n\r\nCourse credit exclusions: AP/GL/GWST 3517 3.00, AP/POLS 3455 3.00, AP/SOSC 3175 3.00, AP/GL/WMST 3516 3.00 (prior to Fall 2013), AP/GL/WMST 3517 3.00 (prior to Fall 2013).\r\n"
+        },
+        {
+            "dept": "pols",
+            "code": "3460",
+            "credit": 3.0,
+            "name": "Ontario Government and Politics",
+            "prereqs": "",
+            "desc": "This course analyzes the institutions and operation of Ontario\u0092s provincial government and political system in the context of Canadian federalism. Consideration of Ontario\u0092s political parties, electoral system, organization of government, and policy in a range of areas.\r\nCourse credit exclusion: AP/POLS 3175 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3520",
+            "credit": 3.0,
+            "name": "Governing the New Europe ",
+            "prereqs": "",
+            "desc": "Examines the government and politics of the new Europe. It considers structures and process of governance at the national, sub-national and supra-national level. The course examines different patterns of development and the changing nature of democracy in Europe. It draws on historical and current trends to consider similarities and differences in political and social institutions, political culture and economic forces. Course credit exclusion: GL/POLS 3210 6.00.\n"
+        },
+        {
+            "dept": "pols",
+            "code": "3521",
+            "credit": 3.0,
+            "name": "European Union: Integration and Disintegration",
+            "prereqs": "",
+            "desc": "Examines the processes and policies of European integration. It pays particular attention to the advantages of closer integration on the European continent while also considering the difficulties of governing a multi-level and multi-national polity. Topics include current European issues such as the Euro and Euro-zone crisis, enlargement, democratic accountability as well as specific policy areas. PRIOR TO WINTER 2015: Course credit exclusion: AP/POLS 4515 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3540",
+            "credit": 3.0,
+            "name": "American Government and Politics",
+            "prereqs": "",
+            "desc": "An analysis of the American system via examination of recent political events. Attention is given to the composition of the socio-political elite, the nature of mass influence in public policies, and the operation of such major institutions as the congress, courts, presidency and political parties. Course credit exclusion: GL/POLS 3230 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3560",
+            "credit": 6.0,
+            "name": "The Global South: Politics, Policy and Development",
+            "prereqs": "",
+            "desc": "Explores various dimensions of the global south, with emphasis on political-economy and development. It examines the similarities and differences between various local experiences in the global south and explores their contemporary dynamic in a historical context."
+        },
+        {
+            "dept": "pols",
+            "code": "3602",
+            "credit": 3.0,
+            "name": "Illiberal Politics",
+            "prereqs": "",
+            "desc": "This course examines challenges to modern liberalism from both the illiberal left and right, including fascism and totalitarianism,\r\nauthoritarianism and populism, Leninism/Stalinism, anarchism, and the so-called \u0093alt-right.\u0094"
+        },
+        {
+            "dept": "pols",
+            "code": "3628",
+            "credit": 3.0,
+            "name": "The Politics of Science",
+            "prereqs": "",
+            "desc": "This course analyzes the intersection between politics and the physical and biological sciences. Topics examined include environmental politics, the political impact of changing technology, as well as the political aspects of natural resources, food, and health/disease."
+        },
+        {
+            "dept": "pols",
+            "code": "3647",
+            "credit": 3.0,
+            "name": "M\u00e9dias et politiques",
+            "prereqs": "",
+            "desc": "Ce cours vise \u00e0 analyser de fa\u00e7on critique les enjeux du paysage m\u00e9diatique actuel et les liens avec le domaine politique. Les th\u00e8mes abord\u00e9s sont les suivants : m\u00e9dias et propagande, nouvelles technologies et information continue, concentration de la presse et d\u00e9bats d\u00e9mocratiques, mondialisation et standardisation."
+        },
+        {
+            "dept": "pols",
+            "code": "3650",
+            "credit": 3.0,
+            "name": "Paix, s\u00e9curit\u00e9 et droits humains internationaux",
+            "prereqs": "",
+            "desc": "Introduction interdisciplinaire et multiculturelle aux questions de paix, de s\u00e9curit\u00e9 et de droits humains dans la soci\u00e9t\u00e9 internationale. Le cours met l'accent sur l'\u00e9volution des th\u00e9ories et des pratiques dans ce domaine et fait ressortir les liens qui unissent la s\u00e9curit\u00e9 internationale et la poursuite de la prosp\u00e9rit\u00e9."
+        },
+        {
+            "dept": "pols",
+            "code": "3650",
+            "credit": 3.0,
+            "name": "International Peace, Security and Human Rights",
+            "prereqs": "",
+            "desc": "Interdisciplinary and multicultural introduction to the international peace, security and human rights dimension of international society. The course emphasizes the evolution of thought and practices in this area and stresses the interconnectedness of the international security and prosperity quests."
+        },
+        {
+            "dept": "pols",
+            "code": "3652",
+            "credit": 3.0,
+            "name": "Introduction to International Law",
+            "prereqs": "ilst2200 ilst2644",
+            "desc": "This course is an introduction to public international law and the law of international organisations. It is intended for upper-year students who are pursuing an interdisciplinary approach to international affairs. The course explores the fundamental principles and processes of the international legal order so that students will understand the specific methodology and theories that distinguish international law from the other disciplines that make up international studies. Prerequisite: GL/ILST 2200 6.00 or GL/ILST 2644 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3663",
+            "credit": 3.0,
+            "name": "Human Rights and Civil Liberties in Canada",
+            "prereqs": "",
+            "desc": "This course examines the development of human rights legislation and the present state of civil liberties in Canada. Among other themes that will be analyzed are holocaust denial; hate literature; gay and lesbian rights; police powers; personal privacy; measures against terrorism; discrimination and affirmative actions. Prerequisite: Six credits in POLS or PHIL or SOCI."
+        },
+        {
+            "dept": "pols",
+            "code": "3667",
+            "credit": 3.0,
+            "name": "War, Power, and Sovereignty: Early Modern Political Theory I",
+            "prereqs": "hist2905 hist3225 hist3436 phil1690 phil2620 phil2645 pols2485 pols2920",
+            "desc": "This course examines concepts such as war, power, and sovereignty through the works of thinkers such as Machiavelli, Hobbes, and Locke not as abstract ideas but as responses to, comments on, defences, or critiques of historical events and social realities.\r\nPrerequisites: none required, but students can acquire recommended background by taking GL/HIST 2905 6.00, GL/HIST 3225 3.00, GL/HIST 3436 3.00, GL/PHIL 1690 6.00, GL/PHIL 2620 6.00, GL/PHIL 2645 6.00, GL/POLS 2485 6.00 or GL/POLS 2920 6.00.\r\nCourse credit exclusion: GL/POLS 3660 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3668",
+            "credit": 3.0,
+            "name": "Community, Liberty, and Institutions: Early Modern Political Theory II",
+            "prereqs": "hist2905 hist3225 hist3436 phil1690 phil2620 phil2645 pols2485 pols2920",
+            "desc": "This course examines concepts such as community, liberty, and institutions through the works of thinkers such as Rousseau, Madison, Mill, and Marx not as abstract ideas but as responses to, comments on, defences, or critiques of historical events and social realities.\r\nPrerequisites: none required, but students can acquire recommended background by taking GL/HIST 2905 6.00, GL/HIST 3225 3.00, GL/HIST 3436 3.00, GL/PHIL 1690 6.00, GL/PHIL 2620 6.00, GL/PHIL 2645 6.00, GL/POLS 2485 6.00 or GL/POLS 2920 6.00.\r\nCourse credit exclusion: GL/POLS 3660 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3671",
+            "credit": 3.0,
+            "name": "Politics and Society in Latin America",
+            "prereqs": "",
+            "desc": "This course analyzes key themes of Latin American politics and society, providing a theoretical and empirical framework for understanding political, social, cultural, and economic dynamics in the region. A region-wide focus is coupled with in-depth examination of relevant country cases."
+        },
+        {
+            "dept": "pols",
+            "code": "3672",
+            "credit": 3.0,
+            "name": "La sociologie politique : autorit\u00e9, pouvoir et domination",
+            "prereqs": "",
+            "desc": "Ce cours est une introduction \u00e0 la sociologie politique. \u00c0 la base, ce cours examine la nature du pouvoir dans la soci\u00e9t\u00e9. Il examine les formes de pouvoir social avec un accent particulier sur le pouvoir politique et les relations \u00c9tat-soci\u00e9t\u00e9.\r\nCours incompatible : AP/SOCI 3640 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3680",
+            "credit": 3.0,
+            "name": "Logic of Social Inquiry: Qualitative Methods ",
+            "prereqs": "",
+            "desc": "An examination of how theories influence the logic of inquiry and research designs. Assumptions concerning objectivity and values are discussed and problems of operationalization are analyzed. Prerequisite: A course in Canadian studies or political science or sociology."
+        },
+        {
+            "dept": "pols",
+            "code": "3680",
+            "credit": 3.0,
+            "name": "La logique de l'enqu\u00eate : m\u00e9thodes qualitatives ",
+            "prereqs": "",
+            "desc": "Une \u00e9tude des relations entre la th\u00e9orie et la pratique de la recherche. Les questions d'objectivit\u00e9 et l'intrusion des valeurs. Le cours se pr\u00e9occupera de la recherche qualitative. Condition pr\u00e9alable : Un cours en \u00c9tudes canadiennes, science politique ou sociologie."
+        },
+        {
+            "dept": "pols",
+            "code": "3685",
+            "credit": 3.0,
+            "name": "Politique compar\u00e9e des pays en voie de d\u00e9veloppement",
+            "prereqs": "",
+            "desc": "Ce cours analyse de fa\u00e7on comparative la politique des pays en voie de d\u00e9veloppement, incluant les \u00c9tats d'Am\u00e9riques, d'Afrique et d'Asie du Sud-est. Il \u00e9tudie les syt\u00e8mes politiques ainsi que les grandes orientations du d\u00e9veloppement international.Condition pr\u00e9alable : GL/POLS 2510 6.00 ou GL/POLS 2920 6.00. Cours incompatible : GL/POLS 3220 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3686",
+            "credit": 3.0,
+            "name": "Politics of the Middle East and North Africa",
+            "prereqs": "",
+            "desc": "This course surveys core themes in the comparative politics of the Middle East and North Africa such as state formation and (de)colonization, authoritarianism and democratization, migration, social movements, gender, and religion and politics, through comparative and interdisciplinary perspectives."
+        },
+        {
+            "dept": "pols",
+            "code": "3690",
+            "credit": 3.0,
+            "name": "The Logic of Social Inquiry: Quantitative Methods (Data Collection and Analysis)",
+            "prereqs": "",
+            "desc": "The course concentrates first on questionnaire design and interview procedures and extrapolates from these techniques the general problems of data collection. Secondly, it examines the logic of research procedures used in assessing and interpreting data. Prerequisite: A course in Canadian studies or political science or sociology."
+        },
+        {
+            "dept": "pols",
+            "code": "3690",
+            "credit": 3.0,
+            "name": "La logique de l'enqu\u00eate : m\u00e9thodes quantitatives",
+            "prereqs": "",
+            "desc": "Le cours examinera d'abord la construction de questionnaire et de c\u00e9dules d'interview pour illustrer les probl\u00e8mes qu'implique la collecte des donn\u00e9es sociales. Ensuite il consid\u00e9rera l'interpr\u00e9tation des statistiques sociales."
+        },
+        {
+            "dept": "pols",
+            "code": "3692",
+            "credit": 6.0,
+            "name": "Theories of Society",
+            "prereqs": "",
+            "desc": "A comparative study of significant contributions to sociological theory, based on an intensive reading of such authors as Durkheim, Weber, Marx, Simmel, Freud, Cooley, Mead, Parsons, Berger and Goffman. PRIOR TO FALL 2013: course credit exclusion: AP/SOCI 3330 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3694",
+            "credit": 3.0,
+            "name": "Cities, Migrants, and the Politics of Belonging",
+            "prereqs": "",
+            "desc": "This course examines how migrants shape cities and vice versa, considering literatures on urban citizenship, human mobility, local governance, and migrant rights. It considers analytical, empirical, and normative perspectives on the relationship between migration and the creation and maintenance of state borders."
+        },
+        {
+            "dept": "pols",
+            "code": "3720",
+            "credit": 3.0,
+            "name": "American Political Development ",
+            "prereqs": "",
+            "desc": "This course analyzes the historical development of politics and policies in the United States, focusing on key transformative periods and central patterns in American political history over the past century. Note: open to first-year students. \r\nCourse credit exclusions: GL/POLS 3230 6.00, AP/POLS 3540 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3721",
+            "credit": 3.0,
+            "name": "American Political Institutions",
+            "prereqs": "",
+            "desc": "This course analyzes the key political institutions of the United States, focusing on the presidency, the legislative process, federalism, the courts, and political parties. Note: open to first-year students.\r\nCourse credit exclusions: GL/POLS 3230 6.00, AP/POLS 3540 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Local to Global: City and Nation in the Age of Globalization",
+            "prereqs": "",
+            "desc": "Examines political experience in the era of globalization. Issues covered include work in the global city; immigration and racism; culture and media; women and the international division of labour, and; environmental sustainability."
+        },
+        {
+            "dept": "pols",
+            "code": "3990",
+            "credit": 3.0,
+            "name": "Supervised Reading and Research",
+            "prereqs": "",
+            "desc": "Students in their third-year may take independent, individually-supervised reading/research courses, either on a full-year or half-year basis, when the student and the course meet the requirements set by the Faculty of Liberal Arts and Professional Studies and those established by the department. Note: Please consult the Faculty of Liberal Arts and Professional Studies Academic Advising and Student Responsibility section for regulations on independent reading courses. Prerequisite: Permission of the director of undergraduate studies."
+        },
+        {
+            "dept": "pols",
+            "code": "3990",
+            "credit": 6.0,
+            "name": "Supervised Reading and Research",
+            "prereqs": "",
+            "desc": "Students in their third-year may take independent, individually-supervised reading/research courses, either on a full-year or half-year basis, when the student and the course meet the requirements set by the Faculty of Liberal Arts and Professional Studies and those established by the department. Note: Please consult the Faculty of Liberal Arts and Professional Studies Advising and Student Responsibility section for regulations on independent reading courses. Prerequisite: Permission of the director of undergraduate studies."
+        },
+        {
+            "dept": "pols",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Politics in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Politics in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Politics in the intermediate and senior grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "pols",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Politics in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Politics in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Politics areas in order to further develop students' expertise for teaching this subject. ED/POLS 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "pols",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "History of Political Thought",
+            "prereqs": "",
+            "desc": "A seminar examining a major theme or problem derived from the writings of one or more central figures in Western political theory."
+        },
+        {
+            "dept": "pols",
+            "code": "4025",
+            "credit": 3.0,
+            "name": "Freedom and Equality",
+            "prereqs": "",
+            "desc": "Freedom and equality are two of the fundamental conditions for democracy, and as such they provide the ethical basis for much of contemporary political theory. The course explores conflicting conceptions of freedom and equality, their interrelationship and the implications of contemporary developments in this important field of political morality."
+        },
+        {
+            "dept": "pols",
+            "code": "4030",
+            "credit": 3.0,
+            "name": "Classical Political Theory",
+            "prereqs": "",
+            "desc": "An analysis of a number of texts in classical political theory, focusing on primary texts rather than secondary works, relevant to Greek, Hellenistic and Roman politics. \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Couse credit exclusion: AS/POLS 4030 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "4035",
+            "credit": 6.0,
+            "name": "The Emergence of Modernity",
+            "prereqs": "",
+            "desc": "Examines the emergence of modernity as a response to Enlightenment crisis. Focusing on conflicting conceptions of reason, values and emotional experience in the modern institutional context, the modern bases of contemporary social and political life are explored. Course credit exclusions: GL/PHIL 3637 6.00, GL/POLS 3637 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "4040",
+            "credit": 3.0,
+            "name": "Thinking Politics Today: Contemporary Political Theory",
+            "prereqs": "pols2900",
+            "desc": "Analyzes the nature and the elements of the political as defined by contemporary political theorists. Examines how theory tries to\r\nunderstand political phenomenon through notions such as democracy, power, division, conflict, and authority. Evaluates the\r\nrelationship between contemporary political theory and the classical, medieval and modern traditions of political theory.\r\nPrerequisite: AP/POLS 2900 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "4055",
+            "credit": 3.0,
+            "name": "The Idea of Democracy",
+            "prereqs": "",
+            "desc": "Examines texts in contemporary democratic theory, focusing on debates pertaining to (a) capitalism and democracy versus socialism and democracy; (b) modern democratic political representation; (c) new models and strategies for the democratization of state and economy."
+        },
+        {
+            "dept": "pols",
+            "code": "4060",
+            "credit": 3.0,
+            "name": "Slavery and Freedom",
+            "prereqs": "",
+            "desc": "This course examines the development of concepts of freedom in relation to the experience of enslavement. The history of ancient Greece and Rome will be discussed in this regard, but the focus is on anti-slavery struggles in the forging of freedom in the modern world.\r\nPrerequisites: One 2000-level Political Science course."
+        },
+        {
+            "dept": "pols",
+            "code": "4065",
+            "credit": 3.0,
+            "name": "Critical Theory: Society and Politics",
+            "prereqs": "",
+            "desc": "Is modern western thought a coercive and dominating ideology? This course uses critical theory to explore this question about rationality and its relation to exploitation, culture, language and the body."
+        },
+        {
+            "dept": "pols",
+            "code": "4075",
+            "credit": 3.0,
+            "name": "Encounters of Islam and Modernity",
+            "prereqs": "",
+            "desc": "This course is a secular and comparative examination of religious institutions, movements and texts crucial to the public culture of Islam from the 18th century onwards. Course material includes critical readings on encounters between Islam and other religions and civilizations."
+        },
+        {
+            "dept": "pols",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Travail individuel",
+            "prereqs": "",
+            "desc": "Le d\u00e9partement de science politique permet aux \u00e9tudiant(e)s de prendre des cours de lectures dirig\u00e9es (individuels) jusqu'\u00e0 un maximum de neuf cr\u00e9dits. Ces cours sont initi\u00e9s par les \u00e9tudiants qui doivent pr\u00e9senter un sujet au professeur qui, ensuite, d\u00e9cide si elle/il peut ou veut encadrer le projet. Les cours requi\u00e8rent habituellement un ou deux travaux, ou une s\u00e9rie de lectures \u00e0 faire et \u00e0 discuter avec le/la professeur(e)."
+        },
+        {
+            "dept": "pols",
+            "code": "4101",
+            "credit": 3.0,
+            "name": "Arctic Politics",
+            "prereqs": "",
+            "desc": "This course focuses on the position of Canada in the Arctic. It explores the nature of Canada's relationship to the Arctic, our concerns about sovereignty, the role of the military and the role that indigenous peoples play. Finally, we examine the role that environmental change plays in the new debate over the future of the Arctic as a focus for potential resource extraction and international trade.\n"
+        },
+        {
+            "dept": "pols",
+            "code": "4102",
+            "credit": 3.0,
+            "name": "Advanced Topics in Indigenous Politics",
+            "prereqs": "",
+            "desc": "This course provides a more in-depth examination of critical issues pertaining to and relevant to Indigenous Peoples.  This course contemplates Indigenous experiences and relations with the state, society and economy. Major themes addressed can include the legacy of colonialism; the struggle for decolonization; the role of Indigenous knowledge and ways of knowing; land management and experiences with resource extraction (pipelines and protests for example); law; and self-determination, land claims and self-government. "
+        },
+        {
+            "dept": "pols",
+            "code": "4103",
+            "credit": 3.0,
+            "name": "Diversity and Politics in Canada",
+            "prereqs": "",
+            "desc": "This course analyzes the limitations and possibilities of diversity in Canada by exploring policies concerning immigration, multiculturalism, Aboriginal peoples and francophones, as well as examining the systemic oppression of racial, ethnic, linguistic, sexual and gender groups in Canada."
+        },
+        {
+            "dept": "pols",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Canadian Urban Policy",
+            "prereqs": "",
+            "desc": "Examines the influence of government policy on the development of cities and the characteristics of urban life. It provides a historical, institutional and theoretical framework for understanding and analyzing Canadian urban policy-making and policy implementation."
+        },
+        {
+            "dept": "pols",
+            "code": "4115",
+            "credit": 6.0,
+            "name": "The Political Economy of the State and Finance",
+            "prereqs": "",
+            "desc": "Examines the political economy of the modern state from different approaches, with particular attention to the modern fiscal-welfare state, taxation and economic policy, inter-state coordination. This will also include the study of issues of finance in relation to central bank policies, money markets and the funding of governments. The challenges posed by globalization and the new politics of austerity for economic policy and alternate egalitarian policies will also be examined.\n"
+        },
+        {
+            "dept": "pols",
+            "code": "4125",
+            "credit": 3.0,
+            "name": "Gender and Current Policy Issues",
+            "prereqs": "",
+            "desc": "This course begins by evaluating selected feminist theories in the light of their ability to explain policy developments. The course examines the implications of public policies implemented in the context of the economic, social and political restructuring of the last 20 years. A range of issues are examined, including for example, income security, childcare, globalization and migration, health care and equality struggles."
+        },
+        {
+            "dept": "pols",
+            "code": "4130",
+            "credit": 6.0,
+            "name": "Politics, Law and the Courts",
+            "prereqs": "",
+            "desc": "Students are introduced to the administration of justice in Canada. Its focus is on the relationship between the administration of the legal system and the outcomes of civil and criminal disputes. Course credit exclusions: AP/POLS 4401 3.00, AP/SOSC 4362 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "4155",
+            "credit": 3.0,
+            "name": "Politics of the Women's Movements in Canada ",
+            "prereqs": "",
+            "desc": "Examines the politics of the women's movements in Canada, emphasizing their historical and contemporary developments. We examine women's organising initiatives from the mid 19th century to the present in light of Canada's unique political structures and current challenges to feminism.\nPreviously offered as: AP/WMST 4503 3.00, GL/WMST 4503 3.00"
+        },
+        {
+            "dept": "pols",
+            "code": "4165",
+            "credit": 3.0,
+            "name": "Canadian Social Policy in Comparative Perspective",
+            "prereqs": "",
+            "desc": "The course analyzes social policy in Canada, seen in the context of social policy developments in other areas of the world. The major focus is on challenges for Canadian social policy in the current era. Topics to be examined may include, for example, the impact of the turn to neoliberalism, growing class, gender, racial and other inequalities, the economic crisis and austerity, and possible responses and alternatives. This course assumes that students have some background in Canadian government and politics."
+        },
+        {
+            "dept": "pols",
+            "code": "4185",
+            "credit": 6.0,
+            "name": "Culture and Communication",
+            "prereqs": "",
+            "desc": "Explores contemporary issues of cultural theory and their application to cultural and communication policies in Canada."
+        },
+        {
+            "dept": "pols",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Peace Research",
+            "prereqs": "",
+            "desc": "Examines the rationale, assumptions and key issues of peace research, focusing on the possible contributions which peace research can bring to the processes of social change. The course begins with an examination of power, both within the contemporary strategic environment and within the discipline of peace research. A series of issues is then examined, including militarism, feminist perspectives on peace, eco-politics, etc."
+        },
+        {
+            "dept": "pols",
+            "code": "4212",
+            "credit": 3.0,
+            "name": "Political Ethics",
+            "prereqs": "",
+            "desc": "This course examines ethical problems and paradoxes that arise in modern political life. It emphasises theoretical and practical perspectives with particular attention to political ethics in democracies. Topics include coercion, justice, secrecy, deception, political violence, corruption, war, and torture."
+        },
+        {
+            "dept": "pols",
+            "code": "4215",
+            "credit": 3.0,
+            "name": "Global Governance",
+            "prereqs": "",
+            "desc": "This course explores the ideas, institutions and practices of associated with global governance, with a particular emphasis on the forces shaping contemporary global politics (e.g. states, cultures, social movements) as well as the challenges and opportunities they may confront in influencing global structural change. "
+        },
+        {
+            "dept": "pols",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Canadian Foreign Policy",
+            "prereqs": "",
+            "desc": "A research seminar focusing on such topics as Canada's role in NATO and NORAD, the Law of the Sea Conference, relations with the United States, North-South issues, international economic trends and domestic sources of foreign policy."
+        },
+        {
+            "dept": "pols",
+            "code": "4265",
+            "credit": 3.0,
+            "name": "Human Rights and Democracy in Asia",
+            "prereqs": "",
+            "desc": "The course examines the international politics of human rights and democracy in the region as a window on theoretical and other debates over the universality, origins and purposes of these norms and related institutions in a context of globalization. \r\nCourse credit exclusions: None.  \r\n\r\nPrior TO FALL 2009: Course credit exclusions: AS/POLS 4265 3.00, AS/POLS 4705 3.00 (prior to Fall/Winter 2003-2004)."
+        },
+        {
+            "dept": "pols",
+            "code": "4280",
+            "credit": 3.0,
+            "name": "Canadian Foreign Policy",
+            "prereqs": "",
+            "desc": "This course analyzes Canadian foreign policy, focusing on the policy making process and the tactics of Canadian diplomacy to advance \r\nCanada\u0092s political, economic, and security interests through international organizations and strategic alliances. \r\nCourse credit exclusion: AP/POLS 4250 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "4290",
+            "credit": 3.0,
+            "name": "Topics in International Political Economy",
+            "prereqs": "",
+            "desc": "An examination of the actors, processes and issues involved in the politics of international economic relations. \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Course credit exclusion: AS/POLS 4290 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "4291",
+            "credit": 3.0,
+            "name": "Capital and Power in the Global Political Economy",
+            "prereqs": "",
+            "desc": "This course focuses on the connection between capital and power in the international political economy. The interaction between capital, labour, states and other social groups is examined, with particular attention paid global capital accumulation and state restructuring. "
+        },
+        {
+            "dept": "pols",
+            "code": "4292",
+            "credit": 6.0,
+            "name": "Political Economy of Capital Accumulation",
+            "prereqs": "",
+            "desc": "Examines capital as the central power institution of capitalism. It traces the evolution of accumulation from conceptual, historical and empirical perspectives, while helping students develop their ability to engage in independent research."
+        },
+        {
+            "dept": "pols",
+            "code": "4295",
+            "credit": 3.0,
+            "name": "Political Economy of Global Finance",
+            "prereqs": "pols3275",
+            "desc": "Examines the functioning and broader ramifications of international finance. Emphasis is put on how financial markets operate, their historical evolution and their larger role in the working of the global political economy. Prerequisite: AP/POLS 3275 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "pols",
+            "code": "4402",
+            "credit": 3.0,
+            "name": "Protest Movements and Democracy",
+            "prereqs": "",
+            "desc": "This seminar surveys the critical understandings of democracy articulated by several mass protest movements throughout the world, including populism; women's movements; labour activism; and the politics of difference. Democracy is explored as a contested concept in various spatial and historical contexts."
+        },
+        {
+            "dept": "pols",
+            "code": "4403",
+            "credit": 3.0,
+            "name": "Economic Unions and Globalization",
+            "prereqs": "",
+            "desc": "This course explores how economic globalization fosters the tendency to form regional sub-global economic and political entities. Topics include an analysis of the trajectories of a number of economic unions like the EU, NAFTA, Mercosur and others."
+        },
+        {
+            "dept": "pols",
+            "code": "4405",
+            "credit": 3.0,
+            "name": "Capitalism, Class and Social Movements",
+            "prereqs": "",
+            "desc": "Capitalism, class, and history have been relatively neglected by mainstream scholars in the field of Social Movement Studies since the early 1980s. This course reintroduces these themes to the study of social movements, drawing on classic thinkers such as Karl Marx, Rosa Luxemburg, and EP Thompson. It then explores a series of contemporary social movements from around the world. "
+        },
+        {
+            "dept": "pols",
+            "code": "4406",
+            "credit": 3.0,
+            "name": "The Contemporary Politics of Work and Labour",
+            "prereqs": "",
+            "desc": "An analysis of the ability of late-capitalist political and economic institutions to restructure and project themselves anew, including more flexible forms of production and new political alliances. Forces shaping the contemporary politics of work and labour are examined, as well as the restructuring of waged work, and the altering spatial patterns of production."
+        },
+        {
+            "dept": "pols",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Social Justice and Political Activists",
+            "prereqs": "",
+            "desc": "This seminar surveys alternative philosophical terrains for discussing social justice and past approaches to constructing a better world. Its main focus is social justice in modern capitalism - not just as a matter of alternative policies, but of alternative politics."
+        },
+        {
+            "dept": "pols",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Democracy and Authoritarianism",
+            "prereqs": "",
+            "desc": "This course analyzes democracy and authoritarianism in various countries throughout the world. Topics include the causes of democratization, democratic backsliding and rising populism worldwide, presidential power and hyperpresidentialism, how different authoritarian regimes work, and the state of American democracy."
+        },
+        {
+            "dept": "pols",
+            "code": "4440",
+            "credit": 3.0,
+            "name": "Global Governance &amp; Politics in Comparative Perspective",
+            "prereqs": "",
+            "desc": "The global order is undergoing fundamental changes, giving rise to increasingly complex problems of international organization and global governance - including international economic inequality and instability, conflict and peace-building, global environmental change, international development assistance, and humanitarian crises and intervention.  How are these problems addressed at the global level? Are the mechanisms for addressing these challenges effective or just?  The course addresses the above questions, giving focused attention to two dimensions of global change, the rising powers, and global governance."
+        },
+        {
+            "dept": "pols",
+            "code": "4450",
+            "credit": 3.0,
+            "name": "Political Economy and Political Power",
+            "prereqs": "",
+            "desc": "Offers a critical understanding of political power. It discusses the meaning and origin of power, its intertwining with the social division of labor, its relationship to economic and ideological power. Further, the course offers a critical analysis of the state, political processes, leadership, and the establishment of consensus. It then discusses the conditions and implications of democracy.\r\n\r\n\r\n\r\n\r\n"
+        },
+        {
+            "dept": "pols",
+            "code": "4470",
+            "credit": 3.0,
+            "name": "Working Class Politics in Capitalist Democracies",
+            "prereqs": "",
+            "desc": "This course seeks to understand the current parameters of working class politics through a theoretical and historical examination of the relationship between parties, trade unions and the democratic capitalist state."
+        },
+        {
+            "dept": "pols",
+            "code": "4490",
+            "credit": 3.0,
+            "name": "Inequality, Development and the Global South",
+            "prereqs": "",
+            "desc": "This seminar examines diverse approaches to understanding the challenges, political and economic, that confront &quot;the South&quot; within the global capitalist system, emphasizing issues of &quot;underdevelopment&quot;, poverty and resistance, and making comparisons between diverse states, movements and development strategies across regions (Africa, South and East Asia, the Middle East and Latin America)."
+        },
+        {
+            "dept": "pols",
+            "code": "4517",
+            "credit": 3.0,
+            "name": "Debates in Contemporary European Union Politics",
+            "prereqs": "pols3520",
+            "desc": "This course assumes students have a basic knowledge of the EU and its institutions. The course considers how multi-level structures of governance and multiple actors are involved in compromise, negotiation and policy making in Europe. This course uses debates, simulations and other interactive tools to address the complex issues facing the European Union and its member states. Prerequisites: AP/POLS 3520 3.00 or the permission of the Instructor."
+        },
+        {
+            "dept": "pols",
+            "code": "4546",
+            "credit": 3.0,
+            "name": "Politics, Society and Democracy in the United States",
+            "prereqs": "",
+            "desc": "Explores the disjunction between US democratic ideals and practices within their political-economic context. Social, economic and ethnic inequalities are scrutinized in light of the strong symbolism provided by the US constitution and democratic institutions."
+        },
+        {
+            "dept": "pols",
+            "code": "4555",
+            "credit": 3.0,
+            "name": "Latin American Development",
+            "prereqs": "",
+            "desc": "An examination of the processes and issues connected with development in Latin America including the impact of political economy on culture and on women."
+        },
+        {
+            "dept": "pols",
+            "code": "4575",
+            "credit": 3.0,
+            "name": "The Politics of Southern Africa",
+            "prereqs": "",
+            "desc": "Examines South Africa's racial capitalist system and resistance to it, focusing on the present transition to a more equitable political and economic system. The course also explores the current situation in other southern Africa countries (Angola, Mozambique, Namibia, Zimbabwe)."
+        },
+        {
+            "dept": "pols",
+            "code": "4595",
+            "credit": 3.0,
+            "name": "Asia in the New Global Order",
+            "prereqs": "",
+            "desc": "Using East, Southeast, and South Asia as its focus, this course addresses questions relating to economic development, political change and security in the emerging global order. It stimulates interest in politics and international relations of countries in these Asian sub-regions."
+        },
+        {
+            "dept": "pols",
+            "code": "4601",
+            "credit": 3.0,
+            "name": "Issues in International Law",
+            "prereqs": "ilst3650 ilst3652",
+            "desc": "This seminar examines various advanced issues in the field of international law that are relevant to an interdisciplinary approach to international affairs.\r\nPrerequisite: GL/ILST 3650 3.00 or GL/ILST 3652 3.00, or permission from the professor."
+        },
+        {
+            "dept": "pols",
+            "code": "4603",
+            "credit": 3.0,
+            "name": "Politics of the Women's Movements in Canada ",
+            "prereqs": "",
+            "desc": "Examines the politics of the women's movements in Canada, emphasizing their historical and contemporary developments. We examine women's organising initiatives from the mid 19th century to the present in light of Canada's unique political structures and current challenges to feminism.\nPreviously offered as: AP/WMST 4503 3.00, GL/WMST 4503 3.00"
+        },
+        {
+            "dept": "pols",
+            "code": "4604",
+            "credit": 3.0,
+            "name": "Gender, Politics and Culture",
+            "prereqs": "",
+            "desc": "This course develops students\u0092 understanding of the theoretical and empirical foundations that constitute the sociological study of gender.  Using an intersectional lens, it examines the structuring role that gender plays in various societal domains, including everyday social interactions, culture and media, production and reproduction, nationhood and citizenship, and politics and diversity."
+        },
+        {
+            "dept": "pols",
+            "code": "4609",
+            "credit": 3.0,
+            "name": "Sovereignty",
+            "prereqs": "",
+            "desc": "This course examines \u0093sovereignty\u0094 and the authority of law. Who can be the sovereign? How does the emergence of sovereignty\r\nrelate to the state system? How can the concept help or hinder how we understand political authority and law?"
+        },
+        {
+            "dept": "pols",
+            "code": "4610",
+            "credit": 3.0,
+            "name": "States, Societies &amp; Information  Technology",
+            "prereqs": "",
+            "desc": "Offers a critical understanding of the dynamic between political power and information and communication technologies (ICTs). It discusses the role of information technologies in the formation and development of state power and in the development of civil society and its various communities and institutions. Of special concern is the tension between states and societies and the role of ICTs in that tension."
+        },
+        {
+            "dept": "pols",
+            "code": "4618",
+            "credit": 3.0,
+            "name": "Diplomacy",
+            "prereqs": "",
+            "desc": "This course examines the history and nature of diplomacy, its role in international politics, its various dimensions, the changes that it has undergone as in its development and practice, particularly economic negotiations, and its future either as an alternative or complement to the use of force."
+        },
+        {
+            "dept": "pols",
+            "code": "4637",
+            "credit": 3.0,
+            "name": "Deliberation and Participation",
+            "prereqs": "",
+            "desc": "This course examines debates about deliberation and participation in contemporary political and legal discourse. Drawing on contemporary political theory and court cases, students examine issues surrounding participation, activism, the role of citizens versus elites or experts, and democratic dissent."
+        },
+        {
+            "dept": "pols",
+            "code": "4640",
+            "credit": 3.0,
+            "name": "The Idea of Democracy",
+            "prereqs": "",
+            "desc": "\u0093Democracy\u0094 is an over-used and very flexible word. Its literal meaning is \u0093rule by the people\u0094 but in \u0093liberal democracy\u0094 there is a greater emphasis on civil liberties. This course will critically explore the various meanings of this complex idea."
+        },
+        {
+            "dept": "pols",
+            "code": "4652",
+            "credit": 3.0,
+            "name": "Borders, Displacement, and the State",
+            "prereqs": "",
+            "desc": "This course analyzes the role of population displacement in state transformation, drawing on both historical and contemporary cases to show how migration both contests and shapes borders and the relationship between citizens, the state, and society more broadly."
+        },
+        {
+            "dept": "pols",
+            "code": "4681",
+            "credit": 3.0,
+            "name": "Politique et gestion de la diversit\u00e9",
+            "prereqs": "",
+            "desc": "Ce cours pr\u00e9sente et analyse les diff\u00e9rents mod\u00e8les d'int\u00e9gration et de gestion de la diversit\u00e9 ethnoculturelle dans les r\u00e9gimes d\u00e9mocratiques tels que le multiculturalisme au Canada et en Grande-Bretagne, le r\u00e9publicanisme en France, et l'interculturalisme au Qu\u00e9bec et en Belgique."
+        },
+        {
+            "dept": "pols",
+            "code": "4685",
+            "credit": 3.0,
+            "name": "The Foreign Policy of the Major Asian States",
+            "prereqs": "",
+            "desc": "A comparative study of the foreign policies in China, Japan and India, with an emphasis on policy-making and policy outputs. Examples will be drawn from territorial, security and economic issues."
+        },
+        {
+            "dept": "pols",
+            "code": "4810",
+            "credit": 3.0,
+            "name": "Politics and Public Policy in Europe",
+            "prereqs": "",
+            "desc": "Public policy traditionally focuses on domestic politics but decades of integration have significantly altered the conduct of government and governance in Europe. This course analyzes European politics and public policy in areas such as migration, citizenship, borders, economics, and law."
+        },
+        {
+            "dept": "pols",
+            "code": "4905",
+            "credit": 3.0,
+            "name": "Political Economy and Political Power ",
+            "prereqs": "",
+            "desc": "We often take power's meaning for granted. Where does it come from? How does economic power influence political power? In this course students consider how production, wealth, and accumulation affect the framing and resolution of political questions."
+        },
+        {
+            "dept": "pols",
+            "code": "4990",
+            "credit": 3.0,
+            "name": "Supervised Reading and Research",
+            "prereqs": "",
+            "desc": "Students in their fourth-year may take independent, individually-supervised reading/research courses, either on a full-year or half-year basis, when the student and the course meet the requirements set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Note: Please consult the Faculty of Liberal Arts and Professional Studies Academic Advising and Student Responsibility section for regulations on independent reading courses. Prerequisite: The permission of the undergraduate program director."
+        },
+        {
+            "dept": "pols",
+            "code": "4990",
+            "credit": 6.0,
+            "name": "Supervised Reading and Research",
+            "prereqs": "",
+            "desc": "Students in their fourth-year may take independent, individually-supervised reading/research courses, either on a full-year or half-year basis, when the student and the course meet the requirements set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Note: Please consult the Faculty of Liberal Arts and Professional Studies Academic Advising and Student Responsibility section for regulations on independent reading courses. Prerequisite: The permission of the undergraduate program director.\r"
+        },
+        {
+            "dept": "pols",
+            "code": "6000A",
+            "credit": 3.0,
+            "name": "M.A. Colloquium                        ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "pols",
+            "code": "6010",
+            "credit": 6.0,
+            "name": "Symposium In Political Theory          ",
+            "prereqs": "",
+            "desc": "(Core Course) A comprehensive survey of representative works in traditional political thought from antiquity to the nineteenth century.\n"
+        },
+        {
+            "dept": "pols",
+            "code": "6045",
+            "credit": 3.0,
+            "name": "Gramsci and Contemporary Political Theory: The Challenge of Post-Modernism",
+            "prereqs": "",
+            "desc": "Explores the influence of Antonio Gramsci on current political thought. It begins with a careful examination of some of Gramsci's main ideas. Among them, the concepts of hegemony and ethico-political life, his views on the state, and the general theoretical assumptions of this brand of historicism will be given particular attention. In the second half, current debates on the same issues will be explored with the aim of both seeing the limitations of Gramsci and postmodernism, and critically assessing the historical and theoretical assumptions of some current social and political theory."
+        },
+        {
+            "dept": "pols",
+            "code": "6070",
+            "credit": 3.0,
+            "name": "The Critical Theory of the Frankfurt School - Adorno, Marcuse, Horkheimer",
+            "prereqs": "",
+            "desc": "Covers the themes of critique, 'negative' thought and utopian possibility in the works of Frankfurt School Critical Theorists Adorno, Herbert Marcuse and Max Horkheimer. We will explore their critiques of western philosophy, Reason, consciousness, ideology, capitalism, mass consumer/popular culture, aesthetics, mass psychology and authoritarianism, as well as their philosophical, historical, social, cultural and political contexts and the implications of their distinctive analysis. Course credit exclusion: GS/SPTH 6600 6.00, GS/POLS 6070 6.00."
+        },
+        {
+            "dept": "pols",
+            "code": "6085",
+            "credit": 3.0,
+            "name": "The Politics of PostIdentity",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "pols",
+            "code": "6086",
+            "credit": 3.0,
+            "name": "Thinking Power and Violence:  from Nietzsche to Agamben",
+            "prereqs": "",
+            "desc": "About the meaning of power and violence as fundamental categories of human existence. The course is concerned with violence in many forms and manifestations: violence at the foundation of human community, conservative violence, \u0091divine violence,\u0092 redemptive violence, self as violence against self and other, exclusionary violence, the violence of liberal freedom and the commodity, counter-hegemonic violence, the violence of the spectacle, the violence of outsiders and gender violence. Course credit exclusion: GS/SPTH 6632 3.00."
+        },
+        {
+            "dept": "pols",
+            "code": "6110",
+            "credit": 6.0,
+            "name": "Canadian Government and Politics",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "pols",
+            "code": "6130",
+            "credit": 3.0,
+            "name": "The State and Society In Canada             ",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "pols",
+            "code": "6145",
+            "credit": 3.0,
+            "name": "Indigenous Politics: Decolonization or &quot;Development&quot;?",
+            "prereqs": "",
+            "desc": "Explores indigenous development experiences in Canada and throughout the world, in comparative perspective. It draws on theories of development and underdevelopment and examines the sociology, politics and economics of development as well as environmental and cultural implications."
+        },
+        {
+            "dept": "pols",
+            "code": "6155",
+            "credit": 3.0,
+            "name": "Democratic Administration",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "pols",
+            "code": "6200",
+            "credit": 6.0,
+            "name": "Adv. Study In International Relations  ",
+            "prereqs": "",
+            "desc": "(Core Course) Close study, for advanced candidates only, of the literature of the field.\n"
+        },
+        {
+            "dept": "pols",
+            "code": "6220",
+            "credit": 3.0,
+            "name": "Contemporary Security Studies:  Conflict, Intervention, and Peacebuilding",
+            "prereqs": "",
+            "desc": "\r\n"
+        },
+        {
+            "dept": "pols",
+            "code": "6245",
+            "credit": 3.0,
+            "name": "The Global Politics of Health",
+            "prereqs": "",
+            "desc": "Examines health at the intersection between global and national political terrains. It explores the impact of extensive biomedical development, national competition, and international trade on both the \u0091reality\u0092 and delivery of health for populations."
+        },
+        {
+            "dept": "pols",
+            "code": "6250",
+            "credit": 3.0,
+            "name": "Neoliberalism",
+            "prereqs": "",
+            "desc": "Examines the theories, practices, implicit rationalities, and tensions/contradictions of neoliberalism."
+        },
+        {
+            "dept": "pols",
+            "code": "6271",
+            "credit": 3.0,
+            "name": "Political Economy:  Major Texts",
+            "prereqs": "",
+            "desc": "An in-depth introduction to major texts in the history of political economy, in this course we shall analyze texts by such thinkers as Adam Smith, Karl Marx, and J.M. Keynes with particular attention to issues having to do with methodology, the nature of the economic, and the relation of the economic to other areas of social life.\r\nSame as Social and Political Thought 6271 3.0\r\n\r\n"
+        },
+        {
+            "dept": "pols",
+            "code": "6285",
+            "credit": 3.0,
+            "name": "Global Capital",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "pols",
+            "code": "6340",
+            "credit": 6.0,
+            "name": "Quantitative Analysis",
+            "prereqs": "",
+            "desc": "The course focuses on the use of regression models to analyze surveys and other social data. Assuming no prior background, it covers the statistical basics, model building strategies, model assumptions and the interpretation of results."
+        },
+        {
+            "dept": "pols",
+            "code": "6404",
+            "credit": 3.0,
+            "name": "Critical Urban Theory: Epistemologies and Politics",
+            "prereqs": "",
+            "desc": "Examines the critical urban theories and theoretical debates that have informed research questions and political orientations in the field of urban studies since the 1960s. Readings include major texts from feminist, post-structural/colonial and Marxist approaches, and debates over the changing natures of local states, political organizations and justice, generated both in Western and non-Western urban contexts. Students are expected to develop faculties of comparing and critically assessing different theoretical approaches."
+        },
+        {
+            "dept": "pols",
+            "code": "6410",
+            "credit": 6.0,
+            "name": "The Study Of Comparative Politics      ",
+            "prereqs": "",
+            "desc": "An advanced survey of the literature of the field. The course covers comparative politics as a discipline; the range of analytical approaches, methodologies and data employed. Empirical studies of social stratification\nand political participation, ideology and regimes, government institutions, and processes of political crisis and change in advanced capitalist, communist and third world countries will also be examined."
+        },
+        {
+            "dept": "pols",
+            "code": "6435",
+            "credit": 3.0,
+            "name": "Capitalism, the State and Social Provisioning",
+            "prereqs": "",
+            "desc": "This course examines the relationship between the development of capitalism and attempts to address &quot;the social&quot;, focusing in particular on the contradictions, possibilities and limits as capitalist states attempt to deal with social provisioning in the current era.  The course first examines theoretical and historical perspectives, including the formation of welfare states and their subsequent crisis and restructuring.  The second section focuses on neo-liberalism and how it has altered the nature of social provisioning.  The third section examines the period since the 2008 financial crisis, the growing use of debt as a form of social provisioning, and the implications of on-going austerity measures. A theme running throughout the course is how hierarchies of gender, race/ethnicity and class have formed part of the transformations that have taken place and created differential impacts."
+        },
+        {
+            "dept": "pols",
+            "code": "6465",
+            "credit": 3.0,
+            "name": "Rebellion and Revolution in Modern Latin America",
+            "prereqs": "",
+            "desc": "This course covers the neglected role of popular movements - from rebellion to revolution - in shaping modern political and economic order in Latin America. A recurring theme is the balance of historical structure and conjunctural agency, of economics and politics, in enabling and inhibiting rebellion and revolution, and in determining lasting modes of political and economic order, as well as moments of transformation and re-organization."
+        },
+        {
+            "dept": "pols",
+            "code": "6485",
+            "credit": 3.0,
+            "name": "Contemporary Social Transformations:  Knowledge, Political Economy and Agency",
+            "prereqs": "",
+            "desc": "The course examines contemporary debates about social transformations with particular emphasis on the dimensions of knowledge, political economy and agency.  Its objective is to assist students in formulating their own critical inquiry about transformative processes."
+        },
+        {
+            "dept": "pols",
+            "code": "6515",
+            "credit": 3.0,
+            "name": "The Making of the Modern Middle East: Politics, States and Societies",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "pols",
+            "code": "6525",
+            "credit": 3.0,
+            "name": "Diasporas:  Transnational Communities and Limits of Citizenship",
+            "prereqs": "",
+            "desc": "Provides a comparative inquiry about the nature of transnational communal, religious, and political identities at the age of late capitalism. It puts emphasis on critical approaches to diasporas, their variant constructions of homeland and home, and their marked effects on the politics of the post-Westphalian state and international relations. "
+        },
+        {
+            "dept": "pols",
+            "code": "6566",
+            "credit": 3.0,
+            "name": "Advanced Topics in Latin American and Caribbean Politics",
+            "prereqs": "",
+            "desc": "Examines the impact of international economic integration on Latin America and the Caribbean. It focuses on the social impact of \rglobalization and the responses that these changes call forth: state\rpolicies, the rise of new political parties, unions and grassroots\rorganizations and, in particular, international migration a transnationalism."
+        },
+        {
+            "dept": "pols",
+            "code": "6570",
+            "credit": 3.0,
+            "name": "Advanced Topics in the Politics of the Global South: Developmental States in the Twenty-First Century",
+            "prereqs": "",
+            "desc": "This course seeks to theorize and empirically examine the dynamics of state-society-economy interactions in the Global South in the context of the experiences of neoliberal globalisation, new historical cases of state developmentalism and emerging alternative models of 'development'. "
+        },
+        {
+            "dept": "pols",
+            "code": "6700",
+            "credit": 6.0,
+            "name": "Advanced Studies in Women and Politics",
+            "prereqs": "",
+            "desc": "Advanced study of the relationship between women and politics, focusing on theoretical analyses of women\u0092s political role.  Topics include the treatment of women in political theory, empirical analyses of women in the literatures of comparative politics and international relations, feminist critiques of political science.\r\nCore course"
+        },
+        {
+            "dept": "pols",
+            "code": "6711",
+            "credit": 3.0,
+            "name": "Black Radical Thought",
+            "prereqs": "",
+            "desc": "The aim of this seminar is to introduce students to 20th century revolutionary thought that was produced through black struggle against legacies of slavery, colonialism, and imperialism. It engages specifically with the ideas of C.L.R. James, Frantz Fanon, Claudia Jones, and Walter Rodney, all of Caribbean descent, whose intellectual and political work has had international impact."
+        },
+        {
+            "dept": "pols",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Contemporary Research in Politics",
+            "prereqs": "",
+            "desc": "A course normally offered on a one or two time only basis by a short term member of the program (usually a visiting professor) examining the current research of the Instructor."
+        },
+        {
+            "dept": "pols",
+            "code": "6990A",
+            "credit": 6.0,
+            "name": "Reading Course",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "pols",
+            "code": "6990A",
+            "credit": 3.0,
+            "name": "Reading Course",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "pols",
+            "code": "6990",
+            "credit": 6.0,
+            "name": "Reading Course",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "pols",
+            "code": "6990",
+            "credit": 3.0,
+            "name": "Reading Course",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "pols",
+            "code": "6999",
+            "credit": 6.0,
+            "name": "M.A. Major Research Paper",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "pols",
+            "code": "7100",
+            "credit": 3.0,
+            "name": "Political Inquiry and Research Design",
+            "prereqs": "",
+            "desc": "This course engages political inquiry and research design. We will focus on concrete and practical issues of conducting research: picking a topic; generating and asking key research questions; articulating and grappling with strategies of research and specific research methods\r\nsuch as case studies, surveys, interviews, field work, archival research and sampling procedures. We will also consider how to code data and how to work with data sets, combining quantitative and qualitative methods, content and discourse analysis; and finally, spend some\r\ntime discussing research ethics. The course is designed for PhD students in Political Science who are writing dissertation proposals."
+        }
+    ]
+}

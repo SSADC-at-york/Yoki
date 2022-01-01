@@ -1,0 +1,52 @@
+{
+    "courses": [
+        {
+            "dept": "imba",
+            "code": "5110",
+            "credit": 0.0,
+            "name": "Business Communication and Culture - ESL I",
+            "prereqs": "",
+            "desc": "This course exposes students to business practices and the use of language in business contexts in the country and region where the language is spoken. The courses is mandatory for all IMBA students whose Placement Oral Proficiency level is below Advanced-High. Non-IMBA students may be granted permission to enrol if their oral proficiency is of the same level as the IMBA students enrolled in the class. There is a fee for this course for non-IMBA students. Prerequisite: intermediate and/or advanced level of oral proficiency in English."
+        },
+        {
+            "dept": "imba",
+            "code": "5114",
+            "credit": 0.0,
+            "name": "Business Communication and Culture - Mandarin I",
+            "prereqs": "",
+            "desc": "The  Mandarin Business Communication and Culture course is a non-credit language course offered in the Fall and Winter terms at the intermediate  and/or advanced level of oral proficiency.  Enrolment is limited to 10 students.  Taught by a native speaker, this course exposes students to business practices and the use of language in business contexts in the country and region where the language is spoken.  The course is mandatory for all IMBA students whose Placement Oral Proficiency level is below Advanced-High.  Non-IMBA students may be granted permission to enrol if their oral proficiency is of the same level as the IMBA students enrolled in the class.  There is a  fee for this course for non-IMBA students.."
+        },
+        {
+            "dept": "imba",
+            "code": "5300",
+            "credit": 9.0,
+            "name": "International Work Term",
+            "prereqs": "",
+            "desc": "A minimum 12 weeks full-time work is required in a country where the student has not had any life or work experience in the last 10 years, and for students with ACTFL OPI levels below Advanced- Mid requiring remedial language study, in a country where the IMBA language is the primary language. Exceptions must be approved by the Program Director.\r\nPrerequisites: Terms one and two Core Courses."
+        },
+        {
+            "dept": "imba",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "International Field Study",
+            "prereqs": "",
+            "desc": "The International Field Study represents the culmination of a student's work in the IMBA program. Working in teams over two terms, students study a client site with an international focus to gain practical insight into the complexity of strategic decisions involved in conducting international business. Students undertake an in- depth analysis of the client's external and internal environments and evaluate the organization's activities to develop actionable recommendations.\r\nPrerequisite: Terms 1 and 2 Core Courses.\r\nCourse Credit Exclusion: SB/MGMT 6100 3.00, SB/ PUBL 6100 3.00"
+        },
+        {
+            "dept": "imba",
+            "code": "6900",
+            "credit": 0.0,
+            "name": "Individual Study: Selected Problems in IMBA",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "imba",
+            "code": "6901",
+            "credit": 0.0,
+            "name": "Individual Study: Selected Problems in IMBA",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

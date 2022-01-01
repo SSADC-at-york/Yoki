@@ -1,0 +1,372 @@
+{
+    "courses": [
+        {
+            "dept": "esse",
+            "code": "1011",
+            "credit": 3.0,
+            "name": "Introduction to Atmospheric Science",
+            "prereqs": "math1515 phys1510",
+            "desc": "The origin, composition and vertical structure of the Earth's atmosphere and those of other planets. The present global atmospheric circulation. Weather systems, measurements and weather maps; atmospheric chemistry; the ozone layer and atmospheric pollution. Five three-hour laboratory sessions. Prerequisites: 12U Calculus and vectors or 12U advanced functions or equivalent; SC/MATH 1515 3.00; 12U physics or SC/PHYS 1510 4.00. Course credit exclusions: LE/EATS 1010 6.00 (prior to Fall 2014), SC/EATS 1010 6.00 (prior Summer 2013), SC/NATS 1750 6.00. Previously offered as: LE/EATS 1011 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "1012",
+            "credit": 3.0,
+            "name": "The Earth Environment",
+            "prereqs": "math1515 phys1510",
+            "desc": "Provides essential topics in Earth environment (Earth and oceanic science, atmospheric science, and geology) and explores the\r\nrole played by global and local scale processes in shaping our planet. Concepts are described; the latest technology discussed, and links\r\nbetween engineering disciplines are provided. The course lectures are complemented by hands-on laboratory and field experience.\r\nPrerequisites: 12U calculus and vectors or 12U advanced functions, or SC/MATH 1515 3.00; 12U physics or SC/PHYS 1510 4.00.\r\nCorequisites: LE/ENG 1101 4.00; LE/ENG 1102 4.00; SC/PHYS 1800 3.00, SC/PHYS 1801 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "1410",
+            "credit": 6.0,
+            "name": "Natural, Technological and Human-induced Disasters",
+            "prereqs": "",
+            "desc": "Examines the science and significance of natural, technological and human-induced disasters, providing an understanding of the physical and other processes that lead to disasters, and their results. Note: This course is not permitted for major credit by students who are Earth and Atmospheric Science program majors."
+        },
+        {
+            "dept": "esse",
+            "code": "2012",
+            "credit": 3.0,
+            "name": "Introduction to Dynamic Meteorology",
+            "prereqs": "eecs1541 math1013 math1014 phys1010 phys1410 phys1800 phys1801",
+            "desc": "An introduction to atmospheric dynamics on the global, synoptic, meso- and micro-scales, interpretation of weather maps, weather prediction and numerical models, convection, thunderstorms, tropical cyclones, and hurricanes. The course lectures are complemented by hands on laboratory experience. Prerequisite(s): LE/EECS 1541 3.00; SC/MATH 1013 3.00 and SC/MATH 1014 3.00, or\nequivalents; SC/PHYS 1010 6.00 or SC/PHYS 1410 6.00 or SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00\n\nDate of submission: 2017-12-05"
+        },
+        {
+            "dept": "esse",
+            "code": "2030",
+            "credit": 3.0,
+            "name": "Geophysics and Space Science",
+            "prereqs": "math1014 phys1800 phys1801 phys1010 phys1410 math1014 phys1010 phys1410",
+            "desc": "Seismic waves, earthquake fault plane solutions, tectonics on a sphere, geochronology, paleomagnetism, Earth's magnetic field, its origin and deformation by solar winds. VLBI measurements of fluctuations of Earth rotation, gravitational perturbations of satellite orbits, planetary exploration and communications issues. Prerequisites: SC/MATH 1014 3.00; SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00 or SC/PHYS 1010 6.00 or a minimum grade of C in SC/PHYS 1410 6.00. PRIOR TO SUMMER 2014: SC/MATH 1014 3.00; SC/PHYS 1010 6.00, or a minimum grade of C in SC/PHYS 1410 6.00."
+        },
+        {
+            "dept": "esse",
+            "code": "2210",
+            "credit": 3.0,
+            "name": "Engineering and the Environment",
+            "prereqs": "",
+            "desc": "This course surveys a variety of Canadian case studies in environmental sustainability from an engineering perspective. The goal of this course is to provide students with exposure to the social aspects of large infrastructure projects, including the environmental assessment and stakeholder consultation processes. Climate change mitigation and adaptation are strong themes of this course."
+        },
+        {
+            "dept": "esse",
+            "code": "2220",
+            "credit": 3.0,
+            "name": "Algorithmic and Computational methods for Geomatics and Space Engineering",
+            "prereqs": "",
+            "desc": "This course provides a basis for the design, development and implementation of computational algorithmic methods specifically for applied geomatics and space engineering applications and trains students to obtain essential skills in algorithmic development for problem solving through the usage of commonlyused industry software tools and programming language(s), and mathematical and statistical algorithms. Examples and applications explored come from the broad common interests in Space Science &amp; Engineering, and Geomatics Science &amp; Engineering. Pre-requisite(s): LE/ENG 1102 4.00, LE/EECS 1021 3.00, SC/MATH 1014 3.00, SC/MATH 1025 3.00; SC/PHYS 1801 3.00. Course Credit Exclusion: EECS 2030 3.00, EECS 2031 3.00, EECS 2032 3.00.\n\nDate of submission: February 6, 2018"
+        },
+        {
+            "dept": "esse",
+            "code": "2361",
+            "credit": 3.0,
+            "name": "Space Systems Engineering",
+            "prereqs": "",
+            "desc": "The objective of this course is to provide the student with an introduction to systems engineering with an emphasis on the following topics: the systems engineering process, requirements, design fundamentals, subsystem fundamentals, trade studies, integration, technical reviews, and case studies. The course is also intended to prepare the student for the payload/mission design courses (LE/ESSE 4360 3.00 and LE/ESSE 4361 3.00) which are more application oriented."
+        },
+        {
+            "dept": "esse",
+            "code": "2470",
+            "credit": 3.0,
+            "name": "Introduction to Continuum Mechanics",
+            "prereqs": "eecs1011 math1025 math2015 phys1800 phys1801 phys1010 phys1410",
+            "desc": "Introductory tensor algebra and calculus. Stress and strain analysis. Symmetry of stress tensor, equilibrium conditions. Lagrangian and Eulerian descriptions of strain. Physical interpretation of stress, strain and strain rate tensors. Conservation laws in continua. Consistency and compatibility considerations. Constitutive relations. Prerequisites: LE/EECS 1011 3.00; SC/MATH 1025 3.00; SC/MATH 2015 3.00; SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00 or SC/PHYS 1010 6.00, or a minimum grade of C in SC/PHYS 1410 6.00."
+        },
+        {
+            "dept": "esse",
+            "code": "2615",
+            "credit": 3.0,
+            "name": "Fundamentals of Geomatics Engineering",
+            "prereqs": "esse1012 math1025 eecs1021 phys1801",
+            "desc": "An introduction and overview of geomatics engineering. The topics discussed in the course provide the fundamentals of all aspects of geomatics engineering as a profession and includes illustrative examples and discussions with practicing geomatics engineers in the field. The course introduces the student to key concepts in geomatics including geodesy, surveying, remote sensing, navigation, mapping and spatial data analytic. The skillsets required of geomatics engineers are investigated. Written and oral technical communication skills are emphasized. Prerequisites: LE/ESSE 1012 3.00, SC/MATH 1025 3.00, LE/EECS 1021 3.00, and SC/PHYS 1801 3.00, or permission of the Instructor."
+        },
+        {
+            "dept": "esse",
+            "code": "2620",
+            "credit": 3.0,
+            "name": "Fundamentals of Surveying",
+            "prereqs": "esse1012 math1014 math1025 math1021",
+            "desc": "Coordinate systems, conventions and transformations. First and second geodetic problems: trig sections, traverses, areas, volumes. Basics of random error theory and error propagation. Basics of map projection. Distance measurements, angular measurements, and heights. Topographic mapping and property surveys. Route surveying. Construction surveying. Introduction to other surveys: alignment surveys for buildings, bridges, dams, tunnels, and pipelines. Prerequisites: LE/ESSE 1012 3.00, SC/MATH 1014 3.00, SC/MATH 1025 3.00 OR SC/MATH 1021 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "2640",
+            "credit": 3.0,
+            "name": "Measurements and Least Squares Estimation ",
+            "prereqs": "math1025 math1014 math2015 math2930 math2565 geog2420 eecs1021 eecs1541",
+            "desc": "Observables, observations, parameters and mathematical models. Random errors in measurements. Error propagation. The least\nsquares principle and applications. Hypothesis tests. Prerequisites: SC/MATH 1025 3.00; SC/MATH 1014 3.00; SC/MATH 2015 3.00; SC/MATH 2930 3.00 or SC/MATH 2565 3.00 or SC/GEOG 2420 3.00; LE/EECS 1021 3.00 or LE/EECS 1541 3.00 or permission of instructor. Course Credit Exclusions: LE/ESSE 3620 3.00. \n\n"
+        },
+        {
+            "dept": "esse",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Global Geophysics and Geodesy",
+            "prereqs": "esse2030 esse2470 phys2010 math2015 math2271 phys2020",
+            "desc": "Studies of isostatic equilibrium and glacial rebound; seismic tomography and spherical harmonic representation of gravity and the geoid; Earth rotation and geodesy; geothermal heat flow and mantle convection. Prerequisites: LE/ESSE 2030 3.00; LE/ESSE 2470 3.00 or SC/PHYS 2010 3.00 or permission of Instructor; SC/MATH 2015 3.00; SC/MATH 2271 3.00; SC/PHYS 2020 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "3030",
+            "credit": 3.0,
+            "name": "Atmospheric Radiation and Thermodynamics",
+            "prereqs": "math2015 math2271 phys1010 phys1410 phys1420",
+            "desc": "Applications of basic thermodynamic principles to dry and moist atmospheric situations. Solar (short wave) and terrestrial (long wave) radiation with respect to absorption and scattering processes involving atmospheric atoms, molecules, aerosol particles and clouds. Prerequisites: SC/MATH 2015 3.0; SC/MATH 2271 3.00; SC/PHYS 1010 6.00, or a minimum grade of C in SC/PHYS 1410 6.00 or SC/PHYS 1420 6.00."
+        },
+        {
+            "dept": "esse",
+            "code": "3040",
+            "credit": 3.0,
+            "name": "Atmospheric Dynamics I",
+            "prereqs": "esse2010 esse2470 phys2010 math2015 math2271 eats2010 eats2470 phys2010 math2015 math2271 eats2010 eats2470 phys2010 math2015 math2271",
+            "desc": "Dynamics of large-scale weather systems. Development of the equations of motion, geostrophy, thermal wind, vorticity and divergence, Ekman layers and the quasi-geostrophic theory. Prerequisites: LE/ESSE 2010 3.00; LE/ESSE 2470 3.00 or SC/PHYS 2010 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00. PRIOR TO FALL 2014: Prerequisites: LE/EATS 2010 3.00; LE/EATS 2470 3.00 or SC/PHYS 2010 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00. PRIOR TO SUMMER 2013: Prerequisites: SC/EATS 2010 3.00; SC/EATS 2470 3.00 or SC/PHYS 2010 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Introductory Atmospheric Chemistry",
+            "prereqs": "chem1000 chem1001 math1010 math1014 math1310 math1505",
+            "desc": "An introductory course linking chemistry and atmospheric science. Topics include atmospheric evolution; biogeochemical cycles; sources, transformations and sinks of atmospheric species; human impacts such as acid rain, photochemical smog and depletion of the ozone layer. Prerequisites: Both SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00; one of SC/MATH 1010 3.00, SC/MATH 1014 3.00, SC/MATH 1310 3.00, SC/MATH 1505 6.00. Course Credit Exclusions: LE/EATS 3130 3.00 (prior to Fall 2014), SC/EATS 3130 3.00 (prior to Summer 2013)."
+        },
+        {
+            "dept": "esse",
+            "code": "3280",
+            "credit": 3.0,
+            "name": "Physics of the Space Environment",
+            "prereqs": "phys2020 math2271",
+            "desc": "An introduction to the physical processes of the upper atmosphere, the ionosphere, the magnetosphere and the heliosphere, and the interactions that occur with space vehicles that traverse these regions of space. Prerequisites: SC/PHYS 2020 3.00, SC/MATH 2271 3.00. Course Credit Exclusions: LE/EATS 3280 3.00 (prior to Fall 2014), SC/EATS 3280 3.00 (prior to Summer 2013)."
+        },
+        {
+            "dept": "esse",
+            "code": "3330",
+            "credit": 3.0,
+            "name": "Materials for Space Applications",
+            "prereqs": "chem1100 phys2020",
+            "desc": "This course covers the behavior of materials relevant to the engineering of spacecraft. Material responses to thermal, mechanical, vacuum, electrical and ionizing radiation stresses are discussed. Engineering analysis tools and environment models are also covered. Prerequisites: SC/CHEM 1100 4.00, SC/PHYS 2020 3.00\n"
+        },
+        {
+            "dept": "esse",
+            "code": "3360",
+            "credit": 3.0,
+            "name": "Heat Transfer and Thermal Design",
+            "prereqs": "math2271 chem1100 phys1801",
+            "desc": "This course covers the fundamentals of heat transfer and thermodynamics, the methods and tools for thermal control and design, and their application in space engineering. Prerequisites: SC/MATH 2271 3.00; SC/CHEM 1100 4.00; SC/PHYS 1801 3.00.\n\nDate of Submission: 2018-02-06"
+        },
+        {
+            "dept": "esse",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Geographical Information Systems (GIS) and Spatial Analysis",
+            "prereqs": "esse1010 esse1012 eecs1011 eecs1541 math1014 math1025 math2930 math2565 geog2420 eecs1540 eecs1030 eecs1520 math2560 geog2420 geog2420 math1131 math1025 math1013 esse1010 esse1011 esse2030 geog1400 geog1400",
+            "desc": "Fundamentals of geographic information systems (GIS) and spatial analysis. Functional requirements of GIS. Geopositioning, map projections, coordinate systems and transformations. Data sources. Modelling of real world, spatial and attribute data. Vector and raster data models and structures. Data conversion and integration. Topological relationships and structures. Data processing and spatial analysis. Editing and data quality. Data management and spatial database structures. Visualization of spatial data. Introduction to GIS modelling. Prerequisites: LE/ESSE 1010 3.00 or LE/ESSE 1012 3.00; LE/EECS 1011 3.00 or LE/EECS 1541 3.00; SC/MATH 1014 3.00; SC/MATH 1025 3.00; SC/MATH 2930 3.00 or SC/MATH 2565 3.00 or SC/GEOG 2420 3.00;\nDate of submission: 2018-04-03\n\nThe fundamental concepts and techniques of GIS are presented along with detailed discussion of computer implementation. The emphases include database management and map analysis/spatial modelling. PC ArcView with Spatial Analyst extension GIS programs are used for hands-on exercises. Prerequisites: LE/EECS 1540 3.00 or LE/EECS 1030 3.00 or LE/EECS 1520 3.00; SC/MATH 2560 3.00 or AP/GEOG 2420 3.00 or SC/GEOG 2420 3.00 or SC/MATH 1131 3.00; SC/MATH 1025 3.00 or SC/MATH 1013 3.00; both LE/ESSE 1010 3.00 and LE/ESSE 1011 3.00, or LE/ESSE 2030 3.00, or AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00, or permission of the Instructor."
+        },
+        {
+            "dept": "esse",
+            "code": "3610",
+            "credit": 3.0,
+            "name": "Geodetic Concepts",
+            "prereqs": "esse2615 esse2620 math2015",
+            "desc": "Date Submission: 2017-12-05\nGeodesy. Reference systems, frames and datums; time systems; the natural system of coordinates; terrestrial, celestial and orbital coordinate systems. Coordinate system transformations. Relative three dimensional positioning; the inertial frame of reference. Positions on the ellipsoid and mapping plane. Height systems. Prerequisites: LE/ESSE 2615 3.00; LE/ESSE 2620 3.00; SC/MATH 2015 3.00. Corequisite: LE/ESSE 3620 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "3630",
+            "credit": 3.0,
+            "name": "Analysis of Overdetermined Systems",
+            "prereqs": "esse2640 esse3610",
+            "desc": "Functional models of measurements. Statistical testing and assessment of observations, parameters and mathematical models. Optimal design. Generalized least squares problems with constraints and singularities, step-by-step procedures. Application in control networks. Prerequisites: LE/ESSE 2640 3.00, LE/ESSE3610 3.00; or permission of instructor"
+        },
+        {
+            "dept": "esse",
+            "code": "3640",
+            "credit": 3.0,
+            "name": "Geodetic Surveys",
+            "prereqs": "esse2620 esse2630 esse3610 esse3620 esse3630",
+            "desc": "Date Submission: December 5, 2018\nInstrument systems and procedures for high-precision/accuracy geodetic surveys. ISO Standard 17123. High-precision surveys in engineering physics; geodetic network densification, adjustment and analysis; procedures for deformation surveys and strain analysis. Establishment, observation, adjustment and analysis of control networks for construction and monitoring of large engineering structures.\nPrerequisites: LE/ESSE 2620 3.00; LE/ESSE 2630 3.00; LE/ESSE 3610 3.00; LE/ESSE 3620 3.00.\nNote: Recommend students to take LE/ESSE 3630 3.00 together."
+        },
+        {
+            "dept": "esse",
+            "code": "3650",
+            "credit": 3.0,
+            "name": "Photogrammetry",
+            "prereqs": "esse2615 esse2640 eecs1011 eecs1541",
+            "desc": "Date submission: December 5, 2018\nObject metric information from imagery. Image and object space. Coordinate transformations. Measurement and correction of image coordinates. Collinearity and coplanarity conditions. Orientation procedures. Stereo-model. Independent models, bundle, strip and block photogrammetric triangulation. Sensor pose estimation. Digital photogrammetry and 3D reconstruction. Structure from Motion and dense image point matching. Image rectification. DEM and orthoimage generation. UAV and close-range photogrammetry. Project planning. Applications. Prerequisites: LE/ESSE 2615 3.00, LE/ESSE 2640 3.00, LE/EECS 1011 3.00 or LE/EECS 1541 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "3670",
+            "credit": 3.0,
+            "name": "Global Navigation Satellite Systems ",
+            "prereqs": "",
+            "desc": "Satellite-based positioning, navigation and timing. Spatial and temporal reference systems. Orbital mechanics. GNSS signal structure, hardware, observables, and error sources. GNSS point positioning, relative positioning, and augmentation techniques. GNSS / inertial integration. GNSS evolution and applications. Course Credit Exclusion LE/ESSE 4610 3.00. Prerequisites: LE/ESSE 3610 3.00; LE/ESSE 3620 3.00 or LE/ESSE 2640 3.00. "
+        },
+        {
+            "dept": "esse",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Research Project",
+            "prereqs": "",
+            "desc": "A major written report or thesis on field measurements, laboratory research or computer modelling in the Earth or atmospheric sciences. Work is supervised by a faculty member. Open to exceptional students. Note: Permission of the department Chair is required."
+        },
+        {
+            "dept": "esse",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Research Project",
+            "prereqs": "",
+            "desc": "A major written report or thesis on field measurements, laboratory research or computer modelling in the Earth or atmospheric sciences. Work is supervised by a faculty member. Open to exceptional students. Note: Permission of the department Chair is required."
+        },
+        {
+            "dept": "esse",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Time Series and Spectral Analysis",
+            "prereqs": "eecs1011 math2015 math2271 cse1540 cse1540 math2015 math2271",
+            "desc": "Treatment of discrete sampled data involving correlation, convolution, spectral density estimation, frequency, domain filtering, and Fast Fourier Transforms. Prerequisites: LE/EECS 1011 3.00 or equivalent programming experience; SC/MATH 2015 3.00; SC/MATH 2271 3.00. PRIOR TO SUMMER 2014: Prerequisites: LE/CSE 1540 3.00 or SC/CSE 1540 3.00 or equivalent programming experience; SC/MATH 2015 3.00; SC/MATH 2271 3.00. Course credit exclusions: LE/CSE 3451 4.00, SC/CSE 3451 4.00 LE/CSE 3451 3.00, SC/CSE 3451 3.00, SC/MATH 4130B 3.00, SC/MATH 4930C 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Dynamics of Space Vehicles",
+            "prereqs": "phys2010 esse2470 math2271",
+            "desc": "This course presents a coherent and unified framework for mathematical modeling and analysis of space vehicles. The course can be divided into two main parts: orbit dynamics and attitude dynamics and control. The topics covered by this course include two-body problem, coordinate transformation, orbital elements, perturbation theory, orbital maneuvers, relative motion and rendezvous, interplanetary trajectories, rocket dynamics, and attitude dynamics and control. Spacecraft dynamics and control problems of practical interests are treated from a dynamical systems point of view. This course will focus on a comprehensive treatment of spacecraft dynamics and control problems and their practical solutions. Prerequisites: SC/PHYS 2010 3.00 or LE/ESSE 2470 3.00; SC/MATH 2271 3.00. Course Credit exclusion: SC/PHYS 4110 3.00"
+        },
+        {
+            "dept": "esse",
+            "code": "4120",
+            "credit": 3.0,
+            "name": "Cloud Physics and Radar Meteorology",
+            "prereqs": "",
+            "desc": "Thermodynamics of cloud processes. Buoyancy and convection. Weather radar. Storms and associated precipitation. Cloud droplet formation and growth of ice crystals. Snow, graupel and hail. Microphysical processes and climate. Prerequisite or corequisite: LE/ESSE 3030 3.00. PRIOR TO FALL 2014: Prerequisite or corequisite: LE/EATS 3030 3.00. PRIOR TO SUMMER 2013: Prerequisite or corequisite: SC/EATS 3030 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "4160",
+            "credit": 3.0,
+            "name": "Climate and Climate Change",
+            "prereqs": "esse2010 esse3040",
+            "desc": "This course surveys key physical and dynamical processes responsible for both the natural variability in Earth climate, as well as recent anthropogenic climate change. Models of global atmospheric and oceanic circulation and derived reanalysis datasets. Impacts of recent and future climate change, as well as potential mitigation and adaptation strategies, are discussed. Prerequisite: LE/ESSE 2010 3.00 or LE/ESSE 3040 3.00 or permission of the instructor."
+        },
+        {
+            "dept": "esse",
+            "code": "4220",
+            "credit": 3.0,
+            "name": "Remote Sensing of the Earth's Surface",
+            "prereqs": "phys2020 eecs1021 eecs1541",
+            "desc": "Date Submission: December 5, 2017\nPrinciples used in extracting physical information about the Earth's surface using remote sensing. Remote sensing in the visible, short-wave infrared, thermal infrared and microwave regions is discussed in terms of potential applicability to forestry, agriculture, water resources and geology. Two lecture hours, three laboratory hours. One term. Three credits. Prerequisite(s): Prerequisite(s): SC/PHYS 2020 3.00; LE/EECS 1021 3.00 or LE/EECS 1541 3.00. "
+        },
+        {
+            "dept": "esse",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "Remote Sensing of the Atmosphere",
+            "prereqs": "esse2010 phys2060 math1025 math2015 math2271",
+            "desc": "An introduction to and summary of the area of remote sensing of the atmosphere from space platforms and from the ground. Topics include atmospheric radiation, atmospheric spectroscopy, inversion theory, instrumentation, satellites, space platforms and future technology. Prerequisites: LE/ESSE 2010 3.00 or SC/PHYS 2060 3.00; SC/MATH 1025 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00. Prerequisite or corequisite: LE/ESSE 3030 3.00 or permission of the Instructor. PRIOR TO FALL 2014: Prerequisites: LE/EATS 2010 3.00 or SC/PHYS 2060 3.00; SC/MATH 1025 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00. Prerequisite or corequisite: LE/EATS 3030 3.00 or permission of the Instructor. PRIOR TO SUMMER 2013: Prerequisites: SC/EATS 2010 3.00 or SC/PHYS 2060 3.00; SC/MATH 1025 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00. Prerequisite or corequisite: SC/EATS 3030 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "esse",
+            "code": "4240",
+            "credit": 3.0,
+            "name": "Storms and Weather Systems",
+            "prereqs": "",
+            "desc": "The study of mesoscale circulations and precipitating storm systems. Basic governing equations and instabilities. Nature and evolution of isolated convection, thunderstorms, mesoscale convective systems, precipitation bands, extratropical cyclones, fronts and frontogenesis, hurricanes, blizzards, polar lows and orographic storms. Prerequisites or corequisites: LE/ESSE 3040 3.00; LE/ESSE 4120 3.00. PRIOR TO FALL 2014: Prerequisites or corequisites: LE/EATS 3040 3.00; LE/EATS 4120 3.00. PRIOR TO SUMMER 2013: Prerequisites or corequisites: SC/EATS 3040 3.00; SC/EATS 4120 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "4350",
+            "credit": 6.0,
+            "name": "Space Hardware",
+            "prereqs": "phys3150 phys3250",
+            "desc": "Explores the theoretical, practical and experimental techniques needed to acquire and manipulate typical signals used in spacecraft system operations or integration and testing. Three laboratory hours and two lecture hours per week.  Prerequisites: SC/PHYS 3150 3.00; SC/PHYS 3250 3.00\n "
+        },
+        {
+            "dept": "esse",
+            "code": "4360",
+            "credit": 3.0,
+            "name": "Payload Design",
+            "prereqs": "eng2001 esse3280",
+            "desc": "This course provides students with a comprehensive and accurate approach for the specification and detailed design of different spacecraft payloads, including optical payload, microwave payload, communications payload, and planetary exploration payload. Reliability analysis and its application will also be covered for space systems. Payload design projects will be assigned to students during the course. Three lecture hours per week. Prerequisites: LE/ENG 2001 3.00, LE/ESSE 3280 3.00\n\nDate of submission: 2013-12-03 (Added most recent prerequisites from 2018-02-06)"
+        },
+        {
+            "dept": "esse",
+            "code": "4361",
+            "credit": 3.0,
+            "name": "Space Mission Design",
+            "prereqs": "esse4360",
+            "desc": "This course covers the basic aspects of space mission design from a &quot;blank sheet&quot;. It includes mission design structure using systems engineering approaches to the design problem. Mission design starts with a set of mission objectives and aims to develop a viable solution for meeting these objectives given a set of technical cost and programmatic constraints. This course brings together systems engineering, mission types, objectives, technical readiness, risk mitigation, mission subsystems, and cost estimation. Prerequisites: LE/ESSE 4360 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "esse",
+            "code": "4370",
+            "credit": 3.0,
+            "name": "Finite Element Methods in Engineering Design",
+            "prereqs": "math2271 esse2470",
+            "desc": "Basic principles of finite element method, variational and weighed residual principle procedures in discretizing and building up governing equations of physical models. Use of industrial FEM codes to understand model response to external effects such as stress, heat, vibration, and fluids. Prerequisites: SC/MATH 2271 3.00; LE/ESSE 2470 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "4600",
+            "credit": 3.0,
+            "name": "Geographical Information Systems (GIS) and Data Integration",
+            "prereqs": "esse3600 geog3180 geog3180 geog4340 geog4340 envs3520 envs4520 eats3300 geog3180 geog3180 geog4340 geog4340 envs3520 envs4520 eats3300 geog3180 geog3180 geog4340 geog4340 envs3520 envs4520",
+            "desc": "Project-oriented geomatics course using GIS systems (Arc/Info and S-PLus or SPSS for UNIX) and various techniques (map algebraic, statistical, fuzzy logic, AI, neural network and fractal/multifractal) for integrating diverse dataset (geological, geophysical, geochemical, remote sensing and GPS). Prerequisite: One of LE/ESSE 3600 3.00, AP/GEOG 3180 3.00 or SC/GEOG 3180 3.00, AP/GEOG 4340 3.00 or SC/GEOG 4340 3.00, ES/ENVS 3520 3.00, ES/ENVS 4520 3.00, or permission of the Instructor. PRIOR TO FALL 2014: Prerequisite: One of LE/EATS 3300 3.00, AP/GEOG 3180 3.00 or SC/GEOG 3180 3.00, AP/GEOG 4340 3.00 or SC/GEOG 4340 3.00, ES/ENVS 3520 3.00, ES/ENVS 4520 3.00, or permission of the Instructor. PRIOR TO SUMMER 2013: Prerequisite: One of SC/EATS 3300 3.00, AP/GEOG 3180 3.00 or SC/GEOG 3180 3.00, AP/GEOG 4340 3.00 or SC/GEOG 4340 3.00, ES/ENVS 3520 3.00, ES/ENVS 4520 3.00, or permission of the Instructor."
+        },
+        {
+            "dept": "esse",
+            "code": "4620",
+            "credit": 3.0,
+            "name": "Physical and Space Geodesy",
+            "prereqs": "esse3020 esse3610 esse3620 esse4610 eats3020 eats3610 eng3110 eats3620 eng3120 eats4610 eng4110 eats3020 eats3610 eng3110 eats3620 eng3120 eats4610 eng4110",
+            "desc": "Local treatment of the Earth's gravity field. Boundary value problems. Normal and disturbing potential, the normal gravity formula. Geoid, geoidal undulations, deflections of the vertical. Stokes and Vening Meinesz formulae. Gravimetry and gravity reductions. Height systems. Tides. Gravity space missions. Prerequisites: LE/ESSE 3020 3.00; LE/ESSE 3610 3.00; LE/ESSE 3620 3.00; LE/ESSE 4610 3.00. PRIOR TO FALL 2014: Prerequisites: LE/EATS 3020 3.00; LE/EATS 3610 4.00 or LE/ENG 3110 4.00; LE/EATS 3620 4.00 or LE/ENG 3120 4.00; LE/EATS 4610 3.00 or LE/ENG 4110 3.00. PRIOR TO SUMMER 2013: Prerequisites: SC/EATS 3020 3.00; SC/EATS 3610 4.00 or SC/ENG 3110 4.00; SC/EATS 3620 4.00 or SC/ENG 3120 4.00; SC/EATS 4610 3.00 or SC/ENG 4110 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "4630",
+            "credit": 3.0,
+            "name": "Image Processing for Remote Sensing and Photogrammetry",
+            "prereqs": "esse3650 esse4220 eats3650 eng3150 eats4220 eats3650 eng3150 eats4220",
+            "desc": "Digital imaging from remote platforms. Image processing and analysis, including radiometric and geometric corrections and geometric enhancements, multispectral classification, digital photogrammetry fundamentals, workstations, photogrammetric processing. Prerequisites: LE/ESSE 3650 3.00; LE/ESSE 4220 3.00. PRIOR TO FALL 2014: Prerequisites: LE/EATS 3650 4.00 or LE/ENG 3150 4.00; LE/EATS 4220 3.00. PRIOR TO SUMMER 2013: Prerequisites: SC/EATS 3650 4.00 or SC/ENG 3150 4.00; SC/EATS 4220 3.00.\r\n"
+        },
+        {
+            "dept": "esse",
+            "code": "4640",
+            "credit": 3.0,
+            "name": "Digital Terrain Modeling",
+            "prereqs": "esse2620 esse3620 eats2620 eng2110 eats3620 eng3110 eats2620 eng2110 eats3620 eng3110",
+            "desc": "Digital Terrain Modeling (DTM) concepts. Mathematical techniques in data acquisition, processing, storage, manipulation and applications. DTM. Surface representation using moving averages, linear projection and Kriging techniques. Grid resampling methods and search algorithms. DTM derivatives and applications. LIDAR systems and applications. Prerequisites: LE/ESSE 2620 3.00; LE/ESSE 3620 3.00. PRIOR TO FALL 2014: Prerequisites: LE/EATS 2620 4.00 or LE/ENG 2110 2.00; LE/EATS 3620 4.00 or LE/ENG 3110 4.00. PRIOR TO SUMMER 2013: Prerequisites: SC/EATS 2620 4.00 or SC/ENG 2110 2.00; SC/EATS 3620 4.00 or SC/ENG 3110 4.00."
+        },
+        {
+            "dept": "esse",
+            "code": "4650",
+            "credit": 3.0,
+            "name": "Hydrography",
+            "prereqs": "esse4610 eats4610 eng4110 eats4610 eng4110",
+            "desc": "Hydrography and its role in offshore management. Elements of oceanography, tides and water levels, seabed and sea water properties. Underwater acoustics. Bathymetric and imaging methods. Marine positioning and navigation. Prerequisite: LE/ESSE 4610 3.00. PRIOR TO FALL 2014: Prerequisite: LE/EATS 4610 3.00 or LE/ENG 4110 3.00. PRIOR TO SUMMER 2013: Prerequisite: SC/EATS 4610 3.00 or SC/ENG 4110 3.00."
+        },
+        {
+            "dept": "esse",
+            "code": "4660",
+            "credit": 3.0,
+            "name": "Cadastral Studies",
+            "prereqs": "esse2620",
+            "desc": "Land and interests in land including how rights to land are owned, tenure and estates and lesser interests and how rights to land are transferred. The Canadian Legal System, including case law and precedent; common law; Civil Law in Quebec; principles of evidence; Expert and lay witnesses; Estoppel; Constitution Act; Limitation of actions; Easements and rights of ways; Statutory rights of way (or rights of way without a dominant tenement): Exceptions and reservations; Covenants, Adverse possession; Dedication of roads; Expropriation; Escheat, The link between the land surveyor and the law of real property. Concepts of boundaries including the nature of a boundary, creation and elimination of boundaries and the movement of boundaries. Subdivisions and consolidations. Bornage in Quebec. Retracement and reestablishment of lost or obliterated boundaries; Resolution of boundary uncertainty; Hierarchy of evidence; Jurisdictional boundaries. Prerequisites: LE/ESSE 2620 3.00\nDate of submission: February 6, 2018"
+        },
+        {
+            "dept": "esse",
+            "code": "4670",
+            "credit": 3.0,
+            "name": "Survey Law",
+            "prereqs": "esse4660",
+            "desc": "Registering rights to land including land registration systems, the concept of indefeasibility and title insurance, modern registration using databases. Descriptions of land. Natural Boundaries, Water boundaries; Riparian and littoral rights; High and low water mark; Ad medium filum aquae: Erosion, accretion and avulsion; Excavation and fill adjacent to natural boundaries; Navigable waters and determination of navigability; Boundaries defined by artificial lines; Subdivisions; Condominiums (including boundaries, common property, administrative framework, structure, fees and governance); Strata plans; Air Space plans; Mineral interests, Mining, placer claims and claim staking; Petroleum and natural gas interests, Well site leases; Special surveys. Function of professional regulators; Purpose of codes of ethics and standards; Negligence; Disciplinary process; Common causes for disciplinary actions. Role of coordinates in retracement and as evidence; Surveys of parcels\nunder a land registry system and under a land titles system. Offshore boundaries and maritime zones; Leases at sea. The offshore including maritime zones and international boundaries and the law of the sea. The Cadastre. Indigenous title and land claims. Prerequisites: LE/ESSE 4660 3.00"
+        },
+        {
+            "dept": "esse",
+            "code": "4690",
+            "credit": 3.0,
+            "name": "Advanced 3D Geospatial Techniques",
+            "prereqs": "esse3600 esse3650 eng3150 envs4521 eats3300 eats3650 eng3150 envs4521 eats3300 eats3650 eng3150 envs4521",
+            "desc": "Advanced 3D geospatial techniques for data extraction from imaging and ranging sensors (optical, radar and lidar), 3D modeling, 3D data management and Internet mapping using emerging and multidisciplinary technologies in 3D geospatial information science and engineering. Prerequisites: LE/ESSE 3600 3.00; LE/ESSE 3650 3.00 or LE/ENG 3150 4.00; ES/ENVS 4521 3.00; or equivalent. PRIOR TO FALL 2014: Prerequisites: LE/EATS 3300 3.00; LE/EATS 3650 4.00 or LE/ENG 3150 4.00; ES/ENVS 4521 3.00; or equivalent. PRIOR TO SUMMER 2013: Prerequisites: SC/EATS 3300 3.00; SC/EATS 3650 4.00 or SC/ENG 3150 4.00; ES/ENVS 4521 3.00; or equivalent."
+        }
+    ]
+}

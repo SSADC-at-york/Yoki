@@ -1,0 +1,116 @@
+{
+    "courses": [
+        {
+            "dept": "ppal",
+            "code": "6010",
+            "credit": 3.0,
+            "name": "Leadership and Human Resources Management",
+            "prereqs": "",
+            "desc": "With a particular emphasis on the public sector environment, this course examines the role of the leadership and the human resources management function in developing policies and practices which contribute to the achievement of public service objectives."
+        },
+        {
+            "dept": "ppal",
+            "code": "6030",
+            "credit": 3.0,
+            "name": "International Refugee Protection Regime I: Critical Problems                        ",
+            "prereqs": "",
+            "desc": "This course seeks to stimulate understanding and critical thinking on the key issues confronting the international refugee protection regime today, as a foundation for assessing, evaluating, and devising possible solutions for these areas of concern. It will examine the potential and the limitations of the international refugee protection regime for the protection refugees' and other forced migrants' and their rights. "
+        },
+        {
+            "dept": "ppal",
+            "code": "6040",
+            "credit": 3.0,
+            "name": "International Refugee Protection Regime II: Research Seminar",
+            "prereqs": "",
+            "desc": "This Experiential Education (EE) course provides students with an overview of the most innovative and creative solutions that have been proposed to resolve some of the most significant issues confronting the international refugee protection regime today. Working on a research project that is directly relevant to local community partners, students will gain valuable experience resolving real world problems affecting refugees."
+        },
+        {
+            "dept": "ppal",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Canadian Constitutional Law",
+            "prereqs": "",
+            "desc": "Provides students with the key concepts in public law - focusing on constitutional law - that they need to function effectively in the public sector at all levels. The impact of judicial review, the rule of law, multiculturalism and diversity are highlighted."
+        },
+        {
+            "dept": "ppal",
+            "code": "6120",
+            "credit": 3.0,
+            "name": "Administrative Law and Ethics: Principles and Practices in the Policy-Making Context ",
+            "prereqs": "",
+            "desc": "This course covers the basic principles and practices of administrative law.  For instance, it addresses public sector ethics, and shows how the principles behind privacy and access to information legislation are derived from these ethical principles.  Codes of ethics and ethics counsellors are examined."
+        },
+        {
+            "dept": "ppal",
+            "code": "6130",
+            "credit": 3.0,
+            "name": "Equity, Policy, Law and Planning",
+            "prereqs": "",
+            "desc": "An examination of the public service response to diversity, including approaches to strategic and operational planning that emphasize public consultation. The focus is on rights, equality,"
+        },
+        {
+            "dept": "ppal",
+            "code": "6140",
+            "credit": 3.0,
+            "name": "Court Organization and Management",
+            "prereqs": "",
+            "desc": "An overview of court administration in Canada, beginning with a study of judicial independence and the unique administrative problems this governing principle raises, the constitutional parameters of judicial administration, and court and tribunal administrative structures, and then moving to recent issues of court and tribunal administration such as case-flow management."
+        },
+        {
+            "dept": "ppal",
+            "code": "6155",
+            "credit": 3.0,
+            "name": "Democratic Administration",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ppal",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Research Methods and Information Systems",
+            "prereqs": "",
+            "desc": "Provides students with the basic knowledge necessary for the systematic collection of data in the public service, for understanding such data, and for using management information systems effectively, as well as an introduction to e-government."
+        },
+        {
+            "dept": "ppal",
+            "code": "6210",
+            "credit": 3.0,
+            "name": "Program Evaluation and Public Policy Analysis",
+            "prereqs": "",
+            "desc": "Provides students with the analytical tools needed to evaluate a public sector program. This includes identification of goals and objectives, survey research methods, cost-benefit analysis, choosing appropriate indicators of success, and the role of program evaluation in the policy cycle."
+        },
+        {
+            "dept": "ppal",
+            "code": "6230",
+            "credit": 3.0,
+            "name": "Topics in Public Policy",
+            "prereqs": "",
+            "desc": "This course allows students to investigate areas of public policy of specific interest to them. Students meet in class and conduct an independent reading project to learn approaches to the analysis of public policy, undertake research, and present papers on their specific public policy interests/research."
+        },
+        {
+            "dept": "ppal",
+            "code": "6250",
+            "credit": 3.0,
+            "name": "Major Research Paper",
+            "prereqs": "",
+            "desc": "An independent research project leading to a major research paper on a policy field of choice (e.g., e-government, health policy, environmental policy, justice policy, social welfare policy, transportation policy, foreign affairs policy, taxation policy). Students will have the opportunity to share their projects with other students in their cohort at a final research seminar."
+        },
+        {
+            "dept": "ppal",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Internship/Co-Op",
+            "prereqs": "",
+            "desc": "This is the course equivalent for an internship/co-op placement consisting of work in a public or para-public institution related to public policy, administration and law; supervised by a committee of designated faculty members responsible for the academic evaluation. Placement supervisors provide written reports reflecting on the student's work experience."
+        },
+        {
+            "dept": "ppal",
+            "code": "6990",
+            "credit": 3.0,
+            "name": "Independent Readings and Research",
+            "prereqs": "",
+            "desc": "In exceptional cases, students in the Graduate Program in wishing to gain expertise in a particular area may take up to two three-credit independent reading and research courses with the approval of the graduate program director"
+        }
+    ]
+}

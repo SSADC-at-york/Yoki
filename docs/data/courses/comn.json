@@ -1,0 +1,428 @@
+{
+    "courses": [
+        {
+            "dept": "comn",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Communications",
+            "prereqs": "",
+            "desc": "Provides a critical overview of the main issues in the field of communication and media. It examines how forms and processes of communication are implicated in our understanding of the world at both the personal and social levels. Course credit exclusions: AP/COMN 1310 9.00 (prior to Fall 2012), AP/SOSC 2410 6.00, AP/SOSC 2410 9.00 (prior to Fall 2014).\n"
+        },
+        {
+            "dept": "comn",
+            "code": "1401",
+            "credit": 6.0,
+            "name": "Fake News, Fact-Finding and the Future of Journalism",
+            "prereqs": "",
+            "desc": "What is fake news? How does it spread? How do we distinguish fact from fake? Are social media to blame?\n\nThis class addresses the fake news challenge and teaches students to be informed consumers of information. This means developing information literacy, and a stronger understanding of the platforms and politics involved in the communication of fake news and facts.\n"
+        },
+        {
+            "dept": "comn",
+            "code": "1425",
+            "credit": 6.0,
+            "name": "Youth, media, and culture",
+            "prereqs": "",
+            "desc": "Class addresses media for, by, and about young people, looking at a wide range of contemporary media and focusing on the complex interplay between children's and youth media culture, and the concurrent rise of transmedia intertextuality and commercialization. Aims to allow space for students to reflect on social, historical and political contexts of their own experiences of media as children."
+        },
+        {
+            "dept": "comn",
+            "code": "2111",
+            "credit": 6.0,
+            "name": "Communication in Everyday Life",
+            "prereqs": "",
+            "desc": "Examines the processes of interpersonal communication providing insight into how we create and communicate meaning for each other at all levels of social communication. We analyze everyday communication using a variety of models from the social sciences. Course credit exclusion: AP/COMN 2311 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "2200",
+            "credit": 6.0,
+            "name": "Introduction to Politics, Policy and the Media",
+            "prereqs": "comn1000",
+            "desc": "This course analyzes the relations between popular media, communication technologies and power. The role of the state, market and civil society in the development of communication systems, and the production and distribution of culture are examined, with special attention paid to Canada. Prerequisite: AP/COMN 1000 6.00. Course credit exclusion: AP/COMN 2313 6.00 (prior to Fall 2012).\r\n"
+        },
+        {
+            "dept": "comn",
+            "code": "2500",
+            "credit": 6.0,
+            "name": "Information and Technology",
+            "prereqs": "comn1000",
+            "desc": "This course focuses on critical stances with which to view our society's preoccupation with information and technology. Different models and theoretical approaches are used to understand how information and technology affect social change.\r\nPrerequisite: AP/COMN 1000 6.00. Course credit exclusions: AP/COMN 2312 6.00 (prior to Fall 2012), AP/COMN 2312 9.00 (prior to Fall 2012), AP/COMN 2319 6.00."
+        },
+        {
+            "dept": "comn",
+            "code": "2700",
+            "credit": 6.0,
+            "name": "Media, Culture and Society",
+            "prereqs": "comn1000",
+            "desc": "This course explores the individual and collective significance of the role of communications in culture and society. Various historical, theoretical and methodological approaches are introduced as ways to analyze the impact of communications media in everyday life. \r\nPrerequisite: AP/COMN 1000 6.00. Course credit exclusions: AP/COMN 2314 6.00 (Prior to Fall 2012), AP/COMN 2314 9.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Foundational Communication Theory",
+            "prereqs": "",
+            "desc": "Provides an overview of the foundations and theoretical approaches in communication theory. Special attention will be paid to mass communication theory, medium theory, audience research, semiotics, and the political economy of media. Course credit exclusion: AP/COMN 3320 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3101",
+            "credit": 3.0,
+            "name": "Contemporary Communication Theory",
+            "prereqs": "",
+            "desc": "Examines the various perspectives of contemporary communication theory. It explores current theoretical approaches with an emphasis on contemporary debates and issues in communication studies. Course credit exclusion: AP/COMN 3320 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3150",
+            "credit": 3.0,
+            "name": "Introduction to Research Methods in Communication Studies ",
+            "prereqs": "",
+            "desc": "Introduces students to the major research paradigms and attendant methodologies in the field of mass communication. Course credit exclusion: AP/COMN 3991 6.00 (prior to Fall 2012).\n"
+        },
+        {
+            "dept": "comn",
+            "code": "3204",
+            "credit": 3.0,
+            "name": "Public Diplomacy as Communication ",
+            "prereqs": "",
+            "desc": "Examines &quot;public diplomacy&quot; as communication and cultural strategies used by states to promote &quot;national interests&quot; and foreign policy goals through understanding, interacting with, informing and influencing publics worldwide. Case studies of various states will be examined including the history, theory, organization, policies and practices of public diplomacy with a particular focus on the United States. Course credit exclusion: AP/COMN 4805 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "Global Media, Local Communication ",
+            "prereqs": "",
+            "desc": "Examines the theories and practices of the global media - telecommunications, news, film, television, and the new media - in the contexts of local communication and culture. The interactions between the global media and local communication and culture are explored. Course credit exclusion: AP/COMN 4804 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3213",
+            "credit": 3.0,
+            "name": "Labour in the Communication and Cultural Industries",
+            "prereqs": "",
+            "desc": "This course analyzes labour in the communication and cultural industries (including journalism, broadcasting, creative labour and cyber-work) by the examination of the historical constitution, present institutions, and current practices organizing labour in these industries.\r\nCourse credit exclusion: AP/COMN 3313 3.00 (prior to Fall 2012).\r\n"
+        },
+        {
+            "dept": "comn",
+            "code": "3221",
+            "credit": 3.0,
+            "name": "Communicating Social Movements",
+            "prereqs": "",
+            "desc": "Examines the literature on major developments in the history of Canadian social and protest movements, social entrepreneurialism, and pressure group behaviour. The larger historical questions of current movements' relationships to past patterns of protest are investigated, as is the question of how social justice agendas are managed by governments. To better situate this concern, the course examines major themes of technology, society, regulation and the political-cultural impact of social and protest movements. Course credit exclusion: AP/COMN 3220 6.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "comn",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "Communication Policy I: A Comparative Introduction",
+            "prereqs": "",
+            "desc": "Introduces students to the politics of policy making across communication, including press, broadcasting and telecommunication, with an emphasis on the Anglo-American democracies. Course credit exclusion: AP/COMN 3350 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3251",
+            "credit": 3.0,
+            "name": "Communication Policy II: Current Issues and Case Studies ",
+            "prereqs": "comn3350 comn3250",
+            "desc": "Examines current issues in communication policy in Canada through the use of case studies. It considers such topical issues as: national identity and globalization, convergence and fragmentation, as well as intellectual property, privacy, and global media regulation, among others. \r\nPrerequisite: AP/COMN 3350 3.00 (prior to Fall 2012) or AP/COMN 3250 3.00. Course credit exclusion: AP/COMN 3351 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3252",
+            "credit": 3.0,
+            "name": "Ethics and the Media",
+            "prereqs": "",
+            "desc": "Examines challenges to ethical behaviour and normative intentions posed by the institutional imperatives of the modern media corporation. Explores the ethical relationships of the media corporation and the people it employs with the communities being served. Course credit exclusions: AP/COMN 3352 3.00 (prior to Fall 2012). Previously offered as: AP/COMN 3252 3.00."
+        },
+        {
+            "dept": "comn",
+            "code": "3517",
+            "credit": 3.0,
+            "name": "Doing Bodies/Doing Technology",
+            "prereqs": "",
+            "desc": "This course explores the ways in which interacting, producing and consuming technology also affects how bodies and identities are enacted, experienced, produced and theorized. It challenges students to think creatively about the ways in which science and technology are transforming how we think and talk about the body and by extension about personhood and subjectivity.\r\nCourse credit exclusions: AP/COMN 3317 3.00 (prior to Fall 2012), AP/COMN 3318 6.00.\r\n"
+        },
+        {
+            "dept": "comn",
+            "code": "3550",
+            "credit": 3.0,
+            "name": "Digital Media and Culture",
+            "prereqs": "",
+            "desc": "Examines the origins and development of forms of digital media and culture with particular emphasis on how they differ from pre-digital or &quot;analog&quot; cultural forms. Upon establishing our theoretical foundations for considering new media as technology and culture, we investigate the historical development of digital technology and some of the transformative effects it has had, and continues to have, on previous forms of communication. Seminar discussions address themes such as identity, privacy, hardware/software, education, journalism, news, and interactivity, in relation to topics such as hypermedia, cyberspace, satellites, digital telephony, digital radio/music, digital photography/video, and digital literacy."
+        },
+        {
+            "dept": "comn",
+            "code": "3551",
+            "credit": 3.0,
+            "name": "Advanced Issues in Digital Media and Culture",
+            "prereqs": "",
+            "desc": "This course investigates some of the transformative effects of digital communications technologies within realms of culture as diverse as politics, romance and mating, industry, medical and pharmaceutical practice, commerce, finance, the arts, scientific enquiry, and contemporary warfare. Relevant to class discussions are phenomena such as world order transformation, cybernetics and automation, interoperability, databases, computer modeling, information overload, artificial intelligence, virtuality, networks, social networking, biometrics, and the global positioning system. The course concludes by addressing questions regarding what constitutes the good digital life."
+        },
+        {
+            "dept": "comn",
+            "code": "3590",
+            "credit": 3.0,
+            "name": "Feminist Perspectives on Media ",
+            "prereqs": "",
+            "desc": "Examines gender in relation to various media. Diverse media including film, television, magazines, and romantic fiction are analyzed through a feminist perspective and held within historical relationships of gender. Course credit exclusion: AP/COMN 3393 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3591",
+            "credit": 3.0,
+            "name": "Feminist Perspectives on Technology  ",
+            "prereqs": "",
+            "desc": "Examines communication technologies from a feminist perspective. Various technologies from the telephone, television, cinema, computers, and the Internet are analyzed within historical relationships of gender. Course credit exclusion: AP/COMN 3393 6.00 (prior to Fall 2012).\n"
+        },
+        {
+            "dept": "comn",
+            "code": "3700",
+            "credit": 3.0,
+            "name": "Advertising: Media and the Development of Consumer Culture",
+            "prereqs": "",
+            "desc": "The course approaches advertising as a privileged form of communication and as central to development of the media.  This course will explore the emergence of consumer society and the social, political, and economic roles of advertising within this development with particular focus on how the promotional discourses of advertising have become entrenched in our culture. \nCourse credit exclusion: AP/COMN 3315 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3701",
+            "credit": 3.0,
+            "name": "Advertising, Culture and Society  ",
+            "prereqs": "",
+            "desc": "Examines the place of advertising within culture and society. It will focus on the analysis of advertising; the cultural triumph of the image; the democratization of luxury; the aesthetics of mass culture and the place of advertising within contemporary culture and society. \r\nCourse credit exclusion: AP/COMN 3315 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "3712",
+            "credit": 3.0,
+            "name": "The Rise of the Classical Hollywood Cinema: Entertainment, Art and Politics",
+            "prereqs": "",
+            "desc": "This course concentrates on the Hollywood cinema from 1929 to 1945, a period that deals with the concept of 'the studio system' which functioned to cut production cost while mass producing films. We will investigate fictional narrative film and its relation to entertainment, art, ideology and political discourse. Emphasis will be placed on the significance of talent and creativity to the studio product. The period covered includes the impact the Great Depression and World War II made on America and the Hollywood cinema. Course credit exclusions: AP/COMN 2840 9.00 (Prior to Fall 2014)."
+        },
+        {
+            "dept": "comn",
+            "code": "3713",
+            "credit": 3.0,
+            "name": "The Decline of the Classical Hollywood Cinema: Post-WWII, the Cold War and the Rise of Corporate America",
+            "prereqs": "",
+            "desc": "This course concentrates on the Hollywood cinema from 1946 to 1964. The aftermath of WWII produced political, social and cultural changes that effected the mainstream cinema. Politically, the Cold War led the government to publicly investigate the film industry and its connections to leftist ideals; socially, WWII brought to the forefront concerns about inequality home and abroad; culturally, WWII led to the public interest in 'realist' filmmaking, a challenge to the studio system and its meaning of production. In addition, corporate America saw the film industry as a means to encourage a consumerist lifestyle."
+        },
+        {
+            "dept": "comn",
+            "code": "3725",
+            "credit": 3.0,
+            "name": "Young People's Media In Canada",
+            "prereqs": "",
+            "desc": "Explores the production of media for young people here in Canada. Canada has a long history of producing media texts for children and youth. Our children's television, film, music, magazine and videogame industries are rich and diverse, and are exported around the world. Yet, despite this richness and depth, the story of Canadian children's and youth media industries has not been told. The purpose of this course is to overcome this deficit by undertaking an in depth political economic analysis of the history of young people's media industries in Canada."
+        },
+        {
+            "dept": "comn",
+            "code": "3729",
+            "credit": 3.0,
+            "name": "Screen Cultures",
+            "prereqs": "",
+            "desc": "This course examines the cultural and social dimensions of screens in historical and contemporary contexts. Screen cultures include film, TV, video, digital, and mobile media. "
+        },
+        {
+            "dept": "comn",
+            "code": "3770",
+            "credit": 3.0,
+            "name": "Transnational Media Cultures and Global Youth ",
+            "prereqs": "",
+            "desc": "The aim of this course is to provide students with an overview of the critical debates and issues surrounding youth media culture in a transnational context. This course will trace the impact of the transnational mobility and ubiquity of media such as film, television, music, mobile technologies, video games and the internet, on the proliferation of global youth cultures. The course will explore the emergence of complex forms of hybrid cultures and identities that increasingly occur amongst young people throughout the world. At the basis of the course will be a critical analysis of the construction of youth including the multiple, diverse constructions across a range of cultures."
+        },
+        {
+            "dept": "comn",
+            "code": "3781",
+            "credit": 3.0,
+            "name": "Media and Environment",
+            "prereqs": "",
+            "desc": "This course examines various currents of thought within communication studies that have attempted to take 'the environment' into account. It explores the field of environmental communication, as well as how broader frames such as eco-feminism, environmental justice, and indigenous thought have influenced public sphere debates concerning the stewardship of land, water, air, and living creatures."
+        },
+        {
+            "dept": "comn",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "If a supervisor in the Department of Communication Studies can be arranged, students registered in Communication Studies may undertake a major thesis credit after the completion of 84 credits and with the permission of the department. Honours Thesis courses require a signed agreement between the student and faculty member, as well as the approval of the Undergraduate Program Director.\r\nPrerequisites: AP/COMN 4000 6.00 students who wish to enrol must fill out a supplemental application form, which is available from the Program Office. Applicants will be advised of their admission to the course later in the summer, which will be based on factors including GPA. All spaces are reserved for COMN majors."
+        },
+        {
+            "dept": "comn",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised directed reading course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Directed reading courses require a signed agreement between the student and faculty member, as well as the approval of the Undergraduate Program Director."
+        },
+        {
+            "dept": "comn",
+            "code": "4002",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised directed reading course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Directed reading courses require a signed agreement between the student and faculty member, as well as the approval of the Undergraduate Program Director.\r\nCourse credit exclusions: None. "
+        },
+        {
+            "dept": "comn",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Unions, Organizing, and The Media",
+            "prereqs": "",
+            "desc": "From an industry perspective, this course will address unions, what they do, organizing, recent successes, and challenges in the media.  It will consider how unions are adjusting to the digital media environment, their impact on the industry, and their profile in today's economic reality. Students will also be introduced to negotiation techniques and organizing tactics."
+        },
+        {
+            "dept": "comn",
+            "code": "4140",
+            "credit": 6.0,
+            "name": "Communications Field Experience: Corporate and Cultural Industries",
+            "prereqs": "comn1310 comn1000",
+            "desc": "Students earn course credit by working on a project for an organization involved in communication policy development, information services or administration. Details of each student's responsibilities are worked out in consultation with the supervisor, the Instructor and the student. \r\nPrerequisite: AP/COMN 1310 9.00 (prior to Fall 2012) or AP/COMN 1000 6.00 or one 3000-level social science course. Course credit exclusions: AP/COMN 4141 6.00, AP/COMN 4150 6.00, AP/COMN 4340 6.00 (prior to Fall 2012), AP/COMN 4341 6.00 (prior to Fall 2012).\n"
+        },
+        {
+            "dept": "comn",
+            "code": "4201",
+            "credit": 6.0,
+            "name": "Resistance and Subversion on the Internet",
+            "prereqs": "",
+            "desc": "Explores the ways in which social justice seeking groups have engaged with the Internet for social change through an examination of the Internet's origin stories, software, hardware, regulation, use and access. Course credit exclusion: AP/COMN 4801 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "4206",
+            "credit": 3.0,
+            "name": "NetWork: Digital Labour, Profit, and Exploitation",
+            "prereqs": "",
+            "desc": "This course familiarizes students with debates about and theories used in the analysis of labour in the &quot;information society.&quot; Labour and &quot;social&quot; media, open source software, media piracy, and other contemporary internet phenomena are all areas that are analysed with respect to their role in the reproduction of capital and attendant forms of exploitation, domination, repression, resistance, and subversion."
+        },
+        {
+            "dept": "comn",
+            "code": "4214",
+            "credit": 6.0,
+            "name": "Media, Publics and Democracy",
+            "prereqs": "comn1000",
+            "desc": "Explores the relationship between contemporary forms of mediated communication and democratic public life. It examines issues such as freedom of expression and the regulation of communication and culture in the context of both dominant and alternative media practices. \r\nPrerequisite: AP/COMN 1000 6.00. Course credit exclusion: AP/COMN 4314 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "4215",
+            "credit": 3.0,
+            "name": "Current Issues in Canadian Media and Communications Policy",
+            "prereqs": "",
+            "desc": "This course examines a number of key issues confronting Canadian media and communications policy today  such as: concentration of ownership; copyright; financialization; convergence; net neutrality; spectrum allocation; and digital policy. Framed as a series of case studies, it illustrates how policy development is a lively and dynamic process as different social interests vie for ownership of, access to, and representation within, media forms. At the same time, it shows how electronic media in Canada are a unique product of the institutions and forces that shape Canadian society, and how the modes of representation they realize are structured within a dynamic web of local, regional, national and transnational relationships. It is particularly concerned with: i) the ways the process of development determines access to these systems and the ways in which the benefits they realize are both structured and allocated; and ii) set in this context, what\r\nmight be the prerequisites and determinants for sound policy in each of these areas/fields\r\n"
+        },
+        {
+            "dept": "comn",
+            "code": "4217",
+            "credit": 6.0,
+            "name": "Governing Culture: Cultural Policy in an Era of Neoliberal Globalization",
+            "prereqs": "",
+            "desc": "Situating cultural policy within an age of neoliberal globalization this course introduces students to the theoretical approaches that have shaped scholarly discourse on cultural policy and analyzes the rationales offered for cultural policy initiatives at local, national and international levels. Emphasizing the growing hegemony of information capital, it explores how the management of culture operates as a means of exercising social power.   \r\nCourse credit exclusions: None."
+        },
+        {
+            "dept": "comn",
+            "code": "4222",
+            "credit": 3.0,
+            "name": "News Next: Creating News in a Platform Society",
+            "prereqs": "",
+            "desc": "This course will look at changes to how news is gathered, distributed and consumed. The impact of social media, allegations of &quot;fake news&quot; and the shift away from traditional forms of news presentation will be part of an examination of journalism's role and influence. The course will include practitioners discussing challenges and new approaches."
+        },
+        {
+            "dept": "comn",
+            "code": "4270",
+            "credit": 3.0,
+            "name": "Cultural Industries and Work",
+            "prereqs": "",
+            "desc": "This course will examine cultural industries, exploring from a historical perspective the ongoing transformations that are shaping the way media, culture and communication are produced and consumed in the contemporary global economy. Particular emphasis will be given to the effects of these transformations on the nature of work in the cultural industries.\r\nCourse credit exclusions: None."
+        },
+        {
+            "dept": "comn",
+            "code": "4275",
+            "credit": 3.0,
+            "name": "Power, Resistance and New Media",
+            "prereqs": "",
+            "desc": "What is the relationship between the changing forms of state and corporate power and civil society resistance associated with new media?  The role of new media in protest movements (e.g., Occupy),  transparency platforms (e.g., Wikipedia), and hactivism (e.g., Anonymous) is explored, along with how states and corporations limit communication rights and use new media to surveil and disrupt civil societies. Theories of networks, social movements, tactical and new media, and state formation will be addressed.\r\nCourse credit exclusions: None. Open to: Fourth year students."
+        },
+        {
+            "dept": "comn",
+            "code": "4520",
+            "credit": 6.0,
+            "name": "Electronic Information Network Marketplace",
+            "prereqs": "",
+            "desc": "Examines the social, economic, political and technological forces in Canada and other nations that are creating an electronic information network marketplace. The main purpose is to identify the opportunities and barriers to a new kind of information-rich civilization, to test its implications and to suggest strategies for managing it. Course credit exclusion: AP/COMN 4320 6.00."
+        },
+        {
+            "dept": "comn",
+            "code": "4700",
+            "credit": 6.0,
+            "name": "Popular Culture and Communications",
+            "prereqs": "",
+            "desc": "Employing a variety of theoretical and methodological perspectives, this course examines the role of communications media and information and technology in the production and circulation of popular cultural artifacts and practices. Course credit exclusion: AP/COMN 4300 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "4708",
+            "credit": 6.0,
+            "name": "Youth Cultures and Media Practices",
+            "prereqs": "",
+            "desc": "This course analyzes contemporary youth cultures with an emphasis on the ways in which youth engage with diverse and converging media texts and practices. The course develops a contextual understanding of media literacy, identities, embodiments, subcultures, social networks and civic engagements within the lives of youth, analyzing media institutions and policies, consumer cultures, technologies as well as local participatory and transnational practices.  Youth are understood in terms of their media uses and productions as learners, consumers, producers and artists across complex relations of power, discursive frameworks and dynamic experiences. Oriented toward conceptualizing &quot;youth,&quot; &quot;culture&quot; and &quot;media practices&quot; in relational, historically nuanced and culturally situated ways, we will examine and undertake qualitative youth media research with critical and reflexive theoretical and methodological tools.  Our goal is to balance an understanding of hegemonic forces of commodification controlled by corporate media with emerging and changing relations in which youth collectively transform the conditions, forms and directions of their media participation.\r\nCourse credit exclusion: AP/HUMA 4141 6.00."
+        },
+        {
+            "dept": "comn",
+            "code": "4721",
+            "credit": 3.0,
+            "name": "The City in Film:  Identity and Place",
+            "prereqs": "",
+            "desc": "The cinema, arguably the most significant cultural medium of mass communication of the 20th century, reflects and interprets urban experience, contributing to perceptions of the real city through the popular imagination. The theoretical underpinnings of the course are located in Benjamin's and Baudrillard's ideas regarding the significance of the cinema in relation to urban life; selected films illustrate their contentions.\r\nCourse credit exclusion: AP/COMN 4321 3.00 (prior to Fall 2012). Open to: fourth-year Communication Studies majors only."
+        },
+        {
+            "dept": "comn",
+            "code": "4725",
+            "credit": 6.0,
+            "name": "Mediations of Identity",
+            "prereqs": "",
+            "desc": "Examines processes and practices at work in media representations of race, sexuality, gender, class, ethnicity and nation within Western society. Key theoretical approaches to power, knowledge, ideology, subjectivity and signification are applied to current and historical representations of social identities. Course credit exclusion: AP/COMN 4325 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "comn",
+            "code": "4732",
+            "credit": 3.0,
+            "name": "Theories of Diaspora and Transnational Media",
+            "prereqs": "",
+            "desc": "Provides a survey of some of the key issues regarding diaspora and transnational media.  The course examines different theoretical and methodological approaches to diaspora and transnational studies from different disciplines.  Particular attention is given to the role of transnational media and their changing relationships to national identities, space, and collective memory.  Concepts such as nation, transnationalism, diaspora, technology, transnational media, transnational space, diasporic identity, imagined communities, and imagined worlds are explored in this class.    \r\nCourse credit exclusion: AP/COMN 4332 3.00 (prior to Fall 2012). Open to: 4th year Communication Studies majors only (84 credits).\r\n"
+        },
+        {
+            "dept": "comn",
+            "code": "4733",
+            "credit": 3.0,
+            "name": "Second-Generation Diaspora and Identity",
+            "prereqs": "comn4732",
+            "desc": "Builds on AP/COMN 4732 3.00 Theories of Diaspora and Transnational Media, providing a survey of the key issues regarding diaspora and second-generation identity.  Particular attention will be given to the role of transnational media in the construction of second-generation identities from different theoretical and methodological approaches.  Key concepts such as hybridity, symbolic boundaries, 'browning'and gender are explored through a diasporic lens.\r\nPrerequisites: AP/COMN 4732 3.00. Course credit exclusion: AP/COMN 4333 3.00 (prior to Fall 2012). Open to: Communication Studies majors with 84 credits completed.\r\n"
+        },
+        {
+            "dept": "comn",
+            "code": "4740",
+            "credit": 3.0,
+            "name": "Surveillance, media, and society",
+            "prereqs": "",
+            "desc": "This course analyzes the development of what has been called the &quot;surveillance society.&quot; The course combines theoretical and empirical studies, and ranges from debates over security-based surveillance to studies of the ubiquitous surveillance in the contexts of social media. "
+        },
+        {
+            "dept": "comn",
+            "code": "4750",
+            "credit": 3.0,
+            "name": "Approaching Indigenous Media",
+            "prereqs": "",
+            "desc": "This course focuses on forms of indigenous storytelling which underlie indigenous media. It explores indigeneity in popular culture, the history of indigenous broadcasting and broadcast policy in Canada. This course and its complement together trace the arc of indigenous storytelling, from thousands of years ago to the present, as it has evolved through changing regimes of technology, policy, and governance."
+        },
+        {
+            "dept": "comn",
+            "code": "4755",
+            "credit": 3.0,
+            "name": "Indigenous Media in the Canadian Context",
+            "prereqs": "",
+            "desc": "This course focuses on the presence of indigenous media in Canada today, as well as on emergent forms of Indigenous media and emergent Indigenous media theoretical and policy frameworks."
+        }
+    ]
+}

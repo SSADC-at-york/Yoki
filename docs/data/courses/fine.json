@@ -1,0 +1,252 @@
+{
+    "courses": [
+        {
+            "dept": "fine",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Introduction To Finance                ",
+            "prereqs": "",
+            "desc": "Students learn about investment and financing in this core course. The investment decision allocates scarce resources to projects in the organization, and involves asset valuation, capital budgeting, risk management, working capital management and performance assessment. The financing decision chooses sources of cash to finance the investment decisions and involves capital structure, financial instruments, the risk-return trade-off, financial planning and the cost of capital. Ethical considerations and management in the global context are integrated into these topics. Course Credit Exclusion: AP/ECON 4400 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Financial Management                   ",
+            "prereqs": "",
+            "desc": "In this course, students develop their knowledge and skills as financial managers. The course includes both the study of financial management theories and the analysis of business cases. Building on the basics of financial management introduced in SB/FINE 2000 3.0, the course covers capital structure decisions, dividend policy, working capital management, capital budgeting, business valuation, mergers and acquisitions and risk management. Prerequisite: SB/FINE 2000. 3.00.\nCourse credit exclusions: AP/ECON 4400 3.00, AP/ECON 4220 3.00, and \rAP/ECON 4410 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Investments",
+            "prereqs": "fine2000",
+            "desc": "The course begins with an overview of the investment environment in developed markets, followed by a more in-depth analysis of key investment topics. These topics include modern portfolio theory, asset pricing models, term structure of interest rates, stock and bond portfolio management, evaluation of portfolio performance, and behavioral finance. This course serves as a useful introduction to the Chartered Financial Analyst (CFA)\r\ncurriculum.\r\nPrerequisite: SB/FINE 2000 3.00\r\nPreviously offered as: SB/FINE 4200 3.00"
+        },
+        {
+            "dept": "fine",
+            "code": "3310",
+            "credit": 3.0,
+            "name": "Econometrics of Financial Markets ",
+            "prereqs": "",
+            "desc": "This empirical methods course focuses on the statistical techniques that are most often used in the analysis of financial markets. The list of topics includes: statistical properties of asset returns, tests of asset pricing models, the efficient market hypothesis, event study methodology, simulation methods, panel data analysis, and volatility estimation methods such as GARCH, value-at-risk, and time-varying correlations. The focus of the course is to teach the student about empirical methods in finance by performing statistical analysis used in finance on financial data. \u0093I hear and I forget. I see and I remember. I do and I understand.\u0094 Confucius (551 BC to 479 BC). \r\nPrerequisite: MGMT 2050 3.0"
+        },
+        {
+            "dept": "fine",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Behavioural Finance",
+            "prereqs": "fine2000",
+            "desc": "This course surveys finance topics where psychological factors influence security pricing and financial decisions. Much recent study contradicts the view of classical finance that incorporates fully rational and unemotional agents. This course presents situations in which behavioural biases lead to sub-optimal market outcomes. Students will gain a deeper understanding of state-of-the-art developments in behavioural finance and how they apply to practical settings in security analysis and portfolio selection.\r\nPrerequisite: SB/FINE 2000 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "3810",
+            "credit": 3.0,
+            "name": "Fixed Income Fundamentals",
+            "prereqs": "fine2000",
+            "desc": "Introduces the basic concepts and valuation techniques used in the bond market. The first part of the course covers bond prices and their relationship to the no-arbitrage condition, the term structure of interest rates and its estimation. The next part focuses on determination of present value of different cash flows, valuation of financial instruments and bond portfolio.\r\nPrerequisite: SB/FINE 2000 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "4050",
+            "credit": 3.0,
+            "name": "Personal Finance                       ",
+            "prereqs": "fine2000",
+            "desc": "Students learn personal financial management both for professional work in the financial services industry and for their own families.  Topics include goal-setting, budgeting, taxation, debt management, risk management, insurance, investment principles and practice and retirement planning.  Much of the course is based upon realistic problems and cases.\r\n\r\nPrerequisite:  SB/FINE 2000 3.00"
+        },
+        {
+            "dept": "fine",
+            "code": "4060",
+            "credit": 3.0,
+            "name": "Advanced Personal Finance: Retirement Income Models",
+            "prereqs": "fine2000",
+            "desc": "This course addresses advanced topics in personal finance. It focuses on the management of uncertainty (randomness) consumers face towards the end of the lifecycle in the areas of longevity, mortality, inflation, investment returns, pensions and income taxes. The instructional pedagogy is interactive and computational. Students will learn how to create R-scripts that optimize and solve real-world retirement income problems.\r\nPrerequisite: SB/FINE 2000 3.00\r\nCorequisite: SB/FINE 4050 3.00\r\n"
+        },
+        {
+            "dept": "fine",
+            "code": "4150",
+            "credit": 3.0,
+            "name": "Advanced Corporate Finance             ",
+            "prereqs": "fine3100",
+            "desc": "Building on the concepts, models and decision situations presented in SB/FINE 2000 3.00 and SB/FINE 3100 3.00, the course exposes students to more advanced, complex and specialized decision situations in the areas of corporate investment, financing, financial planning and financial management. Applications and case analyses are important aspects of the course.\r\n\r\nPrerequisite: SB/FINE 3100 3.00.\n Course Credit Exclusion: AP/ECON 4420 3.0\r0."
+        },
+        {
+            "dept": "fine",
+            "code": "4700",
+            "credit": 3.0,
+            "name": "Management Of Canadian Financial Institutions ",
+            "prereqs": "fine2000",
+            "desc": "This course is designed to prepare managers for the newly developing financial services industry. The initial part of the course provides the conceptual background for a broad view of the management function in financial services. The second part of the course develops a generic set of tools for managing return and the various kinds of risk facing managers in this industry. The final part reviews recent adventures and misadventures of industry sectors including: financial regulators, central and chartered banking, trust companies, mortgage loan companies, credit unions and caisses populaires, investment bankers, property and casualty insurers, life insurers and investment funds. Near- and long-term market-size factors are considered including demographics, foreign competition in the Canadian market, as well as the opportunities and threats facing Canadian institutions that venture abroad.\r\n\r\nPrerequisite: SB/FINE 2000 3.00.\nCourse Credit Exclusion: GL/ECON 3380 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "4800",
+            "credit": 3.0,
+            "name": "Options,Futures&amp;Other Derivative Securities",
+            "prereqs": "fine2000 mgmt1050 omis1000",
+            "desc": "This course explains the way in which derivative securities such as options, futures contracts, forward contracts, swaps and interest rate caps can be valued. It discusses arbitrage relationships, risk neutral valuation, the creation of options synthetically, numerical procedures and the evaluation of credit risk.\r\nPrerequisites: SB/FINE 2000 3.00 and SB/MGMT 1050 3.00 (previously offered as: SB/OMIS 1000 3.00).\n Course Credit Exclusion: AP/ECON 4410 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study - Selected Problems in Finance",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "fine",
+            "code": "4901",
+            "credit": 3.0,
+            "name": "Guided Study - Selected Problems in FINE",
+            "prereqs": "",
+            "desc": "Guided Study - Selected Problems in FINE"
+        },
+        {
+            "dept": "fine",
+            "code": "5200",
+            "credit": 3.0,
+            "name": "Managerial Finance                     ",
+            "prereqs": "",
+            "desc": "Provides an opportunity to learn about investment and financing decisions. The investment decisions involve asset valuation, capital budgeting, risk management, working capital management and performance assessment. The financing decisions include the choice of capital structure and financial instruments, the risk-return trade-off, financial planning and cost of capital. Ethical, environmental, and corporate governance considerations are integrated into investment and financing decisions."
+        },
+        {
+            "dept": "fine",
+            "code": "6050",
+            "credit": 3.0,
+            "name": "Personal Financial Management",
+            "prereqs": "fine5200",
+            "desc": "Students learn the concepts and techniques of personal financial management in a thorough and rigorous finance framework. Topics include: goal setting, budgeting, financial intermediation, income tax, risk management, insurance, debt management, home valuation, investments, retirement planning, estate planning and strategic use of personal financial planning in financial institutions.\r\nPrerequisite: SB/FINE 5200 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Financial Management                   ",
+            "prereqs": "fine5200",
+            "desc": "This course focuses on key issues in corporate financial management. It covers working capital management, capital budgeting, capital structure decisions, dividend policy, mergers and acquisitions, leasing and the impact of inflation on financial decisions. Extensive use may be made of case studies.\r\nPrerequisite: SB/FINE 5200 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "6150",
+            "credit": 3.0,
+            "name": "Advanced Corporate Finance             ",
+            "prereqs": "fine6100",
+            "desc": "Building on the concepts, models and decision situations presented in SB/FINE 5200 3.00 and SB/FINE 6100 3.00, this course exposes the student to more advanced, complex and specialized decision situations in the areas of corporate investment, financing, financial planning and financial management. Applications and case analyses are important aspects of the course. A term research paper is usually required.\r\nPrerequisite: SB/FINE 6100 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Investments",
+            "prereqs": "fine5200",
+            "desc": "The course begins with an overview of the investment environment in developed markets, followed by a more in-depth analysis of key investment topics. These topics include modern portfolio theory, asset pricing models, term structure of interest rates, stock and bond portfolio management, evaluation of portfolio performance, and behavioural finance. This course serves as a useful introduction to the Chartered Financial Analyst (CFA) curriculum.\r\nPrerequisite: SB/FINE 5200 3.00"
+        },
+        {
+            "dept": "fine",
+            "code": "6280",
+            "credit": 3.0,
+            "name": "Fintech: Digital Transformation of Financial Services",
+            "prereqs": "mfin5100",
+            "desc": "This course is designed for students interested in the emerging and evolving field of Fintech and the digital transformation of financial services. Students will study the different verticals in the Fintech ecosystem, the current landscape, pain points of consumers, sources of financing and exit for fintech start-ups, open banking, the disruption to incumbents, and cloud computing.\r\nPrerequisites: SB/ FINE5200 3.0 or SB/MFIN5100 3.0 or permission of the instructor."
+        },
+        {
+            "dept": "fine",
+            "code": "6310",
+            "credit": 3.0,
+            "name": "Econometrics of Financial Markets",
+            "prereqs": "",
+            "desc": "This empirical methods course focuses on the statistical techniques that are most often used in the analysis of financial markets. The list of topics include: statistical properties of asset returns, tests of asset pricing models, efficient market hypothesis, event study methodology, simulation methods, panel data analysis, and volatility estimation such as GARCH, value-at-risk, and time-varying correlations.\r\nCorequisite: SB/FINE 6200 3.00.\n"
+        },
+        {
+            "dept": "fine",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Behavioural Finance",
+            "prereqs": "fine5200",
+            "desc": "Classical finance incorporates fully rational, unemotional agents; financial decisions are made without the influence of emotions or personal characteristics. Much recent study contradicts this view. By examining psychological factors known to influence individual choice and financial decision-making we can identify behavioural biases that are both reliable and exploitable. With care, many of these biases can be avoided. \r\nPrerequisite: SB/FINE 5200 3.00."
+        },
+        {
+            "dept": "fine",
+            "code": "6600",
+            "credit": 3.0,
+            "name": "Corporate Financial Analysis           ",
+            "prereqs": "actg5210 fine5200 omis5120 mfin5200",
+            "desc": "This course uses principles of economics, finance and accounting to examine problems in topics such as cash flow analysis, ratio analysis, strategic financial planning, interpretation of annual reports and prospectuses, economic modelling and business valuation. Students must deal with multi-faceted, ambiguous problems similar to real-world situations. The well-behaved data and simplifying assumptions used in theory courses are discarded in favour of the realistic, complex data in annual reports and other sources of financial information.\r\nPrerequisites: for MBA and IMBA students: SB/ACTG 5210 1.50, SB/FINE 5200 3.00, and SB/OMIS 5120 1.50 or equivalent; for MF students: SB/MFIN 5200 3.00.\r\nCorequisites: One of SB/FINE 6100 3.00, SB/FINE 6200 3.00, SB/ACTG 6120 3.00 or SB/FNEN 6210 3.00.\r\nCourse credit exclusion: SB/ACTG 6250 3.00 (either SB/FINE 6600 3.00 or SB/ACTG 6250 3.00, but not both, may be taken for credit)."
+        },
+        {
+            "dept": "fine",
+            "code": "6800",
+            "credit": 3.0,
+            "name": "Options,Futures and Other Derivative Securities ",
+            "prereqs": "fine6200 mfin5600",
+            "desc": "This course explains the way in which derivative securities such as options, futures contracts, forward contracts, swaps and interest rate caps can be valued. It discusses arbitrage relationships, risk neutral valuation, the creation of options synthetically, numerical procedures and the evaluation of credit risk.\r\nPrerequisite: for MBA and IMBA students: SB/FINE 6200 3.00, for MF students: SB/MFIN 5600 3.00.\r\nCourse credit exclusion: SB/FNEN 6810 3.00 (prior to Fall 2016) (either SB/FINE 6800 3.00 or SB/FNEN 6810 3.00, but not both, may be taken for credit)."
+        },
+        {
+            "dept": "fine",
+            "code": "6850",
+            "credit": 3.0,
+            "name": "Fixed Income Securities",
+            "prereqs": "fine6200",
+            "desc": "Provides an opportunity to learn the various features and unique characteristics of fixed income securities and markets, analyze and \r\nevaluate fixed income securities, and develop tools for managing interest rate risk and other applications. Computer assisted \r\n(e.g., Excel and VBA) applications are used throughout the course to enhance student learning experience, with both hands-on\r\nin-class exercises and assigned homework problems.\r\nPrerequisite: SB/FINE 6200 3.00\r\n"
+        },
+        {
+            "dept": "fine",
+            "code": "6880",
+            "credit": 3.0,
+            "name": "Sustainable Finance and Impact Investing",
+            "prereqs": "fine5200 mfin5100",
+            "desc": "This course covers diverse aspects of sustainable finance, including ESG measurement, socially responsible and impact investing, integrated reporting, and risk management, and provides rigorous training at the nexus of sustainability and financial management. Students will gain insights into sustainable and responsible decision-making in finance and how corporations and investors respond to market forces and regulations requiring them to invest responsibly.\nPrerequisite for MBAs: SB/FINE5200 3.0, or  for MFIN students: SB/MFIN5100 3.0, or permission of the instructor"
+        },
+        {
+            "dept": "fine",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Finance ",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "fine",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Finance",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "fine",
+            "code": "7100",
+            "credit": 3.0,
+            "name": "PhD Seminar in Asset Pricing",
+            "prereqs": "",
+            "desc": "The focus of this course is on individuals' consumption and portfolio decisions under uncertainty and their implications for security valuations. The discussions of related topics are cast in both the discrete- and the continuous-time framework."
+        },
+        {
+            "dept": "fine",
+            "code": "7200",
+            "credit": 3.0,
+            "name": "PhD Seminar in Corporate Finance",
+            "prereqs": "",
+            "desc": "This course is designed to guide students through a variety of corporate finance topics. Students will study both theoretical and empirical papers on corporate decision-making and financial markets. Students will also have an opportunity to start a research project of their own."
+        },
+        {
+            "dept": "fine",
+            "code": "7300",
+            "credit": 3.0,
+            "name": "PhD Topics in Finance",
+            "prereqs": "",
+            "desc": "This course takes advantage of the research expertise of individual faculty members in the finance area.  Students are exposed to specific topics at the forefront of financial research, such as financial institution, risk management, and asset allocation."
+        },
+        {
+            "dept": "fine",
+            "code": "7900",
+            "credit": 3.0,
+            "name": "Selected Problems in Administration",
+            "prereqs": "",
+            "desc": "Under the guidance of a faculty member, students may undertake a special program of guided studies tailored to the mutual interests of the student and faculty member. For record purposes, the course is given the indicator letters of the major area involved, such as SB/FINE 7900 3.00 if it is taken in the Finance area."
+        }
+    ]
+}

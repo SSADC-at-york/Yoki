@@ -1,0 +1,36 @@
+{
+    "courses": [
+        {
+            "dept": "lrel",
+            "code": "6026",
+            "credit": 3.0,
+            "name": "Privacy in the Workplace",
+            "prereqs": "",
+            "desc": "Privacy has emerged as one of the most important legal principles in modern workplace law.   In this course, we will consider the origins and development of the right of privacy, examine how the right has been applied in the common and civil law and by statute, and review specific workplace issues.   The course will be taught from a comparative perspective, with a focus on the laws of Canada, the United States, the United Kingdom and the European Union. "
+        },
+        {
+            "dept": "lrel",
+            "code": "6028",
+            "credit": 3.0,
+            "name": "Comparative Labour and Employment Law: The British Model",
+            "prereqs": "",
+            "desc": "Introduces students to key historical and contemporary issues and debates in British labour and employment law from a comparative law perspective. The course covers how the British approach to employment law differs, yet still has an impact on the Canadian approach."
+        },
+        {
+            "dept": "lrel",
+            "code": "6569",
+            "credit": 3.0,
+            "name": "Special Topics in the Law of Work",
+            "prereqs": "",
+            "desc": "Explores in great detail important and topical issues and debates in labour and employment law."
+        },
+        {
+            "dept": "lrel",
+            "code": "7000",
+            "credit": 3.0,
+            "name": "Advanced Issues in Labour Arbitration",
+            "prereqs": "",
+            "desc": "This course deals primarily with rights (grievance) arbitration under the terms of a collective agreement. The course addresses historical, theoretical and practical aspects of labour arbitration. A major theme of the course is the historical evolution and transformation of arbitration as an institution for the resolution of workplace disputes. Major issues concerning the relationship between arbitration and other mechanisms for the resolution of workplace disputes are also addressed."
+        }
+    ]
+}

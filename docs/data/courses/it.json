@@ -1,0 +1,52 @@
+{
+    "courses": [
+        {
+            "dept": "it",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Italian",
+            "prereqs": "",
+            "desc": "This course is designed for students with no previous formal training in standard Italian. This course teaches speaking and writing skills through the study of elementary grammar, the practice of vocabulary, intonation and pronunciation."
+        },
+        {
+            "dept": "it",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Italian",
+            "prereqs": "it1000 it1002",
+            "desc": "This course is intended for students with background knowledge of Italian. Emphasis is placed on oral competence and writing skills. Note: Departmental Course Entry Authorization slip required PRIOR TO ENROLMENT. Prerequisite: Level 4 U/M High School Italian or AP/IT 1000 6.00 or AP/IT 1002 3.00. Course credit exclusion: AP/IT 2030 6.00."
+        },
+        {
+            "dept": "it",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Introduction to Italian Linguistics",
+            "prereqs": "",
+            "desc": "This course deals with linguistic descriptions of the Italian language: its sounds, morphosyntactic features, lexicon, texts and varieties. It provides an overview of linguistic theories as applied to Italian. It requires students to engage in linguistic analyses. Previously offered as: AP/IT 2100 6.00. All Italian terminology and terms will be explained and translated. "
+        },
+        {
+            "dept": "it",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Advanced Italian, Level I",
+            "prereqs": "it2000",
+            "desc": "This course develops the students' command of Italian through the further study of difficult areas of morphology and syntax. Readings from contemporary sources expose students to Italian cultural trends and provide a basis for discussions and short essays. \r\nPrerequisite: AP/IT 2000 6.00 (with a grade of at least C) or equivalent, or permission of the department. Course credit exclusion: AP/IT 3030 6.00."
+        },
+        {
+            "dept": "it",
+            "code": "3750",
+            "credit": 6.0,
+            "name": "Modern Italian Culture (in translation)",
+            "prereqs": "",
+            "desc": "Introduces students to cultural, social and political issues which form the fabric of Italian civilization from unification to the present. Note: Students who are taking Italian as a major or minor subject are required to do the readings and assignments for this course in Italian. Course credit exclusions: AP/IT 4750 6.00.\n"
+        },
+        {
+            "dept": "it",
+            "code": "4750",
+            "credit": 6.0,
+            "name": "Modern Italian Culture (in translation)",
+            "prereqs": "",
+            "desc": "Introduces students to Italian culture and its transformations from unification to the present. National identity and regional differences, the influence of the Church, Fascism and Resistance, industrialization, mafia and the southern problem, youth revolts and feminism, shifts in social values and practices, present-day political, social and economic issues, cinema, literature, design, and the visual arts are discussed.\r\n\r\nCourse credit exclusions: AP/IT 3750 6.00.\r\n\r\nStudents enrolled in a Major or Minor in Italian Studies may be required to complete coursework in Italian."
+        }
+    ]
+}

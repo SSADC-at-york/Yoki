@@ -1,0 +1,756 @@
+{
+    "courses": [
+        {
+            "dept": "kine",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Sociocultural Perspectives in Kinesiology",
+            "prereqs": "",
+            "desc": "Introduction to the concept of the 'social body' through study of Western historical legacies and sociological factors of class, gender, 'race', culture with emphasis on sport sociology. Critical reading and research essay skills."
+        },
+        {
+            "dept": "kine",
+            "code": "1020",
+            "credit": 6.0,
+            "name": "Fitness and Health",
+            "prereqs": "",
+            "desc": "An examination of the components and principles of fitness and health with particular attention to the evaluation and modification of fitness and health status."
+        },
+        {
+            "dept": "kine",
+            "code": "2011",
+            "credit": 3.0,
+            "name": "Human Physiology I",
+            "prereqs": "",
+            "desc": "A cellular basis of physiology from the sub-cellular to cellular components to organs including the functions and the mechanisms of function. The course covers fundamental cell science, cell physiology, plasma membrane potentials, muscle physiology, neuron pathways, blood and components, and basic immunology. Course credit exclusions: HH/IHST 1000 6.00, HH/IHST 1001 3.00, HH/IHST 1002 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "2031",
+            "credit": 3.0,
+            "name": "Human Anatomy",
+            "prereqs": "",
+            "desc": "An overview of the gross anatomy of the human body. The following systems are examined: skeletal, muscular, nervous, circulatory, lymphatic, respiratory, digestive, urinary, reproductive and endocrine. Course credit exclusions: HH/IHST 1000 6.00, HH/IHST 1002 3.00, SC/NATS 1650 6.00."
+        },
+        {
+            "dept": "kine",
+            "code": "2049",
+            "credit": 3.0,
+            "name": "Research Methods in Kinesiology",
+            "prereqs": "",
+            "desc": "Introduces students to the procedures utilized to design and conduct research in the discipline of kinesiology. Course credit exclusion: HH/PSYC 2030 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "2050",
+            "credit": 3.0,
+            "name": "Analysis of Data in Kinesiology I",
+            "prereqs": "kine2049",
+            "desc": "An introduction to scientific method and the statistical analysis of experimental data. The conduct of simple experiments, techniques of naturalistic observation and the analysis of resulting data using fundamental concepts of descriptive and inferential statistics. \r\n\r\nPrerequisite: HH/KINE 2049 3.00. \r\n\r\nCourse credit exclusions: SC/BIOL 2060 3.00, ES/ENVS 2010 6.00, ES/ENVS 2010 3.00, SC/MATH 1132 3.00, SC/MATH 2500 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "2380",
+            "credit": 3.0,
+            "name": "Introduction to Sport Administration         ",
+            "prereqs": "",
+            "desc": "This course is designed to introduce students to the knowledge and skills needed to be successful in sport management. Topics include leadership styles, communication and change management skills, creative problem-solving and an introduction to event management and marketing. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "2475",
+            "credit": 3.0,
+            "name": "Coaching: The Art and Science",
+            "prereqs": "",
+            "desc": "Introduces the fundamental principles involved in the coaching process. Background and philosophic issues related to the coach and the athlete are explored. Note: Upon successful completion of this course, students receive the certification Coaching: Introduction to Competition Part A and Part B of the National Coaching Certification Program."
+        },
+        {
+            "dept": "kine",
+            "code": "2495",
+            "credit": 3.0,
+            "name": "Introduction to Sport Related Injuries",
+            "prereqs": "",
+            "desc": "Provides students with a broad spectrum of knowledge relating to topics in sport related injuries.  Discussions of sport injuries and conditions relating to injury prevention, evaluation and management helps students develop the foundational knowledge relating to the health care field. Corequisite: HH/KINE 2031 3.00. Course Credit Exclusion: HH/KINE 2490 3.00 and HH/KINE 3600 3.00 (prior to fall/winter 2017-18)  Open to: Kinesiology and Health Science Students "
+        },
+        {
+            "dept": "kine",
+            "code": "2500",
+            "credit": 3.0,
+            "name": "Athletic Therapy Field Inquiry-Based Tutorial",
+            "prereqs": "kine2031 kine2495",
+            "desc": "Provides students with knowledge relating to sport, anatomy, biomechanics, epidemiology, pathophysiology, evaluation, management and communication.  Classroom focused experiential education through small group discussions of urgent and non-urgent field case studies will be utilized to promote learning, research and critical thinking in five domains including prevention, assessment, intervention, practice management and professional responsibility.  \r\nPrerequisites: HH/KINE 2031 3.00 HH/KINE 2495 3.00\r\nCorequisites: HH/KINE 2501 3.00\r\nOpen to:\tAthletic Therapy Certificate Program Students within Kinesiology and Health Science  "
+        },
+        {
+            "dept": "kine",
+            "code": "2501",
+            "credit": 3.0,
+            "name": "Athletic Therapy Field Seminar and Skills",
+            "prereqs": "kine2031 kine2495",
+            "desc": "Provides students with knowledge relating to professional practice issues and management within Athletic Therapy. Topics will relate to the foundational principles and concepts of the field care aspect in Athletic Therapy. The course includes classroom focused experiential education through practical lab sessions, guest speakers and case studies. The course provides students with the required psychomotor and communication skills relating to the urgent and nonurgent field case studies discussed in the Athletic Therapy Field Inquiry-Based Tutorial. Skills will include (but are not limited to) the application and management of sport equipment, taping/support techniques, immediate on-field management of major and minor injuries, and sideline assessment. Lab-based activities such as role-playing, mini-case study analysis, simulations and reflection will be integrated.\r\nPrerequisites: HH/KINE 2031 3.00 HH/KINE 2495 3.00 \r\nCorequisites: HH/KINE 2500 3.00\r\nOpen to: Athletic Therapy Certificate Program Students within Kinesiology and Health Science"
+        },
+        {
+            "dept": "kine",
+            "code": "2502",
+            "credit": 3.0,
+            "name": "Athletic Therapy Extremities Inquiry-Based Tutorial",
+            "prereqs": "kine2500 kine2501",
+            "desc": "Provides students with knowledge relating to sport, anatomy, biomechanics, epidemiology, pathophysiology, evaluation, management and communication.  Classroom focused experiential education through small group discussions of extremity related clinical case studies will be utilized to promote learning, research and critical thinking in five domains including prevention, assessment, intervention, practice management and professional responsibility.  \r\nPrerequisites: HH/KINE2500 3.00, HH/KINE2501 3.00\r\nCorequisites: HH/KINE2503 3.00\r\nOpen to: Athletic Therapy Certificate Program Students within Kinesiology and Health Science  "
+        },
+        {
+            "dept": "kine",
+            "code": "2503",
+            "credit": 3.0,
+            "name": "Athletic Therapy Extremities Seminar and Skills",
+            "prereqs": "kine2500 kine2501",
+            "desc": "Provides students with knowledge relating to professional practice issues and management within Athletic Therapy.  Topics will relate to the principles and concepts of the clinical extremities care aspect in Athletic Therapy.  The course includes classroom focused experiential education through practical lab sessions, guest speakers and case studies.   \r\nThe course provides students with the required psychomotor and communication skills relating to extremity related case studies discussed in the Athletic Therapy Extremity Inquiry-Based Tutorial.  Skills will include (but are not limited to) functional/surface anatomy, taping/support techniques, clinical orthopaedic evaluation and tests, electrotherapeutic modality application, manual therapies, and therapeutic exercise.  Lab-based activities such as role-playing, mini-case study analysis, simulations and reflection will be integrated. \r\nPrerequisites: HH/KINE2500 3.00, HH/KINE2501 3.00\r\nCorequisites: HH/KINE 2502 3.00\r\nOpen to: Athletic Therapy Certificate Program Students within Kinesiology and Health Science  "
+        },
+        {
+            "dept": "kine",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Psychology of Physical Activity and Health",
+            "prereqs": "kine1000 kine1020 kine2049 kine2050 psyc1010",
+            "desc": "An overview of the theoretical frameworks and psychological principles related to physical activity, exercise and sport. Prerequisites: HH/KINE 1000 6.00; HH/KINE 1020 6.00; HH/KINE 2049 3.00; HH/KINE 2050 3.00; HH/PSYC 1010 6.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3012",
+            "credit": 3.0,
+            "name": "Human Physiology II",
+            "prereqs": "kine2011",
+            "desc": "The principles of homeostasis and physiological regulation are studied in relation to the cardiorespiratory, renal, locomotor, reproductive and digestive systems. Prerequisite: HH/KINE 2011 3.00. Introductory biology or life science is highly recommended. "
+        },
+        {
+            "dept": "kine",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Skilled Performance and Motor Learning ",
+            "prereqs": "kine2050 psyc1010",
+            "desc": "An introduction to the analysis and development of skilled performance. Prerequisites: HH/KINE 2050 3.00; HH/PSYC 1010 6.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3030",
+            "credit": 3.0,
+            "name": "Biomechanics of Human Movement",
+            "prereqs": "kine2031",
+            "desc": "Human movement is investigated with particular reference to the laws of physics (mechanics) and anatomical concepts as applied to joint motion and muscular action. Application of biomechanics to sports skills execution and laboratory exposure to contemporary analysis are included. Prerequisite: HH/KINE 2031 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Health Psychology and Kinesiology",
+            "prereqs": "psyc1010",
+            "desc": "Provides an overview of primary topics in health psychology, emphasizing both psychological research approaches specific to physical activity and its application to behaviours related to eating and weight, pain, cancer and related diseases. Prerequisite: HH/PSYC 1010 6.00. Course credit exclusion: HH/PSYC 3170 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Behavioural Approach to Administration of Fitness and Sport",
+            "prereqs": "",
+            "desc": "The focus of this course is on working with people. Students learn the theory and practice of team building, communication and counselling skills. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "3340",
+            "credit": 3.0,
+            "name": "Growth, Maturation and Physical Activity",
+            "prereqs": "",
+            "desc": "Examines and discuss the literature and research studies in those aspects of physical growth and development that directly concern educators. Individual differences in growth and development are stressed throughout."
+        },
+        {
+            "dept": "kine",
+            "code": "3345",
+            "credit": 3.0,
+            "name": "Adapted Physical Activity",
+            "prereqs": "kine1000 kine2031",
+            "desc": "Addresses topics related to working with differently abled individuals in a physical activity setting. Theoretical and applied aspects of working with differently abled populations are introduced. Assessment, instruction and evaluation are addressed. Adaptations and modifications are taught for diverse settings including school, recreation and sport. Prerequisites: HH/KINE 1000 6.00 and HH/KINE 2031 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3350",
+            "credit": 3.0,
+            "name": "Physical Activity, Health and Aging",
+            "prereqs": "kine1020 kine2020",
+            "desc": "Examines the aging process, lifestyle changes and the effect of physical activity on the health of aging adults. Prerequisites: HH/KINE 1020 6.00; HH/KINE 2020 3.00. Note: Internet use is required for this course."
+        },
+        {
+            "dept": "kine",
+            "code": "3360",
+            "credit": 3.0,
+            "name": "Gender and Sexuality in Sport and Health",
+            "prereqs": "kine1000",
+            "desc": "Introduces students to the social production of gender (including femininity and masculinity) and sexuality and how it impacts the worlds of sport and health. The course introduces students to feminist and queer theory approaches within the discipline. Prerequisite: HH/KINE 1000 6.00. Course credit exclusions: HH/KINE 4350 3.00; HH/KINE 4360 3.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Fitness Consulting and Personal Fitness Training",
+            "prereqs": "kine1020 kine2031",
+            "desc": "Provides detailed theoretical and practical instruction on physical activity/exercise prescription, management, supervision and intervention strategies with a focus on health-related fitness outcomes. Prerequisites: HH/KINE 1020 6.00; HH/KINE 2031 3.00; Corequisite: HH/KINE 3012 3.00; HH/KINE 3030 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3430",
+            "credit": 3.0,
+            "name": "Canadian Culture and Physical Activity",
+            "prereqs": "",
+            "desc": "This course examines how Canadian physical activity and health has been organized since Confederation and the processes by which people have fashioned sport and health within economic, social, and political struggles and changes. The course focuses upon the history of Canadian sports, physical education, physical fitness and recreation. Three lecture hours per week. One term. Course credit exclusions: AS/PHED 3430 3.00 (prior to Fall/Winter 1996-1997). Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "3440",
+            "credit": 3.0,
+            "name": "Olympic Games: Heroes and Villains at Play",
+            "prereqs": "",
+            "desc": "A comparative analysis of recent developments and characteristics of physical education and sports in representative nations and world regions. The course covers objectives, methods, personnel and facilities in physical education and evaluation of selected national sports programs. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "3460",
+            "credit": 3.0,
+            "name": "Regional Human Anatomy I",
+            "prereqs": "kine2031",
+            "desc": "A comprehensive study of the structures of the human body. This course includes an examination of the upper limb, lower limb and back. Prerequisite: HH/KINE 2031 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3465",
+            "credit": 3.0,
+            "name": "Regional Human Anatomy II",
+            "prereqs": "kine2031",
+            "desc": "Examines, in detail, the anatomical regions of the head, neck, back and thorax. Prerequisite: HH/KINE 2031 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3490",
+            "credit": 3.0,
+            "name": "Sport Policy and Politics ",
+            "prereqs": "",
+            "desc": "Discussions about power, politics and ethics as they relate to current sport policy issues are explored. Policy development and policy analysis skills are learned and applied to issues in relation to sport in a number of sectors (e.g., public, the third sector, commercial, etc.). Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Athletic Therapy Head, Trunk &amp; Spine Inquiry-Based Tutorial",
+            "prereqs": "kine2502 kine2503",
+            "desc": "Provides students with knowledge relating to sport, anatomy, biomechanics, epidemiology, pathophysiology, evaluation, management and communication.  Classroom focused experiential education through small group discussions of head, trunk and spine related clinical case studies will be utilized to promote learning, research and critical thinking in five domains including prevention, assessment, intervention, practice management and professional responsibility.  \r\nPrerequisites: HH/KINE 2502 3.00, HH/KINE 2503 3.00\r\nCorequisites: HH/KINE 3501 3.00\r\nOpen to: Athletic Therapy Certificate Program Students within Kinesiology and Health Science  "
+        },
+        {
+            "dept": "kine",
+            "code": "3501",
+            "credit": 3.0,
+            "name": "Athletic Therapy Head Trunk and Spine Seminar and Skills",
+            "prereqs": "kine2502 kine2503",
+            "desc": "Provides students with knowledge relating to professional practice issues and management within Athletic Therapy.  Topics will relate to the concepts of the head, trunk and spine care aspect in Athletic Therapy. The course includes classroom focused experiential education through practical lab sessions, guest speakers and case studies.  The course provides students with the required psychomotor and communication skills relating to head, trunk and spine related case studies discussed in the Athletic Therapy Head, Trunk and Spine Inquiry-Based Tutorial.  Skills will include (but are not limited to) functional/surface anatomy, taping/support techniques, clinical orthopaedic evaluation and tests, electrotherapeutic modality application, manual therapies, and therapeutic exercise. Lab-based activities such as role-playing, mini-case study analysis, simulations and reflection will be integrated.\r\nPrerequisites: HH/KINE 2502 3.00, HH/KINE 2503 3.00\r\nCorequisites: HH/KINE 3500 3.00\r\nOpen to: Athletic Therapy Certificate Program Students within Kinesiology and Health Science  "
+        },
+        {
+            "dept": "kine",
+            "code": "3502",
+            "credit": 3.0,
+            "name": "Athletic Therapy Upper &amp; Lower Quadrant Inquiry-Based Tutorial",
+            "prereqs": "kine3500 kine3501",
+            "desc": "Provides students with knowledge relating to sport, anatomy, biomechanics, epidemiology, pathophysiology, evaluation, management and communication.  Classroom focused experiential education through small group discussions of upper and lower quadrant related clinical case studies will be utilized to promote learning, research and critical thinking in five domains including prevention, assessment, intervention, practice management and professional responsibility.  \r\nPrerequisites: HH/KINE 3500 3.00, HH/KINE 3501 3.00\r\nCorequisites: HH/KINE 3503 3.00\r\nOpen to: Athletic Therapy Certificate Program Students within Kinesiology and Health Science  "
+        },
+        {
+            "dept": "kine",
+            "code": "3503",
+            "credit": 3.0,
+            "name": "Athletic Therapy Upper &amp; Lower Quadrant Seminar and Skills",
+            "prereqs": "kine3500 kine3501",
+            "desc": "Provides students with knowledge relating to professional practice issues and management within Athletic Therapy.  Topics will relate to the concepts of the upper &amp; lower quadrant care aspect in Athletic Therapy.  The course includes classroom focused experiential education through practical lab sessions, guest speakers and case studies.  The course provides students with the required psychomotor and communication skills relating to upper &amp; lower quadrant related case studies discussed in the Athletic Therapy Upper &amp; Lower Quadrant Inquiry-Based Tutorial.  Skills will include (but are not limited to) functional/surface anatomy, taping/support techniques, clinical orthopaedic evaluation and tests, electrotherapeutic modality application, manual therapies, and therapeutic exercise. Lab-based activities such as role-playing, mini-case study analysis, simulations and reflection will be integrated.\r\nPrerequisites: HH/KINE3500 3.00, HH/KINE3501 3.00\r\nCorequisites: HH/KINE3502 3.00\r\nOpen to: Athletic Therapy Certificate Program Students within Kinesiology and Health Science  "
+        },
+        {
+            "dept": "kine",
+            "code": "3575",
+            "credit": 3.0,
+            "name": "Athletic Injuries - Extremities",
+            "prereqs": "",
+            "desc": "This course is an introduction to athletic injuries including injury classification, basic level assessment of the extremities, tissue healing, protective equipment, basic treatment, and common injuries to the extremities. Prerequisite or corequisite: HH/KINE 2031 3.00. PRIOR TO WINTER 2013: course credit exclusions: HH/KINE 3450 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3620",
+            "credit": 3.0,
+            "name": "Sociology of Sport I         ",
+            "prereqs": "",
+            "desc": "Sociological analysis of sport in contemporary society with particular emphasis on issues relating to children, gender and the Canadian scene. Course credit exclusions: AP/SOCI 3670 3.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "3635",
+            "credit": 3.0,
+            "name": "Fundamentals of Epidemiology",
+            "prereqs": "kine2050",
+            "desc": "Provides an introduction to the basic principles of Epidemiology with emphasis on studies undertaken in the field of kinesiology. Topics include: understanding of different study designs, analytic methods used, validity, outbreak investigation, diagnostic tests and causation. Prerequisite: HH/KINE 2050 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3640",
+            "credit": 3.0,
+            "name": "Epidemiology of Physical Activity, Fitness and Health",
+            "prereqs": "kine2020",
+            "desc": "Provides an in-depth assessment of the epidemiology of physical activity, fitness and health. General concepts of epidemiology are covered, as well as associations among activity, exercise, fitness and disease/risk factors. Prerequisite: HH/KINE 2020 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3645",
+            "credit": 3.0,
+            "name": "Physical Activity and Health Promotion",
+            "prereqs": "kine1020",
+            "desc": "This course explores both individual and population level approaches to promoting physical activity and health. Specific emphasis is given to understanding health motivation theories, health communication and health promotion strategies within various settings and among special populations. Prerequisites: AS/HH/SC/KINE 1020 6.00. Course credit exclusions: None.\r\n"
+        },
+        {
+            "dept": "kine",
+            "code": "3650",
+            "credit": 3.0,
+            "name": "Functional Neuroanatomy",
+            "prereqs": "kine2031 psyc3250",
+            "desc": "Investigates the anatomy of the central nervous system, additionally discussing the clinical functional relevance of each area. Prerequisite: HH/KINE 2031 3.00 or SC/BIOL 4370 3.00 or HH/PSYC 3250 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3670",
+            "credit": 3.0,
+            "name": "Molecular and Cellular Neuroscience with Applications to Health",
+            "prereqs": "kine3012",
+            "desc": "The course covers the basic principles of molecular and cellular neuroscience. The course introduces students to the most basic fundamentals of neuroscience, which is the study of the functional properties of the nervous system and relationship between brain and disease. Topics covered range from neuronal structure and function, communication at the synapse and neuromuscular junction, membrane receptors, synaptic transmission, neurotransmitters to the intra- and intercellular signaling systems within the sensory, motor and memory systems. This course provides the background for higher-level courses that deal with more specialized topics in neuroscience and the neurobiology of disease. Prerequisite: HH/KINE 3012 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "3710",
+            "credit": 3.0,
+            "name": "Immune System in Health and Disease",
+            "prereqs": "kine2011 kine3012",
+            "desc": "The immune system in health and disease is designed to provide students with an overview of the immune system including innate and adaptive immunity. The emphasis is on normal immune function and on human diseases with immune origin or immune components particularly diseases where motion is limited by disease such as the arthritises. Prerequisite: HH/KINE 2011 3.00; HH/KINE 3012 3.00. Note: May not be taken for credit by Biology or Biochemistry majors. "
+        },
+        {
+            "dept": "kine",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Exercise Physiology",
+            "prereqs": "kine3012",
+            "desc": "The study of the physiological mechanisms involved during physical activity. The course covers the physiological effects of exercise and training upon the neuromuscular, cardiovascular, respiratory and metabolic systems. Prerequisite: HH/KINE 3012 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Human Nutrition",
+            "prereqs": "kine4010",
+            "desc": "Basic energy and regulatory nutrients are examined, followed by an applied nutrition section in weight control, eating disorders, sport nutrition, food as drugs and food safety. Metabolic interrelationships and health associations are applied throughout. Prerequisite: HH/KINE 4010 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4060A",
+            "credit": 6.0,
+            "name": "Independent Studies in Kinesiology and Health Science",
+            "prereqs": "",
+            "desc": "Students undertake a research project under the supervision of a faculty member. This should include a library investigation, and may include laboratory and/or field investigations. A substantial paper, a poster presentation and an oral presentation are part of the course requirements. Prerequisite: Normally only available to students after completion of 84 credits. Note: Some independent study topics may not be eligible for science credit. Students should consult the School of Kinesiology and Health Science for application."
+        },
+        {
+            "dept": "kine",
+            "code": "4060",
+            "credit": 6.0,
+            "name": "Independent Studies in Kinesiology and Health Science",
+            "prereqs": "",
+            "desc": "Students undertake a research project under the supervision of a faculty member. This should include a library investigation, and may include laboratory and/or field investigations. A substantial paper, a poster presentation and an oral presentation are part of the course requirements. Prerequisite: Normally only available to students after completion of 84 credits. Note: Some independent study topics may not be eligible for science credit. Students should consult the School of Kinesiology and Health Science for application."
+        },
+        {
+            "dept": "kine",
+            "code": "4060",
+            "credit": 3.0,
+            "name": "Independent Studies in Kinesiology and Health Science",
+            "prereqs": "",
+            "desc": "Students undertake a research project under the supervision of a faculty member. This should include a library investigation, and may include laboratory and/or field investigations. A substantial paper, a poster presentation and an oral presentation are part of the course requirements. Prerequisite: Normally only available to students after completion of 84 credits. Note: Some independent study topics may not be eligible for science credit. Students should consult the School of Kinesiology and Health Science for application."
+        },
+        {
+            "dept": "kine",
+            "code": "4100A",
+            "credit": 6.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "Students complete a thesis involving empirical research. Students arrange for supervision by a faculty member of in the School of Kinesiology and Health Science. Contact the Undergraduate Office for details and application form. Prerequisites: Permission of the School of Kinesiology and Health Science; students must be in a Specialized Honours Program in Kinesiology and Health Science and have completed 84 credits. Note: Some Honours thesis topics may not be eligible for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "Students complete a thesis involving empirical research. Students arrange for supervision by a faculty member of in the School of Kinesiology and Health Science. Contact the Undergraduate Office for details and application form. Prerequisites: Permission of the School of Kinesiology and Health Science; students must be in a Specialized Honours Program in Kinesiology and Health Science and have completed 84 credits. Note: Some Honours thesis topics may not be eligible for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4120",
+            "credit": 3.0,
+            "name": "Nutritional Aids in Sport and Exercise",
+            "prereqs": "kine4010 kine4020",
+            "desc": "This course investigates the influence of nutritional supplements/aids on exercise performance, with emphasis on the underlying physiologic and biochemical mechanisms behind the effectives of ergogenic compounds. Prerequisites: HH/KINE 4010 3.00, HH/KINE 4020 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Advanced Human Nutrition",
+            "prereqs": "kine4010 kine4020 kine4020",
+            "desc": "Designed to provide a detailed analysis of the metabolic, biochemical and physiological processes that occur under health, exercise, altered nutritional status, and disease states. Prerequisite: HH/KINE 4010 3.00; HH/KINE 4020 3.00. Note: This is an advanced nutrition course that builds on the basic nutrition information acquired in HH/KINE 4020 3.00. It is designed to provide an in-depth analysis of the pathways that integrate the metabolism of carbohydrates, protein and fat. It also investigates the role of nutrition in the development and exacerbation of chronic diseases, and under different exercise states. It is targeted towards students interested in nutrition/physiology-related careers."
+        },
+        {
+            "dept": "kine",
+            "code": "4140",
+            "credit": 3.0,
+            "name": "Nutrition and Human Diseases",
+            "prereqs": "kine4020",
+            "desc": "This course discusses nutrition as it affects muscle and human health. It discusses: nutrition and the immune system; nutrition and aging; ethnic nutrition and health; nutrition and the health of skeletal muscle; food and drug interaction; and nutrition in the treatment and prevention of selected human diseases including myopathies, cancer, cardiovascular disease, osteoporosis, and diabetes. Prerequisite: HH/KINE 4020 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4150",
+            "credit": 3.0,
+            "name": "Nutrition in the Lifecycle",
+            "prereqs": "kine4020",
+            "desc": "This course provides an understanding of the impact of nutrition and food-related behaviors on health from conception through the end of life, including pregnancy and lactation, infancy, adolescence and aging. Prerequisite: HH/KINE 4020 3.00"
+        },
+        {
+            "dept": "kine",
+            "code": "4170",
+            "credit": 3.0,
+            "name": "Public Health Nutrition and Food Policy",
+            "prereqs": "kine2049 psyc2030",
+            "desc": "Examine current public health policies and the regulatory frameworks related to food and nutrition, with the aim of identifying and assessing nutritional health at the population level. Explore examples of both local and global current approaches that address nutritional health at a population level through case study analyses, review of research articles and current events/topics highlighting public health issues.\nPrerequisites: HH/KINE 2049 3.00 or HH/PSYC 2030 3.00. "
+        },
+        {
+            "dept": "kine",
+            "code": "4225",
+            "credit": 3.0,
+            "name": "Principles of Neuro-motor learning",
+            "prereqs": "kine2050 kine3020",
+            "desc": "Covers concepts of how the brain learns and controls voluntary movement, particular those of the upper limbs. Prerequisites: HH/KINE 2050 3.00, HH/KINE 3020 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4226",
+            "credit": 3.0,
+            "name": "Principles of Neurorehabilitation",
+            "prereqs": "kine3020",
+            "desc": "Examines principles and clinical best practices for implementation of neurorehabilitation strategies following neurologic injury. Introduces processes of neuroplasticity and repair and the use of assistive technologies to facilitate neurorehabilitation interventions for upper and lower limb motor deficits. \nPrerequisites: HH/KINE 3020 3.00\nOpen to: Student majoring in Kinesiology and Health Science, Nursing, Psychology, Biology\nNote: Students must be available to engage 1.5 hours of off-campus group activity with a neurorehabilitation clinician/ researcher."
+        },
+        {
+            "dept": "kine",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "Neuronal development for activity and health",
+            "prereqs": "kine3012",
+            "desc": "Analyzes the cellular, molecular and physiological processes underlying neuronal and neuromuscular development in health and disease. Prerequisite: HH/KINE 3012 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4240",
+            "credit": 3.0,
+            "name": "Applied Human Factors",
+            "prereqs": "kine3020 biol4370 psyc3250",
+            "desc": "Discusses human factors, e.g. sensory, perceptual, motor and cognitive systems, and how they feature in machines, systems design, procedures and skills, with an emphasis on physical activities and sport. Prerequisite: HH/KINE 3020 3.00 or SC/BIOL 4370 3.00 or HH/PSYC 3250 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "International Development and Sport ",
+            "prereqs": "",
+            "desc": "Critically examine the intersections of sport and international development. Sport has increasingly been utilized to &quot;develop&quot; marginalized groups in the &quot;Global North&quot; and &quot;Global South.&quot; This involves tapping into what sport can do &quot;intentionally&quot; to address priorities including community building, health promotion, youth engagement, economic revitalization, settlement, citizen participation and conflict resolution. Prerequisite: HH/KINE 1000 6.00. Note: This course does not count for science credit. "
+        },
+        {
+            "dept": "kine",
+            "code": "4340",
+            "credit": 3.0,
+            "name": "Sport, &quot;Race&quot; and Popular Culture in Canada",
+            "prereqs": "kine1000",
+            "desc": "The course gives students a historical and contemporary understanding of 'race' and racism in Canadian popular culture as it pertains to the world of sport. Prerequisite: HH/KINE 1000 6.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4370",
+            "credit": 3.0,
+            "name": "Body as Light: Meditation Practices",
+            "prereqs": "kine1000",
+            "desc": "Cross-cultural survey of training for enlightenment through meditation techniques, posture practices, and spiritual traditions. From prehistoric times our ancestors used repetitive physical activities to explore altered states of consciousness and to purify or illuminate the body/mind harmony as optimal health. Prerequisite: HH/KINE 1000 6.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4375",
+            "credit": 3.0,
+            "name": "Body as Weapon: Martial Arts/Combat Training",
+            "prereqs": "kine1000",
+            "desc": "Cross-cultural survey of training for combat in military units, martial arts, and self defence. Fighting and war stand as two ancient yet enduring activities evoking study and systematic practice of lethal methods for using the body as a weapon against antagonists. Prerequisite: HH/KINE 1000 6.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4400",
+            "credit": 6.0,
+            "name": "Advanced Fitness/Lifestyle Assessment and Counselling",
+            "prereqs": "kine3400",
+            "desc": "Students receive supervised, practical experience in designing, administering and interpreting fitness assessments along with the follow-up exercise counselling for athletes and the general public. Prerequisites: HH/KINE 3400 3.00; permission of the Instructor. Open only to students in the Certificate in Fitness Assessment and Exercise Counselling. Prerequisite or corequisite: HH/KINE 4010 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Obesity: Assessment, Treatment and Implications",
+            "prereqs": "kine1020",
+            "desc": "Obesity is a very prevalent condition that has received considerable attention. However, the attention has been very one sided, wherein only the benefits of weight loss are emphasized. The difficulties associated with maintaining weight loss are very poorly understood, and the dangers or negative aspects of focusing on weight per se may be more detrimental than the obesity itself. Prerequisites: HH/KINE 1020 6.0. Course Credit Exclusions: None."
+        },
+        {
+            "dept": "kine",
+            "code": "4420",
+            "credit": 3.0,
+            "name": "Relaxation: Theory and Practice",
+            "prereqs": "kine2031 kine3011 kine3012",
+            "desc": "Focuses on an understanding of the physiological and psychological basis of relaxation as a self-management procedure and in the utilization of relaxation strategies in sport, health and physical activity. Prerequisites: HH/KINE 2031 3.00; HH/KINE 3011 3.00; HH/KINE 3012 3.00 or permission of the Instructor. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4421",
+            "credit": 3.0,
+            "name": "Relaxation II: Research and Application",
+            "prereqs": "kine4420",
+            "desc": "This course reviews the research and application of self-regulation strategies (relaxation, biofeedback, imagery, cognitive restructuring and attention control) for performance and health enhancement. Three lecture hours per week. One term. Prerequisite: AS/HH/KINE 4420 3.00. Course credit exclusions: None."
+        },
+        {
+            "dept": "kine",
+            "code": "4430",
+            "credit": 3.0,
+            "name": "Business Skills for Sport and Fitness Professionals",
+            "prereqs": "",
+            "desc": "This course includes theory and detailed practical instruction about key management/organizational processes and their successful application to sport and fitness-related business initiatives. PRIOR TO WINTER 2012: Course credit exclusions: HH/KINE 3250 3.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4445",
+            "credit": 3.0,
+            "name": "Physiological Basis of Fatigue",
+            "prereqs": "kine3012 kine4010",
+            "desc": "An in-depth examination of the physiological processes that limit muscular exercise. Topics include cellular and metabolic failure in sustained muscular contractions, central nervous system limitations, substrate depletion and product accumulation, body fluid shifts and adaptations that forestall fatigue. Prerequisites: HH/KINE 3012 3.00; HH/KINE 4010 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4447",
+            "credit": 3.0,
+            "name": "Sex Differences in Exercise Physiology",
+            "prereqs": "kine4010",
+            "desc": "Explores sex differences in physiological responses to stressors, including exercise while investigating the roles of testosterone, estrogen and progesterone. This course covers sex differences at the level of the cell, tissue, and whole body and investigates cardiovascular, respiratory, muscular, bone, and autonomic responses. Exercise as a treatment for clinical conditions is also studied. Prerequisite: HH/KINE 4010 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4453",
+            "credit": 3.0,
+            "name": "Vascular Function in Health and Disease",
+            "prereqs": "kine4010",
+            "desc": "In-depth study of the physiology of the vascular system. These concepts then will be applied to understanding the pathophysiology of the vascular system in situations of chronic inflammation and diseases such atherosclerosis and hypertension. The beneficial effects of exercise on the vascular system will be discussed. Prerequisite: HH/KINE 4010 3.00. "
+        },
+        {
+            "dept": "kine",
+            "code": "4455",
+            "credit": 3.0,
+            "name": "Movement Analysis Laboratory",
+            "prereqs": "kine3020 kine3030",
+            "desc": "Focuses on the theory and practice of methods for analyzing the mechanics and control of movement. Methods include collection and analysis of biological signals such as electromyography and evoked potentials, as well as techniques for both kinematic and kinetic analysis of movement. Prerequisites: HH/KINE 3020 3.00, HH/KINE 3030 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4470",
+            "credit": 3.0,
+            "name": "Muscle and Joint Biomechanics",
+            "prereqs": "kine3030",
+            "desc": "Quantitative biomechanical principles are used to evaluate the production of human motion at the joint and muscle level. Factors affecting total joint moment of force are studied including muscle mechanics, muscle architecture, moment arm and electrophysiology. Prerequisite: HH/KINE 3030 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4472",
+            "credit": 3.0,
+            "name": "Low Back Performance and Disorders",
+            "prereqs": "kine3020 kine3030",
+            "desc": "Introduces evidence-based exercises and strategies for optimal low back function, injury prevention, and rehabilitation. This advanced biomechanics course develops a strong foundation of anatomy, normal and injury mechanics, and motor control. Multidisciplinary issues related to low back performance and disorders are examined; including psychological, physiological, legislative, neuromuscular, and biomechanical. Theories applied and practiced during labs. Prerequisites: HH/KINE 3020 3.00, HH/KINE 3030 3.00.\n\r\n"
+        },
+        {
+            "dept": "kine",
+            "code": "4475",
+            "credit": 3.0,
+            "name": "Clinical Biomechanics",
+            "prereqs": "kine3030",
+            "desc": "Quantitative biomechanical techniques are used to evaluate musculoskeletal injuries and pathological movement. Standard biomechanics techniques and modeling methods are combined with an understanding of tissue mechanics to quantitatively evaluate injury mechanisms and rehabilitation of tissues (bone, ligament, tendon, muscle). Theory is applied and practiced during labs. Prerequisite: HH/KINE 3030 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4480",
+            "credit": 3.0,
+            "name": "Sociology of Sport II",
+            "prereqs": "kine3620",
+            "desc": "This course focuses on social problems in sport. Topics include inequality, sport as work, sport as a spectacle, and sport and the state. Three lecture hours per week. One term. Prerequisite: AS/HH/KINE 3620 3.00 or permission of the course director. Course credit exclusions: None. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4485",
+            "credit": 3.0,
+            "name": "Social Determinants of Physical Activity and Health in Canada ",
+            "prereqs": "kine1000",
+            "desc": "Introduces students to the political, economic and social factors that shape health, physical activity and sport opportunities and experiences of individuals and communities in Canada. Prerequisite: HH/KINE 1000 6.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4500",
+            "credit": 3.0,
+            "name": "Neural Control of Movement",
+            "prereqs": "kine3020",
+            "desc": "This neuroscience course reviews fundamental concepts of movement control, with an emphasis on the brain mechanisms underlying motor behaviour. Topics include walking, looking, reaching, posture and complex skill coordination. Movement control concepts will be used to understand the neural basis of symptoms associated with motor disorders such as Parkinson's disease, ataxia, Lou Gehrig's disease, muscular dystrophy, and stroke. Prerequisite: HH/KINE 3020 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "kine",
+            "code": "4505",
+            "credit": 3.0,
+            "name": "Neurophysiology of Movement in Health and Disease",
+            "prereqs": "kine3020",
+            "desc": "Provides an overview of current neurophysiological concepts in motor control, with an emphasis on the neurophysiological principles underlying human movement disorders. Prerequisite: HH/KINE 3020 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4515",
+            "credit": 3.0,
+            "name": "Stem Cells: Physiology and Therapeutic Applications",
+            "prereqs": "kine2011 biol1000",
+            "desc": "Examines the physiology of tissue-specific stem cell populations in the context of potential therapeutic strategies used for the treatment of chronic disease states. Prerequisites: HH/KINE 2011 3.00 or SC/BIOL1000 3.00. "
+        },
+        {
+            "dept": "kine",
+            "code": "4516",
+            "credit": 3.0,
+            "name": "Mitochondria in Health and Disease",
+            "prereqs": "kine4010",
+            "desc": "Analyzes the function and biogenesis of mitochondria with an emphasis on skeletal muscle. Apoptosis, mitochondrial disease, effects of exercise and training are examined at the molecular level. Current original literature is read and discussed in lecture and class presentation format. Prerequisite: HH/KINE 4010 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4520",
+            "credit": 3.0,
+            "name": "Sport Psychology Seminar",
+            "prereqs": "kine3000",
+            "desc": "In-depth examination of selected topics in sport psychology: motivation, imagery, self-regulation and attention. The emphasis is on the application of mental training skills in sport settings. Prerequisite: HH/KINE 3000 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4560",
+            "credit": 3.0,
+            "name": "Physical Activity and Children: Pedagogy",
+            "prereqs": "kine1020 kine3000",
+            "desc": "Examines teaching methods available for people working in a physical activity setting with children. Emphasis is placed on the core program components of dance, games and gymnastics. Curriculum and lesson planning for school based physical education is included. Prerequisites: HH/KINE 1020 6.00, HH/KINE 3000 3.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4565",
+            "credit": 3.0,
+            "name": "Epidemiology of Injury Prevention ",
+            "prereqs": "kine1000 kine2050",
+            "desc": "Introduces students to the recognition of situations or practices that contribute to injuries, strategies for injury prevention, with an emphasis on an epidemiological/public health approach. Prerequisites: HH/KINE 1000 6.00; HH/KINE 2050 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4592B",
+            "credit": 4.0,
+            "name": "Experiential Field Placement in Athletic Therapy ",
+            "prereqs": "",
+            "desc": "Provides students the knowledge and experience to offer evidence-based Athletic Therapy services and develop/implement sport injury prevention and management programs to special populations. Students will demonstrate Athletic Therapy skills including emergency action planning, clinical and field assessment and treatment, exercise prescription, and concussion management. Students will develop and demonstrate these skills in a field placement setting. Prerequisite: Permission of Instructor around corequisites and experience/qualifications. Corequisite: HH/KINE 4590 6.00. Notes: 1) Students will be responsible for arranging their own transportation to and from the placement. 2) Students must be in their last year of the Athletic Therapy Certificate Program and must have a current Vulnerable Sector Screening clearance letter."
+        },
+        {
+            "dept": "kine",
+            "code": "4593",
+            "credit": 3.0,
+            "name": "Athletic Therapy Integrative Seminar &amp; Skills",
+            "prereqs": "kine3502 kine3503",
+            "desc": "Provides students with the required knowledge, psychomotor and communication skills relating to advanced integrative related case studies discussed in the field of Athletic Therapy.  The course includes classroom focused experiential education through practical lab sessions, guest speakers and case studies.  Skills will include (but are not limited to) functional/surface anatomy, taping/support techniques, clinical and field orthopaedic evaluation and tests, electrotherapeutic modality application, manual therapies, therapeutic exercise, and return to sport skills and decisions.  Lab-based activities such as role-playing, mini-case study analysis, simulations and reflection will be integrated.\r\nPrerequisites: HH/KINE 3502 3.00, HH/KINE 3503 3.00\r\nCorequisites: HH/KINE 4592 6.00\r\nOpen to: Athletic Therapy Certificate Program Students within Kinesiology and Health Science  "
+        },
+        {
+            "dept": "kine",
+            "code": "4620",
+            "credit": 3.0,
+            "name": "Counselling Skills for Kinesiology and Health Science",
+            "prereqs": "psyc1010",
+            "desc": "Explores concepts, issues and skills related to &quot;embedded&quot; helping/counselling from a person-centred framework. Effective professional relationships and motivational interviewing are emphasized. Supervised skills practice is included. Relevant to persons working in health care, education and community services. Prerequisite: HH/PSYC 1010 6.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4645",
+            "credit": 3.0,
+            "name": "Active Living and Ageing",
+            "prereqs": "",
+            "desc": "The purpose of this course is to assist students in developing insight into the physical and health needs of the elderly. Emphasis is placed upon identifying active ageing opportunities and exploring environments in which physical activity is integrated into daily living. Prerequisite: AS/HH/SC KINE 3350 3.00. Course credit exclusions: None. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "kine",
+            "code": "4646",
+            "credit": 3.0,
+            "name": "Delivering Exercise to the Aging: Knowledge to Action",
+            "prereqs": "kine1020",
+            "desc": "Delivering Exercise to the Aging: a continuum from evidence-based knowledge to clinical application. Students first review current knowledge of age-related physiological, social and psychological changes confronting individual and population health. Next studied are the attenuating effects of exercise. Finally, students apply the Knowledge Translation framework to design a program to meet the needs of an aging cohort in their community. Prerequisite: HH/KINE 1020 6.00 Pre/Corequisite: HH/KINE 4010 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4650",
+            "credit": 3.0,
+            "name": "Sport, Physical Activity and Youth Development",
+            "prereqs": "kine3000",
+            "desc": "Explores developmental theories and psychosocial research that facilitate understanding of positive youth development through sport and physical activity. Students will be introduced to theoretical and empirical research from developmental psychology and sport psychology fields. Specific discussions and applications will focus on conditions that facilitate youths' healthy involvement in sport and physical activity. Prerequisite: HH/KINE 3000 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4680",
+            "credit": 3.0,
+            "name": "Advanced Social and Psychological Contributors to Exercise Behaviour ",
+            "prereqs": "kine3000",
+            "desc": "Focuses on the social and psychological antecedents and consequences of exercise behaviour. Emphasis is placed on understanding concepts, principles, and theories and how these may be applied to research as well as the promotion and maintenance of exercise. Prerequisite: HH/KINE 3000 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4710",
+            "credit": 3.0,
+            "name": "Psychology of Health and Chronic Disease",
+            "prereqs": "psyc1010",
+            "desc": "Explores the role of psychological variables in the development, progression and treatment of chronic diseases such as coronary heart disease, cancer and AIDS. Other critically reviewed topics include stress, substance abuse (smoking and alcohol), and injury and violence. Prerequisite: HH/PSYC 1010 6.00. Course credit exclusions: HH/PSYC 3170 3.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4715",
+            "credit": 3.0,
+            "name": "Experiential and Interprofessional Field Placement in Cardiovascular and Chronic Disease Prevention and Management",
+            "prereqs": "kine1020 kine3400",
+            "desc": "Chronic disease prevention and management programs are comprehensive, long-term outpatient programs involving medical evaluation, prescribed exercise, risk factor modification, education, and counseling. This course prepares students with the knowledge and experience to provide evidence-based physical activity advice as well as health behaviour change education and support to chronic disease outpatients in an interprofessional setting. Prerequisites: HH/KINE 1020 6.00, HH/KINE 3400 3.00 and Basic Cardio Pulmonary Resuscitation (CPR) Certificate and Automated External Defibrillator (AED) Certificate. Corequisites: HH/KINE 4010 3.00, HH/KINE 4020 3.00. Open to: By permission of the Course Director. Note: Students must have access to personal transportation to get to and from the program each week.  They must be in their last year of their undergraduate Kinesiology &amp; Health Sciences studies with a minimum of a B+ GPA."
+        },
+        {
+            "dept": "kine",
+            "code": "4720",
+            "credit": 3.0,
+            "name": "Secondary Prevention of Heart Disease: Cardiac Rehabilitation in a Global Context",
+            "prereqs": "",
+            "desc": "Examines the secondary prevention of cardiovascular disease from a behavioural, psychosocial and health services lens. Major emphasis is placed on cardiac rehabilitation, with regard to delivery, effects on health outcomes, and equitable access. Development of cardiac rehabilitation in low-resource settings, and global efforts in control of non-communicable diseases will also be examined. \r\nPrerequisite or corequisite: HH/NURS 3515 3.00 or HH/KINE 2049 3.00 or HH/IHST 2100 3.00.\r\nCross-listed to: HH/IHST 4720 3.00, HH/NURS 4700 3.00"
+        },
+        {
+            "dept": "kine",
+            "code": "4740",
+            "credit": 3.0,
+            "name": "Psychology of Sport Injury and Rehabilitation",
+            "prereqs": "psyc1010",
+            "desc": "This course deals with the psychosocial aspects of sport injury. Through this course, the students gain an understanding of the psychological and sociological aspects of sport injury, the impact of pain, and the psychological implications of long term rehabilitation. Psychological interventions are highlighted within case histories and a return to an active lifestyle is the goal of the interventions. Prerequisite: HH/PSYC 1010 6.00."
+        },
+        {
+            "dept": "kine",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Exercise Therapy for Chronic Diseases",
+            "prereqs": "kine4010",
+            "desc": "An overview of the use of exercise and physical activity in the evaluation and treatment of a variety of chronic diseases and disabilities. Prerequisite: HH/KINE 4010 3.00."
+        }
+    ]
+}

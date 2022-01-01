@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "jc",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Jamaican Creole",
+            "prereqs": "",
+            "desc": "This course serves as an introduction to Jamaican Creole and is meant for students with no background in the language. It will develop basic oral, conversational, reading, and writing skills in the language."
+        }
+    ]
+}

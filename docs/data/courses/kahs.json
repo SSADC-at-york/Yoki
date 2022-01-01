@@ -1,0 +1,220 @@
+{
+    "courses": [
+        {
+            "dept": "kahs",
+            "code": "5340",
+            "credit": 6.0,
+            "name": "Advance Fitness/ Lifestyle Assessment and Counselling",
+            "prereqs": "kine4010",
+            "desc": "Theoretical and practical experience in designing, administering and interpreting fitness assessments along with the follow-up exercise counselling and personal training for high performance athletes and the general public. Prerequisite: HH/KINE4010 3.00 or equivalent."
+        },
+        {
+            "dept": "kahs",
+            "code": "5400",
+            "credit": 6.0,
+            "name": "Non-thesis Master's Practica",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "kahs",
+            "code": "5400",
+            "credit": 3.0,
+            "name": "Master's Practica",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "kahs",
+            "code": "5410",
+            "credit": 3.0,
+            "name": "Master's Practica",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "kahs",
+            "code": "6010",
+            "credit": 3.0,
+            "name": "Univariate Analysis and Design",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "kahs",
+            "code": "6020",
+            "credit": 3.0,
+            "name": "Multivariate Analysis and Design",
+            "prereqs": "",
+            "desc": "Epidemiological and analytical methods are introduced and applied to a database.   This course covers basic database design, and guidelines for confidentiality and privacy.  Particular attention is paid to the principals and application of multivariate statistical methods for data analysis. \r\n"
+        },
+        {
+            "dept": "kahs",
+            "code": "6030",
+            "credit": 3.0,
+            "name": "Qualitative Research Methods ",
+            "prereqs": "",
+            "desc": "Provides a basic and critical survey of qualitative research methodology. It explores various qualitative strategies of inquiry and the implications of different stages of inquiry including data collection, analysis, representation and assessment."
+        },
+        {
+            "dept": "kahs",
+            "code": "6110",
+            "credit": 3.0,
+            "name": "Critical Thinking About Health Research",
+            "prereqs": "",
+            "desc": "Examines critical thinking skills vital to success in health research, including research biases, evaluation of published studies, identifying pseudoscience, and writing for a general audience. A major focus is research ethics and exploring cases of research misconduct/fraud."
+        },
+        {
+            "dept": "kahs",
+            "code": "6142",
+            "credit": 3.0,
+            "name": "Cognition, Emotion and Behaviour Change in Health and Disease",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "kahs",
+            "code": "6143",
+            "credit": 3.0,
+            "name": "Current Issues in Health Psychology",
+            "prereqs": "",
+            "desc": "This course presents an overview of current issues in health psychology. The course is intended to expose graduate students to some \rof the current theoretical and practical issues in the field of health psychology."
+        },
+        {
+            "dept": "kahs",
+            "code": "6155",
+            "credit": 3.0,
+            "name": "Fundamentals of Neuroscience I: Structures, Neurons and Synapses",
+            "prereqs": "",
+            "desc": "This course will focus on molecular and cellular mechanisms underlying the structure and function of the nervous system, functional neuroanatomy, and the neurophysiology of movement. Prerequisites: undergraduate course in neuroscience or equivalent or by permission of Instructor"
+        },
+        {
+            "dept": "kahs",
+            "code": "6156",
+            "credit": 3.0,
+            "name": "Fundamentals of Neuroscience II: Circuits, Systems and Behaviour",
+            "prereqs": "",
+            "desc": "This course focuses on a systems approach to specialized circuits within the central nervous system that determine sensory, motor and cognitive systems. Permission of the Instructors is required to enrol in the course."
+        },
+        {
+            "dept": "kahs",
+            "code": "6175",
+            "credit": 3.0,
+            "name": "Advanced Musculoskeletal Modelling and Programming in Biophysical Research",
+            "prereqs": "",
+            "desc": "Musculoskeletal modelling techniques used in  biomechanics and neuroscience research will be explored and critically appraised. Students  will also learn mathematical programming language to analyze biophysical data.  \n\nPrerequisite: An advanced undergraduate course in biomechanics (KINE 4470 or  equivalent) and KAHS 6170 3.0 (Instrumentation, Signal Processing, and Modelling in  Biophysical Research) are strongly encouraged.  "
+        },
+        {
+            "dept": "kahs",
+            "code": "6210",
+            "credit": 3.0,
+            "name": "Graduate Seminar",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "kahs",
+            "code": "6220",
+            "credit": 3.0,
+            "name": "Readings in Special Topics",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "kahs",
+            "code": "6273",
+            "credit": 3.0,
+            "name": "Computer Programming for Experimental Psychology",
+            "prereqs": "",
+            "desc": "This graduate course covers computer programming methods that are useful for running experiments and analyzing data in experimental psychology.  Students will learn a general-purpose programming language such as MATLAB or Python.  Topics include basic programming methods and data structures, data files, curve fitting, device calibration, data visualization, statistical tests, model simulations, and interfacing to external devices."
+        },
+        {
+            "dept": "kahs",
+            "code": "6315",
+            "credit": 3.0,
+            "name": "Redox Biology and Oxidative Stress in Health and Disease",
+            "prereqs": "kine4510 kine4516 kine4518",
+            "desc": "Examines the role of free radical and non-radical oxidants as 1) essential signals for regulating multiple cellular processes and as 2) mediators of dysregulation in disease including neurological diseases, diabetes, cancer, heart disease and muscle wasting as well as 3) potential targets for treatments of this diseases through 'redox therapeutics'. Prerequisites: One of HH/KINE 4510 3.00, HH/KINE 4515, HH/KINE 4516 3.00, HH/KINE 4518 3.00; or permission of Instructor or equivalent."
+        },
+        {
+            "dept": "kahs",
+            "code": "6365",
+            "credit": 3.0,
+            "name": "Mitochondria in Health and Disease",
+            "prereqs": "",
+            "desc": "Analyzes the function and biogenesis of mitochondria with an emphasis on skeletal muscle. Apoptosis, mitochondrial disease, effects of exercise and training are examined at the molecular level. Current original literature is read and discussed in lecture and class presentation format."
+        },
+        {
+            "dept": "kahs",
+            "code": "6390",
+            "credit": 3.0,
+            "name": "Aging, Body Composition and Chronic Disease: Lifestyle Therapeutic Interventions",
+            "prereqs": "",
+            "desc": "Examines how aging and body composition relate to chronic disease, and how lifestyle factors influence the relationship between body composition and morbidity and mortality across the lifespan, with an emphasis on research from human lifestyle interventions and epidemiological studies."
+        },
+        {
+            "dept": "kahs",
+            "code": "6392",
+            "credit": 3.0,
+            "name": "Nutrition, Health and Exercise Performance ",
+            "prereqs": "",
+            "desc": "This course examines the underlying mechanisms of action responsible for the -1- health effects attributed to nutrition interventions and -2- enhanced exercise performance attributed to dietary supplements/aids. "
+        },
+        {
+            "dept": "kahs",
+            "code": "6430",
+            "credit": 3.0,
+            "name": "The Human Body in Social Theory",
+            "prereqs": "",
+            "desc": "Introduces students to philosophical and sociological understandings of the human body as it has been understood in Western social theory in the past two hundred years(i.e. since the Enlightenment). The intention is to introduce students to these strands of thought in order to allow them to build informed theoretical frames for further research.\r\n\r\nThe course revolves around a series of themes prevalent in the literature on the human body, such as: being, alienation, commodification, aesthetics, perception, discipline, enslavement, resistance, otherness and representation. Schools of thought that will be examined include (but are not limited to): Phenomenology, Marxism, Existentialism, Post-Structuralism, Black Studies, Psychoanalysis, Decolonial Studies, Cultural Studies, Feminism and LGBT studies."
+        },
+        {
+            "dept": "kahs",
+            "code": "6455",
+            "credit": 3.0,
+            "name": "Advanced Topics in Sport and Exercise Psychology",
+            "prereqs": "",
+            "desc": "Provides a detailed examination of previous and current research in sport and exercise psychology. Emphasis is placed on providing a broad and in-depth analysis of both theoretical and applied aspects of the psychology of sport and exercise."
+        },
+        {
+            "dept": "kahs",
+            "code": "6456",
+            "credit": 1.5,
+            "name": "Graduate Diploma in Health Psychology - Seminar 1",
+            "prereqs": "",
+            "desc": "Provides the basics of a broad and systemic training in health psychology. The course is not only intended to be educational but also a supportive environment for students as they progress through their graduate training."
+        },
+        {
+            "dept": "kahs",
+            "code": "6457",
+            "credit": 1.5,
+            "name": "Graduate Diploma in Health Psychology - Seminar 2",
+            "prereqs": "",
+            "desc": "Provides the basics of a broad and systemic training in health psychology. The course is not only intended to be educational but also a supportive environment for students as they progress through their graduate training."
+        },
+        {
+            "dept": "kahs",
+            "code": "6460",
+            "credit": 3.0,
+            "name": "Applied Epidemiology",
+            "prereqs": "",
+            "desc": "Provides a detailed examination of the methods of epidemiology and public health research. Types of study designs, popular health status measures and biases encountered in epidemiological studies will be emphasized throughout the course. Specific focus will be on the different stages of designing a research project. "
+        },
+        {
+            "dept": "kahs",
+            "code": "7200",
+            "credit": 3.0,
+            "name": "Ph.D. Graduate Seminar, Part I",
+            "prereqs": "",
+            "desc": "Seminars include student presentations of thesis proposals and thesis research, and presentations by faculty and visiting speakers.\r\n"
+        },
+        {
+            "dept": "kahs",
+            "code": "7210",
+            "credit": 3.0,
+            "name": "Ph.D. Graduate Seminar, Part II",
+            "prereqs": "",
+            "desc": "Seminars include student presentations of thesis proposals and thesis research, and presentations by faculty and visiting speakers.\r\n"
+        }
+    ]
+}

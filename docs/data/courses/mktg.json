@@ -1,0 +1,300 @@
+{
+    "courses": [
+        {
+            "dept": "mktg",
+            "code": "1030",
+            "credit": 3.0,
+            "name": "Marketing Management",
+            "prereqs": "",
+            "desc": "Examines the managerial problems involved in formulating and implementing marketing plans in business and non-profit enterprises. Emphasis is placed on the importance of buying behaviour in influencing marketing decisions. Each element of market responsibility (product development, pricing policy, promotional planning and relationships with marketing channels) is examined. The course develops an understanding of the importance of an integrated marketing program and of the need to relate marketing to other departments within the enterprise. Previously offered as: SB/MKTG 2030 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Marketing Research     ",
+            "prereqs": "mktg1030 mktg2030",
+            "desc": "This course develops a managerial appreciation of marketing research. The steps of the research project are delineated, from problem definition through research design, sample selection, data collection, analysis and presentation. The concepts discussed are integrated into the broader requirements of a marketing information system. A major term project is required.\r\nPrerequisite: SB/MKTG 1030 3.00 (Previously offered as SB/MKTG 2030 3.00)."
+        },
+        {
+            "dept": "mktg",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Strategic Market Communications",
+            "prereqs": "mktg1030 mktg2030",
+            "desc": "Offers a focused approach to the formulation and implementation of an integrated communications strategy to meet particular marketing objectives. Topics of interest include advertising, sales, promotion, public relations, and social media communications, and their integration both online and offline. The approach to communications is cutting edge, multidisciplinary, integrative, practical, and applied. Teaching approaches are varied and include case analysis, discussion, and guest participants.\r\n\r\nPrerequisite: SB/MKTG 1030 3.00 (Previously offered as SB/MKTG 2030 3.00)."
+        },
+        {
+            "dept": "mktg",
+            "code": "4150",
+            "credit": 3.0,
+            "name": "Consumer Behaviour                     ",
+            "prereqs": "mktg1030 mktg2030",
+            "desc": "What do products and services mean to consumers? How do consumers decide what to buy? What are the effects of the social environment on purchases? This course examines these and other fundamental marketing concerns by blending contemporary theory and research with application to actual market problems. Recent contemporary theory topics have included low involvement buying, situation analysis and alternative explanations of consumer motivations.\r\n\r\nPrerequisite: SB/MKTG 1030 3.00 (Previously offered as SB/MKTG 2030 3.00)."
+        },
+        {
+            "dept": "mktg",
+            "code": "4226",
+            "credit": 3.0,
+            "name": "Social Media for Marketing and Management",
+            "prereqs": "mktg1030 mktg2030",
+            "desc": "Social media (i.e., Facebook, Twitter, blogs, wikis) are changing society, marketing, and management. Beginning with an examination of the role of social media, this course expands into methods for researching and understanding it. We learn throughout about its strategic business applications. The course concludes with a focused team project that examines the reality and utility of this new communication form. \r\n\r\nPrerequisite: SB/MKTG 1030 3.00 (Previously offered as SB/MKTG 2030 3.00)."
+        },
+        {
+            "dept": "mktg",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Retail Marketing Strategies",
+            "prereqs": "mktg2030",
+            "desc": "Retailing is a cornerstone of marketing because it brings together the two most important players in business-buyers and sellers.  In this course the student will learn and apply such topics as category management, service quality, customer satisfaction, relationship marketing, and retention marketing to solve problems confronted by marketers in this rapidly evolving industry.\r\nPrerequisite:  SB/MKTG 2030 3.00"
+        },
+        {
+            "dept": "mktg",
+            "code": "4320",
+            "credit": 3.0,
+            "name": "Tourism, Sport &amp; Leisure Marketing",
+            "prereqs": "mktg1030 mktg2030",
+            "desc": "Explores the tourism-sports-leisure (TSL) industry, one of the fastest growing sectors of the economy. Students will learn about unique strategic challenges of TSL marketing. In addition, expertise of the cultural, societal, and technological context of TSL production and consumption will be discussed to prepare students for jobs in this complex and competitive marketplace. \r\n\r\nPrerequisite: SB/MKTG 1030 3.00 (Previously offered as SB/MKTG 2030 3.00)."
+        },
+        {
+            "dept": "mktg",
+            "code": "4321",
+            "credit": 3.0,
+            "name": "Entertainment Marketing",
+            "prereqs": "mktg2030",
+            "desc": "Using an effective combination of readings, class discussions, real world entertainment marketing cases, and guest speakers, this course develops a managerial and socio-cultural perspective on the marketing of entertainment.  Attention is focused on analyzing the relationship between the global marketplace and entertainment business decision making; the determination of entertainment products, services, experiences, prices, channels, and communication strategies; and the firm's overall system for planning and controlling its entertainment marketing effort. \r\n\r\nPrerequisite: SB/MKTG 2030 3.00"
+        },
+        {
+            "dept": "mktg",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "International Marketing",
+            "prereqs": "",
+            "desc": "This course satisfies two interrelated objectives: to improve the student's marketing decision-making ability through the solution of complex multinational marketing problems; and to increase the student's sensitivity to different cultural, socio-economic and legal environments encountered in the international marketplace. The course uses readings, cases and a group project.\r\n\r\nPrerequisite: SB/MKTG 1030 3.00 (Previously offered as SB/MKTG 2030 3.00)."
+        },
+        {
+            "dept": "mktg",
+            "code": "4550",
+            "credit": 3.0,
+            "name": "Brand Management                       ",
+            "prereqs": "mktg1030 mktg2030",
+            "desc": "This course focuses on the role of products in the marketing mix. Topics include: planning and creation of new products, deletion of obsolete products and management of mature products in the product line. Instructional methods include lectures, case analysis and textbook discussion.\r\n\r\nPrerequisite: SB/MKTG 1030 3.00 (Previously offered as SB/MKTG 2030 3.00)."
+        },
+        {
+            "dept": "mktg",
+            "code": "4560",
+            "credit": 3.0,
+            "name": "Digital Marketing",
+            "prereqs": "",
+            "desc": "This course provides students with firsthand experience of digital marketing challenges organizations face and how digital marketing can be used to support the overall marketing effort.  Student groups are paired with a company to develop concrete and actionable solutions to a digital marketing challenge.  The course consists of a mix of lectures and team meetings with the instructor.\r\nPrerequisite: SB/MKTG 1030 3.00 (Previously offered as SB/MKTG 2030 3.00)."
+        },
+        {
+            "dept": "mktg",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study - Selected Problems in Marketing",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "mktg",
+            "code": "5200",
+            "credit": 3.0,
+            "name": "Marketing Management                   ",
+            "prereqs": "",
+            "desc": "This course familiarizes students with the major marketing concepts (buyer behaviour, segmentation, targeting, positioning, \r\nproduct/service development and management, pricing, distribution, communication). It applies these concepts to profit, not-for-profit, new, mature, service, product-based, domestic and international organizations. It develops specific skills such as problem-solving, verbal presentation, business writing and group work.Marketing ethics and sustainability issues are integrated into the course."
+        },
+        {
+            "dept": "mktg",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "Marketing Field Project 1: Strategy",
+            "prereqs": "",
+            "desc": "In this course, students work with an assigned client to clearly establish outcomes for the client and to develop the most effective and efficient means by which to attain these outcomes. The course is intended to develop analytical skills, presentation skills, and an ability to work in time-sensitive environments."
+        },
+        {
+            "dept": "mktg",
+            "code": "6050",
+            "credit": 3.0,
+            "name": "Marketing Research                     ",
+            "prereqs": "mktg5200",
+            "desc": "This course develops students' understanding of basic and advanced market research methods. Students learn to evaluate completed research projects and conduct research studies, developing proficiency in defining research questions, developing research designs, selecting appropriate samples, conducting analysis and writing actionable management reports. Also examined are mobile research, brand maps, social media monitoring/metrics, Big Data, consumer surveillance and data privacy issues.\r\nPrerequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Strategic Market Communications",
+            "prereqs": "mktg5200",
+            "desc": "Offers a focused approach to the formulation and implementation of an integrated communications strategy to meet particular marketing objectives. Topics of interest include advertising, sales, promotion, public relations, and social media communications, and their integration both online and offline. The approach is cutting edge, multidisciplinary, integrative, practical and applied. Teaching approaches include case analysis, discussion, and guest participants. \r\nPrerequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6140",
+            "credit": 3.0,
+            "name": "Consumer Insights",
+            "prereqs": "",
+            "desc": "Anticipating consumer response is at the heart of marketing strategy. Consumer theory provides a broad framework for effectively designing marketing research that speaks to strategy, as well as identifying key consumer insights in data interpretation. This course examines contemporary theories and research concerning common forms of consumer behaviour, and uses these concepts to provide practical insights into all aspects of the marketing mix. The topics relate to many different elements of the consumer behaviour process, including: perception, motivation, memory, self-concept, attitude judgment, choice, post-purchase responses, and consumer culture. Measurement, testing, and interpretation of consumer responses are emphasized throughout.\r\n"
+        },
+        {
+            "dept": "mktg",
+            "code": "6150",
+            "credit": 3.0,
+            "name": "Consumer Behaviour",
+            "prereqs": "mktg5200",
+            "desc": "This course assists students in developing a thorough understanding of both organizational buyers and end consumers. The psychological, sociological, organizational and environmental factors that shape buyer behaviour are reviewed. Throughout the course, the implications for both marketing strategies and tactics are addressed. \r\nPrerequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6226",
+            "credit": 3.0,
+            "name": "Social Media for Marketing and Management",
+            "prereqs": "mktg5200",
+            "desc": "Social media is changing society, changing the nature of marketing, and changing the way that business is conducted and managed. In this course, students explore the role of social media in the life of the marketer and business manager. It begins with a detailed understanding of the origins, forms, and uses of social media. It expands into an examination and hands-on of the methods for researching and understanding social media. The course then overviews the various uses and forms of social media, ranging web-pages, forums, and blogs to social networking sites. Twitter, wikis and mobile. The course features an applied student project that brings to life the potential and pitfalls of this new marketing and management communications form. \r\nPrerequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Service Marketing                      ",
+            "prereqs": "mktg5200",
+            "desc": "Examines the need for marketing in service industries, develops an understanding of the ways in which service marketing differs from product marketing, and improves students' understanding of how service characteristics affect the marketing function. Students learn to develop and implement marketing plans for service organizations.\r\n\r\nPrerequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6325",
+            "credit": 3.0,
+            "name": "Retail Marketing Strategies",
+            "prereqs": "mktg5200",
+            "desc": "Examines retail strategies on a number of fronts including: product selection, service quality, pricing, promotion, e-commerce and consumer loyalty. The course provides students with the knowledge required to assess and develop retail strategy within and beyond the Canadian context.\r\nPrerequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6326",
+            "credit": 3.0,
+            "name": "Retail Analytics",
+            "prereqs": "",
+            "desc": "Prepares students to work effectively with real-world retail data sets, matching analytical approaches to data using appropriate strategic frameworks. Current and emerging analytical techniques are taught for brick and mortar and e-commerce retail contexts. The course prepares students for a world where best-in-class retailers and their suppliers implement sophisticated quantitative tools to improve marketing insight, decision-making, and profitability. Corequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6360",
+            "credit": 3.0,
+            "name": "Marketing Metrics",
+            "prereqs": "mktg5200 actg5100 fine5200",
+            "desc": "This course focuses on developing the analytical skills required to successfully apply the principles of quantitative analysis to the marketing discipline. Students will learn the most common measurement methods currently being used in the marketing field.\r\nPrerequisites: SB/MKTG 5200 3.00, SB/ACTG 5100 3.00, SB/FINE 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6370",
+            "credit": 3.0,
+            "name": "Marketing Analytics ",
+            "prereqs": "",
+            "desc": "Students learn methods and techniques to analyze and report on data generated from marketing activities.  Common web analytic platforms such as Google Analytics will be reviewed and used to report on digital marketing activities.  Key performance indicators (KPI), marketing dashboards, return on investment (ROI), customer satisfaction, loyalty and social media metrics will be generated and analyzed to meet the reporting needs of a broader marketing management strategy."
+        },
+        {
+            "dept": "mktg",
+            "code": "6440",
+            "credit": 3.0,
+            "name": "New Products",
+            "prereqs": "mktg5200",
+            "desc": "This course is designed to answer the question &quot;What do I need to know and do in order to develop a successful new product or service?&quot;  It will provide you with a firm understanding of the steps you need to follow in order to bring a new product or service successfully from an idea to a product that is ready to launch. \r\nPrerequisite: SB/MKTG 5200 3.00"
+        },
+        {
+            "dept": "mktg",
+            "code": "6550",
+            "credit": 3.0,
+            "name": "Brand Management",
+            "prereqs": "mktg5200",
+            "desc": "In the complex contemporary world of marketing management, Brand Management must be both an art and a science. This course applies marketing strategy to the challenge of gaining sustainable competitive advantage in the global marketplace of brands. With a fundamental focus on building and maintaining strong brands with loyal consumer bases, a range of topics and teaching techniques are utilized.\r\n\nPrerequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6560",
+            "credit": 3.0,
+            "name": "Digital Marketing Strategy",
+            "prereqs": "",
+            "desc": "This course explores the ways in which digital marketing tools support overall marketing and business strategies. The course covers both fundamental strategic challenges as well as specific digital marketing tools. It will discuss which aspects of the business should be delivered online, and to inform executive decisions about how digital marketing environments affect communication, pricing, channel, targeting and positioning strategy.\r\n"
+        },
+        {
+            "dept": "mktg",
+            "code": "6570",
+            "credit": 3.0,
+            "name": "Strategic Professional Selling",
+            "prereqs": "",
+            "desc": "A highly lucrative and satisfying career path for students is in professional sales. In fact, many organizations require hires to spend time in sales before making the move into another function such as marketing. This is because sales is the only function in a business that is directly responsible for revenue generation, through interacting with the customer. The most successful sales professionals do not really &quot;sell&quot; anything; rather, they are customer relationship managers, matching the needs of their customers with firm offerings. In this course students will learn frameworks and tools that will help them succeed in professional sales. "
+        },
+        {
+            "dept": "mktg",
+            "code": "6650",
+            "credit": 3.0,
+            "name": "Strategic Market Planning              ",
+            "prereqs": "mktg5200",
+            "desc": "This course familiarizes the student with the range of decisions involved in planning market strategy for the future, and develops skills in using a variety of analytical frameworks for making such decisions.  It is targeted at final-semester marketing or strategic management majors.\r\nPrerequisite:  SB/MKTG 5200 3.00"
+        },
+        {
+            "dept": "mktg",
+            "code": "6800",
+            "credit": 3.0,
+            "name": "Customer Experience Design",
+            "prereqs": "mktg5200",
+            "desc": "Customer Experience Design represents the discipline, methodology and/or process used to comprehensively manage a customer's cross-channel exposure, interaction and transaction with a company, product, brand or service. This course offers an integrated framework for designing customer experiences and for learning how to create successful experientially based market strategies that leverage any organization's products and services.\r\n\r\nPrerequisite: SB/MKTG 5200 3.00."
+        },
+        {
+            "dept": "mktg",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Marketing",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "mktg",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Marketing",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "mktg",
+            "code": "6901",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Marketing",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "mktg",
+            "code": "6905",
+            "credit": 3.0,
+            "name": "Graduate Placement",
+            "prereqs": "",
+            "desc": "This course provides MMKG students with an opportunity to gain relevant work experience. The work experience must be structured to satisfy the requirements of the relevant program / diploma / project. It must be approved by the program / diploma / course director. This course may be configured as a 0.00 credit, 1.50 credit or 3.00 credit course, depending on the program\u0092s / diploma\u0092s / course director\u0092s requirements."
+        },
+        {
+            "dept": "mktg",
+            "code": "7900",
+            "credit": 3.0,
+            "name": "Selected Problems in Administration",
+            "prereqs": "",
+            "desc": "Under the guidance of a faculty member, students may undertake a special program of guided studies tailored to the mutual interests of the student and faculty member. For record purposes, the course is given the indicator letters of the major area involved, such as FINE 7900 3.00 if it is taken in the Finance area."
+        },
+        {
+            "dept": "mktg",
+            "code": "7980",
+            "credit": 3.0,
+            "name": "Consumer Research A",
+            "prereqs": "",
+            "desc": "Consumer research grounded in traditions of sociology, anthropology and cultural studies is reviewed in this course. The course is designed to familiarize students with both the theories that help us to understand the evolution of consumer culture and the key phenomena of interests to culturally oriented consumer researchers. "
+        },
+        {
+            "dept": "mktg",
+            "code": "7986",
+            "credit": 3.0,
+            "name": "Applied Research Method",
+            "prereqs": "mktg7985",
+            "desc": "This course builds on SB/MKTG 7985 0.00. It requires the student, working under the supervision of a specific faculty member, to collect and analyse data and to produce a scholarly manuscript suitable for submission to a top tier journal, or to fully develop conceptual paper suitable for the same purpose. Prerequisite: SB/MKTG 7985 0.00."
+        }
+    ]
+}

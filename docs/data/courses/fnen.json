@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "fnen",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Financial Engineering",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "fnen",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Financial Engineering",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

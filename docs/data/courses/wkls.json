@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "wkls",
+            "code": "3211",
+            "credit": 6.0,
+            "name": "Working for Change: Research, Organizing and Communications",
+            "prereqs": "",
+            "desc": "This course equips students to engage with workplace, community and society-wide issues by developing strategic research, advocacy, communications and organizational skills. Participants work individually and in small groups to address typical issues confronting unions and other social movement organizations. The course provides opportunities for experiential education in researching strategic questions and designing campaigns for change."
+        }
+    ]
+}

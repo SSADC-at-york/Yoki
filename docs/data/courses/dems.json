@@ -1,0 +1,252 @@
+{
+    "courses": [
+        {
+            "dept": "dems",
+            "code": "1701",
+            "credit": 3.0,
+            "name": "Disasters: Case Studies of Causes and Impacts",
+            "prereqs": "",
+            "desc": "This course is an introductory one for students interested in emergencies and disasters. It overviews the history of disasters, examines their causes, and analyzes their impacts. A series of case studies will be used to illustrate how nature, the built environment and society interact to create them. The course is lecture based but will use media where possible to illustrate the concepts discussed in class.  Cross-Listing: ADMS 1701 3.00\r\n"
+        },
+        {
+            "dept": "dems",
+            "code": "2700",
+            "credit": 3.0,
+            "name": "Fundamentals of Emergency Management",
+            "prereqs": "",
+            "desc": "Organized around the four pillars of mitigation, preparedness, response and recovery, this course provides students with the key concepts and basic knowledge required to operate effectively in an emergency management context including the legislative context, risk identification, assessment and communications. \r\n"
+        },
+        {
+            "dept": "dems",
+            "code": "3701",
+            "credit": 3.0,
+            "name": "Disaster Risk Management",
+            "prereqs": "",
+            "desc": "Practical analysis of the risk management process and the specific tools and methods used to address the risks facing organizations, institutions, and communities.\r\nCross-Listing: AP/ADMS 3701 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "3702",
+            "credit": 3.0,
+            "name": "Comprehensive Emergency Management: Integrating Critical Knowledge with Practice",
+            "prereqs": "dems2700",
+            "desc": "Provides an in-depth theoretical examination and practical analysis of a number of themes within the four pillars of emergency management: mitigation, preparedness, response and recovery, within a comprehensive emergency management framework. \r\nPrerequisite: AP/ADMS/DEMS 2700 3.00. \r\nCorequisite: AP/DEMS 3701 3.00 or permission of the course director. \r\nCross-Listing:AP/ADMS 3702 3.00\r\n\r\nPRIOR TO FALL 2009: Prerequisite: AK/ADMS 3700 3.00. Corequisite: AK/ADMS 3701 3.00 or permission of the course director. Course credit exclusion: AK/ADMS 3702 3.00."
+        },
+        {
+            "dept": "dems",
+            "code": "3703",
+            "credit": 3.0,
+            "name": "Business Continuity Planning",
+            "prereqs": "dems2700 adms2400",
+            "desc": "Provides an introduction to the field of business continuity. Continuity management is a holistic management process that identifies potential impacts threatening an organization and provides a framework for building resilience with the capability for an effective response. \r\nPrerequisites: AP/ADMS/DEMS 2700 3.00 or AP/ADMS 2400 3.00. \r\nCross-Listing: AP/ADMS 3703 3.00\r\n"
+        },
+        {
+            "dept": "dems",
+            "code": "3704",
+            "credit": 3.0,
+            "name": "Emergency Management Communications",
+            "prereqs": "",
+            "desc": "Introduces students to the essentials of all stages of emergency management communications. Relying heavily on case studies, this course teaches the theory of effective communications, particularly in a crisis context. Students will also develop their own presentation/media skills.  Cross-Listing:  AP/ADMS 3704 3.00\r\n"
+        },
+        {
+            "dept": "dems",
+            "code": "3705",
+            "credit": 3.0,
+            "name": "Emergency Management: Field Experience",
+            "prereqs": "dems2700 dems3701",
+            "desc": "Placements in the field provide students with the opportunity to apply theories of emergency management in a variety of organizations within the private, public and NGO sectors. \r\nPrerequisites: AP/ADMS/DEMS 2700 3.00 and AP/ADMS/DEMS 3701 3.00 with a minimum grade of C+ in each course. \r\nCross-Listing:: AP/ADMS 3705 3.00\r\nOpen only to those students enrolled in the Bachelor of Disaster and Emergency Management or the Emergency Management Certificate. \r\nNote 1: Students are required to apply for this course and will be selected by the course director based upon their prior demonstrated knowledge and competence.  \r\nNote 2: Students are responsible for finding their own field placement. The course director will assist students with this on an informal basis. The field experience cannot begin until an Agreement between York University and the Host Institution is signed. \r\nNote 3: Students are required to meet with the course director prior to the commencement of the course.  The field experience component of this course will require a commitment of 12 hours per week over 11 weeks (132 hours).  \r\n\r\n"
+        },
+        {
+            "dept": "dems",
+            "code": "3706",
+            "credit": 3.0,
+            "name": "Disasters and Humans",
+            "prereqs": "",
+            "desc": "Focuses on developing an understanding of the impact of different disasters on individuals, communities and specific populations. Short and long term intervention strategies for social psychological preparation and support will be presented and assessed.\r\nCross-Listing: AP/ADMS 3706 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "3707",
+            "credit": 3.0,
+            "name": "Ethics: Society, the Environment and Disasters",
+            "prereqs": "adms1000 dems2700",
+            "desc": "Explores ethical uncertainties associated with disasters and emergencies and develops a basic understanding of ethical decision-making processes and moral reasoning. Also explores the moral imperatives associated with emergency management in a variety of contexts, locally and globally. Emphasis is on applied ethics, development of moral competence in response to issues, and implications for socially responsive environmental and disaster management. \r\nPrerequisites: AP/ADMS 1000 3.00 and AP/ADMS/DEMS 2700 3.00.\r\nCross-Listing:: AP/ADMS 3707 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "3708",
+            "credit": 3.0,
+            "name": "Social Issues in Disaster Management",
+            "prereqs": "dems2700 dems3701",
+            "desc": "Offers in-depth analysis of the way social and cultural processes shape our experience and understanding of catastrophe, whether natural, accidental, or intentional.  Focus will be on how people and institutions make decisions as related to natural, technological and man-made disasters. \r\nPrerequisites: AP/ADMS/DEMS 2700 3.00 and AP/ADMS/DEMS 3701 3.00\r\nCross-Listing: AP/ADMS 3708 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "4704",
+            "credit": 3.0,
+            "name": "Disaster and Logistics",
+            "prereqs": "adms2320",
+            "desc": "Explores the potential applicability of concepts in private sector logistics to disaster logistics. Focuses on developing quantitative models in the disaster logistics area.      \r\nPrerequisite: AP/ADMS 2320 3.00\r\nCross-Listing: AP/ADMS 4704 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "4705",
+            "credit": 3.0,
+            "name": "Comprehensive Emergency Management 2:  The Canadian Context",
+            "prereqs": "dems3702",
+            "desc": "Applies the theory and practice of comprehensive emergency management within the Canadian context.  Examines Canadian case studies, policy, practice and legislation. Special topics will be addressed in greater depth.\r\nPrerequisite: AP/ADMS/DEMS 3702 3.00 or permission of the course director.\r\nCross-Listing: AP/ADMS 4705 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "4707",
+            "credit": 3.0,
+            "name": "Managing Risks to Critical Infrastructure",
+            "prereqs": "dems2700 dems3701 dems3702 dems3703",
+            "desc": "This course will explore threats, vulnerabilities and risks to critical infrastructure from the perspective of ensuring for reliability through appropriate protection and resiliency measures and strategies. It will examine and assess regulatory requirements, legislation and due diligence in terms of ensuring for the effective management of risks by critical infrastructure owners and operators. Incidents and threats to critical infrastructures stemming from natural disasters, accidents, physical and cyber attacks by criminals, terrorists and nation states are undertaken.\r\nPrerequisites: AP/ADMS/DEMS 2700 3.00, AP/ADMS/DEMS 3701 3.00, AP/ADMS/DEMS 3702 3.00, AP/ADMS/DEMS 3703 3.00. \r\nCross-Listing: AP/ADMS 4707 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "4708",
+            "credit": 3.0,
+            "name": "Research Seminar in Disaster and Emergency Management",
+            "prereqs": "dems3702",
+            "desc": "Examines selected theories and practices in Disaster and Emergency Management. Focus will be on development of research skills.  Course topics vary according to instructor.\r\nPrerequisites: AP/ADMS/DEMS 3702 3.00 or permission of the course director.  \r\nCross-Listing: AP/ADMS 4708 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "4709",
+            "credit": 3.0,
+            "name": "Terrorism: The New Threat",
+            "prereqs": "",
+            "desc": "Focuses on various components of terrorism. Facilitates a closer examination of both conventional and changing nature of terrorism. Security practices that continue to be applied to the present-day threat will be discussed. New and unconventional anti-terror processes will be explored that are expected to curtail the rise of terrorism.  \r\nOpened to students in Emergency Mgmt program, or 60 credits completed, or permission of the course director. \r\nCross-Listing:AP/ADMS 4709 3.00"
+        },
+        {
+            "dept": "dems",
+            "code": "4721",
+            "credit": 3.0,
+            "name": "Qualitative Methods",
+            "prereqs": "adms2400",
+            "desc": "Provides an in-depth understanding of qualitative strategies for conducting interviews, focus groups and other methods of research in public sector and business and management roles. It also addresses practical and theoretical approaches to data collection and analysis and examines the value of qualitative research in contemporary management practices. \nPrerequisite: a minimum of 60 credits successfully completed, including AP/ADMS 2400 3.00. \nCourse credit exclusion: AP/ADMS 4421 3.00 (prior to Fall 2019)."
+        },
+        {
+            "dept": "dems",
+            "code": "5000",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A supervised reading course on a topic for which there is no current course offering. Permission of the Graduate Program Director is required."
+        },
+        {
+            "dept": "dems",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Advanced Disaster and Emergency Management",
+            "prereqs": "",
+            "desc": "Explores the applications of advanced theory, methods and technologies in disaster and emergency management. Disaster and emergency management decision and planning methods and models, decision support systems, information systems and disaster databases, geographic information systems, remote sensing, various disaster and emergency management software and their applications are discussed. This is a required core course for the proposed Master of Arts in Disaster and Emergency Management."
+        },
+        {
+            "dept": "dems",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "Disasters: Concepts and Causes",
+            "prereqs": "",
+            "desc": "Examines natural disasters from an interdisciplinary point of view, particularly considering why there seem to be more natural disasters, and how and why decisions made by people create vulnerable communities. Crosslisted DEMS 5020."
+        },
+        {
+            "dept": "dems",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "Disasters: Concepts and Causes",
+            "prereqs": "",
+            "desc": "This course examines natural disasters from an interdisciplinary point of view, particularly considering why there seem to be more natural disasters, and how and why decisions made by people create vulnerable communities. \r\n"
+        },
+        {
+            "dept": "dems",
+            "code": "5030",
+            "credit": 3.0,
+            "name": "Social and Behavioral Dimensions of Disasters",
+            "prereqs": "",
+            "desc": "Examines social and behavioural dimensions of human interactions before, during and after emergencies and disasters, including behavioural myths and realities; linkages between individuals, families, groups, organizations, community social systems, and various levels of government; social vulnerability and the disproportionate impact of disasters upon various societal groups, etc. This is a required core course for the proposed Master of Arts in Disaster and Emergency Management."
+        },
+        {
+            "dept": "dems",
+            "code": "5051",
+            "credit": 3.0,
+            "name": "Research Design and Qualitative Research Methods",
+            "prereqs": "",
+            "desc": "Students are provided with a comprehensive knowledge and understanding of various quantitative research methods and their applications in disaster and emergency management. Using statistical methods, students will learn to analyze data and formulate hypotheses and conceptual relationships."
+        },
+        {
+            "dept": "dems",
+            "code": "5052",
+            "credit": 3.0,
+            "name": "Research Design and Quantitative Methods",
+            "prereqs": "",
+            "desc": "Provides students with an introduction to philosophical bases of research design as well as a practical introduction to qualitative methods. Students will gain an understanding of the paradigmatic foundations of research, how to design and evaluate qualitative research and experiment with a range of qualitative methods (i.e., interview, focus groups, observation, archival analysis)."
+        },
+        {
+            "dept": "dems",
+            "code": "5053",
+            "credit": 3.0,
+            "name": "Topics in Business Continuity",
+            "prereqs": "",
+            "desc": "Business continuity or disaster recovery is about disaster and emergency management at businesses.  This course focuses on selected business continuity (disaster recovery) planning and management topics and case studies in private and non-private businesses. Student will discuss different theoretical, methodological, technical and practical aspects of business continuity (disaster recovery) and review several business continuity (disaster recovery) planning and management cases. The topics, strategically sequenced to build context, introduce students to the most significant and relevant areas in business continuity (disaster recovery) planning and management today."
+        },
+        {
+            "dept": "dems",
+            "code": "5060",
+            "credit": 3.0,
+            "name": "Terrorism Studies I",
+            "prereqs": "",
+            "desc": "The purpose of this course is to give the student, a background to, and, overview of: terrorism in the 21st Century.  It will serve to give students, in the program, an understanding of this element of the threat spectrum.  It will further sensitize them to the potential dangers and probabilities that grow out of this area of critical concern. \r\n"
+        },
+        {
+            "dept": "dems",
+            "code": "5080",
+            "credit": 6.0,
+            "name": "Disaster &amp; Emergency Management Practicum",
+            "prereqs": "dems5010 dems5020 dems5030",
+            "desc": "Placements in the field provide students with the opportunity to apply theories of disaster and emergency management in a variety of organizations within the private, public and non-governmental organization sectors. Prerequisites: GS/DEMS 5010 3.00, GS/DEMS 5020 3.00 and GS/DEMS 5030 3.00."
+        },
+        {
+            "dept": "dems",
+            "code": "5081",
+            "credit": 3.0,
+            "name": "Topics in Applied Disaster Management",
+            "prereqs": "",
+            "desc": "Explores selected topics in applied disaster and emergency management, as they relate to the theoretical aspects of this subject area."
+        },
+        {
+            "dept": "dems",
+            "code": "5082",
+            "credit": 3.0,
+            "name": "Medical and Public Health Issues for Non-Medical Personnel",
+            "prereqs": "",
+            "desc": "This course addresses the common and important health issues that arise during both sudden and chronic emergencies, for victims and responders. "
+        },
+        {
+            "dept": "dems",
+            "code": "5710",
+            "credit": 3.0,
+            "name": "Critical Infrastructure Protection",
+            "prereqs": "",
+            "desc": "Explores issues related to critical infrastructure protection, including complexity, resilience, criticality and interdependencies, regulatory and legislative requirements, and doctrines. Threats include natural disasters and man-made events including criminal acts, terrorist physical and cyber attacks.\r\nCourse credit exclusion:  Students are only able to take this course with the permission of the course director, if the student has taken DEMS 4707 3.0:  Managing Risks to Critical Infrastructure."
+        },
+        {
+            "dept": "dems",
+            "code": "6070",
+            "credit": 3.0,
+            "name": "Disasters and Ethics",
+            "prereqs": "",
+            "desc": "Examines ethical theory as it applies to issues and uncertainties associated with disasters and emergencies. Students develop an understanding of the ethical decision-making process and moral reasoning. They have the opportunity to explore the moral imperatives associated with emergency management in a variety of contexts, both locally and globally. The emphasis of the course is on applied ethics and the development of moral competence in response to issues, and implications for socially responsive environmental and disaster management."
+        },
+        {
+            "dept": "dems",
+            "code": "6999",
+            "credit": 6.0,
+            "name": "Major Research Paper",
+            "prereqs": "",
+            "desc": "The purpose of the major research paper develops the student's ability to do research beyond a normal course paper. In its style, length, and quality, the major research paper takes the form of a publishable academic article of around 80 to 100 pages. The major research paper is supervised by a faculty member of the Disaster &amp; Emergency Management program. "
+        }
+    ]
+}

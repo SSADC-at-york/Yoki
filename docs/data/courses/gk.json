@@ -1,0 +1,76 @@
+{
+    "courses": [
+        {
+            "dept": "gk",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Classical Greek",
+            "prereqs": "",
+            "desc": "An introduction to classical Greek. No knowledge of the language is assumed."
+        },
+        {
+            "dept": "gk",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Classical and Biblical Greek",
+            "prereqs": "gk1000",
+            "desc": "Selections from various ancient Greek authors chosen at the discretion of the Instructor. Prerequisite: AP/GK 1000 6.00 or equivalent or permission of director of classical studies."
+        },
+        {
+            "dept": "gk",
+            "code": "3050",
+            "credit": 3.0,
+            "name": "Socrates",
+            "prereqs": "gk2000",
+            "desc": "A careful study of Socrates, the man and the philosopher, in the dialogues of Plato and the writings of other classical Greek authors.\r\nPrerequisite: AP/GK 2000 6.00 or permission of director of classical studies. Course credit exclusion: AP/GK 4050 3.00.\r\n\r\nPRIOR TO FALL 2009: Prerequisite: AS/GK 2000 6.00 or permission of director of classical studies. Course credit exclusions: AS/GK 3050 3.00 and AS/GK 4050 3.00."
+        },
+        {
+            "dept": "gk",
+            "code": "3080",
+            "credit": 3.0,
+            "name": "Later Greek Prose",
+            "prereqs": "gk2000",
+            "desc": "This course introduces students to Greek prose of the Roman Imperial Period in the original Greek. In addition to the study of language and literary form, the course also considers the social and political context of the works. \r\nPrerequisite: AP/GK 2000 6.00 or permission of director of classical studies. Course credit exclusion: AP/GK 4080 3.00.\r\n\r\nPRIOR TO FALL 2009: Prerequisite: AS/GK 2000 6.00 or permission of director of classical studies. Course credit exclusions: AS/GK 3080 3.00 and AS/GK 4080 3.00."
+        },
+        {
+            "dept": "gk",
+            "code": "4050",
+            "credit": 3.0,
+            "name": "Socrates",
+            "prereqs": "",
+            "desc": "A careful study of Socrates, the man and the philosopher, in the dialogues of Plato and the writings of other classical Greek authors.\r\nPrerequisite: At least six credits at the 3000 level in Greek (AP/GK) or permission of director of classical studies. Course credit exclusion: AP/GK 3050 3.00.\r\n\r\nPRIOR TO FALL 2009: Prerequisite: At least six credits at the 3000 level in Greek (AS/GK) or permission of director of classical studies. Course credit exclusions: AS/GK 3050 3.00 and AS/GK 4050 3.00."
+        },
+        {
+            "dept": "gk",
+            "code": "4080",
+            "credit": 3.0,
+            "name": "Later Greek Prose",
+            "prereqs": "",
+            "desc": "This course introduces students to Greek prose of the Roman Imperial Period in the original Greek. In addition to the study of language and literary form, the course also considers the social and political context of the works. \r\nPrerequisite: At least six credits at the 3000 level in Greek (AP/GK) or permission of director of classical studies. Course credit exclusion: AP/GK 3080 3.00.\r\n\r\nPRIOR TO FALL 2009: Prerequisite: At least six credits at the 3000 level in Greek (AS/GK) or permission of director of classical studies. Course credit exclusions: AS/GK 3080 3.00 and AS/GK 4080 3.00."
+        },
+        {
+            "dept": "gk",
+            "code": "4130",
+            "credit": 6.0,
+            "name": "Guided Readings in Greek Authors",
+            "prereqs": "",
+            "desc": "An independent reading program with material chosen according to the interest of the student. Note: Open only with the permission of the director. Please consult the Enrolment and Registration section, Faculty of Liberal Arts and Professional Studies for regulations on independent reading courses."
+        },
+        {
+            "dept": "gk",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Guided Readings in Greek Authors",
+            "prereqs": "",
+            "desc": "An independent reading program with material chosen according to the interest of the student. Note: Open only with the permission of the director. Please consult the Enrolment and Registration section, Faculty of Liberal Arts and Professional Studies for regulations on independent reading courses."
+        },
+        {
+            "dept": "gk",
+            "code": "4140",
+            "credit": 6.0,
+            "name": "Honours Essay",
+            "prereqs": "",
+            "desc": "Open only to Honours candidates with the permission of the director. Note: Consult the director of the program for further information on course offerings in Greek literature."
+        }
+    ]
+}

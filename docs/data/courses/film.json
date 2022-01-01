@@ -1,0 +1,788 @@
+{
+    "courses": [
+        {
+            "dept": "film",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "Making Media",
+            "prereqs": "",
+            "desc": "\nOffers a production course designed to introduce students to a wide array of media arts practices and theories through hands-on exercises, lectures, screenings and tutorials. The course focuses on how new technologies have affected the traditional fields of cinema and media studies, and how the internet and ubiquitous computing devices such as smartphones are an indispensable part of producing media in a changing world. Course credit exclusion: FA/FILM 1020 3.00. Degree requirement for Cinema and Media Studies majors. Open to non-majors by permission of the department.\n\n\n\n\n\n\n\n\n\n\n\n\n"
+        },
+        {
+            "dept": "film",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Introduction to Filmmaking I     ",
+            "prereqs": "",
+            "desc": "Introduces the student through lectures, screenings, workshops, and guest visits to the concepts, formats and visual elements of the movie, and emphasizes ways in which film and videomakers translate ideas into moving images. Note: Required of all first-year BFA film majors. Enrolment is limited to BFA film majors. Corequisites: FA/FILM 1020 3.00, FA/FILM 1400 6.00."
+        },
+        {
+            "dept": "film",
+            "code": "1020",
+            "credit": 3.0,
+            "name": "Introduction to Filmmaking II",
+            "prereqs": "film1120",
+            "desc": "Offers instruction in the fundamental concepts, procedures and techniques of visual and audio production as an idea is taken from the script to the screen. Course work includes the production of several short projects in various formats. Students are required to purchase production materials. Prerequisite FA/FILM 1120 3.00. Note: Required of all first-year BFA film majors specializing in production. Enrolment is limited to BFA film majors."
+        },
+        {
+            "dept": "film",
+            "code": "1101",
+            "credit": 8.0,
+            "name": "Media Practice I",
+            "prereqs": "",
+            "desc": "Media Practice I is an introductory practical studio course that allows Media Arts students to recognize and realize the potential of making short videos for a variety of digital platforms. Concepts and techniques of video production for the web, multimedia and mobile media platforms are addressed, from the workflow of a project to the editing, sound, and final output formats. Assigned projects provide students with the opportunity to explore the creative and communicative potential of very short video forms through the completion of assigned creative work. Technical demonstrations and workshops provide students with a wide range of versatile tools and approaches through which ideas may be explored and developed. Studio production and experimentation complement readings, discussions, and viewings, resulting in a more thorough understanding of historical and contemporary discourses surrounding the mobile video image. "
+        },
+        {
+            "dept": "film",
+            "code": "1120",
+            "credit": 3.0,
+            "name": "Introduction to Screenwriting",
+            "prereqs": "",
+            "desc": "Provides an overview of the role of storytelling in filmmaking practice, introducing students to the techniques used by screenwriters to craft stories in both fiction and non-fiction films and television programs and other moving picture media. Course credit exclusions: FA/FILM 1010 3.00, FA/FILM 1121 3.00 (prior to Winter 2011). Note: Required of all first-year BA and BFA film majors. Enrolment is limited to BA and BFA film majors."
+        },
+        {
+            "dept": "film",
+            "code": "1123",
+            "credit": 3.0,
+            "name": "Writing for Games &amp; Interactive Media I ",
+            "prereqs": "",
+            "desc": "This course introduces students to the basic principles of writing for games and interactive media, including core concepts of storytelling, and the ways in which interactive writing departs from the traditional. From social media storytelling to branching fictions, video and text games, and non-linear interactive websites, theories of storytelling and gameplay (narratology and ludology) will inform learning through hands-on, project-based work designing characters, branching storylines, and environmental storyworlds. No pre-requisites. Note: Required of all first-year BFA Media Arts majors. Enrolment is limited to BA and BFA film majors."
+        },
+        {
+            "dept": "film",
+            "code": "1400",
+            "credit": 6.0,
+            "name": "Film Art: An Introduction",
+            "prereqs": "",
+            "desc": "Introduces the aesthetics, theory and history of film. Lectures concentrate on the elements of film, including narrative structure, visual composition and the uses of sound and editing. Documentary, experimental and feature films are encompassed. Note: Required of all Film majors and minors. Course credit exclusion: FA/FILM 1401 6.00. Note: Required of all first-year BA and BFA Film majors. Enrolment is limited to BA and BFA Film majors."
+        },
+        {
+            "dept": "film",
+            "code": "1401",
+            "credit": 6.0,
+            "name": "Introduction to Film (for Non-Majors)",
+            "prereqs": "",
+            "desc": "Provides a broad survey of the art and criticism of film. Students are introduced to some of the major films and movements that have come to define the evolution of cinema as a popular culture, political discourse and art form. Within an historical framework students will be introduced to the general vocabulary and syntax of film studies. They will also learn about the major technological innovations, aesthetic movements and political discourses that have underscored the development of cinema as a culture industry. Designed for non-majors. Course credit exclusion: FA/FILM 1400 6.00."
+        },
+        {
+            "dept": "film",
+            "code": "1405",
+            "credit": 3.0,
+            "name": "Introduction to Television Studies",
+            "prereqs": "",
+            "desc": "Provides a foundational understanding of the field of television studies. The course will follow a loose chronology of the history of global television and survey the major methods, models, and critical approaches used to study it. Spanning a history of television from its origins in radio to its future in digital convergence, the course will consider television's role in both reflecting and constituting global society. The course will also engage in close textual analysis of television's major genres, from the sit com to reality television, by drawing on a variety of critical models, such as cultural studies, textual analysis, ethnography, psychology and psychoanalysis, affect theory, cultural policy studies, gender studies, global studies, and critical race studies. Finally, the course will also consider television as a technology, an industry, and a mode of production, and it will seek to build a critical bridge between television studies and fields like political economy and environmental studies. "
+        },
+        {
+            "dept": "film",
+            "code": "1701",
+            "credit": 3.0,
+            "name": "Hollywood: Old and New",
+            "prereqs": "",
+            "desc": "An introductory course that provides Web-based delivery of lectures, discussion groups and screenings. Key concepts in critical film analysis will be introduced and important themes in American film history will be examined."
+        },
+        {
+            "dept": "film",
+            "code": "1800",
+            "credit": 6.0,
+            "name": "The Biology of Story",
+            "prereqs": "",
+            "desc": "How do writers, filmmakers, and other creators go about finding and shaping the stories they tell? In what ways are the patterns of story woven into our lives, our society, our world? Or are we and our world woven by the patterns of story?\r\nBiology of Story is a 24-week, largely asynchronous, fully online course. Proceeding from the practical insights of those who tell stories in many forms, the course will also explore the growing use of narrative in a wide range of fields towards rethinking social and institutional assumptions and releasing human potential. Open to non-majors.\r\nRanging across multiple Creative Arts (Film &amp; Television, Interactive &amp; Transmedia, Oral Literature &amp; Folklore, Literature &amp; Creative Writing), Humanities (Native Studies, Education, Religious Studies, Psychology, Journalism, Peace &amp; Conflict Studies) and Sciences (Life Sciences, Cosmology, Health &amp; Medicine), the course will follow the thread of story as it informs, and is informed by, each discipline. \r\nA range of learning activities will involve students in individual and group work equally demanding of analytical rigour, creative imagination, and personal reflection; while building first-year University skills at research, writing, and informed discussion.\r\nKey insights from the cultural knowledge of First Nations and other indigenous peoples, traditionally rooted in story, will frame the course's epistemological approach."
+        },
+        {
+            "dept": "film",
+            "code": "1900",
+            "credit": 3.0,
+            "name": "Cinema and the City ",
+            "prereqs": "",
+            "desc": "Investigates cinema as an urban phenomenon. Special attention will be paid to the ways in which cinema and the city have been linked as benchmarks of modernity, mobility and social and cultural change. Not open to film majors."
+        },
+        {
+            "dept": "film",
+            "code": "2010",
+            "credit": 6.0,
+            "name": "Film &amp; Video Production",
+            "prereqs": "film1010 film1020 film1400",
+            "desc": "Offers an intensive exploration of the techniques basic to film and electronic production. The emphasis is on producing several short subjects in both media for the widest possible experience and exploration of different forms in both media. Four hours. Prerequisites: FA/FILM 1010 3.00, FA/FILM 1020 3.00, FA/FILM 1400 6.00 and permission of the production committee.  Corequisites: FA/FILM 2020 3.00, FA/FILM 2120 6.00, FA/FILM 2400 6.00 and FA/FILM 2170 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "2065",
+            "credit": 3.0,
+            "name": "Photography: Post Production for Screen &amp; Web",
+            "prereqs": "",
+            "desc": "This online course introduces students to photographic software and concepts related to the digital environment. Students will acquire skills in digital workflow and image processing by introducing raw files to Adobe Lightroom and Photoshop. Students will use software to produce and manipulate photographs for the screen &amp; web. By the end of the course students will have acquired a working knowledge of the basic tools, applications and creative techniques related to digital, screen-based photography.\n\nThis course has compulsory supplementary fees. Students will require access to a computer equipped with Adobe Lightroom Classic and Photoshop. Access to a DSLR camera is advantageous. Requires skill in basic digital photography. Students seeking camera and photography fundamentals should register in VISA 2061 before taking this course. VISA 2065 is open to visual arts majors and is a prerequisite for 3000-level photography courses. This course is cross-listed with FA/FILM 2065 3.00 and is open to Film majors (BA and BFA). Course credit exclusions: FA/VISA 2006 3.00; FA/FILM 2065 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "2101",
+            "credit": 8.0,
+            "name": "Media Practice II",
+            "prereqs": "",
+            "desc": "Introduces students to diverse platforms and innovative production modes in media arts. Using an innovative modular structure, the course explores a range of contemporary media practices through lectures and workshops where students are engaged through continuous making and reflecting. The course is team-taught by CMS faculty supported by guest lectures by leading practitioners and media artists. Pre-requisites: FA/FILM 1001 3.0, FA/FILM 1101 3.0 or 4.0. Course credit exclusion: FA/FILM 2001 6.0 or 9.0."
+        },
+        {
+            "dept": "film",
+            "code": "2120",
+            "credit": 6.0,
+            "name": "Screenwriting Fundamentals (Production)",
+            "prereqs": "film1020 film1120",
+            "desc": "Introduces the craft of screenwriting, taking a general view of screenwriting and its relationship to filmmaking, storytelling, and writing. This course is a prerequisite for all upper-level screenwriting courses. Prerequisites: Film and video majors: FA/FILM 1020 3.00 and FA/FILM 1120 3.0."
+        },
+        {
+            "dept": "film",
+            "code": "2121",
+            "credit": 6.0,
+            "name": "Screenwriting Fundamentals ",
+            "prereqs": "film1020",
+            "desc": "Provides a broad introduction to the art and craft of screenwriting. Writing for film is very specific, both an art and a technical document. Students, through the examination of films, will discuss how film stories are told and the fundamental requirements to writing a script. However, unlike FA/FILM 2120 6.00, these scripts are not written to be produced and therefore do not cover the technical language of filmmaking (camera angles, production and crewing). This course is a degree requirement option for all BFA Screenwriting students and is a prerequisite to all upper level screenwriting courses in the department of film. Pre-requisites: FA/FILM 1020 3.0 and FILM 1120 3.0. Course credit exclusion: FA/FILM 2120 6.00."
+        },
+        {
+            "dept": "film",
+            "code": "2170",
+            "credit": 3.0,
+            "name": "Production Planning &amp; Management",
+            "prereqs": "film1010 film1020 film1400",
+            "desc": "Offers a practical course in film &amp; video production planning including: script breakdown, scheduling, budgeting, financing, legal issues, collective agreements and administrative procedures. Additional fee required. Prerequisites: FA/FILM 1010 3.00, FA/FILM 1020 3.00, FA/FILM 1400 6.00. Corequisites: FA/FILM 2010 6.00, FA/FILM 2020 3.00, FA/FILM 2120 6.00, FA/FILM 2400 6.00. Course credit exclusion: FA/FILM 3170 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Early Cinema to the Coming of Sound: 1895 - 1930 ",
+            "prereqs": "film1400",
+            "desc": "Examines the emergence of cinema as a technology, cultural experience, economic structure, and means of artistic expression. Prerequisite: FA/FILM 1400 9.00 or 6.00.\n"
+        },
+        {
+            "dept": "film",
+            "code": "2230",
+            "credit": 3.0,
+            "name": "Film and Television as Mass Culture, 1920s-1960s",
+            "prereqs": "film1400",
+            "desc": "Presents histories and theories that focus on the role of film and television as mass culture from the 1920s to 1960s including their relationship to everyday life, social and power relations, and cultural practices in the period. Prerequisite: FA/FILM 1400 9.00 or 6.00."
+        },
+        {
+            "dept": "film",
+            "code": "2500",
+            "credit": 3.0,
+            "name": "Introduction to 3D Modelling",
+            "prereqs": "",
+            "desc": "Provides a foundation in 3D modelling using state of the art render time 3D modelling software such as Maya, Blender, and 3DS Max. The course will provide a survey of various modelling techniques and approaches with an emphasis on modelling used in 3D art, 3D animation and games. Topics include photorealistic rendering, scene building, character modelling, and the use of 3D graphics in simulation and visualization."
+        },
+        {
+            "dept": "film",
+            "code": "2501",
+            "credit": 3.0,
+            "name": "Introduction to 3D Animation",
+            "prereqs": "datt2500",
+            "desc": "Provides a foundation in 3D animation using state of the art render time 3D modelling and animation software such as Maya, Blender, and 3DS Max. The course will provide a survey of various animation techniques and approaches with an emphasis on render time animation as it is used in 3D art, 3D animation, data visualization and games. Topics include, scene building, character animation, timeline based animation techniques, and the use of 3D graphics in simulation and visualization. \r\nPrerequisites: FA/DATT 2500 3.00, or by permission of the Instructor.\r\n"
+        },
+        {
+            "dept": "film",
+            "code": "2841",
+            "credit": 3.0,
+            "name": "Digital Culture: History, Theory, Practice",
+            "prereqs": "film1400 film1401",
+            "desc": "Explores the history, theory, and practice of digital media through an examination of contemporary practice and theories of digital art, social media, gaming culture, film, new media, animation, and software studies. Prerequisites: FA/FILM 1400 6.00, FA/FILM 1401 6.00, or permission of the Instructor. Open to non-majors.\n\n"
+        },
+        {
+            "dept": "film",
+            "code": "3001",
+            "credit": 6.0,
+            "name": "Fiction Project Workshop I",
+            "prereqs": "film2010 film2010",
+            "desc": "Explores the practice, aesthetics and theory of fictional narrative filmmaking. Students engage in practical exercises as well as discussions to prepare them to direct the main project of the course, a short, sync sound, colour narrative film. Prerequisites: FA/FILM 2010 6.00 or FA/FILM 2010 9.00 and permission of the Film Department. "
+        },
+        {
+            "dept": "film",
+            "code": "3002",
+            "credit": 6.0,
+            "name": "Documentary Project Workshop I",
+            "prereqs": "film2010 film2010",
+            "desc": "Explores the practice, aesthetics and theory of documentary film and video making, at an advanced level. Over the course of the year, students will engage in various preparatory practical exercises, culminating with the production of a short documentary on film and/or video. Prerequisites: FA/FILM 2010 6.00 or FA/FILM 2010 9.00 and permission of the Film Department. "
+        },
+        {
+            "dept": "film",
+            "code": "3003",
+            "credit": 6.0,
+            "name": "Alternative Project Workshop I",
+            "prereqs": "film2010 film2010",
+            "desc": "Provides a workshop environment for the development, production and post-production of a range of film and video projects, with an emphasis on works which cross boundaries through the use of innovative subjects, processes and approaches. Prerequisites: FA/FILM 2010 6.00 or FA/FILM 2010 9.00 and permission of the Film Department. "
+        },
+        {
+            "dept": "film",
+            "code": "3101",
+            "credit": 8.0,
+            "name": "Media Practice III",
+            "prereqs": "",
+            "desc": "Media Practice III builds on media fundamentals introduced in Media Practice I with a more in depth concentration on three thematic modules. Thematic modules might include:: Working with Archives; Social Activism; New Narrative; Toronto: Site Specific; Collaborative Community Practice; Projecting the Future; Dreamworlds; Immersive Reality; Truth and Reconciliation. Taking advantage of the rich cultural life of the city, these modules may be developed in conjunction with specific gallery, museum or curated film and media shows and are intended to encourage students to engage with diverse communities, locations and events within the GTA. Pre-requisites: FA/FILM 1001, FA/FILM 1101,  FA/FILM 2101.\n\n"
+        },
+        {
+            "dept": "film",
+            "code": "3103",
+            "credit": 3.0,
+            "name": "The Interactive Documentary",
+            "prereqs": "",
+            "desc": "Studies the theory and practice of interactive web documentaries, participatory online projects, and docu-games as these are reshaping the way we tell, produce and distribute documentary experience in the digital age. Prerequisite: FA/FILM 2200 and FA/FILM2230, or permission of the department."
+        },
+        {
+            "dept": "film",
+            "code": "3120",
+            "credit": 6.0,
+            "name": "Feature Screenwriting I",
+            "prereqs": "film2120 film2121",
+            "desc": "Focuses on the initial stages of writing a feature-length screenplay. Explores idea of development, story groundwork and principles of story structure. Leads students through craft challenges in the creation of a fully developed story outline. The first of two year-long courses. Prerequisite: FA/FILM 2120 6.00; or FA/FILM 2121 6.00 and permission of the Film Department."
+        },
+        {
+            "dept": "film",
+            "code": "3123",
+            "credit": 3.0,
+            "name": "Transmedia Storytelling",
+            "prereqs": "film2120 film2121",
+            "desc": "Provides students who have completed first- and second- year screenwriting courses with a focus on strategies for developing complex stories that can be told across multiple media platforms (film, television, web, mobile, etc.) incorporating elements of interactivity. Prerequisite: FA/FILM 2120 6.00 or FA/FILM 2121 6.00 Open to non-Screenwriting Majors with permission of Department."
+        },
+        {
+            "dept": "film",
+            "code": "3124",
+            "credit": 3.0,
+            "name": "Writing for Television I",
+            "prereqs": "film2121 film2120",
+            "desc": "Provides a focus on the craft of writing dramatic scripts (teleplays) for television and related media, and hands-on experience with working in a story department, culminating in each student's creation of an original one-hour prime time television series. Prerequisites: Fa/FILM 2121 6.00 and FA/FILM 2120 6.00"
+        },
+        {
+            "dept": "film",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Editing Technique I",
+            "prereqs": "film2010 film2010",
+            "desc": "Explores the practice, aesthetics and theory of image editing. Over the course of the term, students will engage in a series of short exercises covering a variety of styles, genres and modes. Prerequisites: FA/FILM 2010 6.00 or FA/FILM 2010 9.00 and permission of the Film Department."
+        },
+        {
+            "dept": "film",
+            "code": "3155",
+            "credit": 3.0,
+            "name": "Sound Techniques I",
+            "prereqs": "film2010 film2010",
+            "desc": "Explores all aspects of sound recording and design for film and video production, focusing on both theory and technique. The curriculum will cover techniques in location recording, and provide an overview of sound editing and sound mixing. Prerequisites: FA/FILM 2010 6.00 or FA/FILM 2010 6.00 9.00 and permission of the Film Department. "
+        },
+        {
+            "dept": "film",
+            "code": "3160",
+            "credit": 3.0,
+            "name": "Cinematography I",
+            "prereqs": "film2010",
+            "desc": "Provides an intensive study of the foundational elements of lighting, camera and photography, as they relate to film and video production.  Prerequisites: FA/FILM 2010 6.00 or 9.00 and permission of the Film Department."
+        },
+        {
+            "dept": "film",
+            "code": "3175",
+            "credit": 3.0,
+            "name": "Production Planning &amp; Management I",
+            "prereqs": "film2010",
+            "desc": "Offers a practical course in film production planning including script breakdown, scheduling, budgeting, financing, legal issues, collective agreements and administrative procedures. Examines the creative and financial role of the production team, including the Production Manage, Assistant Directors and the Location Manager in detail. Students will apply these skills on a senior Fiction, Documentary or Alternative project during the course. Open to non-production majors by permission of the Film Department. Prerequisites: FA/FILM 2010 9.00 and permission of the Department of Film."
+        },
+        {
+            "dept": "film",
+            "code": "3180",
+            "credit": 3.0,
+            "name": "Acting and Directing I - Basic Concepts and Technique",
+            "prereqs": "film2010 film2010",
+            "desc": "Guides developing directors towards an understanding of the process of acting. Understanding of the actor's process and territory is the first requirement of effective directing. Prerequisites: FA/FILM 2010 6.00 or FA/FILM 2010 9.00."
+        },
+        {
+            "dept": "film",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "New Waves: 1960s - 1980s ",
+            "prereqs": "",
+            "desc": "Examines histories and theories in post-WWII global cinema including the rise of new wave national cinemas, the emergence of cinematic modernism, post-colonial film, and new forms of documentary and experimental film, in relation to stylistic, thematic, and cultural characteristics. Pre-requisites: FA/FILM 2200 3.00, FA/FILM 2230 3.0.\n"
+        },
+        {
+            "dept": "film",
+            "code": "3211",
+            "credit": 3.0,
+            "name": "American Film And Television",
+            "prereqs": "film1400",
+            "desc": "Studies the development of American film and television. Includes historical overviews and critical studies of the various forms of production,\r\ndistribution and exhibition that characterize American media culture. Four hours. Prerequisite: FA/Film 1400 6.00 or permission of the course director."
+        },
+        {
+            "dept": "film",
+            "code": "3230",
+            "credit": 3.0,
+            "name": "Contemporary Directions in Cinema and Media Studies: 1980s - present ",
+            "prereqs": "film2200 film2230",
+            "desc": "Introduces students to contemporary developments in cinema and media theory from post-structuralism to theories of new media.\r\nPrerequisites of FA/FILM 2200 3.00 and FA/FILM 2230 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "3350",
+            "credit": 3.0,
+            "name": "From Art-House to Slaughter-House: Tracing Horror and Art Cinema",
+            "prereqs": "",
+            "desc": "Examines cultural, industrial and aesthetic overlaps between horror and art cinema since the 1920s. Considers horror and art cinema's evolution in relation to the changing concerns of cinema studies, film criticism and popular discourse.\r\nPrerequisites: FA/FILM 1400 or permission of department"
+        },
+        {
+            "dept": "film",
+            "code": "3401",
+            "credit": 3.0,
+            "name": "Cinemas in Canada",
+            "prereqs": "film1400",
+            "desc": "Explores critical and historical approaches to Canadian screen cultures with a particular focus on Indigenous filmmakers. Issues of sovereignty, colonialism and the settler nation are explored through the study of key filmmakers, media practices, historical policy frameworks and institutions such as the National Film Board of Canada. Required for all Film majors. Prerequisite: FA/FILM 1400 6.00 or permission of the Film Department."
+        },
+        {
+            "dept": "film",
+            "code": "3420D",
+            "credit": 3.0,
+            "name": "Studies in Genre: Horror",
+            "prereqs": "film1400",
+            "desc": "Investigates the concept of genre through the study of the horror film or television series as a genre crossing distinctive national, institutional and historical categories. The cultural significance and social/historical determinants of the horror film are central to the course as well as the conventions, evolution and iconography of this popular genre. Prerequisite: FA/FILM 1400 6.00 or permission of the Film Department. "
+        },
+        {
+            "dept": "film",
+            "code": "3793",
+            "credit": 3.0,
+            "name": "Screening the Past: Rewriting German History in Film",
+            "prereqs": "",
+            "desc": "The course investigates the relation between German cinema and history. It examines reconstructions of history in twentieth- and twenty-first century films from Germany and German cinema's contribution to the shaping of national and collective identities. \nNote: Language of instruction: English, all readings in English, however, students enrolling through German, are required to complete most readings in German and write some assignments in German. Note: For students enrolling through Humanities there is no prerequisite; knowledge of German is not required. Note: Students are expected to view the films in their own time in the library (SMIL) in preparation for class discussion.\n"
+        },
+        {
+            "dept": "film",
+            "code": "3810",
+            "credit": 3.0,
+            "name": "Women and Film I",
+            "prereqs": "film1400",
+            "desc": "Examines the feminist perspective of the ways in which women have been represented in mainstream Hollywood and classical film traditions. Discussion of formative texts of feminist film theory on issues of body representation, the look, the place of women in mainstream narrative, the construction of gendered positions of spectatorship in Hollywood and popular culture. Prerequisite: FA/FILM 1400 6.00 or permission of the department. "
+        },
+        {
+            "dept": "film",
+            "code": "3840",
+            "credit": 3.0,
+            "name": "Games and Media",
+            "prereqs": "",
+            "desc": "Examines the history of expanded forms of cinematic narrative and interactivity within an intermedial context that includes games, environments and computers. Explores the relation between cinema and games, including non-linear modes of storytelling in the twentieth and twenty-first centuries.\r\nOpen to non-majors"
+        },
+        {
+            "dept": "film",
+            "code": "3845",
+            "credit": 3.0,
+            "name": "Sonic Cinema: Designing Sound for Expanded Cinema",
+            "prereqs": "",
+            "desc": "This class will examine the nature of sound design for expanded forms of cinema. Open to non-majors."
+        },
+        {
+            "dept": "film",
+            "code": "4001",
+            "credit": 6.0,
+            "name": "Fiction Project Workshop II",
+            "prereqs": "",
+            "desc": "Provides film majors with a workshop context for the production of fictional narrative film and video projects. Each student will direct one major production, running 10 - 25 minutes. Prerequisites: Film BFA foundation program and permission of the Film Department. Prerequisite or corequisite: FA/FILM 2170 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4002",
+            "credit": 6.0,
+            "name": "Documentary Project Workshop II",
+            "prereqs": "film2010 film2010",
+            "desc": "Provides fourth-year students with the opportunity to explore the practice, aesthetics and theory of documentary production at an advanced level Over the course of the year, students will engage in various preparatory, practical exercises, culminating in the production of a major documentary project. Prerequisites: FA/FILM 2010 6.00 or FA/FILM 2010 9.00 and permission of the Film Department.\r\n"
+        },
+        {
+            "dept": "film",
+            "code": "4003",
+            "credit": 6.0,
+            "name": "Alternative Project Workshop II",
+            "prereqs": "film2010 film2010",
+            "desc": "Provides fourth-year students with the opportunity to explore the practice, aesthetics and theory of alternative production at an advanced level Over the course of the year, students will engage in various preparatory, practical exercises, culminating in the production of a major alternative project. Prerequisites: FA/FILM 2010 6.00 or FA/FILM 2010 9.00 and permission of the Film Department."
+        },
+        {
+            "dept": "film",
+            "code": "4101",
+            "credit": 6.0,
+            "name": "Fourth Year Projects ",
+            "prereqs": "",
+            "desc": "Fourth Year Projects is the culminating course in the Media Arts curriculum that builds on the media fundamentals introduced in Media Practice I and developed in Media Practice II. Using a student-led approach, the focus is on developing a working prototype as the focal point of a creative portfolio that showcases a variety of skills. The possibilities range from interactive stories or documentaries to AR and VR games, podcasts, installations, and web projects, developed either individually or collaboratively. With guidance and mentorship, students will complete a substantial creative work on the platform of their choice. Open to majors only. Pre-requisites: FA/FILM 3101 or permission of instructor."
+        },
+        {
+            "dept": "film",
+            "code": "4102",
+            "credit": 3.0,
+            "name": "Creative Producing for the Media Industries",
+            "prereqs": "",
+            "desc": "This 4th year studio course teaches advanced creative producing skills and practices relevant to the Canadian independent media landscape, focusing on the changing worlds of new media platforms and independent media. Creative Producing addresses every aspect of the creation of new digital media projects (development, prep, production, post-production and release), and is suitable for students who wish to develop advanced hands-on skills in these areas.\n\nEach week, a different aspect of creative producing is explored in depth: copyright and contracts, financing and budgeting, co-producing and partnerships, casting and crewing, locations and equipment, vehicles and departments, post picture and sound, festivals and distribution, publicity and outreach. Emerging models for new modes of fiction, doc and alternative projects are studied, exploring how new production models for 360/XR, i-doc, locative media, games and hybrid projects can learn from the best practices and expertise of low-budget and independent media idioms.\n\nEach class includes three components:  (1) in-depth instruction on some aspect of new media production; (2) the presentation of student research projects, conducting case-studies on the creative production of recent projects; and (3) a guest lecture by an industry professional (producers, funders, distributors), addressing their own experience in relation to that week's specialized topic.\n\nWorking in teams as their final project assignment, each student creates a detailed development package (proposal, budget, financing plan) for an original new media/independent cinema project. \n\nPre-requisite: FILM 3101 or permission of instructor. Each applicant must submit a current creative CV (with a focus on previous relevant experience in the arts), and a brief one-page letter outlining their interest in this course, and how it applies to their future careers (as producers and/or artists)."
+        },
+        {
+            "dept": "film",
+            "code": "4120",
+            "credit": 6.0,
+            "name": "Feature Screenwriting II",
+            "prereqs": "film3120",
+            "desc": "Develops the student's existing story outlines into full feature-length screenplays and through several rewrites. The course will also examine the realities of working as a writer in the Canadian and international film industries. Prerequisite: Grade of B+ or better in FA/FILM 3120 6.00."
+        },
+        {
+            "dept": "film",
+            "code": "4124",
+            "credit": 6.0,
+            "name": "Writing for Television II",
+            "prereqs": "film3124",
+            "desc": "Provides an advanced focus on the craft of writing dramatic scripts (teleplays) for television and related media, and hands-on experience with working in a story department, culminating in each student's creation of an original one-hour prime time television series. Prerequisite: FA/FILM 3124 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Editing Techniques II",
+            "prereqs": "film3135",
+            "desc": "Continues the exploration of the practice, aesthetics and theory of motion pictures editing, building on the knowledge and skills acquired in FA/FILM 3135 3.00. Prerequisite: FA/FILM 3135 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4135",
+            "credit": 3.0,
+            "name": "Editing Techniques III",
+            "prereqs": "film4130",
+            "desc": "Explores further the practice, aesthetics and theory of motion picture editing, building on the knowledge and skills acquired in FA/FILM 4130 3.00. This course is for students who show exceptional ability and commitment to the craft of editing. Students will work extensively editing film and video projects undertaken in the project workshops. They may also mentor students in FA/FILM 3135 3.00 and FA/FILM 4130 3.000 Prerequisite: FA/FILM 4130 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4150",
+            "credit": 3.0,
+            "name": "Sound Techniques II",
+            "prereqs": "film3155",
+            "desc": "Offers an advanced exploration of post-production and studio sound practices, building on the experience and knowledge gained in FA/FILM 3155 3.00. The expressive arts of the sound editor and mixer will be further explored by students as they acquire more advanced knowledge of post-production sound editing and mixing and discover the full breadth of aesthetic possibilities of sound design for film and video. The course will include lectures, field trips and visits from working professionals. Prerequisite: FA/FILM 3155 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4155",
+            "credit": 3.0,
+            "name": "Sound Techniques III",
+            "prereqs": "film4150",
+            "desc": "Explores further the practice, aesthetics and theory of digital sound for film, building on the knowledge and skills acquired in FA/FILM 3155 3.00 and FA/FILM 4150 3.00. Prerequisites: FA.FILM 3155 3.00 and FA/FILM 4150 3.00 and/or permission of the Production Committee. This course is open to Film Production BFA majors only."
+        },
+        {
+            "dept": "film",
+            "code": "4161",
+            "credit": 3.0,
+            "name": "Cinematography II",
+            "prereqs": "film3160",
+            "desc": "Assists students in continuing to develop creative and technical skills initiated in FA/FILM 3160 3.00, with an emphasis on the planning and shooting of films and videos produced in the project courses. Prerequisite: FA/FILM 3160 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4165",
+            "credit": 3.0,
+            "name": "Cinematography III",
+            "prereqs": "film4161",
+            "desc": "Builds further on the creative and technical skills acquired in FA/FILM 4161 3.00, providing guidance to students heavily involved in shooting films and videos. Prerequisite: FA/FILM 4161 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4175",
+            "credit": 3.0,
+            "name": "Production Planning and Management II",
+            "prereqs": "film3175",
+            "desc": "Provides advanced study of production management and producing for film: financing, budgeting, scheduling, assistant directing, and the coordination of cast, crew, locations and departments. Each student will production-manage a level film. Prerequisite: FA/FILM 3175 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4180",
+            "credit": 3.0,
+            "name": "Acting and Directing II - Directing Actors for the Screen",
+            "prereqs": "film3180 film3180",
+            "desc": "Explores the work that actors and directors do together. It includes scene study, preparation, and the recording and editing of dramatic scenes. Prerequisite: FA/FILM 3180 3.00 or FA/FILM 3180 6.00. Open to both film and video and theatre majors."
+        },
+        {
+            "dept": "film",
+            "code": "4191",
+            "credit": 6.0,
+            "name": "Field Placement for Cinema &amp; Media Studies/Media Arts ",
+            "prereqs": "",
+            "desc": "An experiential education field placement course specifically for students in the BA in Cinema &amp; Media Studies and BFA in Media Arts. Students undertake field placements in moving image media industry sites, supervised and guided by AMPD faculty and staff. Open to majors only.\r\n\r\nPrerequisites: 60 credits and enrollment in the Honours BA in Cinema &amp; Media Studies or BFA in Media Arts (i.e. students are eligible to take Field Placements in Year 3 and Year 4 of their degrees)."
+        },
+        {
+            "dept": "film",
+            "code": "4191",
+            "credit": 3.0,
+            "name": "Field Placement for Cinema &amp; Media Studies/Media Arts",
+            "prereqs": "",
+            "desc": "An experiential education field placement course specifically for students in the BA in Cinema &amp; Media Studies and BFA in Media Arts. Students undertake field placements in moving image media industry sites, supervised and guided by AMPD faculty and staff. Open to majors only.\r\n\r\nPrerequisites: 60 credits and enrollment in the Honours BA in Cinema &amp; Media Studies or BFA in Media Arts (i.e. students are eligible to take Field Placements in Year 3 and Year 4 of their degrees)."
+        },
+        {
+            "dept": "film",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "The Business of Film &amp; Television",
+            "prereqs": "film2200 film2230",
+            "desc": "Provides a thorough overview of the business environment in which films, television programs, and other moving image productions are financed, developed, produced and distributed. Open to all Film Majors. Prerequisites: FA/FILM 2200 3.00 and FA/FILM 2230 3.00."
+        },
+        {
+            "dept": "film",
+            "code": "4280",
+            "credit": 3.0,
+            "name": "Film Criticism: History, Theory and Practice",
+            "prereqs": "film2400 film2200 film2230",
+            "desc": "Introduces students to the history and practice of different types of film criticism. The emphasis will be on helping students find their personal voice and develop an original writing style. Prerequisite: FA/FILM 2400 6.00 or permission of the Department. Prerequisite: FA/FILM 2200 3.0 and FA/FILM 2230 3.0 or permission of the Department."
+        },
+        {
+            "dept": "film",
+            "code": "4711",
+            "credit": 3.0,
+            "name": "Issues in Film Historiography",
+            "prereqs": "",
+            "desc": "Examines the methods and approaches possible in the study of film history, especially those specific or unique to film. It emphasizes the posing of historical questions, the conducting of research, the analyzing of evidence and the development of conclusions. The course uses particular examples drawn from film history to illustrate issues, problems and approaches. Prerequisite: 4th year standing in the Film BA Honours program."
+        },
+        {
+            "dept": "film",
+            "code": "4800",
+            "credit": 3.0,
+            "name": "Honours Thesis",
+            "prereqs": "film3410",
+            "desc": "Offers a course designed to provide history and criticism students with a focused research and writing project Consult the department office for more details. Prerequisites: FA/FILM 3410 3.00 and permission of the Film Department."
+        },
+        {
+            "dept": "film",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Independent Studies in Film/Television ",
+            "prereqs": "",
+            "desc": "Provides the individual student an opportunity to pursue a specific and intensive personal study under the supervision of a faculty member on topics not offered in other courses within the department. Proposed topics are subject to departmental approval. Note: Open to fourth-year students by petition to the Film Department."
+        },
+        {
+            "dept": "film",
+            "code": "4900",
+            "credit": 6.0,
+            "name": "Independent Studies in Film/Television             ",
+            "prereqs": "",
+            "desc": "Provides the individual student an opportunity to pursue a specific and intensive personal study under the supervision of a faculty member on topics not offered in other courses within the department. Proposed topics are subject to departmental approval. Note: Open to fourth-year students by petition to the Film Department."
+        },
+        {
+            "dept": "film",
+            "code": "4901",
+            "credit": 6.0,
+            "name": "Independent Studies in Film/Television",
+            "prereqs": "",
+            "desc": "Open to fourth-year Film &amp; Video students, the Independent Studies course gives the individual student an opportunity to pursue a specific and intensive personal study under the supervision of a faculty member on topics not offered in other courses in the Department. Proposed topics are subject to Department approval. Each student is required to complete an Independent Studies form prior to the commencement of an academic session.  \r\nNote: Department of Film equipment is not available to students enrolled in Independent Studies courses.\r\nIndependent Studies in Production is for production related proposals other than making a film or video outside of one of the third- and fourth-year project courses. Film/video productions will not normally be considered for this course."
+        },
+        {
+            "dept": "film",
+            "code": "4901",
+            "credit": 3.0,
+            "name": "Independent Studies in Film/Television",
+            "prereqs": "",
+            "desc": "Open to fourth-year Film students, the Independent Studies course gives the individual student an opportunity to pursue a specific and intensive personal study under the supervision of a faculty member on topics not offered in other courses in the Department. Proposed topics are subject to Department approval. Each student is required to complete an Independent Studies form prior to the commencement of an academic session. Note: Department of Film equipment is not available to students enrolled in Independent Studies Courses. Independent Studies in Production is for production related proposals other than making a film or video outside of one of the third- and fourth-year project courses. Film/video productions will not normally be considered for this course."
+        },
+        {
+            "dept": "film",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Production                             ",
+            "prereqs": "",
+            "desc": "A required course in film and video production techniques which\nincludes both lectures and studio practicum. Practical experience in production and production management is covered as is the language of production.\n"
+        },
+        {
+            "dept": "film",
+            "code": "5021",
+            "credit": 3.0,
+            "name": "Process Cinema",
+            "prereqs": "",
+            "desc": "Process Cinema\u0092 explores a creative tradition in alternative filmmaking that is improvisational and interactive. Through this process-driven methodology, the screenplay as governing document is replaced by a fluid integration of writing, shooting and editing, not necessarily in that order. Drawing upon a range of readings and screenings, students will explore this method of working through practical exercises and research projects."
+        },
+        {
+            "dept": "film",
+            "code": "5050",
+            "credit": 3.0,
+            "name": "Documentary Workshop",
+            "prereqs": "",
+            "desc": "Provides an advanced exploration of a range of issues in documentary theory and practice. Issues such as the ethics of representation, ethnographic practice, the status of evidence, voice and authorship, the proliferation of documentary styles and the social implications of documentary practice are explored through a range of readings, screenings and the production of a short documentary from concept through to treatment, filming, budgeting and post-production."
+        },
+        {
+            "dept": "film",
+            "code": "5070",
+            "credit": 3.0,
+            "name": "Hybrid Fiction",
+            "prereqs": "",
+            "desc": "This hands-on studio course explores the meanings and methods of hybrid fiction techniques, as utilized by contemporary film/video artists working across a variety of genres. Students investigate a broad range of realist and non-realist dramatic modes: \u0091dogme\u0092 and melodrama, improv and mockumentary, re-enactment and split screen."
+        },
+        {
+            "dept": "film",
+            "code": "5080",
+            "credit": 3.0,
+            "name": "Directing Short New Narratives",
+            "prereqs": "",
+            "desc": "A production course which focuses on the learning, the comprehension and the creation of the signs and codes of new narrative cinema, understood as an exploration of psychological and societal breakdown through unconventional narrative structures."
+        },
+        {
+            "dept": "film",
+            "code": "5081",
+            "credit": 3.0,
+            "name": "Directing Actors for Screen Performance",
+            "prereqs": "",
+            "desc": "Directing Actors is a studio course that critically explores the theory and practice of directing actors on screen. Each week in a hands-on workshop setting, graduate students study diverse methods for scene study, auditioning, rehearsing, visualizing relationships, blocking for the camera, directing and re-directing actors in a variety of filmed scenes."
+        },
+        {
+            "dept": "film",
+            "code": "5110",
+            "credit": 3.0,
+            "name": "Screenwriting                          ",
+            "prereqs": "",
+            "desc": "A required course that analyzes the writing of fictional and non-fictional scripts from the perspectives of script idea, story, character, dialogue and\nbackground atmosphere and includes practical assignments in scriptwriting and student presentations of work in progress.\n"
+        },
+        {
+            "dept": "film",
+            "code": "5120",
+            "credit": 6.0,
+            "name": "Feature Screenwriting II      ",
+            "prereqs": "",
+            "desc": "Selected Topics in Screenwriting. A workshop course primarily intended for\nstudents intending thesis work in screenwriting. The precise focus will be determined by those\nadmitted to the course but will include advanced practice in the art of screenwriting including adaptations and original scripts."
+        },
+        {
+            "dept": "film",
+            "code": "5122",
+            "credit": 6.0,
+            "name": "Writing for Television",
+            "prereqs": "",
+            "desc": "An intensive introduction for aspiring screenwriters to the subtle but encompassing problems they may expect to encounter when writing for series television. Students will study the form and format of half-hour and one hour episodic comedies and dramas intended to be encompassed as part of a television series. They will also undertake the pitching, outlining and drafting of a single episode; the creation and development of a series proposal; the make up and function of a story department; plus an overview of the industry as a whole. Long form drama including television movies and mini-series will also be examined. \r\n\r\nPrerequisite: Enrolment within the Graduate Program in Film (screenwriting) ; or enrolment within another graduate program at York and permission of the Graduate Program in Film Screenwriting Committee."
+        },
+        {
+            "dept": "film",
+            "code": "5130A",
+            "credit": 3.0,
+            "name": "Selected Topics in Screenwriting",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "film",
+            "code": "5300",
+            "credit": 3.0,
+            "name": "Independent Producing for New Media and Independent Cinema",
+            "prereqs": "",
+            "desc": "This graduate studio course teaches advanced creative producing skills and practices relevant to the Canadian independent media landscape, focusing on the changing worlds of new media platforms and independent cinema. Independent Producing addresses every aspect of the creation of new digital media/cinema projects (development, prep, production, post-production and distribution), and is suitable for students who wish to develop advanced skills in these areas."
+        },
+        {
+            "dept": "film",
+            "code": "5400",
+            "credit": 3.0,
+            "name": "Graduate Seminar                       ",
+            "prereqs": "",
+            "desc": "Seminars include presentations by faculty and visiting\nlecturers and presentations by students of thesis proposals and thesis research. All students are required to register in this course during their two years in the Program, but will register in it and receive a grade only in their second-year.\n"
+        },
+        {
+            "dept": "film",
+            "code": "5600A",
+            "credit": 3.0,
+            "name": "Field Placement",
+            "prereqs": "",
+            "desc": "Students may earn academic credit for work experience (paid or unpaid) that is relevant to film &amp; media. Students link theory with practice, conduct research, and learn about professional practices in cinema and media studies, production, and/or screenwriting. All Internship courses must be approved by the Graduate Program Director."
+        },
+        {
+            "dept": "film",
+            "code": "5600",
+            "credit": 3.0,
+            "name": "Field Placement",
+            "prereqs": "",
+            "desc": "Students may earn academic credit for work experience (paid or unpaid) that is relevant to film &amp; media. Students link theory with practice, conduct research, and learn about professional practices in cinema and media studies, production, and/or screenwriting. All Internship courses must be approved by the Graduate Program Director."
+        },
+        {
+            "dept": "film",
+            "code": "5700",
+            "credit": 3.0,
+            "name": "Student Initiated Collaborative Inquiry",
+            "prereqs": "",
+            "desc": "Students may design, in collaboration with other students in the Cinema and Media Studies program or Film program, a particular course of study with a faculty member(s) provided it is not available in the current curriculum and does not overlap significantly with a course previously taken. All Student Initiated Collaborative Inquiry courses must be approved by the applicable Graduate Program Director(s)."
+        },
+        {
+            "dept": "film",
+            "code": "5700A",
+            "credit": 3.0,
+            "name": "Student Initiated Collaborative Inquiry",
+            "prereqs": "",
+            "desc": "Students may design, in collaboration with other students in the Cinema and Media Studies program or Film program, a particular course of study with a faculty member(s) provided it is not available in the current curriculum and does not overlap significantly with a course previously taken. All Student Initiated Collaborative Inquiry courses must be approved by the applicable Graduate Program Director(s)."
+        },
+        {
+            "dept": "film",
+            "code": "5800",
+            "credit": 3.0,
+            "name": "Directed Reading                       ",
+            "prereqs": "",
+            "desc": "Students may design an individual course of study with a faculty member provided it is not available in the current curriculum and does not overlap significantly with a course previously taken. Students are normally allowed two half reading courses during their master's tenure in the Program. All Directed Reading courses must be approved by the Graduate Program Director."
+        },
+        {
+            "dept": "film",
+            "code": "5800A",
+            "credit": 3.0,
+            "name": "Directed Reading                   ",
+            "prereqs": "",
+            "desc": "Students may design an individual course of study with a faculty member provided it is not available in the current curriculum and does not overlap significantly with a course previously taken. Students are normally allowed two half reading courses during their master's tenure in the Program. All Directed Reading courses must be approved by the Graduate Program Director."
+        },
+        {
+            "dept": "film",
+            "code": "6215",
+            "credit": 3.0,
+            "name": "21st Century Critical Theory and Film &amp; Media Arts",
+            "prereqs": "",
+            "desc": "This course provides an overview for Film/Cinema &amp; Media Studies graduate students (MFA, MA, and PhD) of tendencies in contemporary critical theory covering a wide range of approaches, oriented towards multiple constituencies, and emphasizing the use of theory as a speculative agent within creative work with an emphasis on moving image and sonic practice. Students will become conversant with theoretical perspectives through presentations on selected readings, culminating in a speculative proposal leveraging theory in order to imagine the future of their artistic practice."
+        },
+        {
+            "dept": "film",
+            "code": "6220",
+            "credit": 3.0,
+            "name": "Methods and Research in Cinema and Media Studies",
+            "prereqs": "",
+            "desc": "Methods and Research in Film Studies. A discussion of the various methodologies developed by film critics and historians to understand the moving image and its contextual relationship to the social world. Influential examples from the critical and historical literature are examined. The course also includes practical experience in bibliographical and research methods."
+        },
+        {
+            "dept": "film",
+            "code": "6230",
+            "credit": 3.0,
+            "name": "Contemporary Cinema and Media Theory",
+            "prereqs": "",
+            "desc": "This course is intended as an in depth study of major theoretical schools and debates within contemporary film theory.  The course is divided into three key units, each of which will focus on the historical development, methodological principles and philosophic underpinning of a specific school.   This is a required course for all Critical and Historical Studies students. "
+        },
+        {
+            "dept": "film",
+            "code": "6233",
+            "credit": 3.0,
+            "name": "Dziga Vertov and His Legacy",
+            "prereqs": "",
+            "desc": "Examines the work of Soviet filmmaker and film theorist Dziga Vertov in the contexts of both his own time and his reception by other practitioners and theorists in the areas of documentary, political, experimental and digital filmmaking."
+        },
+        {
+            "dept": "film",
+            "code": "6245",
+            "credit": 3.0,
+            "name": "Future Cinema",
+            "prereqs": "",
+            "desc": "Examines the shift from traditional cinematic spectacle to works probing the frontiers of interactive, performative, and networked media. Drawing upon a broad range of scholarship, including film theory, communication studies, cultural studies and new media theory, the course will consider how digital technologies are transforming the semiotic fabric of contemporary visual culture. Our focus will be on the phenomenon Gene Youngblood described three decades ago as \u0091expanded cinema\u0092\u0097an explosion of the frame outward towards immersive, interactive and interconnected (i.e., environmental) forms of culture."
+        },
+        {
+            "dept": "film",
+            "code": "6246",
+            "credit": 3.0,
+            "name": "Future Cinema II: Applied Theory",
+            "prereqs": "",
+            "desc": "This hands-on course gives students an opportunity to learn about new screen technologies, approaches and techniques in a lab environment. Students will work in the lab to build prototypes that will function as a testing ground for both new technology and future cinema theory. Our method is iterative: there is an urgent need for scholars in this field to be both theorists and practical experimenters, to research while doing, understanding that the process of exploring firsthand is an important step toward knowing what kinds of knowledges and ways of understanding these new digital tools and artefacts demand, encourage or make possible."
+        },
+        {
+            "dept": "film",
+            "code": "6320B",
+            "credit": 3.0,
+            "name": "Selected Topics in History and Criticism ",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "film",
+            "code": "6430",
+            "credit": 3.0,
+            "name": "Film Festivals:  Cultures and Curations",
+            "prereqs": "",
+            "desc": "Examines the proliferation of film festivals around the world as integrally tied to changes in geopolitical and digital media cultures. It uses several different festivals as sites of analysis to compare social mandates, curation, marketing and outreach as well as funding. New theories of these cinephilic and community cultures inform the course of study. "
+        },
+        {
+            "dept": "film",
+            "code": "7000",
+            "credit": 3.0,
+            "name": "Cinema and Media Studies:  Key Concepts",
+            "prereqs": "",
+            "desc": "Explores key concepts, texts and debates in the field of contemporary cinema and media studies. While maintaining a focus on the intellectual and material histories of cinema studies and media studies as disciplines (and their recent convergence), including epistemological and ontological frameworks, methodological approaches, and institutional and technological supports, the course will emphasize recent developments in cinema and media studies. Three broad areas of study will structure the course: cinema and cultural theory; national and transnational cinema; cinema and technologies of the image."
+        }
+    ]
+}

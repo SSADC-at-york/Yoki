@@ -1,0 +1,852 @@
+{
+    "courses": [
+        {
+            "dept": "phil",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Philosophy",
+            "prereqs": "",
+            "desc": "An introduction to the basic issues and classic writers in the Western philosophical tradition. Areas such as ethics, metaphysics, theory of knowledge and logic will be surveyed by examining the writings of philosophers such as Plato, Aristotle, Descartes and Hume, as well as more modern writers. Course credit exclusion: GL/PHIL 1410 3.00 (prior to Winter 2014), GL/PHIL 1420 3.00 (prior to Fall 2013), GL/PHIL 1690 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "Knowledge, Truth, and Reality",
+            "prereqs": "",
+            "desc": "This course is an introduction to philosophy focusing on the philosophical questions, \u0093what is real?\u0094 and \u0093how do we know?\u0094 The approach can be either historical or contemporary, but will emphasize diverse philosophical perspectives and have a comparative focus."
+        },
+        {
+            "dept": "phil",
+            "code": "1002",
+            "credit": 3.0,
+            "name": "Justice, Law and Morality",
+            "prereqs": "",
+            "desc": "An introduction to some foundational questions in moral, political, and legal philosophy. Topics to be covered include (but are not restricted to) the nature of law and punishment, morality, justice, equality, rights, and liberty. \r\n\r\nPRIOR TO FALL 2017: Course credit exclusion AP/PHIL 1002 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "1100",
+            "credit": 3.0,
+            "name": "The Meaning of Life",
+            "prereqs": "",
+            "desc": "An exploration of a number of fundamental practical philosophical questions, including: What is the meaning of (my) life? What is happiness, and how can I achieve it? What is wisdom? What is death, and what does it mean to me?"
+        },
+        {
+            "dept": "phil",
+            "code": "1611",
+            "credit": 3.0,
+            "name": "Introduction to Philosophy: Mind, Meaning and Freedom",
+            "prereqs": "",
+            "desc": "What is consciousness? Am I the same person through time? Do I have free will? What can be known? These questions and others will be addressed in this course through the works of significant thinkers in the history of philosophy. Course credit exclusions: AP/PHIL 1000 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "1612",
+            "credit": 3.0,
+            "name": "Introduction to Philosophy: Ethics and Religion",
+            "prereqs": "",
+            "desc": "This course begins with the question whether morality is all relative. Do absolute moral standards require the existence of a supreme being as their source? This query prompts an examination and assessment of the traditional arguments for the existence of God. Course credit exclusions: AP/PHIL 1000 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2015",
+            "credit": 3.0,
+            "name": "Introduction to Ancient Greek Philosophy",
+            "prereqs": "",
+            "desc": " An introduction to the main figures and problems in ancient Greek philosophy. The course focuses on the views of Socrates, Plato and Aristotle but aims at a broader understanding of ancient Greek philosophy by relating the views of these thinkers to those of their predecessors (Presocratic philosophers) and successors (Hellenistic philosophers).\nCourse credit exclusion: GL/PHIL 2630 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "Descartes, Spinoza, and Leibniz",
+            "prereqs": "",
+            "desc": "The works of Descartes, Spinoza and Leibniz are crucial building blocks of our contemporary understanding of the world. This course examines their work. Course credit exclusions: GL/PHIL 2620 6.00.\n\r\n"
+        },
+        {
+            "dept": "phil",
+            "code": "2025",
+            "credit": 3.0,
+            "name": "Locke, Berkeley and Hume",
+            "prereqs": "",
+            "desc": "Locke, Berkeley and Hume manifested an approach to philosophy that emphasized sense experience and the development of all knowledge from it. This course explores this tradition and its impact on our current world view. Course credit exclusions: GL/PHIL 2620 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2035",
+            "credit": 3.0,
+            "name": "Asian Philosophical Traditions",
+            "prereqs": "",
+            "desc": "An introduction to the major philosophical traditions of India and China. This course explores a number of philosophical issues through the lens of work in Asian philosophies."
+        },
+        {
+            "dept": "phil",
+            "code": "2050",
+            "credit": 3.0,
+            "name": "Philosophy of Law",
+            "prereqs": "",
+            "desc": "What are the unique features of legal rules, which distinguish them from other kinds of rules or norms in society?  What does it mean to be under a legal obligation, and why should we obey law?  What is the relationship between law and morality? \nCourse credit exclusion: GL/PHIL 2925 3.00, AP/PHIL 2050 6.00"
+        },
+        {
+            "dept": "phil",
+            "code": "2060",
+            "credit": 3.0,
+            "name": "Social and Political Philosophy",
+            "prereqs": "",
+            "desc": "An introduction to philosophy focusing on problems concerning the nature of society, the nature of the state, justice and human rights, freedom and censorship, etc. Course credit exclusion: GL/PHIL 2923 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2070",
+            "credit": 3.0,
+            "name": "Introduction to Ethics",
+            "prereqs": "",
+            "desc": "A basic introduction both to the major ethical theories in Western thought and to some basic metaethical questions concerning the possibility of moral truth. "
+        },
+        {
+            "dept": "phil",
+            "code": "2075",
+            "credit": 3.0,
+            "name": "Introduction to Applied Ethics",
+            "prereqs": "",
+            "desc": "An introduction to ethics focusing on the application of ethical theories to controversial public issues such as abortion, affirmative action and euthanasia, among others. Course credit exclusion: GL/PHIL 2615 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2080",
+            "credit": 3.0,
+            "name": "Perception, Knowledge and Causality",
+            "prereqs": "",
+            "desc": "An introduction to philosophical discussion about what exists, and how the most basic things interact with each other (the subject of metaphysics), and what we can truly know about such things (the subject of epistemology)."
+        },
+        {
+            "dept": "phil",
+            "code": "2090",
+            "credit": 3.0,
+            "name": "Introduction to the Philosophy of Religion",
+            "prereqs": "",
+            "desc": "Does God exist? Can religious belief be explained away? What is the relationship between faith and reason? Through a selection of classic readings, this course provides a survey of some central topics in the philosophy of religion."
+        },
+        {
+            "dept": "phil",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Introduction to Logic",
+            "prereqs": "",
+            "desc": "Logic, in the philosophical tradition, is the study of what makes arguments valid. That is, it aims to distinguish correct reasoning from faulty reasoning. This course presents the basic elements of modern symbolic logic for the beginning student. \r\nCourse credit exclusions: GL/PHIL 2640 6.00, GL/PHIL 2690 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2110",
+            "credit": 3.0,
+            "name": "Truth, Theory and Superstition",
+            "prereqs": "",
+            "desc": "An examination of contemporary perspectives on justice through the lens of practical political issues in Canada and the international arena. Topics may include: multiculturalism, ethnic conflict, racism, sexism, nationalism, cosmopolitanism, human rights, and 'humanitarian' intervention. \n"
+        },
+        {
+            "dept": "phil",
+            "code": "2120",
+            "credit": 3.0,
+            "name": "Introduction to Existentialism",
+            "prereqs": "",
+            "desc": "An introduction to some central themes of existentialism such as the individual, being, the absurd, freedom, moral choice. These themes are explored in the work of philosophers such as Kierkegaard, Nietzsche, Camus, Sartre, deBeauvoir."
+        },
+        {
+            "dept": "phil",
+            "code": "2160",
+            "credit": 3.0,
+            "name": "Minds, Brains and Machines",
+            "prereqs": "",
+            "desc": "An introduction to the study of human cognition and the interdisciplinary field of cognitive science. Questions covered include: What is artificial intelligence? Is it possible that we will someday build computers that think? Does language affect thought? Do we think in language or pictures? How is conscious experience related to the brain?"
+        },
+        {
+            "dept": "phil",
+            "code": "2170",
+            "credit": 3.0,
+            "name": "Freedom, Determinism and Responsibility",
+            "prereqs": "",
+            "desc": "An investigation of different concepts of freedom, and how they relate to arguments for free will and determinism, the adjudication of people's responsibility for their actions, the justification of punishment and some related moral problems."
+        },
+        {
+            "dept": "phil",
+            "code": "2240",
+            "credit": 3.0,
+            "name": "Introduction to the Philosophy of Mind",
+            "prereqs": "",
+            "desc": "An introduction to metaphysical theories about the relationship between the mind and the body. We examine Descartes' mind-body dualism as well as 20th century theories including: behaviourism, the identity theory, machine and causal functionalism, instrumentalism, eliminativism, and emergentism."
+        },
+        {
+            "dept": "phil",
+            "code": "2420",
+            "credit": 3.0,
+            "name": "Human Nature",
+            "prereqs": "",
+            "desc": "An introduction to philosophy focusing upon traditional and contemporary views of human nature.  The course focuses on the question of whether we are basically good or evil, rational or irrational, free or unfree, altruistic or egoistic.  \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Course credit exclusions: AK/AS/PHIL 2420 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2606",
+            "credit": 3.0,
+            "name": "Truth and reality",
+            "prereqs": "",
+            "desc": "This course gives students an introduction to recent and contemporary epistemology and metaphysics in the analytic tradition. We consider such questions as: what is knowledge? What is truth? What is existence? \nCourse credit exclusions: GL/PHIL/HUMA 2605 6.00; AP/PHIL 1001 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2607",
+            "credit": 3.0,
+            "name": "Mind and the Self",
+            "prereqs": "",
+            "desc": "This course gives students an introduction to recent and contemporary philosophy of mind, and related topics in metaphysics, in the analytic tradition. What is the relation between mind and brain? What is consciousness? What is the self?\nCourse credit exclusions: GL/PHIL/HUMA 2605 6.00; AP/PHIL 2240 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2608",
+            "credit": 3.0,
+            "name": "Modern philosophy: Rationalism",
+            "prereqs": "",
+            "desc": "We consider central texts in early modern rationalist philosophy: Descartes, Spinoza and Leibniz, with a glance ahead to Kant. A key question is the source of knowledge, but other topics will include God, substance, mind and body, freedom, and morality. \nCourse credit exclusions: GL/PHIL/HUMA 2620 6.00; AP/PHIL 2020 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2609",
+            "credit": 3.0,
+            "name": "Modern philosophy: Empiricism",
+            "prereqs": "",
+            "desc": "This course considers central texts in early modern empiricist philosophy: Locke, Berkeley and Hume. A key question is the source of knowledge, but other topics will include God, substance, mind and body, free will, and morality. \nCourse credit exclusions: GL/PHIL 2620 6.00; AP/PHIL 2025 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2615",
+            "credit": 3.0,
+            "name": "Moral Questions and Social Policies",
+            "prereqs": "",
+            "desc": "Issues to be discussed: The use of race as a criterion in social policy; justice and gender; assessing women's quality of life; individual liberty and mental illness; the right to use coercion to treat mentally ill individuals against their will."
+        },
+        {
+            "dept": "phil",
+            "code": "2617",
+            "credit": 3.0,
+            "name": "The Quest for Meaning",
+            "prereqs": "",
+            "desc": "Questions and topics to be discussed in this course: Can life have meaning? Whose criteria count in assessing the meaningfulness of a human life? Is human life absurd? Self-realization, satisfaction and happiness, the inevitability of death and the significance of suffering."
+        },
+        {
+            "dept": "phil",
+            "code": "2632",
+            "credit": 3.0,
+            "name": "Introduction to Ancient Philosophy",
+            "prereqs": "",
+            "desc": "This course introduces topics that were first discussed by Ancient Greek philosophy. We explore ways of thinking about the world, the question of what it means to know, the question of justice, and others. \nCourse credit exclusions: GL/PHIL/POLS/SOSC 2645 6.00; AP/PHIL 2015 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2633",
+            "credit": 3.0,
+            "name": "Ancient Ethical and Political Theory",
+            "prereqs": "",
+            "desc": "What led the Greek philosophers to carve out the world in such a way that the two topics of Ethics and Politics could be discussed on their own in a meaningful way? This, and associated questions, animate this course. \nCourse credit exclusions: GL/PHIL/POLS/SOSC 2645 6.00; AP/PHIL 2015 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2640",
+            "credit": 6.0,
+            "name": "Logic",
+            "prereqs": "",
+            "desc": "This course is an introduction to the basic concepts and techniques of modern logic. No previous course in logic or philosophy is required. Course credit exclusion: AP/PHIL 2100 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2695",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la philosophie ancienne",
+            "prereqs": "",
+            "desc": "Vue d'ensemble de la pens\u00e9e philosophique de l'Antiquit\u00e9 par l'\u00e9tude d'oeuvres marquantes des deux grands repr\u00e9sentants de cette \u00e9poque : Platon et Aristote, dont les oeuvres portent sur des questions de morale et de politique mais aussi de science naturelle. \nCours incompatibles : GL/PHIL/HIST/HUMA 1690 6.00 ; AP/PHIL 2015 3.00.\n"
+        },
+        {
+            "dept": "phil",
+            "code": "2696",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la philosophie moderne",
+            "prereqs": "",
+            "desc": "Ce cours se penche sur les d\u00e9buts au 17e si\u00e8cle de la pens\u00e9e philosophique moderne, que marque, notamment, le renversement de la conception aristot\u00e9licienne des sciences naturelles pour lui substituer celle - demeur\u00e9e la n\u00f4tre - d'une science que structurent les math\u00e9matiques. \nCours incompatible : GL/PHIL/HUMA/HIST 1690 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2923",
+            "credit": 3.0,
+            "name": "Introduction to Law and Social Thought",
+            "prereqs": "",
+            "desc": "This course will focus on the role of law and legal institutions in their relation to society, family and the individual. It will examine specific issues within Canadian society and law involving the judicial and criminal processes, civil and political rights, and the relationship between legal and political culture. Course credit exclusion: AP/PHIL 2060 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "2925",
+            "credit": 3.0,
+            "name": "Law, justice and equality",
+            "prereqs": "",
+            "desc": "This course explores questions concerning the nature of a just legal and political system, and the connection between justice and equality. What makes laws just or unjust? Should we aim for equality as a matter of justice? If so, what kind of equality? Course credit exclusion: AP/PHIL 2050 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Ethics",
+            "prereqs": "phil2070 phil2075",
+            "desc": "An advanced course in theoretical ethics, understood as covering both normative ethical theory and metaethics. Prerequisite: At least one of: AP/PHIL 2070 3.00 or AP/PHIL 2075 3.00. Course credit exclusion: GL/PHIL 3237 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3035",
+            "credit": 3.0,
+            "name": "Epistemology",
+            "prereqs": "phil2080 phil2110",
+            "desc": "Theories of knowledge are examined in relation to theories of reality. How does our perception of reality relate to our understanding of it? How can we come to know something is true or false? Prerequisite: At least one of: AP/PHIL 2080 3.00 or AP/PHIL 2110 3.00. Course credit exclusion: GL/PHIL 3934 3.00. "
+        },
+        {
+            "dept": "phil",
+            "code": "3061",
+            "credit": 3.0,
+            "name": "Plato",
+            "prereqs": "",
+            "desc": "This course will be a critical examination of the philosophy of Plato which aims to provide a strong foundational understanding of Plato's views on a range of metaphysical, epistemological, ethical or political topics.\nPre-requisite: AP/PHIL 2015  3.00"
+        },
+        {
+            "dept": "phil",
+            "code": "3082",
+            "credit": 3.0,
+            "name": "Marx, Marxism and Post-Marxism",
+            "prereqs": "",
+            "desc": "An examination of the development of Marxist philosophy through a survey of central texts by Marx, as well as some contemporary &quot;post-Marxist&quot; movements such as critical theory, anti-globalization and postmodernism. Prerequisite: Six credits in AP/PHIL courses."
+        },
+        {
+            "dept": "phil",
+            "code": "3102",
+            "credit": 3.0,
+            "name": "Intermediate Logic",
+            "prereqs": "phil2100",
+            "desc": "This course develops the full predicate calculus with identity, and applies it to some philosophical problems. It introduces basic set theory and semantic concepts which are important for understanding how logical languages work, and discusses philosophical issues about identity and reference. It is a continuation of an introduction to logic. Prerequisite: AP/PHIL 2100 3.00. Not open to: Math majors."
+        },
+        {
+            "dept": "phil",
+            "code": "3110",
+            "credit": 3.0,
+            "name": "Political Philosophy",
+            "prereqs": "phil2050 phil2060",
+            "desc": "An exploration of major topics in political philosophy, such as the authority of the state, the justification of private property, the nature of rights, theories of justice, and political equality. Prerequisite: At least one of AP/PHIL 2050 6.00 or AP/PHIL 2060 3.00. PRIOR TO FALL 2014: Course credit exclusion: GL/PHIL 3235 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3125",
+            "credit": 3.0,
+            "name": "Contemporary Existentialism",
+            "prereqs": "phil2120",
+            "desc": "The views of such recent philosophers as Nietzsche, Sartre, Camus, and de Beauvoir have had a great impact on contemporary society. This course explores their views on self, freedom, action and personal relations. Prerequisite: AP/PHIL 2120 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3140",
+            "credit": 3.0,
+            "name": "Russell and Logical Positivism",
+            "prereqs": "phil2100 phil2100",
+            "desc": "An examination of Bertrand Russell's extensive contribution to philosophy along with that of the early Wittgenstein and the Vienna Circle Positivists such as Carnap, Schlick and Ayer. \r\nPrerequisite: AP/PHIL 2100 3.00 or at least six credits in philosophy.  AP/PHIL 2100 3.00 is recommended. Course credit exclusion: GL/PHIL 3915 3.00.  \r\n\r\nPRIOR TO FALL 2009: Prerequisite: At least six credits in philosophy. AS/PHIL 2100 3.00 or AK/PHIL 2100 3.00 (prior to Summer 2007) is recommended. Course credit exclusions: AK/AS/PHIL 3140 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Philosophy of Language",
+            "prereqs": "phil2080 phil2100 phil2240",
+            "desc": "An introduction to basic notions of the philosophy of language. Questions to be discussed may include: How is communication in language possible? What is a language? What makes words and phrases meaningful? What is truth? Prerequisite: AP/PHIL 2080 3.00 or AP/PHIL 2100 3.00 or AP/PHIL 2240 3.00. Course credit exclusion: GL/PHIL 3910 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "An Introduction to Existentialism",
+            "prereqs": "",
+            "desc": "This course examines some of the central thinkers and themes in existentialist thought.  The themes include the nature of the self, authenticity, the basis for morality, radical freedom, atheism, the limitations of reason and the relationship between reason and faith.\r\nCourse credit exclusion: AP/PHIL 2120 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3248",
+            "credit": 3.0,
+            "name": "Philosophical Issues in Artificial Intelligence",
+            "prereqs": "",
+            "desc": "The course treats philosophical issues raised by the development of Artificial Intelligence. Topics may include: AI and consciousness; the nature of &quot;intelligence&quot; (artificial and &quot;natural&quot;); and the ethical, legal and political implications of technologies integrating AI. \nCourse credit exclusions: AP/PHIL/COGS 3750 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3260",
+            "credit": 3.0,
+            "name": "Philosophy of Psychology",
+            "prereqs": "phil2160 phil2240",
+            "desc": "An examination of whether psychological research can help to answer traditional philosophical questions. Case studies may include: psychiatric and mental disorders, rational thought, animal cognition, the placebo effect, the nature of concepts, attribution theory, moral psychology, or consciousness. Prerequisites: AP/PHIL 2160 3.00 or AP/PHIL 2240 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3265",
+            "credit": 3.0,
+            "name": "Philosophy of Mind",
+            "prereqs": "phil2160 phil2240",
+            "desc": "Topics covered include the ontological status of the mind, the nature of mental causation, consciousness and its relation to our status as rational persons equipped with free will. Other possible questions include: Is language necessary for thought? Can some nonhuman animals think? What is the relationship between emotions and rationality? Prerequisite: AP/PHIL 2160 3.00 or AP/PHIL 2240 3.00. Course credit exclusion: GL/PHIL 3657 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3280",
+            "credit": 3.0,
+            "name": "Philosophy of Biology",
+            "prereqs": "phil2110",
+            "desc": "This course concerns philosophical issues arising from the life sciences. Topics may include: What is it that makes something living? What does evolution mean for the understanding of human nature? Are religion and the theory of evolution compatible or irreconcilable? \r\nPrerequisite: AP/PHIL 2110 3.00 or at least six credits in philosophy. Course credit exclusion: AP/PHIL 3280 3.00 (prior to Fall 2013).  \r\n\r\nPRIOR TO FALL 2009:  Prerequisite: At least six credits in philosophy. AK/AS/PHIL 2160 3.00, AK/PHIL 2240 3.00, or AS/PHIL 2240 3.00 is recommended. Course credit exclusions: AK/PHIL 3280 3.00, AS/PHIL 3280 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Philosophy of Race",
+            "prereqs": "",
+            "desc": "This course is an examination of some of the answers contemporary philosophers have given to some normative, conceptual and metaphysical questions concerning race, racism and related concepts. Questions include: Is race real? What, exactly, is racism? And what makes it wrong?\r\nPrerequisites: At least six credits in Philosophy\r\nCourse Credit Exclusions: GL/PHIL/SOSC 3631 3.00 Philsophy of Race"
+        },
+        {
+            "dept": "phil",
+            "code": "3602",
+            "credit": 3.0,
+            "name": "Illiberal Politics",
+            "prereqs": "",
+            "desc": "This course examines challenges to modern liberalism from both the illiberal left and right, including fascism and totalitarianism,\r\nauthoritarianism and populism, Leninism/Stalinism, anarchism, and the so-called \u0093alt-right.\u0094"
+        },
+        {
+            "dept": "phil",
+            "code": "3635",
+            "credit": 3.0,
+            "name": "Philosophy of Neuroscience",
+            "prereqs": "phil2160 phil2240",
+            "desc": "A critical examination of philosophical problems raised by neuroscientific research, which asks whether such research can help to answer traditional philosophical questions. The course introduces the goals, methods, techniques and theoretical as well as conceptual commitments of neuroscience and examines the field's background assumptions, limitations and pitfalls. Prerequisites: AP/PHIL 2160 3.00 or AP/PHIL 2240 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3638",
+            "credit": 3.0,
+            "name": "Sex, Love, and the Family: Issues in Ethics, Law and Social Thought",
+            "prereqs": "",
+            "desc": "This course explores key normative issues concerning the sphere of human intimacy and close relationships. Social norms, laws, and policies regulating sex, romance, friendship, and familial relationships will be critically examined from a philosophical perspective."
+        },
+        {
+            "dept": "phil",
+            "code": "3638",
+            "credit": 3.0,
+            "name": "Sexe, amour et famille : enjeux en \u00e9thique, droit et pens\u00e9e sociale",
+            "prereqs": "",
+            "desc": "Ce cours explore des enjeux normatifs concernant la sph\u00e8re de l\u0092intimit\u00e9 et des relations personnelles. Nous examinerons de mani\u00e8re critique, et d\u0092une perspective philosophique, diff\u00e9rentes id\u00e9es, normes sociales, lois et politiques autour du sexe, de l\u0092amour, de l\u0092amiti\u00e9 et des relations familiales."
+        },
+        {
+            "dept": "phil",
+            "code": "3639",
+            "credit": 3.0,
+            "name": "Climate Change: Ethical and Political Issues",
+            "prereqs": "",
+            "desc": "This course investigates ethical and political issues raised by climate change, from a normative philosophical perspective. Students explore fundamental and applied questions concerning the nature of our individual and collective obligations to mitigate and adapt to climate change and how to meet those obligations. "
+        },
+        {
+            "dept": "phil",
+            "code": "3642",
+            "credit": 3.0,
+            "name": "Business Ethics",
+            "prereqs": "",
+            "desc": "This course examines some contemporary issues in business ethics such as the ethical justification of the free market, corporate responsibility, deceptive advertising, business and the environment, preferential hiring practices and whistleblowing. Course credit exclusion: AP/PHIL 3050 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3657",
+            "credit": 3.0,
+            "name": "Philosophy of Mind",
+            "prereqs": "",
+            "desc": "This course will acquaint the student with the central topics in contemporary philosophy of mind. Sample topics to be discussed include: mind and body, thinking, intention, emotions, desires, motives, memory, the unconscious and the concept of a person. Course credit exclusions: AP/PHIL 3265 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3667",
+            "credit": 3.0,
+            "name": "War, Power, and Sovereignty: Early Modern Political Theory I",
+            "prereqs": "hist2905 hist3225 hist3436 phil1690 phil2620 phil2645 pols2485 pols2920",
+            "desc": "This course examines concepts such as war, power, and sovereignty through the works of thinkers such as Machiavelli, Hobbes, and Locke not as abstract ideas but as responses to, comments on, defences, or critiques of historical events and social realities.\r\nPrerequisites: none required, but students can acquire recommended background by taking GL/HIST 2905 6.00, GL/HIST 3225 3.00, GL/HIST 3436 3.00, GL/PHIL 1690 6.00, GL/PHIL 2620 6.00, GL/PHIL 2645 6.00, GL/POLS 2485 6.00 or GL/POLS 2920 6.00.\r\nCourse credit exclusion: GL/POLS 3660 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3668",
+            "credit": 3.0,
+            "name": "Community, Liberty, and Institutions: Early Modern Political Theory II",
+            "prereqs": "hist2905 hist3225 hist3436 phil1690 phil2620 phil2645 pols2485 pols2920",
+            "desc": "This course examines concepts such as community, liberty, and institutions through the works of thinkers such as Rousseau, Madison, Mill, and Marx not as abstract ideas but as responses to, comments on, defences, or critiques of historical events and social realities.\r\nPrerequisites: none required, but students can acquire recommended background by taking GL/HIST 2905 6.00, GL/HIST 3225 3.00, GL/HIST 3436 3.00, GL/PHIL 1690 6.00, GL/PHIL 2620 6.00, GL/PHIL 2645 6.00, GL/POLS 2485 6.00 or GL/POLS 2920 6.00.\r\nCourse credit exclusion: GL/POLS 3660 6.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3695",
+            "credit": 6.0,
+            "name": "Medieval Intellectual History ",
+            "prereqs": "",
+            "desc": "A survey of the development of medieval thought and learning. This course emphasizes primary sources, and the works of a series of major medieval authors are studied in detail. "
+        },
+        {
+            "dept": "phil",
+            "code": "3750",
+            "credit": 3.0,
+            "name": "Philosophy of Artificial Intelligence",
+            "prereqs": "phil2160 phil2240",
+            "desc": "An introduction to philosophical issues in Artificial Intelligence (AI). The goal is for students to be able to gain basic understanding of the cognitive architectures used by Al programmers, and reflect critically on research in Al from a philosophical perspective. Prerequisites: One of AP/PHIL 2160 3.00 or AP/PHIL 2240 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "3934",
+            "credit": 3.0,
+            "name": "Belief, Truth and Knowledge",
+            "prereqs": "",
+            "desc": "This course is an examination of the nature and structure of human knowledge. Topics include the relationship between truth, belief and knowledge, the structure of justified belief and knowledge, contextualism, and naturalistic epistemology."
+        },
+        {
+            "dept": "phil",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Philosophy in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Philosophy in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Philosophy in the intermediate and senior grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "phil",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A course of independent reading under the direction of a member of the faculty. Note: Students must be accepted by a faculty supervisor before they can register in directed reading courses. The course transaction form for such a course must be submitted with a note from the supervisor stating his/her willingness to perform this task. Permission of the department Undergraduate Program Director is also required. Prerequisites: 84 credits successfully completed with at least 30 credits in AP/PHIL courses, 12 of which must be at the 4000-level."
+        },
+        {
+            "dept": "phil",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A course of independent reading under the direction of a member of the faculty. Note: Students must be accepted by a faculty supervisor before they can register in directed reading courses. The course transaction form for such a course must be submitted with a note from the supervisor stating his/her willingness to perform this task. Permission of the department Undergraduate Program Director is also required. Prerequisites: 84 credits successfully completed with at least 30 credits in AP/PHIL courses, 12 of which must be at the 4000-level."
+        },
+        {
+            "dept": "phil",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Philosophy in the Intermediate-Senior Division - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Philosophy in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Philosophy areas in order to further develop students' expertise for teaching this subject. ED/PHIL 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "phil",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A course of independent reading under the direction of a member of the faculty. Note: Students must be accepted by a faculty supervisor before they can register in directed reading courses. The course transaction form for such a course must be submitted with a note from the supervisor stating his/her willingness to perform this task. Permission of the department Undergraduate Program Director is also required. Prerequisites: 84 credits successfully completed with at least 30 credits in philosophy, 12 of which must be at the 4000-level."
+        },
+        {
+            "dept": "phil",
+            "code": "4001",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A course of independent reading under the direction of a member of the faculty. Note: Students must be accepted by a faculty supervisor before they can register in directed reading courses. The course transaction form for such a course must be submitted with a note from the supervisor stating his/her willingness to perform this task. Permission of the department Undergraduate Program Director is also required. Prerequisites: 84 credits successfully completed with at least 30 credits in AP/PHIL courses, 12 of which must be at the 4000-level."
+        },
+        {
+            "dept": "phil",
+            "code": "4040",
+            "credit": 3.0,
+            "name": "Seminar in Contemporary Philosophy",
+            "prereqs": "",
+            "desc": "An intensive examination of problems and contemporary issues in philosophy. Topics vary from year to year. Prerequisite: At least nine credits in AP/PHIL courses."
+        },
+        {
+            "dept": "phil",
+            "code": "4070",
+            "credit": 3.0,
+            "name": "Seminar in Moral Philosophy",
+            "prereqs": "phil3020 phil3110",
+            "desc": "An intensive examination of particular problems in moral philosophy, or intensive studies of the writings of individual moral philosophers. Topics vary from year to year. Prerequisites: At least nine credits in philosophy including AP/PHIL 3020 3.00 or AP/PHIL 3110 3.00. Course credit exclusion: GL/PHIL 4237 3.00 (may be waived with permission of the Department)."
+        },
+        {
+            "dept": "phil",
+            "code": "4075",
+            "credit": 3.0,
+            "name": "Life, Death, Absurdity, and Meaning",
+            "prereqs": "",
+            "desc": "This course focuses on one of the fundamental questions in philosophy: &quot;What is the meaning of life?&quot;. The theories and supporting arguments of major philosophers in the past and present who have addressed this question are analyzed and critically evaluated. Prerequisite: At least nine credits in philosophy."
+        },
+        {
+            "dept": "phil",
+            "code": "4080",
+            "credit": 3.0,
+            "name": "Seminar in the Philosophy of Mind",
+            "prereqs": "phil3260 phil3265",
+            "desc": "An intensive examination of one or more of the following topics: mind and body, thinking, intention, emotions, desires, motives, reasons, dispositions, memory, the unconscious and the concept of a person. Prerequisites: At least nine credits in philosophy, including AP/PHIL 3260 3.00 or AP/PHIL 3265 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "4082",
+            "credit": 3.0,
+            "name": "Philosophy of Cognitive Science",
+            "prereqs": "phil3260 phil3265",
+            "desc": "An examination of philosophical issues at the foundations of cognitive science, such as: mental representation, perception, concepts, rationality, memory, intelligence, modularity, evolutionary psychology, extended and embodied cognition, and consciousness.\r\nPrerequisite: At least nine credits in AP/PHIL courses, including at least three credits from the following: AP/PHIL 3260 3.00 or AP/PHIL 3265 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "4090",
+            "credit": 3.0,
+            "name": "Seminar in Metaphysics",
+            "prereqs": "phil3030 phil3035",
+            "desc": "An intensive investigation into issues concerning the nature of reality and existence. Focus is on selected issues or the work of particular metaphysicians. Topics vary from year to year. Prerequisites: At least nine credits in PHIL including three credits from: AP/PHIL 3030 3.00 or AP/PHIL 3035 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Seminar in Philosophy of Science",
+            "prereqs": "phil2110 phil3170 phil3270 phil3280",
+            "desc": "An intensive examination of contemporary philosophical problems concerning the growth of science and technology selected from interpretations of theory, of models, of presumed facts, of presumed progress, of experimental technique, and of the place of values in science and technology. \r\nPrerequisite: At least nine credits in philosophy including one of AP/PHIL 2110 3.00, AP/PHIL 3170 3.00, AP/PHIL 3270 3.00, or AP/PHIL 3280 3.00. Course credit exclusions: None.  \r\n\r\nPRIOR TO FALL 2009: Prerequisite: At least nine credits in philosophy, of which AK/PHIL 3280 3.00, AS/PHIL 3170 3.00, AS/PHIL 3270, or AS/PHIL 3280 3.00 is recommended.  Course credit exclusion: AS/PHIL 4110 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "4126",
+            "credit": 3.0,
+            "name": "Seminar in 20th Cent. Continental Philo.",
+            "prereqs": "",
+            "desc": "An intensive examination of one or more figures who shaped Continental philosophy in the 20th Century, such as Husserl, Foucault and Derrida.  \r\n\r\n Prerequisite: At least nine credits in philosophy.  Course credit exclusion: None.  \r\n\r\n PRIOR TO FALL 2009: Prerequisite: At least nine credits in philosophy.  Course credit exclusions: AK/PHIL 4126 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "4180",
+            "credit": 3.0,
+            "name": "Seminar in Political Philosophy",
+            "prereqs": "phil3020 phil3110",
+            "desc": "An intensive study of some selected normative and conceptual problems in contemporary political philosophy. \r\nPrerequisite: At least nine credits in philosophy including one of the following: AP/PHIL 3020 3.00 or AP/PHIL 3110 3.00. Course credit exclusion: GL/PHIL 4626 3.00 (may be waived with permission of the Department).\r\n\r\nPRIOR TO FALL 2009: Prerequisite: At least nine credits in philosophy including at least three credits from the following: AK/AS/PHIL 3110 3.00, AK/PHIL 3050 3.00, AS/PHIL 3020 3.00, AS/PHIL 3025 3.00 (prior to Summer 2006), AS/PHIL 3050 3.00, or AS/PHIL 3130 3.00 (prior to Summer 2001). Course credit exclusion: AS/PHIL 4180 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "4185",
+            "credit": 3.0,
+            "name": "Philosophical Perspectives on Justice",
+            "prereqs": "",
+            "desc": "An examination of contemporary perspectives on justice through the lens of practical political issues in Canada and the international arena. Topics may include: multiculturalism, ethnic conflict, racism, sexism, nationalism, cosmopolitanism, human rights, and 'humanitarian' intervention. \r\nPrerequisite: at least nine credits in PHIL."
+        },
+        {
+            "dept": "phil",
+            "code": "4237",
+            "credit": 3.0,
+            "name": "Topics in Moral Philosophy",
+            "prereqs": "",
+            "desc": "This course proposes an advanced study of some central questions in ethical theory. Topics are drawn from: Kantian ethics, contractualism, practical reasoning, choice and responsibility, theories of agency, and the limits of ethical theory. Prerequisite: six credits in PHIL. Course credit exclusion: AP/PHIL 4070 3.00."
+        },
+        {
+            "dept": "phil",
+            "code": "4285",
+            "credit": 3.0,
+            "name": "Revolutions in Science",
+            "prereqs": "",
+            "desc": "The course examines the changes in worldview brought about by the great scientific revolutions, such as those due to Newton, Einstein, Darwin, and Freud. It considers both the empirical and the conceptual aspects of their theories, and focuses on the philosophical significance of the paradigm shifts they engendered\nPre-requisites: at least 9 credits in Philosophy, including at least one of the  following: PHIL3030, PHIL3035, or PHIL3170.  (Prior to enrolling in the course,  students must have completed at least 30 university credits.)  \n"
+        },
+        {
+            "dept": "phil",
+            "code": "4312",
+            "credit": 3.0,
+            "name": "Topics in Aesthetics",
+            "prereqs": "",
+            "desc": "This course examines fundamental questions in aesthetics and the philosophy of art. Themes may include the concept of beauty, the roles of representation and expression in art, theories of aesthetic experience, and the relation of aesthetics to morality and politics."
+        },
+        {
+            "dept": "phil",
+            "code": "4609",
+            "credit": 3.0,
+            "name": "Sovereignty",
+            "prereqs": "",
+            "desc": "This course examines \u0093sovereignty\u0094 and the authority of law. Who can be the sovereign? How does the emergence of sovereignty\r\nrelate to the state system? How can the concept help or hinder how we understand political authority and law?"
+        },
+        {
+            "dept": "phil",
+            "code": "4645",
+            "credit": 3.0,
+            "name": "Topics in the Philosophy of Descartes     ",
+            "prereqs": "",
+            "desc": "A variety of topics in Descartes' philosophy is examined in this course. Descartes' philosophy is studied in historical context. Emphasis is placed on Descartes' participation in the scientific revolution and his assessment of its philosophical implications, particularly those concerning human nature and the possibility of knowledge (including self-knowledge) and human freedom. Topics may change from year to year. Integrated with GS/PHIL 5150 3.00. Prerequisite: 12 credits in Philosophy or permission of the Department.  "
+        },
+        {
+            "dept": "phil",
+            "code": "4800",
+            "credit": 3.0,
+            "name": "Core Theoretical Philosophy I",
+            "prereqs": "",
+            "desc": "Offers an advanced survey of some central themes in contemporary theoretical philosophy. It is designed to ensure that students have sufficient background to pursue graduate-level research in these areas. Prerequisite: At least 30 credits in PHIL and permission of the Instructor."
+        },
+        {
+            "dept": "phil",
+            "code": "4802",
+            "credit": 3.0,
+            "name": "Core Practical Philosophy I",
+            "prereqs": "",
+            "desc": "An advanced survey of some central themes in contemporary practical philosophy. The course is designed to ensure that students have sufficient background to pursue graduate-level research in these areas. Prerequisite: At least 30 credits in philosophy (PHIL) and permission of the Instructor."
+        },
+        {
+            "dept": "phil",
+            "code": "4810",
+            "credit": 3.0,
+            "name": "Writing and Mentorship Seminar in Philosophy, Law and Social Thought ",
+            "prereqs": "",
+            "desc": "In this course, advanced students of moral, political or legal philosophy hone their research and writing skills by developing a high-quality writing sample suitable for graduate school applications, thereby cultivating the skills necessary for success in graduate or law school."
+        },
+        {
+            "dept": "phil",
+            "code": "5340",
+            "credit": 3.0,
+            "name": "Ethics and Societal Implications of Artificial Intelligence",
+            "prereqs": "",
+            "desc": "This course is intended for students with professional interest in the social and ethical implications of AI. Topics include theoretical issues (could AI ever have moral rights?), practical issues (algorithmic bias, labour automation, data privacy), and professional issues (tech industry social responsibility)."
+        },
+        {
+            "dept": "phil",
+            "code": "5800",
+            "credit": 3.0,
+            "name": "Core Theoretical Philosophy I",
+            "prereqs": "",
+            "desc": "Offers an advanced survey of some central themes in contemporary theoretical philosophy. It is designed to ensure that students have sufficient background to pursue graduate-level research in theses areas."
+        },
+        {
+            "dept": "phil",
+            "code": "5801",
+            "credit": 3.0,
+            "name": "Core Theoretical Philosophy II",
+            "prereqs": "",
+            "desc": "Provides a forum for further discussion of the central themes in contemporary theoretical philosophy. It is designed to prepare students to write the comprehensive examination in theoretical philosophy."
+        },
+        {
+            "dept": "phil",
+            "code": "5802",
+            "credit": 3.0,
+            "name": "Core Practical Philosophy I",
+            "prereqs": "",
+            "desc": "Offers an advanced survey of some central themes in contemporary practical philosophy. It is designed to ensure that students have sufficient background to pursue graduate-level research in these areas."
+        },
+        {
+            "dept": "phil",
+            "code": "5803",
+            "credit": 3.0,
+            "name": "Core Practical Philosophy II",
+            "prereqs": "",
+            "desc": "Provides a forum for further discussion of the central themes in contemporary practical philosophy. It is designed to prepare students to write the comprehensive examination in practical philosophy."
+        },
+        {
+            "dept": "phil",
+            "code": "6003",
+            "credit": 0.0,
+            "name": "Major Research Paper",
+            "prereqs": "",
+            "desc": "Candidates must develop a major research paper out of work done in the Research Seminar and one or possibly two other courses. Two readers will be appointed by the Graduate Programme Director, in consultation with the student, to evaluate the Major Research Paper."
+        },
+        {
+            "dept": "phil",
+            "code": "6010",
+            "credit": 6.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "In special circumstances, students may take, for credit and in place of regular seminar courses, a reading course directed by a member of the faculty, which should consist of individual tutorial sessions at least once a month. Students must present sufficient written work to form a basis for discussions and for assessment of progress. Directed reading courses are intended to enable students to pursue a research interest not covered by any of the seminar courses offered in that year; to enable them to explore an unfamiliar topic with a view to making it the topic of the thesis or dissertation; or to fill a gap in their knowledge which might impede their special research. M.A. students may not substitute more than one, or Ph.D. students more than two directed readings for regular seminar courses. Directed reading courses are given ex gratia by members of the faculty and the approval of the Program Director must be obtained in advance. This will not normally be given unless the Director is satisfied that the student has the appropriate background to pursue the course at a suitably advanced level.\n"
+        },
+        {
+            "dept": "phil",
+            "code": "6010A",
+            "credit": 3.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "phil",
+            "code": "6010",
+            "credit": 3.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "In special circumstances, students may take, for credit and in place of regular seminar courses, a reading course directed by a member of the faculty, which should consist of individual tutorial sessions at least once a month. Students must present sufficient written work to form a basis for discussions and for assessment of progress. Directed reading courses are intended to enable students to pursue a research interest not covered by any of the seminar courses offered in that year; to enable them to explore an unfamiliar topic with a view to making it the topic of the thesis or dissertation; or to fill a gap in their knowledge which might impede their special research. M.A. students may not substitute more than one, or Ph.D. students more than two directed readings for regular seminar courses. Directed reading courses are given ex gratia by members of the faculty and the approval of the Program Director must be obtained in advance. This will not normally be given unless the Director is satisfied that the student has the appropriate background to pursue the course at a suitably advanced level.\n"
+        },
+        {
+            "dept": "phil",
+            "code": "6170",
+            "credit": 3.0,
+            "name": "History of Analytic Philosophy",
+            "prereqs": "",
+            "desc": "his course examines a key thinker, theme, question or debate in the History of Analytic Philosophy."
+        },
+        {
+            "dept": "phil",
+            "code": "6365",
+            "credit": 3.0,
+            "name": "Major Problems in the Philosophy of Psychology",
+            "prereqs": "",
+            "desc": "This course focuses on one or more of the major problems in the philosophy of psychology, such as the following: intentionality, psychological explanation, methodology of psychology, theory of mind, folk psychology, mental representation, animal minds, consciousness and self-consciousness, the self, emotions, philosophy of psychiatry, and moral psychology."
+        },
+        {
+            "dept": "phil",
+            "code": "6370",
+            "credit": 3.0,
+            "name": "Philosophy of Cognitive Science",
+            "prereqs": "",
+            "desc": "Examines one or more issues in the Philosophy of Cognitive Science. Topics may include questions related to the assumptions of research in cognitive science, methodology, the scope of cognitive science, and related issues in artificial intelligence, neuroscience, or psychology."
+        },
+        {
+            "dept": "phil",
+            "code": "6410",
+            "credit": 3.0,
+            "name": "Issues in Contemporary Ethical Theory",
+            "prereqs": "",
+            "desc": "This course focuses on recent developments in ethical theory.  Topics may include: consequentialism, deontology, contractarianism, contractualism, virtue theory, feminist ethics, and moral particularism."
+        },
+        {
+            "dept": "phil",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Major Figures in Political Philosophy",
+            "prereqs": "",
+            "desc": "This course focuses on one or more of the central figures in political philosophy. Figures studied may include: Plato, Aristotle, Aquinas, Hobbes, Spinoza, Locke, Rousseau, Kant, Hegel, Marx, Bentham, Mill, Rawls, Nozick, Sen."
+        },
+        {
+            "dept": "phil",
+            "code": "6550",
+            "credit": 3.0,
+            "name": "Core Problems in Legal Philosophy",
+            "prereqs": "",
+            "desc": "This course is devoted to the core theories regarding the nature of law, legal reasoning, legal obligation, and legal authority.  Some combination of the following theories (and their variants) are examined: natural law theory, legal positivism, legal realism, feminist jurisprudence, and critical legal studies."
+        },
+        {
+            "dept": "phil",
+            "code": "6560",
+            "credit": 3.0,
+            "name": "Issues in Contemporary Legal Philosophy",
+            "prereqs": "",
+            "desc": "This course focuses on recent developments in the philosophy of law. Topics may include: the nature of criminal responsibility and punishment, the relation between law and morality, the identity of legal systems, and constitutions and their interpretation."
+        },
+        {
+            "dept": "phil",
+            "code": "6666",
+            "credit": 3.0,
+            "name": "Understanding Exegesis in Select Philosophical Texts (Rene Descartes and David Hume)",
+            "prereqs": "",
+            "desc": "For Philosophy to prosper, Descartes speaks of the need of philosophy to emulate geometry, and Hume talks of the need of philosophy to emulate Newtonian physics. These respective claims are misleading, inasmuch as their methodologies, in fact, vary, according to the work and topic. With Descartes, we focus on his Regulae and Meditations; with Hume, his Treatise of Human Nature and Dialogues Concerning Natural Religion."
+        },
+        {
+            "dept": "phil",
+            "code": "6800",
+            "credit": 6.0,
+            "name": "First-Year Seminar",
+            "prereqs": "",
+            "desc": "This course is required of all first-year PhD students.  It is designed to familiarize them with the Graduate Program in Philosophy and to impart the skills needed to complete the PhD."
+        },
+        {
+            "dept": "phil",
+            "code": "6850",
+            "credit": 6.0,
+            "name": "PhD Research Seminar",
+            "prereqs": "",
+            "desc": "This course is required of all third-year PhD students.  It is designed to help them complete the Two Paper Exam and write their dissertation proposal."
+        }
+    ]
+}

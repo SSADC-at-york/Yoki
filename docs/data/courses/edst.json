@@ -1,0 +1,212 @@
+{
+    "courses": [
+        {
+            "dept": "edst",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "What Is Education For?",
+            "prereqs": "",
+            "desc": "While we often assume that we have answered the question of what is education for this course seeks to reconsider the many contested desires, values and aims of education. Drawing on classical and contemporary philosophy and theory we will explore how education is concerned with cultivating the human and the possibility of a common world. To wonder again about what education is for in an existential, political and ethical sense we will ask about the nature of authority, power and freedom, about what justifies and bounds our interactions in education, and about the possibility of fostering the philosophical soul."
+        },
+        {
+            "dept": "edst",
+            "code": "1100",
+            "credit": 3.0,
+            "name": "Situated Learning and Education",
+            "prereqs": "",
+            "desc": "Situated theories of learning are introduced in this course and contrasted with other theories of learning.  Situated learning theories also are critically examined in relation to the kinds of educational experiences that flow from the manner in which learning is framed, who or what the \u0093teacher\u0094 is in any one instance of learning, how the \u0093learner\u0094 is positioned, and the role of the interpersonal dynamics such as affect and power. The implications of situated theories of learning are considered in relation to the provisioning of educational experiences in a variety of contexts, with particular reference to a life-long learning perspective."
+        },
+        {
+            "dept": "edst",
+            "code": "1200",
+            "credit": 3.0,
+            "name": "Place and Learning",
+            "prereqs": "",
+            "desc": "Physical spaces invite certain types of engagements with the world while precluding others. This course explores the role of physical spaces in learning with specific reference to emotion, curiosity and relationality. Drawing on scholarship from a range of disciplines including geography, architecture, design, environmental studies and education, the course: a) reviews the history of thinking about the design of &quot;instructional space&quot; in schools, museums, galleries and other spaces intended to support learning; investigate the learning potential of other spaces, natural (wilderness, desert, etc.) and human-made (malls, street corners, etc.); b) considers the conditions that inhibit and inspire learning; and c) explores the implications for individual learning, public education, and civic engagement."
+        },
+        {
+            "dept": "edst",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Issues in Indigenous Education",
+            "prereqs": "",
+            "desc": "This course explores wide-ranging issues in Indigenous education. It is grounded in Indigenous understandings and practices of education. It explores the ongoing impact of colonization, promotes decolonizing approaches by challenging deficit thinking and presents successful educational models with the possibility of practitioners integrating aspects of these methods into personal practice. Not available to students who have taken EDUC 2200."
+        },
+        {
+            "dept": "edst",
+            "code": "2450",
+            "credit": 3.0,
+            "name": "Multilingualism and multiculturalism in educational contexts",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course explores cultural diversity and linguistic pluralism in super-diverse societies; examines social history and cultural identity against language policy, pedagogy, and social practice; and considers how education in multicultural societies can be redesigned for successful, cooperative learning outcomes. Prerequisites: ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "2500",
+            "credit": 3.0,
+            "name": "Cultural Representations of Education",
+            "prereqs": "",
+            "desc": "Examines representations of education as they exist in literary and visual forms. Novels, films, exhibitions, photography, and memorials are among the types of representations that may be examined in the course. The course considers how cultural representations of pedagogy affect contemporary ideas about teaching and learning. Social institutions and popular culture have the capacity to create, not just reflect, knowledge. A central assumption of the course is that cultural representations impact the ways that educators understand themselves and their work. The course raises questions about the significance of cultural depictions, their historical and social formation, and their value for theorizing multiple learning environments."
+        },
+        {
+            "dept": "edst",
+            "code": "2700",
+            "credit": 3.0,
+            "name": "Teaching Internationally and Interculturally",
+            "prereqs": "",
+            "desc": "This course engages students in a comparative and international exploration of cultural traditions and beliefs, as well as their reflection on schooling and teaching practices. Throughout the course, students will examine diverse cultural and educational contexts in Canada and around the world in relation to imperialism, globalization, and internationalization, and raise questions about critical issues such as social class, race, ethnicity and gender. Students will be encouraged to develop an understanding of education in political, social, economic, linguistic, and cultural contexts around the world and search for effective pedagogical practices for teaching students of diverse cultural, class, racial, ethnic, and language backgrounds both locally and internationally. Not available to students who have taken EDUC 2700."
+        },
+        {
+            "dept": "edst",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Recreation and Education",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course explores the role of recreational activities, particularly sports in the schooling and educational lives interests, aspirations and achievements of youth in contemporary society. Consideration is given to the social, cultural and political benefits and costs associated with participation in recreational activities. The manner by which policies and programs make possible access and opportunities for participation in recreational activities in schools and community facilities is also discussed. Further topics include how engagement in recreational or extra-curricular activities supports school engagement and high educational attainment, contributes to good health, teaches discipline, builds confidence, facilitates cultural experiences, and/or exchanges, and enables cultural and social integration. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Apprenticeship Learning and Learning Communities",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "From the early British Guild system to our current high technology, postmodern society, the apprenticeship is central to learning in workplace communities of practice.  In this course, apprenticeship learning is considered in relation to exemplary forms of acquiring knowledge/skills, the primacy of pragmatic knowledge/skills, the social distribution of knowledge/skills, and the flexible and changing nature of knowledge and skills. This course also examines this symbiotic relationship between experts, apprentices, and learning communities in private, governmental and social enterprises. Consideration is given to knowledge/skills distribution and social justice issues that arise in hierarchical multiethnic and mixed gender work environments. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Policy and Public Educational Institutions",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course explores the interaction in education among political authorities, public agencies, and community groups. It examines the ways in which governments create educational policy and the influence that non-government organizations, such as cultural advocates, business and labour associations, parent groups, and social movements have in the world of schooling, college and universities. It studies the influence of those who lack direct authority over educational institutions but who may well influence the agendas and policy choices of governments, school boards, post-secondary educational decision-making bodies. Specifically, it looks at parent councils, lobby groups, teacher unions, business representatives, and Aboriginal associations. By way of illustration, it explores the topics of special education and the politics of race and schooling and it assesses the role of the media in shaping educational perspectives. Finally, it looks at policy-making in post-secondary education as well as the relationships between institutions (i.e. colleges, universities) and the communities in which they are located. The course should be of interest to those seeking to understand the process of educational change, the ways in which the educational community, writ large, contributes to such change, and the role of education in modern society. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0; Course exclusion HUMA 3694 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "3700",
+            "credit": 3.0,
+            "name": "Educating for a Sustainable Future: A Multidisciplinary Approach",
+            "prereqs": "",
+            "desc": "This course provides an introduction to the theory and practice of education for sustainability in schools and community-based places of learning. It takes an interdisciplinary approach to exploring the relation between education and social, economic and environmental issues. Not available to students who have taken EDUC 3700."
+        },
+        {
+            "dept": "edst",
+            "code": "3720",
+            "credit": 3.0,
+            "name": "Philosophical Inquiry into Critical Thinking and Curriculum",
+            "prereqs": "",
+            "desc": "This course investigates philosophical inquiry and critical thought in educational studies. It explores the significance of philosophy and critique for broaching questions about educational issues broadly conceived. Relevant philosophical and theoretical traditions and perspectives are considered. Not available to students who have taken EDUC 3720"
+        },
+        {
+            "dept": "edst",
+            "code": "3730",
+            "credit": 3.0,
+            "name": "Education and Human Rights",
+            "prereqs": "",
+            "desc": "Provides an analysis of human rights law as it intersects with education and schooling in Ontario. Not available to students who have taken ED/EDUC 3730 3.00."
+        },
+        {
+            "dept": "edst",
+            "code": "3760",
+            "credit": 3.0,
+            "name": "Early and Family Literacy",
+            "prereqs": "",
+            "desc": "This course will examine young children's literacy development both before and during the first years of schooling. The role of families in this development will also be examined. Issues related to diversity will be incorporated. Not available to students who have taken EDUC 3760."
+        },
+        {
+            "dept": "edst",
+            "code": "3800",
+            "credit": 3.0,
+            "name": "Research Methods in Educational Studies",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course introduces students to the research methodologies associated with educational studies.  Both qualitative and quantitative research methods will be introduced. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "3999",
+            "credit": 6.0,
+            "name": "Experience, Inquire, Contribute I (EIC): Systematic Observation in Context",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course offers students opportunities to engage in learning about educational studies in context. Portfolios of students' academic work in educational studies are created and used as a point of departure for fieldwork experiences in settings engaged in educational work. An analytical report commenting on the learning in context is the culminating activity of the course. An important focus of the course is developing the skills necessary to do an inquiry project in the next EIC course. Prerequisites: Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Community Organizations and Education",
+            "prereqs": "",
+            "desc": "This is a research course where students conduct a small-scale study in which they explore how community organizations carry out their educational functions in increasingly changing, culturally diverse, inequitable contexts. The course begins by introducing students to a broad discussion of community and how ideas of community can inform the work of community organizations. It then builds on multiple understandings of community as theory, as place, as method, as identity, as ideology, as policy and practice to review and rethink the work of community organizations as community resources providing education for the learning needs, interests and aspirations of community members. The place of community organizations as constituents of change is examined and, in reference to their own research study, students are introduced to how community is taken up in respective disciplines e.g. psychology (Smail, 2001), critical psychology (Prilleltensky &amp; Nelson, 2002), sociology, education, social work as suggestive interpretive frames for investigating and reading experiences of community and agency. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Educating for Activism",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course engages students in possibilities of social activism and change across multiple educational sites. The course will draw on histories of social movements and their educational significance. Students will study theories of oppression, social justice and actor networks to support their experience and interest in working for change in communities and public sites of education. Focus will be given to the role of pedagogy in compelling and supporting social change in agents and communities. To discuss the complex dynamics of activism, students will analyze a range of representations depicting social movements including those found in films, narratives and empirical accounts. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "The Politics of Social Transformation: Studies of Great and Not-so-great Educators",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course presents a side of education that involves the history, politics, and controversies of individual educators dedicated to social transformation. It draws from the perspectives of social psychology, and theories of development and social change to analyze biographies, novels, films, and historical research for insight into great and not so great experiments in public pedagogy and cultural life. The course considers the appeals and pitfalls of authoritarian, charismatic, accidental, and non-authoritarian leaders and their judgments, strategies, and problems addressed. The course is designed to create a method for analyzing contradictory motives, historical processes at work, and the effects of influencing the minds and hearts of others. Three questions frame the course: how does one judge the efficacy of the appeals of ideals, values, and strategies of experiments in education? How do great and not so great educators communicate their work and goals? What factors and beliefs make an educator great or not so great? Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "4040",
+            "credit": 3.0,
+            "name": "The Nature and Responsibility of Professional Practice",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course offers students an opportunity to consider the nature and responsibilities of professional practice. An introductory review of the central theoretical trends and debates within the field will be offered identifying competing theories and approaches. The relationship between professional knowledge and professional responsibility will be critically analyzed from a range of sociological theoretical perspectives that explain and critique the power and behavior of professions in society. The interaction between knowledge production, academic intellectual inquiry, professionalization and professional practice will be examined. A critical sociological understanding of the processes of professional education and the ways theoretical approaches understand the relations among professional responsibility, professional culture and the workings of and relationship between professions and society will be explored. Issues of diversity and equity facing professions will be raised and analyzed in terms of power relations within and between professions and society. Students will be invited to envision alternative models of professional responsibility. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "4051",
+            "credit": 3.0,
+            "name": "Teaching Design Thinking Within Technology Frameworks",
+            "prereqs": "",
+            "desc": "This course examines a range of problem-solving methods and design processes integral to a variety of industries and fields of work. Students will be introduced to practical, process-focused frameworks for developing and using design thinking in classrooms, workplaces and organizations."
+        },
+        {
+            "dept": "edst",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Theories, Strategies, and Challenges of Group Work",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course examines the development of groups: how groups come to think together, communicate the nature of their experience, tolerate conflict and difference, create common efforts, solve interpersonal dilemmas, accept or refuse members, experiment with new ideas, and become influenced by their goals and projects. Both leaderless and leader oriented groups are discussed. A relational approach to group life is used to consider theories of group psychology, cultural differences, the nature of authority, and conflicts with self/other influence. Readings and media are oriented by case studies of group work in: hospitals, community programs serving vulnerable populations, the making of films, and public pedagogical sites such as museums and youth training programs. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Creating Curriculum",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "The nature of curriculum and how to develop it in relation to the unique demands of specific contexts are the central concerns of this course. Working with theories in the field of curriculum studies, this course considers the nature of educational experience both broadly and in a range of contexts, including NGOs, the private sector, the cultural sector, and the health sector. Creating curriculum is here understood as the development of a set of experiences and object relations that frame both formal and informal pedagogical experiences outside of school settings, addressing how such frameworks shape the relations between people, practices, objects of inquiry, and knowledge. Areas of study include public pedagogy, museum education, community-based education, embodiment and learning, experiential education, arts-based education, and adult education. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "4300",
+            "credit": 3.0,
+            "name": "Policy and Practice",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course introduces students to various perspectives on how policy is made and enacted in public and private institutions at local, provincial, federal, and global levels.  It examines relationships between policies and how the same policy leads to varied (and often unequal) effects for different groups. Finally, the course highlights how individuals and groups can influence policy processes. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0; Course exclusion HUMA 3694 3.0"
+        },
+        {
+            "dept": "edst",
+            "code": "4500",
+            "credit": 3.0,
+            "name": "Ethics and Educating in Community and Work Contexts",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course provides students with an overview of the evolving field of moral educational leadership and introduces them to multiple ethical frames for interpreting case studies from community and professional settings. In reviewing, assessing and discussing real world examples, the relationship between the stance of educators who do not teach in schools and the local demands of their work is examined. Key questions include the following: how do we recognize a social good in teaching and learning? How do we distinguish the duties of educators and students? How does an educator weigh competing obligations? What is responsibility, and does it constrain or enable practice? What is a moral educator. \r\nPrerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0; Course exclusion HUMA 3695 6.0 "
+        },
+        {
+            "dept": "edst",
+            "code": "4999",
+            "credit": 6.0,
+            "name": "Experience, Inquire, Contribute II (EIC): Inquiry Project",
+            "prereqs": "edst1000 edst1100 edst1200",
+            "desc": "This course offers students opportunities to engage in learning about educational studies in context. Portfolios of students\u00e2\u0080\u0099 academic work in educational studies are created and used as a point of departure for fieldwork experiences in settings engaged in educational work. An analytical report commenting on the learning in context is the culminating activity of the course. An important focus of the course is conducting an inquiry project in the field. This course builds on the experience and learning from EDST 3999. Prerequisites ED/EDST 1000 3.0; ED/EDST 1100 3.0; ED/EDST 1200 3.0"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "mist",
+            "code": "3275",
+            "credit": 3.0,
+            "name": "Global Political Economy II: Issues and Problems Since 1945",
+            "prereqs": "",
+            "desc": "This course focuses on problems and issues relating to the post-1945 global political economy. Course credit exclusions: AP/ECON 3190 3.00,  AP/ECON 3199 3.00. \nPreviously offered as: AP/REI 3275 3.00."
+        }
+    ]
+}

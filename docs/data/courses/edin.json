@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "edin",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Integration Through Arts",
+            "prereqs": "",
+            "desc": "Examines basic understandings of, and appreciation for, the components of the fine arts within an integrated curriculum. There is a special emphasis on the role of arts as a resource for integrating and teaching a range of subject matter.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        }
+    ]
+}

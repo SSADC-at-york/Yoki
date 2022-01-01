@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "dept": "panf",
+            "code": "1100A",
+            "credit": 1.0,
+            "name": "Tech Knowledge Training: Video and Sound Editing with Davinci Resolve",
+            "prereqs": "",
+            "desc": "In this micro-credit course, students will learn techniques for creative media production using specific software. These short intensive courses offer technical training in how to navigate application interfaces, create media, and incorporate into a wider production ecosystem. Open to non-majors."
+        },
+        {
+            "dept": "panf",
+            "code": "1100B",
+            "credit": 1.0,
+            "name": "Tech Knowledge Training: 3D with Blender",
+            "prereqs": "",
+            "desc": "In this micro-credit course, students will learn techniques for creative media production using specific software. These short intensive courses offer technical training in how to navigate application interfaces, create media, and incorporate into a wider production ecosystem. Open to non-majors.\n"
+        },
+        {
+            "dept": "panf",
+            "code": "1100",
+            "credit": 3.0,
+            "name": "Introduction to Creative Methodologies I",
+            "prereqs": "",
+            "desc": "The course explores technical and philosophical approaches to creativity and its manifestations through interdisciplinary modes of artistic production. \n\nWhile creativity may be seen as a variable concept across different fields and context, we see commonalities in its description as a process that is shaped and developed through the sociocultural contexts in which it appears.  Therefore, this course provides an experimental platform for social agency, developing ideas and creative solutions that can become catalysts for social justice and radical digital citizenship. \n\nTo compare and contrast production methodologies, motivations and intersections across the arts, sciences and humanities, the course juxtaposes research presentations and experiential activities from broad academic, non-academic and epistemological contexts.  This decoupling of practices with traditional mindsets provides a foundation for the student to explore new ideas and processes that deviate or build upon established examples.  \nStudents will read widely from key media theorists and creative practitioners, and experience films, sound works and performances.  At the same time, they engage in practices of ideation through software and/or hardware prototyping, embracing the ethos of &quot;making&quot; as &quot;thinking in action&quot;.  Through this, the student's individual imagination and curiosity form supporting frameworks for exercising critical thinking and problem-solving in the contemporary arts. \n\nClasses consist of a blend of presentations on diverse art-technology histories, introductions to AMPD faculty and studios, experiential exercises centered on specific applications and environments, cursory portraits of practices through specific artists across a wide range of fields, and critiques of major projects that combine theoretical and pragmatic approaches. Open to non-majors.\n"
+        },
+        {
+            "dept": "panf",
+            "code": "1110",
+            "credit": 3.0,
+            "name": "Introduction to Creative Methodologies II",
+            "prereqs": "",
+            "desc": "The course continues the technical and philosophical approaches to creativity and its manifestations across interdisciplinary modes of artistic production.  The course engages students through a series of thematic investigations informed by current sociocultural contexts and explores different ways that creativity can manifest as social justice and agency.  \n\nThe course will build on a foundation of skills developed through PANF1100 and will reinforce this across to a range of new contexts such as prototype design for digital-analog forms of artistic production.  Students work towards a final project presentation.  Regular critiques and discussions encourage students to think critically about the roles of emerging digital tools and methods within their own lives, in artistic production, and society at large.  \n\nClasses consist of a blend of presentations on diverse art-technology histories, immersions in AMPD faculty studios and other research-creation processes, experiential exercises centered on specific applications and environments, cursory portraits of practices through specific artists across a wide range of fields, and critiques of major projects that combine theoretical and pragmatic approaches.\n\nOpen to non-majors. Pre-requisite: FA/PANF 1100 Introduction to Creative Practices I, or by permission of the instructor."
+        },
+        {
+            "dept": "panf",
+            "code": "1200",
+            "credit": 3.0,
+            "name": "Multimedia Asset Creation I",
+            "prereqs": "",
+            "desc": "Explores the techniques of non-linear multimedia asset creation as used in sound, video, and image editing software tools such as video editors, visual effects (VFX) software, digital audio workstations (DAW), digital audio editors, and vector and raster image editors. Topics of the course techniques are essential for asset creation in computational arts including the use of the timeline editor, compression techniques, distribution and file formats, plug-ins and effects. Artists, composers, and theorists relevant to the subjects will be presented to provide theoretical and critical context to the work. Students will put theoretical concepts in practice through a series of small studies leading up to a final project.  Open-source software tools will be used in this course wherever possible. Open to non-majors."
+        },
+        {
+            "dept": "panf",
+            "code": "1900",
+            "credit": 3.0,
+            "name": "Skills for Success in the Arts",
+            "prereqs": "",
+            "desc": "This course focuses on improving the generic skills needed for career success in the arts as well as effective learning for academic achievement.  Addressing real-life circumstances, case studies and personal goals students develop essential skills transferable to professions aligned with the arts and the creative industries.  Essential skills for success include\ncritical and analytical thinking; the ability to define and research a thesis, the ability to write clearly in various formats, the ability to work with others; the ability to be innovative, adaptable and accountable. \n\nTheory-based and experiential, this course provides opportunities to master strategies and practical skills in time management, research, retention, reading for academic purposes, note-taking and test-taking. Open to non-majors."
+        },
+        {
+            "dept": "panf",
+            "code": "2100A",
+            "credit": 1.0,
+            "name": "Tech Knowledge Training: Unreal Engine Introduction",
+            "prereqs": "",
+            "desc": "In this micro-credit course, students will learn techniques for creative media production using specific software and incorporate previous software knowledge. These short intensive courses offer technical training in how to navigate application interfaces, create media, and incorporate into a wider production ecosystem. Open to non-majors."
+        },
+        {
+            "dept": "panf",
+            "code": "2100B",
+            "credit": 1.0,
+            "name": "Tech Knowledge Training: Animation and VFX with Fusion",
+            "prereqs": "",
+            "desc": "\nIn this micro-credit course, students will learn techniques for creative media production using specific software. Each section of this course will be dedicated to a specific skill set including: 3D modelling, 2D animation, video editing, creative programming, web coding. The course is designed to allow students to build on previous software experience to ensure a thorough understanding of fundamentals, of situating the technique/software within a wider set of technologies, and of how to establish a longer self-learning journey through to more advanced techniques. Each course is designed to be taken over six 2-hour sessions. Open to non-majors.\n"
+        },
+        {
+            "dept": "panf",
+            "code": "3854",
+            "credit": 3.0,
+            "name": "Virtual Worldbuilding: Methods and Issues",
+            "prereqs": "",
+            "desc": "In this course you will learn how virtual worlds have the potential to change actual worlds and how to use digital media technologies to create possible world experiences. Open to non-majors.\n"
+        },
+        {
+            "dept": "panf",
+            "code": "4145",
+            "credit": 3.0,
+            "name": "Shooting the Set: Making Innovative Films on a Sound Stage",
+            "prereqs": "",
+            "desc": "Shooting the Set trains students (drawn from diverse AMPD specializations) in the arts of collectively and collaboratively developing, writing, shooting and editing four original short hybrid/fiction films that are shot on a specially-designed studio film set.\n\nPre-requisites: All 3rd and 4th year AMPD students are eligible to apply for the specialized roles available. Previous experience is mandatory.\n\nApplication: Students submit a current creative CV and a succinct (1-page) letter, which includes a brief outline of their previous arts experiences, the name/contact info of an AMPD faculty reference, and a listing in order of preference of the on-set roles they are applying for/qualified for (minimum of 3): director, cinematographer, sound, art director, editor, actor, PM/Producer. Faculty will shortlist applicants."
+        }
+    ]
+}

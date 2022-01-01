@@ -1,0 +1,548 @@
+{
+    "courses": [
+        {
+            "dept": "exch",
+            "code": "4901",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4902",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4903",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4904",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4905",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4906",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4907",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4908",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4910",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4911",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "Exchange - Schulich Business Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4912",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "Exchange - Schulich Business Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4913",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "Exchange - Schulich Business Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4914",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "Exchange - Schulich Business Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4915",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4916",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4917",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4918",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4919",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4921",
+            "credit": 3.0,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4922",
+            "credit": 3.0,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4923",
+            "credit": 3.0,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "Exchange - Globally Focused Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4924",
+            "credit": 3.0,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4925",
+            "credit": 3.0,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "Exchange - Globally Focused Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4930",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4931",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4932",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4933",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4934",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4935",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4936",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4937",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4938",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "Exchange - Globally Focused Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4939",
+            "credit": 1.5,
+            "name": "Exchange - Globally Focused Elective",
+            "prereqs": "",
+            "desc": "Exchange - Globally Focused Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4941",
+            "credit": 3.0,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4942",
+            "credit": 3.0,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4943",
+            "credit": 3.0,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4950",
+            "credit": 1.5,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4951",
+            "credit": 1.5,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4952",
+            "credit": 1.5,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4953",
+            "credit": 1.5,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4954",
+            "credit": 1.5,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "Exchange - Non Business Elective"
+        },
+        {
+            "dept": "exch",
+            "code": "4955",
+            "credit": 1.5,
+            "name": "Exchange - Non Business Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4960",
+            "credit": 3.0,
+            "name": "Exchange - Language Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4961",
+            "credit": 3.0,
+            "name": "Exchange - Language Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4962",
+            "credit": 3.0,
+            "name": "Exchange - Language Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4963",
+            "credit": 3.0,
+            "name": "Exchange - Language Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4970",
+            "credit": 1.5,
+            "name": "Exchange - Language Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4971",
+            "credit": 1.5,
+            "name": "Exchange - Language Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4972",
+            "credit": 1.5,
+            "name": "Exchange - Language Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "4973",
+            "credit": 1.5,
+            "name": "Exchange - Language Elective",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "6901",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6902",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6903",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6904",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6905",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6906",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6906",
+            "credit": 3.0,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6907",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6908",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6909",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6910",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6911",
+            "credit": 1.5,
+            "name": "Exchange Program",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "exch",
+            "code": "6912",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6913",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6914",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6915",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6916",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook."
+        },
+        {
+            "dept": "exch",
+            "code": "6917",
+            "credit": 1.5,
+            "name": "Exchange - Schulich Business Elective  ",
+            "prereqs": "",
+            "desc": "This course is available to any full or part-time student enrolled in the MBA or IMBA programs who fulfill the eligibility criteria outlined on the I/MBA Academic Handbook.\n"
+        }
+    ]
+}

@@ -1,0 +1,1644 @@
+{
+    "courses": [
+        {
+            "dept": "sosc",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Pathways for life-long learning",
+            "prereqs": "",
+            "desc": "This course is designed to promote student success in first-year by developing competencies in fundamental, academic, personal/interpersonal and teamwork skills. It encourages students' engagement in their own learning and uses eLearning and Experiential Education delivery strategies."
+        },
+        {
+            "dept": "sosc",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Sur le chemin de la r\u00e9ussite acad\u00e9mique",
+            "prereqs": "",
+            "desc": "Ce cours, version fran\u00e7aise du GL/SOSC 1000 3.00, Pathways for Life-Long Learning, est con\u00e7u pour promouvoir la r\u00e9ussite des \u00e9tudiants en premi\u00e8re ann\u00e9e en d\u00e9veloppant des comp\u00e9tences acad\u00e9miques, personnelles / interpersonnelles. Il utilise les strat\u00e9gies de cyberapprentissage et d\u0092\u00e9ducation exp\u00e9rientielle."
+        },
+        {
+            "dept": "sosc",
+            "code": "1009",
+            "credit": 6.0,
+            "name": "Introduction to Social Science (ESL)",
+            "prereqs": "",
+            "desc": "The course considers the distinctive characteristics of modern society including the impact of modernization on the family, religion, economic behaviour, politics and belief systems. It introduces many of the major concepts social scientists use in analyzing how society works. Course credit exclusions: AP/SOSC 1000 9.00 and AP/SOSC 1009 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "1340",
+            "credit": 6.0,
+            "name": "Introduction to Business and Society",
+            "prereqs": "",
+            "desc": "This course introduces major themes in the field of business and society, including various theoretical approaches and concepts. Particular attention is paid to specific historical developments in the rise of the capitalist economy, and the social transformations associated with these developments.\r\nCourse credit exclusion: AP/SOSC 1340 9.00, AP/SOSC 1349 6.00, AP/SOSC 1349 9.00.\r\n\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/SOSC 1340 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "1375",
+            "credit": 3.0,
+            "name": "Introductory Socio-legal Studies",
+            "prereqs": "",
+            "desc": "This introductory course will provide an overview of several major themes in the field of socio-legal studies, including law and social justice, social science and legal knowledge, law and social change, and law, culture and diversity."
+        },
+        {
+            "dept": "sosc",
+            "code": "1502",
+            "credit": 6.0,
+            "name": "Introduction aux \u00e9tudes des femmes et de genre",
+            "prereqs": "",
+            "desc": "Ce cours explore comment l'exp\u00e9rience des individus est marqu\u00e9e par le genre, la race, la sexualit\u00e9 et la classe en r\u00e9f\u00e9rence notamment au v\u00e9cu des femmes. Dans une d\u00e9marche multidisciplinaire, les concepts fondamentaux en \u00e9tudes des femmes et de genre ainsi que les grands d\u00e9bats f\u00e9ministes sont introduits en vue d'analyser les relations de pouvoir et leurs possibles transformations. \r\n\r\nAVANT L'AUTOMNE 2014: cours incompatibles: AP/GWST 2510 9.00, GL/GWST 2510 9.00, AP/HUMA 2930 9.00, AP/SOSC 2180 9.00. AVANT L'AUTOMNE 2013: cours incompatibles: AP/WMST 2500 6.00, GL/WMST 2500 6.00, AP/WMST 2510 9.00, GL/WMST 2510 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "1502",
+            "credit": 6.0,
+            "name": "Introduction to Gender and Women's Studies",
+            "prereqs": "",
+            "desc": "Using an interdisciplinary approach, this course explores how many aspects of our lives are gendered, racialized, embodied, sexualized, and classed, and the consequences of these intersecting practices for social inequalities. Key debates within feminist scholarship are introduced to analyze issues of power and transformation. \r\nPRIOR TO FALL 2014: AP/GWST 2510 9.00, GL/GWST 2510 9.00, AP/HUMA 2930 9.00, AP/SOSC 2180 9.00,\nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 2500 6.00 or GL/WMST 2500 6.00, AP/WMST 2510 9.00, GL/WMST 2510 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "1603",
+            "credit": 6.0,
+            "name": "Introduction to Linguistics",
+            "prereqs": "",
+            "desc": "This course introduces the theory and technique of linguistics with illustrations mainly from English. Core areas of study will include phonetics, phonology, morphology, syntax and semantics. Other areas include pragmatics, discourse analysis and historical linguistics. Course credit exclusions: GL/EN 2570 3.00, AP/LING 1000 6.00, GL/EN 1605 6.00 (prior to Fall 2014), GL/EN 2605 6.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "sosc",
+            "code": "1605",
+            "credit": 6.0,
+            "name": "Communication, Health and Environment",
+            "prereqs": "",
+            "desc": "This course connects the three areas of communication, health and environment by exploring the interrelationships between human health and the health of natural and socio-economic environments. It also addresses the influence of mass communication in relation to public policy pertaining to human and ecosystem health. Throughout the course, the sustainability concept is used as a guiding principle.\r\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "1615",
+            "credit": 6.0,
+            "name": "Les origines des civilisations du monde",
+            "prereqs": "",
+            "desc": "Une perspective globale des d\u00e9veloppements intellectuels, sociaux, politiques, et culturels de la pr\u00e9histoire jusqu'en 1914 sera explor\u00e9e. Les \u00e9v\u00e9nements et les \u00e9volutions \u00e0 travers les si\u00e8cles dans les diff\u00e9rents continents seront \u00e9tudi\u00e9s. Cours incompatibles : GL/HIST 1200 6.00, GL/HUMA 1615 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "1650",
+            "credit": 6.0,
+            "name": "Introduction to Criminology",
+            "prereqs": "",
+            "desc": "This course critically investigates processes that define criminality; the relationship between control and consent; the administration of &quot;justice,&quot; and the social contexts within which legal contests occur. It introduces students to critical and contemporary approaches as well as mainstream/traditional explanations. Note: Students must achieve a grade of at least B in this course in order to be permitted to continue as a major in criminology, or to pursue additional criminology courses at the 2000-, 3000- and 4000-levels. Under exceptional circumstances, non-majors who have not obtained a grade of at least B may apply for special consideration to enrol in a criminology course for which AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 is a prerequisite. This application should be made to the criminology program coordinator. \r\nCourse credit exclusion: AP/CRIM 1650 9.00, AP/SOSC 1650 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "1680",
+            "credit": 6.0,
+            "name": "Modern Economic History: A Canadian Perspective ",
+            "prereqs": "",
+            "desc": "The economic history of Canada seen as an aspect of North American and, more generally, North Atlantic development, from the earliest staple trade to the present day. PRIOR TO FALL 2014: Course credit exclusions: GL/ECON 2680 6.00, GL/HIST 2680 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "1903",
+            "credit": 3.0,
+            "name": "English in the World; the World in English",
+            "prereqs": "",
+            "desc": "This course introduces students to the historical development and current state of English as a world language, particularly in the context of cultural, economic and political globalization. Course themes explore the world of English through literatures, popular culture, and new media, drawing attention to their implications for English Language Teaching."
+        },
+        {
+            "dept": "sosc",
+            "code": "1920",
+            "credit": 6.0,
+            "name": "Understanding Contemporary Canada",
+            "prereqs": "",
+            "desc": "This course examines the geographical, political, social, historical and cultural contexts for key current issues facing Canadians today. Course credit exclusion: AP/CDNS 2200 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Interdisciplinary Approaches to Social Inquiry",
+            "prereqs": "",
+            "desc": "This course surveys a range of blended approaches to critical social inquiry. Grounded in contemporary research trends developed in such fields as Urban Studies, Development Studies, Health and Society, Work and Labour Studies and African Studies, students are exposed to practices of integrated research, adapted from traditions such as historical analysis, ethnography, survey and interview techniques, and story-telling. "
+        },
+        {
+            "dept": "sosc",
+            "code": "2007",
+            "credit": 6.0,
+            "name": "Representing Climate Change",
+            "prereqs": "",
+            "desc": "This course examines the representation of climate change in journalism, science, art, education and popular culture. We do so by grappling with two central questions: How is climate change represented for the public? How effective are climate change communicators at enhancing public awareness of the issues at stake and at cultivating action?"
+        },
+        {
+            "dept": "sosc",
+            "code": "2102",
+            "credit": 3.0,
+            "name": "Health Systems in the Global Society",
+            "prereqs": "",
+            "desc": "This course explores health systems from a comparative perspective. Particular attention is given to the impact of technology on health care delivery, the targets for health in a global world and reforms in public and private health systems. \r\nCourse credit exclusions: None.  \r\n\r\nPRIOR TO FALL 2009: Course credit exclusions: AS/SOSC 2102 3.00, AS/SOSC 2112 6.00 (prior to Fall/Winter 2003-2004)."
+        },
+        {
+            "dept": "sosc",
+            "code": "2110",
+            "credit": 6.0,
+            "name": "A Critical Study of Health and Society",
+            "prereqs": "",
+            "desc": "In this interdisciplinary course, students gain a critical sensitivity to the values embedded in biomedicine and in alternative health discourses and practices, and an understanding of health both in the local and global contexts. Topics are interpreted from a theoretical and an applied perspective."
+        },
+        {
+            "dept": "sosc",
+            "code": "2210",
+            "credit": 6.0,
+            "name": "Labour Relations, Restructuring and Resistance",
+            "prereqs": "",
+            "desc": "An introduction to the relations between labour and management in Canada, especially the changing nature of the workplace, the evolution of the Canadian labour movement, the role of the Canadian state, the operation of collective bargaining structures and a wide range of contemporary issues in labour relations. Previously offered as: AP/SOSC 2210 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2330",
+            "credit": 6.0,
+            "name": "Political Economy of Law, Policy and Organization",
+            "prereqs": "",
+            "desc": "This course considers economics as a form of moral argument. This course considers how economists evaluate existing government policies in a broad variety of areas, including housing policies and rent control, environmental protection and gender equity in the workplace. Previously offered as: AP/SOSC 2330 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2340",
+            "credit": 6.0,
+            "name": "Intermediate Business and Society",
+            "prereqs": "sosc1340 sosc1340",
+            "desc": "The course consists of the social science analysis of economic systems, including the rise of the capitalist system (and its predecessors) and the recent development of a global economy, along with the normative analysis of the latter. Prerequisites: AP/SOSC 1340 6.00 or AP/SOSC 1340 9.00. Course credit exclusions: AP/SOSC 2349 6.00. Open to: Business and Society (BUSO) majors. Not open to: Non-BUSO majors except by permission. Previously offered as: AP/SOSC 2340 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2342",
+            "credit": 6.0,
+            "name": "The Firm, Organization and Management  ",
+            "prereqs": "",
+            "desc": "This course is for students taking the Firm and Organization stream in Business and Society. It introduces students to different disciplinary perspectives on organizations, the firm, management and the role of business schools in Anglo-American society. It involves lecture-based and tutorial learning as students evaluate the design, governance and valuation of the firm as an organization central to contemporary capitalism.\r\n\r\nCorequisites: AP/SOSC 1340 9.00 (or AP/SOSC 1349 9.00)."
+        },
+        {
+            "dept": "sosc",
+            "code": "2349",
+            "credit": 6.0,
+            "name": "Intermediate Business and Society (ESL)",
+            "prereqs": "sosc1340",
+            "desc": "The course consists of the social science analysis of economic systems, including the rise of the capitalist system (and its predecessors) and the recent development of a global economy, along with the normative analysis of the latter. Prerequisite: AP/SOSC 1340 6.00. Course credit exclusion: AP/SOSC 2340 6.00. Open to: Business and Society (BUSO) majors. Not open to: Non-BUSO majors except by permission."
+        },
+        {
+            "dept": "sosc",
+            "code": "2350",
+            "credit": 6.0,
+            "name": "Law and Society",
+            "prereqs": "sosc1375",
+            "desc": "Examines the interrelationship between law and the social sciences with emphasis on types of legal thought, the function of law in society, legal systems, and a variety of specific issues involving Canadian society and law, such as the legal profession, the criminal process, civil and political rights and family law. Prerequisite: AP/SOSC 1375 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2351",
+            "credit": 6.0,
+            "name": "Human Rights in a Social-Legal Context",
+            "prereqs": "",
+            "desc": "This course analyses issues and policies associated with minority status in Canada from an interdisciplinary perspective. Using International Human Rights principles as a framework, the course examines both inferiorized and stigmatized minorities, the forms of prejudice and discrimination responsible for their unequal treatment and disadvantaged life conditions, as well as strategies for change designed to gain recognition for minority rights to dignity, power and equality. Minorities such as women, the aged, aboriginal peoples, racialized minorities, immigrants/refugees, and gays and lesbians will be examined in this context. PRIOR TO FALL 2011: Course credit exclusions: AP/SOSC 1210 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2480",
+            "credit": 6.0,
+            "name": "Introduction to African Studies",
+            "prereqs": "",
+            "desc": "Explores common themes in the social organization, history and cultural heritage of Africa's diverse peoples. It then moves to examine the impact of colonialism, and the struggle to develop politically and economically viable nation-states in the post-colonial era. The work of African writers, artists and statesmen furnishes an important contribution to the course's understanding of Africa, past and present. Previously offered as: AP/SOSC 2480 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2513",
+            "credit": 6.0,
+            "name": "Mothering and Motherhood ",
+            "prereqs": "",
+            "desc": "Examines motherhood as it is theorized and analyzed in interdisciplinary feminist scholarship and as it is portrayed in women's fictional and autobiographical writings. The history, sociology, psychology and politics of motherhood with emphasis on class, cultural and racial differences are investigated. \r\nPRIOR TO FALL 2015: Course credit exclusion: GL/GWST 3508 6.00.\r\n\nPRIOR TO FALL 2014: Course credit exclusion: AP/GWST 3508 6.00.\r\n\nPRIOR TO FALL 2013: Course credit exclusions: GL/WMST 3508 6.00, AP/WMST 3508 6.00.\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "2560",
+            "credit": 6.0,
+            "name": "Ideology and Everyday Life",
+            "prereqs": "",
+            "desc": "The concept &quot;ideology&quot; plays a central and unique role in how we understand ourselves. We will examine ideas and structures of power in relation to identity, society, democracy, freedom, knowledge, art, popular culture, and our vision of the future. Course credit exclusion: AP/SOSC 3560 6.00 (prior to Fall 2010)."
+        },
+        {
+            "dept": "sosc",
+            "code": "2570",
+            "credit": 6.0,
+            "name": "Perspectives on Human Nature and Political Thought",
+            "prereqs": "",
+            "desc": "This course investigates conceptions of what it is to be a human being in the context of social, cultural and political relations. Major themes include the relationships between authority and critique, autonomy and democracy and art and politics. Previously offered as: AP/SOSC 2570 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2571",
+            "credit": 6.0,
+            "name": "Introduction to Modern Social and Political Thought",
+            "prereqs": "",
+            "desc": "Provides a broad introduction to the interdisciplinary study of modern social and political thought. Through critical readings and analyses of primary texts, students become familiar with the rise of the liberal tradition, focusing on critiques, defences and developments of its conceptions of the modern world. Previously offered as: AP/SOSC 2571 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2602",
+            "credit": 3.0,
+            "name": "La citoyennet\u00e9 et l'immigration au Canada",
+            "prereqs": "",
+            "desc": "Ce cours examine les diff\u00e9rents concepts de la citoyennet\u00e9 au Canada \u00e0 l'aide des perspectives savantes et communautaires. Il l\u0092analyse en relation \u00e0 l\u0092histoire, la th\u00e9orie et la pratique de l\u0092immigration afin d\u0092en d\u00e9finir ses moments-cl\u00e9s, \u00e9volutions et contestations."
+        },
+        {
+            "dept": "sosc",
+            "code": "2602",
+            "credit": 3.0,
+            "name": "Citizenship and Immigration in Canada",
+            "prereqs": "",
+            "desc": "This course examines the various notions of citizenship in Canada from both scholarly and community-based perspectives. It places citizenship in relation to the history, theory and practice of immigration to Canada to highlight its defining moments, evolutions and contestations."
+        },
+        {
+            "dept": "sosc",
+            "code": "2617",
+            "credit": 3.0,
+            "name": "La g\u00e9ographie sociale du Canada ",
+            "prereqs": "",
+            "desc": "Ce cours examine les dynamiques spatiales et processus g\u00e9ographiques formant la soci\u00e9t\u00e9 canadienne d\u0092aujourd\u0092hui. Il explore \u00e9galement \r\nles caract\u00e9ristiques propres aux r\u00e9gions canadiennes. "
+        },
+        {
+            "dept": "sosc",
+            "code": "2622",
+            "credit": 3.0,
+            "name": "Culture, Globalization and International Civil Society",
+            "prereqs": "",
+            "desc": "A multicultural, interdisciplinary introduction to global civil society. The concept of globalization in a multicultural context, including debates over economic, social, political and cultural issues. Particular attention to transnational social processes, actors and organizations. PRIOR TO FALL 2014: Course credit exclusion: GL/ILST 2300 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2622",
+            "credit": 3.0,
+            "name": "Culture, mondialisation et soci\u00e9t\u00e9 civile internationale",
+            "prereqs": "",
+            "desc": "Introduction interdisciplinaire et multiculturelle \u00e0 la soci\u00e9t\u00e9 civile mondiale. \u00c9tude du concept de mondialisation dans un contexte multiculturel, avec attention particuli\u00e8re port\u00e9e aux questions culturelles, \u00e9conomiques, sociales et politiques ainsi qu'aux organismes et mouvements sociaux transnationaux. Avant l'automne 2014: cours incompatible : GL/ILST 2300 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2630",
+            "credit": 3.0,
+            "name": "Aboriginal Peoples of Canada",
+            "prereqs": "",
+            "desc": "This course covers perspectives on Inuit and Indian communities of Canada; cultural and linguistic diversity; traditional economic and social organization; religion and art; the impact of Western society; contemporary strategies for survival. "
+        },
+        {
+            "dept": "sosc",
+            "code": "2632",
+            "credit": 3.0,
+            "name": "Introduction to Ancient Philosophy",
+            "prereqs": "",
+            "desc": "This course introduces topics that were first discussed by Ancient Greek philosophy. We explore ways of thinking about the world, the question of what it means to know, the question of justice, and others. \nCourse credit exclusions: GL/PHIL/POLS/SOSC 2645 6.00; AP/PHIL 2015 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2633",
+            "credit": 3.0,
+            "name": "Ancient Ethical and Political Theory",
+            "prereqs": "",
+            "desc": "What led the Greek philosophers to carve out the world in such a way that the two topics of Ethics and Politics could be discussed on their own in a meaningful way? This, and associated questions, animate this course. \nCourse credit exclusions: GL/PHIL/POLS/SOSC 2645 6.00; AP/PHIL 2015 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2636",
+            "credit": 3.0,
+            "name": "Anishinaabemowin (Ojibway) Language and Culture I",
+            "prereqs": "",
+            "desc": "This course introduces the language and culture of the Anishinaabe (Ojibway) peoples of Ontario from multidisciplinary intercivilizational perspectives. A central component of the course is focused on learning the Anishinaamebowin language within a framework which draws upon indigenous world-views. "
+        },
+        {
+            "dept": "sosc",
+            "code": "2638",
+            "credit": 3.0,
+            "name": "Anishinaabemowin (Ojibway) Language and Culture II",
+            "prereqs": "lin2636",
+            "desc": "This course builds on GL/LIN 2636 3.00, continuing the learning of Anishinaabemowin (Ojibwe language). It extends the depth and breadth of understanding of Indigenous world-views from multidisciplinary perspectives and in the context of understanding  the challenges of Reconciliation. Prerequisite: GL/LIN 2636 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2650",
+            "credit": 6.0,
+            "name": "Theories of Criminology",
+            "prereqs": "crim1650 sosc1650",
+            "desc": "Introduces students to competing theories of criminology and the history of criminology as a field of study. Biological, psychological and sociological theories of crime are compared and contrasted, as well as contemporary theories including symbolic interactionism and critical criminology. Prerequisites: AP/CRIM 1650 9.00, AP/SOSC 1650 9.00 (or equivalent), with a grade of at least B. PRIOR TO WINTER 2010: Course credit exclusion: AP/SOSC 3382 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2652",
+            "credit": 6.0,
+            "name": "Criminal Justice Systems",
+            "prereqs": "",
+            "desc": "This course considers the politics at stake in the crime prevention enterprise. A number of specific crime prevention and security initiatives will be examined with a view to exposing their political foundations, and presenting a variety of more progressive alternatives."
+        },
+        {
+            "dept": "sosc",
+            "code": "2652",
+            "credit": 3.0,
+            "name": "Social Movements and Contentious Politics in a Global Context",
+            "prereqs": "",
+            "desc": "This course explores the dynamics of contemporary social movements through an examination of organizations, political institutions and the dynamics of collective action at local, national and international levels in order to understand how people come together to organize for social change. Course credit exclusions: GL/SOCI 2590 3.00, GL/SOCI 2590 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2653",
+            "credit": 6.0,
+            "name": "Research Methods in Criminology",
+            "prereqs": "",
+            "desc": "Introduces students to criminological research and provides a foundation for developing analytical skills by examining ethics, research designs (qualitative, quantitative and hybrid), data collection, data analysis and reporting procedures. Assesses commonly utilized criminological strategies: experiments, surveys (self report, victimization), field studies, ethnographies, analysis of existing records (crime statistics, official reports, historical data), secondary data analysis, content, textual, and documentary analyses. "
+        },
+        {
+            "dept": "sosc",
+            "code": "2655",
+            "credit": 6.0,
+            "name": "G\u00e9ographie mondiale : aspects physiques et humains",
+            "prereqs": "",
+            "desc": "Ce cours examine la dimension spatiale des relations humaines, en particulier les approches et les concepts de g\u00e9ographie physique et humaine au niveau local, national et global, notamment la dynamique humains/nature, la distribution humaine et la gestion de l\u0092espace."
+        },
+        {
+            "dept": "sosc",
+            "code": "2655",
+            "credit": 6.0,
+            "name": "Global Geography: Physical and Human Aspects",
+            "prereqs": "",
+            "desc": "An introduction to the main geographical concepts of and approaches to the study of humans-nature relationship, notably humans and the biosphere, the spatial dimension of the development of societies, cultures and civilizations and the multilevel management of space (local, national, global). PRIOR TO FALL 2013: course credit exclusions: AP/WMST 2504 3.00, GL/WMST 2504 3.00, GL/SOSC 2600 3.00, AP/GEOG 1000 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2660",
+            "credit": 6.0,
+            "name": "Perspectives on Human Nature           ",
+            "prereqs": "",
+            "desc": "A multidisciplinary study of a range of influential yet contrasting images of man or models of human nature encountered in the contemporary humanities and social sciences. Perspectives surveyed include those of such 19th- and 20th-century thinkers as Kierkegaard, Marx, Nietzsche, Freud, Heidegger, Sartre, and De Beauvoir."
+        },
+        {
+            "dept": "sosc",
+            "code": "2665",
+            "credit": 3.0,
+            "name": "Education and Society",
+            "prereqs": "",
+            "desc": "A study of the relationship between education and the wider social structure. What role does education fulfill in the larger society? What are the social forces directing its development? How effective is education in discharging its institutional responsibilities?"
+        },
+        {
+            "dept": "sosc",
+            "code": "2670",
+            "credit": 6.0,
+            "name": "Histoire du Canada",
+            "prereqs": "",
+            "desc": "Ce cours examine l\u0092histoire du Canada de la rencontre entre les Autochtones et les Europ\u00e9ens jusqu\u0092\u00e0 nos jours. Les th\u00e8mes comprennent l\u0092impact de la colonisation, les relations sociales et \u00e9conomiques dans les \u00e9conomies coloniales, la formation de l\u0092\u00c9tat et les transformations \u00e9cologiques, les relations entre les francophones et les anglophones, les migrations internationales et la place du Canada dans le monde. \r\nCours incompatibles : AP/HIST 2500 6.00, AP/HIST 2501 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2680",
+            "credit": 3.0,
+            "name": "Relations sexe/genre                   ",
+            "prereqs": "",
+            "desc": "Analyse de la signification des distinctions de genre dans la structure sociale. En particulier \u00e9tude de la socialisation et de la stratification des r\u00f4les de chaque sexe, des relations entre les genres masculin/f\u00e9minin."
+        },
+        {
+            "dept": "sosc",
+            "code": "2685",
+            "credit": 3.0,
+            "name": "La Famille       ",
+            "prereqs": "",
+            "desc": "\u00c9tude de la famille en tant qu'unit\u00e9 du syst\u00e8me social et domaine d'interaction sociale. \u00c9tude, en particulier, des variations de formes familiales et de leurs relations avec les diff\u00e9rents syst\u00e8mes sociaux; \u00e9tude des changements actuels dans la vie familiale et des attitudes envers la famille, des r\u00f4les et des comportements familiaux."
+        },
+        {
+            "dept": "sosc",
+            "code": "2710",
+            "credit": 6.0,
+            "name": "City Lives, City Forms: An Introduction to Urban Studies",
+            "prereqs": "sosc1733",
+            "desc": "Introduces students to the tradition and practice of urban studies through an exploration of the social fabrics of cities as historical products that both reflect and influence economic, political and cultural realities in contemporary societies. Prerequisite: Successful completion of AP/SOSC 1733 9.00. Course credit exclusions: AP/URST 2410 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2800",
+            "credit": 6.0,
+            "name": "Development in Comparative and Historical Perspective",
+            "prereqs": "sosc1430",
+            "desc": "An exploration of the various aspects that have characterized the experience of development over the last half century. We focus on the concepts, theories and strategies of development that have formed the core of the debate within the field of development studies.\r\nPrerequisite:AP/SOSC 1430 9.00 or permission of the International Development Studies program coordinator.\r\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "2900",
+            "credit": 3.0,
+            "name": "Language and Gender",
+            "prereqs": "",
+            "desc": "Explores the relationship between language and sex/gender systems from a feminist perspective. The main areas investigated are language and gender stereotypes; language, power and women's status; and male versus female communicative style in different socio-cultural contexts. \r\nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 2501 3.00, GL/WMST 2501 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2901",
+            "credit": 6.0,
+            "name": "Introduction to Latin American History",
+            "prereqs": "",
+            "desc": "Introduces students to Latin American History from the moment of contact between Europeans and Americans through the 20th century. After a brief survey of the Colonial Era, it will explore the histories of several southern Republics, contrasting their development with that of North America. PRIOR TO FALL 2014: course credit exclusion: GL/HIST 2200 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2905",
+            "credit": 6.0,
+            "name": "Introduction to the History of Modern Europe from 1450 to the Present ",
+            "prereqs": "",
+            "desc": "This course surveys the formation of Western civilization in Europe during the modern era as a foundation for subsequent studies in particular aspects of Western society or European civilization. It covers principally the social, political, economic and cultural history of Europe from the mid-15th century to the present."
+        },
+        {
+            "dept": "sosc",
+            "code": "2923",
+            "credit": 3.0,
+            "name": "Introduction to Law and Social Thought",
+            "prereqs": "",
+            "desc": "This course will focus on the role of law and legal institutions in their relation to society, family and the individual. It will examine specific issues within Canadian society and law involving the judicial and criminal processes, civil and political rights, and the relationship between legal and political culture. Course credit exclusion: AP/PHIL 2060 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2925",
+            "credit": 3.0,
+            "name": "Law, justice and equality",
+            "prereqs": "",
+            "desc": "This course explores questions concerning the nature of a just legal and political system, and the connection between justice and equality. What makes laws just or unjust? Should we aim for equality as a matter of justice? If so, what kind of equality? Course credit exclusion: AP/PHIL 2050 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2932",
+            "credit": 3.0,
+            "name": "Ancient Greece",
+            "prereqs": "",
+            "desc": "Explores ancient Mediterranean history from the early third millennium BCE through the rise and fall of Alexander the Great in the third century BCE. Proceeding chronologically, the course emphasizes the interdependence of social-political developments and intellectual-cultural movements. Course credit exclusions: GL/HIST 2635 6.00, AP/HIST/CLST 2100 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "2935",
+            "credit": 3.0,
+            "name": "Ancient Rome",
+            "prereqs": "",
+            "desc": "This course surveys the History of Ancient Rome from the founding of the Republic (753 BCE) to the fall of the Roman Empire in the fifth century. Proceeding chronologically, the course emphasizes the interdependence of socio-political developments and intellectual-cultural movements. Course credit exclusions: GL/HIST 2635 6.00, AP/HIST/CLST 2100 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3005",
+            "credit": 3.0,
+            "name": "Special Topics in ISS",
+            "prereqs": "sosc2000",
+            "desc": "The content of this special topics course varies from year to year. Please consult the Program\u0092s website for detailed information.\r\nPrerequisites: AP/SOSC 2000 6.00 or permission of the Instructor."
+        },
+        {
+            "dept": "sosc",
+            "code": "3006",
+            "credit": 6.0,
+            "name": "Technology and Social Movements",
+            "prereqs": "sosc2000",
+            "desc": "\r\nThis course examines the role of technology in social movements since the 1960s. It takes an interdisciplinary approach combining theories from anthropology, science and technology studies, political science, sociology, geography, communication and cultural studies. Some of the movements and topics covered include: Civil Rights, Zapatistas, anti-globalization, Students for Free Culture, culture jamming, Fair Trade, surveillance, Arab Spring, Occupy Wall Street, hacktivism and climate justice.\r\n\r\nPrerequisites: AP/SOSC 2000 6.00\r\nCourse credit exclusions:  AP/COMN 3220 3.0 and AP/COMN 3221 3.0"
+        },
+        {
+            "dept": "sosc",
+            "code": "3008",
+            "credit": 3.0,
+            "name": "Disability and Race ",
+            "prereqs": "",
+            "desc": "Disabled and racialized groups share common historical experiences of genocide, forced sterilization, and residential segregation. However, analogies are inadequate in explaining why racial groups, particularly indigenous, have much higher rates of disability and why 85% of the disabled are in the global south. Using an intersectional approach, this course explores how disability and race are entangled to reinforce social marginalization. \r\nPrerequisite/Co-requisite:AP/SOSC 2000.6.00"
+        },
+        {
+            "dept": "sosc",
+            "code": "3040",
+            "credit": 6.0,
+            "name": "Corporate Social Responsibility",
+            "prereqs": "sosc2340 sosc2349",
+            "desc": "This course investigates the theory and practice of Corporate Social Responsibility programs, including the normative and social science analysis of particular issues and practices, as well as their role in regulation and legitimation in larger political economy regimes. Prerequisites: AP/SOSC 2340 6.00 or AP/SOSC 2349 6.00 or permission of Instructor."
+        },
+        {
+            "dept": "sosc",
+            "code": "3041",
+            "credit": 6.0,
+            "name": "The Social Economy and Alternative Development ",
+            "prereqs": "",
+            "desc": "Eamines alternative business and economic structures to those of the private corporation in the contemporary world. Particular attention is paid to cooperatives and worker-owned firms and their impact not just on those who work in such organizations but also on the wider economic environment in which they operate. Open to: Business and Society majors in the social economy stream. Not open to: Non-BUSO majors, BUSO majors not taking the social economy stream, except by permission. Prerequisites: AP/SOSC 1341 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3042",
+            "credit": 3.0,
+            "name": "Business and Social Exclusion in the Global South",
+            "prereqs": "sosc1340 sosc1340 sosc1430",
+            "desc": "This course is for students in the Business and Society program. It investigates the intersection of business practices and systemic bias against marginalized groups - in particular visible minorities and women in the global economy. \n\nPrerequisites: AP/SOSC 1340 6.00 AP/SOSC 1340 9.00 (for IDS majors, AP/SOSC 1430 9.00)\n\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3043",
+            "credit": 3.0,
+            "name": "Comparative Perspectives on Social Exclusion and Business ",
+            "prereqs": "sosc1340 sosc1340",
+            "desc": "This course is for students in the Business and Society program. It investigates the intersection of business practices and systemic bias against marginalized groups - in particular visible minorities and women in Canada and the developed world.\n\nPrerequisites: AP/SOSC 1340 6.00 or AP/SOSC 1340 9.00\n\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3090",
+            "credit": 6.0,
+            "name": "Medicine and North American Society in Historical Perspective",
+            "prereqs": "",
+            "desc": "Explores North American social and cultural responses to disease. It offers a critical, historical evaluation of the ways in which science accorded medicine a new intellectual and institutional status that transformed explanations for disease and patterns of healing/caregiving."
+        },
+        {
+            "dept": "sosc",
+            "code": "3099",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised directed reading course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Directed reading courses require a signed agreement between the student and faculty member, as well as the approval of the undergraduate director."
+        },
+        {
+            "dept": "sosc",
+            "code": "3099",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised directed reading course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Directed reading courses require a signed agreement between the student and faculty member, as well as the approval of the undergraduate director."
+        },
+        {
+            "dept": "sosc",
+            "code": "3101",
+            "credit": 3.0,
+            "name": "Health and Development in the Global South ",
+            "prereqs": "",
+            "desc": "Explores health issues in the Third World, including the relationships between these health issues and the political economy of development. Particular attention is given to the study of the comparative health systems in Latin America, Asia and Africa."
+        },
+        {
+            "dept": "sosc",
+            "code": "3112",
+            "credit": 3.0,
+            "name": "Health, Storytelling and Media",
+            "prereqs": "",
+            "desc": "Our ideas about life, death, illness, health, as well as our own identities and experiences, are defined and expressed through stories. Story and storytelling have also been utilized by various groups as a medium through which to educate, persuade, and change people's health-related ideas and behaviours. Stories matter a great deal: they have the potential to hurt and to heal. Pre-requisites: AP/SOSC 1801 6.00/ 9.00, AP/SOSC 2110 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3115",
+            "credit": 3.0,
+            "name": "Selected Topics in Health and Society",
+            "prereqs": "",
+            "desc": "From time to time, depending on the availability of faculty, courses are offered dealing with topics of special interest to students in the Health and Society Program. Please consult the social science supplementary calendar for more details."
+        },
+        {
+            "dept": "sosc",
+            "code": "3118",
+            "credit": 3.0,
+            "name": "Drugs and Society",
+            "prereqs": "",
+            "desc": "Drug production and drug use often bring conflicts between those who enjoy or profit from them and those who deplore their effects. This course examines the forces behind these conflicts, their influence on public policies and some of their social consequences with a focus on both licit and illicit drugs, including opiates, pharmaceuticals, tobacco and cannabis."
+        },
+        {
+            "dept": "sosc",
+            "code": "3125",
+            "credit": 6.0,
+            "name": "Women Organizing",
+            "prereqs": "",
+            "desc": "Women have a long tradition of organizing to expand their rights, resist oppression, challenge and defend traditional values and to change their societies. This course documents and analyzes the patterns of women's activism using historical, cross-cultural and contemporary sources. Previously offered as: AP/WMST 3509 6.00, GL/WMST 3509 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3130",
+            "credit": 6.0,
+            "name": "Women and Work: Production and Reproduction",
+            "prereqs": "",
+            "desc": "Explores the conditions of women's work, paid and unpaid. The historical development of a sexual division of labour and the roles played by the family, employers, trade unions and government policy in the gendering of jobs is examined. Previously offered as: AP/WMST 3510 6.00, GL/WMST 3510 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3168",
+            "credit": 3.0,
+            "name": "Environmental Health",
+            "prereqs": "",
+            "desc": "This course analyses conflicts between health professionals, lay people, policy-makers and others over how environments cause diseases. Themes include problems of uncertainty, different perception of risk and science, problems of measurement, claims-making, the politics of pollution and citizen responses. \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Course credit exclusions: AS/SOSC 3164 6.00 (prior to Fall/Winter 2005-2006), AS/SOSC 3168 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3169",
+            "credit": 3.0,
+            "name": "Work and Health",
+            "prereqs": "",
+            "desc": "This course explores the relationship between work, labour, global markets and health. It draws on political-economy, feminist theory and other theories to consider how ideas about value, productive, and reproductive work interface with power, economy, society, and health in people's working lives. It examines how different work environments create conditions that result in particular patterns of disease and injury."
+        },
+        {
+            "dept": "sosc",
+            "code": "3170",
+            "credit": 3.0,
+            "name": "Women and Politics ",
+            "prereqs": "",
+            "desc": "This course examines women's political position in advanced capitalist countries. The focus is historical, theoretical and issue-oriented. Issues examined include the politics of racism, sexuality, reproduction, pornography within formal political structures and community organizing. \r\n\r\nCourse credit exclusions: AP/GL/GWST 3517 3.00, AP/POLS 3455 3.00, AP/SOSC 3175 3.00, AP/GL/WMST 3516 3.00 (prior to Fall 2013), AP/GL/WMST 3517 3.00 (prior to Fall 2013).\r\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Legal Regulation of Migrant Workers: Constructed Insecurity and Worker Resistance",
+            "prereqs": "",
+            "desc": "This course examines the legal regulation of transnational migrant workers in Canada, with an emphasis on the experiences of low-waged migrant workers from the global south. Drawing on international human rights law, federal and provincial immigration laws and public policies, the course examines the construction of insecurity for workers throughout their labour migration cycle."
+        },
+        {
+            "dept": "sosc",
+            "code": "3210",
+            "credit": 6.0,
+            "name": "The Working Class in Canadian Society",
+            "prereqs": "",
+            "desc": "Explores the changing nature of paid and unpaid work in Canada in the 19th and 20th centuries and the impact of those changes on Canadian society. Course credit exclusion: AP/HIST 3250 6.00. "
+        },
+        {
+            "dept": "sosc",
+            "code": "3211",
+            "credit": 6.0,
+            "name": "Working for Change: Research, Organizing and Communications",
+            "prereqs": "",
+            "desc": "This course equips students to engage with workplace, community and society-wide issues by developing strategic research, advocacy, communications and organizational skills. Participants work individually and in small groups to address typical issues confronting unions and other social movement organizations. The course provides opportunities for experiential education in researching strategic questions and designing campaigns for change."
+        },
+        {
+            "dept": "sosc",
+            "code": "3230",
+            "credit": 6.0,
+            "name": "Labour and Globalization: Building Worker Power",
+            "prereqs": "",
+            "desc": "Globalization has been a key force in the transformation of work and working conditions around the world. In an increasingly mobile world, this course introduces students to the key debates about globalization, the major forces transforming work, its uneven impacts around the globe and emerging strategies for workers justice.\nCourse credit exclusions: None."
+        },
+        {
+            "dept": "sosc",
+            "code": "3360",
+            "credit": 6.0,
+            "name": "Canadian Charter of Rights and Freedoms",
+            "prereqs": "",
+            "desc": "Uses historical and contemporary materials to examine the uses and role of law and legal institutions in the production and reproduction of social order. The focus throughout will be on the Canadian experience. Various analytic and methodological approaches will be discussed, and students will be encouraged to pursue original research in relevant substantive areas of their choice. Course credit exclusion: GL/POLS 3136 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3362",
+            "credit": 6.0,
+            "name": "Law, Medicine and Madness",
+            "prereqs": "",
+            "desc": "Examines key professional and social issues that shaped the relationship between law and psychiatry in Canada over the 20th century, with a focus on the social, institutional and conceptual history of madness."
+        },
+        {
+            "dept": "sosc",
+            "code": "3365",
+            "credit": 6.0,
+            "name": "Privacy and the Law",
+            "prereqs": "",
+            "desc": "Examines contemporary legal doctrines of privacy with special attention paid to the underlying socio-political transformations they embody. The course will examine in detail the dilemmas facing privacy law in the age of social media.\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3370",
+            "credit": 6.0,
+            "name": "Social Justice and Law",
+            "prereqs": "",
+            "desc": "Introduces students to different contemporary theories of social justice. The general objective is to bridge the gap between the philosophical literature on social justice and the legal and social science literature on questions of social policy. Course credit exclusions: AP/POLS 3250 6.00, AP/HREQ 3450 6.00, GL/SOCI 3920 6.00, GL/SOSC 3920 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3375",
+            "credit": 3.0,
+            "name": "Socio-legal Theories",
+            "prereqs": "sosc1375",
+            "desc": "Offers an overview of the major contemporary theoretical perspectives on law and society. Among the different approaches we consider are those that define law as a source of social and moral regulation, as ideology, and as discourse. Prerequisite: AP/SOSC 1375 3.00. Prerequisite or corequisite: AP/SOSC 2350 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3376",
+            "credit": 3.0,
+            "name": "Legal Pluralism ",
+            "prereqs": "sosc2350 sosc3360",
+            "desc": "This course introduces students to theories and methodological approaches to study the different types of interactions between multiple normative orders. It also seeks to familiarize students with contemporary debates in socio-legal studies around legal pluralism. The course will draw on a series of thematic case studies in Canada and beyond to illustrate these theoretical discussions.\r\nPrerequisite: AP/SOSC 2350 6.00\r\nCo-requisites: AP/SOSC 3360 6.00"
+        },
+        {
+            "dept": "sosc",
+            "code": "3380",
+            "credit": 6.0,
+            "name": "Law, Labour and the State",
+            "prereqs": "",
+            "desc": "Examines state regulation of relations between employers and workers by courts, legislatures, and administrative and quasi-judicial tribunals. It compares modern Canada's compulsory collective bargaining regime with the traditional legal view of master and servant."
+        },
+        {
+            "dept": "sosc",
+            "code": "3391",
+            "credit": 6.0,
+            "name": "Social Diversity and the Law",
+            "prereqs": "",
+            "desc": "Participants in this seminar examine legal responses to social diversity issues. Topics include struggles within and between social groups, economic classes, cultural communities, First Nations, racialized minority groups and people with disabilities."
+        },
+        {
+            "dept": "sosc",
+            "code": "3392",
+            "credit": 6.0,
+            "name": "International Perspectives in Law and Society: Ethnographies of Rights",
+            "prereqs": "",
+            "desc": "This course analyzes human rights from a legal anthropology perspective, and reflects on anthropologists' criticisms of international human rights activism and their contributions to human rights struggles. A key theme is cultural relativism and the universality of human rights."
+        },
+        {
+            "dept": "sosc",
+            "code": "3393",
+            "credit": 3.0,
+            "name": "Queering Law",
+            "prereqs": "sosc1375",
+            "desc": "Examines the ways in which law constructs lesbian, gay, bisexual, transgender and queer (LGBTQ) identities, focusing on the Canadian, American and global legal contexts. The course provides a theoretical grounding in socio-legal approaches to queer subjects and surveys major legal issues such as the criminal regulation of LGBTQ sexuality; same-sex relationship recognition, parenting and marriage; LGBTQ rights in migration and immigration; homophobia in education; and battles for LGBTQ human rights protection. The course systematically considers the relationships among gender, racialization and queer legal issues in comparative perspective and asks what it means to queer our understanding of law. Prerequisite: AP/SOSC 1375 3.00. Pre/Corequisite: AP/SOSC 2350 6.00. Open to: Law and Society majors."
+        },
+        {
+            "dept": "sosc",
+            "code": "3394",
+            "credit": 3.0,
+            "name": "Law and Games",
+            "prereqs": "sosc1375 sosc2350",
+            "desc": "This course introduces students to the interdisciplinary study of law and games of all sorts: from tag, to sports, to online games. It explores what games teach us about legal processes, and what the study of law reveals about the dynamics of games. Students will use socio-legal approaches to examine game-related topics and their cultural, social, economic and political dimensions.\nPrerequisites:  AP/SOSC 1375 3.00 and  AP/SOSC 2350 6.00\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3480",
+            "credit": 6.0,
+            "name": "Culture, Democracy and Development in Africa",
+            "prereqs": "",
+            "desc": "Explores the complex interplay of political, social and cultural forces at work in Africa' communities, nations and regions. Of particular interest is the often ignored capacity of African culture to generate change and solve the problems of development."
+        },
+        {
+            "dept": "sosc",
+            "code": "3481",
+            "credit": 6.0,
+            "name": "An Introduction to African Diasporas: Identities and Practices",
+            "prereqs": "",
+            "desc": "Provides historical and conceptual investigations of the African diaspora: from autonomous Africa, the contact between Europeans and Africa, the slave trade, to contemporary migration movements within the historical African diaspora, and the more recent movements from the continent."
+        },
+        {
+            "dept": "sosc",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "The Global Information Society",
+            "prereqs": "",
+            "desc": "Examines current national information societies and their possible transformation into a global information society by analyzing the interplay between the causes for the globalization of information and communication technologies, as well as the societal impact of these technologies."
+        },
+        {
+            "dept": "sosc",
+            "code": "3515",
+            "credit": 6.0,
+            "name": "Social and Political Thought: East and West",
+            "prereqs": "",
+            "desc": "The course aims to compare and contrast the social and political ideas of East Asian and Western thought in both ancient and contemporary perspectives. It examines classical Chinese thinkers such as Laozi, Zhuangzi, and Confucius alongside Greek thinkers Heraclitus, Plato, and Socrates through a close textual analysis of selections of their most relevant writings. Through group-based discussions directed toward the learning objectives of critical thinking, reading, and writing, the class focusses on topics which are still important for the modern world including the origins of the concepts of society, politics, civilization, the mind, the body, the state, knowledge, and nature."
+        },
+        {
+            "dept": "sosc",
+            "code": "3543",
+            "credit": 6.0,
+            "name": "Introduction to Gender and Development: Key Themes in Critique and Practice",
+            "prereqs": "",
+            "desc": "Introduces students to the history, theory and practice of gender and development as an aspect both of the enterprise of Third World development, and of the conceptual and applied fields of feminist studies."
+        },
+        {
+            "dept": "sosc",
+            "code": "3544",
+            "credit": 3.0,
+            "name": "Deconstructing Human Trafficking",
+            "prereqs": "",
+            "desc": "A course that critically examines debates and approaches to cross-border human migrations that include the forced trade and exploitation of sexual and other types of labour. International and national anti-trafficking laws, policies, and actions are studied alongside underlying causes, and links between human trafficking, slavery, bonded labour, and prostitution. Course credit exclusion: AP/SOSC 3544 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3552",
+            "credit": 6.0,
+            "name": "Political Economy as a Moral Science: The Economics of Marx and Keynes",
+            "prereqs": "",
+            "desc": "The course develops a conception of &quot;political economy&quot; as a &quot;moral science&quot; through study of the economics of Karl Marx and John Maynard Keynes. It also explores the relation of the conception to German idealist philosophy and psychoanalytic psychology."
+        },
+        {
+            "dept": "sosc",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Psychology and Law",
+            "prereqs": "psyc2510",
+            "desc": "Laws and court decisions are based on assumptions about human behaviour and its causes. The validity of these assumptions can be appraised with the methods of social science. Topics will include the fallibility of the eyewitness, jury decisions, the trustworthiness of hearsay and police evidence. Prerequisite: GL/PSYC 2510 6.00. Course credit exclusion: HH/PSYC 3310 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3621",
+            "credit": 3.0,
+            "name": "Canada in Global Perspective/Le Canada, perspective globale",
+            "prereqs": "",
+            "desc": "This course will examine the impact of globalization on Canada and Canadians. It will focus on international economic forces and the influence they exert on the Canadian economy, on domestic politics and on social relations within Canada./Le cours examine l'impact de la mondialisation sur le Canada et sur les canadiens. Il explore principalement les forces \u00e9conomiques qui sont en jeu et l'influence qu'elles exercent sur l'\u00e9conomie canadienne, sur la politique nationale et sur les relations sociales \u00e0 l'int\u00e9rieur du pays."
+        },
+        {
+            "dept": "sosc",
+            "code": "3638",
+            "credit": 3.0,
+            "name": "Sexe, amour et famille : enjeux en \u00e9thique, droit et pens\u00e9e sociale",
+            "prereqs": "",
+            "desc": "Ce cours explore des enjeux normatifs concernant la sph\u00e8re de l\u0092intimit\u00e9 et des relations personnelles. Nous examinerons de mani\u00e8re critique, et d\u0092une perspective philosophique, diff\u00e9rentes id\u00e9es, normes sociales, lois et politiques autour du sexe, de l\u0092amour, de l\u0092amiti\u00e9 et des relations familiales."
+        },
+        {
+            "dept": "sosc",
+            "code": "3638",
+            "credit": 3.0,
+            "name": "Sex, Love, and the Family: Issues in Ethics, Law and Social Thought",
+            "prereqs": "",
+            "desc": "This course explores key normative issues concerning the sphere of human intimacy and close relationships. Social norms, laws, and policies regulating sex, romance, friendship, and familial relationships will be critically examined from a philosophical perspective."
+        },
+        {
+            "dept": "sosc",
+            "code": "3639",
+            "credit": 3.0,
+            "name": "Climate Change: Ethical and Political Issues",
+            "prereqs": "",
+            "desc": "This course investigates ethical and political issues raised by climate change, from a normative philosophical perspective. Students explore fundamental and applied questions concerning the nature of our individual and collective obligations to mitigate and adapt to climate change and how to meet those obligations. "
+        },
+        {
+            "dept": "sosc",
+            "code": "3642",
+            "credit": 3.0,
+            "name": "Business Ethics",
+            "prereqs": "",
+            "desc": "This course examines some contemporary issues in business ethics such as the ethical justification of the free market, corporate responsibility, deceptive advertising, business and the environment, preferential hiring practices and whistleblowing. Course credit exclusion: AP/PHIL 3050 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3645",
+            "credit": 6.0,
+            "name": "Socialization: Negotiating Relationships and Identities     ",
+            "prereqs": "",
+            "desc": "Within a broadly semiotic framework, the processes of socialization and personality development are examined from the standpoints of the symbolic interactionist and psychoanalytic theories respectively and with reference to such meta-theoretical debates as those among biologism, environmentalism, existentialism, structuralism and post-structuralism. Course credit exclusion: AP/SOCI 3420 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3647",
+            "credit": 3.0,
+            "name": "M\u00e9dias et politiques",
+            "prereqs": "",
+            "desc": "Ce cours vise \u00e0 analyser de fa\u00e7on critique les enjeux du paysage m\u00e9diatique actuel et les liens avec le domaine politique. Les th\u00e8mes abord\u00e9s sont les suivants : m\u00e9dias et propagande, nouvelles technologies et information continue, concentration de la presse et d\u00e9bats d\u00e9mocratiques, mondialisation et standardisation."
+        },
+        {
+            "dept": "sosc",
+            "code": "3648",
+            "credit": 3.0,
+            "name": "Music and Culture in Global Perspective ",
+            "prereqs": "",
+            "desc": "This course surveys music traditions and practices of diverse cultures and regions, through the perspective of ethnomusicology. Guided listening is a key component of lectures, which will also consider social context, identify, and diaspora, and issues of transnationalism and globalization."
+        },
+        {
+            "dept": "sosc",
+            "code": "3649",
+            "credit": 3.0,
+            "name": "Sociology of Emotions: From the Intimate to the Political",
+            "prereqs": "",
+            "desc": "This course focuses on the social nature of emotions to understand better the forces that motivate our individual conducts, the behaviour of large groups and social movements. Students will examine the major sociological approaches to the study of emotions.\r\nCourse credit exclusions: GL/SOCI 3551 6.00 (EN), GL/SOCI 3551 6.00 (FR) (prior to Fall 2014)."
+        },
+        {
+            "dept": "sosc",
+            "code": "3652",
+            "credit": 3.0,
+            "name": "Ethnographies of Crime and Policing",
+            "prereqs": "",
+            "desc": "This course reviews the application of the ethnographic method to the study of crime and policing, and explores changes in the organization of policing in democratic countries from the mid-20th century to the present."
+        },
+        {
+            "dept": "sosc",
+            "code": "3654",
+            "credit": 3.0,
+            "name": "The Politics of Crime Prevention",
+            "prereqs": "",
+            "desc": "This course situates the politics of crime prevention practice and security provision by reference to their underlying philosophies (e.g. rational choice theory, broken windows, etc.) and secondly with regard to specific examples of the practical design and implementation of crime prevention initiatives and security provision. Course credit exclusion: AP/SOSC 3654 6.00; AP/CRIM 2651 3.00, AP/SOSC 2651 3.00. Previously offered as: AP/SOSC 3654 6.00, AP/CRIM 3654 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3655",
+            "credit": 3.0,
+            "name": "Policing",
+            "prereqs": "",
+            "desc": "Examines theory and research on policing. Attention is paid to the roles of both state and non-state agencies, institutions, and professions in policing subjectivities and bodies. Students will engage with criminological debates about the role of policing in contemporary society and with current controversies in policing strategies. Course credit exclusions: AP/SOSC 2651 3.00, AP/CRIM 2651 3.00.\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3656",
+            "credit": 3.0,
+            "name": "Punishment",
+            "prereqs": "",
+            "desc": "Examines theory and research on punishment. Attention is paid to the roles of both state and non-state agencies, institutions, and professions in punishing subjectivities and bodies. The course reveals, examines and unsettles the prison-punishment nexus through critical engagement with a range of interdisciplinary empirical and theoretical literatures. Course credit exclusions: AP/CRIM 3652 3.00, AP/SOCI 3652 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3657",
+            "credit": 3.0,
+            "name": "Youth Crime",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines youth crime and the Canadian youth criminal justice system. Specifically, the course investigates: the history of the concept of delinquency; criminological approaches to youth criminality and to the legal/moral regulation of youth; the impact of the family, schools, peers and the mass media on youth crime; and youth justice policies and alternatives. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "3658",
+            "credit": 3.0,
+            "name": "Crime, Science, and Technology",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines how science and technology have altered the terrain of criminal justice and criminology. It focuses not only on the ways in which criminology has been constructed as a science, but also the ways in which technology has created new crimes, new forms of identity (e.g. data doubles), and new spaces that need to be policed (e.g. cyberspace). Topics include fingerprinting, DNA testing, biometrics, surveillance technologies, the regulation of mobilities, the use of robots, and cybercrime. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "3660",
+            "credit": 6.0,
+            "name": "Crime and Development in the Global South",
+            "prereqs": "",
+            "desc": "Crime and Development is an interdisciplinary course that examines the interlinkages between criminality and development in the Global South. It begins with an overview of a variety of theoretical perspectives on the crime-development nexus followed by an application of these theories to understand the impact of social change on crime as well as the effects of criminality on development.\nPre-requisite: AP/SOSC1650 9.00, AP/SOSC1650 6.00 or AP/SOSC2800 6.00"
+        },
+        {
+            "dept": "sosc",
+            "code": "3663",
+            "credit": 3.0,
+            "name": "Gender and Crime",
+            "prereqs": "sosc1650 crim1650",
+            "desc": "This course examines the relationship between gender, crime, and the criminal justice system. Drawing on feminist interdisciplinary scholarship, the course engages with the intersections between gender, race, class and sexuality to critically assess the ways these affect agents of criminal justice and the broader patterns of offending, victimization, and imprisonment. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "3665",
+            "credit": 6.0,
+            "name": "Femmes et mondialisation",
+            "prereqs": "",
+            "desc": "Ce cours porte sur la situation des femmes dans un contexte de mondialisation. Il traite de l'impact de la mondialisation sur les conditions de vie des femmes aux niveaux local et international et analyse leur capacit\u00e9 \u00e0 s'auto-organiser economiquement et politiquement. \r\nOffert pr\u00e9c\u00e9demment comme suit: AP/WMST 3503 6.00, GL/WMST 3503 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3670",
+            "credit": 6.0,
+            "name": "Le multiculturalisme et l'ethnicit\u00e9 au Canada  ",
+            "prereqs": "",
+            "desc": "L'objectif du cours est de comprendre la notion de l'ethnicit\u00e9 et du multiculturalisme et leurs implications pour le Canada. Apr\u00e8s un examen historique des fondements de l'ethnicit\u00e9, le cours \u00e9tudiera les politiques gouvernementales vis-\u00e0-vis l'immigration et le racisme. Enfin, nous examinerons par quels moyens les communaut\u00e9s ethno-culturelles s'organisent aujourd'hui et les implications pour l'avenir du Canada. Cours incompatibles : GL/ILST/HIST 3015 3.00 (Hiver 2003)."
+        },
+        {
+            "dept": "sosc",
+            "code": "3672",
+            "credit": 3.0,
+            "name": "Capital humain, capital social et croissance \u00e9conomique",
+            "prereqs": "",
+            "desc": "Le cours propose d'examiner le capital humain comme facteur de croissance \u00e9conomique ainsi que les liens entre capital humain et capital social afin d'expliquer les disparit\u00e9s de croissance \u00e9conomique des pays de l'OCDE. Ce cours empruntera une perspective internationale.\r\nCondition pr\u00e9alable : GL/ECON 1000 3.00 et GL/ECON 1010 3.00.Cours incompatibles : AP/ECON 3550 3.00.\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3674",
+            "credit": 3.0,
+            "name": "Cultures qu\u00e9b\u00e9coise et francophone canadienne",
+            "prereqs": "",
+            "desc": "Ce cours examine l'\u00e9volution des cultures qu\u00e9b\u00e9coise et francophone canadienne par l'entremise d'une approche pluridisciplinaire. Le roman, le cin\u00e9ma, la culture populaire, et la chanson y seront, entre autres, abord\u00e9s pour analyser les enjeux culturels et identitaires au Qu\u00e9bec et dans la francophonie canadienne, pass\u00e9 et pr\u00e9sent."
+        },
+        {
+            "dept": "sosc",
+            "code": "3692",
+            "credit": 6.0,
+            "name": "Theories of Society",
+            "prereqs": "",
+            "desc": "A comparative study of significant contributions to sociological theory, based on an intensive reading of such authors as Durkheim, Weber, Marx, Simmel, Freud, Cooley, Mead, Parsons, Berger and Goffman. PRIOR TO FALL 2013: course credit exclusion: AP/SOCI 3330 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3701",
+            "credit": 3.0,
+            "name": "Urban Analysis I: Developing a Research Proposal",
+            "prereqs": "sosc2710",
+            "desc": "The aim of this course is to equip students with the knowledge to conduct research and develop a research proposal. The course introduces students to the practice of urban research, exploring theoretical assumptions, research ethics and methods, both quantitative and qualitative. The course has two segments, both analogous to the phases of the pre-field research process: (1) a discussion of theoretical approaches to urban analysis and how these view the city differently, as well as an exploration of research ethics; (2) an exploration of different research methods. The course includes a compulsory three-day field trip to Buffalo, in which students visit a variety of neighbourhoods and institutions, and meet with other students, teachers, community groups and policy makers. Note: Canadian citizens require a valid passport to enter the US; non-Canadians may require a visa. The cost for this trip is approximately $200. Prerequisite: AP/SOSC 2710 9.00. PRIOR TO FALL 2016: Course credit exclusion: AP/SOSC 3700 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3702",
+            "credit": 3.0,
+            "name": "Urban Analysis II: Research Project",
+            "prereqs": "sosc3701 sosc2710",
+            "desc": "The aim of this course is to equip students with the knowledge to conduct research. Students conduct their own original research. The course introduces students to the practice of urban research, data analysis, both quantitative and qualitative, and writing up research results to produce a research report. The course has two segments, analogous to the phases of the research process: (1) field work, in which students collect their own data (2) post field work in which students explore techniques of research analysis and analyse their own data. The course concludes with students presenting their research results. Prerequisites: AP/SOSC 3701 3.00, AP/SOSC 2710 9.00. PRIOR TO FALL 2016: Course credit exclusion: AP/SOSC 3700 6.00 or permission of the Instructor.\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3711",
+            "credit": 3.0,
+            "name": "Theory and Practice of Urban Planning I: Ideas and Themes",
+            "prereqs": "",
+            "desc": "Provides a general introduction to planning theory and practice. Specific emphasis will be placed on the rationale for planning, the history of planning and theoretical aspects of the planning process. PRIOR TO FALL 2016: Course credit exclusion: AP/SOSC 3710 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3712",
+            "credit": 3.0,
+            "name": "Theory and Practice of Urban Planning II: Planning Workshop",
+            "prereqs": "",
+            "desc": "A general introduction to planning practice. Specific emphasis will be placed on technical aspects of planning including planning regulations, site analysis and problem resolution. PRIOR TO FALL 2016: Course credit exclusion: AP/SOSC 3710.60. Prerequisite: AP/SOSC 3711 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3714",
+            "credit": 3.0,
+            "name": "Cities and Climate Change: The Challenge of Urban Resilience",
+            "prereqs": "",
+            "desc": "Cities face many challenges, but climate change presents some of the most urgent demands on governance, policy, and planning cities have ever experienced. Social inequalities are heightened in crises and are often determinative of success or failure in survival. This course examines the concept of resilience, asking how cities can pursue resilience in a context of climate uncertainty. Open to: Urban Studies majors and others as space permits."
+        },
+        {
+            "dept": "sosc",
+            "code": "3715",
+            "credit": 3.0,
+            "name": "The Urban Professional",
+            "prereqs": "",
+            "desc": "This course focuses on professional development with emphasis on professionalism, networking, ethical awareness, work-life balance and broadening the students' skillset to make an effective transition from academia to a career in the urban field. The course helps students develop both hard skills such as technical writing and soft skills such as communication, problem solving, and time management. Open to: Urban Studies students. Non-Urban Studies students can enrol with permission from Instructor."
+        },
+        {
+            "dept": "sosc",
+            "code": "3718",
+            "credit": 3.0,
+            "name": "Introduction to Urban Design: Critical Issues in Shaping Urban Space",
+            "prereqs": "",
+            "desc": "Explores Urban Design as the intentional shaping of urban space. It questions the assumption that Urban Design is a purely aesthetic exercise and considers it instead to be a realm of city-building that is always political, social, cultural, economic and environmental. Case studies from urban regions around the world are critically examined. Open to: Urban Studies students, others as space permits."
+        },
+        {
+            "dept": "sosc",
+            "code": "3719",
+            "credit": 3.0,
+            "name": "Mapping the City: Understanding Urban Spatial Representations",
+            "prereqs": "",
+            "desc": "How is the city visually known? Visual representations can tell us much about urban places that traditional social science modes of analysis fail to communicate. In this course we explore conceptual issues of representation and various ways of formally and informally representing the city, including historical and contemporary map-making, exploring spatial technologies from GIS to graffiti. "
+        },
+        {
+            "dept": "sosc",
+            "code": "3720",
+            "credit": 3.0,
+            "name": "Cities in Film",
+            "prereqs": "",
+            "desc": "This course analyzes representations of the city and urban social life in cinema. Students critically examine the ways in which filmmakers use urban landscapes to convey ideas about city life, urban histories, and urban futures. PRIOR TO FALL 2016: Course credit exclusions: AP/SOSC 4730 3.00. "
+        },
+        {
+            "dept": "sosc",
+            "code": "3726",
+            "credit": 3.0,
+            "name": "Technology, Experts and Society",
+            "prereqs": "",
+            "desc": "A critical examination of the introduction and adoption of new technologies and the rise of expert knowledge. Specific historical examples of modern technologies will be considered in order to explore the relationship between society and technology."
+        },
+        {
+            "dept": "sosc",
+            "code": "3742",
+            "credit": 3.0,
+            "name": "Selected Topics in Urban Studies",
+            "prereqs": "",
+            "desc": "From year to year, special opportunities arise for unique offerings in urban studies across disciplinary lines, depending on the availability of faculty. Please consult the Social Science supplementary calendar for more details. \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Course credit exclusions: AS/SOSC 3740B 3.00 (prior to Fall/Winter 2003-2004), AS/SOSC 3742 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3745",
+            "credit": 3.0,
+            "name": "Urban Governance, Politics, and Policy",
+            "prereqs": "",
+            "desc": "This course analyses the theory and practice of urban policy formation and implementation in Canada, with particular attention to Toronto. The course is interdisciplinary, using the approaches of political science, public administration, economics, and geography. The first half of the course examines the structures of local government, local politics, and how policy is formulated, with particular attention to intergovernmental issues and local public finance. The second half examines four issues as case studies: transportation; affordable housing; income inequality; and urban planning/zoning."
+        },
+        {
+            "dept": "sosc",
+            "code": "3755",
+            "credit": 3.0,
+            "name": "Hip Hop and the City",
+            "prereqs": "",
+            "desc": "Explores urban space and urban issues through the lens of hip hop culture. Topics include public space and the arts, race and identity, gender and sexuality, crime and policing, and globalization and the global city. Traces the origins of hip hop in the US while using Toronto as a laboratory to understand the relationship between hip hop and Canadian urbanism. Not open to: students in first- and second-year."
+        },
+        {
+            "dept": "sosc",
+            "code": "3760",
+            "credit": 3.0,
+            "name": "The Toronto Urban Region: Community, Environment, and Planning",
+            "prereqs": "",
+            "desc": "Examines the spatiality of Toronto's rapid growth in recent decades, the forces shaping emerging regional issues, the policy tensions between economic competitiveness, environmental sustainability, social cohesion, access and equity, and the planning responses addressing these issues. Course credit exclusion: AP/SOSC 3760 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3800",
+            "credit": 6.0,
+            "name": "Development Studies and Research Methods",
+            "prereqs": "sosc2800",
+            "desc": "Provides students with an intensive knowledge of development research and the ethical and philosophical issues related to development research. It focuses on qualitative and quantitative methods, enabling students to develop both types of skills. Prerequisite: AP/SOSC 2800 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "3801",
+            "credit": 6.0,
+            "name": "Professional Skills for International Development",
+            "prereqs": "",
+            "desc": "This course focuses on the skills and knowledge needed for working in the international development sector both in Canada and internationally. Students learn how international development works in practice and can explore career options in the international development sector. Students develop skills in project design and implementation, proposal writing, fundraising, intercultural communication, budgeting and project evaluation.\r\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "3802",
+            "credit": 3.0,
+            "name": "Policy Making in Context: Development and Sustainability",
+            "prereqs": "",
+            "desc": "Explores the relationship between sustainability and policy processes through the examination of policy debates around key development issues. A case study approach is used to explore real-life examples in agri-food system governance, livelihoods, watershed management, and energy policy processes."
+        },
+        {
+            "dept": "sosc",
+            "code": "3815",
+            "credit": 3.0,
+            "name": "Inequality and the Canadian Labour Market ",
+            "prereqs": "",
+            "desc": "How labour market restructuring since the 1980s has impacted income and wealth inequality, and social inequality more generally, will be examined throughout the course. Students will also discuss and engage in a series of class debates on policy issues including training, welfare-to-work polices, mandatory retirement, redistributive policies, labour market policy towards new immigrants, school-to-work transitions and tax policy. "
+        },
+        {
+            "dept": "sosc",
+            "code": "3981",
+            "credit": 3.0,
+            "name": "Diversity, Justice and Solidarity at Work",
+            "prereqs": "",
+            "desc": "This course examines diversity, justice and solidarity at work, including demands for equity and inclusion, trade union and human rights initiatives. Examples of Canadian and international labour market inequalities are explored, including the strategies adopted by community and labour organizations to achieve social, political and economic justice.\n\nCourse credit exclusions: None.  \nPRIOR TO FALL 2009: Course credit exclusions: AS/SOSC 3981 3.00, AS/SOSC 3990R 3.00 (prior to Fall/Winter 2003-2004)."
+        },
+        {
+            "dept": "sosc",
+            "code": "3982",
+            "credit": 3.0,
+            "name": "Work-Life Balance in a Global Economy",
+            "prereqs": "",
+            "desc": "Work-life balance (WLB) has emerged as a new area of global labour market policy. WLB policies aim to reconcile the rift between the organization of paid and unpaid work in an effort to improve collective health and well-being. Students will explore the historical context in which WLB emerged in Canada and around the globe and critically evaluate various approaches to managing WLB."
+        },
+        {
+            "dept": "sosc",
+            "code": "3992",
+            "credit": 6.0,
+            "name": "Popular Trials",
+            "prereqs": "",
+            "desc": "Examines popular trials as events that generate public interest and as occasions for the dramatization of social norms. The conceptual tools developed in the first part of the course are used later to analyze several historically significant trials."
+        },
+        {
+            "dept": "sosc",
+            "code": "3993",
+            "credit": 3.0,
+            "name": "Strategies of Social Science Research",
+            "prereqs": "",
+            "desc": "This is a course in critical social science methodology, designed to improve students' abilities to read and evaluate social research. Among the strategies considered and compared are: ethnography; historical method; survey research; case studies; text analysis; and action research. \r\nCourse credit exclusions: AP/SOSC 3363 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Social Sciences (General) in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Social Sciences in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Social Sciences in the intermediate and senior grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "sosc",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Topics in Social Science Research",
+            "prereqs": "sosc2000",
+            "desc": "This course is one of two capstone options for students pursuing an Honours degree in the Interdisciplinary Social Science Program. Building on the critical skills, theoretical grounding and understanding of interdisciplinary research approaches established in early stages of the program, students have an opportunity here to develop their own research projects relating to a relevant topic in social science.\r\nPrerequisite: AP/SOSC 2000 6.00.\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Social Sciences (General) in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Social Sciences in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Social Sciences areas in order to further develop students' expertise for teaching this subject. ED/SOSC4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "sosc",
+            "code": "4003",
+            "credit": 6.0,
+            "name": "Phenomenology for Social Science",
+            "prereqs": "sosc2000",
+            "desc": "As the critical study of appearances, experiences and interpretations, phenomenology provides both method and theory for social scientific inquiry. Edmund Husserl, Martin Heidegger and Maurice Merleau-Ponty are pillars of phenomenology who offer complementary strategies for comparing and contrasting divergent life-worlds at everyday and societal levels. Topics include bracketing, the clearing, and the visible and invisible.\r\nPrerequisites: AP/SOSC 2000 6.00"
+        },
+        {
+            "dept": "sosc",
+            "code": "4040",
+            "credit": 6.0,
+            "name": "Issues in Business and Society",
+            "prereqs": "",
+            "desc": "An in-depth examination of issues involved in the relationship between business and society in Canada and in the global economy, including the impact of managerial and technological innovation, investment and marketing decisions and government policy."
+        },
+        {
+            "dept": "sosc",
+            "code": "4043",
+            "credit": 6.0,
+            "name": "Corporate Governance and Business Law in Comparative Context",
+            "prereqs": "",
+            "desc": "Examines intersections between business and the law. Particular attention is paid to the nature of the firm and corporate governance, governance structures in a comparative context, and recent and controversial issues regarding the relationship between business and the law."
+        },
+        {
+            "dept": "sosc",
+            "code": "4044",
+            "credit": 6.0,
+            "name": "Ethics and Economics",
+            "prereqs": "sosc2340 sosc2349",
+            "desc": "This course looks at the relationship between ethics and economics both in the historical development of the &quot;political economy&quot; and in modern &quot;economics&quot;. Both symbioses and tensions between economics and ethics will be explored. Prerequisites: AP/SOSC 2340 6.00 or AP/SOSC 2349 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4045",
+            "credit": 6.0,
+            "name": "Business, Communications and Society",
+            "prereqs": "",
+            "desc": "This course is a critical analysis of the relationships among business, information and communications technologies, and communications media. Particular attention is paid to the importance of communications issues to the study of business and society, especially from the standpoint of ethical and policy analysis.\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "4047",
+            "credit": 6.0,
+            "name": "The Business of Neoliberal Globalisation",
+            "prereqs": "",
+            "desc": "This course is designed for students taking the Global Economy stream in Business &amp; Society. It introduces students to different theories of globalisation and specifically to those theories based on free market ideology, politics and policies. It involves seminar-based and group-based learning as students evaluate the specific implications of neoliberalism to particular countries, industries and social groups.\r\nOpen to: Business &amp; Society (BUSO) majors in Global Economy Stream (and other BUSO students with permission)."
+        },
+        {
+            "dept": "sosc",
+            "code": "4099",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised directed reading course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Directed reading courses require a signed agreement between the student and faculty member, as well as the approval of the undergraduate director."
+        },
+        {
+            "dept": "sosc",
+            "code": "4099",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised directed reading course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Directed reading courses require a signed agreement between the student and faculty member, as well as the approval of the undergraduate director."
+        },
+        {
+            "dept": "sosc",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Individual Studies         ",
+            "prereqs": "",
+            "desc": "Students do independent reading and/or research under the guidance of one or several members of the faculty. Permission of the Chair of the department is required."
+        },
+        {
+            "dept": "sosc",
+            "code": "4101",
+            "credit": 6.0,
+            "name": "Interdisciplinary Capstone Project",
+            "prereqs": "",
+            "desc": "The Interdisciplinary Capstone Project course brings together upper-year undergraduate and Master level students from faculties across the university to work together in multi-disciplinary teams on pressing, &quot;real-world&quot; challenges, which are posed by organizations operating in both the for-profit and not-for-profit worlds. They research, design, test and reflect on potential solutions to their challenge that build on their existing skills and knowledge within their disciplines."
+        },
+        {
+            "dept": "sosc",
+            "code": "4140",
+            "credit": 6.0,
+            "name": "Health and Society Seminar",
+            "prereqs": "sosc2110 sosc2150",
+            "desc": "This research seminar examines theoretical and applied problems in health and society. It introduces students to a variety of research methods and evaluative skills, which they apply in their own analysis of a particular problem. The subject of the course will vary yearly. \r\nPrerequisites: the completion of at least 84 credits, including AP/SOSC 2110 6.00 or AP/SOSC 2150 9.00, or written permission of the instructor. Course credit exclusions: None.  \r\n\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/SOSC 4140 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4141",
+            "credit": 3.0,
+            "name": "Women and Health",
+            "prereqs": "sosc2110 sosc2150",
+            "desc": "The goal of this course is to research the area of women and health with a particular emphasis on the relationship between biological and socio-cultural conceptions of women's health with an emphasis on the varying experiences of different women.\nPrerequisites: the completion of at least 84 credits, including AP/SOSC 2110 6.00 or AP/SOSC 2150 9.00, or written permission of the instructor. "
+        },
+        {
+            "dept": "sosc",
+            "code": "4142",
+            "credit": 3.0,
+            "name": "Health, Medicine and Creative Resistance",
+            "prereqs": "sosc2110 sosc2150",
+            "desc": "This course considers the way in which researchers and practitioners have used arts-based methods and methodologies in order to engage communities, disseminate findings and intervene in critical issues related to health. Students will examine how creative resistance can function as a powerful tool for social change and a necessary component in knowledge creation and translation. We will explore examples of health-related art stemming from existing creative practices in addition to art created explicitly for the purposes of health promotion and intervention. We will also consider art produced in the context of disability and crip cultural movements and think through how this work informs interdisciplinary health studies. We will consider both the exciting possibilities of arts-based approaches to the study of health, medicine and disability as well as the ways in which creative labour can be appropriated by neoliberal institutions. Students will have an opportunity to think through core questions regarding the innovations and limitations related to the use of art in health research and practice.\nPrerequisites: the completion of at least 84 credits, including AP/SOSC 2110 6.00 or AP/SOSC 2150 9.00, or written permission of the Instructor."
+        },
+        {
+            "dept": "sosc",
+            "code": "4144",
+            "credit": 6.0,
+            "name": "Engaging Health in the Community: Advanced Health Research in the Field",
+            "prereqs": "sosc3393 sosc2110 sosc2150",
+            "desc": "This course applies academic knowledge of health, health advocacy, and health care systems to experience in community settings through classroom study and the application of social science research methods in student placements in health-related organizations and agencies. Prerequisites: AP/SOSC 3393 3.00 and AP/SOSC 2110 6.00 or AP/SOSC 2150 9.00, and the completion of 84 credits, or permission of the Instructor. Students who wish to enrol in this course must file, in the spring prior to taking the course, an application form available from the Health and Society Program Assistant and will be interviewed prior to being accepted into the course."
+        },
+        {
+            "dept": "sosc",
+            "code": "4200",
+            "credit": 0.0,
+            "name": "Work Placement",
+            "prereqs": "",
+            "desc": "This not-for-credit experiential education course provides students the opportunity to analyze and apply the knowledge, skills and competencies gained in the classroom in a professional environment and to reflect on the relationship between theory and practice. Note: This course cannot be used to satisfy the general education requirement."
+        },
+        {
+            "dept": "sosc",
+            "code": "4210",
+            "credit": 6.0,
+            "name": "Mediation, Arbitration and Conflict Resolution",
+            "prereqs": "",
+            "desc": "Provides students who have academic or experiential background in industrial relations with the opportunity to increase their knowledge of collective bargaining, labour-management relationships and internal union and management decision-making processes through a year-long simulation. Prerequisite: a university-level course in the labour relations field, or permission of the Instructor."
+        },
+        {
+            "dept": "sosc",
+            "code": "4240",
+            "credit": 6.0,
+            "name": "Labour Studies Placement",
+            "prereqs": "",
+            "desc": "This course places labour studies students in internships with unions and other work-related organizations. Students gain in-depth knowledge of one organization, learn about the nature of industrial relations employment, and share their experiences with other students."
+        },
+        {
+            "dept": "sosc",
+            "code": "4260",
+            "credit": 6.0,
+            "name": "Global Living Wage Movements",
+            "prereqs": "",
+            "desc": "Broadly comparative, this course uses Canada as a focal point and basis of global comparison. It evaluates both the historical and contemporary development of living wage movements, and the economic, social and political features that have shaped its variations across the Global North and South. "
+        },
+        {
+            "dept": "sosc",
+            "code": "4350",
+            "credit": 6.0,
+            "name": "Law and Society Honours Seminar",
+            "prereqs": "sosc2350",
+            "desc": "This course, limited to and required of law and society students, examines theories and practice relating to the interaction of law and society, depending on student and faculty interest in one or other specific topics. Prerequisite: AP/SOSC 2350 6.00 with a minimum of C+."
+        },
+        {
+            "dept": "sosc",
+            "code": "4351",
+            "credit": 6.0,
+            "name": "Law and Society Honours Seminar: Indigenous Peoples and Law",
+            "prereqs": "sosc2350",
+            "desc": "Examines traditional foundations of aboriginal law, the impact of colonization on Indigenous law ways, and current socio-legal issues in Indigenous communities. Prerequisite: AP/SOSC 2350 6.00 with a minimum of C+."
+        },
+        {
+            "dept": "sosc",
+            "code": "4352",
+            "credit": 6.0,
+            "name": "Law and Society Honours Seminar: Social Dimensions of Criminal Law",
+            "prereqs": "sosc2350",
+            "desc": "This course seeks to look at concepts and principles that underlie the norms of contemporary criminal law to bring out its moral and social dimensions. These concepts and principles are illustrated by analyzing selected legal cases. Prerequisite: AP/SOSC 2350 6.00 with a minimum of C+."
+        },
+        {
+            "dept": "sosc",
+            "code": "4354",
+            "credit": 6.0,
+            "name": "Law and Society Honours Seminar: Paradoxes of Rights",
+            "prereqs": "sosc2350",
+            "desc": "Selected themes revolve around human rights and social change, including how various communities employ rights discourse as part of socio-political struggles. Prerequisite: AP/SOSC 2350 6.00 with a minimum of C+."
+        },
+        {
+            "dept": "sosc",
+            "code": "4356",
+            "credit": 6.0,
+            "name": "Law and Society Honours Seminar: Globalization, Law &amp; Democracy",
+            "prereqs": "sosc2350",
+            "desc": "Examines the effects of globalization on law and legal authority, with a particular focus on the influence of globalization on state regulation and the international system. Prerequisite: AP/SOSC 2350 6.00 with a minimum of C+."
+        },
+        {
+            "dept": "sosc",
+            "code": "4357",
+            "credit": 6.0,
+            "name": "Law and Society Honours Seminar: Explorations in Sociolegal History",
+            "prereqs": "sosc2350",
+            "desc": "This course engages students in the historical study of a topic in law and society through background reading, discussion, and exercises with historical documents. Students then propose, research, write and present research papers using archival and other primary sources.\r\nPrerequisite: AP/SOSC 2350 6.00 with a minimum of C+."
+        },
+        {
+            "dept": "sosc",
+            "code": "4360",
+            "credit": 6.0,
+            "name": "Law and Society Honours Seminar: Social Movements and Legal Mobilization",
+            "prereqs": "sosc2350",
+            "desc": "&quot;Does law matter? Do court decisions make a difference? Does legal change lead to social change? This course explores these questions through a consideration of the literatures on social movements, legal mobilization, and litigation, mainly in Canada and the US.\r\nThe course will consider how social movements have used courts to achieve their goals. Case studies may include the women's movement, the environmental movement, indigenous peoples' movements, the civil rights movement and religious movements, among others. Students may pursue their own interests through the completion of a research paper. Students must complete AP/SOSC 2350 6.00 Law and Society, with a minimum grade of C+, prior to enrolling in any of the Law and Society Honours Seminars. Prerequisite: AP/SOSC 2350 6.00 with a minimum of C+.\n&quot;"
+        },
+        {
+            "dept": "sosc",
+            "code": "4364",
+            "credit": 6.0,
+            "name": "Law, Science, Proof",
+            "prereqs": "sosc1375 sosc2350 sosc3375",
+            "desc": "This honours seminar explores the debates that surround the use of scientific evidence in the courtroom and how judges, lawyers, and scholars have sought to solve the complex problems that occur when legal actors are obliged to evaluate scientific evidence. While the course focuses primarily on scientific evidence with a particular emphasis on Canadian criminal law, it also covers some of the other controversies that surround the relationship between science and the law.\r\n\r\nPrerequisites: AP/SOSC 1375 3.00, AP/SOSC 2350 6.00, AP/SOSC 3375 3.00.\n\r\nCorequisite: AP/SOSC 3375 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4366",
+            "credit": 6.0,
+            "name": "Law and Society Honours Seminar: Race, Law, and the Politics of Representation",
+            "prereqs": "sosc2350",
+            "desc": "This course explores key theoretical concepts, intellectual concerns, and political debates in the study of racialization and the law. Using an interdisciplinary approach, the course examines the long dur\u00e9e of racial violence in the law and resistance against it. Some topics covered include: Critical Race Feminism; legal histories of racism; the criminal (in)justice system; Resisting Colonialism; and Post-racialism.  \r\nPrerequisites: AP/SOSC 2350 6.00"
+        },
+        {
+            "dept": "sosc",
+            "code": "4370",
+            "credit": 6.0,
+            "name": "State of the Art in Law &amp; Society",
+            "prereqs": "sosc2350",
+            "desc": "Presents and describes current research in socio-legal studies. Topics may include legal pluralism, legal geography, international human rights, access to justice, law and politics, gender and law, social and cultural dimensions of law, and socio-legal history. Prerequisites: AP/SOSC 2350 6.00 with C+ or better. Open to: Law &amp; Society majors only. "
+        },
+        {
+            "dept": "sosc",
+            "code": "4372",
+            "credit": 6.0,
+            "name": "Religion, governance and law in a Global Context",
+            "prereqs": "",
+            "desc": "This course explores the different ways religion and religious freedom are being governed in our contemporary world. It invites students to think critically and comparatively about the relationships between secularism and religion, and how these intersect with notions of law, nationalism, geography, gender and global discourses of rights. This course is organized around theoretical and empirical readings that draw on cases from around the world.\nPre-requisite: AP/SOSC1375  3.00"
+        },
+        {
+            "dept": "sosc",
+            "code": "4450",
+            "credit": 3.0,
+            "name": "Aspects of Modern Latin American and Caribbean Studies: Culture and Politics",
+            "prereqs": "",
+            "desc": "This course draws on oral history, novels, and some of the most accessible and entertaining social scientific studies to explore some of the central themes of both Latin American and Caribbean history and contemporary life, including revolution, resistance and repression, rural life, politics of race relations, and national and international migration. \r\nPrerequisite: One course in Latin American and Caribbean Studies (LACS) and/or International Development Studies (IDS). Course credit exclusion: AP/HUMA 4300 6.00. Open to: LACS and IDS students, others with permission of the Instructor."
+        },
+        {
+            "dept": "sosc",
+            "code": "4500",
+            "credit": 6.0,
+            "name": "The Emergence of Modernity",
+            "prereqs": "",
+            "desc": "Examines the emergence of modernity as a response to Enlightenment crisis. Focusing on conflicting conceptions of reason, values and emotional experience in the modern institutional context, the modern bases of contemporary social and political life are explored. Course credit exclusions: GL/PHIL 3637 6.00, GL/POLS 3637 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4510",
+            "credit": 6.0,
+            "name": "African Popular Culture",
+            "prereqs": "",
+            "desc": "This course investigates the multiple dimensions of African popular culture through looking at forms of cultural productivity: music, film, literature, theatre, cartoon, sport, leisure and aspects of material culture. It also explores ways in which cultural productivity is linked to various social relations, ethnic identities and the politics that have characterized nationalist and post-independence politics in Africa."
+        },
+        {
+            "dept": "sosc",
+            "code": "4511",
+            "credit": 6.0,
+            "name": "Social and Political Thought Seminar",
+            "prereqs": "sosc2570",
+            "desc": "The purpose of the course is to enable students to integrate and apply what they have learned throughout the program in the context of particular problems and contemporary issues in social and political thought. Prerequisite: AP/SOSC 2570 9.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4600",
+            "credit": 6.0,
+            "name": "Advanced Seminar in International Development Studies",
+            "prereqs": "sosc2800 sosc3800",
+            "desc": "This course explores contemporary perspectives on development, including current development challenges and potential solutions. Particular attention is given to various debates on globalization, including the differential impacts of globalization on a number of countries and communities. \r\nPrerequisites: AP/SOSC 2800 6.00 and AP/SOSC 3800 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4601",
+            "credit": 3.0,
+            "name": "Indigenous Activism, Resistance and Resurgence",
+            "prereqs": "",
+            "desc": "This course discusses the ways in which Indigenous peoples of Turtle Island have and are actively responding and resisting to assimilation policies, colonialism and state power, with a special focus on the lands claimed by the Canadian state. The course seeks to discuss how Indigenous peoples have sought to protect and assert their distinct political status, rights and cosmologies."
+        },
+        {
+            "dept": "sosc",
+            "code": "4602",
+            "credit": 6.0,
+            "name": "Violence Against Women",
+            "prereqs": "",
+            "desc": "Examines gender-based violence in its many forms, such as domestic violence, state violence, legal violence (punishment) and cultural violence (rituals) and analyzes the global context in which gender and power are constructed and violence against women is perpetuated and tolerated. Previously offered as: AP/WMST 4502 6.00, GL/WMST 4502 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4605",
+            "credit": 6.0,
+            "name": "International Development Placement Course",
+            "prereqs": "sosc1430 sosc2800",
+            "desc": "This course allows students to combine learning about the workings of development non-governmental organizations, through both an unpaid work placement with a non-governmental organization (NGO) involved in international and/or local development, and in-class activities, including bi-weekly seminars and related academic assignments.\r\n\r\nPrerequisites: AP/SOSC 1430 9.00 and AP/SOSC 2800 6.00, or permission of the Instructor."
+        },
+        {
+            "dept": "sosc",
+            "code": "4608",
+            "credit": 3.0,
+            "name": "Civil Society and Development in the Global South",
+            "prereqs": "",
+            "desc": "This course critically examines the emerging roles of community-based organizations, social movements, and Non-governmental Organizations in processes of development of the Global South.\nPrerequisites: SOSC 2800; SOSC 1430; or permission of the instructor.\nOpen to: upper-level students\n"
+        },
+        {
+            "dept": "sosc",
+            "code": "4621",
+            "credit": 6.0,
+            "name": "Decolonising Canada - D\u00e9coloniser le Canada",
+            "prereqs": "",
+            "desc": "This seminar course examines the history, current state, and possible futures of Indigenous-non-Indigenous relations in Canada.\r\nCe s\u00e9minaire examine l'histoire, l\u0092\u00e9tat actuel, et les avenirs potentiels des relations entre les autochtones et les non-autochtones au Canada.\r\nPrerequisite: Six credits in any discipline on the study of Canada or permission of the Department.\r\nCourse credit exclusion: GL/CDNS/SOSC 4622 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4637",
+            "credit": 3.0,
+            "name": "Deliberation and Participation",
+            "prereqs": "",
+            "desc": "This course examines debates about deliberation and participation in contemporary political and legal discourse. Drawing on contemporary political theory and court cases, students examine issues surrounding participation, activism, the role of citizens versus elites or experts, and democratic dissent."
+        },
+        {
+            "dept": "sosc",
+            "code": "4640",
+            "credit": 3.0,
+            "name": "The Idea of Democracy",
+            "prereqs": "",
+            "desc": "\u0093Democracy\u0094 is an over-used and very flexible word. Its literal meaning is \u0093rule by the people\u0094 but in \u0093liberal democracy\u0094 there is a greater emphasis on civil liberties. This course will critically explore the various meanings of this complex idea."
+        },
+        {
+            "dept": "sosc",
+            "code": "4650",
+            "credit": 6.0,
+            "name": "Criminology Honours Seminar",
+            "prereqs": "crim1650 sosc1650",
+            "desc": "This course engages in an in-depth analysis of a particular topic or theme relevant to criminology. The focus of the course will vary from year to year, depending upon student and faculty interest in specific topics. Prerequisite: AP/CRIM 1650 9.00 or AP/SOSC 1650 9.00 (or equivalent), with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "4653",
+            "credit": 6.0,
+            "name": "Transnational and Comparative Criminology",
+            "prereqs": "crim1650 crim1650",
+            "desc": "This course examines criminology in the context of globalization.  Beginning with a discussion of classic comparative criminology, the course explores how globalization has affected criminology.  The course looks at 'transnational' and 'local' forms of crime and engages with several different theories that have been developed to explain the changing field of criminology under transnational conditions.\r\nPrerequisites: AP/SOSC/CRIM 1650 6.00, AP/SOSC/CRIM 1650 9.00 (or equivalent) with a grade of at least B (6.0)"
+        },
+        {
+            "dept": "sosc",
+            "code": "4655",
+            "credit": 6.0,
+            "name": "Cultures of Violence",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines microsocial and macrosocial forms of violence. The course explores how violence operates as a form of social control rather than as a psychological impulse or biological drive. Myths and misconceptions about violence are measured against criminological, cultural and sociological theories of violence. The relationship between violence and culture is emphasized. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "4657",
+            "credit": 6.0,
+            "name": "Crime and the Corporation",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines the tensions between the seriousness of corporate harms and the limited societal and legal responses to harmful activities. Drawing on a variety of theoretical as well as methodological perspectives, the course focuses on the appropriateness of defining corporate harms as 'crimes,' the causes of corporate misconduct, and the strengths and limitations of different policy responses including public regulation, self-regulation, and consumer campaigns. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "4658",
+            "credit": 6.0,
+            "name": "Law, Crime and Borders",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Explores the historically specific and multiple intersections between processes and practices of borders and bordering and crime and criminal justice. This interdisciplinary course traces the national and global dimensions of these intersections through in-depth examination of scholarship and current debates. Particular attention is paid to class, race/ethnicity, gender, sexuality, age, ability, and nationality. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "4659",
+            "credit": 6.0,
+            "name": "Indigenous Peoples, Crime, and Justice ",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines the current crisis of the over-criminalization and over-incarceration of indigenous peoples in Canada and other similar jurisdictions including the United States, Australia, and New Zealand. Drawing from contemporary criminological and social theory, the course engages in a critical discussion of these issues providing an extended analysis and critique of federal policies regarding indigenous peoples. An interdisciplinary approach is taken in the course with material drawn from literatures in criminology, political science, law, sociology, geography, and history. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "4661",
+            "credit": 6.0,
+            "name": "Surveillance and Crime",
+            "prereqs": "sosc1650",
+            "desc": "This course examines theory, practice and research on surveillance from a criminological perspective, emphasizing the role of surveillance in crime control and law enforcement historically and contemporarily. Human rights implications are also examined in relation to class, gender, race and social control.\nPrerequisites: AP/CRIM/SOSC 1650 6.00 (or equivalent), with a minimum grade of B.\nCourse credit exclusions: AP/COMN 4740 3.00 and AP/COMN 4741 3.00"
+        },
+        {
+            "dept": "sosc",
+            "code": "4664",
+            "credit": 6.0,
+            "name": "The Politics of Canadian Policing in Global Context ",
+            "prereqs": "sosc1650",
+            "desc": "The course explores the politics of contemporary Canadian policing in the context of the  history of modern governance.  It explores the police role in society and interrogates  policing in terms of fairness, inequality, discrimination and social justice. It further explores the relationship between policing, media, law, politics and social order, emphasizing the  local effects of the global politics of policing. \nPrerequisites: AP/SOSC 1650 6.00 with a grade of at least B \n"
+        },
+        {
+            "dept": "sosc",
+            "code": "4665",
+            "credit": 6.0,
+            "name": "Global Approaches to Internet and Digital Crime",
+            "prereqs": "sosc1650",
+            "desc": "This course examines global approaches to a broad variety of internet crimes and technology-related crimes. It considers technology both as a target and tool of regulation. Among the topics considered are the transnational regulation of digital vigilantes and hacking, regulation through algorithms, hate speech, smart cities, data governance, bodily data, digital rights, technologically facilitated domestic violence, and technological colonialism.\nPrerequisites: AP/CRIM/SOSC 1650 6.00 (or equivalent), with a grade of at least B (6.00)."
+        },
+        {
+            "dept": "sosc",
+            "code": "4666",
+            "credit": 6.0,
+            "name": "Sex, Crime &amp; Danger",
+            "prereqs": "",
+            "desc": "This course explores the historical, social, and political processes through which some sexual activities become defined as sufficiently dangerous as to warrant a criminal justice response. At the same time, the course is attentive to popular forms of sexual censure, regulation and/or resistance, thus linking public debates and anxieties to the criminalization or de-criminalization of sexual activities. \n\nPrerequisites: SOSC 1650 6.00 or CRIM 1650 6.0 with a grade of at least B."
+        },
+        {
+            "dept": "sosc",
+            "code": "4670",
+            "credit": 3.0,
+            "name": "Writing Women's History",
+            "prereqs": "",
+            "desc": "Examines how feminist issues and theories have influenced the ways women's history has been written, the questions asked and the themes studied. Students are encouraged to develop the conceptual and methodological skills to undertake their own historical research. \r\nPreviously offered as: AP/WMST 4507 3.00, GL/WMST 4507 3.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4700",
+            "credit": 6.0,
+            "name": "Urban Studies Seminar",
+            "prereqs": "sosc3700",
+            "desc": "Students will study in depth a selected urban topic leading to a major paper. The format will be lectures and seminars for one-half of the year, handled by the faculty member; followed by student presentations of major papers. Prerequisite: AP/SOSC 3700 6.00."
+        },
+        {
+            "dept": "sosc",
+            "code": "4710",
+            "credit": 6.0,
+            "name": "Urban Field Experience",
+            "prereqs": "sosc3715",
+            "desc": "Students earn course credit by working on a project for an outside organization involved in urban development or administration. Details of each student's responsibilities are worked out in consultations among the student, the project supervisor and the Instructor. Prerequisite: Successful completion of AP/SOSC 3715 3.00 and permission of Instructor."
+        },
+        {
+            "dept": "sosc",
+            "code": "4720",
+            "credit": 3.0,
+            "name": "Canadian Urban Policy",
+            "prereqs": "",
+            "desc": "Examines the influence of government policy on the development of cities and the characteristics of urban life. It provides a historical, institutional and theoretical framework for understanding and analyzing Canadian urban policy-making and policy implementation."
+        },
+        {
+            "dept": "sosc",
+            "code": "4735",
+            "credit": 6.0,
+            "name": "Seminar in Urban Theory",
+            "prereqs": "",
+            "desc": "Studies the development of urban theory from the 19th and into the 21st century.  Examines the main theorists in urban studies and analyzes how they seek to describe and explain the city, its functions and forms, and the experience of urban life.\r\nPrerequisite: 90 credits completed. Course credit exclusions: None. Open to Urban Studies, Geography, and FES students; other students by permission of instructor.\r\n"
+        }
+    ]
+}

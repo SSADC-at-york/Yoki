@@ -1,0 +1,100 @@
+{
+    "courses": [
+        {
+            "dept": "intl",
+            "code": "1200",
+            "credit": 3.0,
+            "name": "Microeconomics for Managers",
+            "prereqs": "",
+            "desc": "This core course provides students with analytical tools useful for dealing with microeconomics from a manager's perspective. The course focuses explicitly on the application of economic concepts and theories, including market behaviour, price determination, and theories of competition. \r\n\r\nNote: Not open to BBA students for credit. Not available to exchange students visiting Schulich.\r\nCourse Credit Exclusion: AP/ECON 1000 3.00."
+        },
+        {
+            "dept": "intl",
+            "code": "1210",
+            "credit": 3.0,
+            "name": "Macroeconomics For Managers",
+            "prereqs": "",
+            "desc": "This core course provides students with an overview of the aggregative performance of the economy with emphasis on policy application and implications for business. Topics discussed include the determination of key macroeconomic variables such as real GDP, the inflation rate, the unemployment rate, interest rates, and the effect of governments' monetary and fiscal policies. \r\n\r\nNote: Not open to BBA students for credit. Not available to exchange students visiting Schulich.\r\nCourse Credit Exclusion: AP/ECON 1010 3.00."
+        },
+        {
+            "dept": "intl",
+            "code": "1400",
+            "credit": 3.0,
+            "name": "Responsible Business in an International Context",
+            "prereqs": "",
+            "desc": "Students will be challenged to think critically about the role of business in a sustainable world by considering some of the positive and negative impacts international business can have on society. Students will also be exposed to international companies that take a more integrated approach to responsible business and represent leaders in developing solutions to society's most difficult problems.\r\n\r\nPrerequisites/Corequisites/Course Exclusions: This course is not open to BBA students for credit, nor is it\r\navailable to exchange students visiting Schulich."
+        },
+        {
+            "dept": "intl",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "French Work Culture I",
+            "prereqs": "fr0130 fr1030",
+            "desc": "This course is designed to introduce the basic business French communication skills and the cultural context associated to French language. It provides exposure to major French-Canadian companies and to some aspects of contemporary French-Canadian culture. It encourages students to explore the social and cultural roles of French society.\r\nPrerequisite: Successful completion of  AP/FR 0130 6.0 (previously offered as  AP/FR 1030 6.0) or Placement test/permission of course director\r\nCourse Credit Exclusion: AP/FR 1080 6.0"
+        },
+        {
+            "dept": "intl",
+            "code": "2021",
+            "credit": 3.0,
+            "name": "French Work Culture II",
+            "prereqs": "intl2020",
+            "desc": "This is the second half of a two-term sequence course in which students will develop business French Communication skills and the cultural context associated to French language. It prepares students for further exposure to read and understand topics such as the main French companies (France) and to some aspects of contemporary French culture. It encourages students to explore the social and cultural roles of French society.\r\nPrerequisite: SB/INTL 2020 3.0 or Placement test/permission of course director\r\nCourse credit Exclusion: AP/FR 1080 6.0"
+        },
+        {
+            "dept": "intl",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "International Economics",
+            "prereqs": "",
+            "desc": "This core course examines international economics from the viewpoint of the firm and the nation. International trade, foreign investment, tariffs and other trade barriers, economic integration, the balance of payments, the foreign exchange market, and the international monetary system are among the topics studied.\r\n\r\nNote: Not open to BBA students for credit. Not available to exchange students visiting Schulich.\r\nPrerequisites: SB/INTL 1200 3.00 and SB/INTL 1210 3.00.\nCourse Credit Exclusion: SB/ECON 3510 3.00."
+        },
+        {
+            "dept": "intl",
+            "code": "2300",
+            "credit": 3.0,
+            "name": "Organizational Behaviour Across Cultures",
+            "prereqs": "",
+            "desc": "The purpose of this core course is to introduce students to organizational behaviour - a discipline that studies organizations and the individuals and groups within them. Furthermore, the course stresses the importance of developing an international perspective and cross-cultural sensitivity to organizational behaviour issues.  Interpersonal and group skills and new ways of dealing with issues ranging from ethical use of organizationally based power to technological change to work-force diversity are introduced. Through cases, exercises, and experiential activities, skills in stress management ,conflict, leadership, motivation, and other work-related issues will be introduced.  The central objective of the course is to create a knowledge base from which students can develop organizational competence.  The course is grounded in an assessment that the changing demands on managers imply a need for intellectual flexibility and an increasingly broad range of managerial skills.\r\n\r\nNote: Not open to BBA students for credit. Not available to exchange students visiting Schulich.\r\nCourse Credit Exclusion: SB/ORGS 1000 3.00 and SB/ORGS 2010 3.00 (or equivalent)"
+        },
+        {
+            "dept": "intl",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Strategic Management for International Business",
+            "prereqs": "",
+            "desc": "This core course focuses on the fundamental concepts of strategy and strategic management and explores the task of developing, implementing, executing and monitoring an organization's strategy, with particular focus on firms operating in international markets. The\r\nemphasis is on the problems and issues that affect the success of an entire organization. Examples are drawn from all sizes and types of\r\norganizations, although the majority of content and cases deal with profit-oriented enterprises operating in the competitive global business\r\nenvironment. The course uses readings, lectures, case discussions and role playing to expose students to a wide range of concepts and to the many type of situations that face managers and bear directly on an organization's ultimate success.\r\nNote:Not open to BBA students for credit. This course cannot be completed on Exchange.\r\nPrerequisites: Successful completion of all Year 1 and 2 core courses."
+        },
+        {
+            "dept": "intl",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Culture, Marketing, Operations in French",
+            "prereqs": "intl2020 intl2021",
+            "desc": "This course is designed for an audience primarily of iBBA students but also open to BBA students who wish to acquire the knowledge of corporate management in the following activities: marketing (choice of products and prices, distribution / sales, communication, advertising, marketing mix); supply, sales, purchasing and logistics. This course will assist students to develop a French-speaking cultural and commercial vision.\r\nPrerequisite: SB/INTL 2020 3.0 and SB/INTL 2021 3.0 or Placement test/permission of course director\r\nCourse Credit Exclusion: AP/FR 2060 3.0, AP/FR 2061 3.0, AP/FR 2080 6.0"
+        },
+        {
+            "dept": "intl",
+            "code": "3021",
+            "credit": 3.0,
+            "name": "Culture, Management, Strategy in French",
+            "prereqs": "intl2020 intl2021",
+            "desc": "This course is designed for an audience primarily of iBBA students but also open to BBA students who wish to acquire knowledge in management and business strategy while refining their skills in French. Students will study various aspects of a business enterprise including management styles; business strategies for survival; growth and sustainability; corporate governance, etc. Students are expected to have a Frenchspeaking cultural and commercial vision at the end.\r\nPrerequisite: SB/INTL 2020 3.0 and SB/INTL 2021 3.0 or Placement test/permission of course director\r\nCourse Credit exclusion: AP/FR 2081 3.0"
+        },
+        {
+            "dept": "intl",
+            "code": "4300",
+            "credit": 3.0,
+            "name": "International Business Simulation",
+            "prereqs": "sgmt3000 intl4400",
+            "desc": "Student teams use a sophisticated business simulation program to manage a firm through multiple years of operation in a competitive industry. All teams must integrate their knowledge of functional areas of business and ethics to develop a mission and strategy for their firm and implement the strategy in a dynamic market and consistently revise their strategy in response to the strategic moves of competing firms. At the same time, students must analyze and reflect upon the dynamics of expanding their operations to successfully compete in an international market.\r \r\nPrerequisites: SB/SGMT 3000 3.00 or INTL 3000 3.00 (previously offered as SB/INTL 4400 3.00)  Not open to exchange students."
+        },
+        {
+            "dept": "intl",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "INTL Guided Study",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "courses": [
+        {
+            "dept": "nrsc",
+            "code": "1001",
+            "credit": 1.0,
+            "name": "Frontiers of Neuroscience",
+            "prereqs": "",
+            "desc": "Introduces the breadth of research directions of faculty members at York University within the field of\r\nneuroscience. Familiarizes students with professionalism, research ethics, and explores neuroscience related\r\nfacilities and organizations in the wider community.\r\nOpen to: Honours and Specialized Honours BSc students\r\nNotes: This course is expected to be completed within the first 30 credits of study but if needed students can be given the opportunity to enroll in this course if they have not yet completed 60 credits."
+        },
+        {
+            "dept": "nrsc",
+            "code": "1001",
+            "credit": 1.0,
+            "name": "Frontiers of Neuroscience",
+            "prereqs": "",
+            "desc": "Introduces the breadth of research directions of faculty members at York University within the field of\r\nneuroscience. Familiarizes students with professionalism, research ethics, and explores neuroscience related\r\nfacilities and organizations in the wider community.\r\nOpen to: Honours and Specialized Honours BSc students\r\nNotes: This course is expected to be completed within the first 30 credits of study but if needed students can be given the opportunity to enroll in this course if they have not yet completed 60 credits."
+        },
+        {
+            "dept": "nrsc",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Fundamental Molecular and Cellular Neuroscience",
+            "prereqs": "biol1000 biol1001 psyc1010",
+            "desc": "Survey of the key areas of neuroscience including a historic perspective, gross anatomy and histology of the nervous system, development of the nervous system, molecular and cellular neuroscience, and neurological disorders. Introduces methodologies of research and experimentation in neuroscience.\r\nPrerequisites: SC/BIOL 1000 3.00; SC/BIOL 1001 3.00; HH/PSYC 1010 6.00\r\nOpen to: Honours and Specialized Honours BSc students\r\nCross-listed to: SC/NRSC 2000 3.00"
+        },
+        {
+            "dept": "nrsc",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Fundamental Molecular and Cellular Neuroscience",
+            "prereqs": "biol1000 biol1001 psyc1010",
+            "desc": "Survey of the key areas of neuroscience including a historic perspective, gross anatomy and histology of the nervous system, development of the nervous system, molecular and cellular neuroscience, and neurological disorders. Introduces methodologies of research and experimentation in neuroscience.\r\nPrerequisites: SC/BIOL 1000 3.00; SC/BIOL 1001 3.00; HH/PSYC 1010 6.00\r\nOpen to: Honours and Specialized Honours BSc students\r\nCross-listed to: SC/NRSC 2000 3.00"
+        },
+        {
+            "dept": "nrsc",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Systems, Behavioral, and Cognitive Neuroscience",
+            "prereqs": "nrsc2000 nrsc2000",
+            "desc": "Explores the structure and function of the human brain. Topics include the organization of the central nervous system, the function and neural basis of sensory and movement systems, consciousness, language, thought and memory.\r\nPrerequisites: HH/NRSC 2000 3.00 or SC/NRSC 2000 3.00\r\nOpen to: Honours and Specialized Honours BSc students\r\nCross-listed to: SC/NRSC 2100 3.00\r\n"
+        },
+        {
+            "dept": "nrsc",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Systems, Behavioral, and Cognitive Neuroscience",
+            "prereqs": "nrsc2000 nrsc2000",
+            "desc": "Explores the structure and function of the human brain. Topics include the organization of the central nervous system, the function and neural basis of sensory and movement systems, consciousness, language, thought and memory.\r\nPrerequisites: HH/NRSC 2000 3.00 or SC/NRSC 2000 3.00\r\nOpen to: Honours and Specialized Honours BSc students\r\nCross-listed to: SC/NRSC 2100 3.00\r\n"
+        },
+        {
+            "dept": "nrsc",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Neuroscience Techniques",
+            "prereqs": "nrsc2000 nrsc2000 nrsc2100 nrsc2100",
+            "desc": "Provides students with an overview of and exposure to experimentation techniques and methodologies in the fields of systems and cognitive, cellular and molecular, and computational and theoretical neuroscience. These could include any of the following: EEG, fMRI, behavioural methods such as psychophysics and eye/body tracking, electrophysiology, patch and dynamic clamp, transgenic mouse technology, molecular imaging,\r\nneuronal coding and communication, neuronal networks, and brain-machine interfaces.\r\nPrerequisites: HH/NRSC 2000 3.00 or SC/NRSC 2000 3.00; HH/NRSC 2100 3.00 or SC/NRSC 2100 3.00\r\nCorequisites: HH/NRSC 2100 3.00 or SC/NRSC 2100 3.00\r\nOpen to: Honours and Specialized Honours BSc students\r\nCross-listed to: SC/NRSC 2200 3.00\r\n"
+        },
+        {
+            "dept": "nrsc",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Neuroscience Techniques",
+            "prereqs": "nrsc2000 nrsc2000 nrsc2100 nrsc2100",
+            "desc": "Provides students with an overview of and exposure to experimentation techniques and methodologies in the fields of systems and cognitive, cellular and molecular, and computational and theoretical neuroscience. These could include any of the following: EEG, fMRI, behavioural methods such as psychophysics and eye/body tracking, electrophysiology, patch and dynamic clamp, transgenic mouse technology, molecular imaging,\r\nneuronal coding and communication, neuronal networks, and brain-machine interfaces.\r\nPrerequisites: HH/NRSC 2000 3.00 or SC/NRSC 2000 3.00; HH/NRSC 2100 3.00 or SC/NRSC 2100 3.00\r\nCorequisites: HH/NRSC 2100 3.00 or SC/NRSC 2100 3.00\r\nOpen to: Honours and Specialized Honours BSc students\r\nCross-listed to: SC/NRSC 2200 3.00\r\n"
+        }
+    ]
+}

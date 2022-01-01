@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "tras",
+            "code": "5000",
+            "credit": 3.0,
+            "name": "Research Methods in Translation Studies",
+            "prereqs": "",
+            "desc": "Introduces students to current research methods in translation studies. It reviews standard methods of reading, collecting, processing and presenting data. Students are also introduced to research ethics."
+        },
+        {
+            "dept": "tras",
+            "code": "5250",
+            "credit": 3.0,
+            "name": "The Voice in Translation/La voix en traduction",
+            "prereqs": "",
+            "desc": "Le cours est d\u00e9di\u00e9 \u00e0 l'\u00e9tude de l'exp\u00e9rience de traduire inscrite dans le dialogue entre le sujet traduisant et le texte-source, les lecteurs, les critiques et les collaborateurs. En insistant sur la voix du traducteur, on cherche \u00e0 saisir et \u00e0 analyser les modalit\u00e9s de son inscription dans le texte, dans la r\u00e9ception et dans le discours sur la traduction.  \r\n\r\nThe course is dedicated to the study of the experience of translating embedded in the dialogue between the translating subject and the source text, readers, critics and collaborators. By focusing on the voice of the translator, the aim is to capture and analyze how it leaves its mark in the text, the reception and the discourse on translation.\r\n"
+        },
+        {
+            "dept": "tras",
+            "code": "5342",
+            "credit": 3.0,
+            "name": "Translating Balzac/Balzac translated=Traduire Balzac/Balzac traduit",
+            "prereqs": "",
+            "desc": "Stemming from Translation and Reception theories (Jauss, Iser) and more recent cultural theories (Bassnett, Lefevere), this course highlights some of the issues - political, social, historical among others - that determine the translation of an author in a receiving country. Case studies of Balzac in English and in Chinese serve as a basis of study of his translation/reception in other languages and/or countries.\r\n\r\nPartant des th\u00e9ories de la r\u00e9ception (Jauss, Iser) et des approches culturelles plus r\u00e9centes en traductologie (Bassnett, Lefevere), ce cours mettra en lumi\u00e8re quelques-unes des questions, politiques, sociales, historiques et autres qui d\u00e9terminent la traduction d'un auteur \u00e0 l'\u00e9tranger. Des \u00e9tudes de cas sur Balzac en anglais et en chinois serviront de base \u00e0 l'\u00e9tude de la r\u00e9ception de Balzac dans d'autres langues et/ou pays.\r\n\r\nNote: The language of instruction will be French when the course is offered by the Graduate Program in French/Francophone Studies, and may be French or English when the course is offered by the Graduate Program in Translation Studies.\r\nWhen offered by the Graduate Program in French/Francophone Studies, more emphasis is put on the analysis of the source text."
+        },
+        {
+            "dept": "tras",
+            "code": "5801",
+            "credit": 3.0,
+            "name": "Traffic in / of Meaning: Intersections of Travel Writing and Translation",
+            "prereqs": "",
+            "desc": "This graduate seminar, crosslisted in Translation Studies and Humanities, examines the intersections of travel writing and translation through perspectives that help to see these activities as intertwined, co-constitutive, and often involving parallel processes with shared concerns in practice and in terms of theories brought to bear on their analyses. "
+        },
+        {
+            "dept": "tras",
+            "code": "6157",
+            "credit": 3.0,
+            "name": "Comparative and World Literature Seminar: History and Practice",
+            "prereqs": "",
+            "desc": "Introduces students to the conditions of emergence and development of the discipline of Comparative Literature from its beginnings in nineteenth-century Europe to its most recent global iteration of World Literature. Students will experience how expanded understandings of cultural translation and textuality have radically altered and expanded the Eurocentric character of the discipline.\r\n\r\nQuestions for investigation includes: How have the aesthetics and politics of Comparative Literature changed over the past two hundred years? What factors have influenced those changes? How is World Literature related to Comparative Literature? How do both relate to colonial, post-colonial, diasporic, cultural and translation studies and digital humanities?"
+        }
+    ]
+}

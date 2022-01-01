@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "dept": "sene",
+            "code": "2081",
+            "credit": 3.0,
+            "name": "Techniques in Analytical Chemistry",
+            "prereqs": "",
+            "desc": "This is a one-semester, laboratory oriented subject, intended to introduce students to selected techniques of chemical analysis that are widely used in the industry: UV-Vis spectrophotometry, Classical column chromatography (normal phase), High Pressure Liquid Chromatography (reversed phase), Gas Chromatography.  The theoretical lectures provide a basic understanding of the analytical procedures.  The laboratory classes provide hands-on training for the analytical techniques presented in the theoretical course, and familiarize the student with the application of the respective techniques in a regulated industrial environment.  To accomplish the above, the students must be able to combine their prior knowledge of chemistry and mathematics with the new terms and concepts taught in this course.  Not open to students having completed SC/SENE 2082 3.00 or Seneca College courses TAC333 or TAC357.  \r\n\r\nPrerequisites: SC/CHEM 1001 3.00 and SC/MATH 1014 3.00 (or Seneca courses CHM273 and MTH 273).\r\nCourse Credit Exclusion: SC/CHEM 3080 4.0\r\n"
+        },
+        {
+            "dept": "sene",
+            "code": "2082",
+            "credit": 3.0,
+            "name": "Techniques in Analytical Chemistry",
+            "prereqs": "",
+            "desc": "This subject focuses on the study of chromatography, and its application to analytical chemistry.  Students will be provided with basic chromatographic fundamentals, upon which the basis for column chromatography, gas chromatography and liquid chromatography will be discussed.  Considerable emphasis will be placed on the laboratory section, from which the student will gain experience on the chromatographic instrumentation, methods of analysis, sample preparation and ChemStation software.  Not open to students having completed SC/SENE 2081 3.00 or Seneca College course TAC333 or TAC 357.\r\nPrerequisites: SC/CHEM 1001 3.00 and SC/MATH 1014 3.00 (or Seneca courses CHM 273 and MTH 273). \r\nCourse credit exclusion: SC/CHEM 3080 4.00"
+        },
+        {
+            "dept": "sene",
+            "code": "2083",
+            "credit": 3.0,
+            "name": "Chemical Instrumentation",
+            "prereqs": "",
+            "desc": "A general coverage of common optical laboratory instruments is presented.  Topics covered include colorimetry, ultraviolet, visible and infrared region spectrophotometry, fluorimetry, turbidity, nephelometry, and emission spectrometry (flame/arc/spark/ICP).  The theory of these instrumental methods will be supported by hands-on laboratory techniques.  Not open to students having completed Seneca College course CMI333.\r\nPrerequisites: SC/CHEM 1001 3.00 and SC/MATH 1014 3.00 (or Seneca courses CHM273 and MTH 273)."
+        },
+        {
+            "dept": "sene",
+            "code": "2084",
+            "credit": 3.0,
+            "name": "Pharmaceutical Analysis",
+            "prereqs": "",
+            "desc": "This is a one-semester laboratory oriented subject intended to introduce students to the world of pharmaceutical analysis.  Selected physical and chemical techniques used in the control of raw materials and finished dosage forms are emphasized, especially USP and BP methods.  Students should be aware that this course does not attempt to teach basic science but instead encourages students to apply their previously acquired knowledge, especially of chemistry and mathematics, in the pharmaceutical laboratory.  Not open to students having completed Seneca College course PHA333.\r\nPrerequisites: SC/CHEM 1000 3.00, SC/CHEM 1001 3.00 and SC/MATH 1014 3.00 (or Seneca courses CHM 273 and MTH 273. "
+        },
+        {
+            "dept": "sene",
+            "code": "3072",
+            "credit": 3.0,
+            "name": "Environmental Impact of Industrial Processes",
+            "prereqs": "",
+            "desc": "This subject provides an overview of environmental pollution concepts as they apply to the treatment of wastewater for discharge to a receiving water body, and the treatment of source water for drinking water purposes.  The laboratory component of this course will provide experience in the standard testing methodologies used to quantify the types of contaminants present (physical, chemical and bacterial), with emphasis on water and wastewater characterization.  Not open to students having completed Seneca College course EII533.\r\nPrerequisites: SC/CHEM 1001 3.00, SC/MATH 1014 3.00 and one of SC/PHYS 1410 6.00, SC/PHYS 1420 6.00 or SC/PHYS 1010 6.00 (or Seneca courses OCC433, MTH173 and one of PHY273 or PHY353). "
+        },
+        {
+            "dept": "sene",
+            "code": "3073",
+            "credit": 3.0,
+            "name": "Pharmacology and Applied Toxicology",
+            "prereqs": "",
+            "desc": "This course is designed to introduce students to basic pharmacological and toxicological principles through the selective coverage of various topics in these areas.  The laboratory experiments will focus on commonly used techniques and biological matrices encountered in a pharmacology or toxicology laboratory setting.  Not open to students having completed Seneca College course PHT533.\r\nPrerequisites: SC/CHEM 2021 3.00 and one of SC/BIOL 2020 3.00 or SC/CHEM 2050 4.00 (or Seneca courses CHO433 and BIC433).\r\nCourse credit exclusion: SC/CHEM 2550 3.00. "
+        },
+        {
+            "dept": "sene",
+            "code": "3074",
+            "credit": 3.0,
+            "name": "Pharmaceutical Product Formulations",
+            "prereqs": "",
+            "desc": "This course focuses mainly on the formulation of pharmaceutically relevant semi-solid and liquid preparations with particular emphasis on emulsions.  Both theoretical and practical aspects will be covered, with laboratory practicals designed to emphasize theoretical concepts.  Not open to students having completed Seneca College course PPF633.\r\nPrerequisites: SC/CHEM 2021 3.00 (or Seneca course PHA333). "
+        },
+        {
+            "dept": "sene",
+            "code": "3083",
+            "credit": 3.0,
+            "name": "Chemical Instrumentation",
+            "prereqs": "",
+            "desc": "A continuation from SC/SENE 2083 3.00 (Seneca equivalent CMI333).  Topics covered are atomic absorption spectrophotometry, electrode potentials, electrochemical cells, potentiometry, and mass spectrometry.  If time permits, other topics will include: conductometry, polarography and anodic stripping voltammetry.  Not open to students having completed Seneca College course CMI533.\r\nPrerequisites: one of SC/CHEM 2021 3.00 or SC/CHEM 2050 4.00, and one of SC/CHEM 2080 4.00 or SC/SENE 2083 3.00, or Seneca courses CMI333 and one of ECI533, BIC433, BIC633 or CHO433. "
+        },
+        {
+            "dept": "sene",
+            "code": "3084",
+            "credit": 3.0,
+            "name": "Pharmaceutical Analysis - Advanced",
+            "prereqs": "",
+            "desc": "This is a one semester laboratory oriented subject intended to introduce students to aspects of pharmaceutical analytical methods validation.  Students are introduced to regulatory requirements and guidelines for validation as well as validation protocol, validation SOPs and specifications for validation.  Also discussed are critical analytical and processing parameters or quality attributes.  The laboratory practical focusses on the following experiments: USP active pharmaceutical ingredient (API) impurities analysis using HPLC, USP uniformity of dosage unit by Weight Variation using HPLC, USP uniformity of dosage unit by Content Uniformity using HPLC and USP residual solvent impurities analysis of drug products by Headspace-GC.  Not open to students having completed Seneca College PHA533.\r\nPrerequisites: SC/CHEM 2080 4.00 and either SC/CHEM 3080 4.00 or SC/SENE 2081 3.00 (or Seneca courses PHA 333, TAC 333 and STA 453)."
+        },
+        {
+            "dept": "sene",
+            "code": "3091",
+            "credit": 3.0,
+            "name": "Polymer Technology",
+            "prereqs": "",
+            "desc": "This subject correlates the structure, properties, applications, processing and fabrications of polymeric materials.  Apart from traditional plastic materials, the most advanced plastics and composites used in aircraft, aerospace and automobile industries, body implants and optoelectronics will be discussed.  The course includes the waste management, degradation and recycling of plastics for environment protection.  The laboratory component emphasizes testing and processing.  Not open to students having completed Seneca College course PTC633.  \r\nPrerequisite: SC/CHEM 2021 3.00.\r\nPrerequisite or Corequisite: SC/SENE 3092 3.00 (or Seneca course CPM633).\r\nCourse credit exclusion: SC/CHEM 3090 3.00.\r\n"
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "courses": [
+        {
+            "dept": "ihst",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "Anatomy &amp; Physiology for Human Health I ",
+            "prereqs": "",
+            "desc": "Examines human anatomy and physiology with a focus on health and disease in the body as a whole as well as each body system. Students examine how the different body systems work together to maintain homeostasis and how the systems react when homeostasis is disrupted by disease.   Course credit exclusions: HH/KINE 2011 3.00, HH/KINE 2031 3.00, SC/ NATS 1650 6.00\r\n"
+        },
+        {
+            "dept": "ihst",
+            "code": "1002",
+            "credit": 3.0,
+            "name": "Anatomy &amp; Physiology for Human Health II",
+            "prereqs": "",
+            "desc": "Examines human anatomy and physiology with a focus on health and disease in the body as a whole as well as each body system. Students examine how the different body systems work together to maintain homeostasis and how the systems react when homeostasis is disrupted by disease. Course credit exclusions: HH/KINE 2011 3.00, HH/KINE 2031 3.00, SC/ NATS 1650 6.00.\n"
+        },
+        {
+            "dept": "ihst",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Foundations of Global Health Studies",
+            "prereqs": "",
+            "desc": "An interdisciplinary and multidisciplinary introduction to the issues underlying Canadian and  international health care systems. Examines the social, cultural, economic and political influences on concepts, values and structures of Canadian and international health care systems.  Course Credit Exclusion: HH/HLST 1010 3.00."
+        },
+        {
+            "dept": "ihst",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Global Health Policy: Power and Politics",
+            "prereqs": "ihst1010",
+            "desc": "Analyzes the process through which global health policy is developed. As national and global initiatives can intertwine, the course begins by exploring and categorizing the manner in which nation governments are structured, and the factors that influence the process of policy decision-making at the national and global levels. Explores case studies that demonstrate global health policy development. Prerequisite: HH/IHST 1010 3.00."
+        },
+        {
+            "dept": "ihst",
+            "code": "2010",
+            "credit": 6.0,
+            "name": "Methods and Approaches in Global Health Research",
+            "prereqs": "",
+            "desc": "General Description: An introduction to the research cycle and the judicious use of quantitative and qualitative methodologies in the context of global health. Topics such as asking global health research questions, partnership involvement, capacity building, design, ethical conduct, data collection, analysis, interpretation, writing up, dissemination and uptake of global health research will be covered.\nCourse Credit Exclusions: HH/KINE 2049 3.00 and HH/KINE 2050 3.00 or HH/PSYC 2021 3.00 and HH/PSYC 2030 3.00 or HH/HLST 2300 6.00.\n"
+        },
+        {
+            "dept": "ihst",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Chronic Diseases &amp; Care",
+            "prereqs": "ihst1000 ihst1001 ihst1002",
+            "desc": "Examines the complexity and impact of chronic diseases, also known as non-communicable diseases, within national and international health care systems. It will define and investigate the current prevalence, significance, risk factors and determinants of the major current chronic conditions and their prevention and management. Prerequisites: HH/IHST1000 6.00 or HH/IHST 1001 3.00 and HH/IHST 1002 3.00. "
+        },
+        {
+            "dept": "ihst",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Determinants of Health: Local to Global",
+            "prereqs": "",
+            "desc": "Provides an opportunity for participants to develop or strengthen their understanding of social determinants of health from a global perspective. Participants will engage in critical analysis of social inequities and the health consequences to global populations and will also develop an understanding of the concept of global citizenship. Course Credit Exclusion: HH/HLST 3010 3.00."
+        },
+        {
+            "dept": "ihst",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Epidemiology and Global Health",
+            "prereqs": "ihst1000 ihst1001 ihst1002 ihst2100 kine2049 kine2050 psyc2021 hlst2300",
+            "desc": "An introduction to the basic principles of epidemiology. The use of epidemiologic methods for population and public health research will be emphasized. Prerequisites: HH/IHST1000 6.00 or HH/IHST 1001 3.00 and HH/IHST 1002 3.00, HH/IHST 2100 3.00, HH/IHST 2010 or HH/KINE 2049 3.00 and HH/KINE 2050 3.00, or PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2030 or HH/HLST 2300 6.00. Open to: Students in the BA and BSc in Global Health."
+        },
+        {
+            "dept": "ihst",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Communicable Diseases and Care",
+            "prereqs": "ihst1000 ihst1001 ihst1002 ihst2100 ihst2010",
+            "desc": "Introduces students to the current theories and knowledge of communicable diseases and programs in place to address the spread of communicable diseases. Prerequisites: HH/IHST1000 6.00 or HH/IHST 1001 3.00 and HH/IHST 1002 3.00, HH/IHST2100 3.00, HH/IHST2010 6.00. Open to: Students in the BA and BSc in Global Health."
+        },
+        {
+            "dept": "ihst",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Creating Intercultural Safety  ",
+            "prereqs": "hlst1010 ihst1010 psyc1010",
+            "desc": "Global health requires students to understand the core concepts in understanding and navigating &quot;differences&quot; as these are socially produced and embedded within power relations. Students critically examine theoretical approaches to cultural safety, cultural competence and anti-oppression to develop an integrative approach to intercultural awareness and safety. Working with a broad definition of culture that explicitly includes an intersectional understanding of culture/diversity students explore the impact of cultural patterns and social locations on self and others. Through reflective assignments, students gain insight into their own cultural positionality and explore how to be an affective ally and advocate to promote equity and health for all. Understanding varied definitions of health and healing and different approaches to communication are fundamental tools for developing effective health care policies, strategies, and care approaches.\r\nPrerequisites: HH/HLST 1010 3.00 or HH/IHST 1010 3.00 or HH/PSYC 1010 6.00 \r\nNote: This course does not count as a science credit for BSc degree programs."
+        },
+        {
+            "dept": "ihst",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Historical and Contemporary Perspectives on Global Mental Health",
+            "prereqs": "hlst1010 ihst1010 kine1000 psyc1010",
+            "desc": "Explores the historical and contemporary understanding of global mental health, its key concepts and development. Provides a foundation in the classification and treatment of mental illnesses. Analyzes social, cultural and economic factors that affect access to services for mental illnesses across the world. Considers the various public health treatment approaches that have been implemented in developing and developed countries, including integrated care models. Provides an understanding of theories and research on mental well-being and its relationship with public health.\r\nPrerequisites: HH/HLST 1010 3.00 or HH/IHST 1010 3.00 or  HH/KINE 1000 6.00 or HH/PSYC 1010 6.00\r\nOpen to: Students in the Faculty of Health who have at least 54 earned credits"
+        },
+        {
+            "dept": "ihst",
+            "code": "3545",
+            "credit": 3.0,
+            "name": "Promoting Global Health",
+            "prereqs": "ihst1010 ihst2000 ihst2200",
+            "desc": "Students examine the evidence that while progress in achieving important global health outcomes has occurred, significant challenges remain to be solved. Global health issues impacted by such factors as poverty, gender inequality, international trade policy, climate-change, loss of biodiversity, food insecurity, war and displacement are explored as expressions of structural influences which perpetuate global disparities in health. Asking the question \u0093What would it take to achieve health for all? \u0093 students identify pressing global health issues and the global health promotion strategies being used to address them. Prerequisites: HH/IHST 1010 3.00, HH/IHST 2000 3.00, HH/IHST 2200 3.00 Open to: Students in the BA/BSc Global Health."
+        },
+        {
+            "dept": "ihst",
+            "code": "3740",
+            "credit": 3.0,
+            "name": "Health Care Planning for Communities",
+            "prereqs": "",
+            "desc": "This course provides a theoretical and methodological background for health problem analysis and program/service planning at the community and regional levels.  Cross-listed to: HH/NURS 3740 3.00"
+        },
+        {
+            "dept": "ihst",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Independent Study",
+            "prereqs": "",
+            "desc": "Students may arrange to do independent study with faculty members of the Global Health Program and the Faculty of Health. This course is intended to enable students of exceptional ability to pursue individual fields of interest not otherwise provided for by their regular curriculum. Students must be accepted by a faculty supervisor before they can register in this course and require approval from the Program Director. Prerequisite: Students applying for Independent Study must have (1) completed 72 academic credits including related introductory courses in the topic area, and (2) achieved an overall GPA of 6.0 OR a GPA of 6.0 in the student's last 30 credits. Open to: Students in the BA/BSc Global Health and other Health majors and/or students whose study proposal is relevant to current health issues Notes: The maximum number of Independent Study Course credits is 18 credits. Students may take a maximum of 12 credits of Independent Study Courses within their last 30 credits of their degree studies and may take a maximum of 12 credits of Independent Study Courses with the same faculty member."
+        },
+        {
+            "dept": "ihst",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Independent Study",
+            "prereqs": "",
+            "desc": "Students may arrange to do independent study with faculty members of the Global Health Program and the Faculty of Health. This course is intended to enable students of exceptional ability to pursue individual fields of interest not otherwise provided for by their regular curriculum. Students must be accepted by a faculty supervisor before they can register in this course and require approval from the Program Director. Prerequisite: Students applying for Independent Study must have (1) completed 72 academic credits including related introductory courses in the topic area, and (2) achieved an overall GPA of 6.0 OR a GPA of 6.0 in the student's last 30 credits. Open to: Students in the BA/BSc Global Health and other Health majors and/or students whose study proposal is relevant to current health issues Notes: The maximum number of Independent Study Course credits is 18 credits. Students may take a maximum of 12 credits of Independent Study Courses within their last 30 credits of their degree studies and may take a maximum of 12 credits of Independent Study Courses with the same faculty member."
+        },
+        {
+            "dept": "ihst",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Global Health Ethics",
+            "prereqs": "ihst2000",
+            "desc": "Analyzes the nature and extent of some of the main ethical issues involved in global health practice, policy, and research. Explores the theoretical and practical application of global heath\u0092s population-level approach to allow for reflection on the role ethical theory, concepts, and values play in advancing global health\u0092s mission.\r\nPrerequisites: HH/IHST 1010 and HH/IHST 2000 3.0\r\nCourse Credit Exclusion: HH/HLST 4010 3.00\r\nNote: Students can enrol by permission of course instructor."
+        },
+        {
+            "dept": "ihst",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Policy and Program Evaluation in Global Health",
+            "prereqs": "ihst2010 ihst2000",
+            "desc": "Provides an overview to the field of policy and program evaluation including topics such as challenges for evaluation practice in the global health context, working with stakeholders, traditional and critical approaches to research in evaluation, effective evaluation design including logic models and theories of change, the use of mixed methods and management and communication.\nPrerequisites: HH/IHST 2010 6.00, HH/IHST 2000 3.00 \nCorequisite: HH/IHST 3740 3.00."
+        },
+        {
+            "dept": "ihst",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Global Health Governance and Leadership",
+            "prereqs": "ihst2200 ihst2000",
+            "desc": "Introduces students to global health governance as a mechanism for resolving transnational interdependent health problems\r\nwhere global cooperation is needed. The course is designed to give students an understanding of issues in global health governance. The course combines theory with application to develop leadership skills needed to work with organizations that provide support for global health initiatives. Prerequisites: HH/IHST 2200 3.00, HH/IHST 2000 3.00. Prerequisite or corequisite: HH/IHST 4510 3.00."
+        },
+        {
+            "dept": "ihst",
+            "code": "4300",
+            "credit": 9.0,
+            "name": "Global Health Practicum",
+            "prereqs": "ihst4400",
+            "desc": "Designed to bridge theory and practice in a variety of health settings, the Practicum is a 250-hour planned, supervised and evaluated research and practice based experience in which students are mentored and supported by qualified supervisors and faculty. The course also includes seminars and reflective and applied assignments. Prerequisites: All 3000 &amp; 4000 courses in the program except for HH/IHST 4400 3.00. Open to: Global Health majors."
+        },
+        {
+            "dept": "ihst",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Applied Global Health Research Capstone",
+            "prereqs": "",
+            "desc": "This capstone course will be in topic areas reflecting concentrations in Global Health Specialized Honours, Global e-Health; Global Health policy management and systems; Global Health promotion and disease prevention; and Global Health and the Environment. This course will support synthesis of learning from the practicum and previous courses in the program and develop seminar leadership skills. Prerequisites: All 3000- and 4000-level courses in the major. Prerequisite or corequisite: HH/IHST 4300 9.00."
+        },
+        {
+            "dept": "ihst",
+            "code": "4510",
+            "credit": 3.0,
+            "name": "Health and Human Rights",
+            "prereqs": "",
+            "desc": "Provides an introduction to international law, human rights, and the right to health. Explores the relationship between health and human rights, and how human rights provides a form of social machinery to improve well-being and promote social justice. Also explores the benefits and challenges of taking a human rights-based approach in global health through investigating its application in different case studies.\r\nOpen to: Students who have earned at least 36 credits or received permission of course instructor.\r\nCourse Credit Exclusion: HH/HLST 4510 3.00"
+        },
+        {
+            "dept": "ihst",
+            "code": "4720",
+            "credit": 3.0,
+            "name": "Secondary Prevention of Heart Disease: Cardiac Rehabilitation in a Global Context",
+            "prereqs": "",
+            "desc": "Examines the secondary prevention of cardiovascular disease from a behavioural, psychosocial and health services lens. Major emphasis is placed on cardiac rehabilitation, with regard to delivery, effects on health outcomes, and equitable access. Development of cardiac rehabilitation in low-resource settings, and global efforts in control of non-communicable diseases will also be examined. \r\nPrerequisite or corequisite: HH/NURS 3515 3.00 or HH/KINE 2049 3.00 or HH/IHST 2100 3.00.\r\nCross-listed to: HH/IHST 4720 3.00, HH/NURS 4700 3.00"
+        }
+    ]
+}

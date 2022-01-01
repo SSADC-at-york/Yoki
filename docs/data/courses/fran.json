@@ -1,0 +1,348 @@
+{
+    "courses": [
+        {
+            "dept": "fran",
+            "code": "1325",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais de pr\u00e9sp\u00e9cialisation I (courant post-immersif)",
+            "prereqs": "",
+            "desc": "Ce cours s'adresse sp\u00e9cifiquement aux \u00e9tudiants venant d'un programme d'immersion. Il vise \u00e0 am\u00e9liorer les comp\u00e9tences orales et \u00e9crites par la d\u00e9couverte de strat\u00e9gies d'apprentissage et d'autor\u00e9gulation, par une r\u00e9flexion sur la langue et par l'utilisation de divers outils d'apprentissage \u00e9lectroniques. Remarque : Ce cours ne peut pas \u00eatre cr\u00e9dit\u00e9 pour la sp\u00e9cialisation en \u00e9tudes fran\u00e7aises. Cours incompatibles : GL/FRLS 1510 6.00 (Avant l'automne 2013), GL/FRAN 1825 3.00, GL/FRLS 1040 3.00, GL/FRLS 1140 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "1330",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais de pr\u00e9sp\u00e9cialisation II (courant post-immersif)",
+            "prereqs": "",
+            "desc": "Ce cours s'adresse sp\u00e9cifiquement aux \u00e9tudiants venant d'un programme d'immersion. Il vise \u00e0 approfondir les comp\u00e9tences orales et \u00e9crites en fran\u00e7ais par la pratique de strat\u00e9gies d'apprentissage et d'autor\u00e9gulation, par une r\u00e9flexion sur la langue et par l'utilisation de divers outils d'apprentissage \u00e9lectroniques. Remarque : Ce cours ne peut pas \u00eatre cr\u00e9dit\u00e9 pour la sp\u00e9cialisation en \u00e9tudes fran\u00e7aises.Condition pr\u00e9alable : GL/FRAN 1325 3.00 ou GL/FRLS 1140 3.00 avec un minimum de C ou test de placement. Cours incompatibles : GL/FRLS 1510 6.00 (Avant l'automne 2013), GL/FRAN 1830 3.00, GL/FRLS 1041 3.00, GL/FRLS 1141 3.00. "
+        },
+        {
+            "dept": "fran",
+            "code": "1820",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais \u00e9crit et oral : r\u00e9vision des fondements",
+            "prereqs": "",
+            "desc": "Ce cours s'adresse essentiellement aux \u00e9tudiants ayant suivi un cours de fran\u00e7ais langue seconde pr\u00e9universitaire 4U et ayant besoin d'une mise \u00e0 niveau pour envisager la pr\u00e9sp\u00e9cialisation. Il revoit les fondements grammaticaux, lexicaux et communicatifs du fran\u00e7ais et introduit \u00e0 divers outils d'apprentissage \u00e9lectroniques. Cours incompatibles : GL/FRLS 1035 3.00, GL/FRLS 1500 6.00 (Avant l'automne 2013), GL/FRLS 1512 3.00, GL/FRLS 1515 3.00, AP/FR 1030 6.00."
+        },
+        {
+            "dept": "fran",
+            "code": "1825",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais de pr\u00e9sp\u00e9cialisation I",
+            "prereqs": "",
+            "desc": "Ce cours de fran\u00e7ais langue seconde a pour objectif d'amener les \u00e9tudiants \u00e0 consolider leurs bases en fran\u00e7ais oral et \u00e9crit tout en explorant le monde francophone. L'utilisation de divers outils d'apprentissage \u00e9lectroniques fait partie int\u00e9grante du cours. Remarque : Ce cours ne peut pas \u00eatre cr\u00e9dit\u00e9 pour la sp\u00e9cialisation en \u00e9tudes fran\u00e7aises. Condition pr\u00e9alable : GL/FRLS 1035 3.00 ou GL/FRAN 1820 3.00 avec un minimum de C ou GL/FRLS 1515 3.00 avec un minimum de C ou test de placement. Cours incompatibles : GL/FRLS 1510 6.00, GL/FRLS 1040 3.00 (Avant l'automne 2013), GL/FRAN 1325 3.00, GL/FRLS 1140 3.00. "
+        },
+        {
+            "dept": "fran",
+            "code": "1830",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais de pr\u00e9sp\u00e9cialisation II",
+            "prereqs": "",
+            "desc": "Ce cours de fran\u00e7ais langue seconde a pour objectif d'\u00e9largir les comp\u00e9tences \u00e9crites et orales en fran\u00e7ais des \u00e9tudiants ainsi que leur connaissance du monde francophone. L'utilisation de divers outils d'apprentissage \u00e9lectroniques fait partie int\u00e9grante du cours.Remarque : Ce cours ne peut pas \u00eatre cr\u00e9dit\u00e9 pour la sp\u00e9cialisation en \u00e9tudes fran\u00e7aises. Condition pr\u00e9alable : GL/FRLS 1040 3.00 ou GL/FRAN 1825 3.00 avec un minimum de C ou test de placement. Cours incompatibles : GL/FRLS 1041 3.00, GL/FRLS 1510 6.00, GL/FRAN 1330 3.00, GL/FRLS 1141 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "1835",
+            "credit": 3.0,
+            "name": "Fran\u00e7ais de pr\u00e9sp\u00e9cialisation III",
+            "prereqs": "",
+            "desc": "Ce cours de fran\u00e7ais langue seconde vise \u00e0 consolider les comp\u00e9tences \u00e9crites en fran\u00e7ais par le r\u00e9emploi et l'ancrage de structures grammaticales, l'enrichissement lexical, le travail de la coh\u00e9rence textuelle et l'utilisation des outils \u00e9lectroniques d'aide \u00e0 la r\u00e9daction mis \u00e0 leur disposition. Remarque : Ce cours ne peut pas \u00eatre cr\u00e9dit\u00e9 pour la sp\u00e9cialisation en \u00e9tudes fran\u00e7aises. Conditions pr\u00e9alables : GL/FRLS 1041 3.00 ou GL/FRAN 1830  3.00 avec un minimum de C, GL/FRLS 1141 3.00 ou GL/FRAN 1330 3.00 avec un minimum de C, ou \u00e9quivalent. Cours incompatibles : GL/FRLS 1240 3.00, GL/FRLS 1530 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "1870",
+            "credit": 3.0,
+            "name": "Pratiques phon\u00e9tique, auditive et orale ",
+            "prereqs": "",
+            "desc": "Ce cours propose un entra\u00eenement intensif au fran\u00e7ais oral. Il vise \u00e0 d\u00e9velopper la comp\u00e9tence orale des \u00e9tudiants en leur faisant faire des exercices de discrimination auditive, des exercices d'\u00e9coute et de transcription phon\u00e9tique. Il cherche aussi \u00e0 am\u00e9liorer la qualit\u00e9 de la prononciation et du d\u00e9bit ainsi que la correction grammaticale et la pr\u00e9cision lexicale des productions orales. Remarque : Ce cours devrait id\u00e9alement se suivre en m\u00eame temps que le GL/FRAN 1835 3.00.  Il n'est pas ouvert aux \u00e9tudiants qui suivent ou ont suivi des cours de langue du courant francophone (GL/FRAN 1740 3.00 , GL/FRAN 1745 3.00, GL/FRAN 2210 3.00, GL/FRAN 2710 3.00,  GL/FRAN 2212 3.00, GL/FRAN 2712 3.00, GL/FRAN 3240 3.00, GL/FRAN 3710 3.00, GL/FRAN 3712 3.00 et GL/FRAN 3241 3.00). Cours incompatible : GL/FRLS 1700 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "2335",
+            "credit": 6.0,
+            "name": "Initiation \u00e0 la m\u00e9thodologie litt\u00e9raire",
+            "prereqs": "",
+            "desc": "Ce cours de m\u00e9thodologie a pour objectif de familiariser les \u00e9tudiants avec les techniques et la terminologie de la critique litt\u00e9raire appliqu\u00e9e aux trois genres: roman, th\u00e9\u00e2tre et po\u00e9sie. Les \u00e9tudiants seront initi\u00e9s aux diff\u00e9rentes d\u00e9marches de la dissertation litt\u00e9raire (recherche, bibliographie, r\u00e9f\u00e9rences et plan) et \u00e0 l'analyse litt\u00e9raire proprement dite. Des approches diverses seront appliqu\u00e9es - l'analyse d'\u00e9l\u00e9ments litt\u00e9raires tels que le personnage, l'organisation spatiale et temporelle, l'\u00e9nonciation, l'intertexte, le style. Condition pr\u00e9alable : Justifier d'un minimum de C en GL/FRLS 1240 3.00 (ou GL/FRLS 1530 3.00) ou en GL/FRAN 1745 3.00 ou permission du d\u00e9partement. Cours incompatible : AP/FR 2200 6.00. Remarque : Tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises devra justifier d'un minimum de C dans le GL/FRAN 2335 6.00 avant de pouvoir s'inscrire dans n'importe quel autre cours de litt\u00e9rature pour lequel GL/FRAN 2335 6.00 est un pr\u00e9alable. "
+        },
+        {
+            "dept": "fran",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Introduction \u00e0 la linguistique g\u00e9n\u00e9rale et fran\u00e7aise",
+            "prereqs": "",
+            "desc": "On \u00e9tudiera l'appareil conceptuel de la linguistique structurale, en montrant quel regard elle autorise sur les langues en g\u00e9n\u00e9ral et sur le fran\u00e7ais en particulier. L'examen syst\u00e9matique des niveaux d'analyse (phonologie, morphologie, syntaxe et s\u00e9mantique) permettra d'aborder les principales th\u00e9ories contemporaines : fonctionnalisme, g\u00e9n\u00e9rativisme, linguistique \u00e9nonciative. Conditions pr\u00e9alables : Justifier d'un minimum de C en GL/FRLS 1240 3.00 ou GL/FRAN 1835 3.00 (ou GL/FRLS 1530 3.00) ou GL/FRAN 1745 3.00 ou permission du d\u00e9partement. Cours incompatibles : AP/FR 2100 6.00. Remarque : Tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises devra justifier d'un minimum de C dans le GL/FRAN 2600 6.00 avant de pouvoir s'inscrire dans n'importe quel autre cours de linguistique pour lequel GL/FRAN 2600 6.00 est un pr\u00e9alable. "
+        },
+        {
+            "dept": "fran",
+            "code": "2621",
+            "credit": 6.0,
+            "name": "Faire du th\u00e9\u00e2tre en fran\u00e7ais",
+            "prereqs": "",
+            "desc": "Ce cours introduit des notions g\u00e9n\u00e9rales sur les th\u00e9\u00e2tres francophones, mettant l'accent sur le vocabulaire sp\u00e9cialis\u00e9 de ce champ d'\u00e9tudes. Les personnes dans le cours auront l'occasion de se familiariser concr\u00e8tement avec toutes les disciplines d'une production th\u00e9\u00e2trale lors d'un spectacle public. "
+        },
+        {
+            "dept": "fran",
+            "code": "2710",
+            "credit": 3.0,
+            "name": "Pratiques de r\u00e9daction : r\u00e9sum\u00e9 et synth\u00e8se",
+            "prereqs": "",
+            "desc": "Ce cours a pour objet le traitement synth\u00e9tique de l'information. Il s'appuie sur une m\u00e9thodologie ayant pour objectifs la s\u00e9lection pertinente de l'information et l'utilisation optimale des outils linguistiques. Les \u00e9tudiants auront \u00e0 produire des synth\u00e8ses et des r\u00e9sum\u00e9s \u00e0 partir de sources vari\u00e9es. Condition pr\u00e9alable :  GL/FRAN 1745 3.00 avec un minimum de C, ou test de classement. Cours incompatible : GL/FRAN 2210 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "2712",
+            "credit": 3.0,
+            "name": "Pratiques de r\u00e9daction : l'argumentation",
+            "prereqs": "",
+            "desc": "Ce cours a pour objet l'analyse et la r\u00e9daction de textes argumentatifs et s'appuie sur l'observation et la mise en oeuvre de la description, de l'explication et de l'argumentation dans la phrase, le paragraphe et le texte. Il inclut l'\u00e9tude syst\u00e9matique des outils linguistiques n\u00e9cessaires \u00e0 la compr\u00e9hension et \u00e0 la production de textes argumentatifs. Condition pr\u00e9alable : avoir obtenu une note minimum de C en GL/FRAN 2710 3.00 ou GL/FRAN 2210 3.00. Cours incompatible : GL/FRAN 2212 3.00. "
+        },
+        {
+            "dept": "fran",
+            "code": "2810",
+            "credit": 6.0,
+            "name": "Fran\u00e7ais \u00e9crit pour sp\u00e9cialistes",
+            "prereqs": "",
+            "desc": "Ce cours de fran\u00e7ais langue seconde de sp\u00e9cialisation propose un entra\u00eenement intensif au fran\u00e7ais \u00e9crit, en s'appuyant sur l'utilisation r\u00e9guli\u00e8re d'outils \u00e9lectroniques d'aide \u00e0 la r\u00e9daction et sur diverses pratiques d'\u00e9criture collaborative, notamment \u00e9lectronique.Condition pr\u00e9alable : GL/FRLS 1530 3.00 avec un minimum de C, ou GL/FRAN 1835 3.00 ou GL/FRLS 1240 3.00 avec un minimum de C, ou permission du d\u00e9partement.  Cours incompatible : GL/ FRLS 2240 6.00."
+        },
+        {
+            "dept": "fran",
+            "code": "2870",
+            "credit": 3.0,
+            "name": "Traits caract\u00e9ristiques du fran\u00e7ais parl\u00e9  ",
+            "prereqs": "",
+            "desc": "Ce cours a pour double objectif l'am\u00e9lioration du fran\u00e7ais parl\u00e9 par les \u00e9tudiants en situation de communication (d\u00e9bit, fluidit\u00e9, pr\u00e9cision...), ainsi que l'acquisition d'une connaissance plus pouss\u00e9e du fran\u00e7ais parl\u00e9 dans la diversit\u00e9 de ses formes. Condition pr\u00e9alable : GL/FRAN 1835 3.00 ou GL/FRLS 1240 3.00 ou GL/FRLS 1530 3.00 ou permission du D\u00e9partement. Cours incompatibles : GL/FRLS 2700 3.00, AP/FR 2082 3.00. Remarque : ce cours n'est pas ouvert aux \u00e9tudiants qui suivent ou ont suivi des cours de langue du courant francophone (GL/FRAN 1740 3.00, GL/FRAN 1745 3.00, GL/FRAN 2210 3.00, GL/FRAN 2710 3.00, GL/FRAN 2212 3.00, GL/FRAN 2712 3.00, GL/FRAN 3240 3.00, GL/FRAN 3710 3.00, GL/FRAN 3241 3.00, GL/FRAN 3712 3.00)."
+        },
+        {
+            "dept": "fran",
+            "code": "3214",
+            "credit": 3.0,
+            "name": "R\u00e9daction professionnelle et technologie du texte",
+            "prereqs": "",
+            "desc": "Ce cours vise \u00e0 former les \u00e9tudiants \u00e0 la r\u00e9daction et \u00e0 la mise en page de diff\u00e9rents genres de textes professionnels en exploitant \r\npleinement les outils informatiques servant \u00e0 la production de documents, le tout dans l'optique d'une efficacit\u00e9 communicationnelle \r\naccrue.\r\nCondition pr\u00e9alable : GL/FRAN 2810 6.00 ou GL/FRAN 2712 3.00 (ou GL/FRLS 2240 6.00 ou GL/FRAN 2212 3.00) avec un minimum de C, ou \u00e9quivalent."
+        },
+        {
+            "dept": "fran",
+            "code": "3252",
+            "credit": 3.0,
+            "name": "La litt\u00e9rature jeunesse contemporaine",
+            "prereqs": "",
+            "desc": "Ce cours a pour objet l'\u00e9tude de la litt\u00e9rature pour enfants au Canada fran\u00e7ais et en France : son statut, ses formes, ses th\u00e8mes de pr\u00e9dilection, ses inspirations, ses illustrations et son exploitation p\u00e9dagogique. Condition pr\u00e9alable : GL/FRAN 2335 6.00 ou permission du d\u00e9partement. Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. "
+        },
+        {
+            "dept": "fran",
+            "code": "3305",
+            "credit": 3.0,
+            "name": "Initiation \u00e0 l'\u00e9tude du mythe litt\u00e9raire",
+            "prereqs": "",
+            "desc": "Ce cours offre une introduction aux principaux outils th\u00e9oriques servant au rep\u00e9rage des mythes dans la litt\u00e9rature contemporaine. Les th\u00e9ories mythocritique et mythanalytique, principalement, mais aussi les travaux de Joseph Campbell, de Ren\u00e9 Girard et de John J. White seront \u00e9tudi\u00e9s. De nombreux extraits d'oeuvres, tir\u00e9s notamment des corpus litt\u00e9raires fran\u00e7ais et qu\u00e9b\u00e9cois, permettront de mettre en pratique la mati\u00e8re examin\u00e9e dans le cadre du cours d'Initiation aux grandes mythologies."
+        },
+        {
+            "dept": "fran",
+            "code": "3306",
+            "credit": 3.0,
+            "name": "Introduction aux grandes mythologies",
+            "prereqs": "",
+            "desc": "Ce cours propose une introduction aux grands mythes fondateurs d'Occident et d'Orient et une exploration des th\u00e8mes aff\u00e9rents aux ensembles mythologiques : cosmogonie, architecture cosmique, eschatologie, divinit\u00e9s et h\u00e9ros, ordre social. M\u00e8re universelle, mythes modernes, etc. La lecture d'extraits de textes anciens de la litt\u00e9rature permettra de se familiariser avec ces th\u00e8mes et de se doter d'outils de rep\u00e9rage des mythes dans la litt\u00e9rature contemporaine."
+        },
+        {
+            "dept": "fran",
+            "code": "3310",
+            "credit": 3.0,
+            "name": "Roman du XIXe si\u00e8cle",
+            "prereqs": "",
+            "desc": "Bref historique de l'activit\u00e9 litt\u00e9raire et artistique depuis la R\u00e9volution fran\u00e7aise. \u00c9volution du genre romanesque, du romantisme au r\u00e9alisme et au naturalisme. \u00c9tude d\u00e9taill\u00e9e de quelques \u009cuvres marquantes. Condition pr\u00e9alable : GL/FRAN 2335 6.00 ou permission du d\u00e9partement.  Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Cours incompatibles : AP/FR 4341 3.00, AP/FR 4343 3.00. "
+        },
+        {
+            "dept": "fran",
+            "code": "3321",
+            "credit": 3.0,
+            "name": "Roman de la premi\u00e8re moiti\u00e9 du XXe si\u00e8cle en France ",
+            "prereqs": "",
+            "desc": "\u00c9tude de quatre ou cinq oeuvres repr\u00e9sentatives du genre romanesque en France dans la premi\u00e8re moiti\u00e9 du XXe si\u00e8cle. Condition pr\u00e9alable : GL/FRAN 2335 6.00 ou permission du d\u00e9partement. Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Cours incompatible : GL/FRAN 3320 6.00"
+        },
+        {
+            "dept": "fran",
+            "code": "3515",
+            "credit": 3.0,
+            "name": "Cin\u00e9ma fran\u00e7ais",
+            "prereqs": "",
+            "desc": "Le cours propose l\u0092\u00e9tude du d\u00e9veloppement du cin\u00e9ma fran\u00e7ais, des recherches et sp\u00e9cificit\u00e9s de chaque p\u00e9riode de son constant renouvellement, des apports des principaux r\u00e9alisateurs, ainsi que des rapports qui placent le cin\u00e9ma dans son contexte social, \u00e9conomique et politique. \r\nCondition pr\u00e9alable : GL/FRAN 2810 6.00 avec un minimum de C ou GL/FRAN 2710 3.00 avec un minimum de C ou permission du D\u00e9partement d\u0092\u00e9tudes fran\u00e7aises.\r\nCours incompatible : GL/HUMA/FRAN 3915 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "3556",
+            "credit": 3.0,
+            "name": "Introduction aux th\u00e9ories psycholinguistiques appliqu\u00e9es \u00e0 l'apprentissage des L2",
+            "prereqs": "",
+            "desc": "Ce cours compare l'acquisition de L1 et de L2 et \u00e9tudie les facteurs psychologiques et cognitifs individuels (personnalit\u00e9, attitude, motivation, anxi\u00e9t\u00e9, intelligence, m\u00e9moire...) qui influencent l'apprentissage des L2. Il examine les th\u00e9ories de la p\u00e9riode critique et celles des styles/strat\u00e9gies d'apprentissage. Condition pr\u00e9alable : GL/FRAN LIN 2600 6.00. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Avant l'automne 2016: cours incompatibles : GL/FRAN 3656 3.00, GL/LIN 3656 3.00. Cours incompatibles : GL/FRAN 4656 3.00, GL/LIN 4656 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "La dramaturgie du XVIIe si\u00e8cle",
+            "prereqs": "",
+            "desc": "Ce cours porte sur le th\u00e9\u00e2tre du \u00ab Grand Si\u00e8cle \u00bb. Seront \u00e9tudi\u00e9es certaines oeuvres de Corneille, Moli\u00e8re et Racine aussi bien que quelques pi\u00e8ces baroques et les th\u00e9ories de Boileau sur le th\u00e9\u00e2tre. Condition pr\u00e9alable : GL/FRAN 2870 3.00 ou GL/FRLS 2700 3.00 ou permission du d\u00e9partement d'\u00e9tudes fran\u00e7aises.\nCours incompatible: GL/FRAN 3250 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "3608",
+            "credit": 3.0,
+            "name": "Roman f\u00e9minin des XVIIe, XVIIIe et XIXe si\u00e8cles",
+            "prereqs": "",
+            "desc": "Analyse de 4 ou 5 romans f\u00e9minins des XVIIe, XVIIIe et XIXe si\u00e8cles choisis pour la contribution de leurs auteures \u00e0 l'\u00e9volution du genre romanesque et leur participation \u00e0 la vie intellectuelle."
+        },
+        {
+            "dept": "fran",
+            "code": "3614",
+            "credit": 3.0,
+            "name": "Grammaire raisonn\u00e9e du fran\u00e7ais : approche \u00e9nonciative",
+            "prereqs": "",
+            "desc": "Dans ce cours, nous montrons comment des outils issus des th\u00e9ories \u00e9nonciatives de Benveniste, Ducrot et Culioli peuvent fournir aux linguistes et \u00e9ventuellement aux futurs enseignants de langue de solides bases permettant d'expliquer les r\u00e8gles sous-jacentes aux marqueurs grammaticaux. Condition pr\u00e9alable : GL/FRAN 2600 6.00 ou GL/LIN 2600 6.00.  Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises."
+        },
+        {
+            "dept": "fran",
+            "code": "3621",
+            "credit": 3.0,
+            "name": "Phon\u00e9tique/Phonologie du fran\u00e7ais moderne",
+            "prereqs": "",
+            "desc": "Phon\u00e9tique articulatoire; classification des consonnes et des voyelles. \u00c9tablissement de la distinction entrephon\u00e9tique et phonologie, notion de phon\u00e8me, traits distinctifs. Phon\u00e9tique combinatoire (syllabe, assimilation, liaison) et suprasegmentale (accent, intonation). Description phonologique des fran\u00e7ais contemporains; \u00e9tude d\u00e9taill\u00e9e du fran\u00e7ais canadien. Condition pr\u00e9alable : Cours d'introduction \u00e0 la linguistique ou GL/FRAN 2600 6.00 ou GL/LIN 2600 6.00 ou GL/EN 2605 6.00 ou GL/LIN 2605 6.00. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Cours incompatibles : AP/FR 3140 6.00, GL/LIN 3603 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "3622",
+            "credit": 3.0,
+            "name": "S\u00e9mantique",
+            "prereqs": "",
+            "desc": "Ce cours analyse la probl\u00e9matique du sens et de la r\u00e9f\u00e9rence, la s\u00e9mantique lexicale (polys\u00e9mie, synonymie, notion de marque), la s\u00e9mantique grammaticale : (deixis du temps et de la personne, aspects, modalit\u00e9s, d\u00e9termination). Ce cours traite du passage de la s\u00e9mantique \u00e0 la pragmatique : (typologie de l'implicit\u00e9 et actes de discours). Condition pr\u00e9alable : Cours d'introduction \u00e0 la linguistique ou GL/FRAN 2600 6.00 ou GL/LIN 2600 6.00 ou GL/EN 1603 6.00 ou GL/LIN 1603 6.00. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Cours incompatibles : GL/LIN 3611 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "3710",
+            "credit": 3.0,
+            "name": "Stylistique fran\u00e7aise I : \u00e9criture d'un article",
+            "prereqs": "",
+            "desc": "Ce cours a pour but la ma\u00eetrise du fran\u00e7ais \u00e9crit gr\u00e2ce \u00e0 l'\u00e9tude approfondie de textes vari\u00e9s et \u00e0 la pratique intensive de l'\u00e9criture. Il comporte une partie th\u00e9orique (fonctions du langage; notions de norme, de style, de registre, figures de style, etc.) et une partie pratique (analyse de textes, entra\u00eenement \u00e0 la r\u00e9daction). Ce cours est centr\u00e9 sur l'\u00e9criture journalistique avec pour travail final la r\u00e9daction d'un article. Condition pr\u00e9alable :  GL/FRAN 2712 3.00 ou GL/FRAN 2212 3.00 avec une note minimale de C, ou cours reconnu par le d\u00e9partement comme \u00e9quivalent. Cours incompatibles : GL/FRLS 3810 3.00/6.00, GL/FRLS 3240 3.00, GL/FRAN 3240 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "3810",
+            "credit": 6.0,
+            "name": "R\u00e9daction avanc\u00e9e en fran\u00e7ais langue seconde ",
+            "prereqs": "",
+            "desc": "Ce cours propose un travail intensif de r\u00e9daction de divers types de r\u00e9sum\u00e9s, de textes d'id\u00e9es et de r\u00e9cits. Il vise ainsi la consolidation de la grammaire des accords, l'emploi de structures syntaxiques lib\u00e9r\u00e9es de l'anglais et s\u00e9mantiquement pertinentes, la pr\u00e9cision et l'ad\u00e9quation lexicales, et une capacit\u00e9 r\u00e9dactionnelle en langue seconde de niveau universitaire. L'utilisation des outils \u00e9lectroniques fait partie int\u00e9grante du cours. \r\nCondition pr\u00e9alable : GL/FRAN 2810 6.00 ou GL/FRLS 2240 6.00 (avec un minimum de C) ou tout cours reconnu par le D\u00e9partement comme \u00e9quivalent.\r\nCours incompatibles : GL/FRLS 3240 3.00, GL/FRAN 3810 3.00, GL/FRAN 3812 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "3865",
+            "credit": 3.0,
+            "name": "Le fran\u00e7ais des stars",
+            "prereqs": "",
+            "desc": "Ce cours a pour objectif de travailler prononciation et \u00e9locution par le biais du fran\u00e7ais oral des milieux litt\u00e9raire, th\u00e9\u00e2tral/cin\u00e9matographique et m\u00e9diatique. Il pr\u00e9sente l'\u00e9volution de la prononciation et de l'\u00e9locution fran\u00e7aises et invite les \u00e9tudiants \u00e0 r\u00e9citer des po\u00e8mes, d\u00e9clamer des tirades et pr\u00e9senter l'actualit\u00e9. \r\nCondition pr\u00e9alable : GL/FRAN 2870 3.00 avec un minimum de C ou permission du D\u00e9partement d'\u00e9tudes fran\u00e7aises. Remarque : ce cours n'est pas ouvert aux francophones.\r\nCours incompatible : GL/FRLS 3925 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "3870",
+            "credit": 3.0,
+            "name": "Le fran\u00e7ais oral contemporain ",
+            "prereqs": "",
+            "desc": "Ce cours a pour objectif l'\u00e9tude de vari\u00e9t\u00e9s orales du fran\u00e7ais contemporain (r\u00e9gionales, stylistiques, sociales, etc.) ainsi que l'acquisition de structures phonologiques, morphologiques et syntaxiques et d'un lexique adapt\u00e9s aux exigences des situations de communication authentiques. \r\nCondition pr\u00e9alable : GL/FRAN 2870 3.00 ou GL/FRLS 2700 3.00 (avec un minimum de C) ou tout cours reconnu par le d\u00e9partement comme \u00e9quivalent. Cours incompatibles :  GL/FRLS 3700 3.00, AP/FR 3089 6.00. Remarque : Ce cours  n'est pas ouvert aux \u00e9tudiants qui suivent ou ont suivi des cours de langue du courant francophone (GL/FRAN 1740 3.00, GL/FRAN 1745 3.00, GL/FRAN 2210 3.00 ou GL/FRAN 2710 3.00,  GL/FRAN 2212 3.00 ou GL/FRAN 2712 3.00, GL/FRAN 3240 3.00  ou GL/FRAN 3710 3.00 et GL/FRAN 3241 3.00 ou GL/FRAN 3712 3.00)."
+        },
+        {
+            "dept": "fran",
+            "code": "3921",
+            "credit": 3.0,
+            "name": "Litt\u00e9rature suisse de langue fran\u00e7aise",
+            "prereqs": "",
+            "desc": "\u00c9tude de la litt\u00e9rature suisse de langue fran\u00e7aise envisag\u00e9e dans son contexte historique et social. Condition pr\u00e9alable GL/FRAN 2335 6.00 ou permission du d\u00e9partement.  Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises"
+        },
+        {
+            "dept": "fran",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Travail Individuel",
+            "prereqs": "",
+            "desc": "Les \u00e9tudiants de quatri\u00e8me ann\u00e9e peuvent choisir un programme d'\u00e9tude individuel. Pour ce faire, ils doivent soumettre au directeur du d\u00e9partement une description de l'\u00e9tude projet\u00e9e. Cette description (d\u00e9taill\u00e9e et accompagn\u00e9e d'une bibliographie) doit \u00eatre sign\u00e9e par le professeur qui aura accept\u00e9 de diriger le travail. Conditions pr\u00e9alables : (1) L'\u00e9tudiant doit avoir obtenu une moyenne minimale de B+ dans les cours suivis au D\u00e9partement d'\u00e9tudes fran\u00e7aises. (2) Le cours individuel doit \u00eatre dirig\u00e9 par un professeur de litt\u00e9rature, de linguistique ou de didactique du d\u00e9partement, et dans le seul domaine de sa profession. (3) Ce cours ne peut en aucune man\u00e8re remplacer un cours d\u00e9j\u00e0 offert par le d\u00e9partement. (4) \u00c0 moins de circonstances exceptionnelles, aucun professeur ne pourra diriger plus d'un \u00e9tudiant pendant l'ann\u00e9e universitaire. (5) Un m\u00eame \u00e9tudiant ne peut suivre qu'un seul cours FRAN 4100 3.00, FRAN 4100 6.00 pendant ses \u00e9tudes \u00e0 Glendon. Cours incompatible : AS/FR 4900 6.00."
+        },
+        {
+            "dept": "fran",
+            "code": "4212",
+            "credit": 3.0,
+            "name": "Conception et publication de documents",
+            "prereqs": "",
+            "desc": "Le cours couvre deux grandes composantes de la production de documents : la conception du mat\u00e9riel textuel et iconographique \u00e0 partir de sources primaires et leur agencement dans des produits de communication. Condition pr\u00e9alable: GL/FRAN 3214 3.00 avec un minimum de C."
+        },
+        {
+            "dept": "fran",
+            "code": "4277",
+            "credit": 3.0,
+            "name": "\u00c9criture narrative",
+            "prereqs": "",
+            "desc": "Ce cours forme les \u00e9tudiants \u00e0 l'\u00e9criture des genres litt\u00e9raires narratifs (conte, nouvelle, roman). Il vise \u00e0 amener chaque \u00e9tudiant \u00e0 am\u00e9liorer son \u00e9criture, en ma\u00eetrisant diff\u00e9rentes notions stylistiques et narratives. Condition pr\u00e9alable GL/FRAN 2335 6.00.  Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Cours incompatible : GL/FRAN 3241 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "4532",
+            "credit": 3.0,
+            "name": "Images \u00e0 lire et textes \u00e0 voir",
+            "prereqs": "",
+            "desc": "Ce cours vise \u00e0 explorer les diff\u00e9rentes fonctions que l'image remplit au sein du texte litt\u00e9raire. Le livre illustr\u00e9 et la description picturale, notamment celle des oeuvres d'art (ekphrasis), sont au centre de notre \u00e9tude. Condition pr\u00e9alable : GL/FRAN 2335 6.00. Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises."
+        },
+        {
+            "dept": "fran",
+            "code": "4537",
+            "credit": 3.0,
+            "name": "Monstres et monstrueux litt\u00e9raires ",
+            "prereqs": "",
+            "desc": "Ce cours vise \u00e0 comprendre, d\u00e9crire et interpr\u00e9ter les formes esth\u00e9tiques de la monstruosit\u00e9 dans un corpus de textes francophones tant populaire que consacr\u00e9 depuis la seconde moiti\u00e9 du XIXe si\u00e8cle jusqu'\u00e0 nos jours. Ce cours souhaite montrer que le monstre influence la d\u00e9finition et l'\u00e9volution de la modernit\u00e9 litt\u00e9raire. Condition pr\u00e9alable GL/FRAN 2335 6.00 ou permission du d\u00e9partement.  Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises"
+        },
+        {
+            "dept": "fran",
+            "code": "4550",
+            "credit": 3.0,
+            "name": "Voix de femmes au XXe si\u00e8cle",
+            "prereqs": "",
+            "desc": "Ce cours semestriel offre, \u00e0 travers les textes de cinq \u00e9crivaines fran\u00e7aises, une r\u00e9flexion sur la probl\u00e9matique des femmes au XXe si\u00e8cle. D'une part, couvrant le si\u00e8cle entier, les lectures feront l'objet d'une contextualisation socio-historique et offriront un aper\u00e7u de l'\u00e9volution de la condition des femmes. D'autre part, elles permettront d'aborder trois genres litt\u00e9raires : le roman, l'autobiographie et la nouvelle.\r\nCondition pr\u00e9alable : GL/FRAN 2335 6.00.  Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises"
+        },
+        {
+            "dept": "fran",
+            "code": "4562",
+            "credit": 3.0,
+            "name": "Linguistique appliqu\u00e9e \u00e0 l'apprentissage et l'enseignement du fran\u00e7ais langue seconde",
+            "prereqs": "",
+            "desc": "Ce course examine et analyse, de fa\u00e7on critique, les th\u00e9ories contemporaines sur l'apprentissage et l'enseignement des langues secondes et en particulier du fran\u00e7ais langue seconde. Condition pr\u00e9alable : GL/FRAN 2600 6.00. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Avant l'automne 2016: cours incompatibles : GL/FRAN 4662 3.00, GL/LIN 4662 3.00. Avant l'automne 2011: cours incompatibles: GL/FRAN 4662 6.00, GL/LIN 4662 6.00."
+        },
+        {
+            "dept": "fran",
+            "code": "4640",
+            "credit": 3.0,
+            "name": "Litt\u00e9rature maghr\u00e9bine au pluriel",
+            "prereqs": "",
+            "desc": "Ce cours vise \u00e0 fournir un aper\u00e7u des \u00e9tapes marquantes des litt\u00e9ratures maghr\u00e9bines de langue fran\u00e7aise. L'accent sera mis sur l'analyse de ces litt\u00e9ratures dans le contexte historique, politique et socio-culturel des trois pays du Maghreb. On explorera, entre autres, les oeuvres repr\u00e9sentatives des \u00e9crivains alg\u00e9riens, marocains et tunisiens suivants : H\u00e9l\u00e9 B\u00e9ji, Tahar Ben Jelloun, Rachid Boudjedra, Driss Chraibi, Mohammed Dib, Assia Djebar, Edmond Amran El Maleh, Rachid Mimouni, Abdelwahab Meddeb, Albert Memmi, Malika Mokeddem. Condition pr\u00e9alable : GL/FRAN 2335 6.00. Remarque : une note minimale de C en GL/FRAN 2335 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises."
+        },
+        {
+            "dept": "fran",
+            "code": "4651",
+            "credit": 6.0,
+            "name": "Histoire de la langue fran\u00e7aise",
+            "prereqs": "",
+            "desc": "Ce cours comprend deux parties: I. Introduction \u00e0 la linguistique historique (d\u00e9finition et concepts, m\u00e9thodologie, changement linguistique). II. \u00c9volution historique du fran\u00e7ais: origine et formation (langue d'oil et langue d'oc); l'ancien fran\u00e7ais (structure et dialectes); le moyen fran\u00e7ais (transformations linguistiques, fran\u00e7ais litt\u00e9raire/fran\u00e7ais populaire); le fran\u00e7ais moderne (type et tendances \u00e9volutives, le fran\u00e7ais et les langues romanes, les vari\u00e9t\u00e9s sociolinguistiques et r\u00e9gionales, le fran\u00e7ais au Canada). Condition pr\u00e9alable : Cours d'introduction \u00e0 la linguistique. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises.Cours incompatibles : AP/FR 4110 6.00, GL/FRAN 4651 3.00."
+        },
+        {
+            "dept": "fran",
+            "code": "4657",
+            "credit": 3.0,
+            "name": "La Sociolinguistique et les r\u00e9alit\u00e9s de la francophonie",
+            "prereqs": "",
+            "desc": "Situation historique de la sociolinguistique. Aspects fondamentaux de cette science. Langues - dialectes - patois. Norme, tol\u00e9rance, tabous, mythes qui r\u00e9gissent les diverses vari\u00e9t\u00e9s de fran\u00e7ais (qu\u00e9b\u00e9cois, fran\u00e7ais, franco-ontarien, cr\u00e9ole etc.). Influences des institutions religieuses, du r\u00f4le de la femme dans la soci\u00e9t\u00e9, des classes sociales, des fonctions du langage. Condition pr\u00e9alable : Cours d'introduction \u00e1 la linguistique. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. "
+        },
+        {
+            "dept": "fran",
+            "code": "4658",
+            "credit": 3.0,
+            "name": "Lexicologie/Lexicographie      ",
+            "prereqs": "",
+            "desc": "1. G\u00e9n\u00e9ralit\u00e9s : les mots et les choses. Lexique et vocabulaire. Synchronie et diachronie. Lexicologie et lexicolographie; leur place au sein de la linguistique 2. Le mot, le signe linguistique et l'unit\u00e9 lexicale. Lex\u00e8mes et synth\u00e8mes. Identification des unit\u00e9s lexicales : synth\u00e8mes, figements et syntagmes. Formation des unit\u00e9s lexicales. L'information lexicale. 3. Lexicologie : typologie des dictionnaires. Nomenclature, article. Condition pr\u00e9alable : cours d'introduction \u00e0 la linguistique. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "pacc",
+            "code": "5530",
+            "credit": 3.0,
+            "name": "Financial Statement Analysis and Valuation",
+            "prereqs": "",
+            "desc": "Students learn to analyse corporate financial performance using financial statements and  other information from Canadian companies.  They learn multiple methods of valuing companies.  They write professional analytical and valuation reports and explain complex technical reports in oral presentations."
+        },
+        {
+            "dept": "pacc",
+            "code": "5550",
+            "credit": 3.0,
+            "name": "Issues in the Practice of Assurance",
+            "prereqs": "",
+            "desc": "The objective of the course is to develop both the technical and practical knowledge necessary to be a competent professional auditor in a variety of engagements. Through writing and presenting professional reports, working in teams, and critiquing current practices, students are guided to provide balanced solutions, which reflect ethical and professional values, to problems that today\u0092s professional auditors face."
+        },
+        {
+            "dept": "pacc",
+            "code": "5560",
+            "credit": 3.0,
+            "name": "Taxation and Financial Decision-Making in Canada",
+            "prereqs": "",
+            "desc": "Building on undergraduate courses in personal and corporate tax, this course uses the case study method to help students further develop and integrate the key competencies and tax knowledge needed by Canadian accountants in public practice, industry, and government. It looks at the importance of tax in financial decision-making and financial reporting and good internal control and risk management practices."
+        },
+        {
+            "dept": "pacc",
+            "code": "5570",
+            "credit": 3.0,
+            "name": "Performance Management Systems",
+            "prereqs": "",
+            "desc": "Introduces fundamental theories and concepts behind performance measurements and how these relate to governance, ethics and risk. It makes extensive use of cases to highlight lessons learned and best practices. It aims to develop critical thinking skills via the application of concepts and theories to business cases and improves students\u0092 understanding of management behavior related to performance measurements. PRIOR TO FALL 2015: Course credit exclusion: GS/FACC 6140 3.00."
+        },
+        {
+            "dept": "pacc",
+            "code": "5590",
+            "credit": 3.0,
+            "name": "Integrative Analysis in Accounting",
+            "prereqs": "",
+            "desc": "This case-based course focuses on the development of integrative and analytical skills that professional accountants should possess. Technical areas of study include financial reporting, governance and strategy, management accounting, assurance, finance, and taxation. Through teamwork, report writing, and presentation, students are guided to provide solutions to issues that today\u0092s accountants may face, while maintaining ethical behaviour and professionalism."
+        }
+    ]
+}

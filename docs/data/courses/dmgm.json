@@ -1,0 +1,92 @@
+{
+    "courses": [
+        {
+            "dept": "dmgm",
+            "code": "5010",
+            "credit": 1.5,
+            "name": "Organizational Theory and Strategic Management",
+            "prereqs": "",
+            "desc": "This course is designed to expose students to a macro-perspective on organizations and many facets of organizing and strategy that contribute to varied organizational performance."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5020",
+            "credit": 1.5,
+            "name": "Principles of Marketing Managemen",
+            "prereqs": "",
+            "desc": "The course serves as an integral module of the Graduate Diploma in Management programme and provides a condensed introduction into basic marketing functions within an organization. Prerequisites - None"
+        },
+        {
+            "dept": "dmgm",
+            "code": "5030",
+            "credit": 1.5,
+            "name": "Manufacturing and Service Operations Management",
+            "prereqs": "",
+            "desc": "In this course, we review classic qualitative and quantitative models in manufacturing and service operations management."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5040",
+            "credit": 1.5,
+            "name": "Financial and Management Accounting",
+            "prereqs": "",
+            "desc": "Two distinct foundations of accounting exist, financial accounting and managerial accounting. Both have a unique purpose and perspective. Financial accounting serves to create organizational information that can be used to evaluate the financial performance of the organization namely by those external to the organization. Managerial accounting, as the name implies, is the creation of accounting information for internal managerial decision making. Managerial accounting borrows from managerial finance and provides managers with finance tools that assist in decision-making."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5050",
+            "credit": 1.5,
+            "name": "Management Information Systems",
+            "prereqs": "",
+            "desc": "Overview of the main information systems used by organizations and how they can be managed."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5060",
+            "credit": 1.5,
+            "name": "Introduction to Financial Management",
+            "prereqs": "",
+            "desc": "The course serves as an integral module of the Graduate Diploma in Management programme and provides a condensed introduction to basic financial management within an organization."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5070",
+            "credit": 1.5,
+            "name": "Organizational Behavior",
+            "prereqs": "",
+            "desc": "This course is designed to expose students to a micro-perspective on organizations and provide them with good understanding of factors influencing individual and group behaviour and performance in organizations."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5080",
+            "credit": 1.5,
+            "name": "Law and Corporate Governance",
+            "prereqs": "",
+            "desc": "This course explores the legal environment of corporate governance, including the duties and liabilities of directors and officers; audit committee requirements and financial reporting; compensation committee requirements and reporting; governance rules and guidelines; shareholder rights and remedies, as well as international issues."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5090",
+            "credit": 3.0,
+            "name": "Experiencing Management",
+            "prereqs": "",
+            "desc": "This course represents the capstone course in the Graduate Diploma in Management program. Issues that affect the success of the entire organization are investigated through case exercises. Students will face complex business situations, draw upon their understanding of the functional areas of business and general management to identify and assess alternatives, and provide recommendations to management in a consultative capacity."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5110",
+            "credit": 1.5,
+            "name": "Fundamentals of Public Sector Management",
+            "prereqs": "",
+            "desc": "Designed to introduce students to fundamental principles of public sector management with a particular emphasis on the Canadian context."
+        },
+        {
+            "dept": "dmgm",
+            "code": "5120",
+            "credit": 1.5,
+            "name": "Canadian Administrative Law and Public Sector Ethics",
+            "prereqs": "",
+            "desc": "Designed to introduce students to fundamental principles of public law in Canada, including administrative law and court challenges to public policy and administration. Principles of public sector ethics and values, and how they impact individual careers and the reputation of public sector organizations are also analyzed."
+        }
+    ]
+}

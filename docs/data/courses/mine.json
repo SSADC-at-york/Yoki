@@ -1,0 +1,60 @@
+{
+    "courses": [
+        {
+            "dept": "mine",
+            "code": "5100",
+            "credit": 1.5,
+            "name": "Introduction to the Global Mining Industry",
+            "prereqs": "",
+            "desc": "This course provides students with an understanding of the metals &amp; minerals industry and how metals impact the global economy.  We examine the mining life cycle and the defining characteristics of the metals and mining industry which address all aspects related to the discovery and production of metals and minerals.  We also explore the metal life cycle which starts with metals as the raw materials for industries that produce products that are vital to society.  We then analyze and assess the reliance, relationships and collaboration potential between companies that produce metals and those that consume metals."
+        },
+        {
+            "dept": "mine",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Strategy and Value Creation in Mining",
+            "prereqs": "",
+            "desc": "Provides an understanding of the challenges and opportunities of the global mining industry. Students evaluate and apply a strategy framework to mining companies which focuses on creating value for all stakeholders in a sustainable manner.\r\n\r\nPrerequisites: All 5000-series Required Foundations of Management Core Courses."
+        },
+        {
+            "dept": "mine",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Financial Strategies in Mining",
+            "prereqs": "",
+            "desc": "Provides an understanding of the unique valuation, accounting and finance aspects of the global mining industry in order for students to develop financing strategies for mining companies.\r\n\r\nPrerequisite: All 5000-series Required Foundations of Management Core Courses."
+        },
+        {
+            "dept": "mine",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Social and Environmental Strategies in Mining",
+            "prereqs": "",
+            "desc": "Provides an understanding of the social and environmental challenges and opportunities in the global mining industry. Students develop environmental and social strategies which ensure sustainable value creation based on international standards and industry practices found in the mining industry.\r\n\r\nPrerequisite: All 5000-series Required Foundations of Management Core Courses."
+        },
+        {
+            "dept": "mine",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Managing People in Mining",
+            "prereqs": "",
+            "desc": "Provides an understanding of the organizational design, management systems and leadership practices mining companies use to manage people. Students develop organizational structures and management systems that facilitate a mining company\u0092s ability to deliver on its strategy of creating value for all stakeholders.\r\n\r\nPrerequisite: All 5000-series Required Foundations of Management Core Courses."
+        },
+        {
+            "dept": "mine",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Global Mining Management",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "mine",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Global Mining Management",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

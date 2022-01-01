@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "slgs",
+            "code": "3510",
+            "credit": 3.0,
+            "name": "Educational Use of Signs",
+            "prereqs": "",
+            "desc": "The purpose of this course is two fold: (i) to provide an introduction and overview of the major issues with respect to the use of signed language in the education of Deaf and Hard-of-Hearing students, and (ii) to develop abilities in the use of sign language, particularly as it applies to its use in school settings across a range of programs and communication philosophies. The emphasis will be on consideration of how we think about the use of sign language and other forms of manual communication in school setting, and the implications for classroom practice. Topics to be taken up include: (i) characteristics and features of various forms of manual communication, (ii) terminology with respect to language, communication and modality, (iii) educational options for Deaf and Hard-of-Hearing students as they relate to the use of manual communication, (iv) community and culture, (v) educational interpreting, and (vii) resources and information for classroom teachers.\r\n\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        },
+        {
+            "dept": "slgs",
+            "code": "3525",
+            "credit": 3.0,
+            "name": "American Sign Language 2",
+            "prereqs": "",
+            "desc": "This course will focus on developing proficiency in American Sign Language (ASL). The purpose of this course is to develop skills in receptive and expressive ASL. Attention will be given to the grammar of ASL, the importance of proper non manual grammatical signals, non manual signals and cultural aspects of ASL and will lead participants to an understanding of how to use ASL in a bilingual classroom. Assessment of ASL abilities will take place during the first class of each course and grading rubrics will be presented to all participants.\r\n\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing\r\n\r\n\r\n\r\n"
+        }
+    ]
+}

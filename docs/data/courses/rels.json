@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "rels",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Religious Education in Catholic Schools in the IS Division - Part A",
+            "prereqs": "",
+            "desc": "This course examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Religious Education in Catholic Schools in the intermediate and senior grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "rels",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Religious Education in Catholic Schools in the IS Division Part B",
+            "prereqs": "",
+            "desc": "This course examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Religious Education in Catholic Schools in the intermediate and senior grades. \nPrerequisite: ED/RELS 4000 - Teaching Religious Education in the IS Division Part A"
+        }
+    ]
+}

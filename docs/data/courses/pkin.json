@@ -1,0 +1,380 @@
+{
+    "courses": [
+        {
+            "dept": "pkin",
+            "code": "0200",
+            "credit": 0.0,
+            "name": "Swimming I",
+            "prereqs": "",
+            "desc": "An introduction to the fundamentals of stroke technique for front crawl, back crawl, elementary backstroke, breast-stroke and sidestroke. Non-swimmers are encouraged to enrol as this course will focus on deep water skills and safety requirements. Note: Students who have completed at least one of the following, the Canadian Red Cross Swim Kids 10 or AquaQuest 12; the Toronto Learn to Swim Ultra 9; the YMCA of Canada Star 6; or the Lifesaving Society of Canada Learn to Swim Level 6, should take HH/PKIN 0270 0.00, HH/PKIN 0285 0.00 or HH/PKIN 0294 0.00 instead."
+        },
+        {
+            "dept": "pkin",
+            "code": "0286",
+            "credit": 0.0,
+            "name": "Sports Conditioning in an Aquatic Environment",
+            "prereqs": "",
+            "desc": "Focuses on training techniques in a deep water aquatic environment such as resistance training, increased flexibility through buoyancy, cardiovascular enhancement and endurance. Core stabilization is greatly intensified by working vertically in the water. Lessened impact on the joints helps to prevent injuries or assists in healing them. Prerequisite: HH/PKIN 0200 0.00 or equivalent. Note: There is an additional option for certification as a WaterArt Sports Conditioning Specialist. Equivalency for this course is the Canadian Red Cross Swim Kids 10 or AquaQuest 12; the Toronto Learn to Swim Ultra 9; the YMCA of Canada Star 6; or the Lifesaving Society of Canada Learn to Swim Level 6."
+        },
+        {
+            "dept": "pkin",
+            "code": "0294",
+            "credit": 0.0,
+            "name": "Aquatic Games",
+            "prereqs": "",
+            "desc": "Focuses on aquatic activities featuring competitive sports and cooperative exercises. The range of involvement spans exercises for team building to competitive team and one on one competition. Prerequisite: HH/PKIN 2000 2.00 or equivalent."
+        },
+        {
+            "dept": "pkin",
+            "code": "0295",
+            "credit": 0.0,
+            "name": "Pre-Swim I",
+            "prereqs": "",
+            "desc": "Designed for non-swimmers, particularly those with no previous aquatic learning. It is also suitable for those who may have a fear of water. Prerequisite: permission of the Instructor."
+        },
+        {
+            "dept": "pkin",
+            "code": "0301",
+            "credit": 0.0,
+            "name": "Co-ed Basketball I",
+            "prereqs": "",
+            "desc": "For more details including a course description, please consult the Kinesiology and Health Science supplemental calendar. Course credit exclusions: HH/PKIN 3001 0.00 (prior to Summer 2008)."
+        },
+        {
+            "dept": "pkin",
+            "code": "0302",
+            "credit": 0.0,
+            "name": "Men's Basketball I",
+            "prereqs": "",
+            "desc": "For more details including a course description, please consult the Kinesiology and Health Science supplemental calendar."
+        },
+        {
+            "dept": "pkin",
+            "code": "0303",
+            "credit": 0.0,
+            "name": "Women's Basketball I",
+            "prereqs": "",
+            "desc": "For more details including a course description, please consult the Kinesiology and Health Science supplemental calendar."
+        },
+        {
+            "dept": "pkin",
+            "code": "0308",
+            "credit": 0.0,
+            "name": "Football I  ",
+            "prereqs": "",
+            "desc": "Introduces the student to the basic skills involved in the various positions of a football team."
+        },
+        {
+            "dept": "pkin",
+            "code": "0312",
+            "credit": 0.0,
+            "name": "Hockey I     ",
+            "prereqs": "",
+            "desc": "Teaches each student the fundamental skills of ice hockey. Canadian Hockey Association Coaching Certification may be granted with successful completion of this course."
+        },
+        {
+            "dept": "pkin",
+            "code": "0328",
+            "credit": 0.0,
+            "name": "Soccer I     ",
+            "prereqs": "",
+            "desc": "Provides opportunities for practice and instruction in the basic skills of soccer including knowledge and understanding of offensive and defensive principles used in game situations."
+        },
+        {
+            "dept": "pkin",
+            "code": "0332",
+            "credit": 0.0,
+            "name": "Volleyball I      ",
+            "prereqs": "",
+            "desc": "Introduces students to basic skills and concepts in volleyball. Particular emphasis is placed on passing skills and basic volleyball play. Limited involvement as a minor official in a volleyball event is utilized to develop an understanding of rules and match protocol."
+        },
+        {
+            "dept": "pkin",
+            "code": "0333",
+            "credit": 0.0,
+            "name": "Volleyball II",
+            "prereqs": "pkin0332",
+            "desc": "This course reviews and develops basic skills of the game emphasizing a coaching perspective, and develops an understanding of offensive and defensive team play and various team tactics. Limited involvement as a minor official in a volleyball event is utilized in the course pedagogy. Prerequisite: HH/PKIN 0332 0.00."
+        },
+        {
+            "dept": "pkin",
+            "code": "0350",
+            "credit": 0.0,
+            "name": "Team Handball I",
+            "prereqs": "",
+            "desc": "For more details including a course description, please consult the Kinesiology and Health Science supplemental calendar. "
+        },
+        {
+            "dept": "pkin",
+            "code": "0370",
+            "credit": 0.0,
+            "name": "Frisbee Sports: Competitive &amp; Cooperative Disc Sports",
+            "prereqs": "",
+            "desc": "Features skills development, competitive sports and cooperative games in team and individual formats for disc sports."
+        },
+        {
+            "dept": "pkin",
+            "code": "0390",
+            "credit": 0.0,
+            "name": "Basic Team Sport Skills",
+            "prereqs": "",
+            "desc": "Introduces students to basic motor/movement skills and drills in order to progress to team sports. Students will develop knowledge and confidence n their basic motor skills allowing for a smoother transition into team sport practica."
+        },
+        {
+            "dept": "pkin",
+            "code": "0392",
+            "credit": 0.0,
+            "name": "Games Through the Ages",
+            "prereqs": "",
+            "desc": "Students will learn skills, rules and tactics of games through the ages such as Earthball, Tlachi, Indian Kickball and Quidditch. This course is for students who are interested in learning to play active, creative and competitive games through fun, theatrics and physicality."
+        },
+        {
+            "dept": "pkin",
+            "code": "0400",
+            "credit": 0.0,
+            "name": "Tai Chi I",
+            "prereqs": "",
+            "desc": "Comprises practical and theoretical study of Chinese traditional therapeutic Qi-Gong (twenty-posture) and an Essential Tai-Chi training routine. Included are the role of moral character in martial arts training and professional Tai-Chi training techniques. "
+        },
+        {
+            "dept": "pkin",
+            "code": "0402",
+            "credit": 0.0,
+            "name": "Yoga I",
+            "prereqs": "",
+            "desc": "An introduction to the principles and skills of posture, movement and breath in Hatha Yoga."
+        },
+        {
+            "dept": "pkin",
+            "code": "0403",
+            "credit": 0.0,
+            "name": "Pilates: Restorative",
+            "prereqs": "",
+            "desc": "This course explores and analyzes deep (body core) movements for stability and mobility. Students experience and develop skills in assessing and correcting alignment issues and common muscle imbalances utilizing principles of movement coupled with an understanding of skeletal alignment. The course focuses on injury prevention and recovery. Course credit exclusion: HH/ PKIN 0408 0.00"
+        },
+        {
+            "dept": "pkin",
+            "code": "0405",
+            "credit": 0.0,
+            "name": "Pilates",
+            "prereqs": "",
+            "desc": "Offers a comprehensive overview of Joseph Pilates' work, and training in the proper execution of Pilates mat exercises. Students will develop an appreciation of the potential for Pilates to benefit special populations (i.e. athletes, seniors, dancers, etc.) and for the prevention and rehabilitation of injuries."
+        },
+        {
+            "dept": "pkin",
+            "code": "0406",
+            "credit": 0.0,
+            "name": "Kung-Fu ",
+            "prereqs": "",
+            "desc": "Introduces traditional Northern Shao-Lin Kung-Fu which has a long and rich history in China. The course focuses on basic drills and applied techniques with controlled sparring. The course concludes with a short weapon routine - Flying Rainbow Kung-Fu fan which combines all basic skills into a sequence of moves."
+        },
+        {
+            "dept": "pkin",
+            "code": "0407",
+            "credit": 0.0,
+            "name": "Self-Defense",
+            "prereqs": "",
+            "desc": "This practicum course trains students in awareness, tactical communication and effective self-defense techniques."
+        },
+        {
+            "dept": "pkin",
+            "code": "0408",
+            "credit": 0.0,
+            "name": "Restorative Pilates II",
+            "prereqs": "pkin0403",
+            "desc": "Builds upon the foundations established in HH/PKIN 0403 0.00. This Pilates course examines proper alignment and mechanics of the arms and legs. This course analyzes common problems in the shoulder, hip, feet, ankle and knee joints. The focus of this course is rehabilitating/avoiding injuries by learning the Mindful Movement techniques of Restorative Pilates. Prerequisite: HH/PKIN 0403 0.00."
+        },
+        {
+            "dept": "pkin",
+            "code": "0415",
+            "credit": 0.0,
+            "name": "Court Games                ",
+            "prereqs": "",
+            "desc": "Introductory and intermediate level of skills and play for racquetball and squash. The focus is on the development of squash skills and strategies of play."
+        },
+        {
+            "dept": "pkin",
+            "code": "0435",
+            "credit": 0.0,
+            "name": "Tennis I",
+            "prereqs": "",
+            "desc": "Introductory and intermediate level course covering techniques for basic strokes, tactics and strategies for singles and doubles. Theory component covers rules and general knowledge of the sport."
+        },
+        {
+            "dept": "pkin",
+            "code": "0440",
+            "credit": 0.0,
+            "name": "Badminton I              ",
+            "prereqs": "",
+            "desc": "Teaches introductory and intermediate level of basic skills and play. Emphasis is on developing correct technique and strategies for singles and doubles."
+        },
+        {
+            "dept": "pkin",
+            "code": "0460",
+            "credit": 0.0,
+            "name": "Strength Training",
+            "prereqs": "",
+            "desc": "Introduces strength training techniques and methods and teaches the principles of maximum strength training, maximum endurance training, a combination of strength and endurance training, power training, and circuit training."
+        },
+        {
+            "dept": "pkin",
+            "code": "0500",
+            "credit": 0.0,
+            "name": "Basic Movement",
+            "prereqs": "",
+            "desc": "Introduces integrated movements, concepts and philosophies from Eastern and Western traditions: Dance (Jazz and Modern), Martial Arts (Tai Chi, Tae Kwon Do, Aikido) and Healing Movement (Yoga) are explored."
+        },
+        {
+            "dept": "pkin",
+            "code": "0503",
+            "credit": 0.0,
+            "name": "Women's Gymnastics I",
+            "prereqs": "",
+            "desc": "An introductory course with a recreation/educational base that teaches basic movements and movement patterns characteristic of gymnastics, the utilization of various types of gymnastics equipment and covers the fundamentals of safety and liability."
+        },
+        {
+            "dept": "pkin",
+            "code": "0560",
+            "credit": 0.0,
+            "name": "Modern Dance I",
+            "prereqs": "",
+            "desc": "An introduction to the basic technique of the Limon style and the principles of modern dance choreography."
+        },
+        {
+            "dept": "pkin",
+            "code": "0562",
+            "credit": 0.0,
+            "name": "Dance in Movies and Videos of Popular Culture",
+            "prereqs": "",
+            "desc": "Focuses on learning how to dance in formations done in iconic movies and music videos, from the most recent, to the favourites of years gone by. Students will work together to recreate dances that have dominated popular culture and appeared in movies and on television over the past 70 years. This course will incorporate many different dance styles."
+        },
+        {
+            "dept": "pkin",
+            "code": "0570",
+            "credit": 0.0,
+            "name": "Ballroom Dance I",
+            "prereqs": "",
+            "desc": "Introduces ballroom dance providing experience with different forms of American style ballroom dance. Emphasis is placed on the use of basic ballroom dance steps, combinations, and dances, and how they relate to music. At least four different ballroom dances are taught. Select dances from the following are covered: Waltz, Foxtrot, Tango, Cha Cha, Rumba, Swing, Bolero, and Mambo.\r\n"
+        },
+        {
+            "dept": "pkin",
+            "code": "0575",
+            "credit": 0.0,
+            "name": "Ballroom Dance II",
+            "prereqs": "pkin0570",
+            "desc": "Designed to expand upon steps, dances, and style characteristics learned in HH/PKIN 0570 0.00. Students learn more advanced American style ballroom steps, combinations, dances, and partnering work, as well as Latin social dances. Select dances from the following are taught: Waltz, Foxtrot, Tango, Cha Cha, Rumba, Swing, Bolero, Mambo, Salsa, and Samba. Prerequisite: HH/PKIN 0570 0.00."
+        },
+        {
+            "dept": "pkin",
+            "code": "0585",
+            "credit": 0.0,
+            "name": "Country Dance",
+            "prereqs": "",
+            "desc": "Places emphasis on teaching and learning basic Country Dance fundamentals including steps, positions, patterns, rhythms and styles."
+        },
+        {
+            "dept": "pkin",
+            "code": "0590",
+            "credit": 0.0,
+            "name": "Jazz Dance I",
+            "prereqs": "",
+            "desc": "An introduction to jazz rhythm, musical phrasing, and physical fundamental movements."
+        },
+        {
+            "dept": "pkin",
+            "code": "0597",
+            "credit": 0.0,
+            "name": "Laban Movement Analysis",
+            "prereqs": "",
+            "desc": "The focus of the course is exploration of physical practices and skills developed by movement pioneer Laban. Students use the four major components of Laban Movement Analysis: Body, Effort, Shape, and Space in applying principles of efficient and expressive human movement to their everyday activities and to future careers in the field of kinesiology."
+        },
+        {
+            "dept": "pkin",
+            "code": "0600",
+            "credit": 0.0,
+            "name": "Track and Field I           ",
+            "prereqs": "",
+            "desc": "An introduction to track and field. Emphasis on developing motor skills and strength necessary to perform basic track and field movements. Fitness will be stressed along with an introduction to the teaching progressions and skill development in specific track events."
+        },
+        {
+            "dept": "pkin",
+            "code": "0750",
+            "credit": 0.0,
+            "name": "Emergency Care I                     ",
+            "prereqs": "",
+            "desc": "An introduction to the care given to a suddenly injured or ill person in order to sustain life and prevent further injury. Upon successful completion, students will be certified in Basic Rescuer C.P.R. - C and Standard First Aid. Note: Normally only open to fourth-year students. All Kinesiology and Health Science students are required to complete HH/PKIN 0750 0.00, or equivalent. Equivalency is current CPR Basic Rescuer Certificate (Level C) and a Standard First Aid Certificate.\n"
+        },
+        {
+            "dept": "pkin",
+            "code": "0751",
+            "credit": 0.0,
+            "name": "Advanced First Aid/CPR ",
+            "prereqs": "",
+            "desc": "This course builds on the theory and skills introduced in HH/PKIN 0750 0.00 and provides advanced theory and techniques to respond to a suddenly ill or injured person. This course also trains individuals to prevent further injury in a variety of settings. Students may be certified with Automatic External Defibrillation, Airway Management, CPR-Health Care Professional level, and Advanced First Aid Provider. Prerequisite: HH/PKIN 0750.00 or Standard First Aid or Cardio Pulmonary Resuscitation (CPR) current within last two years. "
+        },
+        {
+            "dept": "pkin",
+            "code": "0761",
+            "credit": 0.0,
+            "name": "First Responder for Athletic Therapy I",
+            "prereqs": "pkin0750",
+            "desc": "This course encompasses advanced facets of emergency care procedures specific to physical activity scenarios. Upon successful completion, students may be certified as Canadian Red Cross First Responder. Prerequisite: HH/PKIN 0750 0.00 or Equivalent Certifications or permission of the Instructor. Corequisite: HH/PKIN 0762 0.00. Open to: Only students concurrently enrolled in HH/PKIN 0762 0.00. Note: Students must successfully complete both HH/PKIN 0761 0.00 and HH/PKIN 0762 0.00"
+        },
+        {
+            "dept": "pkin",
+            "code": "0762",
+            "credit": 0.0,
+            "name": "First Responder for Athletic Therapy II",
+            "prereqs": "",
+            "desc": "This course builds on the principles and learning objectives of HH/PKIN 0761 0.00. Corequisite: HH/PKIN 0761 0.00. Open to: Only students concurrently enrolled in HH/PKIN 0761 0.00. Note: Students must successfully complete both HH/PKIN 0761 0.00 and HH/PKIN 0762 0.00."
+        },
+        {
+            "dept": "pkin",
+            "code": "0770",
+            "credit": 0.0,
+            "name": "First Aid/CPR Instructor",
+            "prereqs": "pkin0750",
+            "desc": "This course focuses on theoretical and practical teaching techniques of First Aid/CPR. Upon successful completion, students may be certified as First Aid/CPR Instructors. Prerequisite: HH/PKIN 0750 0.00 or equivalent."
+        },
+        {
+            "dept": "pkin",
+            "code": "0811",
+            "credit": 0.0,
+            "name": "Clinical Placement in Athletic Therapy I",
+            "prereqs": "",
+            "desc": "This course is designed for Athletic Therapy Certificate students who are in their first-year in the Athletic Therapy Certificate. The clinical experience allows students to apply Athletic Therapy academic knowledge in applied settings. Students will practice basic assessments and treatments under supervision. Open to: Athletic Therapy Certificates students only."
+        },
+        {
+            "dept": "pkin",
+            "code": "0812",
+            "credit": 0.0,
+            "name": "Clinical Placement in Athletic Therapy II",
+            "prereqs": "",
+            "desc": "This course is designed for Athletic Therapy Certificate students who are in their second-year in the Athletic Therapy Certificate. This clinical experience allows students to apply Athletic Therapy academic knowledge in applied settings while under supervision. Open to: Athletic Therapy Certificates students only."
+        },
+        {
+            "dept": "pkin",
+            "code": "0840",
+            "credit": 0.0,
+            "name": "Elementary and Recreational Games        ",
+            "prereqs": "",
+            "desc": "This course develops an understanding and appreciation of the role of play and games for children; an understanding of the structure, process and outcomes of play and games as they impact upon the individual; students acquire practical leadership skills in planning, implementation and evaluation of play and games for children."
+        },
+        {
+            "dept": "pkin",
+            "code": "0861",
+            "credit": 0.0,
+            "name": "Personal Training I",
+            "prereqs": "",
+            "desc": "Provides students with the background and personal experience required for prescribing and directing a personal training regimen. Participants are required to plan and engage in an extensive personal training program both in, and out of, class. Prerequisite: Only open to students in the Fitness Certificate Stream who are enrolled in or have completed HH/KINE 4400 6.00. Corequisite: HH/PKIN 0862 0.00. Open to: Only students concurrently enrolled in HH/PKIN 0862 0.00. Note: Students must successfully complete both HH/PKIN 0861 0.00 and HH/PKIN 0862 0.00."
+        },
+        {
+            "dept": "pkin",
+            "code": "0862",
+            "credit": 0.0,
+            "name": "Personal Training II",
+            "prereqs": "",
+            "desc": "Builds on the principles and learning objectives of HH/PKIN 0861 0.00. Prerequisite: Only open to students in the Fitness Certificate Stream who are enrolled in or have completed HH/KINE 4400 6.00. Corequisite: HH/PKIN 0861 0.00. Open to: Only students concurrently enrolled in HH/PKIN 0861 0.00. Note: Students must successfully complete both HH/PKIN 0861 0.00 and HH/PKIN 0862 0.00."
+        }
+    ]
+}

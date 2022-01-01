@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "edpr",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Studies in Communities and Their Schools",
+            "prereqs": "",
+            "desc": "This course examines education in communities and schools, differing perspectives on conflicts, values in education, and knowledge construction within formal and informal contexts. It includes a community-based practicum placement, online and in-class sessions.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "edpr",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Studies in Communities and Their Schools",
+            "prereqs": "",
+            "desc": "This course examines education in communities and schools, differing perspectives on conflicts, values in education, and knowledge construction within formal and informal contexts. It includes a community-based practicum placement, online and in-class sessions. \n\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "edpr",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Practicum",
+            "prereqs": "",
+            "desc": "This course provides the experience of working collaboratively with a mentor in school-based practicum placements. Students will develop strategies and skills for articulating and demonstrating their growth as beginning teachers through the integration of theory and practice."
+        },
+        {
+            "dept": "edpr",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Practicum",
+            "prereqs": "",
+            "desc": "This course provides the experience of working collaboratively with a mentor in school-based practicum placements. Students will develop strategies and skills for articulating and demonstrating their growth as beginning teachers through the integration of theory and practice."
+        },
+        {
+            "dept": "edpr",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Practicum",
+            "prereqs": "",
+            "desc": "This course provides the experience of working collaboratively with a mentor in school-based practicum placements. Students will develop strategies and skills for articulating and demonstrating their growth as beginning teachers through the integration of theory and practice."
+        }
+    ]
+}

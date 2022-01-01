@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "tesl",
+            "code": "3200",
+            "credit": 6.0,
+            "name": "Methodology of Teaching English to Speakers of Other Languages",
+            "prereqs": "",
+            "desc": "This course introduces principles and practices of English language teaching, including communicative language teaching, planning, assessment, instructional techniques, and the appropriate use of resources. The course helps students develop a critical, reflective teaching practice that includes the skills to design and deliver an effective, learner-centered program in a range of contexts. \nNOTE: This blended course includes both online and in-class instruction. \nCourse credit exclusion: ED/TESL 3200 6.00"
+        },
+        {
+            "dept": "tesl",
+            "code": "3300",
+            "credit": 6.0,
+            "name": "Practicum in Teaching English to Speakers of Other Languages",
+            "prereqs": "",
+            "desc": "The course provides an experiential education opportunity to put theory into practice, integrating blended online and in-class instruction alongside placement at a variety of English as a Second Language (ESL) instruction settings.  Students complete 50 practicum hours (30 hours observation and 20 hours practice teaching). Note: This course may be taken concurrently with, but not before AP/TESL 3200 6.00.\nCourse credit exclusion: ED/TESL 3300 6.00."
+        },
+        {
+            "dept": "tesl",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Socio-Political Issues in Second Language Teaching",
+            "prereqs": "",
+            "desc": "Teaching English to speakers of other languages (TESOL) takes place within a complex socio-political context. Selected issues are used to consider how this context influences the teaching/learning process. NOTE: This blended course includes both online and in-class instruction. CCE: AP/LING 3600 3.00"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "pers",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Persian",
+            "prereqs": "",
+            "desc": "An introduction to Modern Persian and is intended for students with no active ability in reading and writing the standard language. It will develop basic aural, conversational, reading, and writing skills in the language. Note: A Placement Test will be required. \r\n\r\nOpen to students with previous knowledge of spoken/informal Persian. \r\nNot open to students with previous knowledge of formal/written Persian."
+        },
+        {
+            "dept": "pers",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Persian",
+            "prereqs": "pers1000",
+            "desc": "This course continues the work covered at the introductory level. Focus is on acquiring more complex grammatical structures, expanding vocabulary and discourse skills, and on developing competence in a wide range of communicative situations.  Open to students with some knowledge of Modern Persian.\r\nPrerequisite: AP/PERS 1000 6.00 or Placement Test.\r\n"
+        },
+        {
+            "dept": "pers",
+            "code": "2700",
+            "credit": 6.0,
+            "name": "Persian Literature and Culture",
+            "prereqs": "",
+            "desc": "Examines historical, cultural and social processes that have formed Iranian culture and civilization, ranging from ancient Persia to contemporary Iran. The course studies and analyzes Persian literature in translation. Texts are read in their historical, social, and political contexts to gain a thorough understanding of the history of Iran and the way culture is produced."
+        },
+        {
+            "dept": "pers",
+            "code": "2800",
+            "credit": 6.0,
+            "name": "Iranian Cinema: Aesthetics and Culture ",
+            "prereqs": "",
+            "desc": "This course is designed to introduce students to Iranian cinema. Students study the aesthetics and the socio-cultural impact of Iranian films. The Iranian national film industry is critically analyzed from historical and comparative perspectives. "
+        },
+        {
+            "dept": "pers",
+            "code": "3801",
+            "credit": 3.0,
+            "name": "The Representation of Femininity, Masculinity and Gender Roles in Modern Middle Eastern Cinemas",
+            "prereqs": "",
+            "desc": "Explores the representation of femininity, masculinity, gender conventions, misconceptions and relations in modern Middle Eastern cinemas. Students study the confluence of film and culture in selected Middle Eastern countries. Cinematic works are examined in their multicultural, multi-ethnic and cross-national contexts. The course concentrates on the aesthetic representation of contemporary issues such as nationalist movements, women's movements, decolonization and neo-colonization, foreign occupation, war and revolutions that have affected gender roles and sexual attitudes in the region."
+        }
+    ]
+}

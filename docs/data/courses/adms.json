@@ -1,0 +1,1084 @@
+{
+    "courses": [
+        {
+            "dept": "adms",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Introduction to Business",
+            "prereqs": "",
+            "desc": "Provides an overview of the context within which modern organizations operate. The course will examine the development of organizational and managerial theories. A number of contemporary issues and the organizational responses will be discussed."
+        },
+        {
+            "dept": "adms",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Exploring the Functions of Business ",
+            "prereqs": "",
+            "desc": "Provides a broad survey of the functional areas of business by engaging students in a critical discourse about management, its sub-disciplines, and the current issues and future challenges facing business. It is intended to prepare students for success in the upper-level BCom course requirements."
+        },
+        {
+            "dept": "adms",
+            "code": "1500",
+            "credit": 3.0,
+            "name": "An Introduction to Accounting for Human Resource Professionals",
+            "prereqs": "",
+            "desc": "An introduction to accounting covering basic concepts in financial accounting, managerial accounting and finance and their interrelationships. This course satisfies a curriculum requirement of the Human Resources Professional Association of Ontario.\r\nNote: This course does not qualify towards the BCom degree. Course credit exclusions: AP/ADMB 2510 3.00; AP/ADMS1550 3.00,  AP/ADMS 2500 3.00, AP/ADMS 2510 3.00.\r\n\r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "1550",
+            "credit": 3.0,
+            "name": "Accounting for Non-Financial Managers",
+            "prereqs": "",
+            "desc": "An introduction to accounting covering basic concepts in financial accounting, managerial accounting and finance and their interrelationships.\r\nCourse credit exclusions: AP/ADMS 1500 3.00, AP/ADMS 2500 3.00, AP/ADMS 2510 3.00, AP/ADMB 2510 3.00.\r\n Not open to students in: BCom, Business Economics, Financial &amp; Business Economics.\r\nRequired course for the Business Minor degree program."
+        },
+        {
+            "dept": "adms",
+            "code": "1701",
+            "credit": 3.0,
+            "name": "Disasters: Case Studies of Causes and Impacts",
+            "prereqs": "",
+            "desc": "This course is an introductory one for students interested in emergencies and disasters. It overviews the history of disasters, examines their causes, and analyzes their impacts. A series of case studies will be used to illustrate how nature, the built environment and society interact to create them. The course is lecture based but will use media where possible to illustrate the concepts discussed in class.  Cross-Listing: ADMS 1701 3.00\r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Introductory Marketing",
+            "prereqs": "",
+            "desc": "Covers the fundamentals of marketing theory, concepts and management as applied to marketing's strategic role in meeting customer needs, including product (goods and services), price, promotion, distribution, consumer, segmentation, positioning, ethics, research. Includes the creation of an actual marketing plan."
+        },
+        {
+            "dept": "adms",
+            "code": "2310",
+            "credit": 3.0,
+            "name": "Business Statistics Through Applications",
+            "prereqs": "",
+            "desc": "This course enables and empowers students to understand and draw conclusions from statistics without unnecessary anxiety. As a first applied statistics course for students, the course immerses students in developing their analytical competency by learning to collect and analyze data in hands-on exercises and assignments, often guided by real-life examples. Course Credit Exclusions: HH/KINE 2050 3.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, AP/ECON 2500 3.00, AP/POLS 3300 6.00, AP/PPAS 3300 6.0, AP/ADMS 2320 3.00. Notes: This course is not equivalent to AP/ADMS 2320 3.00 and does not qualify towards the BCom, BDEM or BHRM degree.\n\nPRIOR TO FALL 2015: Course Credit Exclusions: HH/KINE 2050 3.0, HH/PSYC 2020 6.0, HH/PSYC 2021 3.0, AP/ECON 2500 3.0, AP/POLS 3300 6.0, AP/PPAS 3300 6.00. Notes: This course is not equivalent to, and cannot be used as a substitute for AP/ADMS 2320 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "2320",
+            "credit": 3.0,
+            "name": "Business Statistics",
+            "prereqs": "adms1000",
+            "desc": "An integrated approach to analyzing business problems from various functional areas. Practical business problems are analyzed using quantitative techniques including probability, statistical inference, estimation and regression (simple linear regression, multiple linear regression and model building)  as well as non-parametric approaches. \nPrerequisites: AP/ADMS 1000 3.00; one 12U mathematics course or equivalent. \nCourse credit exclusion: AP/ECON 2500 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "2400",
+            "credit": 3.0,
+            "name": "Introduction to Organizational Behaviour",
+            "prereqs": "adms1000 adms1010 adms1000",
+            "desc": "Introduces concepts of individual and group behaviour as they affect performance in organizations. Topics covered include motivation, communication, decision-making, leadership and structural issues. Lectures and case discussions are employed to develop theoretical models and illustrate their use. Prerequisites: AP/ADMS 1000 3.00 and AP/ADMS1010 3.00; For students in the BHRM program, AP/HRM1000. For BDEM and BPA students, AP/ADMS 1000 3.00. Course credit exclusion: HH/PSYC 3570 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "2500",
+            "credit": 3.0,
+            "name": "Introduction to Financial Accounting",
+            "prereqs": "",
+            "desc": "An overview of the accounting discipline, useful to both majors and non-majors. Includes accounting history, the uses of accounting information in personal and business contexts and the rudiments of financial reporting. Note: AP/ADMS 1000 3.00 is not a prerequisite for AP/ADMS 2500 3.00, but is strongly recommended. Course credit exclusions: AP/ADMS 1500 3.00, GL/ECON 2710 3.00. "
+        },
+        {
+            "dept": "adms",
+            "code": "2510",
+            "credit": 3.0,
+            "name": "Introduction to Management Accounting",
+            "prereqs": "econ1000 adms2500 adms2320",
+            "desc": "Managers require relevant information for planning, controlling and decision-making purposes. This course examines the accounting techniques available to satisfy those needs. Prerequisites: 1) AP/ECON 1000 3.00; 2) AP/ADMS 2500 3.00 and 3) AP/ADMS 2320 3.00. \nCourse credit exclusions: AP/ADMB 2510 3.00, AP/ADMS 1500 3.00, AP/ADMS 1550 3.00, GL/ECON 2720 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "2511",
+            "credit": 3.0,
+            "name": "Management Information Systems",
+            "prereqs": "adms1000",
+            "desc": "Overview of information systems and technology: how information systems are selected, designed and managed to provide information needed to run organizations successfully. Topics include the strategic role of information systems; ethical considerations; technology; information systems risks; and security control considerations. Prerequisite: AP/ADMS 1000 3.00. Course credit exclusion: AP/ADMB 2511 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "2541",
+            "credit": 3.0,
+            "name": "Introduction to Personal Finance",
+            "prereqs": "",
+            "desc": "Introduces personal financial topics and decisions necessary to manage a household's financial resources. Topics include financial goal setting, financial planning, budgeting, credit management, saving, investing, personal income taxes, insurance, and retirement planning. Course credit exclusions: SB/FINE 4050 3.00. NCR: Students a) who have received credit for AP/ADMS 3541 3.00 may not subsequently take AP/ADMS 2541 3.00 for degree credit; b) may not take both courses concurrently."
+        },
+        {
+            "dept": "adms",
+            "code": "2600",
+            "credit": 3.0,
+            "name": "Human Resources Management",
+            "prereqs": "adms1000 adms1000 adms1000",
+            "desc": "This course examines a number of issues in Canadian human resources management including: human resources planning, recruitment, selection, performance appraisal, industrial relations, and training and development. \r\nPrerequisite: AP/ADMS 1000 3.00 (students in the BCOM/BHRM programs, the HRM Certificate or the HRM Minor may take AP/ADMS 1000 3.00 concurrently with AP/ADMS/HRM 2600 3.00). \r\nPrior TO FALL 2009: Prerequisite: AK/ADMS 1000 3.00 (students in the BCOM/BHRM programs may take AK/ADMS\r\n1000 3.00 concurrently with AK/ADMS 2600 3.00). \r\nCourse credit exclusions: AK/ADMS 2600 3.00, AK/ADMS 3480 3.00 (prior to Summer 2001)."
+        },
+        {
+            "dept": "adms",
+            "code": "2610",
+            "credit": 3.0,
+            "name": "Elements of Law: Part One",
+            "prereqs": "adms1000",
+            "desc": "Seeks to give insight into the role of the lawyer in relation to that of the judge, legislator and administrator in molding the law. Against this general background various legal principles and theories are examined so as to equip the student to analyze and define legal issues. Prerequisite: AP/ADMS 1000 3.00. PRIOR TO FALL 2013: Course credit exclusion: AP/POLS 3165 6.00."
+        },
+        {
+            "dept": "adms",
+            "code": "2700",
+            "credit": 3.0,
+            "name": "Fundamentals of Emergency Management",
+            "prereqs": "",
+            "desc": "Organized around the four pillars of mitigation, preparedness, response and recovery, this course provides students with the key concepts and basic knowledge required to operate effectively in an emergency management context including the legislative context, risk identification, assessment and communications. \r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "adms1000 econ1000 econ1010",
+            "desc": "A reading and research course suited to students with special interests. Students will select areas of study in consultation with an appropriate faculty member. Prerequisites: 78 credits including AP/ADMS 1000 3.00, AP/ECON 1000 3.00, AP/ECON 1010 3.00, and six credits in management science, or, for students with equivalent preparation, permission of the Director of the School of Administrative Studies. Note: Students must be accepted by a faculty supervisor before they can register in this course. The course transaction form for such courses must be submitted with a note from the supervisor stating his/her willingness to perform this task. Permission of the Director of the School of Administrative Studies is also required."
+        },
+        {
+            "dept": "adms",
+            "code": "3010",
+            "credit": 0.0,
+            "name": "Internship Work Term",
+            "prereqs": "",
+            "desc": "This experiential education course reflects the work term component of the Internship Program. Qualified Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for a four month work term, with the maximum four work terms allowed (i.e. 16 months). Students in this course receive assistance from the Career Centre prior to and during their internship, and are also assigned a Faculty Supervisor/Committee from the relevant academic area. Registration in AP/ADMS 3010 0.00 provides a record on the transcript for each work term. \r\nAll guidance regarding internship program is provided by the Career Centre.\r\n \r\nEnrollment in this course is by permission only. \r\nCriteria for permission includes: \r\n1. minimum GPA as specified by their academic area (e.g. Accounting: 6.0 average);\r\n2. successful completion of at least nine selected credits at the 3000-level as specified by their academic area; \r\n3. full-time enrolment in the Honours or Specialized Honours Degree as specified by the academic program prior to beginning the internship; \r\n4. successful completion of the mandatory preparatory sessions as outlined by the Career Centre; \r\n5. have not been absent for more than two consecutive years as a full-time student from their Honours Degree studies; \r\n6. have a minimum of 15 credits remaining to complete for their Honours Degree upon enrolling in this course and to return as a full-time student for at least one academic term upon completion of their final work term."
+        },
+        {
+            "dept": "adms",
+            "code": "3015",
+            "credit": 3.0,
+            "name": "Professional Communication in the Canadian Context",
+            "prereqs": "",
+            "desc": "This course increases the communicative competence of Internationally Educated Professionals (IEP) in both business writing and presentation skills, while increasing their ability to analyse and negotiate the Canadian landscape of their chosen profession. Direct instruction is combined with simulations, discussions and group activities to develop  clear, accurate, effective oral and written communication. \r\nCourse credit exclusion: AP/WRIT 3989 3.00. Note: Open only to Participants in the Bridging Program for Internationally Educated Professionals."
+        },
+        {
+            "dept": "adms",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Canadian Business Culture and Management Skills",
+            "prereqs": "",
+            "desc": "Provides an overview of the Canadian business environment and focuses on the development of management skills for Internationally Educated Professionals (IEP). Theoretical instruction is combined with case analyses and teamwork exercises to develop a comprehensive understanding of the course material. Open only to Participants in the Bridging Program for Internationally Educated Professionals in Business, Finance and Administration. Prerequisite: Score of 5.5 on YELT or equivalent. Course credit exclusions: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00, AP/ADMS 3040 3.00, AP/ADMS 3930 3.00, AP/HRM 3440 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3060",
+            "credit": 3.0,
+            "name": "Fundamentals of Canadian Business Law and Ethics",
+            "prereqs": "",
+            "desc": "Examines the background and nature of business law and ethics in Canada. Explains the foundations of Canadian business law and the essential legal elements key to business success in Canada. Analyzes stakeholder-support of corporate and professional accountability and governance. Provides insights into the development of decision processes based on socially responsible and sound ethical decision-making frameworks. Course credit exclusions: AP/ADMS 2610 3.00. Open only to Participants in the Bridging Program for Internationally Educated Professionals in Business, Finance and Administration."
+        },
+        {
+            "dept": "adms",
+            "code": "3120",
+            "credit": 3.0,
+            "name": "Gender Issues in Management",
+            "prereqs": "",
+            "desc": "Uses feminist principles and pedagogy to examine gender issues relevant to managing career and life, including for example pay equity, harassment, stereotyping, power and assertiveness, diversity, mentoring, self-care and balance, with the goal of understanding issues and effecting change."
+        },
+        {
+            "dept": "adms",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "Consumer Behaviour",
+            "prereqs": "adms2200 adms2200",
+            "desc": "Introduces students to the general perspectives currently taken in the study of consumer behaviour. Emphasis is on consumer decision processes and the influence of social, cultural and psychological factors on how consumer behaves. \r\nPrerequisites: \r\n1) For students in an Honours program, AP/ADMS 2200 3.00, or\r\n2) other students, a grade of C+ or better in AP/ADMS 2200 3.00. \r\nCourse credit exclusion: AP/ADMS 4220 3.00 (prior to Fall 2012). "
+        },
+        {
+            "dept": "adms",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "Applied Marketing Management",
+            "prereqs": "adms2200 adms2200",
+            "desc": "This course focuses on the application of concepts, principles, and tools of marketing planning. The course is taught using the case method. Students analyze marketing problems and develop solutions to real-world situations. Course components include: situation analysis, segmentation, targeting, positioning, marketing strategies, evaluation and control. Assignments may include creating a real-life marketing plan for a for-profit or not-for-profit organization. Prerequisites: 1) For students in an Honours program AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Decision Analysis",
+            "prereqs": "adms2320",
+            "desc": "An introduction to decision analysis under conditions of certainty, uncertainty, risk and competition. Both single and multiple objective decision making tools are covered. Problems from many areas of managerial decision making are considered. Prerequisites: AP/ADMS 2320 3.00 or equivalent.\n"
+        },
+        {
+            "dept": "adms",
+            "code": "3330",
+            "credit": 3.0,
+            "name": "Introduction to Management Science",
+            "prereqs": "adms2320",
+            "desc": "This course is an introduction to the basic theory underlying Management Science and Operations Research. This course not only helps the students learn how to model real life problems as mathematical models, but also provides them the mathematical foundation and the spreadsheet skills to solve them. Specifically, using spreadsheets, the course focuses on modeling a variety of applications of finance, marketing and production/operations management with spreadsheets. Some of these applications include inventory control, workforce management, location and distribution problems, revenue management, portfolio selection, capital budgeting, and optimal sales allocation. The course also focuses on theories on basic optimization techniques such as the simplex method for solving linear programming, duality theory, Branch-&amp;-Bound algorithm for solving integer linear programming and multi-criteria decision making. \nPrerequisite: AP/ADMS 2320 3.00. \nCourse credit exclusion: AP/ADMB 3330 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3351",
+            "credit": 3.0,
+            "name": "Operations Management",
+            "prereqs": "adms2320",
+            "desc": "Management of operations in today's business environment usually involves mathematical and statistical modeling. This course provides a working understanding of the operations management models and techniques such as process analysis, quality management, aggregate planning, inventory control, and material requirements planning. Prerequisite: AP/ADMS 2320 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3352",
+            "credit": 3.0,
+            "name": "Sampling Techniques and Survey Design",
+            "prereqs": "econ2500 adms2320",
+            "desc": "This course deals with different sampling techniques and their applications to management problems. Survey design, pilot surveys, use of focus groups, in-person interviews, mail surveys and polling, will also be dealt with. Prerequisite: AP/ECON 2500 3.00 or AP/ADMS 2320 3.00, or, for students with equivalent preparation, permission of the coordinator. Note: This course counts as an elective in an economics major."
+        },
+        {
+            "dept": "adms",
+            "code": "3353",
+            "credit": 3.0,
+            "name": "Project Management",
+            "prereqs": "",
+            "desc": "Introduces students to the theory and practice of project management. Applicable to all sectors, this course takes a problem-solving approach to planning, budgeting, implementing and completing small and large-scale projects."
+        },
+        {
+            "dept": "adms",
+            "code": "3360",
+            "credit": 3.0,
+            "name": "Physical Distribution and Transportation",
+            "prereqs": "adms3330",
+            "desc": "The purpose of this course is to describe the role of physical distribution and transportation in business and the impact that these factors can have on market share and profitability in a competitive marketplace. Prerequisites: AP/ADMS 3330 3.00; or permission of the Instructor."
+        },
+        {
+            "dept": "adms",
+            "code": "3370",
+            "credit": 3.0,
+            "name": "Advanced Spreadsheets for Business Applications",
+            "prereqs": "adms2320 adms2500",
+            "desc": "This course provides students with hands-on experience and skills with Excel. Students learn various functions and commands of Excel as well as how to plan, create, and program spreadsheets for common business applications.\nPrerequisites: AP/ADMS 2320 3.00 and AP/ADMS 2500 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Occupational Health and Safety",
+            "prereqs": "adms1000 adms1000",
+            "desc": "Covers federal and provincial occupational health and safety legislation, hazard identification and control, physical agents, chemical agents, socio-psychological aspects of health and the management of safety programs. \r\nPrerequisite: AP/ADMS 1000 3.00, for all BCOM and BCOM Honours students. \r\nPrior TO FALL 2009: Prerequisite: AK/ADMS 1000 3.00, for all BCOM and BCOM Honours students. Course credit exclusions: AK/ADMS 3400 3.00, AK/HLST 3240 3.00 prior to F/W 2008."
+        },
+        {
+            "dept": "adms",
+            "code": "3410",
+            "credit": 3.0,
+            "name": "Training and Development",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "Covers the corporate training process of needs analysis, objective setting, program design, adult education, equity in training, methods and evaluation, as well as alternatives to training and the role of stakeholder. Prerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00, and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3420",
+            "credit": 3.0,
+            "name": "Employment Law",
+            "prereqs": "hrm2600",
+            "desc": "Provides a basic understanding of the law and issues governing the employer-employee relationship. The rights and obligations of employers and employees are examined, as well as labour relations in unionized settings. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3422",
+            "credit": 3.0,
+            "name": "Industrial Relations",
+            "prereqs": "adms2400",
+            "desc": "Examines the history of unions, the nature of the industrial relations systems including the legal framework, the social psychological climate, contract negotiation and administration. Ideologies and trends are discussed. Prerequisite: AP/ADMS 2400 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3430",
+            "credit": 3.0,
+            "name": "Human Resources Planning",
+            "prereqs": "hrm2600",
+            "desc": "Provides students with an understanding of the personnel planning process, the qualitative and quantitative techniques used in forecasting personnel requirements, and feasible solutions to shortages or surpluses. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3440",
+            "credit": 3.0,
+            "name": "Leadership and Management Skills",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "This course focuses on imparting to students key skills associated with managerial success in organizations. Leadership is a key theme throughout the course, which also addresses decision-making, conflict resolution, time management, team-building, negotiating, and other critical management skills. Prerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00, and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3450",
+            "credit": 3.0,
+            "name": "Equity, Diversity and Inclusion in the Workplace",
+            "prereqs": "hrm2600",
+            "desc": "Provides basic understanding of diversity and inclusion practices in organizations and in the Canadian workforce. Issues of inequality and discrimination are examined through theoretical lenses that inform the practice of diversity management. The value of diversity and inclusion, and means of accommodation are explored. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3470",
+            "credit": 3.0,
+            "name": "Recruitment, Selection and  Performance Appraisal of Personnel",
+            "prereqs": "hrm2600",
+            "desc": "This course enables the student to identify the appropriate recruiting methods for locating and attracting different types of candidates, explains the key steps in the selection process, evaluates the validity of various selection techniques and describes various performance appraisal methods. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3490",
+            "credit": 3.0,
+            "name": "Compensation",
+            "prereqs": "hrm2600",
+            "desc": "Provides the student with an understanding of the objectives of a compensation program; the process and techniques of wage and salary determination; issues and problems in incentive systems, benefits and services and the management of these programs. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3502",
+            "credit": 3.0,
+            "name": "Business Process Integration with Enterprise Resource Planning Systems",
+            "prereqs": "adms2511",
+            "desc": "Explains and demonstrates how Enterprise Resource Planning Systems (ERP), a group of integrated software modules, run virtually all business processes in an organization. ERP Systems include modules such as management accounting, sales, logistics, production/materials management, procurement, and human resources. Prerequisites: AP/ADMS 2511 3.00 or AP/ITEC 1010\r 3.00. Course credit exclusions: AP/ADMS 3502 3.00 (prior to Fall 2014)."
+        },
+        {
+            "dept": "adms",
+            "code": "3510",
+            "credit": 3.0,
+            "name": "Managerial Cost Accounting and Analysis",
+            "prereqs": "adms2320 adms2500 adms2510 econ1000 econ1010",
+            "desc": "A course in theories and techniques of cost accounting and management accounting. Emphasis is placed on cost accumulation for purposes of (a) asset valuation and income measurement, and (b) planning and control. Prerequisites: AP/ADMS 2320 3.00, AP/ADMS 2500 3.00, AP/ADMS 2510 3.00; AP/ECON 1000 3.00, AP/ECON 1010 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3511",
+            "credit": 3.0,
+            "name": "Business Analytics: Introduction, Methods and Practical Approaches",
+            "prereqs": "adms2320 adms2511",
+            "desc": "This course is an introduction to business analytics (BA). BA use information technology applications to improve decision-making in organizations by probing large data sets, gaining knowledge and communicating conclusions drawn from data. The course explains and demonstrates through hands-on practice how BA applications are used in organizations to support decision-making. \nPrerequisites: AP/ADMS 2320 3.00, AP/ADMS 2511 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3520",
+            "credit": 3.0,
+            "name": "An Overview of Canadian Income Taxation",
+            "prereqs": "",
+            "desc": "An overview of the taxation of personal and corporate incomes of Canadian taxpayers, related tax planning and GST implications. \r\nNCR: Students who have received credit for AP/ADMS 4561 3.00 or AP/ADMS 4562 3.00 may not subsequently take AP/ADMS 3520 3.00 for degree credit."
+        },
+        {
+            "dept": "adms",
+            "code": "3521",
+            "credit": 3.0,
+            "name": "Management of Electronic Commerce Systems",
+            "prereqs": "adms2511 itec1010",
+            "desc": "Provides students with a solid foundation about the realities and potential involved in applying electronic commerce. Particularly, we examine successful and unsuccessful strategic information systems in e-commerce, and look at how such systems are developed, managed, controlled and implemented. Prerequisites: AP/ADMS 2511 3.00 or AP/ITEC 1010 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3524",
+            "credit": 3.0,
+            "name": "Public Sector Budget Process",
+            "prereqs": "",
+            "desc": "Examines the key issues and context of the budget process and the increasing importance of oversight, transparency and accountability in the public sector in Canada. Assesses current approaches to budget policy, fiscal management and accountability frameworks. Prerequisites: AP/ECON 1000 3.00, AP/ECON 1010 3.00, AP/ADMS 2500 3.00 (or AP/ADMS 1500 3.00 or AP/ADMS 1550 3.00)."
+        },
+        {
+            "dept": "adms",
+            "code": "3530",
+            "credit": 3.0,
+            "name": "Finance",
+            "prereqs": "econ1000 econ1010 adms2500",
+            "desc": "The role of financial managers in accomplishing organizational objectives, uses of financial statements, present value theory, risk/return analysis, leverage, cost of capital, resource allocation models. Prerequisites: AP/ECON 1000 3.00; AP/ECON 1010 3.00; AP/ADMS 2500 3.00. Corequisite: AP/ADMS 2320 3.00. Course credit exclusions: AP/ADMB 3530 3.00, AP/ECON 4400 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3531",
+            "credit": 3.0,
+            "name": "Personal Investment Management",
+            "prereqs": "adms3530",
+            "desc": "Familiarizes students with the investment process, emphasizing the management of individual investor portfolios. Topics include security markets, trade-offs between risk and return, security analysis, and the concept of an &quot;almost efficient&quot; market. Current financial events are discussed. Prerequisite: AP/ADMS 3530 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3541",
+            "credit": 3.0,
+            "name": "Personal Financial Planning",
+            "prereqs": "adms3530 econ1000 econ1010",
+            "desc": "Introduces financial planning techniques used in professional practice and follows through the steps and methods involved in developing personal financial plans. Topics include taxation, investment alternatives, targeting savings levels, insurance, retirement planning and relevant legislation. Prerequisites: AP/ADMS 3530 3.00, AP/ECON 1000 3.00, AP/ECON 1010 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3585",
+            "credit": 3.0,
+            "name": "Intermediate Financial Accounting I",
+            "prereqs": "adms2500",
+            "desc": "This course, in conjunction with AP/ADMS 3595 3.00, develops thorough knowledge and understanding of generally accepted accounting principles and financial statement analytical skills by examining various technical areas of financial accounting. Prerequisite: AP/ADMS 2500 3.00. Course credit exclusion: AP/ADMB 3585 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3595",
+            "credit": 3.0,
+            "name": "Intermediate Financial Accounting II",
+            "prereqs": "adms3585",
+            "desc": "This course is a continuation of AP/ADMS 3585 3.00. It develops a thorough knowledge and understanding of generally accepted accounting principles and financial statement reporting practices in Canada. Prerequisite: AP/ADMS 3585 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3660",
+            "credit": 3.0,
+            "name": "Business Ethics and Corporate Social Responsibility",
+            "prereqs": "adms1000",
+            "desc": "Introduces students to the relevance and importance of business ethics and corporate social responsibility. The course applies moral theory to the treatment by business of various stakeholder groups including: shareholders; employees; consumers; governments; communities; and the natural environment. Prerequisite: AP/ADMS 1000 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3701",
+            "credit": 3.0,
+            "name": "Disaster Risk Management",
+            "prereqs": "",
+            "desc": "Practical analysis of the risk management process and the specific tools and methods used to address the risks facing organizations, institutions, and communities.\r\nCross-Listing: AP/ADMS 3701 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "3702",
+            "credit": 3.0,
+            "name": "Comprehensive Emergency Management: Integrating Critical Knowledge with Practice",
+            "prereqs": "dems2700",
+            "desc": "Provides an in-depth theoretical examination and practical analysis of a number of themes within the four pillars of emergency management: mitigation, preparedness, response and recovery, within a comprehensive emergency management framework. \r\nPrerequisite: AP/ADMS/DEMS 2700 3.00. \r\nCorequisite: AP/DEMS 3701 3.00 or permission of the course director. \r\nCross-Listing:AP/ADMS 3702 3.00\r\n\r\nPRIOR TO FALL 2009: Prerequisite: AK/ADMS 3700 3.00. Corequisite: AK/ADMS 3701 3.00 or permission of the course director. Course credit exclusion: AK/ADMS 3702 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3703",
+            "credit": 3.0,
+            "name": "Business Continuity Planning",
+            "prereqs": "dems2700 adms2400",
+            "desc": "Provides an introduction to the field of business continuity. Continuity management is a holistic management process that identifies potential impacts threatening an organization and provides a framework for building resilience with the capability for an effective response. \r\nPrerequisites: AP/ADMS/DEMS 2700 3.00 or AP/ADMS 2400 3.00. \r\nCross-Listing: AP/ADMS 3703 3.00\r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "3704",
+            "credit": 3.0,
+            "name": "Emergency Management Communications",
+            "prereqs": "",
+            "desc": "Introduces students to the essentials of all stages of emergency management communications. Relying heavily on case studies, this course teaches the theory of effective communications, particularly in a crisis context. Students will also develop their own presentation/media skills.  Cross-Listing:  AP/ADMS 3704 3.00\r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "3705",
+            "credit": 3.0,
+            "name": "Emergency Management: Field Experience",
+            "prereqs": "dems2700 dems3701",
+            "desc": "Placements in the field provide students with the opportunity to apply theories of emergency management in a variety of organizations within the private, public and NGO sectors. \r\nPrerequisites: AP/ADMS/DEMS 2700 3.00 and AP/ADMS/DEMS 3701 3.00 with a minimum grade of C+ in each course. \r\nCross-Listing:: AP/ADMS 3705 3.00\r\nOpen only to those students enrolled in the Bachelor of Disaster and Emergency Management or the Emergency Management Certificate. \r\nNote 1: Students are required to apply for this course and will be selected by the course director based upon their prior demonstrated knowledge and competence.  \r\nNote 2: Students are responsible for finding their own field placement. The course director will assist students with this on an informal basis. The field experience cannot begin until an Agreement between York University and the Host Institution is signed. \r\nNote 3: Students are required to meet with the course director prior to the commencement of the course.  The field experience component of this course will require a commitment of 12 hours per week over 11 weeks (132 hours).  \r\n\r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "3706",
+            "credit": 3.0,
+            "name": "Disasters and Humans",
+            "prereqs": "",
+            "desc": "Focuses on developing an understanding of the impact of different disasters on individuals, communities and specific populations. Short and long term intervention strategies for social psychological preparation and support will be presented and assessed.\r\nCross-Listing: AP/ADMS 3706 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "3707",
+            "credit": 3.0,
+            "name": "Ethics: Society, the Environment and Disasters",
+            "prereqs": "adms1000 dems2700",
+            "desc": "Explores ethical uncertainties associated with disasters and emergencies and develops a basic understanding of ethical decision-making processes and moral reasoning. Also explores the moral imperatives associated with emergency management in a variety of contexts, locally and globally. Emphasis is on applied ethics, development of moral competence in response to issues, and implications for socially responsive environmental and disaster management. \r\nPrerequisites: AP/ADMS 1000 3.00 and AP/ADMS/DEMS 2700 3.00.\r\nCross-Listing:: AP/ADMS 3707 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "3708",
+            "credit": 3.0,
+            "name": "Social Issues in Disaster Management",
+            "prereqs": "dems2700 dems3701",
+            "desc": "Offers in-depth analysis of the way social and cultural processes shape our experience and understanding of catastrophe, whether natural, accidental, or intentional.  Focus will be on how people and institutions make decisions as related to natural, technological and man-made disasters. \r\nPrerequisites: AP/ADMS/DEMS 2700 3.00 and AP/ADMS/DEMS 3701 3.00\r\nCross-Listing: AP/ADMS 3708 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "3810",
+            "credit": 3.0,
+            "name": "Introduction to Real Estate",
+            "prereqs": "adms1000",
+            "desc": "Provides an overview of the various aspects of real estate administration for non-specialists as well as those students intending to take other real estate courses. Prerequisite: AP/ADMS 1000 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3820",
+            "credit": 3.0,
+            "name": "Real Estate Law I",
+            "prereqs": "adms3810 adms2610",
+            "desc": "A discussion of the development of the law of real property in the context of the common law and current legislation. Emphasis will be placed on practical considerations in the methods of the lawyer and the businessman in arriving at their conclusions. Prerequisite: AP/ADMS 3810 3.00. Note: Students are strongly recommended to complete AP/ADMS 2610 3.00 before taking this course."
+        },
+        {
+            "dept": "adms",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "The Practice of General Management",
+            "prereqs": "adms2400",
+            "desc": "Develops the required organizational skills and practices of managers to meet their objectives in small, medium and large organizations. Theoretical instruction is combined with cases and experiential exercises to help students develop a comprehensive understanding of the subject and the integration of functional areas in strategic analysis. \nPrerequisites: AP/ADMS 2400 3.00.  \nCourse credit exclusions: AP/ADMS 3930 3.00 (as of Fall 2020)"
+        },
+        {
+            "dept": "adms",
+            "code": "3920",
+            "credit": 3.0,
+            "name": "New Venture and Small Business Management",
+            "prereqs": "adms1000 adms2500",
+            "desc": "An understanding of the entrepreneurial process, from idea generation to new enterprise creation, is developed through lectures, case studies and simulations. The functional topic areas of business are developed as they relate specifically to planning for new ventures (including intrapreneurship) and small business management. Prerequisites: AP/ADMS 1000 3.00; AP/ADMS 2500 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "3960",
+            "credit": 3.0,
+            "name": "International Business",
+            "prereqs": "adms1000",
+            "desc": "Issues and problems facing the manager in the international environment. Areas of study include multinational corporation, factors leading to successful performance, analysis of basic managerial functions in different countries, assessment of the nature and scope of international business and global business strategy. Prerequisite: AP/ADMS 1000 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "adms1000 econ1000 econ1010",
+            "desc": "A reading and research course suited to students with special interests. Students will select areas of study in consultation with an appropriate faculty member. Prerequisites: 78 credits including AP/ADMS 1000 3.00, AP/ECON 1000 3.00, AP/ECON 1010 3.00, and six credits in management science. Open only to students in Honours programs. Note: Students must be accepted by a faculty supervisor before they can register in 4000-level directed reading courses. The course transaction form for such courses must be submitted with a note from the supervisor stating his/her willingness to perform this task. Permission of the Director of the School of Administrative Studies is also required."
+        },
+        {
+            "dept": "adms",
+            "code": "4002",
+            "credit": 6.0,
+            "name": "Interdisciplinary Capstone Project",
+            "prereqs": "",
+            "desc": "Upper-level students from across the university work together in multi-disciplinary teams to address pressing, &quot;real-world&quot; challenges, which are posed by organizations from both the for-profit and not-for-profit sectors. Students research, design, test and reflect on potential solutions to their challenge, building on and integrating their existing disciplinary knowledge and skills. Prerequisites: Final year of study, or by special permission."
+        },
+        {
+            "dept": "adms",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Organization and Administrative Theory",
+            "prereqs": "adms2400 adms2400",
+            "desc": "Examines in depth the development of administrative thought and organizational theories. Current organizational theories will be related to contemporary administrative society. Prerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 2400 3.00, or 2) for other students, a grade of C+ or better in AP/ADMS 2400 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Personal Selling and Sales Force Management",
+            "prereqs": "adms2200 adms2200",
+            "desc": "Introduces students to the essential concepts and practices of personal selling and sales management. It places special emphasis on the role and activities of the sales representatives, the formulation and implementation of a strategic sales program, and the motivation, control, and evaluations of sales performance. The course is taught using a mix of lectures, case discussions, role-plays, class presentations, a major project and guest speakers. Prerequisites: 1) For students in an Honours program, 72 credits including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "International Marketing",
+            "prereqs": "adms2200 adms2200",
+            "desc": "A study of the management of international marketing activities. Emphasis is placed upon policy and strategy formulation and the environmental constraints within which these activities take place. Prerequisites: 1) For students in an Honours program, 72 credits, including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4211",
+            "credit": 3.0,
+            "name": "Live-Client Learning Marketing",
+            "prereqs": "adms3220 adms3210",
+            "desc": "This course provides students with the opportunity to apply their theoretical knowledge in marketing to the diagnosis and solving of complex marketing problems in live situations or projects. Students are assigned a client organization and are expected to interact with the client several times throughout the term to determine business needs, gather information and/or discuss findings. By the end of the semester, teams present assessments and recommendations for action to their clients, instructor and classmates. Course assignments are designed to foster critical reflection on the integration of marketing theory and practice and to stimulate sharing and discussion of students' experiences regarding their course work.\r\n\r\nPrerequisites: AP/ADMS 3220 3.00 and AP/ADMS 3210 3.00\r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "4215",
+            "credit": 3.0,
+            "name": "Business to Business Marketing",
+            "prereqs": "adms2200 adms2200",
+            "desc": "B2B marketing examines the important topic of how businesses market goods and services to other businesses, governments and not-for-profit organizations. The course examines the challenges of B2B organizational buying behaviour, customer and supplier relationships, sales, channel intermediaries, and communications. The course emphasizes the conceptual, strategic and tactical aspects of business marketing. Prerequisites: 1) For students in an Honours program, 72 credits including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4225",
+            "credit": 3.0,
+            "name": "Retailing Management",
+            "prereqs": "adms2200 adms2200",
+            "desc": "Retailing management provides an introductory study of the strategic elements of the retail industry and the retail marketing mix. The course covers key retail strategy components such as retailer type, location selection, store layout options, merchandising, retail trends, human resources, supplier co-operative promotions. The course explores the design, implementation and assessment of the retail mix. Prerequisites: 1) For students in an Honours program, 72 credits including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "Marketing Channels",
+            "prereqs": "adms2200 adms2200",
+            "desc": "Integrates theory and practice of Marketing Distribution Channels - the &quot;place&quot; of Marketing, focusing on issues of power and conflict and how they are resolved in ways that promote strategic relationships and integrate with strategic planning. Prerequisites: 1) For students in an Honours program, 72 credits, including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4235",
+            "credit": 3.0,
+            "name": "New Product Management",
+            "prereqs": "adms2200 adms2200",
+            "desc": "This course describes a strategic and tactical framework to develop successful new products and services. Course topics include: critical success factors; development process, ideation, concept development and testing, project selection and portfolio management, cross-functional teams, the role of customers in innovation; product testing and market launch. Students will develop a business case for a new product idea of their own. Prerequisites: 1) For students in an Honours program, 72 credits, including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4240",
+            "credit": 3.0,
+            "name": "Advertising and Communications",
+            "prereqs": "adms2200 adms2200",
+            "desc": "Covers advertising fundamentals with a focus on mass advertising (TV, print, outdoor), integrated marketing communication (PR, direct marketing, digital marketing, sales promotion), creative strategy and tactics, ad budgeting, and metrics for ad and media effectiveness. Assignments may include a project for a real-life ad campaign, case studies' critiquing, and metrics of media data. Prerequisites: 1) For students in an Honours program, 72 credits, including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00.\n"
+        },
+        {
+            "dept": "adms",
+            "code": "4245",
+            "credit": 3.0,
+            "name": "Digital Marketing",
+            "prereqs": "adms2200 adms2200",
+            "desc": "Addresses the progressive need for businesses and individuals to leverage the internet for branding and commerce. Core components of this course include Search Engine Marketing, Social Media Marketing, Online Consumer Behaviour, ethical and legal considerations, and commonly used web analytics and programs. Assignments may include a digital marketing plan for a real-life organization and an online self-branding profile. Prerequisites: 1) For students in an Honours program, 72 credits, including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Marketing Strategy Development and Implementation",
+            "prereqs": "adms2200 adms3210 adms4220 adms2200 adms3210 adms4220",
+            "desc": "Provides integration of knowledge from diverse areas of Marketing. The focus is on situation analysis, development and justification of a firm's marketing strategy. The course may include a marketing simulation with teams managing their firms. Additional assignments may include case studies and positioning analysis of real brands. Is best taken as a capstone course in the area. Prerequisites: 1) For students in an Honours program, 72 credits, including AP/ADMS 2200 3.00 and AP/ADMS 3210 3.00 or AP/ADMS 4220 3.00 (prior to Fall 2013), or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00 and AP/ADMS 3210 3.00 or AP/ADMS 4220 3.00 (prior to Fall)."
+        },
+        {
+            "dept": "adms",
+            "code": "4255",
+            "credit": 3.0,
+            "name": "Customer Relationship Management",
+            "prereqs": "adms2200 adms2200",
+            "desc": "An examination of principles, methods, and strategies for building collaborative buyer-seller relationships that create competitive advantage for the firm by identifying, differentiating, and interacting with profitable customers and customizing product/service offerings for them. Prerequisites: 1) For students in an Honours program, 72 credits including AP/ADMS 2200 3.00, or 2) for other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4260",
+            "credit": 3.0,
+            "name": "Marketing Research ",
+            "prereqs": "adms2200 adms2320 adms2200 adms2320 adms2200 kine2050 econ2500 pols3300 ppas3300 psyc2020 psyc2021 adms2310 adms2200 adms3200 adms2200 adms3200",
+            "desc": "Examines how problem definition, research design, data collection, sampling and data analysis influence the quantity, quality and value of research information used for marketing decision-making. Students learn to specify, gather, analyze, interpret and report research\ninformation and to apply this knowledge by analyzing a real world data set using statistical software like SPSS.\nPrerequisites: For students in the Honours BCom program, 72 credits including AP/ADMS 2200 3.0 and AP/ADMS 2320 3.0. For other  students, (a) a grade of C+ or better in AP/ADMS 2200 3.0 and (b) AP/ADMS 2320 3.0. For non-BCom students (a) a grade\nof C+ or better in AP/ADMS 2200 3.0 and (b) ADMS 2310 3.0, HH/KINE 2050 3.0, AP/ECON 2500 3.00, AP/POLS 3300 6.0, AP/PPAS 3300 6.0, HH/PSYC 2020 6.0, OR HH/PSYC 2021 3.0, OR such other courses as may be deemed acceptable in lieu of AP/ADMS 2310 3.0. Prerequisites for AP/ADMS 4260 do not imply general equivalency between courses listed. \nPRIOR TO FALL 2009: Prerequisites: 1) For students in an Honours program, 72 credits including AK/ADMS 2200 3.00 or AK/ADMS 3200 3.00 (prior to Summer 2005), or 2) other students, a grade of C+ or better in AK/ADMS 2200 3.00 or AK/ADMS 3200 3.00 (prior to Summer 2005). \nCourse credit exclusion:AK/ADMS 4260 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4265",
+            "credit": 3.0,
+            "name": "Marketing Analytics",
+            "prereqs": "adms4260",
+            "desc": "Elaborates on how marketing analytics can be used to transform research information into strategic insights about the business, the markets it serves, and its competitors. The process by which analytical insights are created and leveraged to drive marketing decision-making is examined in four strategic contexts: 1) forecasting new business opportunities; 2) creating customized products to meet consumer needs; 3) segmenting and targeting markets to galvanize customer response to new offerings; and 4) developing\r\ncompelling sales stories to establish channel access and support. The development and application of no research and analytical knowledge and skills is fostered with lectures, classroom discussions, assignments and presentations. \r\nPrerequisites: AP/ADMS 4260 3.00\r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "4275",
+            "credit": 3.0,
+            "name": "Services Marketing",
+            "prereqs": "adms2200 adms2200",
+            "desc": "Examines strategies for the marketing of services with an emphasis on how services differ from other products, and on service quality. Covers many service environments from large to small and from financial to retail. Prerequisites: 1) For students in an Honours program, 72 credits, including AP/ADMS 2200 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4285",
+            "credit": 3.0,
+            "name": "Brand Management",
+            "prereqs": "adms2200 adms3220 adms2200 adms3220",
+            "desc": "Presents students with an overview of the targets and the process of brand management. Prerequisites: 1) For students in an Honours program, 72 credits including AP/ADMS 2200 3.00 and AP/ADMS 3220 3.00, or 2) other students, a grade of C+ or better in AP/ADMS 2200 3.00 and AP/ADMS 3220 3.00.\n"
+        },
+        {
+            "dept": "adms",
+            "code": "4333",
+            "credit": 3.0,
+            "name": "Supply Chain Management",
+            "prereqs": "",
+            "desc": "Supply chain management is about planning, implementing, and controlling the efficient flow of material and information in multi-stage production-distribution networks. This course provides the knowledge and the tools necessary to develop, implement, and sustain strategies for managing supply chains to increase responsiveness and profitability. Prerequisite: AP/ADMS 3330 3.00; or permission of the Instructor."
+        },
+        {
+            "dept": "adms",
+            "code": "4360",
+            "credit": 3.0,
+            "name": "Materials and Inventory Management",
+            "prereqs": "adms3330",
+            "desc": "This course deals with management of the purchasing function, materials management and inventory management in modern organization. The course is taught by a combination of explanation of theory and study of case histories. Prerequisites: AP/ADMS 3330 3.00; or permission of the Instructor."
+        },
+        {
+            "dept": "adms",
+            "code": "4370",
+            "credit": 3.0,
+            "name": "Data Analysis Systems",
+            "prereqs": "adms2320 econ2500",
+            "desc": "Introduces Windows-based data processing software and provides overview of computing concepts and data processing using SAS, SPSS and STATA. Covers such statistics techniques as data visualization and summary, analysis of contingency tables, linear and logistic regressions, and nonparametric methods. Elective course for: BAS ITEC and BAS HURE. Prerequisite: AP/ADMS 2320 3.00 or AP/ECON 2500 3.00 or MATH 2131 3.00. Course credit exclusions: \r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "4375",
+            "credit": 3.0,
+            "name": "Applied Time Series Analysis for Management",
+            "prereqs": "adms2320 econ3210 econ3480 math3330",
+            "desc": "This course examines the basic time series concepts and modeling techniques and applies the techniques on real-life data. This course concentrates on univariate time series and covers some multivariate time series concepts and techniques. Prerequisites: AP/ADMS 2320 3.00 or AP/ECON 3210 3.00 or AP/ECON 3480 3.00 or SC/MATH 3330 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Strategic Human Resources Management",
+            "prereqs": "hrm2600 hrm3400 hrm3410 hrm3422 hrm3430 hrm3470 hrm3490",
+            "desc": "Examines the evolution of the HR role, the trends that impact on HRM, the threats and opportunities affecting the HR function. Discusses strategy, action plans, priority management, measurement of results and competencies. \r\nPrerequisites: AP/HRM 2600 3.00, AP/HRM 3400 3.00, AP/HRM 3410 3.00, AP/HRM 3422 3.00, AP/HRM 3430 3.00, AP/HRM 3470 3.00, AP/HRM 3490 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4420",
+            "credit": 3.0,
+            "name": "Human Resources Research Methods",
+            "prereqs": "hrm2600 hrm2600",
+            "desc": "Examines the research function in HRM. Topics include measurement and evaluation, as well as experimental, survey and qualitative research methods. Emphasis is placed on how to design research to measure and evaluate HRM programs. \r\nPrerequisites: 1) For students in the Honours program, 78 credits including AP/HRM 2600 3.00, or 2) for other students, a grade of C+ or better in AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4430",
+            "credit": 3.0,
+            "name": "Career Management",
+            "prereqs": "hrm2600 hrm3410",
+            "desc": "Provides students with the theory and skills to enable them to manage their own careers, the careers of employees and the career process within organizations. Prerequisites: AP/HRM 2600 3.00 and AP/HRM 3410 3.00.\r\n"
+        },
+        {
+            "dept": "adms",
+            "code": "4440",
+            "credit": 3.0,
+            "name": "Issues in Human Resource Management",
+            "prereqs": "hrm2600 hrm2600",
+            "desc": "Examines current issues in HRM, which may include but not limited to downsizing, contingency workers, training transfer, stress related diseases, ethics, and outsourcing. Students are active participants in the identification and delineation of trends. Prerequisites: For students in the Honours program, 78 credits including AP/HRM 2600 3.00, or for other students, a grade of C+ or better in AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4444",
+            "credit": 3.0,
+            "name": "Identity and Inclusivity in Organizations: Advanced Topics ",
+            "prereqs": "",
+            "desc": "Develops in depth awareness and understanding of workplace diversity and inclusion from various stakeholders' perspectives. Explores advanced topics such as the role individual identity management, stigma and disclosure in the experiences of members of non-dominant groups. Examines issues of individual identity including, but not limited to, gender, race and ethnicity, sexual orientation, gender identity and expression, ability, religion and social status. Note: This course may not be taken concurrently with AP/HRM 3450 3.00.\r\nPrerequisites: AP/HRM 3450 3.00 recommended; 1) For students in a BCom/BHRM Honours program, 78 credits including AP/ADMS 2400 3.00 or AP/ADMS 2600 3.00, or 2) for other students, a grade of B or better in AP/ADMS 2400 3.00 (or HH/PSYC 3570 3.00) or Instructor's permission."
+        },
+        {
+            "dept": "adms",
+            "code": "4460",
+            "credit": 3.0,
+            "name": "Organizational Development",
+            "prereqs": "adms2400 hrm2600 adms2400 hrm2600",
+            "desc": "Examines the design and implementation of programs for employee development at various organizational levels. Emphasis is placed on the integration of theoretical and experiential knowledge and the development of intervention skills as aids to understanding and responding to change in organizations. Prerequisites: For students in an Honours program, 78 credits including AP/ADMS 2400 3.00 and AP/HRM 2600 3.00 or for other students, a grade of C+ or better in AP/ADMS 2400 3.00 and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4470",
+            "credit": 3.0,
+            "name": "International Human Resources Management",
+            "prereqs": "hrm2600 hrm3410 hrm3430 hrm3470 hrm3490",
+            "desc": "Outlines the differences between domestic and international human resources management with specific emphasis on staffing, training, management development, compensation and benefits, union and employee relations. HRM practices in other countries are identified. \r\nPrerequisites: AP/HRM 2600 3.00, AP/HRM 3410 3.00, AP/HRM 3430 3.00, AP/HRM 3470 3.00 and AP/HRM 3490 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4480",
+            "credit": 3.0,
+            "name": "Cross Cultural Management",
+            "prereqs": "adms2400 hrm2600 adms2400 hrm2600",
+            "desc": "Introduces students to essential theories, frameworks and concepts in Cross Cultural Management. Adopting an experiential learning approach it develops an understanding of how to manage and be managed in diverse cultural contexts. \r\nPrerequisites: For students in an Honours program, 78 credits including AP/ADMS 2400 3.00 and AP/HRM 2600 3.00, or for other students, a grade of C+ or better in AP/ADMS 2400 3.00 and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4481",
+            "credit": 3.0,
+            "name": "Organizational Communication",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "Presents basic theoretical and practical tools of organizational communication and introduces students to the principles and value of communicating effectively in any work setting and to different type of audience. The focus is on interpersonal communication and basic processes of informative and persuasive communication. Prerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00 and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4485",
+            "credit": 3.0,
+            "name": "Executive Coaching",
+            "prereqs": "adms1000 hrm2600 hrm2600",
+            "desc": "Provides an overview of the theoretical bases, underlying principles and practical guidelines of executive coaching. The objective is to understand the executive coaching process, its unique challenges and goals, and its role in the HR function. \r\nPrerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 1000 3.00 and AP/HRM 2600 3.00, or 2) for other students, a grade of C+ or better in AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4490",
+            "credit": 3.0,
+            "name": "Negotiations for Human Resource Management",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "Experiential exercises and case studies are used to gain critical skills for negotiating in a human resource management context. The objective is to learn how to analyze the key factors in a negotiation and plan a course of action. Prerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00 and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4495",
+            "credit": 3.0,
+            "name": "Managing Effective Groups and Teams",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "Experiential exercises and group projects are used to help students gain insights into managing groups. The students will leave the course with knowledge on how to select, appraise, motivate, and provide feedback to teams in organizational settings. \r\nPrerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00, and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4501",
+            "credit": 3.0,
+            "name": "Advanced Portfolio Management",
+            "prereqs": "adms2320 adms3531",
+            "desc": "This course undertakes a rigorous study of the theory and empirical evidence relevant to professional portfolio management. Students learn tools which enable them to manage risks, allocate among asset classes, detect mispriced securities, and measure the performance of portfolio managers. Prerequisites: AP/ADMS 2320 3.00; AP/ADMS 3531 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4502",
+            "credit": 3.0,
+            "name": "Ethics for Investment Managers",
+            "prereqs": "adms3531",
+            "desc": "Students learn a basic ethical framework and the ethical standards expected of professional investment managers, including the CFA Code of Ethics and the Canadian regulatory environment. Students debate and challenge complex and multi-faceted ethics problems and case studies.\r\nPrerequisite: AP/ADMS 3531 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4503",
+            "credit": 3.0,
+            "name": "Derivative Securities",
+            "prereqs": "adms3530 adms3531",
+            "desc": "Explores pricing and use of derivative securities - futures and forward contracts, swaps and options -- traded on stocks, bonds, commodities, interest rates and currencies. Students learn how they work, how to hedge or speculate with them and how they are priced. Prerequisites: AP/ADMS 3530 3.00, AP/ADMS 3531 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4504",
+            "credit": 3.0,
+            "name": "Fixed Income Securities and Risk Management",
+            "prereqs": "adms3530 adms3531",
+            "desc": "The objectives of this course are to describe important fixed income securities and markets and to explore key issues in risk management. It develops tools for valuing and modeling the risk exposures of fixed income securities and their derivatives, with the ultimate goal of deploying these instruments in a corporate or financial risk management setting. Prerequisites: AP/ADMS 3530 3.00, AP/ADMS 3531 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4505",
+            "credit": 3.0,
+            "name": "Retirement and Estate Planning",
+            "prereqs": "adms3520 adms3541",
+            "desc": "Builds on the basic financial planning taught in AP/ADMS 3541 3.00 to develop advanced skills in the areas of pre- and post-retirement planning and estate planning, with an introduction to employee benefits. Students will work with complex integrated case studies. Prerequisites: AP/ADMS 3520 3.00; AP/ADMS 3541 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4506",
+            "credit": 3.0,
+            "name": "Professional Financial Planning",
+            "prereqs": "adms3520 adms3531 adms3541 adms4505 adms4507",
+            "desc": "Students will learn how to apply technical knowledge to the practice of financial planning. The course introduces models, guidance and techniques for undertaking all phases of the financial planning process. This course fulfills the Professional Education Program (PEP) requirement of FP Canada. Prerequisites: AP/ADMS 3520 3.00, AP/ADMS 3531 3.00, AP/ADMS 3541 3.00, AP/ADMS 4505 3.00 and AP/ADMS 4507 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4507",
+            "credit": 3.0,
+            "name": "Insurance and Other Finance Topics",
+            "prereqs": "adms3541",
+            "desc": "Life, health, disability and property insurance, ethics for financial planners. Instructor choice of additional topics that may include behavioural finance, stochastic financial planning, Islamic finance, financial exclusion and current events. Uses a mixture of complex problems and case studies, including a comprehensive insurance assessment of a family as an experiential exercise. Prerequisite: AP/ADMS 3541 3.00. Prerequisite or corequisite: AP/ADMS 3531 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4508",
+            "credit": 3.0,
+            "name": "Money Behaviours and Client Communication",
+            "prereqs": "",
+            "desc": "This course covers the aspects of human behaviours relevant to financial decision making. It explores financial decision-making and impediments to good financial decision-making, such as behavioural biases and cognitive limitations. The course also covers communication techniques to help develop trust and motivate change with financial planning clients. Prerequisite: ADMS 3541 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "4509",
+            "credit": 3.0,
+            "name": "Financial Risk Management",
+            "prereqs": "adms3531 econ4640",
+            "desc": "This course introduces risk management theory and provides a practical approach to understanding how risks are quantified and managed. The first part of the course presents the tools used to assess financial risk. The second part of the course introduces students to value at risk (VaR) and stress testing and explores market, credit, operational, liquidity, and enterprise risk management. Prerequisite: AP/ADMS 3531 3.00 CCE: GL/ECON 4640 3.00 "
+        },
+        {
+            "dept": "adms",
+            "code": "4510",
+            "credit": 3.0,
+            "name": "Accounting Theory and Contemporary Issues",
+            "prereqs": "adms3595 econ1000 adms3585 adms3595",
+            "desc": "Examines the nature of accounting, accounting theory and the extent to which it applies to current accounting practice as well as certain contemporary issues in accounting. The preparation of paper-critique/case-analysis reports is also required. Prerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 3595 3.00, AP/ECON 1000 3.00, or 2) for other students, these above-listed courses and an average grade of C+ or better in AP/ADMS 3585 3.00 and AP/ADMS 3595 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4511",
+            "credit": 3.0,
+            "name": "Managing and Implementing Strategic Information Systems",
+            "prereqs": "adms2511",
+            "desc": "Takes the strategic perspective of the general manager and study how leading firms manage their IT investments. The course focuses on the business value that can be achieved rather than the details of the technology. Issues around strategic alignment and IT governance will pervade the course. Prerequisites: 78 credits including AP/ADMS 2511 3.00. Open only to: students in Honours programs."
+        },
+        {
+            "dept": "adms",
+            "code": "4515",
+            "credit": 3.0,
+            "name": "Internal Audit",
+            "prereqs": "adms2500 adms2510 adms2511 adms2500 adms2510",
+            "desc": "Introduces students to the objectives, concepts, principles and techniques of internal and management auditing, as applied to profit-pursuing, non-profit and government organizations. \r\nPrerequisites: \r\n1) For students in an Honours program, 78 credits including AP/ADMS 2500 3.00, AP/ADMS 2510 3.00 and AP/ADMS 2511 3.00; or\r\n2) For other students, the above listed courses and an average grade of C+ or better in AP/ADMS 2500 3.00 and AP/ADMS 2510 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4520",
+            "credit": 3.0,
+            "name": "Advanced Financial Accounting",
+            "prereqs": "adms3595 econ1000 adms3585 adms3595",
+            "desc": "This final financial accounting course emphasizes accounting for international activities and inter-corporate investments. The application of accounting principles to case situations in specialized industries and non-profit organizations is also considered. Prerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 3595 3.00, AP/ECON 1000 3.00, or 2) for other students, these above-listed courses and an average grade of C+ or better in AP/ADMS 3585 3.00 and AP/ADMS 3595 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4535",
+            "credit": 3.0,
+            "name": "Financial Statement Analysis",
+            "prereqs": "adms3530",
+            "desc": "Students learn comprehensive financial statement analysis: consideration of strategy and other qualitative elements; fundamental analytical techniques; how to assess accounting quality and restate financial statements; how to extract business insights from financial statement analysis; and how to write a comprehensive report on a company's financial performance. Prerequisite: AP/ADMS 3530 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4536",
+            "credit": 3.0,
+            "name": "Security Valuation",
+            "prereqs": "adms4501",
+            "desc": "Students will learn the theories, models and practice of valuing investments, primarily equity securities, with some attention paid to alternative investments. Prerequisite: AP/ADMS 4501 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4537",
+            "credit": 3.0,
+            "name": "Sustainable Investing",
+            "prereqs": "",
+            "desc": "This course is for students who are interested in pursuing careers in the investment profession, and specifically within the rapidly evolving area of sustainable and responsible investing. The course is based on new strategies and techniques that investors are adopting relating to sustainable/responsible investing.\nPre-requisite: AP/ADMS 3531 (3.00)"
+        },
+        {
+            "dept": "adms",
+            "code": "4540",
+            "credit": 3.0,
+            "name": "Financial Management",
+            "prereqs": "adms3530 adms2320 adms3530",
+            "desc": "Building upon introductory knowledge from AP/ADMS 3530 3.00, the course covers bond duration and refunding, risk and return, capital budgeting under uncertainty, capital structure, dividend policy and risk management. Empirical evidence on corporate finance theories will also be analyzed.\nPrerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 3530 3.00, AP/ADMS 2320 3.00, or 2) for other students, these above-listed courses and a grade of C+ or better in AP/ADMS 3530 3.00. \nCourse credit exclusion: AP/ECON 4410 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4541",
+            "credit": 3.0,
+            "name": "Applied Corporate Finance",
+            "prereqs": "adms2320 adms3530",
+            "desc": "Explores corporate financial decision making through analytical and case study methods. Topics include working capital management, credit and product pricing, integration of credit policy with long-term strategic and operational decisions, venture financing, small business finances and risk management. Prerequisites: AP/ADMS 2320 3.00 and AP/ADMS 3530 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4542",
+            "credit": 3.0,
+            "name": "International Financial Management",
+            "prereqs": "adms3530",
+            "desc": "Provides students with a framework for making corporate financial decisions in a global context. Topics include international monetary system, foreign exchange management and hedging techniques for different types of exposures, international parity relationships, and worldwide money, debt and equity markets. Prerequisite: AP/ADMS 3530 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4551",
+            "credit": 3.0,
+            "name": "Auditing and Other Assurance Services",
+            "prereqs": "adms2511 adms3585 adms3595 econ1000 adms3585 adms3595 adms4535",
+            "desc": "Examines audit concepts and techniques. Coverage will include audit theory, the timing, nature and extent of audit testing, audit procedures and the application and interpretation of statistics in an audit context. Prerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 2511 3.00, AP/ADMS 3585 3.00, AP/ADMS 3595 3.00, AP/ECON 1000 3.00, or 2) for other students, these above-listed courses and an average grade of C+ or better in AP/ADMS 3585 3.00 and AP/ADMS 3595 3.00. AP/ADMS 4535 3.00 is not required, but strongly recommended."
+        },
+        {
+            "dept": "adms",
+            "code": "4552",
+            "credit": 3.0,
+            "name": "Information Systems Audits",
+            "prereqs": "adms3595 adms4551 adms2511 adms3585 adms3595",
+            "desc": "Covers the audit of computer-based information systems. Topics include business/accounting information system applications, information systems risks, management controls, control evaluation, audit strategies and computer assisted audit techniques. Prerequisites: 1) For students in the Honours program, 78 credits including AP/ADMS 3595 3.00; AP/ADMS 4551 3.00; and AP/ADMS 2511 3.00 or 2) other students, these above-listed courses and an average grade of C+ or better in AP/ADMS 3585 3.00 and AP/ADMS 3595 3.00. "
+        },
+        {
+            "dept": "adms",
+            "code": "4553",
+            "credit": 3.0,
+            "name": "Auditing: Advanced Topics",
+            "prereqs": "adms3595 adms4551 adms3585 adms3595",
+            "desc": "Examines current and/or advanced issues affecting the audit profession. Coverage includes the public's expectation of audits and various types of engagements including: special reports, non-audits, prospectuses, future oriented financial statements and comprehensive audits. Prerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 3595 3.00, AP/ADMS 4551 3.00, or 2) or other students, these above-listed courses and an average grade of C+ or better in AP/ADMS 3585 3.00 and AP/ADMS 3595 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4561",
+            "credit": 3.0,
+            "name": "Taxation Of Personal Income in Canada",
+            "prereqs": "adms3520",
+            "desc": "Together with AP/ADMS 4562 3.00, introduces students to the principles and practice of Canadian taxation and related tax planning. Enables students to achieve a basic understanding of the Canadian Income Tax Act and its GST implications in relation to the individual. Prerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 3520 3.00; 2) or for other students, a grade of C+ or better in the above-listed course."
+        },
+        {
+            "dept": "adms",
+            "code": "4562",
+            "credit": 3.0,
+            "name": "Corporate Taxation in Canada",
+            "prereqs": "adms3520",
+            "desc": "Together with AP/ADMS 4561 3.00, introduces students to the principles and practice of Canadian taxation and related tax planning. Enables students to achieve a basic understanding of the Canadian Income Tax Act and its GST implications in relation to corporations, partnerships and trusts. Prerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 3520 3.00; 2) or for other students, a grade of C+ or better in the above-listed course."
+        },
+        {
+            "dept": "adms",
+            "code": "4570",
+            "credit": 3.0,
+            "name": "Management Planning and Control Systems",
+            "prereqs": "adms3510 adms2320 adms3351 adms3510",
+            "desc": "A study of the process by which managers ensure that resources are obtained and used efficiently and effectively in accomplishing organizational objectives. Readings in cost accounting, finance, business policy and social psychology are applied to analyze case studies of actual situations. Prerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 3510 3.00, AP/ADMS 2320 3.00 and AP/ADMS 3351 3.00 (or ADMS 3330 prior to Fall 2019) or 2) for other students, these above-listed courses and a grade of C+ or better in AP/ADMS 3510 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4590",
+            "credit": 3.0,
+            "name": "Comprehensive and Multi-subject Accounting Problems",
+            "prereqs": "adms3510 adms3530 adms4510 adms4511 adms4520 adms4551 adms4515 adms4561 adms3520 adms3585 adms3595",
+            "desc": "This course enables students to apply their technical knowledge to complex accounting problems. Students will be required to interrelate the knowledge obtained from individual subject areas in order to identify problems, analyze data and formulate recommendations for action. \nPrerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 3510 3.00, AP/ADMS 3530 3.00, AP/ADMS 4510 3.00 (or AP/ADMS 4511 3.00 or AP/ADMS 4520 3.00), AP/ADMS 4551 3.00 (or AP/ADMS 4515 3.00), and AP/ADMS 4561 3.00 (or AP/ADMS 3520 3.00) or 2) for other students, these above-listed courses and an average grade of C+ or better in AP/ADMS 3585 3.00 and AP/ADMS 3595 3.00."
+        },
+        {
+            "dept": "adms",
+            "code": "4704",
+            "credit": 3.0,
+            "name": "Disaster and Logistics",
+            "prereqs": "adms2320",
+            "desc": "Explores the potential applicability of concepts in private sector logistics to disaster logistics. Focuses on developing quantitative models in the disaster logistics area.      \r\nPrerequisite: AP/ADMS 2320 3.00\r\nCross-Listing: AP/ADMS 4704 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "4705",
+            "credit": 3.0,
+            "name": "Comprehensive Emergency Management 2:  The Canadian Context",
+            "prereqs": "dems3702",
+            "desc": "Applies the theory and practice of comprehensive emergency management within the Canadian context.  Examines Canadian case studies, policy, practice and legislation. Special topics will be addressed in greater depth.\r\nPrerequisite: AP/ADMS/DEMS 3702 3.00 or permission of the course director.\r\nCross-Listing: AP/ADMS 4705 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "4707",
+            "credit": 3.0,
+            "name": "Managing Risks to Critical Infrastructure",
+            "prereqs": "dems2700 dems3701 dems3702 dems3703",
+            "desc": "This course will explore threats, vulnerabilities and risks to critical infrastructure from the perspective of ensuring for reliability through appropriate protection and resiliency measures and strategies. It will examine and assess regulatory requirements, legislation and due diligence in terms of ensuring for the effective management of risks by critical infrastructure owners and operators. Incidents and threats to critical infrastructures stemming from natural disasters, accidents, physical and cyber attacks by criminals, terrorists and nation states are undertaken.\r\nPrerequisites: AP/ADMS/DEMS 2700 3.00, AP/ADMS/DEMS 3701 3.00, AP/ADMS/DEMS 3702 3.00, AP/ADMS/DEMS 3703 3.00. \r\nCross-Listing: AP/ADMS 4707 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "4708",
+            "credit": 3.0,
+            "name": "Research Seminar in Disaster and Emergency Management",
+            "prereqs": "dems3702",
+            "desc": "Examines selected theories and practices in Disaster and Emergency Management. Focus will be on development of research skills.  Course topics vary according to instructor.\r\nPrerequisites: AP/ADMS/DEMS 3702 3.00 or permission of the course director.  \r\nCross-Listing: AP/ADMS 4708 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "4709",
+            "credit": 3.0,
+            "name": "Terrorism: The New Threat",
+            "prereqs": "",
+            "desc": "Focuses on various components of terrorism. Facilitates a closer examination of both conventional and changing nature of terrorism. Security practices that continue to be applied to the present-day threat will be discussed. New and unconventional anti-terror processes will be explored that are expected to curtail the rise of terrorism.  \r\nOpened to students in Emergency Mgmt program, or 60 credits completed, or permission of the course director. \r\nCross-Listing:AP/ADMS 4709 3.00"
+        },
+        {
+            "dept": "adms",
+            "code": "4721",
+            "credit": 3.0,
+            "name": "Qualitative Methods",
+            "prereqs": "adms2400",
+            "desc": "Provides an in-depth understanding of qualitative strategies for conducting interviews, focus groups and other methods of research in public sector and business and management roles. It also addresses practical and theoretical approaches to data collection and analysis and examines the value of qualitative research in contemporary management practices. \nPrerequisite: a minimum of 60 credits successfully completed, including AP/ADMS 2400 3.00. \nCourse credit exclusion: AP/ADMS 4421 3.00 (prior to Fall 2019)."
+        },
+        {
+            "dept": "adms",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Management Policy Part I",
+            "prereqs": "econ1000 econ1010 adms2320",
+            "desc": "Strategy and policy identification, formulation, and evaluation are developed through lectures and case discussions. Emphasis is on integration of administrative studies subject areas with which the student has previously become familiar, to provide a framework for the analysis of strategic problems of general management. Prerequisites: 78 credits including AP/ECON 1000 3.00; AP/ECON 1010 3.00 and AP/ADMS 2320 3.00 (or equivalent)."
+        },
+        {
+            "dept": "adms",
+            "code": "4910",
+            "credit": 3.0,
+            "name": "Management Policy Part II",
+            "prereqs": "adms4900 adms2320",
+            "desc": " Building on Management Policy Part I, this course emphasizes strategy formulation, policy implementation and planning. Using a sophisticated business simulation program, student teams will integrate their functional business knowledge to develop, implement, and adapt a firm strategy over time in a dynamic market. Prerequisites: 78 credits including AP/ADMS 4900 3.00 and AP/ADMS 2320 3.00. Open only to students in Honours programs."
+        },
+        {
+            "dept": "adms",
+            "code": "4940",
+            "credit": 3.0,
+            "name": "Innovation Management",
+            "prereqs": "econ1000 econ1010 adms2320",
+            "desc": "Technology plays an important role in the competitive landscape. The challenge of managing technologies is immense. This course examines the challenges and the opportunities that technological change presents to companies and managers. Prerequisites: 78 credits including: AP/ECON 1000 3.00; AP/ECON 1010 3.00 and AP/ADMS 2320 3.00 (or equivalent)."
+        },
+        {
+            "dept": "adms",
+            "code": "4970",
+            "credit": 3.0,
+            "name": "Managing for Sustainability",
+            "prereqs": "adms1010 adms3660 adms1010",
+            "desc": "This course focuses on management practices designed to advance environmental, social, and economic sustainability within an ethical framework. Sustainable management concepts, models, and methods are explored within the context of global trends shaping the managerial environment. We employ systems thinking and an applied, solutions-oriented perspective to identify emerging practices and future opportunities that align economic systems within vibrant societal and ecological systems.\r\n\r\nPrerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 1010 3.00 and AP/ADMS 3660 3.00, or 2) for other students, a grade of C+ or better in AP/ADMS1010 3.00 and in AP/ADMS3660."
+        }
+    ]
+}

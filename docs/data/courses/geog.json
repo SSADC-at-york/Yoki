@@ -1,0 +1,740 @@
+{
+    "courses": [
+        {
+            "dept": "geog",
+            "code": "1401",
+            "credit": 3.0,
+            "name": "Physical Geography: Weather and Climate ",
+            "prereqs": "",
+            "desc": "What is climate change and how will it impact the environment? Learn how Earth's climate and weather systems work and explore the drivers of current and past climatic change. Discover how climate and climate change influence global biodiversity patterns. Gain practical experience applying the scientific method to address pressing environmental challenges related to climate change. \r\n\r\nCourse Credit Exclusions: EU/GEOG 1400 6.00; AP/GEOG 1400 6.00; SC/GEOG 1400 6.00"
+        },
+        {
+            "dept": "geog",
+            "code": "1401",
+            "credit": 3.0,
+            "name": "Physical Geography: Weather and Climate ",
+            "prereqs": "",
+            "desc": "What is climate change and how will it impact the environment? Learn how Earth's climate and weather systems work and explore the drivers of current and past climatic change. Discover how climate and climate change influence global biodiversity patterns. Gain practical experience applying the scientific method to address pressing environmental challenges related to climate change. \r\n\r\nCourse Credit Exclusions: EU/GEOG 1400 6.00; AP/GEOG 1400 6.00; SC/GEOG 1400 6.00"
+        },
+        {
+            "dept": "geog",
+            "code": "1402",
+            "credit": 3.0,
+            "name": "Physical Geography: The Dynamic Earth ",
+            "prereqs": "",
+            "desc": "The Earth is constantly changing. Explore our global landscapes and the dynamic processes that have shaped the surface of the Earth throughout its history. Learn how interconnections among land, water, air, and living things drive variation in landforms, ecosystems, and biodiversity around the globe and through geologic time. \r\n\r\nCourse Credit Exclusions: EU/GEOG 1400 6.00; AP/GEOG 1400 6.00; SC/GEOG 1400 6.00"
+        },
+        {
+            "dept": "geog",
+            "code": "1402",
+            "credit": 3.0,
+            "name": "Physical Geography: The Dynamic Earth ",
+            "prereqs": "",
+            "desc": "The Earth is constantly changing. Explore our global landscapes and the dynamic processes that have shaped the surface of the Earth throughout its history. Learn how interconnections among land, water, air, and living things drive variation in landforms, ecosystems, and biodiversity around the globe and through geologic time. \r\n\r\nCourse Credit Exclusions: EU/GEOG 1400 6.00; AP/GEOG 1400 6.00; SC/GEOG 1400 6.00"
+        },
+        {
+            "dept": "geog",
+            "code": "2030",
+            "credit": 3.0,
+            "name": "The End of the Earth as We Know It: Global Environmental Change",
+            "prereqs": "geog1000 geog1400 geog1410",
+            "desc": "This course explores how human society has transformed the earth system and investigates the social, economic and political implications of contemporary environmental change. Topics include deforestation, climate change, biodiversity loss and natural disasters such as hurricanes, flooding and drought. Internet access is required. Recommended prerequisites: AP/GEOG 1000 6.00, AP/GEOG 1400 6.00 and AP/GEOG 1410 6.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2110",
+            "credit": 3.0,
+            "name": "Geographies of Global Political Economy and Power",
+            "prereqs": "",
+            "desc": "This course examines the shifting map of global economic and political power, and the socio-spatial processes that underpin such patterns. Key topics include: dynamics of capitalism; global production networks; digital economy; global finance; migration and borders; work and labour; the state and varieties of capitalism; geopolitics, conflict and violence; international development; and political economies of environmental change.\r\nCourse exclusions/equivalents: AP/GEOG 2105, EU/GEOG 2105, AP/GEOG 2070"
+        },
+        {
+            "dept": "geog",
+            "code": "2220",
+            "credit": 3.0,
+            "name": "Global Urban Geography",
+            "prereqs": "",
+            "desc": "In a world where over 50 per cent of the population lives in urban areas, cities play a significant\trole in shaping the social, cultural, economic, political, and environmental conditions of people's everyday lives. This course introduces a geographical literature on urbanization. It provides students with a necessary general survey of the characteristics of urban processes and patterns, urban systems and structure, and urban social issues from a geographical perspective. "
+        },
+        {
+            "dept": "geog",
+            "code": "2310",
+            "credit": 6.0,
+            "name": "Introduction to Refugee and Migration Studies",
+            "prereqs": "",
+            "desc": "Description: An introduction to the study of refugees that covers conceptual issues (definitions, refugee rights, ethical norms), history, Canadian policy, and issues in specific areas of the world, including Africa, Asia, Latin America, Eastern Europe and the Middle East.\nCourse credit exclusion: AP/MIST 2000 6.00, AP/SOSC1130 9.00, AP/SOSC 1139 9.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2320",
+            "credit": 3.0,
+            "name": "Migration and Displacement",
+            "prereqs": "",
+            "desc": "This course is designed to introduce the main concepts and issues in contemporary migration studies, with an emphasis on forced migration in a global context. It is a survey course, employing historical, contemporary, Canadian and international analyses of power at urban, national, and global scales. \r\n\r\nCourse Credit Exculsions: EU/GEOG 2310 6.00/AP HREQ 2310 6.0 "
+        },
+        {
+            "dept": "geog",
+            "code": "2340",
+            "credit": 3.0,
+            "name": "Introduction to Geomatics",
+            "prereqs": "geog1000 geog1400 geog1410",
+            "desc": "This course covers fundamental concepts and approaches of geographical information systems, remote sensing and global positioning systems. Students also acquire knowledge and skills in descriptive statistics, map design and interpretation, and basic computer cartography. Prerequisite: AP/GEOG 1000 6.00 or AP/GEOG 1400 6.00 or AP/GEOG 1410 6.00 or written permission of the Instructor. Course credit exclusions: AP/GEOG 2350 3.00 (prior to Fall 2013), SC/GEOG 2350 3.00 (prior to Fall 2013), LE/EATS 2610 2.00 (prior to Summer 2013), LE/ENG 2110 2.00 (prior to Summer 2013).PRIOR TO SUMMER 2013: Prerequisite: AP/GEOG 1000 6.00 or AP/GEOG 1400 6.00 or AP/GEOG 1410 6.00 or written permission of the Instructor. Course credit exclusions: AP/GEOG 2350 3.00 (prior to Fall 2013), SC/GEOG 2350 3.00 (prior to Fall 2013), SC/EATS 2610 2.00, SC/ENG 2110 2.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2340",
+            "credit": 3.0,
+            "name": "Introduction to Geomatics",
+            "prereqs": "geog1000 geog1400 geog1410",
+            "desc": "This course covers fundamental concepts and approaches of geographical information systems, remote sensing and global positioning systems. Students also acquire knowledge and skills in descriptive statistics, map design and interpretation, and basic computer cartography. Prerequisite: AP/GEOG 1000 6.00 or AP/GEOG 1400 6.00 or AP/GEOG 1410 6.00 or written permission of the Instructor. Course credit exclusions: AP/GEOG 2350 3.00 (prior to Fall 2013), SC/GEOG 2350 3.00 (prior to Fall 2013), LE/EATS 2610 2.00 (prior to Summer 2013), LE/ENG 2110 2.00 (prior to Summer 2013).PRIOR TO SUMMER 2013: Prerequisite: AP/GEOG 1000 6.00 or AP/GEOG 1400 6.00 or AP/GEOG 1410 6.00 or written permission of the Instructor. Course credit exclusions: AP/GEOG 2350 3.00 (prior to Fall 2013), SC/GEOG 2350 3.00 (prior to Fall 2013), SC/EATS 2610 2.00, SC/ENG 2110 2.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2401",
+            "credit": 3.0,
+            "name": "Hydrosphere I ",
+            "prereqs": "geog1401 geog1402 geog1400",
+            "desc": "Examines the movement and storage of water in various phases near the Earth's surface and the energy required for fueling the hydrologic cycle. Basic atmospheric and hydrologic processes will be covered, and the flow of energy and water to and beneath the Earth's surface will be traced.\r\nPrerequisite: EU/SC/GEOG 1401 3.00 and EU/SC/GEOG 1402 3.00  (prior to 2021: AP/SC/GEOG 1400 6.00   \r\n\r\nCourse Credit Exclusions: EU/GEOG 2400 6.00; AP/GEOG 2400 6.00; SC/GEOG 2400 6.00\r\n\r\n"
+        },
+        {
+            "dept": "geog",
+            "code": "2401",
+            "credit": 3.0,
+            "name": "Hydrosphere I ",
+            "prereqs": "geog1401 geog1402 geog1400",
+            "desc": "Examines the movement and storage of water in various phases near the Earth's surface and the energy required for fueling the hydrologic cycle. Basic atmospheric and hydrologic processes will be covered, and the flow of energy and water to and beneath the Earth's surface will be traced.\r\nPrerequisite: EU/SC/GEOG 1401 3.00 and EU/SC/GEOG 1402 3.00  (prior to 2021: AP/SC/GEOG 1400 6.00   \r\n\r\nCourse Credit Exclusions: EU/GEOG 2400 6.00; AP/GEOG 2400 6.00; SC/GEOG 2400 6.00\r\n\r\n"
+        },
+        {
+            "dept": "geog",
+            "code": "2402",
+            "credit": 3.0,
+            "name": "Hydrosphere II ",
+            "prereqs": "geog2401",
+            "desc": "Examines the physical processes and the environmental factors that govern the movement of water and energy in lakes, rivers, oceans and the soil-plant-atmosphere continuum. \r\n\r\nPrerequisite: EU/SC/GEOG 2401 3.00 \r\n\r\nCourse Credit Exclusions: EU/GEOG 2400 6.00; AP/GEOG 2400 6.00; SC/GEOG 2400 6.00"
+        },
+        {
+            "dept": "geog",
+            "code": "2402",
+            "credit": 3.0,
+            "name": "Hydrosphere II ",
+            "prereqs": "geog2401",
+            "desc": "Examines the physical processes and the environmental factors that govern the movement of water and energy in lakes, rivers, oceans and the soil-plant-atmosphere continuum. \r\n\r\nPrerequisite: EU/SC/GEOG 2401 3.00 \r\n\r\nCourse Credit Exclusions: EU/GEOG 2400 6.00; AP/GEOG 2400 6.00; SC/GEOG 2400 6.00"
+        },
+        {
+            "dept": "geog",
+            "code": "2420",
+            "credit": 3.0,
+            "name": "Introductory Statistical Analysis in Geography",
+            "prereqs": "",
+            "desc": "This introductory course aims to provide a working knowledge of several statistical techniques which are widely used in many branches of geography. Some attention is also given to broader questions concerning the nature of the scientific method. Prerequisites: 24 credits successfully completed. This course is intended primarily for students majoring in geography and is normally taken during the second-year of study. Course credit exclusions: AP/ECON 2500 3.00, AP/POLS 3300 6.00, AP/SOCI 3030 6.00, HH/KINE 2050 3.00, HH/KINE 3150 3.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, SC/BIOL 2060 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00, SC/MATH 2570 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2420",
+            "credit": 3.0,
+            "name": "Introductory Statistical Analysis in Geography",
+            "prereqs": "",
+            "desc": "This introductory course aims to provide a working knowledge of several statistical techniques which are widely used in many branches of geography. Some attention is also given to broader questions concerning the nature of the scientific method. Prerequisites: 24 credits successfully completed. This course is intended primarily for students majoring in geography and is normally taken during the second-year of study. Course credit exclusions: AP/ECON 2500 3.00, AP/POLS 3300 6.00, AP/SOCI 3030 6.00, HH/KINE 2050 3.00, HH/KINE 3150 3.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, SC/BIOL 2060 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00, SC/MATH 2570 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2500",
+            "credit": 3.0,
+            "name": "Introduction to Vegetation and Soils",
+            "prereqs": "geog1400 geog1400",
+            "desc": "An introduction to the structure and functioning of vegetation and soil systems, emphasizing local patterns and processes, methods of description and sampling, dynamic processes, response to environmental change and human disturbance. Field work is emphasized in laboratories. One-day field trip. Prerequisite: AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00 or ES/ENVS 2500 6.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2500",
+            "credit": 3.0,
+            "name": "Introduction to Vegetation and Soils",
+            "prereqs": "geog1400 geog1400",
+            "desc": "An introduction to the structure and functioning of vegetation and soil systems, emphasizing local patterns and processes, methods of description and sampling, dynamic processes, response to environmental change and human disturbance. Field work is emphasized in laboratories. One-day field trip. Prerequisite: AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00 or ES/ENVS 2500 6.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2600",
+            "credit": 3.0,
+            "name": "Geomorphology I",
+            "prereqs": "geog1400 geog1400 eats1010 geog1400 geog1400 eats1010",
+            "desc": "This course concentrates on basic principles and fundamental concepts in geomorphology, including energy flows in geomorphic systems, hill slope forms and materials, weathering and landforms, and drainage basin geomorphology and hydrology (with a particular emphasis on Canadian examples).Prerequisite: AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00 or LE/EATS 1010 3.00.PRIOR TO SUMMER 2013: Prerequisite: AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00 or SC/EATS 1010 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "2600",
+            "credit": 3.0,
+            "name": "Geomorphology I",
+            "prereqs": "geog1400 geog1400 eats1010 geog1400 geog1400 eats1010",
+            "desc": "This course concentrates on basic principles and fundamental concepts in geomorphology, including energy flows in geomorphic systems, hill slope forms and materials, weathering and landforms, and drainage basin geomorphology and hydrology (with a particular emphasis on Canadian examples).Prerequisite: AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00 or LE/EATS 1010 3.00.PRIOR TO SUMMER 2013: Prerequisite: AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00 or SC/EATS 1010 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Teaching Geography in the Intermediate Division",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Geography in the intermediate grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "geog",
+            "code": "3040",
+            "credit": 3.0,
+            "name": "Urban Environmental Justice",
+            "prereqs": "",
+            "desc": "Examines how processes of urbanization result in the unequal spatial and social distribution of environmental goods (e.g., pollution, toxic waste, landfills) in North American cities. It investigates the ways in which cities, as dynamic human ecologies in their own right, have increasingly become sites of environmental contestation, and explores the articulation of social justice, urbanization and environmentalism. Course credit exclusion: AP/HIST 3891 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3070",
+            "credit": 3.0,
+            "name": "Gender, Population,and Migration",
+            "prereqs": "",
+            "desc": "The course examines the characteristics, trends, and problems in the growth and distribution of human populations. It analyzes the interrelationships between fertility, mortality, migration, and socioeconomic development in various regions of the world, paying special attention to the gender perspectives of the observed relationships.      Prerequisite: 54 credits successfully completed. \r\n"
+        },
+        {
+            "dept": "geog",
+            "code": "3080",
+            "credit": 3.0,
+            "name": "Reading Landscapes Through Time",
+            "prereqs": "",
+            "desc": "Cultural landscapes change over time. This can result from changes in legal tenure, cultural adaptation, changes in the economic base or historical events. This course considers landscapes in various countries in chronological sequence."
+        },
+        {
+            "dept": "geog",
+            "code": "3150",
+            "credit": 3.0,
+            "name": "Technological Worlds: Geographies of Digital Capitalism",
+            "prereqs": "",
+            "desc": "The course examines the societal and geographical implications of new technologies, including digitalization, big data, artificial intelligence (AI), and the Internet of Things. Students address  the economic and financial geographies of technological innovation and analyze techno-economic trends emerging from: the growth of personal data; the deployment of machine learning and AI; and the expansion of surveillance / platform capitalism.  Format: blended/online (if blended, then students should expect to spend 2 hours online and 1 hour in class)"
+        },
+        {
+            "dept": "geog",
+            "code": "3230",
+            "credit": 3.0,
+            "name": "Environmental Politics in Latin America and the Caribbean",
+            "prereqs": "",
+            "desc": "This course will survey contemporary social movements addressing environmental questions in the region of Latin America and the Caribbean. Examining how movements frame particular environments as requiring defending, responsibilities for their defense, and strategies for defending them, we will develop a critical perspective on the region's role in shaping what questions count as environmental globally"
+        },
+        {
+            "dept": "geog",
+            "code": "3330",
+            "credit": 3.0,
+            "name": "Geographic Thought",
+            "prereqs": "",
+            "desc": "The course focuses on the development of geographic thought and its applications to contemporary social and environmental issues. After an introduction to the historical development of geographic enquiry, the course traces the intellectual history of Western geographic thought in the twentieth and twenty-first centuries. Particular emphasis is placed on the paradigm shift to 'critical geographies' and its current relevance. "
+        },
+        {
+            "dept": "geog",
+            "code": "3340",
+            "credit": 3.0,
+            "name": "Fundamentals of Geographic Information Systems (GIS)",
+            "prereqs": "geog2420 geog2420",
+            "desc": "An introduction to the application of GIS to geographical/environmental problems. A broad conceptual overview of GIS approaches and their strengths and limitations. Students gain hands-on experience in the use of raster-based GIS technology with particular reference to resource management and planning topics. Prerequisite: AP/GEOG 2420 3.00 or SC/GEOG 2420 3.00. Course credit exclusions: AP/GEOG 3180 3.00 (prior to Fall 2013), SC/GEOG 3180 3.00 (prior to Fall 2013), ES/ENVS 3520 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3340",
+            "credit": 3.0,
+            "name": "Fundamentals of Geographic Information Systems (GIS)",
+            "prereqs": "geog2420 geog2420",
+            "desc": "An introduction to the application of GIS to geographical/environmental problems. A broad conceptual overview of GIS approaches and their strengths and limitations. Students gain hands-on experience in the use of raster-based GIS technology with particular reference to resource management and planning topics. Prerequisite: AP/GEOG 2420 3.00 or SC/GEOG 2420 3.00. Course credit exclusions: AP/GEOG 3180 3.00 (prior to Fall 2013), SC/GEOG 3180 3.00 (prior to Fall 2013), ES/ENVS 3520 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3380",
+            "credit": 3.0,
+            "name": "Urban Social Analysis",
+            "prereqs": "",
+            "desc": "A critical examination of the links between urban social problems and state policies. The course studies how policy makers, planners and geographers understand and deal with social problems in the contemporary city and evaluates selected planning policies."
+        },
+        {
+            "dept": "geog",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Urban Geographies of Genders and Sexualities",
+            "prereqs": "",
+            "desc": "This course considers the construction, reproduction, and representation of gender and sexual identities as they intersect with other social differences in space. It introduces students to feminist and queer theorists and geographical scholarship on cis-gender, transgender, and sexualities in order to understand how power dynamics and norms cross-cut and shape social relations through space and across spatial scales."
+        },
+        {
+            "dept": "geog",
+            "code": "3440",
+            "credit": 3.0,
+            "name": "Remote Sensing for Earth Observation",
+            "prereqs": "geog2420 geog2420 envs2010",
+            "desc": "Introduction to the methods in which remote sensing data are collected, processed and analyzed. An emphasis is placed on environmental applications. The synergy between the technologies of remote sensing and geographic information systems (GIS) is also stressed.Prerequisites: AP/GEOG 2420 3.00 or SC/GEOG 2420 3.00 or ES/ENVS 2010 6.00 and one 2000-level environmental studies theme foundation course; or written permission of the Instructor. Course credit exclusions: ES/ENVS 3521 3.00 (prior to Fall 2013). Previously offered as: AP/GEOG 3440 3.00, SC/GEOG 3440 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3440",
+            "credit": 3.0,
+            "name": "Remote Sensing for Earth Observation",
+            "prereqs": "geog2420 geog2420 envs2010",
+            "desc": "Introduction to the methods in which remote sensing data are collected, processed and analyzed. An emphasis is placed on environmental applications. The synergy between the technologies of remote sensing and geographic information systems (GIS) is also stressed.Prerequisites: AP/GEOG 2420 3.00 or SC/GEOG 2420 3.00 or ES/ENVS 2010 6.00 and one 2000-level environmental studies theme foundation course; or written permission of the Instructor. Course credit exclusions: ES/ENVS 3521 3.00 (prior to Fall 2013). Previously offered as: AP/GEOG 3440 3.00, SC/GEOG 3440 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Biogeography",
+            "prereqs": "geog2500 geog2500 biol2050",
+            "desc": "An analysis of the geography of plants and animals emphasizing processes that operate at the population level, the origin and diversity of plants and animals, geographic patterns of diversity, and dynamics of species populations from local to continental scales. Prerequisite: AP/GEOG 2500 3.00 or SC/GEOG 2500 3.00 or SC/BIOL 2050 4.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Biogeography",
+            "prereqs": "geog2500 geog2500 biol2050",
+            "desc": "An analysis of the geography of plants and animals emphasizing processes that operate at the population level, the origin and diversity of plants and animals, geographic patterns of diversity, and dynamics of species populations from local to continental scales. Prerequisite: AP/GEOG 2500 3.00 or SC/GEOG 2500 3.00 or SC/BIOL 2050 4.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3520",
+            "credit": 3.0,
+            "name": "Designing and Conducting Research in Geography",
+            "prereqs": "",
+            "desc": "Examines how geographers design and carry out research, and the different philosophical bases for creating geographical knowledge. A range of approaches will be covered, including research in qualitative human geography, quantitative human geography, and physical geography. PRIOR TO FALL 2014: Course credit exclusion: AP/GEOG 3740 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3540",
+            "credit": 3.0,
+            "name": "Field Studies in Physical Geography",
+            "prereqs": "geog2420 geog2400 geog2500 geog2600",
+            "desc": "This course begins with lectures on field research methodology. The second phase concentrates on defining a field problem, leading to data collection in the field. The final part of the course deals with data analysis, and reviews methodological implications. Includes lectures, seminars and workshops, and a three to four day field trip.Prerequisites: Students must be registered as Honours majors in Geography or Environmental Science and must have successfully completed AP/GEOG 2420 3.00 and one of AP/GEOG 2400 6.00, AP/GEOG 2500 3.00 or AP/GEOG 2600 3.00; or permission of the Instructor. Course credit exclusions: SC/MATH 3330 3.00, AP/GEOG 4540 3.00 (prior to Fall 2012), SC/GEOG 4540 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "geog",
+            "code": "3540",
+            "credit": 3.0,
+            "name": "Field Studies in Physical Geography",
+            "prereqs": "geog2420 geog2400 geog2500 geog2600",
+            "desc": "This course begins with lectures on field research methodology. The second phase concentrates on defining a field problem, leading to data collection in the field. The final part of the course deals with data analysis, and reviews methodological implications. Includes lectures, seminars and workshops, and a three to four day field trip.Prerequisites: Students must be registered as Honours majors in Geography or Environmental Science and must have successfully completed AP/GEOG 2420 3.00 and one of AP/GEOG 2400 6.00, AP/GEOG 2500 3.00 or AP/GEOG 2600 3.00; or permission of the Instructor. Course credit exclusions: SC/MATH 3330 3.00, AP/GEOG 4540 3.00 (prior to Fall 2012), SC/GEOG 4540 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "geog",
+            "code": "3800",
+            "credit": 3.0,
+            "name": "Geographies of Work",
+            "prereqs": "",
+            "desc": "Examines the geographies of productive and reproductive labour at multiple scales, including global, national, regional, urban, domestic and personal."
+        },
+        {
+            "dept": "geog",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Physical Geography of the City",
+            "prereqs": "",
+            "desc": "This course explores the natural and physical systems of the city, focusing on the climate, water, geomorphology, biogeography of the urban landscape, including its built environment.  Course credit exclusions: None.  PRIOR TO FALL 2000: Course credit exclusion: AS/GEOG 3900 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Physical Geography of the City",
+            "prereqs": "",
+            "desc": "This course explores the natural and physical systems of the city, focusing on the climate, water, geomorphology, biogeography of the urban landscape, including its built environment.  Course credit exclusions: None.  PRIOR TO FALL 2000: Course credit exclusion: AS/GEOG 3900 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Geography in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Geography in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Geography in the intermediate and senior grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "geog",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "An independent piece of research done under the supervision of a faculty adviser. The thesis must be submitted before the end of classes in the winter term; an exact date is established each year. There is an oral examination on the Honours thesis. One lecture hour per week at the beginning of the course. Prerequisite: 84 credits passed."
+        },
+        {
+            "dept": "geog",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "An independent piece of research done under the supervision of a faculty adviser. The thesis must be submitted before the end of classes in the winter term; an exact date is established each year. There is an oral examination on the Honours thesis. One lecture hour per week at the beginning of the course. Prerequisite: 84 credits passed."
+        },
+        {
+            "dept": "geog",
+            "code": "4001",
+            "credit": 6.0,
+            "name": "Field Placement Course",
+            "prereqs": "",
+            "desc": "The placement course is an experiential education program designed to provide EUC students with the opportunity to apply their classroom learning in a workplace environment. Through these placement opportunities, students will gain confidence in field-related knowledge, general employability skills, and valuable work experience. Students must fulfill pre-course requirements in order to enroll in the course. Enrolment will be by permission of the Course Director and students will be graded on a pass/fail. The course is required for completion of the Community Arts Practice Certificate (CAP).\r\nPrerequisites: Third-year  Honours students (6.00 CGAP or better ) and students in the Bachelors program (4.50 CGPA ENST or CAP declared student with"
+        },
+        {
+            "dept": "geog",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Field Placement Course",
+            "prereqs": "",
+            "desc": "The Environmental Studies placement course is an experiential education program designed to provide EUC students with the opportunity to apply their classroom learning in a workplace environment. Through these placement opportunities, students will gain confidence in field-related knowledge, general employability skills, and valuable work experience. Students must fulfill pre-course requirements in order to enroll in the course. Enrolment will be by permission of the Course Director and students will be graded on a pass/fail. The course is required for completion of the Community Arts Practice Certificate (CAP)\r\nPrerequisites: Third-year  Honours students (6.00 CGAP or better ) and students in the Bachelors program (4.50 CGPA ENST or CAP declared student with"
+        },
+        {
+            "dept": "geog",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Geography in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Geography in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Geography areas in order to further develop students' expertise for teaching this subject. ED/GEOG 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "geog",
+            "code": "4170",
+            "credit": 3.0,
+            "name": "Geographic Perspectives on Immigration, Ethnicity and Race in Modern Cities",
+            "prereqs": "geog1000 geog1410",
+            "desc": "This course first discusses a number of conceptual issues concerning the residential segregation of ethnic and racial groups. The course then considers several case examples that exemplify the varied experiences of ethnic and racial groups in modern cities.Prerequisites: 84 credits successfully completed, including AP/GEOG 1000 6.00 or AP/GEOG 1410 6.00 or written permission of the Instructor. Third-year Honours students with 78 credits completed who are also taking summer courses may enrol."
+        },
+        {
+            "dept": "geog",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Water Quality and Stream Ecosystems",
+            "prereqs": "geog1400 geog1400 envs2410 biol2050",
+            "desc": "The course focuses on selected aspects of river water quality, including hillslope hydrology and the transport of pollutants, the impacts of human activities on water chemistry, nutrient transformations within stream ecosystems, and the effects of water quality on stream biological communities.Prerequisite: AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00, ES/ENVS 2410 3.00, or SC/BIOL 2050 4.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Water Quality and Stream Ecosystems",
+            "prereqs": "geog1400 geog1400 envs2410 biol2050",
+            "desc": "The course focuses on selected aspects of river water quality, including hillslope hydrology and the transport of pollutants, the impacts of human activities on water chemistry, nutrient transformations within stream ecosystems, and the effects of water quality on stream biological communities.Prerequisite: AP/GEOG 1400 6.00 or SC/GEOG 1400 6.00, ES/ENVS 2410 3.00, or SC/BIOL 2050 4.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Hydrometeorology",
+            "prereqs": "geog2400 geog2400",
+            "desc": "A study of the relationship between the atmosphere and the hydrosphere with the emphasis on the process of evaporation. The course includes an in-depth review of evaporation models and the instrumentation necessary for data acquisition. Normally offered in alternate years.Prerequisite: AP/GEOG 2400 6.00 or SC/GEOG 2400 6.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Hydrometeorology",
+            "prereqs": "geog2400 geog2400",
+            "desc": "A study of the relationship between the atmosphere and the hydrosphere with the emphasis on the process of evaporation. The course includes an in-depth review of evaporation models and the instrumentation necessary for data acquisition. Normally offered in alternate years.Prerequisite: AP/GEOG 2400 6.00 or SC/GEOG 2400 6.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4220",
+            "credit": 3.0,
+            "name": "Neoliberal Geographies",
+            "prereqs": "",
+            "desc": "This course examines neoliberalism as a geographical process - or 'neoliberalization' - through an examination of key transformations since the 1970s in the Global North and Global South. It focuses on the implications of neoliberalization for international, national, and regional political economies; political institutions, territories, and power dynamics; labour, work, and migration patterns and practices; and visions and discourses of societal progress. "
+        },
+        {
+            "dept": "geog",
+            "code": "4280",
+            "credit": 3.0,
+            "name": "Imagining Toronto: Literary Geographies of a City",
+            "prereqs": "",
+            "desc": "This course explores intersections of literature and place in the Toronto region, exposing students to critical and imaginative works on place, culture, and representation. Close readings of a wide selection of Toronto-based literature are paired with critical scholarly works interrogating how places are invented, (re)presented, and (re)produced. Prerequisite: At least 84 credits successfully completed or permission of the instructor.  Course credit exclusions: None.   PRIOR TO FALL 2009: Course credit exclusion: AS/GEOG 4280 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4290",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course may be used for individualized study, in which case the student requires permission from a faculty member who agrees to supervise the program of directed reading and from the Chair of the department. Note: See the Faculty of Liberal Arts and Professional Studies section of the Undergraduate Programs Calendar for Faculty of Liberal Arts and Professional Studies regulations on Independent Reading Courses."
+        },
+        {
+            "dept": "geog",
+            "code": "4290",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course may be used for individualized study, in which case the student requires permission from a faculty member who agrees to supervise the program of directed reading and from the Chair of the department. Note: See the Faculty of Liberal Arts and Professional Studies section of the Undergraduate Programs Calendar for Faculty of Liberal Arts and Professional Studies regulations on Independent Reading Courses."
+        },
+        {
+            "dept": "geog",
+            "code": "4290",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course may be used for individualized study, in which case the student requires permission from a faculty member who agrees to supervise the program of directed reading and from the Chair of the department. Note: See the Faculty of Liberal Arts and Professional Studies section of the Undergraduate Programs Calendar for Faculty of Liberal Arts and Professional Studies regulations on Independent Reading Courses."
+        },
+        {
+            "dept": "geog",
+            "code": "4290",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course may be used for individualized study, in which case the student requires permission from a faculty member who agrees to supervise the program of directed reading and from the Chair of the department. Note: See the Faculty of Liberal Arts and Professional Studies section of the Undergraduate Programs Calendar for Faculty of Liberal Arts and Professional Studies regulations on Independent Reading Courses."
+        },
+        {
+            "dept": "geog",
+            "code": "4340",
+            "credit": 3.0,
+            "name": "Spatial analysis and problem solving with  Geographic Information Systems (GIS)",
+            "prereqs": "geog3340 geog3340",
+            "desc": "Advanced course in geographic information systems (GIS), oriented around raster structures. Computer graphics for mapping introduced and work undertaken on finely divided surfaces. GIS considers both practical and theoretical questions of interpretation. Macintosh computers and raster-based software used for hands-on focus.Prerequisite: AP/GEOG 3340 3.00 or SC/GEOG 3340 3.00. PRIOR TO FALL 2013: Previously offered as: AP/GEOG 4340 3.00, SC/GEOG 4340 3.00.\r\n"
+        },
+        {
+            "dept": "geog",
+            "code": "4340",
+            "credit": 3.0,
+            "name": "Spatial analysis and problem solving with  Geographic Information Systems (GIS)",
+            "prereqs": "geog3340 geog3340",
+            "desc": "Advanced course in geographic information systems (GIS), oriented around raster structures. Computer graphics for mapping introduced and work undertaken on finely divided surfaces. GIS considers both practical and theoretical questions of interpretation. Macintosh computers and raster-based software used for hands-on focus.Prerequisite: AP/GEOG 3340 3.00 or SC/GEOG 3340 3.00. PRIOR TO FALL 2013: Previously offered as: AP/GEOG 4340 3.00, SC/GEOG 4340 3.00.\r\n"
+        },
+        {
+            "dept": "geog",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Physical Hydrology and Water Resources",
+            "prereqs": "geog2400",
+            "desc": "An intermediate course in the physical principles of hydrological and water resource systems. Topics to be discussed include groundwater storage and flow, deterministic hydrological models and physical hydrological aspects of current water resource problems. Normally offered in alternate years. Two lecture hours, two laboratory hours. One term.  Prerequisite: AP/SC/GEOG 2400 6.00. Course credit exclusions: None.   PRIOR TO FALL 2009: Prerequisite: AS/SC/GEOG 2400 6.00. Course credit exclusion: AS/GEOG 4400 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Physical Hydrology and Water Resources",
+            "prereqs": "geog2400",
+            "desc": "An intermediate course in the physical principles of hydrological and water resource systems. Topics to be discussed include groundwater storage and flow, deterministic hydrological models and physical hydrological aspects of current water resource problems. Normally offered in alternate years. Two lecture hours, two laboratory hours. One term.  Prerequisite: AP/SC/GEOG 2400 6.00. Course credit exclusions: None.   PRIOR TO FALL 2009: Prerequisite: AS/SC/GEOG 2400 6.00. Course credit exclusion: AS/GEOG 4400 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4440",
+            "credit": 3.0,
+            "name": "Processing and Analysis of Earth Observation",
+            "prereqs": "geog3440 envs3521 eats4220",
+            "desc": "Sophisticated methods and techniques for collecting, processing and analyzing remote sensing data are examined. Special topics include image enhancement techniques (e.g. texture transforms), non-traditional image classification and data integration for incorporation of remote sensing data products into geographic information systems (GIS). Prerequisite: AP/GEOG 3440 3.00 or ES/ENVS 3521 3.00 or LE/EATS 4220 3.00 or written permission of the Instructor. Course credit exclusions: ES/ENVS 4521 3.00 (prior to Fall 2013). Previously offered as: AP/GEOG 4440 3.00, SC/GEOG 4440 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4440",
+            "credit": 3.0,
+            "name": "Processing and Analysis of Earth Observation",
+            "prereqs": "geog3440 envs3521 eats4220",
+            "desc": "Sophisticated methods and techniques for collecting, processing and analyzing remote sensing data are examined. Special topics include image enhancement techniques (e.g. texture transforms), non-traditional image classification and data integration for incorporation of remote sensing data products into geographic information systems (GIS). Prerequisite: AP/GEOG 3440 3.00 or ES/ENVS 3521 3.00 or LE/EATS 4220 3.00 or written permission of the Instructor. Course credit exclusions: ES/ENVS 4521 3.00 (prior to Fall 2013). Previously offered as: AP/GEOG 4440 3.00, SC/GEOG 4440 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4520",
+            "credit": 3.0,
+            "name": "Research Design &amp; Field Studies in Human Geography",
+            "prereqs": "geog1400 geog1400 geog1000 geog1410 geog2420 geog2420 geog3520",
+            "desc": "This course puts into practice what students have learned in AP/GEOG 3520 3.00: Designing and Conducting research in Human Geography. The course integrates on-campus preparation, data analysis and report writing with off-campus fieldwork during which data collection and preliminary analysis are carried out. The fieldwork relates to a geographic problem offering scope for the special interests of students in various aspects of Geography.Prerequisites: Students must be registered as Honours majors in Geography and must have successfully completed 54 credits, including AP/GEOG 1400 6.0 or SC/GEOG 1400 6.00; AP/GEOG 1000 6.00 or AP/GEOG 1410 6.00; AP/GEOG 2420 3.00 or SC/GEOG 2420 3.00 and AP/GEOG 3520 3.00; or permission of the Instructor. Course credit exclusions: SC/MATH 3330 3.00; AP/GEOG 4540 3.00 (prior to Fall 2012 or, SC/GEOG 4540 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "geog",
+            "code": "4521",
+            "credit": 3.0,
+            "name": "Field Studies in Human Geography ",
+            "prereqs": "",
+            "desc": "This course introduces students to geographic field studies by bringing traditional classroom learning into the field through a combination of pre-departure seminars and an extended trip to a location away from the University. Specific topics and locations vary as per the course director(s) expertise. During the fieldtrip students learn about geographical issues through observation, participation, discussions, and lectures, while reflecting critically on fieldwork.   Prerequisites; 84 credits completed, including Geog 1000 or written permission of Course Director.\r\n"
+        },
+        {
+            "dept": "geog",
+            "code": "4541",
+            "credit": 3.0,
+            "name": "Advanced Field Studies in Physical Geography",
+            "prereqs": "geog1400 geog2420 geog3540",
+            "desc": "This course applies geographic principles and field techniques to problems in physical geography during a field trip of at least one weeks duration to a location normally outside of Ontario. Prerequisites: AP/GEOG 1400 6.00, AP/GEOG 2420 3.00, and students are encouraged to take AP/GEOG 3540 3.00 prior to taking this course. Priority will be given to Geography Honours and Environmental Science students having already completed 84 credits."
+        },
+        {
+            "dept": "geog",
+            "code": "4541",
+            "credit": 3.0,
+            "name": "Advanced Field Studies in Physical Geography",
+            "prereqs": "geog1400 geog2420 geog3540",
+            "desc": "This course applies geographic principles and field techniques to problems in physical geography during a field trip of at least one weeks duration to a location normally outside of Ontario. Prerequisites: AP/GEOG 1400 6.00, AP/GEOG 2420 3.00, and students are encouraged to take AP/GEOG 3540 3.00 prior to taking this course. Priority will be given to Geography Honours and Environmental Science students having already completed 84 credits."
+        },
+        {
+            "dept": "geog",
+            "code": "4600",
+            "credit": 3.0,
+            "name": "Rivers: Environment and Process",
+            "prereqs": "",
+            "desc": "Provides fundamental knowledge of river mechanics and related environmental conditions. It provides an integration of physical, environmental and spatial aspects of river behaviour. The course involves the application of principles of hydrology, geomorphology, sedimentology and fluid mechanics."
+        },
+        {
+            "dept": "geog",
+            "code": "4600",
+            "credit": 3.0,
+            "name": "Rivers: Environment and Process",
+            "prereqs": "",
+            "desc": "Provides fundamental knowledge of river mechanics and related environmental conditions. It provides an integration of physical, environmental and spatial aspects of river behaviour. The course involves the application of principles of hydrology, geomorphology, sedimentology and fluid mechanics."
+        },
+        {
+            "dept": "geog",
+            "code": "4700",
+            "credit": 3.0,
+            "name": "The Critical Geographies of Education",
+            "prereqs": "geog1410 geog1000",
+            "desc": "This course explores the complex interactions between education, space and civil society. Particular emphasis is placed on the effects of policy restructuring on the geographies of educational landscapes. Theoretical and empirical studies are used to explore, analyze and critically engage in current debates. Prerequisite: 72 credits successfully completed including one of AP/GEOG 1410 6.0, AP/GEOG 1000 6.0 or written permission of the course director. Course credit exclusions: None. PRIOR TO FALL 2009: Course credit exclusion: AS/GEOG 4700 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4850",
+            "credit": 3.0,
+            "name": "&quot;The state, civil society and spaces of development",
+            "prereqs": "geog1410 geog2100",
+            "desc": "&quot;This course deals with theoretical and empirical understandings of the ways in which the state and civil society organizations co-determine the geography of development.Prerequisites: 72 credits successfully completed, including one of AP/GEOG 1410 6.00 or AP/GEOG 2100 3.00 or written permission of the Course Director.  Course credit exclusions: None. Prior TO FALL 2009: Prerequisites: 54 credits successfully completed, including one of AS/GEOG 1410 6.00 or AS/GEOG 2100 3.00 or written permission of the Course Director.  Course credit exclusion: AS/GEOG 4850 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Public Space",
+            "prereqs": "",
+            "desc": "Examines the existence, genealogies, qualities, significance, and use of public space, as well as past and emergent challenges and threats to public space. Prerequisite: 72 credits successfully completed."
+        },
+        {
+            "dept": "geog",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Seminar in Geographical Practice",
+            "prereqs": "",
+            "desc": "The Seminar in Geographical Practice engages students with the breadth of geographical research through engagement with the Geography colloquium speakers.  Students analyse the seminars and readings provided by the invited speakers with respect to concepts, methodology, and geographical practice. "
+        },
+        {
+            "dept": "geog",
+            "code": "5011",
+            "credit": 1.0,
+            "name": "Graduate Colloquium                    ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "geog",
+            "code": "5025",
+            "credit": 3.0,
+            "name": "Research Design and Formulation in Human Geography",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "geog",
+            "code": "5208",
+            "credit": 3.0,
+            "name": "Doctoral Seminar in Critical Human Geography ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "geog",
+            "code": "5209",
+            "credit": 3.0,
+            "name": "Masters Seminar in Critical Human Geography ",
+            "prereqs": "",
+            "desc": "\r\n"
+        },
+        {
+            "dept": "geog",
+            "code": "5326",
+            "credit": 3.0,
+            "name": "Critical Political Ecologies",
+            "prereqs": "",
+            "desc": "Explores how power and knowledge shape intertwined social and ecological relationships, drawing on theoretically-informed ethnographies and other empirical studies, with an emphasis on global south research."
+        },
+        {
+            "dept": "geog",
+            "code": "5327",
+            "credit": 3.0,
+            "name": "Matters of Nature: Theories and Politics",
+            "prereqs": "",
+            "desc": "This course critically engages with the vast and growing body of work in anthropology, geography and science studies that addresses the discursive and material contours of society-nature relations in historically situated and geographically diverse sites."
+        },
+        {
+            "dept": "geog",
+            "code": "5330",
+            "credit": 3.0,
+            "name": "Feminist Geographies of Space and Place",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "geog",
+            "code": "5355",
+            "credit": 3.0,
+            "name": "Seminar in Political Geography:  Spaces of Power and the Politics of Space",
+            "prereqs": "",
+            "desc": "Examines contemporary themes in political geography, focusing on the ways in which power and political processes are both shaped by and shape particular spaces, scales, networks, and other spatial relations. Prerequisites: graduate student standing or Instructor permission."
+        },
+        {
+            "dept": "geog",
+            "code": "5370",
+            "credit": 3.0,
+            "name": "Space, Power and the City",
+            "prereqs": "",
+            "desc": "Explores the linkages among the geographies of inequalities, state policies and civil society. We will review a variety of theoretical and methodological approaches that uncover the contested meaning of social policy and interrogate the nature of power in the city."
+        },
+        {
+            "dept": "geog",
+            "code": "5580",
+            "credit": 3.0,
+            "name": "Global Cities",
+            "prereqs": "",
+            "desc": "An introduction to the literature on global cities and a systematic review of a distinct field of research in urban studies which concerns itself with the globalization of a network of global or world cities. Course credit exclusion: GS/GEOG 5580 3.00."
+        },
+        {
+            "dept": "geog",
+            "code": "5600",
+            "credit": 3.0,
+            "name": "Research Seminar in Physical Geography",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "geog",
+            "code": "5608",
+            "credit": 3.0,
+            "name": "Hydrometeorology: Evapotranspiration",
+            "prereqs": "",
+            "desc": "Evaporation consumes the largest proportion of precipitation falling to the Earth\u0092s surface and the latent energy generated by evaporation drives the atmospheric hydrological cycle. This course examines the factors controlling evaporation, the models used to generate estimates and the\r\ninstrumentation required for its measurement."
+        },
+        {
+            "dept": "geog",
+            "code": "5610",
+            "credit": 3.0,
+            "name": "Biogeochemistry of Stream Ecosystems",
+            "prereqs": "",
+            "desc": "An examination of major aspects of mineral element transport and transformation in stream environments. Topics considered include interactions between hydrology and water chemistry, impacts of human activities on water quality, nitrogen and phosphorus cycling in rivers and the effects of pollution on stream organisms.\r\nPrerequisite: Consent of the instructor.\r\nIntegrated with the undergraduate course Geography 4200.03."
+        },
+        {
+            "dept": "geog",
+            "code": "5700",
+            "credit": 3.0,
+            "name": "The Making of Asian Studies: Critical Perspectives",
+            "prereqs": "",
+            "desc": "Offers a historical examination of the multiple, overlapping processes through which Asian identities and regions were constituted. It will also examine new directions in Asian studies in an era of intensified global flows, transnationalism, and the presence of Asian diaspora in Canada and elsewhere."
+        },
+        {
+            "dept": "geog",
+            "code": "6010",
+            "credit": 0.0,
+            "name": "M.A./M.Sc. Research Paper              ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "geog",
+            "code": "6050",
+            "credit": 3.0,
+            "name": "M.A./M.Sc. Directed Reading Course",
+            "prereqs": "",
+            "desc": "An independent directed reading course on a topic approved by the supervisory committee and the Graduate Program Director in Geography. This course may complement the reading required for the literature review of a Thesis or MRP, but will not in toto, constitute the reading required for the Thesis or MRP. "
+        },
+        {
+            "dept": "geog",
+            "code": "6060",
+            "credit": 3.0,
+            "name": "Ph.D. Directed Reading Course",
+            "prereqs": "",
+            "desc": "An independent directed reading course on a topic approved by the supervisory committee and the Graduate Program Director in Geography. \r\nA reading course will sometimes complement the reading undertaken for the comprehensive examination, but will not in toto constitute the reading required for that examination. "
+        }
+    ]
+}

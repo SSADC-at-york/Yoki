@@ -1,0 +1,92 @@
+{
+    "courses": [
+        {
+            "dept": "thst",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Theatre Laboratory",
+            "prereqs": "",
+            "desc": "This course will examine methods for transforming research into performance practice and for using performance practice as a laboratory for conducting research. Bridging the assumed divide between practice and theory, students will create performances that explore the central questions engaged by their research projects. "
+        },
+        {
+            "dept": "thst",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "Performance &amp; Culture",
+            "prereqs": "",
+            "desc": "Examines the current range of contemporary scholarship that employs performance as a tool for analyzing cultural processes. Inherently interdisciplinary in scope, the seminar engages with recent performance studies scholarship and its intersections with critical race theory, historiography, cultural studies, museum studies, technology studies, and popular culture. "
+        },
+        {
+            "dept": "thst",
+            "code": "5022",
+            "credit": 3.0,
+            "name": "Performing Memory and Memorial",
+            "prereqs": "",
+            "desc": "Beginning with an examination of aesthetic responses to the rupture that is the Shoah as a case study, this course explores multiple conceptions and representations of memory, memorial practices and pedagogy across a range of other histories, issues and sites."
+        },
+        {
+            "dept": "thst",
+            "code": "5051",
+            "credit": 3.0,
+            "name": "Theatre &amp; Performance Studies Internship",
+            "prereqs": "",
+            "desc": "This course is designed to give graduate students applied, professionally-oriented work experience in a field related to one of the program's fields of specialization and/or the student's research areas. \r\nNote: This course is graded on a pass/fail basis."
+        },
+        {
+            "dept": "thst",
+            "code": "5052",
+            "credit": 0.0,
+            "name": "Theatre &amp; Performance Studies Graduate Colloquium ",
+            "prereqs": "",
+            "desc": "This course discusses research approaches, pedagogical strategies, and various aspects of professional development within theatre and performance studies. This course is required for and only open to Theatre &amp; Performance Studies MA students and first-year PhD students."
+        },
+        {
+            "dept": "thst",
+            "code": "5111",
+            "credit": 3.0,
+            "name": "Sustainable Design in Performance ",
+            "prereqs": "",
+            "desc": "Sustainable Design in Performance prepares students to tackle issues of sustainability in theatrical and related artistic practice. Students will build their literacy in contemporary sustainable thinking, environmental/climate issues, emerging models of creation, pedagogy, and community stakeholder engagement through a combination of research, modelling and field work as strategic change agents in professional settings."
+        },
+        {
+            "dept": "thst",
+            "code": "6320",
+            "credit": 3.0,
+            "name": "Performance Art: Politics and Aesthetics\u0094",
+            "prereqs": "",
+            "desc": "Explores major figures and artworks that have defined performance art as a genre. This course examines a range of interdisciplinary practices that fall under the rubric of &quot;performance,&quot; including solo shows, installations, photographic portraiture, happenings, site-specific performance, and stand-up comedy."
+        },
+        {
+            "dept": "thst",
+            "code": "6500",
+            "credit": 6.0,
+            "name": "Independent Studies  [rubric] ",
+            "prereqs": "",
+            "desc": "This course is an opportunity for advanced research and in-depth reading in advanced aspects of theatre studies including but not limited to postcolonial theatre and drama, theory and performance studies and theatre, health and social change."
+        },
+        {
+            "dept": "thst",
+            "code": "6500A",
+            "credit": 3.0,
+            "name": "Independent Studies  [rubric] ",
+            "prereqs": "",
+            "desc": "This course is an opportunity for advanced research and in-depth reading in advanced aspects of theatre studies including but not limited to postcolonial theatre and drama, theory and performance studies and theatre, health and social change."
+        },
+        {
+            "dept": "thst",
+            "code": "6500B",
+            "credit": 3.0,
+            "name": "Independent Studies",
+            "prereqs": "",
+            "desc": "This course is an opportunity for advanced research and in-depth reading in areas related to students' research interests. Requests for an Independent Study course must be accompanied with an Independent Study Proposal (with the permission of the Graduate Program Director)."
+        },
+        {
+            "dept": "thst",
+            "code": "6600",
+            "credit": 3.0,
+            "name": "Theatre and Performance in the Americas: Memory, Colonialism and Power",
+            "prereqs": "",
+            "desc": "Drawing on examples from theatre and performances of the Americas (with an emphasis on First Nations Theatre and Performance), this course examines the use of theatre, spectacle, and theatricality- by the state, by oppositional groups, and by performance practitioners - to establish or challenge structures of power. "
+        }
+    ]
+}

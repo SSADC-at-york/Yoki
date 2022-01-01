@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "draa",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Teaching Dramatic Arts in the Intermediate Division",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Dramatic Arts in the intermediate grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "draa",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Dramatic Arts in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Dramatic Arts in the intermediate and senior grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "draa",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Dramatic Arts in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Dramatic Arts in the intermediate and senior grades. Part A is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "courses": [
+        {
+            "dept": "orgs",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Individuals and Groups in Organizations",
+            "prereqs": "",
+            "desc": "An introduction to the study of organizations from a behavioural science frame of reference. The course emphasizes psychological and social approaches to understanding basic aspects of human behaviour in all types of work organizations. Topics include: the motivation to work, individual differences, leadership and authority, and group dynamics. As well as lectures and discussions, the course emphasizes experiential learning through the use of exercises, demonstrations, cases and projects. This course is not available for iBBA credit. Previously offered as: SB/OBIR 1000 3.00, SB/OBIR 2000 3.00.\n\r Note:  Not open to iBBA students for credit.  BBA students who commenced the program in Fall 2009 must complete SB/ORGS 1000 3.00 in the Winter term of their 1st year of study.\n Course credit exclusions: SB/INTL 1300 3.00, HH/PSYC 3570 3.00."
+        },
+        {
+            "dept": "orgs",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Organizations and their Environments",
+            "prereqs": "",
+            "desc": "This core course centres on three complementary perspectives on organizations, which are simultaneously strategic designs constructed to achieve strategic goals, political arena in which interests and power shape action and outcomes, and cultural systems of shared meanings and identities. Class sessions will develop and use these perspectives at a variety of levels, from teams in organizations to complex cross-border environments. Previously offered as: SB/OBIR 2010/3010 3.00.\n\r\nNote: Not open to iBBA students for credit. \r\nPrerequisites: SB/ORGS 1000 3.00, SB/ORGS 2100 3.00 or equivalent.\nCourse Credit Exclusion: SB/INTL 1300 3.00, SB/INTL 2300 3.00."
+        },
+        {
+            "dept": "orgs",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Resilience to Catastrophic Failure in Organizations",
+            "prereqs": "orgs2100 orgs2200",
+            "desc": "This course teaches students to recognize vulnerabilities of organizations to catastrophic failure, and to understand why such risk represents both a profound challenge and a potential opportunity, and to become more effective decision-makers in general. We examine how cognitive biases, organizational culture and institutions contribute to catastrophic failures; and consider how organizations can address these challenges and become more resilient.\r\nPrerequisites: SB/ORGS 2100 3.00 and SB/ORGS 2200 3.00 (BBA) or INTL 2300 3.00 (iBBA)"
+        },
+        {
+            "dept": "orgs",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Managing Human Resources",
+            "prereqs": "orgs1000 intl1300",
+            "desc": "Employees are the most complex and critical of the resources organizations use. This course examines: the relationship between the overall management of the organization and human resources management (HRM), and the shared and complementary responsibilities of personnel specialists and other managers in effective HRM. Policies and practices affecting both HRM logistics (recruiting, selection, training) and motivation (performance appraisal, reward systems) are included. Previously offered as: SB/OBIR 4200 3.00.\n\r\nPrerequisite: SB/ORGS 1000 3.00 (or equivalent) and SB ORGS 2010 3.00 (or equivalent) or SB/INTL 1300 3.00."
+        },
+        {
+            "dept": "orgs",
+            "code": "4350",
+            "credit": 3.0,
+            "name": "Managing Change",
+            "prereqs": "",
+            "desc": "As the environment of many business and non-profit organizations becomes increasingly complex and unstable, it is imperative that top managers be able to create a climate of flexibility and adaptability in their operations. Organizations must be able to undertake major change without destructive side effects to be truly successful. This course surveys the major methods available to the modern manager for effectively managing the process of change and creating a general climate in which needed changes are sought and welcomed throughout the organization. Previously offered as: SB/OBIR 4350 3.00.\n\r\nPrerequisites: SB/ORGS 2100 3.00 (previously offered as SB/ORGS 1000 3.00) (or equivalent) and SB/ORGS 2200 3.00 (previously offered as ORGS 2010 3.00) (or equivalent) or SB/INTL 2300 3.00 (previously offered as SB/INTL 1300 3.00)."
+        },
+        {
+            "dept": "orgs",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Managing Across Cultures",
+            "prereqs": "",
+            "desc": "This course extends the basic frameworks and theories of Organization Behaviour (OB) into the context of international business, using fundamental OB concepts, including mind-sets and identities, interests and power, organizational roles and design, to enable students to work more effectively in terms of teams, leadership, motivation, negotiation, ethics, and organizational learning in cross-border business. Previously offered as: SB/OBIR 4400 3.00.\n\r\nNote: Not open to iBBA students for credit.\r\n\r\nPrerequisite: SB/ORGS 2200 3.00 (Previously offered as SB/ORGS 2010 3.00 or equivalent)."
+        },
+        {
+            "dept": "orgs",
+            "code": "4500",
+            "credit": 3.0,
+            "name": "Developing Management Skills       ",
+            "prereqs": "orgs2100 orgs1000 orgs2200 intl2300 intl1300",
+            "desc": "Provides basic instruction in, and extensive opportunities for, the practice of a number of personal and interpersonal skills of value to improving managerial effectiveness, including: stress and time management, presentation and meeting leadership skills, conflict management and negotiation skills, motivating, influencing others and effective listening. Classes are devoted primarily to experiential exercises; therefore, very little absenteeism is permitted. A high percentage of the grade is based on participation in class and the remainder is based on real-world applications of skills covered in this course. Previously offered as: SB/OBIR 4500 3.00.\n\r\nPrerequisites: SB/ORGS 2100 3.00 (previously offered as SB/ORGS 1000 3.00) (or equivalent) and SB/ORGS 2200 3.00 (previously offered as ORGS 2010 3.00) (or equivalent) or SB/INTL 2300 3.00 (previously offered as SB/INTL 1300 3.00)."
+        },
+        {
+            "dept": "orgs",
+            "code": "4560",
+            "credit": 3.0,
+            "name": "Conflict and Negotiation",
+            "prereqs": "orgs2100 orgs1000 orgs2200 intl2300 intl1300",
+            "desc": "This course is designed to help students understand the theory and practice of negotiation, persuasion and group decision making in the workplace and to help them become more comfortable and confident with the negotiation process. The course will provide participants with an opportunity to develop skills experientially and to understand negotiation in useful analytic frameworks. Considerable emphasis will be placed on role-playing exercises and case studies. Previously offered as: SB/OBIR 4560 3.00.\n\r\nPrerequisites: SB/ORGS 2100 3.00 (previously offered as SB/ORGS 1000 3.00) (or equivalent) and SB/ORGS 2200 3.00 (previously offered as ORGS 2010 3.00) (or equivalent) or SB/INTL 2300 3.00 (previously offered as SB/INTL 1300 3.00)."
+        },
+        {
+            "dept": "orgs",
+            "code": "4600",
+            "credit": 3.0,
+            "name": "Diversity and Inclusion in Organizations",
+            "prereqs": "orgs2100 orgs2200 intl2300",
+            "desc": "This course examines diversity (broadly defined to include culture, gender, race, sexual orientation, ability, etc.,) and how organizations leverage opportunities of diversity and also navigate challenges that diversity can bring if mismanaged. Students have the opportunity to critically reflect on topics such as employee identity, maintaining business relationships across difference, the business case\r\nfor diversity, and supporting organizational goals through inclusion.\r\nPrerequisites: SB/ORGS 2100 3.00, SB/ORGS 2200 3.00 and SB/INTL 2300 3.00"
+        },
+        {
+            "dept": "orgs",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study - Selected Problems in Organization Studies",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "orgs",
+            "code": "4950",
+            "credit": 3.0,
+            "name": "Leaders, Heroes and Culture",
+            "prereqs": "orgs2100 orgs1000 orgs2200 intl2300 intl1300",
+            "desc": "Examines leadership in business and public life through popular culture (film, literature, media, biography, myth) and academic and practitioner articles; critically reviews and analyzes contemporary thinking about leadership; contrasts leader, hero and culture hero archetypes; explores intuitive ideas of leaders, heroes, followers and groups; develops an objective, critical understanding of the 'what', 'how', 'why', and 'who' of leadership.\n\nPrerequisites: SB/ORGS 2100 3.00 (previously offered as SB/ORGS 1000 3.00) (or equivalent) and SB/ORGS 2200 3.00 (previously offered as ORGS 2010 3.00) (or equivalent) or SB/INTL 2300 3.00 (previously offered as SB/INTL 1300 3.00)."
+        },
+        {
+            "dept": "orgs",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Organizational Behaviour             ",
+            "prereqs": "",
+            "desc": "The purpose of this course is to create a knowledge base from which students can develop organizational competence.  It examines the relationships between organizational performance and the behaviour of individuals, groups and overall organizations.  In the process, emphasis is given to the importance of interpersonal issues and to issues arising from technological change, workforce diversity, ethical challenges and internationalization."
+        },
+        {
+            "dept": "orgs",
+            "code": "6350",
+            "credit": 3.0,
+            "name": "Managing Change",
+            "prereqs": "",
+            "desc": "As the environment of many business and non-profit organizations becomes increasingly complex and unstable, it is imperative that top managers be able to create a climate of flexibility and adaptability in their operations. Organizations must be able to undertake major change without destructive side effects to be truly successful. This course surveys the major methods available to the modern manager for effectively managing the process of change and creating a general climate in which needed changes are sought and welcomed throughout the organization. The course emphasizes case studies and the discussion of alternative change management models.\r\nPrerequisite: SB/ORGS 5100 3.00 or SB/INTL 5220 3.00 for IMBA students."
+        },
+        {
+            "dept": "orgs",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Power and Politics in Organizations",
+            "prereqs": "orgs5100 intl5220",
+            "desc": "Examines, both conceptually and in a highly experiential ways, the basic dynamics underlying power, conflict and politics in organizations and the implications of the dance between power and powerlessness. Students explore the conditions under which conflict and power dynamics occur and start to identify their personal, managerial and organizational sources of influence and corresponding responsibilities. \r\nPrerequisite: SB/ORGS 5100 3.00 or SB/INTL 5220 3.00 for IMBA students."
+        },
+        {
+            "dept": "orgs",
+            "code": "6560",
+            "credit": 3.0,
+            "name": "Negotiations",
+            "prereqs": "orgs5100 intl5220",
+            "desc": "Provides students with insight into their own negotiation style and how to become a more effective negotiator. The course takes an experiential approach to exploring the concepts, theories, and psychology of negotiations. Students will gain knowledge of the different approaches to negotiations and the strategies and tactics unique to each. The course will provide students with opportunity to learn, practice, and refine negotiation skills as well as equip them with the skills necessary to negotiate constructive resolution to conflict in the workplace.\r\n\r\nPrerequisite: SB/ORGS 5100 3.00 or SB/INTL 5220 3.00 for IMBA students."
+        },
+        {
+            "dept": "orgs",
+            "code": "6650",
+            "credit": 3.0,
+            "name": "The Art and Science of Leadership",
+            "prereqs": "orgs5100 intl5220",
+            "desc": "Provides future leaders a multifaceted approach to Leadership. Knowledge and skills are developed via: 1) exposure to current theories/research; 2) knowledge of one's current level of leadership ability via assessment tools; 3) opportunities to practice applying this new knowledge via course activities and projects. Students develop an in-depth plan for their own future development and success as leaders.\r\nPrerequisite: SB/ORGS 5100 3.00 or SB/INTL 5220 3.00 for IMBA students."
+        },
+        {
+            "dept": "orgs",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Organization Studies",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "orgs",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Organization Studies",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "orgs",
+            "code": "6903",
+            "credit": 1.5,
+            "name": "Individual Study: ORGS",
+            "prereqs": "",
+            "desc": "Individual Study"
+        },
+        {
+            "dept": "orgs",
+            "code": "7010",
+            "credit": 3.0,
+            "name": "Individual Behaviour in Organizations",
+            "prereqs": "",
+            "desc": "Introduces students to topics and issues relevant to the study of individual and group behaviour. The readings provide an overview of existing research in this area. Students are encouraged to think critically about the contribution of each approach/theory and to develop research ideas and alternative approaches to test specific research questions. In each session students are encouraged to think about: underlying assumptions of theories; relationships with other theories/approaches; research questions answered; interesting unanswered questions; methodological issues and concerns."
+        },
+        {
+            "dept": "orgs",
+            "code": "7900",
+            "credit": 3.0,
+            "name": "Selected Problems in Administration",
+            "prereqs": "",
+            "desc": "Under the guidance of a faculty member, students may undertake a special program of independent studies tailored to the mutual interests of the student and faculty member. For record purposes, the course is given the indicator letters of the major area involved, such as SB/FINE 7900 3.00 if it is taken in the Finance area."
+        },
+        {
+            "dept": "orgs",
+            "code": "7901",
+            "credit": 3.0,
+            "name": "Selected Problems in Administration - ORGS",
+            "prereqs": "",
+            "desc": "Under the guidance of a faculty member, students may undertake a special program of independent studies tailored to the mutual interests of the student and faculty member. For record purposes, the course is given the indicator letters of the major area involved, such as SB/FINE 7900.3.00 if it is taken in the Finance area."
+        }
+    ]
+}

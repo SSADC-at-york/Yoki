@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "ensl",
+            "code": "1800",
+            "credit": 3.0,
+            "name": "Foundations in English Grammar",
+            "prereqs": "",
+            "desc": "This course reviews key grammatical and lexical features of English as used for academic purposes. The focus is not only on the form but also on the function of these various language features at word, sentence, and paragraph levels. Course credit exclusion: AP/ENSL 1450 6.00."
+        },
+        {
+            "dept": "ensl",
+            "code": "2700",
+            "credit": 6.0,
+            "name": "ESL: Academic Foundations",
+            "prereqs": "",
+            "desc": "The goal of this course is to improve English language and academic skill proficiency to enable students on completion of the course to function adequately in academic courses given in English at the University."
+        },
+        {
+            "dept": "ensl",
+            "code": "3501",
+            "credit": 3.0,
+            "name": "Varieties of English Writing           ",
+            "prereqs": "",
+            "desc": "The course is designed for advanced English as a second language students, to develop their writing skills in English by juxtaposing creative writing assignments with other varieties of writing."
+        }
+    ]
+}

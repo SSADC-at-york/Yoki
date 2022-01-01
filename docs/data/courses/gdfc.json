@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "gdfc",
+            "code": "6201",
+            "credit": 3.0,
+            "name": "Canadian Legal Research and Analysis",
+            "prereqs": "",
+            "desc": "This course is designed to familiarize students with core Canadian legal research and analytical  skills. You will work extensively with the legal problem-solving skills required within a common law regime, becoming familiar with the research and reasoning skills that are required to conduct legislative, case law, and theoretical legal research and analysis. The primarily assignment-based nature of this part of the course requires a significant and &quot;steady&quot; time commitment. "
+        },
+        {
+            "dept": "gdfc",
+            "code": "6202",
+            "credit": 3.0,
+            "name": "Academic and Applied Legal  Writing",
+            "prereqs": "",
+            "desc": "This course is designed to familiarize students with core graduate-level legal academic writing skills. Students will learn the preferred style and organization of legal academic work products, as well as how to communicate legal analysis and critique in written form."
+        },
+        {
+            "dept": "gdfc",
+            "code": "6203",
+            "credit": 3.0,
+            "name": "Introduction to Canadian Public Law ",
+            "prereqs": "",
+            "desc": "This course will introduce you to the Canadian legal system and Canadian public law.  It is designed to provide you with a broad understanding of how the law operates in Canada and to present foundational concepts and doctrines that will enable you to pursue more detailed inquiries and studies into Canadian law.  The course will enable you to understand and explain the general structure of the Canadian legal and political system, including the three branches of government and their relationship to one another; the role of constitutionalism in Canada and the three primary topics of Canadian constitutional law (federalism, civil liberties and Aboriginal and Indigenous rights), as well as the basic doctrines and applications of administrative law."
+        }
+    ]
+}

@@ -1,0 +1,996 @@
+{
+    "courses": [
+        {
+            "dept": "econ",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Introduction to Economics: Microeconomics ",
+            "prereqs": "",
+            "desc": "An introduction to economic analysis covering the theory of consumer and household behaviour, and the theory of the firm in perfectly and imperfectly competitive industries. Course credit exclusions: AP/ECON 1000 3.00, GL/ECON 2500 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "\u00c9l\u00e9ments d'\u00e9conomique : l' analyse micro\u00e9conomique",
+            "prereqs": "",
+            "desc": "Une introduction \u00e0 l'analyse \u00e9conomique comprenant la th\u00e9orie du comportement des consommateurs et des m\u00e9nages, et la th\u00e9orie de l'entreprise en concurrence parfaite et imparfaite. Cours incompatibles : AP/ECON 1000 3.00, GL/ECON 2500 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Introduction to Microeconomics",
+            "prereqs": "",
+            "desc": "Introduces the principles and methods of economics with emphasis on microeconomic theory. Topics include general and basic concepts of demand and supply, utility analysis and demand, production and costs, pricing in competitive and monopolistic markets, and government regulation. Note: Successful completion of this course, together with AP/ECON 1010 3.00, is required for all students who intend to pursue additional courses in economics at the 2000-, 3000-, and 4000- level and in order to pursue degree studies in economics, business economics, and financial and business economics. \r\nCourse credit exclusions: GL/ECON 2500 3.00 (prior to Fall 2014), SB/INTL 1200 3.00. Note: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "\u00c9l\u00e9ments d'\u00e9conomique : l'analyse macro\u00e9conomique",
+            "prereqs": "",
+            "desc": "Une introduction \u00e0 l'analyse \u00e9conomique comprenant la d\u00e9termination du revenu national et de l'emploi, la monnaie et le syst\u00e8me bancaire, la politique fiscale et mon\u00e9taire, les \u00e9changes internationaux et la balance des paiements, et la croissance \u00e9conomique. Cours incompatibles : AP/ECON 1010 3.00, GL/ECON 2510 3.00. "
+        },
+        {
+            "dept": "econ",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Introduction to Macroeconomics",
+            "prereqs": "econ1000",
+            "desc": "Introduces macroeconomics principles for making smart choices as consumers, businesspeople, investors and informed citizens judging government policies. Focuses on performance of market economies - measured by GDP growth, unemployment, inflation - and roles for government monetary and fiscal policies. Other topics include business cycles, money and the Bank of Canada, exchange rates, government deficits, national debt, globalization and trade policy. \n\nPrerequisite: AP/ECON 1000 3.00 or equivalent. \nCourse credit exclusions: GL/ECON 2510 3.00 (prior to Fall 2014), SB/INTL 1210 3.00. \nNote: Acceptable course substitutes are available in the Calendar"
+        },
+        {
+            "dept": "econ",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Introduction to Economics: Macroeconomics",
+            "prereqs": "",
+            "desc": "An introduction to economic analysis covering national income determination and employment theory, money and banking, monetary and fiscal policy, economic growth. Course credit exclusions: AP/ECON 1010 3.00, GL/ECON 2510 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "1280",
+            "credit": 3.0,
+            "name": "Principles of Risk Management and Insurance",
+            "prereqs": "",
+            "desc": "This course deals with the notion of risk and the ways to manage it, by exploring the general framework of risk management for businesses, individuals and societies, and by focusing on the role of insurance as a risk transfer mechanism. More specifically, the course categorizes and studies those risks that are associated with financial markets (liquidity risk, pricing risk, credit risk, among other financial risks) as well as those risks that arise from operations of an enterprise, regulations, digital transformation, the impacts of the environment or a catastrophe (among other non-financial risks). Also, the course examines in detail the various aspects of the insurance mechanism as a route to manage some of the aforementioned risks. The course combines classical lectures with biweekly presentations by visiting risk professionals, thus immersing the students into theory and practice of modern risk management.  \n  \nPrerequisites:  \nNone"
+        },
+        {
+            "dept": "econ",
+            "code": "1530",
+            "credit": 3.0,
+            "name": "Introductory Mathematical Economics I",
+            "prereqs": "",
+            "desc": "This course presents and analyzes a sequence of basic ideas, topics and problems arising in Economics. For each idea/topic/problem relevant mathematical ideas and techniques are recalled and/or derived so as to provide a deeper understanding of the Economic issue and how it can be resolved, if necessary. The notion of Quantity Demanded is first addressed by expressing quantity demanded as a linear function of price where both the slope and intercept embed important Economics ideas. This sequence leads naturally to the notion of Revenue (the product of quantity demanded and price) where nonlinear functions are analyzed using mathematical techniques that include derivatives. This sequence culminates with notions of prices that maximize revenue subject to a given demand function. A large number of such topic sequences involving univariate functions are examined.\nPrerequisite: Grade 12U Advanced Functions or equivalent. \nPrerequisites or corequisites: AP/ECON 1000 3.00 or AP/ECON 1010 3.00, or equivalent. Strongly recommended completion: high-school calculus or equivalent. \nNo Credit Retained (NCR )NOTE: SC/MATH 1510 6.00 and/or SC/MATH 1520 6.00 may not be taken by any students who has passed or is currently enrolled in another university course in mathematics or statistics including AP/ECON 1530 3.00 and AP/ECON 1540 3.00.\nCourse credit exclusions: SC/MATH 1013 3.00, SC/MATH 1300 3.00, SC/MATH 1505 6.00, SC/MATH 1513 6.00, SC/MATH 1530 3.00, SC/MATH 1550 6.00, GL/MATH 1930 3.00, GL/MODR 1930 3.00. Note: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "1540",
+            "credit": 3.0,
+            "name": "Introductory Mathematical Economics II",
+            "prereqs": "econ1530",
+            "desc": "This course extends the analysis of basic Economics ideas, topics and problems begun in AP/ECON 1530 3.00. Again, relevant mathematical ideas and techniques are recalled and/or derived so as to provide a deeper understanding of Economic issues and how they can be resolved. The issues and problems covered require functions of more than one variable for their resolution. The notion of Quantity Supplied is combined with the notion of Quantity Demanded and notions of Market Equilibrium are introduced and discussed. Equilibria are evaluated through the introduction of mathematical notions and properties of systems of equations, eventually in matrix form. A deeper understanding of theories of demand (supply) and the foundations of demand (supply) functions is developed through the introduction of mathematical notions of unconstrained and constrained optimization and linear and nonlinear programming. As in AP/ECON 1530 3.00, many topics and issues are addressed and problem framing and problem solving abilities are enhanced.\nPrerequisite: AP/ECON 1530 3.00 or equivalent.\n Prerequisites or corequisites: AP/ECON 1000 3.00 or AP/ECON 1010 3.00, or equivalent. \nNo Credit Retained (NCR) Note: Students who have successfully completed or who are currently enrolled in SC/MATH 1021 3.00, SC/MATH 1025 3.00, or SC/MATH 2221 3.00. SC/MATH 1510 6.00 and SC/MATH 1520 3.00 may not be taken by any students who has passed or is currently taking AP/ECON 1540 3.00.\nCourse credit exclusions: SC/MATH 1505 6.00, SC/MATH 1540 3.00, SC/MATH 1550 6.00, GL/MATH 2650 3.00, GL/MODR 2650 3.00.\nNote: Acceptable course substitutes are available in the Calendar.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "1680",
+            "credit": 6.0,
+            "name": "Modern Economic History: A Canadian Perspective ",
+            "prereqs": "",
+            "desc": "The economic history of Canada seen as an aspect of North American and, more generally, North Atlantic development, from the earliest staple trade to the present day. PRIOR TO FALL 2014: Course credit exclusions: GL/ECON 2680 6.00, GL/HIST 2680 6.00."
+        },
+        {
+            "dept": "econ",
+            "code": "1950",
+            "credit": 3.0,
+            "name": "Mathematics of Investment I",
+            "prereqs": "modr1930",
+            "desc": "This course introduces the concept of time value of money and the notions of interest rates, inflation rate, annuities and perpetuities, bonds, and the repayment of debt via amortized loans and sinking fund loans.\r\nPrerequisite: GL/MATH/MODR 1930 3.00.\r\nCourse credit exclusions: GL/MATH/MODR 2680 6.00, SC/MATH 1581 3.00, SC/MATH 2280 3.00, SC/MATH 2580 6.00."
+        },
+        {
+            "dept": "econ",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Applied Macroeconomics                 ",
+            "prereqs": "",
+            "desc": "This core course provides students with an overview of the aggregative performance of the economy with emphasis on policy application and implications for business. Topics discussed include the determination of key macroeconomic variables such as real GDP, the inflation rate, the unemployment rate, interest rates and exchange rantes, and the effect of government monetary and fiscal policies. Previously offered as: SB/ECON 3000 3.00. Note: Not open to iBBA students for credit. Prerequisites: AP/ECON 1000 3.00 (or equivalent), AP/ECON 1010 3.00 (or equivalent).\nCourse credit exclusions: AP/ECON 2400 3.00, AP/ECON 2450 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "2100",
+            "credit": 6.0,
+            "name": "Microeconomic Theory ",
+            "prereqs": "econ1000 econ1010 math1940",
+            "desc": "First half: Consumer theory: preferences, utility, and choice under certainty and uncertainty. Factor markets: intertemporal choices (supply of savings/capital), and labour-leisure decisions (labour supply). Second half: Producer theory: the firm's technology, costs, demand for inputs and supply of output; market structures and partial equilibrium; welfare analysis. General equilibrium: in an exchange economy, and a production economy; the fundamental theorems of welfare. Prerequisites: GL/ECON 1000 3.00 and GL/ECON 1010 3.00; GL/MATH 1930 and GL/MATH 1940 3.00. Course credit exclusion: AP/ECON 2300, AP/ECON 2350 3.00, GL/ECON 3230 6.00 (prior to Fall 2014)."
+        },
+        {
+            "dept": "econ",
+            "code": "2100",
+            "credit": 6.0,
+            "name": "La th\u00e9orie micro\u00e9conomique",
+            "prereqs": "",
+            "desc": "Premi\u00e8re partie: Th\u00e9orie du consommateur: pr\u00e9f\u00e9rences, utilit\u00e9 et choix en environnement certain et incertain. March\u00e9 des facteurs: choix intertemporels (offre d'\u00e9pargne/de capital), et choix travail-loisir (offre de travail). Deuxi\u00e8me partie: Th\u00e9orie du producteur: technologie, co\u00fbts, demande de facteurs et offre de la firme ; structures de march\u00e9 et \u00e9quilibre partiel ; analyse de bien-\u00eatre. \u00c9quilibre g\u00e9n\u00e9ral: en \u00e9conomie d'\u00e9change et avec production ; th\u00e9or\u00e8mes fondamentaux du bien-\u00eatre. Conditions pr\u00e9alables : GL/ECON 1000 3.00 et GL/ECON 1010 3.00 ; GL/MATH 1930 3.00 et GL/MATH 1940 3.00. Cours incompatibles : AP/ECON 2300 3.00, AP/ECON 2350 3.00, GL/ECON 3230 6.00 (Avant l'automne 2014)."
+        },
+        {
+            "dept": "econ",
+            "code": "2200",
+            "credit": 6.0,
+            "name": "Macroeconomic Theory",
+            "prereqs": "econ1000 econ1010 math1930",
+            "desc": "A study of the determination of real output, employment and the price level, and the impact of monetary and fiscal policies on these magnitudes. Macroeconomic aspects of an open economy are studied, as are basic growth models. Prerequisites: GL/ECON 1000 3.00 and GL/ECON 1010 3.00; GL/MATH 1930 3.00 and GL/MATH 1940. 3.00. Course credit exclusions: AP/ECON 2400 3.00, AP/ECON 2450 3.00, GL/ECON 3240 6.00 (prior to Fall 2014)."
+        },
+        {
+            "dept": "econ",
+            "code": "2300",
+            "credit": 3.0,
+            "name": "Intermediate Microeconomic Theory I",
+            "prereqs": "econ1000 econ1010 econ1530",
+            "desc": "Studies how individuals, households, and firms make decisions given the incentives and constraints of their economic environment. Topics include consumer decision-making, production and costs, competitive equilibrium, and the role of prices in a market economy. \r\nPrerequisites: AP/ECON 1000 3.00, AP/ECON 1010 3.00, and AP/ECON 1530 3.00, or equivalents. Prerequisite or corequisite: AP/ECON 1540 3.00. PRIOR TO FALL 2014: Course credit exclusion: GL/ECON 3230 6.00."
+        },
+        {
+            "dept": "econ",
+            "code": "2350",
+            "credit": 3.0,
+            "name": "Intermediate Microeconomic Theory II",
+            "prereqs": "econ2300",
+            "desc": "Applies the analytical tools from AP/ECON 2300 3.00 to analyze resource allocation in imperfectly competitive markets and factor pricing in alternative market structures. Considers basic concepts of general equilibrium and welfare economics. Prerequisite: AP/ECON 2300 3.00 or equivalent. PRIOR TO FALL 2014: Course credit exclusion: GL/ECON 3230 6.00."
+        },
+        {
+            "dept": "econ",
+            "code": "2400",
+            "credit": 3.0,
+            "name": "Intermediate Macroeconomic Theory I",
+            "prereqs": "econ1000 econ1010 econ1530",
+            "desc": "Equips students with the basic tools for analyzing short-run and long-run macroeconomic phenomena in a closed economy. Topics include aggregate demand and supply, consumption and investment behaviour, demand for money, government stabilization policy, and fiscal issues. \r\nPrerequisites: AP/ECON 1000 3.00, AP/ECON 1010 3.00, and AP/ECON 1530 3.00, or equivalents. Prerequisite or corequisite: AP/ECON 1540 3.00. Course credit exclusions: GL/ECON 3240 6.00 (prior to Fall 2014), SB/ECON 2000 3.00. Note: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "2450",
+            "credit": 3.0,
+            "name": "Intermediate Macroeconomic Theory II",
+            "prereqs": "econ2400",
+            "desc": "Applies the analytical tools from AP/ECON 2400 3.00 to analyze the problems of inflation, unemployment, and government deficits, focusing on the role of expectations. Introduces open economy issues under fixed and flexible exchange rates. \r\nPrerequisite: AP/ECON 2400 3.00 or equivalent. Course credit exclusions: GL/ECON 3240 6.00 (prior to Fall 2014), SB/ECON 2000 3.00. Note: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "2500",
+            "credit": 3.0,
+            "name": "Introductory Statistics for Economists I",
+            "prereqs": "",
+            "desc": "An introduction to statistical techniques. Topics covered include descriptive statistics and frequency distributions, measures of location and dispersion, random variables, sampling distributions, probability theory and mathematical expectations, the normal distribution, correlation, and the design and interpretation of hypothesis tests. \r\nPrerequisites: Grade 12U Advanced Functions or equivalent. Course credit exclusions: AP/ADMS 2320 3.00, AP/POLS 3300 6.00, AP/SOCI 3030 6.00, ES/ENVS 2009 6.00, GL/MATH/MODR 1610 3.00, GL/POLS/SOCI 2610 3.00, GL/PSYC 2530 3.00, HH/KINE 2050 3.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, SC/BIOL 2060 3.00, SC/MATH 2500 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00. Note 1: Acceptable course substitutes are available in the Calendar. Note 2: students who have taken SC/MATH 1131 3.00 may not take AP/ECON 2500 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "2710",
+            "credit": 3.0,
+            "name": "Financial Accounting                   ",
+            "prereqs": "",
+            "desc": "The intent of this course is to furnish the students with an understanding of financial accounting principles and concepts through an examination of current accounting procedures. Corequisite: GL/ECON 1000 3.00. Course credit exclusions: AP/ADMS 2500 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "2710",
+            "credit": 3.0,
+            "name": "Comptabilit\u00e9 financi\u00e8re",
+            "prereqs": "",
+            "desc": "L'objectif de ce cours est d'initier les \u00e9tudiants \u00e0 la comptabilit\u00e9 financi\u00e8re par une \u00e9tude des proc\u00e9dures courantes de la comptabilit\u00e9. Condition concomitante : GL/ECON 1000 3.00. Cours incompatibles : AP/ADMS 2500 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "2720",
+            "credit": 3.0,
+            "name": "Managerial Accounting                  ",
+            "prereqs": "econ1000 econ2710",
+            "desc": "Accounting information and understanding is necessary for those engaged in the planning and controlling of business activities. This course seeks to identify the accounting problems of management and to examine the accounting techniques available for consideration of those problems. Prerequisites: GL/ECON 1000 3.00 and GL/ECON 2710 3.00. Corequisite: GL/ECON 1010 3.00. Course credit exclusions: AP/ADMS 2510 3.00, AP/ECON 3590 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "2720",
+            "credit": 3.0,
+            "name": "Comptabilit\u00e9 de gestion",
+            "prereqs": "",
+            "desc": "Une solide documentation comptable et une bonne compr\u00e9hension du fonctionnement de la comptabilit\u00e9 sont n\u00e9cessaires aux personnes charg\u00e9es de la planification et du contr\u00f4le des activit\u00e9s de gestion. Le cours cherche \u00e0 rep\u00e9rer les probl\u00e8mes de la comptabilit\u00e9 de gestion et \u00e0 examiner les techniques de comptabilit\u00e9 disponibles pour les \u00e9tudier. Condition pr\u00e9alable : GL/ECON 1000 3.00 et GL/ECON 2710 3.00. Condition concomitante : GL/ECON 1010 3.00. Cours incompatibles : AK/ADMS 2510 3.00, AS/ECON 3590 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3120",
+            "credit": 3.0,
+            "name": "Operations Management",
+            "prereqs": "adms2320",
+            "desc": "Management of operations in today's business environment usually involves mathematical and statistical modeling. This course provides a working understanding of the operations management models and techniques such as process analysis, quality management, aggregate planning, inventory control, and material requirements planning. Prerequisite: AP/ADMS 2320 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Sampling Techniques and Survey Design",
+            "prereqs": "econ2500 adms2320",
+            "desc": "This course deals with different sampling techniques and their applications to management problems. Survey design, pilot surveys, use of focus groups, in-person interviews, mail surveys and polling, will also be dealt with. Prerequisite: AP/ECON 2500 3.00 or AP/ADMS 2320 3.00, or, for students with equivalent preparation, permission of the coordinator. Note: This course counts as an elective in an economics major."
+        },
+        {
+            "dept": "econ",
+            "code": "3150",
+            "credit": 3.0,
+            "name": "International Trade",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Studies the microeconomic aspects of international trade, tracing its historical development from the theory of comparative costs to the theory of customs unions and tariffs. Topics include trade patterns, trade barriers and free trade versus protectionism, economic growth and development in the international economy, and international institutions. Prerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Course credit exclusion: GL/ECON 4290 6.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3199",
+            "credit": 3.0,
+            "name": "Approaches to Global Economics (writing)",
+            "prereqs": "",
+            "desc": "Explores approaches to the global economy, emphasizing structural and policy-related aspects. Course credit exclusions: AP/ECON 3190 3.00, AP/POLS 3270 3.00, AP/POLS 3275 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Economics of Business Management",
+            "prereqs": "intl1200",
+            "desc": "Application of economic theory to provide guidance for business managers and to facilitate complex decision making in an environment\r\nof risk and uncertainty. This course is concerned with the firm\u0092s competitive positioning and as such is designed as an integrative\r\ncourse to integrate into economics a variety of concepts from marketing, finance and accounting. Topics include firms\u0092 boundaries;\r\nhorizontal and vertical integration; market and competitive analysis; pricing decisions, advertising and promotional decisions;\r\nproduct quality and competitive strategy; and investment decisions.\r\n \r\nPrerequisite: SB/INTL 1200 3.00. \r\nCourse Credit Exclusions: AP/ECON 2300 3.00, AP/ECON 3411 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Industrial Organization",
+            "prereqs": "econ1000",
+            "desc": "Studies the non-strategic and strategic behaviour of firms and industrial organizations under different markets structures, with emphasis on imperfectly competitive markets. Topics include pricing and non-pricing strategies, vertical and horizontal restraints, entry deterrence, advertising, investment, and innovation. Prerequisite: AP/ECON 1000 3.00 or equivalent. Course credit exclusion: GL/ECON 3370 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "Use of Economic Data",
+            "prereqs": "econ2500",
+            "desc": "Introduces the theory and practice of empirical analysis of economic models. Develops tools to estimate economic relationships involving two or more variables and to test their significance. Relies on the use of Canadian data sets and statistical software packages to show how linear regression analysis is applied. Prerequisite: AP/ECON 2500 3.00 or equivalent. NCR: students who have successfully completed or who are currently enrolled in AP/ECON 4210 3.00. Course credit exclusions: HH/PSYC 3030 6.00, SC/MATH 3330 3.00. Note: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Labour Economics: Theory",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Applies economic theory to labour markets. Topics include labour force participation, hours of work, investment in education and training, worker mobility, demand for and supply of labour, the effects of market structure on wages and employment, and theories of trade unions and collective bargaining. Prerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Course credit exclusions: AP/ECON 3249 3.00, GL/ECON 3540 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3245",
+            "credit": 3.0,
+            "name": "Marketing and Consumer Economics",
+            "prereqs": "econ1000 econ1010",
+            "desc": "This course uses the fundamental principles of economics to analyze the decision-making process in business and the outcomes associated with the four pillars of marketing: product, price, promotion and place. Prerequisites: GL/ECON 1000 3.00, GL/ECON 1010 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3249",
+            "credit": 3.0,
+            "name": "Labour Economics: Theory (Writing)",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Applies economic theory to labour markets. Topics include labour force participation, hours of work, investment in education and training, worker mobility, demand for and supply of labour, the effects of market structure on wages and employment, and theories of trade unions and collective bargaining. Prerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Course credit exclusions: AP/ECON 3240 3.00, GL/ECON 3540 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "Histoire de la pens\u00e9e \u00e9conomique       ",
+            "prereqs": "",
+            "desc": "Un survol des d\u00e9veloppements des id\u00e9es \u00e9conomiques depuis Adam Smith, Jean-Baptiste Say, jusqu'aux \u00e9crits de John Maynard Keynes. Conditions pr\u00e9alables : GL/ECON 1000 3.00 et GL/ECON 1010 3.00. "
+        },
+        {
+            "dept": "econ",
+            "code": "3259",
+            "credit": 3.0,
+            "name": "Labour Economics: Institutions (Writing)",
+            "prereqs": "econ3240 econ3249",
+            "desc": "Examines the economic impact of trade unions, labour legislation, and industrial organization of the labour market. \r\nPrerequisites: AP/ECON 3240 3.00 or AP/ECON 3249 3.00, or equivalent. Course credit exclusions: AP/ECON 3250 3.00, GL/ECON 3550 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Management Economics",
+            "prereqs": "econ2100",
+            "desc": "This course presents the theory of the management of the firm from an economics perspective and examines the different aspects that define the management process and the functioning of the firm. Prerequisite: GL/ECON 2100 6.00 (or equivalent). Course credit exclusion: GL/ECON 3300 6.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3340",
+            "credit": 3.0,
+            "name": "Environmental Economics",
+            "prereqs": "econ1000",
+            "desc": "Applies the techniques of analytical economics to the study of environmental issues. Topics include externalities and the cost of environmental pollution, public goods, property rights, direct and indirect costs and benefits of abatement schemes, public regulation, and environmental policies in Canada. Prerequisites: AP/ECON 1000 3.00 or equivalent."
+        },
+        {
+            "dept": "econ",
+            "code": "3350",
+            "credit": 3.0,
+            "name": "Financial Theory",
+            "prereqs": "econ1000 econ1010 econ3670",
+            "desc": "This is an introduction to modern financial theory. Subjects covered include portfolio management, various models of shares' evaluation and new financial instruments. Prerequisites: GL/ECON 1000 3.00, GL/ECON 1010 3.00 and GL/ECON 3670 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3390",
+            "credit": 3.0,
+            "name": "Monetary Theory and Policy Canadian Context  ",
+            "prereqs": "",
+            "desc": "A discussion of the theoretical underpinnings of monetary policy, and of monetary policy itself. Emphasis is placed on recent Canadian experience. Prerequisite or corequisite: GL/ECON 2200 6.00. Course credit exclusion: AP/ECON 3440 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3411",
+            "credit": 3.0,
+            "name": "Managerial Economics and Strategy",
+            "prereqs": "econ2300 econ3210 econ3480",
+            "desc": "Introduces students to the economic concepts and frameworks which the general manager can use to formulate, analyze, and implement strategy. Covers issues pertaining to firms\u0092 boundaries, the economics of the make-versus-buy decisions, the transaction costs of market exchange, and diversification. Additional topics include the theories of competitive strategy such as market and entry strategies and strategic positioning and dynamics. Prerequisites: AP/ECON 2300 3.00 and AP/ECON 3210 3.00 or AP/ECON 3480 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3415",
+            "credit": 3.0,
+            "name": "Environmental and Natural Resource Economics",
+            "prereqs": "econ1000",
+            "desc": "This course explores market failures such as public goods and externalities and applies them to renewable and nonrenewable resources, and air and water pollution. The course also discusses policy tools like property rights and taxes to remedy those problems. Prerequisite: GL/ECON 1000 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3430",
+            "credit": 3.0,
+            "name": "Monetary Economics I: Financial Markets and Institutions",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Studies the principal financial institutions and markets in the Canadian economy. Analyzes the economic function, regulation, and operational features of these institutions and markets. Considers the corresponding institutions and markets in other countries. Prerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Course credit exclusion: GL/ECON 3380 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3440",
+            "credit": 3.0,
+            "name": "Monetary Economics II: Theory and Policy",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Studies the central bank and its use of monetary theory to control growth and fluctuations in the Canadian economy through the chartered banking system. Considers links between Canada's financial system and the international financial system, with particular emphasis on the restraining influence of international financial requirements on the attainment of national goals. Prerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Course credit exclusion: GL/ECON 3390 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3480",
+            "credit": 3.0,
+            "name": "Introductory Statistics for Economists II",
+            "prereqs": "econ2500",
+            "desc": "Extends hypothesis testing and point and interval estimation to variance and differences between means and proportions. Introduces special distributions and non-parametric tests. Covers simple and multiple regression analysis and forecasting. \r\nPrerequisite: AP/ECON 2500 3.00 or equivalent. Course credit exclusions: GL/MATH 620 3.00, GL/MODR 1620 3.00, SC/MATH 2570 3.00, AP/POLS 3300 6.00, GL/POLS 2620 3.00, GL/SOCI 2620 3.00, GL/PSYC 2530 3.00, HH/PSYC 2020 6.00, HH/PSYC 2022 3.00, AP/SOCI 3030 6.00. Note: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Introductory Mathematical Statistics for Economists",
+            "prereqs": "econ1530 econ1540 econ2500",
+            "desc": "An introduction to mathematical statistical analysis. Includes distributions of random variables and of functions of random variables, conditional probability, independence, special distributions, moment-generating functions, the central limit theorem, estimation and hypothesis testing. \r\nPrerequisites: AP/ECON 1530 3.00, AP/ECON 1540 3.00, and AP/ECON 2500 3.00. Course credit exclusions: GL/ECON 3670 3.00, GL/MODR 3670 3.00, SC/MATH 2030 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3510",
+            "credit": 3.0,
+            "name": "Health Economics",
+            "prereqs": "econ1000",
+            "desc": "Examines the determinants of supply and demand in the health services industry and the causes of medical cost inflation. Introduces economic models of physician and hospital behaviour and uses case studies to consider the influence of health insurance, reimbursement schemes, and practitioners' discretion on the delivery system. \r\nPrerequisite:  AP/ECON 1000 3.00 or equivalent.\r\nAP/ECON 3510 3.00 is based on AK/ECON 3510 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3510",
+            "credit": 3.0,
+            "name": "Applied International Economics",
+            "prereqs": "",
+            "desc": "Examines international economics from the viewpoint of the firm and the nation. International trade, foreign investment, tariffs, economic integration, the balance of payments, the foreign exchange market and the international system are among the topics studied.\r\n\r\nNote: Not open to iBBA students for credit.\r\nPrerequisite: SB/ECON 2000 3.00.\nCourse Credit Exclusions: SB/INTL 2200 3.00, AP/ECON 3150 3.00, AP/ECON 3580 3.00, AP/ECON 4129 3.00, AP/ECON 4190 3.00, GL/ECON 4290 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3530",
+            "credit": 3.0,
+            "name": "Intermediate Mathematics for Economists",
+            "prereqs": "econ1530 econ1540",
+            "desc": "Develops and demonstrates the mathematics commonly used in the analysis of static economic models. Topics range from concavity and convexity to constrained optimization and comparative static analysis including the implicit function and envelope theorems. \r\nPrerequisites: AP/ECON 1530 3.00 and AP/ECON 1540 3.00 or equivalents."
+        },
+        {
+            "dept": "econ",
+            "code": "3559",
+            "credit": 3.0,
+            "name": "Economic Growth and Development (Writing)",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Studies the economic problems of poor countries and poor communities. Explores the meaning of development by considering the characteristics of economic underdevelopment, poverty, income and wealth distribution, rural versus urban development, population growth, and unemployment and migration. Additional topics include theories of development, growth and technological change, strategies for environmentally sustainable development, education, and health. Prerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Course credit exclusions: GL/ECON 3920 3.00, AP/ECON 3550 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3569",
+            "credit": 3.0,
+            "name": "Economic Policy in Developing Countries",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Examines policy issues arising from development planning. Topics include agriculture versus industry, international trade, monetary and fiscal policies, foreign investment, foreign aid and self-reliance, and global issues. Prerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Course credit exclusions: AP/ECON 3560 3.00, AP/PPAS 3560 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3575",
+            "credit": 3.0,
+            "name": "\u00c9conomie de l'innovation",
+            "prereqs": "",
+            "desc": "Le cours propose d'\u00e9tudier, de fa\u00e7on th\u00e9orique et empirique, les contributions de la science \u00e9conomique aux ph\u00e9nom\u00e8nes d'innovation technologique. Comme ces derniers se retrouvent au centre des m\u00e9canismes \u00e9conomiques, la science \u00e9conomique leur a fait une place relativement importante depuis les travaux de Schumpeter. Condition pr\u00e9alable : GL/ECON 1000 3.00 et GL/ECON 1010 3.00.\r\n"
+        },
+        {
+            "dept": "econ",
+            "code": "3580",
+            "credit": 3.0,
+            "name": "International Monetary Economics",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Introduces students to international monetary economics. Topics include the exchange rate and exchange rate regimes, the automatic adjustment process, open economy macroeconomics and policy, international financial markets, and economic integration. \r\nPrerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents."
+        },
+        {
+            "dept": "econ",
+            "code": "3642",
+            "credit": 3.0,
+            "name": "Business Ethics",
+            "prereqs": "",
+            "desc": "This course examines some contemporary issues in business ethics such as the ethical justification of the free market, corporate responsibility, deceptive advertising, business and the environment, preferential hiring practices and whistleblowing. Course credit exclusion: AP/PHIL 3050 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3645",
+            "credit": 3.0,
+            "name": "Optimization with Applications to Economics",
+            "prereqs": "math1940 math2650",
+            "desc": "This is an introductory course in optimization. Topics include local and global extremum, convex functions, Lagrange multipliers, the Kuhn-Tucker onditions, and optimal control. Applications to a variety of problems in Economics. Prerequisites: GL/MATH 1940 3.00, GL/MATH 2650 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3672",
+            "credit": 3.0,
+            "name": "Capital humain, capital social et croissance \u00e9conomique",
+            "prereqs": "",
+            "desc": "Le cours propose d'examiner le capital humain comme facteur de croissance \u00e9conomique ainsi que les liens entre capital humain et capital social afin d'expliquer les disparit\u00e9s de croissance \u00e9conomique des pays de l'OCDE. Ce cours empruntera une perspective internationale.\r\nCondition pr\u00e9alable : GL/ECON 1000 3.00 et GL/ECON 1010 3.00.Cours incompatibles : AP/ECON 3550 3.00.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "3709",
+            "credit": 3.0,
+            "name": "Economics of Gender (Writing)",
+            "prereqs": "econ1000 econ1010 econ2300",
+            "desc": "Introduces students to gender gaps and discrimination, especially in connection with labour markets, policy towards gender equality, and features of family economics such as issues of power within the family. Examines some empirical evidence, but in a non-technical way. \r\nPrerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Recommended prior completion: AP/ECON 2300 3.00. Course credit exclusions: AP/ECON 3700 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "3710",
+            "credit": 3.0,
+            "name": "Intermediate Financial Accounting 1",
+            "prereqs": "econ2710",
+            "desc": "This course, in conjunction with GL/ECON 3720 3.00, develops thorough knowledge and understanding of financial reporting. Topics include revenue recognition and analysis of the assets side of the balance sheet. Students should expect to use and expand on the application of all generally accepted accounting principles learned in Introductory financial and management accounting courses. Prerequisite: GL/ECON 2710 3.00. "
+        },
+        {
+            "dept": "econ",
+            "code": "3810",
+            "credit": 3.0,
+            "name": "The Economics of Project Appraisal and Feasibility",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Covers prefeasibility and feasibility studies of proposed projects, forecasting of demand and plant capacity, estimation of production, sales, costs, and revenues, alternative commercial profitability criteria (net present value, rate of return) for project evaluation and selection, and sensitivity analysis under risk and uncertainty. Prerequisites: Grade 12U Advanced Functions, AP/ECON 1000 3.00, and AP/ECON 1010 3.00, or equivalents."
+        },
+        {
+            "dept": "econ",
+            "code": "3920",
+            "credit": 3.0,
+            "name": "\u00c9conomie du d\u00e9veloppement              ",
+            "prereqs": "",
+            "desc": "La premi\u00e8re partie du cours est une revue g\u00e9n\u00e9rale des probl\u00e8mes des pays en voie de d\u00e9veloppement. Cette partie couvre: i) les th\u00e9ories du d\u00e9veloppement; ii) les facteurs critiques du d\u00e9veloppement \u00e9conomique comme la mobilisation des ressources, d\u00e9mographie et capital humain, le d\u00e9veloppement agricole, l'industrialisation et les syst\u00e8mes d'organisation; et iii) les politiques fiscales, mon\u00e9taires et le commerce ext\u00e9rieur. La deuxi\u00e8me partie du cours traite des questions de planification \u00e9conomique et de strat\u00e9gie de d\u00e9veloppement. Le cours se concentre sur l'\u00e9valuation des projets d investissement (analyse des co\u00fbts et b\u00e9n\u00e9fices) bas\u00e9e sur des cas d'\u00e9tudes relevant de l'exp\u00e9rience d'organismes se sp\u00e9cialisant sur les probl\u00e8mes du d\u00e9veloppement comme la Banque mondiale. Cours incompatible : AP/ECON 3550 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "econ1000 econ1010 econ1530 econ1540 econ2300 econ2350 econ2400 econ2450",
+            "desc": "Permits students to undertake special programs of private studies under the guidance of a full-time faculty member. \r\nPrerequisites: 78 credits including AP/ECON 1000 3.00, AP/ECON 1010 3.00, AP/ECON 1530 3.00, AP/ECON 1540 3.00, AP/ECON 2300 3.00, AP/ECON 2350 3.00, AP/ECON 2400 3.00 and AP/ECON 2450 3.00, or equivalents. Note: Students must be accepted by a faculty supervisor and receive the approval of the Undergraduate Program Director before they can register in the course.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Economics in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Economics in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Economics in the intermediate and senior grades.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "econ",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Economics in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Economics in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Economics areas in order to further develop students' expertise for teaching this subject. ED/ECON 4000 (Part A) is a prerequisite for this course.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "econ",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Advanced Microeconomic Theory",
+            "prereqs": "econ2300 econ2350 econ3530 econ2400 econ2450",
+            "desc": "Examines important contributions to the microeconomic literature. Covers advanced topics from consumer theory, the economics of the firm, competitive and non-competitive markets, factor pricing, income distribution, general equilibrium, and welfare economics. \r\nPrerequisites: AP/ECON 2300 3.00, AP/ECON 2350 3.00, and AP/ECON 3530 3.00, or equivalents. Recommended prior completion: AP/ECON 2400 3.00 and AP/ECON 2450 3.00. Course credit exclusion: GL/ECON 4230 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Advanced Macroeconomic Theory",
+            "prereqs": "econ2400 econ2450 econ2350 econ3530",
+            "desc": "Surveys recent developments in macroeconomic research. Among the topics covered are rational expectation models, consumption theory, new Keynesian models of staggering wages and prices, menu costs, efficiency wages and imperfect competition, and new classical and new Keynesian business cycle theories. Prerequisites: AP/ECON 2400 3.00 and AP/ECON 2450 3.00 or equivalents. Recommended prerequisites: AP/ECON 2300, AP/ECON 2350 3.00, and AP/ECON 3530 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4070",
+            "credit": 3.0,
+            "name": "Public Finance I",
+            "prereqs": "econ2300 econ2350 econ2450",
+            "desc": "Identifies the role of government in a modern economy and examines the interaction between government's attempts to provide services and the financing of expenditures through traditional and non-traditional means. Prerequisites: AP/ECON 2300 3.00, AP/ECON 2350 3.00, AP/ECON 2400, and AP/ECON 2450 3.00, or equivalents. PRIOR TO FALL 2014: Course credit exclusion: GL/ECON 3570 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4080",
+            "credit": 3.0,
+            "name": "Public Finance II",
+            "prereqs": "econ2300 econ2350 econ2400 econ2450",
+            "desc": "Deals with the expenditure side of public finance. Topics include theories of public expenditure, public expenditure policies in Canada and problems of multi-level governments including federal-provincial financial relations. Prerequisites: AP/ECON 2300 3.00, AP/ECON 2350 3.00, AP/ECON 2400 3.00, and AP/ECON 2450 3.00, or equivalents. PRIOR TO FALL 2014: Course credit exclusion: GL/ECON 3570 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Regional Economic Development",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Regional Economic Development is the process of creating wealth through the mobilization of resources to generate new jobs and additional tax bases. The course will analyze the theory and practice of local economic development in Ontario. \r\nPrerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents, or permission of the Instructor."
+        },
+        {
+            "dept": "econ",
+            "code": "4129",
+            "credit": 3.0,
+            "name": "International Trade Policy and Economic Integration",
+            "prereqs": "econ3150",
+            "desc": "Deals with current policy issues in international trade and economic integration, focusing on specific institutional settings such as NAFTA, the European Union, the World Trade Organization, new policy areas such as trade and the environment, trade, and labour rights. \r\nPrerequisite: AP/ECON 3150 3.00 or equivalent."
+        },
+        {
+            "dept": "econ",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Game Theory in Economics",
+            "prereqs": "econ1530 econ1540",
+            "desc": "Covers the idea of a game, of a solution, the extensive form, the concept of equilibrium, games of incomplete information, backward and forward induction, repeated games, signalling and principal-agent models, and bargaining models. Prerequisites: AP/ECON 1530 3.00 and AP/ECON 1540 3.00 or equivalents. Course credit exclusion: GL/ECON 4340 3.00. \r\nPRIOR TO FALL 2011: Course credit exclusion: GL/ECON 3340 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4140",
+            "credit": 3.0,
+            "name": "Financial Econometrics",
+            "prereqs": "econ3210 econ3500",
+            "desc": "Introduces students to the econometric methods used in the analysis of financial data. Topics include the statistical modeling and forecasting of financial time series with applications to share prices and exchange and interest rates, the analysis of nonstationary and cointegrated series, the modeling of volatility, and the estimation and testing of asset pricing models. Prerequisites: AP/ECON 3210 3.00 or AP/ECON 3500 3.00, or equivalent."
+        },
+        {
+            "dept": "econ",
+            "code": "4190",
+            "credit": 3.0,
+            "name": "Topics in International Trade",
+            "prereqs": "econ2300 econ2350 econ3150",
+            "desc": "Covers, at the advanced level, the theories of international trade specialization, gains from trade, commercial policies, and new approaches to trade theory. Prerequisites: AP/ECON 2300 3.00, AP/ECON 2350 3.00 and AP/ECON 3150 3.00, or equivalents."
+        },
+        {
+            "dept": "econ",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Topics in International Monetary Economics",
+            "prereqs": "econ2300 econ2350 econ2400 econ2450 econ3580",
+            "desc": "Covers, at the advanced level, topics in international monetary economics including exchange rates, balance of payments accounts, monetary policy under fixed and flexible exchange rates, international monetary problems and possible solutions, and theories of the balance of payments. Prerequisites: AP/ECON 2300 3.00, AP/ECON 2350 3.00, AP/ECON 2400 3.00, AP/ECON 2450 3.00 and AP/ECON 3580 3.00, or equivalents."
+        },
+        {
+            "dept": "econ",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Econometrics",
+            "prereqs": "econ3210 econ3500",
+            "desc": "Derives least squares and maximum likelihood estimators for classical and generalized cases, stressing theorem proving, diagnostic analysis, and careful applied work. \nPrerequisite: AP/ECON 3210 3.00 or AP/ECON 3500 3.00 or equivalent. \nCourse credit exclusions: GL/ECON 4260 3.00, SC/MATH 3330 3.00. \nNote: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Economic Forecasting &amp; Analysis        ",
+            "prereqs": "",
+            "desc": "An increasing number of organizations make explicit forecasts of the economic environment within which they will be operating as a basis for forward-looking plans. This course assesses the main forecasting methods in relation to the length of the forecasting time horizon. Several systematic appraisals of past forecasts are reviewed.\r\n\r\nPrerequisites: SB/ECON 2000 3.00 or SB/INTL 1200 3.00 and SB/INTL 1210 3.00\r\nCourse Credit Exclusion: AP/ECON 3210 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4220",
+            "credit": 3.0,
+            "name": "Topics in Econometrics",
+            "prereqs": "econ4210",
+            "desc": "Examines multiple and simultaneous linear equations models. Considers time series analysis and other special topics. Stresses theorem proving, diagnostic analysis, and careful applied work. \r\nPrerequisite: AP/ECON 4210 3.00 or equivalent. Course credit exclusions: None. \r\n\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/ECON 4220 3.00.\r\n"
+        },
+        {
+            "dept": "econ",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "Advanced Economic Theory               ",
+            "prereqs": "econ2100 econ2200",
+            "desc": "A survey of some of the recent developments in a small number of areas; capital theory, income distribution, theory of the firm, social welfare functions, non-market economics. Prerequisite: GL/ECON 2100 6.00 or GL/ECON 2200 6.00, preferably both. Course credit exclusion: AP/ECON 4010 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4260",
+            "credit": 3.0,
+            "name": "Econometrics   ",
+            "prereqs": "econ3670 math1610 math1620",
+            "desc": "Regression analysis is studied, including selected applications to economic problems with emphasis on statistical demand analysis and on estimation of production and cost function. Prerequisites: GL/ECON 3670 3.00, or GL/MATH 1610 3.00 and GL/MATH 1620 3.00. Course credit exclusions: AP/ECON 4210 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4270",
+            "credit": 3.0,
+            "name": "Forecasting Techniques in Economics and Business",
+            "prereqs": "econ4260",
+            "desc": "The application of forecasting techniques to selected problems in economics and business. Topics covered include trend-line fitting, leading indicators, autoregressive models, Box-Jenkins models, regression and the evaluation of alternative methods. Considerable use will be made of one or more computer statistical packages. Prerequisite: GL/ECON 4260 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4275",
+            "credit": 3.0,
+            "name": "The Economic Analysis of Law",
+            "prereqs": "econ2100",
+            "desc": "An examination of the economic foundations of the legal system. Applications of the economic concept of efficiency to legal decision rules; equity issues will also be addressed. Emphasis will be placed on property law, contract, and tort; if time permits, we will also look at the application of economics to criminal law. Throughout, what is stressed is the economist's approach to the law, rather than the law itself. Prerequisite: GL/ECON 2100 6.00 or equivalent. Course credit exclusions: AP/ECON 4309 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4290",
+            "credit": 6.0,
+            "name": "International Economics                ",
+            "prereqs": "econ2100 econ2200",
+            "desc": "An examination of international trade theories (including protectionism) from a general equilibrium point of view. This is followed by an introduction to open macroeconomic theory: the respective roles of fiscal and monetary policies, exchange rate adjustments and non-traded goods in an open economy are studied. Prerequisites: GL/ECON 2100 6.00 and GL/ECON 2200 6.00 or permission of the deparment. Course credit exclusions: AP/ECON 3150 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Corporate Finance I",
+            "prereqs": "econ2710 econ2100",
+            "desc": "This course provides an introduction to the principles of finance and an examination of the financing and investment decisions of a business firm. Recent Canadian examples are used to illustrate these principles and decisions. Prerequisites: GL/ECON 2710 3.00 and GL/ECON 2100 6.00. Course credit exclusions: AP/ECON 4400 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4315",
+            "credit": 3.0,
+            "name": "Corporate Finance II",
+            "prereqs": "econ4310",
+            "desc": "Building on the principles introduced in Corporate Finance I, this course examines topics such as dividend policy; capital structure; the valuation of corporate debt; other corporate liabilities (including leases), options, mergers, international finance and corporate financial planning. Prerequisite: GL/ECON 4310 3.00. Course credit exclusions: AP/ECON 4410 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4320",
+            "credit": 3.0,
+            "name": "Topics in Monetary Economics",
+            "prereqs": "econ2100 econ2300 econ2350 econ2200 econ2400 econ2450",
+            "desc": "This course examines the theory and practice of money in a capitalist economy. Topics covered include price\r\ninterest rates, nominal and real rigidities, inflation targeting, rules versus discretion in monetary policy, and the\r\nmicroeconomic foundations of monetary economics.\r\nPrerequisites: GL/ECON 2100 6.00 or AP/ECON 2300 3.00 and AP/ECON 2350 3.00; and GL/ECON 2200 6.00 or AP/ECON 2400 3.00 and AP/ECON 2450 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4330",
+            "credit": 3.0,
+            "name": "\u00c9conomie de la sant\u00e9",
+            "prereqs": "",
+            "desc": "Le cours explore une vari\u00e9t\u00e9 de th\u00e8mes en \u00e9conomie de la sant\u00e9. Une approche th\u00e9orique et empirique est utilis\u00e9e dans une perspective internationale et dans un contexte d\u0092acc\u00e9l\u00e9ration du changement du syst\u00e8me de sant\u00e9. Le contexte implique une collaboration multipartite.\r\nConditions pr\u00e9alables : GL/ECON 2100 6.00 et GL/MATH 1620 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4340",
+            "credit": 3.0,
+            "name": "Game Theory and Economics",
+            "prereqs": "econ1000",
+            "desc": "Game theory is the analysis of decision making by individuals, businesses and governments where the outcomes of these decisions are affected by the actions of other decision makers and where that interdependence is recognized and taken into account by all the decision makers. Prerequisite : GL/ECON 1000 3.00. Corequisite: GL/ECON 2100 6.00 or permission of the department. Course credit exclusions: GL/ECON 3340 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Financial Economics",
+            "prereqs": "econ2300 econ2350",
+            "desc": "Analyzes investment and financing decisions, the separation between ownership and control, the risk inherent in decision-making, and how shareholders\u0092 wealth and utility are maximized. Topics include net present value, capital budgeting, efficiency of capital markets, treatment of risk, valuation of debt, dividend policy, short-term financing, and financial strategy. Prerequisites: AP/ECON 2300 3.00 and AP/ECON 2350 3.00 or equivalents. Course credit exclusions: AP/ADMB 3530 3.00, AP/ADMS 3530 3.00, GL/ECON 4310 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Topics in Economic Organization and Strategy",
+            "prereqs": "econ2100 econ2200",
+            "desc": "This course presents to students a set of business case studies for analysis and reflection. The cases deal with managerial decision-making in situations that lead to either positive or negative outcomes for an organization.\r\nPrerequisites: GL/ECON 2100 6.00 and GL/ECON 2200 6.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Corporate Finance",
+            "prereqs": "econ2300 econ2350 econ4400",
+            "desc": "Examines topics such as dividend policy, capital structure, the valuation of corporate debt, other corporate liabilities (including leases) and options, merges, international finance, and financial planning. Prerequisites: AP/ECON 2300 3.00, AP/ECON 2350 3.00 and AP/ECON 4400 3.00, or equivalents. Course credit exclusions: AP/ADMS 4540 3.00, GL/ECON 4315 3.00, SB/FINE 3100 3.00. Note: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "4420",
+            "credit": 3.0,
+            "name": "Topics in Corporate Finance",
+            "prereqs": "econ2300 econ2350 econ3500 econ4400",
+            "desc": "Considers selected topics in the economic analysis of financial markets, including choice-theoretic and statistical aspects of financial models. Possible topics include inter-temporal choice, economics of uncertainty, equilibrium models of money and risky assets, corporate financial policy, and the effects of inflation and taxation. Prerequisites: AP/ECON 2300 3.00 and AP/ECON 2350 3.00 or equivalents. Recommended prior completion: AP/ECON 3500 3.00 and AP/ECON 4400 3.00. Course credit exclusions: AP/ADMS 4541 3.00, SB/FINE 3100 3.00, SB/FINE 4150 3.00, SB/FINE 4800 3.00. Note: Acceptable course substitutes are available in the Calendar."
+        },
+        {
+            "dept": "econ",
+            "code": "4570",
+            "credit": 3.0,
+            "name": "Economics of the Public Sector: Taxation",
+            "prereqs": "econ2100 econ2300 econ2350",
+            "desc": "This course presents the theory of public goods and provides a comprehensive overview of the principles of taxation, tax incidence, tax efficiency and the Canadian tax system. Prerequisite: GL/ECON 2100 6.00 or AP/ECON 2300 3.00 and AP/ECON 2350 3.00. PRIOR TO FALL 2014: Course credit exclusion: GL/ECON 3570 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "4635",
+            "credit": 3.0,
+            "name": "Corporate governance in an international context",
+            "prereqs": "",
+            "desc": "Examines concepts related to corporate governance. This includes mechanisms to control managers and conflicts of interests between stakeholders. Particular attention is given to the international context by studying large multinational firms and emerging countries. "
+        },
+        {
+            "dept": "econ",
+            "code": "4659",
+            "credit": 3.0,
+            "name": "Topics in North American Economic History",
+            "prereqs": "econ2300 econ2400 econ3210",
+            "desc": "This is a graduate and advanced undergraduate level course aimed to familiarize students with select important topics in economic history, with a focus on the United States and Canada, and to acquaint them with empirical methods of research in economic history.  The course will focus on microeconomic topics that apply across North America, with some focus on the United States.\r\n\r\nPrerequisites: AP/ECON 2300 3.00 , AP/ECON 2400 3.00, AP/ECON 3210 3.00 or 3480 3.00\r\n\r\n"
+        },
+        {
+            "dept": "econ",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study - Selected Problems in Economics",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "econ",
+            "code": "5000",
+            "credit": 0.0,
+            "name": "Mathematics For Economists             ",
+            "prereqs": "",
+            "desc": "Students must demonstrate competence in Calculus, Linear Algebra, and Statistics by enrolling in this course and obtaining a passing grade. Note: The Mathematics Cognate Requirement will not be included among the eight half courses required for the Masters degree. All M.A. students must successfully complete this course.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Applied Microeconomics                 ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "econ",
+            "code": "5011",
+            "credit": 3.0,
+            "name": "Applied Macroeconomics                 ",
+            "prereqs": "",
+            "desc": "This is a self-contained course in macroeconomics, emphasizing macro models designed to explain current fiscal and monetary policies and possible alternative policies with respect to stabilization and also growth. Students may not receive credit for both GS/ECON 5011 3.00 and GS/ECON 5110 3.00.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "5025",
+            "credit": 3.0,
+            "name": "Applied Econometrics                   ",
+            "prereqs": "",
+            "desc": "M.A. course. This course will focus on the understanding of single and multiple equation regression models and their development in Economics. Specific topics include: demand and supply functions, cost and production, models of labour supply, and time series analysis including unit roots, cointegration and forecasting, hedonic decomposition; valuation models and limited dependent variables. Course credit exclusion: GS/ECON 5250 3.00.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "5030",
+            "credit": 3.0,
+            "name": "The Econometrics of Financial Markets",
+            "prereqs": "",
+            "desc": "The course focuses on making the transition from an asset pricing model to an econometric model and provides a comprehensive knowledge of the econometric methods and techniques used in modern empirical finance. Theoretical analysis of the problems is\rcombined with empirical exercises based on the use of real financial data. "
+        },
+        {
+            "dept": "econ",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Microeconomics Theory                  ",
+            "prereqs": "",
+            "desc": "A prequel of GS/ECON 6100 3.00. Topics include: Consumer and Producer Theories; Choice under Uncertainty, including: Portfolio Choice; Capital Structure; Stochastic Dominance; General Equilibrium; Social Welfare Functions; Arrow's Impossibility Theorem; Second Best; Moral Hazard; Adverse Selection; Signalling; Dynamic Competition; Bargaining; Incomplete Contracts. Course credit exclusion: GS/ECON 5010 3.00."
+        },
+        {
+            "dept": "econ",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "The Economic Environment Of Business   ",
+            "prereqs": "",
+            "desc": "This course provides managers with an overview of the economic environment within which business must operate, and an \r\nunderstanding of some of the analytical tools which economists use to solve business, economic, environmental and social problems. Key concepts and ideas from microeconomics, macroeconomics, environmental and international economics are introduced.\r\nTopics relevant to real-world issues and problems are discussed."
+        },
+        {
+            "dept": "econ",
+            "code": "5110",
+            "credit": 3.0,
+            "name": "Topics In Macroeconomic Theory         ",
+            "prereqs": "",
+            "desc": "Offers an intensive training in contemporary macroeconomic analysis. This course along with GS/ECON 6110 3.00 constitutes our\nbasic core requirement as preparation for the comprehensive examination in macroeconomic theory. Students may not receive credit for both GS/ECON 5110 3.00 and GS/ECON 5011 3.00.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "5220",
+            "credit": 3.0,
+            "name": "Econometric Theory",
+            "prereqs": "",
+            "desc": "This course covers selected inference methods in cross-section and time series analysis. It introduces various modelling and estimation techniques for data, which do not satisfy the assumptions of the classical general linear model. Topics include elements of the asymptotic theory, the random regressors model, linear models with heteroscedastic and auto correlated errors, the simultaneous equations models and basic time series analysis techniques. "
+        },
+        {
+            "dept": "econ",
+            "code": "5280",
+            "credit": 3.0,
+            "name": "Data Analysis and Empirical Strategies",
+            "prereqs": "",
+            "desc": "This course focuses on the methodological and practical issues that arise when economists harness data to answer questions of economic and policy interest. This course covers techniques in modern data analysis for cross-section and panel settings: regression and instrumental variables, regression discontinuity, differences-in-differences, with an emphasis on data visualization and program evaluation.  Projects include analysis of data with a written description and interpretation of results; may involve gathering of original data or use of existing data sets. Applications drawn from real world examples and frontier research. Instruction in use of the statistical package R and/or Stata."
+        },
+        {
+            "dept": "econ",
+            "code": "5300",
+            "credit": 3.0,
+            "name": "Public Economics I",
+            "prereqs": "",
+            "desc": "The theory of taxation, including; tax incidence; the effects of taxation on saving; investment and labour supply; optimal taxation; fiscal federalism; the choice of tax base; economic effects of some specific taxes."
+        },
+        {
+            "dept": "econ",
+            "code": "5320",
+            "credit": 3.0,
+            "name": "Game Theory    ",
+            "prereqs": "",
+            "desc": "Introduces the central concepts of non-cooperative game theory, including Nash equilibrium and its refinements. The applications of these concepts to various areas of economics will be emphasized."
+        },
+        {
+            "dept": "econ",
+            "code": "5480",
+            "credit": 3.0,
+            "name": "Economics of Education",
+            "prereqs": "",
+            "desc": "This is an introductory graduate course in the economics of education and is designed to provide students with a broad coverage of the field. We will cover both classic and emerging topics, mainly from an empirical microeconomic perspective."
+        },
+        {
+            "dept": "econ",
+            "code": "5500",
+            "credit": 3.0,
+            "name": "Advanced Monetary Economics            ",
+            "prereqs": "",
+            "desc": "The nature and implications of monetary phenomena in the economy with emphasis on the empirical importance of monetary factors in\ninflation and business cycle fluctuations; the channels of influence of monetary policy on the economy; optimal stabilization policy.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "5520",
+            "credit": 3.0,
+            "name": "Economics of Financial Markets",
+            "prereqs": "",
+            "desc": "The objective of this course is to undertake a rigorous study of the theoretical foundations of modern financial economics. The course covers the central themes of modern finance including individual investment decisions under uncertainty, stochastic dominance, mean-variance theory, capital market equilibrium and asset valuation, arbitrage pricing theory, option pricing, and the potential application of these themes."
+        },
+        {
+            "dept": "econ",
+            "code": "5600",
+            "credit": 3.0,
+            "name": "Labour Economics                       ",
+            "prereqs": "",
+            "desc": "This course deals with extensions of the neoclassical labour market models.  Topics include  labour supply and demand, human capital, signaling,  compensating wage differentials, wage-employment contracts, efficiency wage, tournaments, migration, and unions.  "
+        },
+        {
+            "dept": "econ",
+            "code": "5700",
+            "credit": 3.0,
+            "name": "Economic Development                   ",
+            "prereqs": "",
+            "desc": "Topics include: Neoclassical and structural (dual economy) models; poverty, inequality and underemployment; international trade, investment, aid and debt; development planning; rural development and problems of urbanization; financial and fiscal aspects of development.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "5800",
+            "credit": 3.0,
+            "name": "International Trade Theory             ",
+            "prereqs": "",
+            "desc": "The pure theory of international trade: conditions of production; the factor price equalization theorem; factor mobility of factors of production; transfer mechanism and international capital movement; the terms of trade; the theory of tariffs and of customs unions and free trade areas; and imperfect competition in trade models.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "5820",
+            "credit": 3.0,
+            "name": "Empirical International Trade",
+            "prereqs": "",
+            "desc": "This course covers the empirical aspects of international trade. Topics include: tests of international trade theories; empirical studies of the relationship between international trade and labour markets, effects of trade and foreign direct investment on developing countries, productivity and its relation to international trade, and effects of the FTA and NAFTA on Canadian Economy. "
+        },
+        {
+            "dept": "econ",
+            "code": "5990M",
+            "credit": 3.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "econ",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Topics In Microeconomics Theory        ",
+            "prereqs": "econ5100",
+            "desc": "This course will cover further topics in microeconomic theory including market failure, externalities, public goods, incentive compatibility, social choice and welfare measures, expected utility analysis, portfolio theory,\ngeneral equilibrium analysis under uncertainty, imperfect competition, monopoly, Cournot duopoly, monopolistic competition, entry deterrence, product selection, oligopoly and game theory. Prerequisite: GS/ECON 5100 3.00 or permission of the Instructor.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "6110",
+            "credit": 3.0,
+            "name": "Advanced Macroeconomic Theory          ",
+            "prereqs": "econ5110",
+            "desc": "This course will aim at providing an overview of recent topics in Macroeconomics. The aim will be to introduce not only the recent important issues in macroeconomics but also the tools used in their discussion. Topics to be covered will include: the time inconsistency problem, neoclassical growth theory, endogenous growth theory, search theory, Real Business Cycle theory, asset pricing, and models with asymmetric information. Prerequisite: GS/ECON 5110 3.00 or permission of the Instructor.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "6220",
+            "credit": 3.0,
+            "name": "Advanced Econometric Theory I",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "econ",
+            "code": "6250",
+            "credit": 3.0,
+            "name": "Advanced Econometric Theory            ",
+            "prereqs": "",
+            "desc": "This course will extend the General Linear Model examined in GS/ECON 5250 3.00 in several directions. The topics covered will include simultaneous equations, method of moments estimators, time series models, nonlinear estimation, limited dependent variables and duration models.\nPrerequisite: GS/ECON 5250. 3.00 or equivalent.\n"
+        },
+        {
+            "dept": "econ",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Economics",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "econ",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Economics",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "econ",
+            "code": "6990M",
+            "credit": 3.0,
+            "name": "Reading &amp; Research                     ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "econ",
+            "code": "7000",
+            "credit": 0.0,
+            "name": "PhD Research Seminar",
+            "prereqs": "",
+            "desc": "All PhD students are required to attend this course from their third-year of study and continue until the completion of their dissertation. Each student is required to give a presentation each year. Regular attendance at and participation in the seminars is also required. This seminar course helps students develop their dissertation proposals and research-paper writing skills, and provides an opportunity for students to present and discuss each others research. This course is required of all doctoral students in their third-year or above."
+        },
+        {
+            "dept": "econ",
+            "code": "7100",
+            "credit": 3.0,
+            "name": "Advanced Topics in Microeconomic Research",
+            "prereqs": "",
+            "desc": "This course covers frontier research topics in microeconomics and helps second-year PhD students develop the necessary skills to undertake their own research in the field. Potential topics covered include, but are not restricted to, general equilibrium theory, game theory, social choice theory, decision theory, contract theory, auction theory and mechanism design, bargaining theory, labor economics, industrial organization, public finance, international trade, experimental microeconomics, health and education economics, gender economics, environmental economics, urban economics, development economics, political economy, and analysis of microeconomic data."
+        },
+        {
+            "dept": "econ",
+            "code": "7110",
+            "credit": 3.0,
+            "name": "Advanced Topics in Macroeconomics Research",
+            "prereqs": "",
+            "desc": "This course covers frontier research topics in microeconomics and helps second-year PhD students develop the necessary skills to undertake their own research in the field. Potential topics covered include, but are not restricted to, general equilibrium theory, game theory, social choice theory, decision theory, contract theory, auction theory and mechanism design, bargaining theory, labor economics, industrial organization, public finance, international trade, experimental microeconomics, health and education economics, gender economics, environmental economics, urban economics, development economics, political economy, and analysis of microeconomic data."
+        }
+    ]
+}

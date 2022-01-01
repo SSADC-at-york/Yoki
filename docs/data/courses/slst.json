@@ -1,0 +1,68 @@
+{
+    "courses": [
+        {
+            "dept": "slst",
+            "code": "5900",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Students may take ONE half-course reading course as part of their Master of Arts' studies with the permission of the graduate program director and the Instructor."
+        },
+        {
+            "dept": "slst",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "Law and Social Theory",
+            "prereqs": "",
+            "desc": "Offers an overview of the major contemporary theoretical perspectives on law and society. Among the different approaches we consider are those that define law as a source of social and moral regulation, as ideology, and as discourse, respectively. "
+        },
+        {
+            "dept": "slst",
+            "code": "6005",
+            "credit": 3.0,
+            "name": "Advanced Research Strategies in Socio-Legal Methods",
+            "prereqs": "",
+            "desc": "The course surveys the various ways in which data are conceptualized, collected and analysed in research in socio-legal studies. It aims to ensure that all students on the degree program have mastered social science methodology including historical and documentary research methods, survey methods and questionnaire design, interview techniques, observational methods, and the interpretation of official statistics. A distinctive feature of this course is the emphasis on the dynamic relationships between problems, theories, methods and politics. "
+        },
+        {
+            "dept": "slst",
+            "code": "6013",
+            "credit": 3.0,
+            "name": "Socio-Legal Issues Regarding Hate Crime and Hate Speech",
+            "prereqs": "",
+            "desc": "This graduate level seminar course critically examines current perspectives on hate crime and hate speech with a focus on theoretical debates, media representation, including that of social media platforms, and legal knowledge."
+        },
+        {
+            "dept": "slst",
+            "code": "6030",
+            "credit": 3.0,
+            "name": "Politics of Security and Regulation",
+            "prereqs": "",
+            "desc": "A critical examination of security and regulation in contemporary and/or historical settings. Critical theoretical work on risk, dis/order, community and security assessed alongside practices and socio-legal policies that may include national security, economic regulation, private versus public policing."
+        },
+        {
+            "dept": "slst",
+            "code": "6040",
+            "credit": 3.0,
+            "name": "Law, Crime and Exclusion",
+            "prereqs": "",
+            "desc": "This graduate level seminar course critically examines current perspectives on law, crime and exclusion in terms of conceptual innovations, empirical research and theoretical debates within criminology, socio-legal studies and related fields. "
+        },
+        {
+            "dept": "slst",
+            "code": "6090",
+            "credit": 3.0,
+            "name": "Social Dimensions of Legal Discourse",
+            "prereqs": "",
+            "desc": "This course looks at how social categories that arrange persons in moral hierarchies are constructed in the legal forum. The focus of inquiry is on how narratives from everyday life are put into legal discourse."
+        },
+        {
+            "dept": "slst",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Major Research Paper Seminar",
+            "prereqs": "",
+            "desc": "This course consists of a series of meetings in which students discuss how to develop their Major Research Paper proposal, research their topic, and write their MRP. Students present their MRP proposals to their fellow students as well as faculty. "
+        }
+    ]
+}

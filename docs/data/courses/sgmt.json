@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "dept": "sgmt",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Strategic Management",
+            "prereqs": "",
+            "desc": "This core course focuses on the fundamental concepts of strategy and strategic management, and explores the task of developing, implementing, executing, and monitoring an organization's strategy. The emphasis is on the kinds of problems and issues that affect the success of the entire organization. Examples are drawn from all sizes and types of organizations, businesses, not-for-profits, government agencies, and the third sector. Nevertheless, the majority of content and the cases discussed deal with profit-oriented enterprises, operating in a competitive environment. The course uses readings, lectures, case discussions and role playing to expose students to a wide range of concepts and to the many types of situations that face managers and bear directly on an organization's ultimate success. Previously offered as: SB/SGMT 4010 3.00.\n\r\nNote: Not open to iBBA students for credit. Cannot be completed on Exchange by BBA Direct-Entry students. Exceptions may be made for Delayed-Entry students going on Exchange during their fourth-year of study."
+        },
+        {
+            "dept": "sgmt",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Mergers and Acquisitions",
+            "prereqs": "intl3000 intl4400 sgmt3000 fine3100",
+            "desc": "This course focuses on the major steps in the M&amp;A process: (1) developing and executing an acquisition strategy; (2) preparing a valuation of the target and negotiating a deal; and (3) developing and implementing the post-merger integration plan. Also included are the roles and motivations of the major players in an M&amp;A transaction, such as the executives and Boards of the acquirer and target, and deal advisors. The course format includes business cases, lectures, classroom discussion of deals currently in the news and class visits by M&amp;A practitioners. \r\nPrerequisites: SB/INTL 3000 3.0 (Previously offered asSB/INTL 4400 3.00) or SB/SGMT 3000 3.00 and SB/FINE 3100 3.00."
+        },
+        {
+            "dept": "sgmt",
+            "code": "4300",
+            "credit": 3.0,
+            "name": "Strategic Thinking Skills",
+            "prereqs": "intl3000 intl4400",
+            "desc": "This course combines the necessary strategic and analytical thinking skills for effective management. This course is about identifying, analyzing and articulating the key issues that impact organizations and applying the appropriate frameworks that can assist managers in reaching better decisions. Students use the frameworks and strategic analysis tools developed in SB/SGMT 3000 3.00 and systematically apply them to real-life business situations. Previously offered as: SB/SGMT 3300 3.00.\n\r\nPrerequisite: SB/INTL 3000 3.00 (Previously offered as SB/INTL 4400 3.00)."
+        },
+        {
+            "dept": "sgmt",
+            "code": "4750",
+            "credit": 3.0,
+            "name": "Strategy Execution",
+            "prereqs": "intl3000 intl4400",
+            "desc": "This course addresses the managerial challenge of executing a firm\u0092s strategy, by focusing on organizational elements that must be aligned to support a strategy as well as the tremendous difficulty of doing so. These elements include, but are not limited to, organizational structures and control mechanisms that \u0093match\u0094 the given strategy as well as strategic leadership. Students learn and apply theory regarding strategy execution by analyzing implementation and performance in specific firms.\r\nPrerequisites: SB/INTL 3000 3.0 (Previously offered as SB/INTL 4400 3.00)."
+        },
+        {
+            "dept": "sgmt",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study - Selected Problems in Strategic Management",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "sgmt",
+            "code": "5800",
+            "credit": 3.0,
+            "name": "Economic and Policy Foundations for Strategic Analysis",
+            "prereqs": "actg5100 econ5100 mgmt5150 omis5110 omis5120 orgs5100",
+            "desc": "This course provides the analytic tools and foundations that managers need for strategic analysis. It focuses on the development and application of economic and policy knowledge that inform strategy-making. Strategic analysis is the first phase of the strategic management process and focuses on understanding a firm\u0092s environment and stakeholders in order to formulate and implement strategy.\r\nPrerequisites: All 5100-series required core courses (SB/ACTG 5100 3.0, SB/ECON 5100 3.0, SB/MGMT 5150 3.0, SB/OMIS 5110 1.5, SB/OMIS 5120 1.5 and SB/ORGS 5100 3.0)\r\nCorequisites: All 5200-series required core courses (SB/ACTG 5210 1.5, SB/FINE 5200 3.0, SB/ MKTG 5200 3.0 and SB/OMIS 5210 1.5)\r\n"
+        },
+        {
+            "dept": "sgmt",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "Strategic Management",
+            "prereqs": "",
+            "desc": "Examines business and corporate strategy. The focus is on strategic management, the process of choosing and defining purposes and objectives, formulating and implementing a viable strategy and monitoring strategic performance. It deals with the organization in its totality and demonstrates how and why the various functions of business are interdependent and need to be coordinated if the organization is to perform effectively. The course elaborates on the applicability of the strategic management discipline to a variety of sizes and types of organizations.\r\nCourse Credit Exclusions: SB/PUBL 6000 3.00.\r\nPrerequisites: Students are required to complete all 5000-series Required Foundations of Management Core Courses before enrolling in this course."
+        },
+        {
+            "dept": "sgmt",
+            "code": "6050",
+            "credit": 3.0,
+            "name": "Mergers and Acquisitions",
+            "prereqs": "",
+            "desc": "We examine motives, techniques and management issues associated with mergers and acquisitions. Through lectures and readings, we explore the people, the concepts and the challenges involved in mergers and acquisitions. Assignments and discussions around real situations expose students to the complexities and the managerial challenges that are unique to acquiring and integrating organizations.\r\nPrerequisite or corequisite: SB/SGMT 6000 3.00 or SB/SGMT 5600 1.50 for IMBA students."
+        },
+        {
+            "dept": "sgmt",
+            "code": "6250",
+            "credit": 3.0,
+            "name": "Strategy Execution",
+            "prereqs": "sgmt6000",
+            "desc": "This course addresses the managerial challenge of executing a firm's strategy, by focusing on organizational elements that must be aligned to support a strategy as well as the tremendous difficulty of doing so. These elements include but are not limited to, organizational structures and control mechanisms that &quot;match&quot; the given strategy as well as strategic leadership. Students learn and apply theory regarding strategy execution by analyzing implementation and performance in specific firms. \r\n\r\nPrerequisite: SB/SGMT 6000 3.00."
+        },
+        {
+            "dept": "sgmt",
+            "code": "6700",
+            "credit": 3.0,
+            "name": "Strategic Capability Development",
+            "prereqs": "orgs5100",
+            "desc": "We bridge and extend SB/SGMT 6000 3.00 and SB/ORGS 5100 3.00, drawing on contemporary theory and practice to further develop the skills and knowledge needed for translating strategy into action. Strategic successes and challenges are viewed as opportunities for building and strengthening long-run dynamic strategic capabilities. Emphasis is placed on experiential and applied approaches.\r\nPrerequisite: SB/ORGS 5100 3.00.\r\nCorequisite: SB/SGMT 6000 3.00 or SB/SGMT 5600 3.00."
+        },
+        {
+            "dept": "sgmt",
+            "code": "6720",
+            "credit": 3.0,
+            "name": "Managing Globally: Past, Present, Future",
+            "prereqs": "",
+            "desc": "Many of the challenges facing global companies today are not new and we can learn from the past to meet those challenges today and prepare for the future.  This course explores the parallels between the issues multinationals face today and those they faced in the past.  Based on historical and contemporary cases, you will get insights and practical tools to manage in the current global environment and develop the necessary skills to address future challenges. "
+        },
+        {
+            "dept": "sgmt",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Strategic Management",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "sgmt",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Strategic Management",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "sgmt",
+            "code": "7040",
+            "credit": 3.0,
+            "name": "Seminar on corporate strategy",
+            "prereqs": "",
+            "desc": "This doctoral seminar on corporate strategy surveys select aspects of the strategic management field as they apply to strategic alliances, joint ventures, networks and acquisitions. We will discuss a range of issues from both economics and management perspectives and pertaining to both formation as well as management."
+        },
+        {
+            "dept": "sgmt",
+            "code": "7900",
+            "credit": 3.0,
+            "name": "Strategic Management: Independent Study",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

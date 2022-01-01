@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "edis",
+            "code": "3610",
+            "credit": 3.0,
+            "name": "New Media Literacies and Culture",
+            "prereqs": "",
+            "desc": "This course examines new media technologies and literacies prevalent in contemporary popular culture and of increasing importance in education. An array of new media technologies and emergent literacies will be explored to consider their pedagogical, curricular, and socio-cultural implications.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        }
+    ]
+}

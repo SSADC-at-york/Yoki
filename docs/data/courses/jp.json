@@ -1,0 +1,60 @@
+{
+    "courses": [
+        {
+            "dept": "jp",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Modern Standard Japanese",
+            "prereqs": "",
+            "desc": "Basics of spoken Japanese, with strong emphasis on immediate practical usefulness in everyday situations, the two kana syllabaries, approximately 150 Kanji (Sino-Japanese characters) and elementary reading are covered. Simple sentence grammar is focused on. No previous knowledge of the language is assumed."
+        },
+        {
+            "dept": "jp",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Modern Standard Japanese",
+            "prereqs": "jp1000",
+            "desc": "Further study of common grammatical forms and structures. Situation and task oriented conversation, strategy-centred reading and structure-based writing are involved with emphasis on complex sentence grammar. Approximately 300 additional Kanji (Sino-Japanese characters) are introduced. Prerequisite: AP/JP 1000 6.00 or equivalent."
+        },
+        {
+            "dept": "jp",
+            "code": "2700",
+            "credit": 6.0,
+            "name": "Contemporary Japanese Culture and Society",
+            "prereqs": "",
+            "desc": "Provides an overview of contemporary Japanese culture and society, to help students in understanding Japan and its people in the age of globalization and cross-cultural communication."
+        },
+        {
+            "dept": "jp",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Advanced Modern Standard Japanese",
+            "prereqs": "jp2000",
+            "desc": "The course focuses on continuous texts; edited texts on various topics are read, summarized, translated and discussed with emphasis on discourse grammar. All Kanji (Sino-Japanese characters) in Education Characters (881) will be covered. Prerequisite: AP/JP 2000 6.00 or equivalent."
+        },
+        {
+            "dept": "jp",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Japanese Popular Culture: manga and anime",
+            "prereqs": "jp2700",
+            "desc": "Examines manga and anime, two of the most popular and influential genres of popular Japanese culture not only in Japan, but also in Asia and the West. These popular mediums are studied in a historical context with respect to their origins and development as commercial industries and cultural commodities. Prerequisites: AP/JP 2700 6.00 or permission of the Instructor."
+        },
+        {
+            "dept": "jp",
+            "code": "3610",
+            "credit": 3.0,
+            "name": "Japanese Popular Culture: beyond manga and anime ",
+            "prereqs": "",
+            "desc": "This course examines contemporary Japanese popular culture and its influence not only on its Asian neighbours, especially China and Korea, but also on the West. Not only are genres such as film, television, and popular literature examined, but also particularly Japanese phenomenon such as otaku, moe, shoshoku danshi (&quot;herbivore men&quot;) and the Japanese penchant for &quot;cuteness.&quot;  Prerequisites: JP 2700 6.00.  Co-requisites: None. Course credit exclusions: None."
+        },
+        {
+            "dept": "jp",
+            "code": "4900",
+            "credit": 6.0,
+            "name": "Independent Reading and Research",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised reading/research course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Note: Independent reading/research courses require a signed agreement between the student and faculty member, as well as the approval of the section coordinator and undergraduate director. Note: Please consult the Faculty of Liberal Arts and Professional Studies Academic Advising and Student Responsibility section of the calendar for detailed regulations regarding independent reading courses. \r\nCourse credit exclusions: None. \r\n\r\nPrior TO FALL 2009: Course credit exclusion: AS/JP 4900 6.00."
+        }
+    ]
+}

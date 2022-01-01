@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "facs",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "The Theatricality Of Power:  Violence, memory, and revolution",
+            "prereqs": "",
+            "desc": "Examines the use of theatre, spectacle, and theatricality- by the state, by oppositional groups, and by performance practitioners - to establish or challenge structures of power. Prerequisite: 3000-level standing or permission of the Instructor. PRIOR TO WINTER 2017: course Credit Exclusion: FA/FACS 3100 3.00."
+        },
+        {
+            "dept": "facs",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "The Body in Performance",
+            "prereqs": "facs1900",
+            "desc": "Focuses on ideas and issues surrounding embodiment and the body in performance. Through critical inquiry, it will explore various theoretical perspectives on the performing body and some of the traditions from which it has emerged. Prerequisite: FA/FACS 1900 6.00 or permission of the Instructor. PRIOR TO WINTER 2017: course credit exclusion: FA/FACS 3500 3.00."
+        }
+    ]
+}

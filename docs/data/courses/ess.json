@@ -1,0 +1,100 @@
+{
+    "courses": [
+        {
+            "dept": "ess",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course is directed by a graduate faculty member and can cover any topic not covered by other courses in the current calendar year. The exact scope is agreed upon between the faculty member and the student in advance and submitted to the graduate director. Students can take up to one reading course as part of their degree requirement."
+        },
+        {
+            "dept": "ess",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "Time Series and Spectral Analysis",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ess",
+            "code": "5170",
+            "credit": 3.0,
+            "name": "Climate and Climate Change",
+            "prereqs": "",
+            "desc": "The Earth's climate and the general circulation of the atmosphere. Climate models. Paleoclimatology and long-term stability of the Earth's climate. Anthropogenic impact on the climate, carbon dioxide and other climate change issues. Integrated with Lassonde ESSE 4160 3.0.\r\n"
+        },
+        {
+            "dept": "ess",
+            "code": "5180",
+            "credit": 3.0,
+            "name": "Physical Principles of Remote Sensing",
+            "prereqs": "",
+            "desc": "This course reviews the physical problems encountered in remote sensing the properties of the terrestrial surface from airborne or satellite-borne sensors. Topics treated include the solar Fraunhofer spectrum, atmospheric absorption phenomena, the physical aspects of the albedo, the reflection spectrum of surfaces, characteristics of sensors, data handling, and the LANDSAT-program."
+        },
+        {
+            "dept": "ess",
+            "code": "5201",
+            "credit": 3.0,
+            "name": "Storms and Weather Systems",
+            "prereqs": "",
+            "desc": "The study of mesoscale circulations and precipitating storm systems. Basic governing equations and instabilities. Nature and evolution of isolated convection, thunderstorms, mesoscale convective systems, precipitation bands, extratropical cyclones, fronts and frontogenesis, hurricanes, blizzards, polar lows and orographic storms. Prerequisites or corequisites: SC/EATS 3040 3.00; SC/EATS 4120 3.00.\r\n"
+        },
+        {
+            "dept": "ess",
+            "code": "5205",
+            "credit": 3.0,
+            "name": "Cloud Physics and Radar Meteorology",
+            "prereqs": "",
+            "desc": "Thermodynamics of cloud processes. Buoyancy and convection. Weather radar. Storms and associated precipitation. Cloud droplet formation and growth of ice crystals. Snow, graupel and hail. Microphysical processes and climate. Prerequisite or corequisite: SC/EATS 3030 3.00."
+        },
+        {
+            "dept": "ess",
+            "code": "5230",
+            "credit": 3.0,
+            "name": "Remote Sensing of the Atmosphere   ",
+            "prereqs": "eats2010 phys2060 math1025 math2015 math2271",
+            "desc": "A study of the theory, instrumentation and applications of remote sensing methods of terrestrial and planetary atmospheres from space platforms. Topics include atmospheric radiation, atmospheric spectroscopy, inversion theory, instrumentation, satellites, space platforms and future technology. Prerequisites: SC/EATS 2010 3.00 or SC/PHYS 2060 3.00; SC/MATH 1025 3.00; SC/MATH 2015 3.00; SC/MATH 2271 3.00. Prerequisite or corequisite: SC/EATS 3030 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "ess",
+            "code": "5400",
+            "credit": 3.0,
+            "name": "Geographical Information Systems and Advanced Spatial Analysis",
+            "prereqs": "eats3300 geog3180 geog3180 geog4340 geog4340 envs3520 envs4520",
+            "desc": "Project-oriented geomatics course using GIS systems (Arc/Info and S-PLus or SPSS for UNIX) and various techniques (map algebraic, statistical, fuzzy logic, AI, neural network and fractal/multifractal) for integrating diverse dataset (geological, geophysical, geochemical, remote sensing and GPS). Prerequisite: One of SC/EATS 3300 3.00, AP/GEOG 3180 3.00 or SC/GEOG 3180 3.00, AP/GEOG 4340 3.00 or SC/GEOG 4340 3.00, ES/ENVS 3520 3.00, ES/ENVS 4520 3.00, or permission of the Instructor."
+        },
+        {
+            "dept": "ess",
+            "code": "5420",
+            "credit": 3.0,
+            "name": "Advanced Geospatial Information Technology",
+            "prereqs": "",
+            "desc": "This course is designed to help students understand the latest research and development of geospatial information and communication technology (GeoICT). The course will cover topics in advanced spatial positioning, imaging, remote sensing, and advanced geospatial algorithms such as open GIS, Internet GIS, 3D GIS, etc. Prerequisites or corequisites: GIS background.\n"
+        },
+        {
+            "dept": "ess",
+            "code": "5430",
+            "credit": 3.0,
+            "name": "Advanced Optimal Estimation Theory and Applications",
+            "prereqs": "",
+            "desc": "Reliability analysis in least squares, variance component estimation in least squares; linear dynamic systems, optimal linear filtering, optimal linear smoothers, correlated system and measurement noise processes and coloured noises, implementation methods and practical considerations, applications.  Introduction to nonlinear approaches."
+        },
+        {
+            "dept": "ess",
+            "code": "5550",
+            "credit": 3.0,
+            "name": "Control Systems",
+            "prereqs": "",
+            "desc": "This is an introduction to the analysis and design of control systems. Topics include: modeling of dynamic systems; stability theory; analysis and design of feedback control systems in time and frequency domains.Integrated with the undergraduate course Lassone Engineering 4550 3.0."
+        },
+        {
+            "dept": "ess",
+            "code": "5650",
+            "credit": 3.0,
+            "name": "Feedback Control Systems",
+            "prereqs": "",
+            "desc": "This course covers the fundamentals of control system design and analysis using statespace methods. It includes both the practical and theoretical aspects of the topic. The students will learn the way to design controllers using state-space methods and evaluate the control performance and validate if these controllers are robust to system uncertainties and external disturbances. Knowledge of linear algebra, differential equations (including Laplace Transforms) and complex numbers is essential for this course. Same as GS Mathematics &amp; Statistics 6655 3.0/Integrated with Lassone Engineering 4650 3.0."
+        }
+    ]
+}

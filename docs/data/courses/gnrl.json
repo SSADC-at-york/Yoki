@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "dept": "gnrl",
+            "code": "6101",
+            "credit": 0.0,
+            "name": "Advanced Legal Research and Writing Skills",
+            "prereqs": "",
+            "desc": "Advanced Legal Research and Writing Skills is an online course required for students writing a Major Research Paper (MRP) (70 pages) or an Independent Significant Research Paper (ISRP) (30 pages). The workshop will also be useful to those writing a Significant Research Paper (SRP) (30 pages) as the method of evaluation in a course. The Workshop is offered every term and allows students to complete modules on legal research and writing that support the development of skills for long graduate research papers.  Several live online sessions will be held throughout the term to afford students the opportunity for discussion about their research projects and to ask questions of a research and writing instructor.  There will be an opportunity to receive feedback on research and writing skills. To get the most out of the course, it is recommended that students take it after successfully completing at least one or two terms of the program and have a topic in mind for their MRP or SRP."
+        },
+        {
+            "dept": "gnrl",
+            "code": "6149",
+            "credit": 3.0,
+            "name": "Introduction to Graduate Legal Studies",
+            "prereqs": "",
+            "desc": "This course is designed for students entering graduate legal studies without an LLB, JD or equivalent and will provide basic analytical frameworks and research skills necessary to approach legal issues."
+        },
+        {
+            "dept": "gnrl",
+            "code": "6200",
+            "credit": 6.0,
+            "name": "Negotiation:  Theory and Practice",
+            "prereqs": "",
+            "desc": "This highly interactive subject helps participants refine practice-relevant skills for negotiation and dispute resolution. Using experiential work, case studies and simulations, participants deepen their abilities to represent clients and negotiate across a range of practice settings. Participants have multiple opportunities to reflect on and hone their negotiation and dispute management skills, and leave with a series of practical tools for dealing with difficult negotiation behaviours and hard bargaining tactics in diverse settings. This subject is  useful for those working on a wide range of complex issues across a range of contexts."
+        },
+        {
+            "dept": "gnrl",
+            "code": "6209",
+            "credit": 3.0,
+            "name": "Canadian Graduate Legal Research &amp; Writing (Online)",
+            "prereqs": "",
+            "desc": "This course is divided into two sections, Part I (Legal Research) and Part II (Legal Writing).\n\nPart I (Legal Research) - Description Part I of this course teaches students the basic techniques of legal research relevant to Canadian Law, which is essential for legal studies and is a fundamental tool of the lawyering profession in Canada. In this course, students will learn the different categories of legal information and how they are published, organized, and indexed. In addition to learning traditional research methods, students will also be trained to use computer-assisted legal research, including major legal databases such as LexisNexis/Quicklaw, Westlaw Canada, and CCH Online. The purpose of Part I of this course is also to provide international graduate students with the essential skills to identify, locate, and understand legal materials relevant to business scenarios around the world. Therefore, not only Canadian, but also the US, foreign, and international legal research resources will be reviewed. \n\nPart II (Legal Writing) - Description Fundamentally, the materials, classes and evaluation methods for Part II of the course are designed to: (1) assist students to use the legal research skills acquired in Part I to create legal documents; (2) assist students to acquire the tools required to perform sound legal writing; (3) assist students to develop ways to analyze legal problems that will be applied both during and after the IBL program; and (4) assist students to use provided frameworks to create a range of commonly used legal documents within the Canadian legal system. During Part II of the course, students will have the opportunity to complete a number of assignments which progressively build upon analytical and writing skills. The primarily assignment-based nature of this part of the course requires a significant and &quot;steady&quot; time commitment"
+        },
+        {
+            "dept": "gnrl",
+            "code": "6209",
+            "credit": 3.0,
+            "name": "Graduate Legal Research &amp; Writing (Online)",
+            "prereqs": "",
+            "desc": "This course is divided into two sections, Part I (Legal Research) and Part II (Legal Writing). Part I provides students with up-to-datecurrent techniques of legal research and the skills to identify, and locate legal materials relevant to research they need to conduct in their courses. Part II focuses on the development ofgraduate-level analytical and legal writing skills at the graduate level. The ultimate goal of the course is to teach students to research and write the kinds of legal materials that are needed in graduate level law coursesnecessary for pursuing  in the Professional LLM."
+        },
+        {
+            "dept": "gnrl",
+            "code": "6210",
+            "credit": 3.0,
+            "name": "Advocacy in Practice: Written and Oral Advocacy",
+            "prereqs": "",
+            "desc": "This course will provide participants with the opportunity to develop and refine their advocacy skills in a safe learning environment that includes active participation and individualized feedback. Participants will learn skills and techniques that are regularly used by counsel in both written as well as oral advocacy."
+        },
+        {
+            "dept": "gnrl",
+            "code": "6317",
+            "credit": 6.0,
+            "name": "Major Research Paper",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "gnrl",
+            "code": "6514",
+            "credit": 0.0,
+            "name": "Introduction to Canadian LLM Studies",
+            "prereqs": "",
+            "desc": "This is an intensive introductory course for internationally trained law graduates who have been trained at a law school where the teaching methods, academic standards, and expectations may differ from those at common law Canadian law schools. The course provides students with an overview of the Canadian legal system and training in fundamental law school study skills, including note-taking, common law legal reasoning, legal memo writing, exam writing and legal essay writing skills. The purpose of the course is to familiarize students with the standards and expectations in their LLM studies."
+        },
+        {
+            "dept": "gnrl",
+            "code": "6701",
+            "credit": 3.0,
+            "name": "Selected Topics in General Law",
+            "prereqs": "",
+            "desc": "A new topic is explored in detail in each offering. The course is taught by a visiting expert scholar and/or practitioner in that area."
+        },
+        {
+            "dept": "gnrl",
+            "code": "6848",
+            "credit": 3.0,
+            "name": "Independent Significant Research Paper",
+            "prereqs": "",
+            "desc": "Students complete an independent Significant Research Paper of approximately 30 pages on any topic related to their specialization, provided appropriate supervision is available. The paper should go beyond merely describing legal developments to include independent critical analysis of its subject matter. Students are required, at a minimum, to submit to their supervisor an outline and bibliography for approval."
+        }
+    ]
+}

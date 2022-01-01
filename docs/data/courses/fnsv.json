@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "fnsv",
+            "code": "5500",
+            "credit": 1.5,
+            "name": "Introduction to Financial Services Management",
+            "prereqs": "fine5200",
+            "desc": "Provides an overview of the global financial services industry with attention to the role of financial institutions in financial systems and the differences between different types of financial institutions. The course will introduce students to key issues facing financial institutions including the importance of public policy, institutional change, growth strategies, risk management and practical management issues. \r\nPrerequisite: ALL 5100-series Required Foundations of Management Core Courses (SB/FINE 5200 3.00 is recommended). This course should be taken in the first-year of study to provide an opportunity to enrol in the Financial Services elective classes."
+        },
+        {
+            "dept": "fnsv",
+            "code": "6700",
+            "credit": 3.0,
+            "name": "Management of Risk in Financial Institutions",
+            "prereqs": "fnsv5500",
+            "desc": "Risk is the fundamental element that influences the behaviour of financial institutions. FNSV 6700 provides a comprehensive introduction to risk management. Presented within the framework of financial institutions, the course covers the design and operation of a risk-management system, modeling and the interplay between internal oversight and external regulation. The theory of risk management (market, credit and operational risk) comes alive through practical case evaluation and presentations from the senior executives in the risk management field. The course provides the essential analytical foundations of risk management in a way appropriate for those who do not have a mathematical background.\r\nPrerequisite: SB/FNSV 5500 1.50."
+        },
+        {
+            "dept": "fnsv",
+            "code": "6775",
+            "credit": 3.0,
+            "name": "International Credit: Markets and Metrics",
+            "prereqs": "",
+            "desc": "Managing credit risk is, perhaps, the fastest growing discipline in financial services due to its global complexity and dynamic nature. Focusing on how global credit markets work, regulatory reforms and products, this course will explore these markets, stakeholders and credit portfolio management theory and practice in Global Financial Institutions.\r\nMBA prerequisities or corequisites: All 5000-series Required Foundations of Management Core Courses"
+        },
+        {
+            "dept": "fnsv",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Financial Services",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "fnsv",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Financial Services",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

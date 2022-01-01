@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "lawh",
+            "code": "6701",
+            "credit": 3.0,
+            "name": "Selected Topics in Health Law",
+            "prereqs": "",
+            "desc": "This course explores in greater detail important issues and debates in health law.  A new topic is explored in detail in each offering. The course is taught by a visiting expert scholar and/or practitioner in that area."
+        },
+        {
+            "dept": "lawh",
+            "code": "6859",
+            "credit": 3.0,
+            "name": "Pharmaceutical Regulation",
+            "prereqs": "",
+            "desc": "This course investigates the law as itr elates to drugs and devices. It includes the exploration of pharmaceutical regulation, and legal and policy responses to issues raised in the context of global diseases such as HIV/AIDS. Devices are viewed from a broad perspective, taking into consideration issues raised by such things as contraception, blood products, breast implants, DES and hormone replacement therapy. The role and regulation of alternative medicines and therapies is also explored."
+        },
+        {
+            "dept": "lawh",
+            "code": "6864",
+            "credit": 3.0,
+            "name": "Malpractice in Health Care",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lawh",
+            "code": "6866",
+            "credit": 3.0,
+            "name": "Disability and Health Law ",
+            "prereqs": "",
+            "desc": "This course examines the relationship among disability, health and well-being. We will consider the construction of health from a disability rights perspective, and the ways in which disability as a legal category operates to secure or negate the rights of persons with disabilities in health law contexts. Students will be introduced to alternative conceptions and theories of disability and impairment and examine how law regulates the lives and health of individuals with disabilities. Throughout the course we will analyze how and for what purposes disability is defined and regulated by law and about how law can be used to achieve the goals of health and well-being for persons with disabilities."
+        },
+        {
+            "dept": "lawh",
+            "code": "6867",
+            "credit": 3.0,
+            "name": "Human Rights, Globalization and Health Law",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

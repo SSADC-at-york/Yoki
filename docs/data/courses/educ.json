@@ -1,0 +1,548 @@
+{
+    "courses": [
+        {
+            "dept": "educ",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Rethinking Schooling: A &quot;Re-Introduction&quot; to Education",
+            "prereqs": "",
+            "desc": "As teacher candidates rethink and reflect upon their own experiences with education and learning and consider other educational narratives such as those found in literature and popular culture, they will begin to develop an awareness of the transformative and disruptive power of learning. They will develop a more critical understanding of the dynamics of gender, race, ethnicity, class, sexuality, culture, ability/disability and structures of privilege in knowing and learning. \nOnly available to students in the Bachelor of Education (BEd) program. "
+        },
+        {
+            "dept": "educ",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Rethinking Schooling: A &quot;Re-Introduction&quot; to Education",
+            "prereqs": "",
+            "desc": "As teacher candidates rethink and reflect upon their own experiences with education and learning and consider other educational narratives such as those found in literature and popular culture, they will begin to develop an awareness of the transformative and disruptive power of learning. They will develop a more critical understanding of the dynamics of gender, race, ethnicity, class, sexuality, culture, ability/disability and structures of privilege in knowing and learning.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "educ",
+            "code": "2591",
+            "credit": 3.0,
+            "name": "Thinking Mathematically",
+            "prereqs": "",
+            "desc": "This course will provide opportunities for teacher candidates to achieve success in thinking mathematically, reflect on the learning and practice of mathematics, and develop a positive attitude towards mathematics through an examination of topics relevant to the study of mathematics at the elementary and middle school levels. This course will focus on engaging in mathematics in ways that encourage discussion, communication and reflection on learning and teaching mathematics through problem posing and problem solving.\nNOTE: Not open to students who have completed EDUC 2590 or MATH 2590. Not open to students who have taken another university-level mathematics class.  \nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "educ",
+            "code": "2594",
+            "credit": 3.0,
+            "name": "Hands-on Mathematics to Support Interdisciplinary Learning ",
+            "prereqs": "",
+            "desc": "Mathematics learning at the K-8 level is best supported with multiple representations and hands-on activities. This course will offer opportunities for future PJ and JI teachers to explore these key mathematical processes, identified in the Ontario curriculum, through investigations, reflections, and selective readings from the literature. Many pre-service teachers have not themselves experienced learning and doing mathematics with these broader, more connected and inclusive approaches. They lack the confidence and the background resources to support these mathematical processes and approaches with their students. Reworking sample mathematics with these supports, including manipulatives (as described in the Ontario Curriculum) and appropriate technology (dynamic geometry, as identified in the Ontario Curriculum)\nprovides opportunities for future teachers to develop their mathematical repertoire and confidence, as well as their capacity to offer active engagement with multiple approaches that can support the diversity of student thinking found in problem solving situations. The activities selected, and the associated group projects, will also cross-curricular boundaries and cultural boundaries to connect mathematics and spatial reasoning to real world experiences. These activities and reflections will also connect to learning objectives and concepts from science, social sciences such as geography, and visual arts, supporting a broad range of connected student learning in the STEM and STEAM disciplines, and beyond. A key component will be building and exploring embodied approaches, including spatial reasoning, kinesthetic and spatial-visual representations to support learning and thinking for children and in the elementary classrooms. These approaches are also central in the practices of mathematics, the sciences and many of the arts, at all levels and across most cultures. They will support a lifetime of student and teacher learning. \nOnly open to students in BEd. "
+        },
+        {
+            "dept": "educ",
+            "code": "2700",
+            "credit": 3.0,
+            "name": "Teaching Internationally and Interculturally",
+            "prereqs": "",
+            "desc": "This course engages students in a comparative and international exploration of cultural traditions and beliefs, as well as their reflection on schooling and teaching practices. Throughout the course, students will examine diverse cultural and educational contexts in Canada and around the world in relation to imperialism, globalization, and internationalization, and raise questions about critical issues such as social class, race, ethnicity and gender. Students will be encouraged to develop an understanding of education in political, social, economic, linguistic, and cultural contexts around the world and search for effective pedagogical practices for teaching students of diverse cultural, class, racial, ethnic, and language backgrounds both locally and internationally. Not available to students who have taken EDST 2700. \nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "2720",
+            "credit": 3.0,
+            "name": "Teaching English in International Contexts",
+            "prereqs": "",
+            "desc": "This course addresses key dimensions of teaching English in international contexts. It examines theoretical and practical aspects of teaching English, including feedback and assessment, learner profiles, student agency, and e-learning approaches in environments where English is not the majority language.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3000",
+            "credit": 0.0,
+            "name": "Teaching Religious Education &amp; Catholic Schools",
+            "prereqs": "",
+            "desc": "Using a combination of theology and experiential learning, this non-credit course prepares teacher candidates to teach religious education in Catholic Schools. Teacher candidates reflect on topics such as: the mission of Catholic schools; the relation of sacred scriptures and liturgical life to the contemporary Church and communities; faith, ethics and morality in schools and the community; social justice in religious education; pedagogical practices for religious education; school ministry; and faith as it relates to teaching and learning at all levels. Students will gain an understanding of the conceptual framework in Ontario Catholic education. Participation in\u0097and reflection on\u0097educational methods and curriculum in Catholic education are examined and practiced."
+        },
+        {
+            "dept": "educ",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Urban Education",
+            "prereqs": "",
+            "desc": "This course focuses on the theory and practice of schooling in urban settings characterized by diversity related to socio-economic status, ethnicity, race, culture and citizenship. It examines historical and socio-political contexts of education and explores their impact on conceptions of learning, curriculum and pedagogy with specific application for working in urban school environments.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3592",
+            "credit": 3.0,
+            "name": "Teaching for Understanding in the Mathematics Classroom",
+            "prereqs": "",
+            "desc": "This course focuses on exploring research into, and theoretical perspectives on, mathematical understanding with a particular emphasis on relevancy to topics in the Ontario curriculum. Students will consider how research can inform their pedagogical practice in the teaching of mathematics.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Literacy and Culture",
+            "prereqs": "",
+            "desc": "This course investigates how children become literate and addresses issues of second language learning and culture in literacy development. It will pursue successful practices for literacy development while exploring issues of diversity.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3610",
+            "credit": 3.0,
+            "name": "New Media Literacies and Culture",
+            "prereqs": "",
+            "desc": "This course examines new media technologies and literacies prevalent in contemporary popular culture and of increasing importance in education. An array of new media technologies and emergent literacies will be explored to consider their pedagogical, curricular, and socio-cultural implications.\nThis course is only available to students in the Bachelor of Education (BEd) program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3711",
+            "credit": 3.0,
+            "name": "Education and International Development",
+            "prereqs": "",
+            "desc": "&quot;Education changes the world&quot; and is the slogan of the World University Service of Canada (WUSC). This course asks how education has contributed to, and sometimes been implicated in, social, political, economic, and environmental change in the context of what is commonly known as &quot;international development.&quot;  The course will consider notions of quality education at the primary and secondary school levels and explore the place of technical and vocational education and training (TVAT) and higher education in development.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3720",
+            "credit": 3.0,
+            "name": "Philosophical Inquiry into Critical Thinking and Curriculum",
+            "prereqs": "",
+            "desc": "This course investigates philosophical inquiry, critical thinking, and curriculum. It explores questions about how the mind works, the nature of critical thought, and implications of these for curriculum and instruction. Relevant philosophical and theoretical traditions and perspectives will be considered.\nThis course is only available to students in the Bachelor of Education (BEd) degree program.\n\n\n"
+        },
+        {
+            "dept": "educ",
+            "code": "3730",
+            "credit": 3.0,
+            "name": "Education and Human Rights",
+            "prereqs": "",
+            "desc": "This course provides an analysis of human rights law as it intersects with education and schooling in Ontario.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3750",
+            "credit": 3.0,
+            "name": "Educational Assessment",
+            "prereqs": "",
+            "desc": "This course considers the conceptual and ethical issues in educational assessment; the process of developing, evaluating and using assessment procedures; the interpretation, communication and use of assessment results; and the role of gender, ethnic, cultural and linguistic diversity in educational assessment.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "educ",
+            "code": "3760",
+            "credit": 3.0,
+            "name": "Early and Family Literacy",
+            "prereqs": "",
+            "desc": "Examines young children's literacy development both before and during the first years of schooling. The role of families in this development will also be examined. Issues related to diversity will be incorporated. Not available to students who have taken ED/EDUC 3760 3.00.\nOnly available to students in the Bachelor of Education (BEd) program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3770",
+            "credit": 3.0,
+            "name": "Teaching and Learning with Digital Technology",
+            "prereqs": "",
+            "desc": "This course provides an introduction to the theory and practice of teaching and learning with digital technologies. Topics include applied learning theories and the use of Web-based tools, productivity and document sharing tools, blended learning, graphics and authoring software, educational games, and mobile devices, as well as production pedagogies theories and practices.\nOnly available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3820B",
+            "credit": 3.0,
+            "name": "Teaching English Language Learners in Mainstream Classrooms",
+            "prereqs": "",
+            "desc": "This course addresses the needs of children from language backgrounds other than English. It covers theoretical and practical aspects of second language acquisition and explores ways in which teachers can support such learners within the mainstream classroom.\nThis course is only open to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "educ",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Studies in Popular Culture",
+            "prereqs": "",
+            "desc": "This course considers recent debates on the uses of various forms of popular culture in educational research and pedagogical practice. The course will draw upon mainstream and independent films, contemporary fiction, graphic novels and comics, and popular forms of music, as well as research in cultural studies.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "educ",
+            "code": "3998",
+            "credit": 3.0,
+            "name": "Student-Initiated Collaborative Inquiry",
+            "prereqs": "",
+            "desc": "This Student-Initiated Collaborative Inquiry (SICI) course is offered in order to enable two or more students to pursue a research interest that is not covered by available courses, which is supervised and evaluated by a faculty member. It is a special form of Independent Reading Course that focuses on collaboration between/among two or more students to investigate a common topic of interest. In advance of registering for the course, two or more students must submit a written proposal for approval by the Undergraduate Program Director, and a faculty member with relevant subject expertise must be available to supervise the course. Only one SICI course can be taken as a part of a degree in the Faculty of Education's undergraduate degree programs as an elective. Content areas are officially proposed by two or more students and will be offered subject to the availability of a faculty member with expertise in the area of interest and the approval of the Undergraduate Program Director."
+        },
+        {
+            "dept": "educ",
+            "code": "5075",
+            "credit": 3.0,
+            "name": "Discursive Psychology and the Study of Language in Education",
+            "prereqs": "",
+            "desc": "Introduces students to the contemporary field of Discursive Psychology (DP). It first elaborates DP\u0092s conceptual sources in ethnomethodology, conversation analysis, language philosophy, pragmatics, sociocultural theory and social studies of science. It then explores DP\u0092s implications for applied research in education, specifically its uses in studying talk-in-interaction in educational settings such as classrooms, public lectures, workshops and self-study exercises."
+        },
+        {
+            "dept": "educ",
+            "code": "5100",
+            "credit": 6.0,
+            "name": "Research and Issues in Language, Culture and Teaching",
+            "prereqs": "",
+            "desc": "Epistemologies, underlying theories, and research approaches to language, culture and teaching are examined. The seminar considers questions of knowledge, social/nature relations, and educational praxis in relation to dynamics of language, culture and teaching.\r\nCore course requirement for all doctoral students."
+        },
+        {
+            "dept": "educ",
+            "code": "5120",
+            "credit": 6.0,
+            "name": "Theory and Research in Language, Culture and Teaching",
+            "prereqs": "",
+            "desc": "The themes of language, culture and teaching are central to the Graduate Program in Education at York University. The centrality of these themes is articulated in both the PhD proposal as well as the OCGS report for the Masters program. This Masters level course explores the central themes of the program in relation to: (a) social historical and cultural contexts of education, (b) contemporary practices of pedagogy, learning and curriculum, and (c) research methodologies. This course has several unique features. First of all, this course offers students the opportunity to consider questions of language, culture and teaching in a sustained manner across a year of study. It is the only full-course offering in the Masters program in Education. Secondly, the course is offered during the day as an implicit means of creating a central site of intellectual engagement for full time students. In other words, the course operates to create an academic community among full time students. Thirdly, typically, the course is staffed by two faculty members of differing backgrounds (e.g., a sociologist and a literacy educator). this staffing permits students to see the way  in which different approaches to questions of language, culture and teaching can lead to complementary or contradictory insights in to this area of study. "
+        },
+        {
+            "dept": "educ",
+            "code": "5125",
+            "credit": 3.0,
+            "name": "Theory, Method and Issues in Comparative Education",
+            "prereqs": "",
+            "desc": "Introduces students to the theory and methodology of Comparative Education. It focuses on such fundamental questions as the purpose of comparative education, the changing approaches to comparative education and what 'scientific' methodology entails comparative education research."
+        },
+        {
+            "dept": "educ",
+            "code": "5200",
+            "credit": 3.0,
+            "name": "Qualitative Research Methods in Education",
+            "prereqs": "",
+            "desc": "Introduces the concepts, history and methodologies of qualitative research and their significance for the study of education. The major emphasis is on strategies for data gathering and data reduction (including naturalistic observation, participant observation, open-ended interviewing and category generation.)"
+        },
+        {
+            "dept": "educ",
+            "code": "5221",
+            "credit": 3.0,
+            "name": "Life History Research Methods and  Applications",
+            "prereqs": "",
+            "desc": "Examines both the methods and uses of life history research within the field of education. Various forms of life history research are explored through a variety of theoretical and thematic lenses. Contested terrain is also examined."
+        },
+        {
+            "dept": "educ",
+            "code": "5225",
+            "credit": 3.0,
+            "name": "(De) Colonizing Research Methodologies",
+            "prereqs": "",
+            "desc": "This course examines the colonizing roots, contemporary problems, and possibilities of field-based research methodologies with relevance to education.  From issues in science and positivism to anthropological questions of representation and ethics, the course asks what it means to decolonize methodology."
+        },
+        {
+            "dept": "educ",
+            "code": "5235",
+            "credit": 3.0,
+            "name": "Un-learning the Archive: Facts, Fictions and Missing Histories",
+            "prereqs": "",
+            "desc": "This course addresses the archive \u0096 institutional and informal \u0096 as a source of  historical authority, and as a site of resistance. Students engage in various archival encounters to develop an understanding of archives in relation to research, learning and teaching."
+        },
+        {
+            "dept": "educ",
+            "code": "5250",
+            "credit": 3.0,
+            "name": "Practitioner Research",
+            "prereqs": "",
+            "desc": "Offers an overview of definitions and perspectives on the relationship of scholarship to the work of practitioners (e.g., artists, teachers, social workers, adult educators, health care practitioners). It offers theoretical and practical support for students interested in research oriented to activism and social change."
+        },
+        {
+            "dept": "educ",
+            "code": "5315",
+            "credit": 3.0,
+            "name": "Frameworks for Language and Literacy Theory and Research",
+            "prereqs": "",
+            "desc": "Organized into three modules, this course introduces students to areas of debate within the related fields of language development, literacy, and multilingualism. It considers how these debates are represented within a range of research approaches and helps students develop a broad sense of the field of language and literacy in contemporary hyperdiverse societies."
+        },
+        {
+            "dept": "educ",
+            "code": "5340",
+            "credit": 3.0,
+            "name": "Adolescent and Children's Literature",
+            "prereqs": "",
+            "desc": "Explores child/adolescent literature from theoretical, artistic, cultural, historical, pedagogical and political perspectives, examining literary examples as contextually constructed. Attention to race, class and gender and aesthetic and moral questions promotes critical readings of texts old and new."
+        },
+        {
+            "dept": "educ",
+            "code": "5380",
+            "credit": 3.0,
+            "name": "Second Language Instruction",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "educ",
+            "code": "5381",
+            "credit": 3.0,
+            "name": "Reading and Writing in a Second Language: Theory to Practice",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "educ",
+            "code": "5383",
+            "credit": 3.0,
+            "name": "Multilingual Education",
+            "prereqs": "",
+            "desc": "The term, multilingual education, typically refers to the teaching of and through more than two languages. This means that multilingual education is concerned with language policy. Language choices and uses in education reflect social policy decisions within a multicultural or cross-cultural context. In this course, we investigate language policy, education, ecology, and hegemony in our changing world. Multilingual education will be viewed in multiple ways, incorporating internal and international responses to globalization and multiculturalism. In our world today, people live in increasingly multicultural, multilingual countries where historical concepts of belonging are under pressure to respond to current cultural realities. Technological advances of the late twentieth century have simultaneaously provided people with the means to move around the globe much more easily and drawn edges of the world closer within virtual space, such that cross-glabal communications take place in nanoseconds. This has changed language use enormously in terms of both which languages we use most often and the media through which we communicate using these languages."
+        },
+        {
+            "dept": "educ",
+            "code": "5385",
+            "credit": 3.0,
+            "name": "Multimodal Literacies",
+            "prereqs": "",
+            "desc": "Multimodal literacies examines the changing face of literacy in our networked worlds, exploring contemporary literacy shapes, sites and practices. The course invites diverse theoretical and pedagogical perspectives on multimodal literacies, and contemplates new basics in twenty-first century literacy education."
+        },
+        {
+            "dept": "educ",
+            "code": "5409",
+            "credit": 3.0,
+            "name": "Policy Issues in Postsecondary Education",
+            "prereqs": "",
+            "desc": "This course reviews Canadian postsecondary education policy issues with a focus on Ontario. The course tracks major policy developments that have shaped postsecondary education in Canada and Ontario and identifies contemporary policy priorities in PSE. The course also considers the nature of policy\u0096making in postsecondary education, and the roles and responsibilities of the federal and provincial governments, identifying the unique structural and environmental factors that influence Canadian policy-making."
+        },
+        {
+            "dept": "educ",
+            "code": "5412",
+            "credit": 3.0,
+            "name": "Changing Currents in Post-Secondary Education ",
+            "prereqs": "",
+            "desc": "Examines key themes in the world of postsecondary education. It explores the development of colleges, universities and adult education, and includes the study of post-secondary education in Canada, the United States, and other international venues."
+        },
+        {
+            "dept": "educ",
+            "code": "5414",
+            "credit": 3.0,
+            "name": "Teaching and Learning in PSE, a study of traditional and emerging pedagogies including lectures, online learning, adult learning and student centred teaching",
+            "prereqs": "",
+            "desc": "Examines traditional and emerging approaches to teaching and learning in postsecondary education. It explores the development of teaching methodologies in colleges and universities in Canada and other international venues. In particular students are encouraged to critically evaluate traditional methods and explore one or more selected methodology in the form of a review, group presentation and reflective paper. "
+        },
+        {
+            "dept": "educ",
+            "code": "5420",
+            "credit": 3.0,
+            "name": "Race, Culture and Schooling",
+            "prereqs": "",
+            "desc": "The course explores the historical and ideological relationships between dominant and minority groups in Canada and the structure of social and cultural power among them. The course examines how theories and unquestioned assumptions about race and ethnicity, precipitated historically and perpetuated through myths and stereotypes, mediate the teaching-learning process today. Participants will critically evaluate the extent to which race and ethno-cultural policy, provision and pedagogy have achieved equity education for all students. A more progressive and reconstructonist approach to multicultural and anti-racist education will be explored. "
+        },
+        {
+            "dept": "educ",
+            "code": "5425",
+            "credit": 3.0,
+            "name": "Sexualities and Education ",
+            "prereqs": "",
+            "desc": "This course considers contemporary debates in the study of sexualities.  Drawing upon research and literature in the humanities, social sciences and arts, theories of sexuality are placed in conversation with issues in education.  Topics to be covered may include: childhood and \r\nadolescent sexualities, teacher's sexualities, controversies in sex education, representations of AIDS, lesbian, gay, bisexual and transgendered issues and identities in education, and representations of sexuality across the curriculum.\r\n"
+        },
+        {
+            "dept": "educ",
+            "code": "5435",
+            "credit": 3.0,
+            "name": "Youth and Cultural Experience",
+            "prereqs": "",
+            "desc": "This seminar considers how adolescents are conceptualized in research, education, and the arts. Topics include methods for the study of adolescents; adolescent sexualities; studies in prejudice; adolescence in history; the politics of adolescent cultures; and commitment and disaffection in youth."
+        },
+        {
+            "dept": "educ",
+            "code": "5440",
+            "credit": 3.0,
+            "name": "Education in Urban Contexts",
+            "prereqs": "",
+            "desc": "Urban communities are typically spatial centres to which individuals migrate and immigrate. With this comes increased population density, economic disparities and increased cultural, ethic, racial and religious diversity. Public institutions, and schools in particular, are charged with the responsibility of addressing the resultant challenges. Using Toronto as an example, the course begins by examining the question: What characterizes urban schools We then go on to examine the historical, social, economis and political issues in the city and investigate how the demographic changes in particular have affected the education system. What changes have occured in the teaching, professional and administrative staff of the schools in term of representation What curricula, programmatic and pedagogical changes have occured? What are the challenges and tensions that the schools face as they attempt to accomodate diverse cultures? Schools in Toronto will be investigated and used as case studies. Through urban theory, field visits and individual assignments we will investigate the extent to which schools' currucula, program and staff representatives are responsive to the needs of today's students. Special attention will be paid to the roles of educators, students and parents in helping address educational, cultural and social issues. The goal of this course, therefore, is to enable students to develop working (tentative and transitional) conceptualizations around the following essential question: how are power, knowledge, identity and cultural representation organized within the space of urban educational encounters?"
+        },
+        {
+            "dept": "educ",
+            "code": "5445",
+            "credit": 3.0,
+            "name": "Education, Sustainability and the Ecological Crisis",
+            "prereqs": "",
+            "desc": "Examines the deep cultural dimensions of the ecological crisis and considers the implications for public education. Discussing pre-contact indigenous models of education, the course examines education`s role in developing mind and landscape. Historical sustainability and contemporary environmental, social and educational malaise will be studied. We conclude envisioning education to create sustainable culture. "
+        },
+        {
+            "dept": "educ",
+            "code": "5446",
+            "credit": 3.0,
+            "name": "Special Topics:  Ecology, Ethics and Education",
+            "prereqs": "",
+            "desc": "Examines the nested relationship between culture, education and the larger ecological system, with specific attention to developing eco-ethical consciousness as a means toward attending to the patterns of belief and behaviour leading to ecological degradation.\r\n"
+        },
+        {
+            "dept": "educ",
+            "code": "5455",
+            "credit": 3.0,
+            "name": "Student Experiences and Educational Outcomes in Colleges and Universities",
+            "prereqs": "",
+            "desc": "Provides a critical review of the research literature on the student experience in post secondary education. Issues of access, retention, learning and assessment are considered along with the application of theory to the policy and practice of student services in post secondary institutions."
+        },
+        {
+            "dept": "educ",
+            "code": "5463",
+            "credit": 3.0,
+            "name": "Comparative Perspectives on Global Migration and Education",
+            "prereqs": "",
+            "desc": "This course employs comparative and international perspectives to examine global migration and education. The course examines comparative education theory, causes of global migration, and pertinent issue areas including social inclusion and exclusion, gender, language, religion, international organizations, and globalization"
+        },
+        {
+            "dept": "educ",
+            "code": "5472",
+            "credit": 3.0,
+            "name": "Visual Culture and Sexualities",
+            "prereqs": "",
+            "desc": "The course looks at contemporary debates in the theory, practice and pedagogies of visual culture with a focus on visual representations of sexualized/gendered bodies, and the ways in which these representations may work to constitute, disrupt, complicate, etc., cultural practices."
+        },
+        {
+            "dept": "educ",
+            "code": "5535",
+            "credit": 3.0,
+            "name": "Family Literacy",
+            "prereqs": "",
+            "desc": "Family literacy practices are explored in this course in terms of their relationship to school practices and children\u0092s literacy development.  The types of programs schools offer to families to promote school-like literacy practices as well as community-based programs are examined."
+        },
+        {
+            "dept": "educ",
+            "code": "5540",
+            "credit": 3.0,
+            "name": "Educating Young Children",
+            "prereqs": "",
+            "desc": "North American society is deeply conflicted about how young children should be educated.  This course examines conflicting views - education as production or education as meaningful growth - and considers theoretical underpinnings for democratic and ecological values.  \r\nPowerful examples of developmentally appropriate practice are considered in relation to school settings, as well as critiques of those examples.  For those concerned with education of children ages three to eight."
+        },
+        {
+            "dept": "educ",
+            "code": "5611",
+            "credit": 3.0,
+            "name": "Indigenous Ways of Knowing",
+            "prereqs": "",
+            "desc": "This course examines indigenous\u009d scholarship among First Nations in what is now known as Canada and the United States.  The ways of knowing which give expression to indigenous conceptualizations and their intersections with western European languages and scholarly paradigms is the point of departure for this exploration."
+        },
+        {
+            "dept": "educ",
+            "code": "5615",
+            "credit": 3.0,
+            "name": "Education and Social Justice in Postmodernity",
+            "prereqs": "",
+            "desc": "What can social justice mean in light of attempts to reconceptualize justice as an ethical and political relation to difference?  This question is explored through diverse philosophical and educational writing across such themes as hospitality, promising, forgiveness, and the political uses and depiction of foreignness"
+        },
+        {
+            "dept": "educ",
+            "code": "5616",
+            "credit": 3.0,
+            "name": "Democracy &amp; Education: Public formation and the humanities ",
+            "prereqs": "",
+            "desc": "Drawing on a variety of thinkers working in philosophy, politics, literature, the theoretical humanities, and the arts, the course explores the link between democracy and education broadly conceived. The seminar grapples with questions around the pedagogicxal potential of the arts and humanities for nourishing the imagination and for fostering vocabularies that are critical for forming publics and democratic sensibilities.  "
+        },
+        {
+            "dept": "educ",
+            "code": "5620",
+            "credit": 3.0,
+            "name": "Ethical Possibilities in Education",
+            "prereqs": "",
+            "desc": "This seminar draws on a history of ethical philosophy to examine ethics in the relation between students and teachers. The course critically explores notions like happiness, empathy, duty, guilt and hope, theorizing how these inform and disrupt educational relationships."
+        },
+        {
+            "dept": "educ",
+            "code": "5820",
+            "credit": 3.0,
+            "name": "Feminist Pedagogy",
+            "prereqs": "",
+            "desc": "The course explores feminist theories and philosophical concerns emerging from and related to experiences and objects of pedagogy. It considers ongoing critique and revision of feminist discourse, and challenges socio-cultural and ideological assumptions underscoring theories of learning, teaching, and curriculum."
+        },
+        {
+            "dept": "educ",
+            "code": "5840",
+            "credit": 3.0,
+            "name": "Mathematics Learning Environments",
+            "prereqs": "",
+            "desc": "Explores issues in mathematics education in light of new developments in learning theory. It seeks to characterize mathematics learning environments as rich contexts for active engagement with mathematical ideas. These environments reflect the complex nature of mathematical learning as being socio-cultural, emergent, distributed, and negotiated in nature. A specialised mathematics background is not a prerequisite for the course."
+        },
+        {
+            "dept": "educ",
+            "code": "5850",
+            "credit": 3.0,
+            "name": "Science Technology and Society",
+            "prereqs": "",
+            "desc": "Science and Technology assert a profound influence on what we do and how we do it. This course takes up the question of science and technology education. What is it? What might it be? And how might it respond to contemporary social and ecological realities? Course designed for both science and non-science specialists."
+        },
+        {
+            "dept": "educ",
+            "code": "5860",
+            "credit": 3.0,
+            "name": "Issues in Digital Technology in Education",
+            "prereqs": "",
+            "desc": "Critically examines social and pedagogical issues arising from the use of digital technology in K-12 schools, higher education, and professional learning. It is conducted through a combination of face-to-face meetings and online computer conferencing."
+        },
+        {
+            "dept": "educ",
+            "code": "5900",
+            "credit": 3.0,
+            "name": "Independent Reading Course",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "educ",
+            "code": "5910",
+            "credit": 3.0,
+            "name": "Student  Initiated Collaborative Inquiry",
+            "prereqs": "",
+            "desc": "Student Initiated Collaborative Inquiry (SICI) courses areindependent study offerings designed to enable two or more students to pursue a research interest which is not covered by available courses. Content areas are proposed by two or more students and will be offered subject to the availability of a faculty member with expertise in the area of interest and the approval of the Graduate Program Director."
+        },
+        {
+            "dept": "educ",
+            "code": "5915",
+            "credit": 3.0,
+            "name": "Practicum Seminar",
+            "prereqs": "",
+            "desc": " The Practicum Seminar uses the university teaching experiences of graduate students to develop focused offerings on topics that link that teaching to issues in Language, Culture and Teaching within higher education settings. These Practicum Seminars are subject to the availability of faculty members and the approval of the Graduate Executive Committee."
+        },
+        {
+            "dept": "educ",
+            "code": "5920C",
+            "credit": 3.0,
+            "name": "Conceptualizing Indigenous Leadership: Investigating Indigenous Leadership Within Systems, Organizations and the Greater Canadian &amp; Global Context ",
+            "prereqs": "",
+            "desc": "This course is an exploration of Indigenous conceptions of leadership. It includes an investigation of Indigenous leadership frameworks, an examination of the ways colonialism impacted Indigenous leadership practices and an analysis of how Indigenous ways of knowing and being function within contemporary organizations and systems including systems of formal education.  \r\n\r\nPre-requisite students must have completed at least one course in the history of colonialism in the Americas at the undergraduate or graduate level."
+        },
+        {
+            "dept": "educ",
+            "code": "5925",
+            "credit": 3.0,
+            "name": "Reading the Holocaust and Memory",
+            "prereqs": "",
+            "desc": "This course focuses on how the Holocaust is \u0093read\u0094  through literature and the arts and how these works have been integrated into a global education emphasizing awareness, consciousness and memory.   "
+        },
+        {
+            "dept": "educ",
+            "code": "5940",
+            "credit": 3.0,
+            "name": "Visual Research Methods",
+            "prereqs": "",
+            "desc": "This course explores the practice and use of visual research methods, particularly in participatory and community-based contexts. The course will offer an introduction to visual research methods in education and across the social sciences, and will examine theories and practices of visual narrative inquiry, digital storytelling, participatory video, photo-voice, photo elicitation, story mapping, and other visual research methods."
+        },
+        {
+            "dept": "educ",
+            "code": "6205",
+            "credit": 3.0,
+            "name": "Ethnography of Education",
+            "prereqs": "",
+            "desc": "This course addresses ethnographic investigation of educational settings and institutions -- neighbourhoods, families, peer groups, schools  focusing on unique insights that ethnography offers into key educational problems. It explores issues of authority, audience, and epistemology involved in ethnographic work."
+        },
+        {
+            "dept": "educ",
+            "code": "7010",
+            "credit": 3.0,
+            "name": "Enacting Leadership and Policy",
+            "prereqs": "",
+            "desc": "Explores the political roles and environments of leaders, examines how policy and leadership are enacted in various contexts, and reviews rational and critical theories of policy. Through course readings and a concurrent placement, course participants\u0092 political skills, political acumen and ability to engage participants in democratic policy processes are developed."
+        },
+        {
+            "dept": "educ",
+            "code": "7015",
+            "credit": 3.0,
+            "name": "Experience-based Inquiry I (includes community-based placement)",
+            "prereqs": "",
+            "desc": "This online course facilitates development of participants professional capacity through a community placement and structured reflection and dialogue on leadership, politics and policy enactment in the placement in connection with GS/EDUC 7010 3.00."
+        },
+        {
+            "dept": "educ",
+            "code": "7020",
+            "credit": 3.0,
+            "name": "Initiatives in Program Design, Interpretation, and Evaluation ",
+            "prereqs": "",
+            "desc": "In this course participants develop the practical building blocks needed to produce effective community-based projects and programs. Course participants will examine and evaluate an existing program with the goal of mapping a community practice in the context of changing social and cultural agendas. The intent is to further develop a capacity for leadership within diverse cultural contexts, rights discourses and community sustainability."
+        },
+        {
+            "dept": "educ",
+            "code": "7025",
+            "credit": 3.0,
+            "name": "Experience-based Inquiry II (includes community-based placement)",
+            "prereqs": "",
+            "desc": "This online course facilitates development of participants' professional capacity through a community placement and structured reflection and dialogue on program design, interpretation, and evaluation in connection with EDUC 7020 Initiatives in Program Design, Interpretation, and Evaluation."
+        }
+    ]
+}

@@ -1,0 +1,1020 @@
+{
+    "courses": [
+        {
+            "dept": "envs",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Introduction to Environmental Documentaries",
+            "prereqs": "",
+            "desc": "The course will introduce students to how environmentalists are using documentary films for speaking truth to power. Topics will include how and why documentary films are made and the roles they play in social change efforts on environmental issues. Students will learn how to create their own digital media projects in various documentary formats."
+        },
+        {
+            "dept": "envs",
+            "code": "1100",
+            "credit": 3.0,
+            "name": "The land we're on: Treaties, Art and Environment",
+            "prereqs": "",
+            "desc": "This course introduces students to historical and current ideas about land, with an emphasis on Indigenous perspectives. Through analysis of art and media art, students will engage critical approaches by scholars, activists and creatives who challenge dominant modes of power. Students will gain an understanding of treaty relations across Canada, build media analysis skills, and communication skills."
+        },
+        {
+            "dept": "envs",
+            "code": "1122",
+            "credit": 3.0,
+            "name": "Artists and writers who change the world: Introduction to Environmental Arts and Humanities",
+            "prereqs": "",
+            "desc": "Students examine the ways in which writers, performers and visual artists illuminate, reimagine and intervene in environmental crises and challenges.  They critically examine relationships between the arts, humanities and environment through an introduction to a variety of literary and artistic forms and strategies including writing, media, visual art and performance.  They develop their own skills, ethics and knowledges in the creative production, presentation and evaluation of their own artistic and critical work in the collaborative context of the class community."
+        },
+        {
+            "dept": "envs",
+            "code": "1210",
+            "credit": 3.0,
+            "name": "Cities,Regions and Planning in a  Globalizing World",
+            "prereqs": "",
+            "desc": "Cities and urban regions are the predominant human habitat. This introductory level course covers the fundamentals of urban studies\r\nknowledge in a world shaped by globalization. It explains the process of urbanization through time (history) and space (geography). Urban planning and politics are introduced as professional practices in citybuilding under the impression of the climate emergency and similar planetary challenges."
+        },
+        {
+            "dept": "envs",
+            "code": "1300",
+            "credit": 3.0,
+            "name": "Environmental Politics and Justice",
+            "prereqs": "",
+            "desc": "How do we change the world? How do we construct a just society? This core course focuses on facing today's environmental challenges through politics and environmental justice movements. You will study how environmental inequalities arise, including class, indigenous, racial and gender dimensions. You will also learn methods for researching issues/problems in environmental politics and justice, and strategies for addressing them both locally and globally. And you will develop analytical, writing, artistic, collaborative and presentation skills to envision and realize a better environmental future.\r\nCourse Credti Exclusions: ES/EU ENVS 2000 6.00"
+        },
+        {
+            "dept": "envs",
+            "code": "1400",
+            "credit": 3.0,
+            "name": "Foundations of Environmental Management: Policy, Resources and Conservation",
+            "prereqs": "",
+            "desc": "This course provides the foundational understanding of core concepts approaches and methods in environmental management. Drawing on the natural and social sciences, this course examines the role of policy and management strategies in addressing environmental, nature resource and conservation challenges, in ways supportive of sustainable development. It provides an overview of the concepts, knowledge and skills that are needed to be effective in environmental policy and management in government, business and not-for-profit sectors"
+        },
+        {
+            "dept": "envs",
+            "code": "1500",
+            "credit": 3.0,
+            "name": "Introduction to Environmental Science",
+            "prereqs": "",
+            "desc": "The course provides an introduction to the study of ecology with additional aspects of physics, and chemistry that are necessary for the study of environmental problems. It also acquaints students with techniques (including computer techniques) for the description, organization and display of quantitative data."
+        },
+        {
+            "dept": "envs",
+            "code": "2122",
+            "credit": 3.0,
+            "name": "Community Arts for Social Change",
+            "prereqs": "",
+            "desc": "An introduction to community-based creative approaches integral to social change in different historical and cultural contexts. These practices and methods are examined in terms of their form, content, production, and reception from interdisciplinary perspectives.  Prerequisite: Second-year standing or by permission of the Instructor.\r\n\r\nPRIOR TO WINTER 2017: course credit exclusion: FA/FACS 2122 3.00."
+        },
+        {
+            "dept": "envs",
+            "code": "2125",
+            "credit": 3.0,
+            "name": "Popular Education for Environmental and Social Justice",
+            "prereqs": "",
+            "desc": "Students explore the key notions of popular education related to knowledge and power, and various forms of anti-oppression practice addressing racism, sexism, classism, homophobia, ableism, and human/non-human domination in the context of organizations and movements for social and environmental justice in a globalizing and diasporic context.  Prerequisite: Third-year or fourth- year standing or by permission of the instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Foundations of Planning and Politics",
+            "prereqs": "",
+            "desc": "This course focuses on the interrelationships of the ecological, social, built, organizational and environments within the urban and regional setting. It provides a critical understanding of urban and regional environments along with a solutions-based approach to addressing urban and regional issues with an explicitly environmental perspective. With the Greater Toronto Area as a field laboratory, there will be an emphasis on application and involvement. \r\n\r\nPrerequisite: Second year standing or by permission of the course director. "
+        },
+        {
+            "dept": "envs",
+            "code": "2201",
+            "credit": 3.0,
+            "name": "Foundations of Urban Political Ecology",
+            "prereqs": "",
+            "desc": "This course examines urbanisation as a confluence of social, political, and ecological processes. Cities are conceptualized as embedded in nature and in turn shaping nature in myriad ways. Lectures, field trips, readings and discussion provide the framework for the understanding of natural processes and their interaction with cultural practices and social-political structures in the urban landscape. Different urban environments and design projects provide a framework of systemic inquiry, criticism and interpretation.\r\nPrerequisite:  Second year standing or by permission of the course director. "
+        },
+        {
+            "dept": "envs",
+            "code": "2327",
+            "credit": 3.0,
+            "name": "In/Humanities: Critical Perspectives on Environmental Justice",
+            "prereqs": "",
+            "desc": "This foundational, interdisciplinary course introduces students to critical perspectives on environmental justice based in history, art, literature, philosophy, and related humanistic social sciences. In addition to its substantive focus on cultural, conceptual, and historical dimensions of environmental in/justice, the course emphasizes the development of critical reading, thinking ,and writing skills"
+        },
+        {
+            "dept": "envs",
+            "code": "2403",
+            "credit": 3.0,
+            "name": "Solutions: Sustainability, Justice, Transitions",
+            "prereqs": "",
+            "desc": "There is no lack of solutions for environmental problems, including the most severe that we face. But how to evaluate which ones can generate the best outcomes? In this course, we think critically about proposed solutions: Who is proposing them, who benefits, and who might have to pay for implementation? What approaches to the Transition might help us assess opportunities and obstacles to change?\r\n\r\n"
+        },
+        {
+            "dept": "envs",
+            "code": "2410",
+            "credit": 3.0,
+            "name": "Environmental Governance and Policy: Ideas, Interests and Institutions ",
+            "prereqs": "",
+            "desc": "This course examines the development and implementation of public policies related to the environment and sustainability. The course will focus on the interaction of institutions, societal forces, ideas and landscape factors in the Canadian environmental policy experience."
+        },
+        {
+            "dept": "envs",
+            "code": "2420",
+            "credit": 3.0,
+            "name": "Ecology and Conservation Science",
+            "prereqs": "envs1500 envs1500",
+            "desc": "This course presents the main scientific concepts, principles and approaches of ecology and conservation science that are applicable to environmental problems frequently encountered in Environmental Studies. Topics include diagnosing species declines, conservation genetics, ecology of invasive species, habitat fragmentation, protected areas and urban wildlife.\r\nPrerequisite: EU/ENVS 1500 3.0 or ES/ENVS 1500 6.0 or SC/ BIOL 1001 3.0"
+        },
+        {
+            "dept": "envs",
+            "code": "2510",
+            "credit": 3.0,
+            "name": "Economics for the Anthropocene ",
+            "prereqs": "",
+            "desc": "The application of economic principles to environmental issues is introduced and critically reviewed. Linkages between economic factors, social processes and natural environments are explored. The use of economic principles in deriving solutions to issues of climate change, resource management, and environmental regulation is examined. This course is intended for students with no background in economics."
+        },
+        {
+            "dept": "envs",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Qualitative Methods in Environmental Studies",
+            "prereqs": "",
+            "desc": "After comparing qualitative and quantitative research methods and their respective philosophical foundations and assessing their compatibility, students will examine various survey of qualitative research which will include conventional methods such as participant observation field research; participatory action research; arts-based research; Indigenous, feminist and anti-oppressive methods. Prerequisite: Third-year or fourth- year standing or by permission of the instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Environmental Arts and Media: Skills, Methods, and  Action",
+            "prereqs": "envs1800 envs2000",
+            "desc": "This course is designed to provide students with a more solid grounding in the creative, practical, political, and technical aspects of different genres of environmental arts, particularly in the improvement of applied writing skills more broadly for Environmental Studies.This course builds on understandings and skills in different modes of environmental arts and media introduced in EU/ENVS 1800 6.00 and EU/ENVS 2000 6.00.   Prerequisite: Third-year or fourth- year standing or by permission of the instructor.\r\n\r\nPrior to FALL 2020: EU/ENVS 3100 3.00 builds on ES/ENVS 1800 6.00 and ES/ENVS 2000 6.00"
+        },
+        {
+            "dept": "envs",
+            "code": "3120",
+            "credit": 3.0,
+            "name": "Environmental History",
+            "prereqs": "",
+            "desc": "Examines the culture-environment relationship in historical perspective. The focus is on ways in which social change is triggered by environmental change and vice-versa. Case studies illustrate general patterns of change, such as those associated with the introduction of alien species, new modes of agricultural production. \r\n\r\nPrerequisite: Third-year or fourth- year standing or by permission of the instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "3122",
+            "credit": 3.0,
+            "name": "Create, Curate, Critique: Environmental Arts Workshop",
+            "prereqs": "",
+            "desc": "Students develop conceptual and practical skills for the production, presentation and evaluation of a project in environmental visual art and/or performance. Working with a practicing artist, students will be led through the production of creative work around a particular environmental theme (e.g. animal rights, overconsumption, climate justice). We will examine the work of other artists working on environmental issues, and learn about the processes of art creation, curation and criticism. The workshop will conclude with an exhibition of students' works. \r\nRequired for the Community Arts Practice Certificate.\r\n\r\n"
+        },
+        {
+            "dept": "envs",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Energy and the Environment in Canada",
+            "prereqs": "envs2400 envs2400",
+            "desc": "The course focuses on relation-ships between socio-economic development, energy use, and the environment in Canada. Energy sources, energy end use, energy technology, and energy institutions as well as the social and ecological impacts of energy use are examined. Energy systems supportive of sustainable development are explored.  Prerequisite: EU/ENVS 2400 6.00 or permission of Instructor.\r\n\r\nPrior to FALL 2020: ES/ENVS 2400 6.00"
+        },
+        {
+            "dept": "envs",
+            "code": "3160",
+            "credit": 3.0,
+            "name": "Race/Racism and Environmental Justice",
+            "prereqs": "",
+            "desc": "Examines the intersection of &quot;race&quot;/racism and environmentalism. It begins from the premise that environmental issues are always already racialized. Issues as diverse as toxic facility siting, environmental assessment practices, ecological philosophies, and popular nature representations (re)produce powerful assumptions that turn on racist/ racialized constructs. Discussion may include: the history and current practices of environmental justice movements; questions of race and representation in green politics; the significance of environmentalism's silence about race; cross-cultural and anti-racist environmental politics; and postcolonial perspectives on global environmental issues.\r\n\r\nPrerequisite: Third-year or fourth- year standing or by permission of the instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "3226",
+            "credit": 3.0,
+            "name": "Sustainable Urbanism: Environmental Planning and Design",
+            "prereqs": "",
+            "desc": "Planning and design of sustainable human environments is explored in this course. Consideration of the ecological, social and economic impacts of past and present and alternative future settlement patterns and processes provides the context for discussion. The focus of study is the GTA, although international examples will be used.  This course builds on EU/ENVS 2200 6.00 which is recommended. \r\nPrior to FALL 2020: EU/ENVS 3226 3.00 builds on ES/ENVS 2200.6.00 \r\n\r\nPrerequisite: Third-year or fourth- year standing or by permission of the instructor. "
+        },
+        {
+            "dept": "envs",
+            "code": "3227",
+            "credit": 3.0,
+            "name": "Urban planning and politics in the Global South",
+            "prereqs": "",
+            "desc": "Examines urban planning practice. It examines the origins and evolution of urban planning taking into account political, social, economic, and cultural circumstances by examining case studies from the phenomenon of planetary urbanization. \r\n\r\nPrerequisite: Third-year or fourth- year standing or by permission of the instructor. "
+        },
+        {
+            "dept": "envs",
+            "code": "3303",
+            "credit": 3.0,
+            "name": "Decolonization, Environment and the Arts",
+            "prereqs": "",
+            "desc": "Students explore the ways in which performers, artists and writers have imagined decolonizing themselves, their societies and environments across a range of geographic, historical and contemporary sites. Students develop the skills and knowledges to name and debate key concepts emerging from the art and literature of environmental decolonization. They research and analyze examples of visual art, literature and performance and evaluate the contradictory processes behind their production, reception, distribution and exchange in the context of global structures and systems. Drawing on these examples and working with experiential processes students develop, present and evaluate their own decolonial arts projects."
+        },
+        {
+            "dept": "envs",
+            "code": "3340",
+            "credit": 3.0,
+            "name": "Global Environmental Politics",
+            "prereqs": "",
+            "desc": "Examines the interrelationship between globalization and environment. It analyzes the historical development of the global environmental system and theoretical approaches to understanding the global environment. It considers the main actors, institutions and legal instruments related to global environmental issues. The environmental impacts of, and political responses to, such phenomena as global warming, trade, structural adjustment, transnational corporate activity, foreign aid, environmental security, and biodiversity depletion are studied. \r\n\r\nPrerequisite: Third-year or fourth- year standing or by permission of the instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Introduction to Climate Change Science and Policy",
+            "prereqs": "",
+            "desc": "This course is intended to provide a critical overview of the field with particular attention paid to emerging trends in science and planning systems. Description of the theoretical underpinnings of planning, the application and development of Decision Support Systems, as well as the introduction of case studies, will provide students with the background needed to deal with the particularities of regional planning issues of climate change adaptation(CCA). This course builds on EU/ENVS 1500 6.00 and EU/ENVS 2420 3.00 or EU/ENVS 3402 3.00\r\nPrior to FALL 2020:  ES/ENVS 1500 6.00 and ES/ENVS 2420 3.00 or ES/ENVS 3402 3.00 \r\n\r\nPrerequisite: Third-year or fourth- year standing or by permission of the instructor. "
+        },
+        {
+            "dept": "envs",
+            "code": "3401",
+            "credit": 3.0,
+            "name": "The Science of Pollution: Impacts on the Environment and Human Health",
+            "prereqs": "envs1500 geog1400 biol1000 biol1001 envs1500 geog1400",
+            "desc": "Introduces students to the major scientific concepts and principles that govern the origin, fate and effect of pollutants in the environment. Topics include fossil fuel and alternative energy sources, atmospheric pollution, heavy metal and pesticide toxicology, organic sewage, and endocrine disrupters. Further objectives of this course are to develop students' ability to analyze, manipulate, present and interpret scientific data and to develop the student's ability to review and critique scientific reports on scientific problems. \r\n\r\nPrerequisite: EU/ENVS 1500 6.00 or EU/SC/GEOG 1400 6.00 or SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00. Prior to FALL 2020: ES/ENVS 1500 6.00 or AP/GEOG 1400 6.00\r\n\r\nCourse Credit Exclusions: ES/ENVS 2410 3.00 The Science of Pollution"
+        },
+        {
+            "dept": "envs",
+            "code": "3405",
+            "credit": 3.0,
+            "name": "Ecosystem Services",
+            "prereqs": "",
+            "desc": "This course reviews the benefits to humans from the ecosystem services provided by natural resources and ecosystem processes. The resiliency of functioning ecosystems and healthy socio-ecological relationships will be discussed. Current theories of resource management, methods, information and decision-making are reviewed critically. Ethical, cultural, social and economic perspectives on natural resource and ecosystem management are explored through case studies. "
+        },
+        {
+            "dept": "envs",
+            "code": "3430",
+            "credit": 3.0,
+            "name": "Environmental Assessment",
+            "prereqs": "",
+            "desc": "Provides a critical overview of the theory and practice of environmental assessment (EA). Course objectives include gaining familiarity with the fundamentals of EA; exploring substantive and process-oriented issues through case studies; and practising methods and techniques. EA is examined broadly as a management and decision-support tool with applications at the project, planning and policy levels.\r\n\r\nPrerequisite: Third- year or fourth-year standing or by permission of the Instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "3505",
+            "credit": 3.0,
+            "name": "Business and Sustainability: Issues and Strategies",
+            "prereqs": "",
+            "desc": "An introduction to key dimensions of business and sustainability including: what is sustainability?; &quot;values-driven&quot; business models and practices; eco-production in key economic sectors (food, manufacturing, energy, building); financing sustainability; indicators of sustainability; green regulation; and green business strategies. \r\n\r\nPrerequisite: Third- year or fourth-year standing or by permission of the Instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "3511",
+            "credit": 3.0,
+            "name": "Ecological Economics",
+            "prereqs": "",
+            "desc": "This course provides an introduction to the emerging new field of ecological economics.  Areas of focus include &quot;local economies&quot; and the appropriate scale of the economy in relation to the environment, the role of discount rates in mediating intergenerational and interspecies equity, environmental valuation, full-cost accounting, environmental risk assessment, alterative environmental policies, and the application of thermodynamic and ecological principles in economic analysis."
+        },
+        {
+            "dept": "envs",
+            "code": "3891",
+            "credit": 3.0,
+            "name": "The Nature of Cities: The History of Urban Environments in North America",
+            "prereqs": "",
+            "desc": "Urbanization is the predominant form of human settlement in Canada and the United States. Over the course of the nineteenth- and twentieth-centuries, a majority of North Americans came to live in ever more populous cities. This course will examine the environmental consequences of urban development in North America from the end of the eighteenth-century to the twenty-first century.\r\nCourse credit exclusions: AP/GEOG 3040 3.00."
+        },
+        {
+            "dept": "envs",
+            "code": "3900",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Directed reading and directed study courses are intended for enrolment by students whose first major is Environmental Studies and who wish to pursue an intensive individual work with a particular Faculty of Environmental and Urban Change faculty member on a specific topic of study.   Note: This course does not fulfill Area of Concentration requirements.  \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Directed reading and directed study courses are intended for enrolment by students whose first major is Environmental Studies and who wish to pursue an intensive individual work with a particular Faculty of Environmental and Urban Change faculty member on a specific topic of study. Note: This course does not fulfill Area of Concentration requirements. "
+        },
+        {
+            "dept": "envs",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Environmental Science in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Environmental Studies in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Environmental Studies in the intermediate and senior grades. \nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "envs",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Senior Honours Work Seminar",
+            "prereqs": "envs3010 envs2009 envs3010 envs2009",
+            "desc": "Students work directly with a faculty member in the Faculty of Environmental and Urban Change to develop a collaborative project around select themes led by a faculty member's research interests. Students will develop a proposal with a faculty member matched to their program interests. Research includes multiple approaches and outcomes within two broad categories: 1) Major Paper (research paper, synthesis paper, literature review, content analysis, literary work, etc.). 2) Major Project (workshops, cultural productions, studio, field project etc.). Prerequisites: Students must successfully complete EU/ENVS 3010 3.00; or EU/ENVS 2009 3.00; attended a spring workshop for SHW; and have a B+ (7.00) cumulative GPA at the end of their third-year; or permission of the Undergraduate Program Director.\r\n\r\nPrior to FALL 2020: ES/ENVS 3010 3.00; or ES/ENVS 2009 3.00"
+        },
+        {
+            "dept": "envs",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Field Placement Course",
+            "prereqs": "",
+            "desc": "The Environmental Studies placement course is an experiential education program designed to provide EUC students with the opportunity to apply their classroom learning in a workplace environment. Through these placement opportunities, students will gain confidence in field-related knowledge, general employability skills, and valuable work experience. Students must fulfill pre-course requirements in order to enroll in the course. Enrolment will be by permission of the Course Director and students will be graded on a pass/fail. The course is required for completion of the Community Arts Practice Certificate (CAP)\r\nPrerequisites: Third-year  Honours students (6.00 CGAP or better ) and students in the Bachelors program (4.50 CGPA ENST or CAP declared student with"
+        },
+        {
+            "dept": "envs",
+            "code": "4001",
+            "credit": 6.0,
+            "name": "Field Placement Course",
+            "prereqs": "",
+            "desc": "The placement course is an experiential education program designed to provide EUC students with the opportunity to apply their classroom learning in a workplace environment. Through these placement opportunities, students will gain confidence in field-related knowledge, general employability skills, and valuable work experience. Students must fulfill pre-course requirements in order to enroll in the course. Enrolment will be by permission of the Course Director and students will be graded on a pass/fail. The course is required for completion of the Community Arts Practice Certificate (CAP).\r\nPrerequisites: Third-year  Honours students (6.00 CGAP or better ) and students in the Bachelors program (4.50 CGPA ENST or CAP declared student with"
+        },
+        {
+            "dept": "envs",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Environmental Science in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Environmental Studies in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Environmental Studies areas in order to further develop students' expertise for teaching this subject. ED/ENVS 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "envs",
+            "code": "4003",
+            "credit": 6.0,
+            "name": "Inter-disciplinary Capstone Project (C4)",
+            "prereqs": "",
+            "desc": "The Interdisciplinary Capstone Project course (also known as C4: Cross-Campus Capstone Classroom) brings together upper-year undergraduate and Master level students from faculties across the university to work together in multi-disciplinary teams on pressing, &quot;real-world&quot; challenges, which are posed by organizations operating in both the for-profit and not-for-profit worlds. They research, design, test and reflect on potential solutions to their challenge that build on their existing skills and knowledge within their disciplines.\r\nPre-requisite:  Completion of 60- 90 credits and in student's final year of study for either the Bachelor's or Honours degree. \r\n"
+        },
+        {
+            "dept": "envs",
+            "code": "4011",
+            "credit": 3.0,
+            "name": "Food, Land and Culture",
+            "prereqs": "",
+            "desc": "Examines food, land, and culture from a critical interdisciplinary environmental perspective. Students have the opportunity to pursue their own interests related to food politics, planning, sustainable and alternative agriculture, human-animal relationships and ethics, from a local and or global perspective. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Conservation Biology",
+            "prereqs": "biol2050 biol2060",
+            "desc": "Explores the role of biological science in efforts to conserve natural resources, systems and the organisms therein. Prerequisites: SC/BIOL 2050 4.00, SC/BIOL 2060 3.00."
+        },
+        {
+            "dept": "envs",
+            "code": "4111",
+            "credit": 3.0,
+            "name": "Biodiversity",
+            "prereqs": "",
+            "desc": "We do not know the number of species on Earth, even to the nearest order of magnitude. This course discusses the factors that influence the number of species in an area and the importance of biodiversity to humanity. Note: Completion of 60 credits required, towards a degree in biology or environmental science or environmental studies, or permission of the Instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "4122",
+            "credit": 3.0,
+            "name": "Arts in Action: Pedagogy, Ethics and Praxis",
+            "prereqs": "envs2122 envs2122",
+            "desc": "The seminar provides a space to explore opportunities and challenges that arise when working on art and media productions with community organizations, or when exploring approaches to arts for education and advocacy around environmental and social issues. Students in the Cultural and Artistic Practices certificate program (CAP) reflect on key ethical, pedagogical, and creative issues that emerge during their practicum while non-CAP students reflect on other community arts projects.\r\n\r\nPrerequisite: EU/ENVS 2122 3.00 or by permission of the instructor.   Prior to Fall 2020: ES/ENVS 2122 3.00 or by permission of the instructor. \r\n"
+        },
+        {
+            "dept": "envs",
+            "code": "4215",
+            "credit": 3.0,
+            "name": "Globalization and Indigenous Peoples",
+            "prereqs": "",
+            "desc": "Indigenous peoples are distinct communities who have experienced the processes of globalization in particular ways. This course reviews the global historical processes of imperialism and colonialism and their legacies of racism, assimilation and marginalization. The course then examines Indigenous peoples' resistance to globalization and engagement with global networks and institutions, in order to protect their cultures and assert their rights. \r\n\r\nNOTE; This course will be offered as part of the Semester Abroad Programs in Costa Rica. Students are admitted through a selection process. Additional fees are required to cover the trip to Costa Rica. Final cost to be determined.\r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty. "
+        },
+        {
+            "dept": "envs",
+            "code": "4220",
+            "credit": 3.0,
+            "name": "Urbanization in the Global South",
+            "prereqs": "",
+            "desc": "The key issues of cities in the Third World are addressed, including squatter settlements, rural-urban migration, urban agriculture, housing, urban transport, basic services (water, sanitation, waste management, health and education), urban governance, socio-cultural diversity, and urban environmental planning. Case studies demonstrate public policies and their link to socio-economic, cultural and environmental issues. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4221",
+            "credit": 3.0,
+            "name": "Urban Consulting Practice",
+            "prereqs": "",
+            "desc": "This course presents a systematic hands-on approach to urban planning and consulting practice. This includes experiential learning in\r\ninstitutional planning, social activism and community consultation in a variety of relevant settings in Toronto and region. Consulting as a professional practice, organizing, negotiation and activism will be presented on a register of skill development useful for future urban planners and professionals."
+        },
+        {
+            "dept": "envs",
+            "code": "4223",
+            "credit": 3.0,
+            "name": "Global Cities",
+            "prereqs": "",
+            "desc": "An introduction to the literature on global cities and a systematic review of a distinct field of research in urban studies which concerns itself with the globalization of a network of global or world cities.\r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4227",
+            "credit": 3.0,
+            "name": "Urban Environmental Risk and Resilience",
+            "prereqs": "",
+            "desc": "In a world of climate change and pervasive urbanization, systemic risks lead to cascading, compounding and nonlinear effects in cities and communities everywhere. This course will introduce theories and practices of increasing exposure to and community resilience to fires, floods, pandemics and similar events that urban regions face today.\r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Extraction and its Discontents",
+            "prereqs": "",
+            "desc": "This course examines current political, economic and social debates concerning extractive industry, placing these in the context of longer histories of global imperialism and colonialism. Following a review of conceptual approaches to natural resource `extraction`, the course will examine contemporary global regulation and resistance to it, focusing upon the state, the corporation, the resource, the affected community, and the (global) social movement as units of analysis.\r\n\r\nCourse Credit Exclusion: ES/ENVS 4310 3.0 Extraction and its Discontents: A Social History and Political Economy\r\n\r\nPre-Requisite: Fourth year standing or by permission of the instructor.  Students with Third year standing may have access subject to space availability and approval from the Faculty.\r\n\r\n"
+        },
+        {
+            "dept": "envs",
+            "code": "4311",
+            "credit": 3.0,
+            "name": "Indigenous Environmental Justice",
+            "prereqs": "",
+            "desc": "Indigenous Environmental Justice (IEJ) explores ways in which Indigenous peoples occupy a unique position in terms of historical, political and legal context, and that this requires specific recognition of their goals and aspirations.  This course introduces students to the IEJ paradigms that are informed by Indigenous intellectual traditions, knowledge systems, governance, and laws.\r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4351",
+            "credit": 3.0,
+            "name": "Peasant Studies in the Global South: Peasants, Food, Nature and Wellbeing",
+            "prereqs": "",
+            "desc": "We will study peasants from Feudalism and the dawn of Capitalism, to the era of Globalization and the Digital Revolution, exploring their political, economic, social and environmental roles from diverse theoretical perspectives, analyzing their resistance/resilience, their social movements, their potential regarding food security and food sovereignty, and their proposals confronting the multiple crises of Capitalism and the Anthropocene. Prerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Principles of renewable energy: theory, policy and practice",
+            "prereqs": "",
+            "desc": "The course is designed to provide students with a critical understanding of key renewable energy options for electricity generation, heating and cooling of buildings and transportation. Students will be introduced to a critical analysis of renewable energy as a strategy for climate change mitigation, community empowerment, industrial development, and energy security. This course builds on EU/ENVS 3130 3.00. PRIOR TO FALL 2020: ES/ENVS 3130 3.00 \r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4401",
+            "credit": 3.0,
+            "name": "Fundamentals of Energy Efficiency: Theory, Policy and Practice in a Canadian Context",
+            "prereqs": "",
+            "desc": "This course is designed to allow students to explore the policy and technical dimensions of energy efficiency and energy conservation in greater depth, with particular focus on potential contributions to sustainability of energy systems and climate change mitigation in a Canadian context. This course builds on EU/ENVS 3130 3.00.   PRIOR TO FALL 2020: ES/ENVS 3130 3.00 \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4420",
+            "credit": 3.0,
+            "name": "Environment Online",
+            "prereqs": "",
+            "desc": "Media and communication technologies both shape and are shaped by cultural constructs, institutions and practices. This course will examine how the environment is framed and contested through dominant and alternative media, applying critical media, communication, and cultural studies theories (such as political economy, textual analysis, and audience reception). A variety of media forms will be explored (print and broadcast, photography and video, Web-based and digital media, spoken word and performance etc.) through active critique and creative cultural production.     Prerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4421",
+            "credit": 3.0,
+            "name": "Environmental Law &amp; Justice: Stories and Struggles",
+            "prereqs": "",
+            "desc": "Examines and evaluates how contemporary advocates employ law to protect the environment, secure equal access to environmental health, and contribute to social justice. This course builds on EU/ENVS 3420 3.00, which is recommended. PRIOR TO FALL 2020: ES/ENVS 3420 3.00\r\n \r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4430",
+            "credit": 3.0,
+            "name": "Impact  Assessment Process &amp; Practice",
+            "prereqs": "envs3430 envs3430",
+            "desc": "The current processes and practices of environmental and social impact assessment are critically reviewed through case studies. Emerging conceptual and methodological issues in the field are explored in the context of actual practice situations.  Prerequisites: EU/ENVS 3430 3.00, and fourth- year standing or permission of the Instructor.\r\nPRIOR TO FALL 2020: ES/ENVS 3430 3.00"
+        },
+        {
+            "dept": "envs",
+            "code": "4440",
+            "credit": 3.0,
+            "name": "Environmental Disasters",
+            "prereqs": "",
+            "desc": "The overall objective of this course is to gain an understanding of the causes and responses to natural and technological disasters. An in-depth examination of various case studies of disasters will be used to illustrate the principles involved. Topics include the history of disaster research, emergency management, normal accidents, and the psychosocial impacts of disasters. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4523",
+            "credit": 3.0,
+            "name": "Systems Thinking: How everything is connected to everything else, and what to do about it",
+            "prereqs": "",
+            "desc": "This course addresses fundamentals of general and complex systems thinking (such as general systems theory, complex adaptive systems, chaos theory) major paradigms in systems thinking (functionalist, interpretive, emancipatory, postmodern), and their associated methodologies and applications in environmental studies. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4750",
+            "credit": 3.0,
+            "name": "Political Ecology of Landscape",
+            "prereqs": "",
+            "desc": "This course is structured around a critical analysis of historical and theoretical issues related to natural and urban landscape. The emphasis of this course is on the development and transformation of landscapes as an expression of various social, cultural, physical, economic, political, artistic, technological, and ecological forces through space and time. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4800D",
+            "credit": 3.0,
+            "name": "Queer of Colour Art and Activism in the City",
+            "prereqs": "",
+            "desc": "This course explores the art and activism of queer and trans Black, Indigenous and people of colour in Toronto. In addition to studying a range of emergent theories and political interventions, students are invited to design an experiential, creative or community-based project. The course provides an in-depth case study of a successful movement for urban and environmental justice that offers important tools to dismantle nterlocking regimes of oppression, archive pasts that are often erased, map spaces of resistance, and prefigure the world we want to live in.\r\nPrerequisites: Fourth-year standing or by permission of the Instructor; Students with third- year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4800A",
+            "credit": 3.0,
+            "name": "Advanced Topics in Environment and Health",
+            "prereqs": "",
+            "desc": "This course focuses on topics related to environment and health. Possible focal topics are: community health; HIV &amp; globalization; ecosystem health; systems approaches to health; infectious diseases and global cities; health and environmental disasters; health and environmental justice; or toxic tort and community health. It is strongly recommended that students take EU/ENVS 3450 3.00 Environment and Health: Social and Political Dimensions.  PRIOR TO FALL 2020: ES/ENVS 3540 3.00\r\n\r\nNOTE: This course will be offered as part of the Semester Abroad Programs in Costa Rica. Students are admitted through a selection process. Additional fees are required to cover the trip to Costa Rica. Final cost to be determined.\r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4800Q",
+            "credit": 3.0,
+            "name": "Land and Urban Development",
+            "prereqs": "",
+            "desc": "Critical investigation of approaches to, and topics in, processes of urban growth, decline, development and redevelopment. 20th-century theories of urbanization are examined and their relevancy for understanding selected recent urban problems are studied. Prerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4800E",
+            "credit": 3.0,
+            "name": "The Black Atlantic and Environmental Justice",
+            "prereqs": "",
+            "desc": "The course explores the formation of the Black Atlantic as a conceptual and geographic space through texts, music, performance and visual art.  Starting with the trade in humans and the middle passage, and ending with contemporary environmental questions, students explore the inventiveness set in motion by communities of the black diaspora as they struggle for racial and environmental justice through a diversity of strategies, across time and space. They investigate the ways in which these efforts have transformed the West and discuss the ways in which they continue to do so. This course builds on ENVS 3160, Race/Racism and Environmental Justice.Prerequisites: Fourth-year standing or by permission of the Instructor; Students with third- year standing may have access subject to space availability and approval from the Faculty"
+        },
+        {
+            "dept": "envs",
+            "code": "4810A",
+            "credit": 3.0,
+            "name": "International Field Course: Conservation and Development for Social-Environmental Sustainability and Wellbeing in Costa Rica",
+            "prereqs": "",
+            "desc": "Formally Titled: International Field Course:Ecology and Sustainability in Costa RicaAdvanced study, through thorough literature review and direct field observation, of the theory and principles of ecology as these apply to sustainable development in tropical environments, specifically in Costa Rica. Students Expectation in Costa Rica: 4-6 hours per day hiking in the rain forest, some days maybe longer hours, at times in steep and/or rough terrain, including, sometimes, slippery slopes covered in mud, while it is raining. Hiking boots along with some outdoor experience, or at least a degree of physical and psychological stamina, will be required. The reason for these relatively long walks is to observe natural ecosystems that have evolved away from urban areas. Note: This course is only open to students who are selected to participate in International Field work. Course credit exclusion: ES/ENVS 3810A 3.00."
+        },
+        {
+            "dept": "envs",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Directed Study",
+            "prereqs": "",
+            "desc": "Directed reading and directed study courses are intended for enrolment by students whose first major is Environmental Studies and who wish to pursue an intensive individual work with a particular Faculty of Environmental and Urban Change faculty member on a specific topic of study.   Note: This course does not fulfill Area of Concentration requirements. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4900Z",
+            "credit": 3.0,
+            "name": "Directed Study",
+            "prereqs": "",
+            "desc": "Directed reading and directed study courses are intended for enrolment by students whose first major is Environmental Studies and who wish to pursue an intensive individual work with a particular Faculty of Environmental and Urban Change faculty member on a specific topic of study.   Note: This course does not fulfill Area of Concentration requirements. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4900",
+            "credit": 6.0,
+            "name": "Directed Study",
+            "prereqs": "",
+            "desc": "Directed reading and directed study courses are intended for enrolment by students whose first major is Environmental Studies and who wish to pursue an intensive individual work with a particular Faculty of Environmental and Urban Change faculty member on a specific topic of study.   Note: This course does not fulfill Area of Concentration requirements. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "4900Z",
+            "credit": 6.0,
+            "name": "Directed Study",
+            "prereqs": "",
+            "desc": "Directed reading and directed study courses are intended for enrolment by students whose first major is Environmental Studies and who wish to pursue an intensive individual work with a particular Faculty of Environmental and Urban Change faculty member on a specific topic of study.   Note: This course does not fulfill Area of Concentration requirements. \r\n\r\nPrerequisite: Fourth-year standing or by permission of the Instructor. Students with Third-year standing may have access subject to space availability and approval from the Faculty."
+        },
+        {
+            "dept": "envs",
+            "code": "5021",
+            "credit": 3.0,
+            "name": "Urban Development Processes",
+            "prereqs": "",
+            "desc": "Critical investigation of approaches to, and topics in, processes of urban growth, decline, development, and redevelopment.  Twentieth century theories of urbanization are examined and their relevancy for understanding selected recent urban problems are studied."
+        },
+        {
+            "dept": "envs",
+            "code": "5023",
+            "credit": 3.0,
+            "name": "Global Cities",
+            "prereqs": "",
+            "desc": "An introduction to the literature on global cities and a systematic review of a distinct field of research in urban studies which concerns itself with the globalization of a network of global or world cities. Course credit exclusion: GS/GEOG 5580 3.00."
+        },
+        {
+            "dept": "envs",
+            "code": "5050",
+            "credit": 3.0,
+            "name": "Fundamentals of Renewable Energy: Theory, Policy and Practice",
+            "prereqs": "",
+            "desc": "&quot;Provides students with a critical understanding of key renewable energy options for electricity generation, heating and cooling of buildings and transportation. Students will be introduced to a critical analysis of renewable energy as a strategy for climate change mitigation, community empowerment, industrial development, and energy security. Integrated with ENVS 4400. Exclusion: Students who already took ENVS 4400."
+        },
+        {
+            "dept": "envs",
+            "code": "5051",
+            "credit": 3.0,
+            "name": "Fundamentals in Energy Efficiency: Theory, Policy and Practice in the Canadian Context",
+            "prereqs": "",
+            "desc": "&quot;This course is designed to allow students to explore the policy and technical dimensions of energy efficiency and energy conservation in greater depth, with particular focus their potential contributions to the sustainability of energy systems and climate change mitigation in a Canadian context. Integrated with ENVS 4401. Exclusion: Students who already took ENVS 4401."
+        },
+        {
+            "dept": "envs",
+            "code": "5061",
+            "credit": 3.0,
+            "name": "Environmental Law and Justice",
+            "prereqs": "",
+            "desc": "Examines and evaluates how contemporary advocates employ law to protect the environment, secure equal access to environmental health, and contribute to social justice. Integrated with ENVS 4421. Exclusion: Students who already took ENVS 4421."
+        },
+        {
+            "dept": "envs",
+            "code": "5073",
+            "credit": 3.0,
+            "name": "New Social Movements, Activism and Social Change",
+            "prereqs": "",
+            "desc": "This course examines social movements that have arisen in response to racism, colonialism, capitalism, neoliberal multiculturalism, and urban and environmental injustice. The focus is theoretical, experiential and intersectional. Case studies will vary, including struggles against policing, gentrification and surveillance, and for public education, mutual aid, and queer and transgender spaces. The course encourages self-reflection and active engagement with the activist scholarship of marginalized subjects of social change."
+        },
+        {
+            "dept": "envs",
+            "code": "5081",
+            "credit": 3.0,
+            "name": "Systems Thinking in Environmental Studies",
+            "prereqs": "",
+            "desc": "This course addresses fundamentals of general and complex systems thinking (such as general systems theory, complex adaptive systems, chaos theory) major paradigms in systems thinking (functionalist, interpretive, emancipatory, postmodern), and their associated methodologies and applications in environmental studies. Integrated with ENVS 4523. Exclusion: Students who already took ENVS 4523. "
+        },
+        {
+            "dept": "envs",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Interdisciplinary Research in Environmental Studies",
+            "prereqs": "",
+            "desc": "Introduces incoming MES students to a broad range of debates and interdisciplinary perspectives in Environmental Studies as a basis for the preparation of the Initial Plan of Study."
+        },
+        {
+            "dept": "envs",
+            "code": "5103",
+            "credit": 3.0,
+            "name": "Nature and Society",
+            "prereqs": "",
+            "desc": "Examination of conceptions of nature found in the Western tradition.  A particular emphasis is placed on the role of cultural narratives, and notions of technology and time in shaping our conceptions of nature."
+        },
+        {
+            "dept": "envs",
+            "code": "5113",
+            "credit": 3.0,
+            "name": "Business Strategies for Sustainability",
+            "prereqs": "",
+            "desc": "All organizations impact the natural and social environment. However, it is only recently that sustainability has become a strategic issue for business and its managers. For increasing numbers of companies, sustainability is now an integrated part of organizational strategy formulation and implementation. Through a series of 'live cases', this course is designed to introduce students to the critical strategic and managerial issues in developing, implementing and adapting strategy to create environmental, social and economic value.\r\n\r\nPrerequisites: All 5100-series Required Foundations of Management Core Courses or with permission of the Instructor."
+        },
+        {
+            "dept": "envs",
+            "code": "5121",
+            "credit": 3.0,
+            "name": "Perspectives in Planning",
+            "prereqs": "",
+            "desc": "Explores the field of planning in its diverse forms of theory and practice. Focus is on overarching aspects of planning theory and practice and selected themes of significance to planning in the Greater Toronto Area. By permission of OSAS."
+        },
+        {
+            "dept": "envs",
+            "code": "5178",
+            "credit": 3.0,
+            "name": "Environmental Policy: Institutions, Ideas and Interests",
+            "prereqs": "",
+            "desc": "&quot;Examines the development and implementation of public policies related to the environment and sustainability in a Canadian context. The course focuses on the interaction of institutions, societal forces and ideas in the Canadian environmental policy experience."
+        },
+        {
+            "dept": "envs",
+            "code": "5191",
+            "credit": 3.0,
+            "name": "&quot;Ethics and Spirit: Introduction to Philosophy, Religions and the Environment",
+            "prereqs": "",
+            "desc": "&quot;This course is an introduction to environmental philosophy, with a special focus on religious and spiritual traditions. The main emphasis is on the major ethical traditions including environmental ethics, but concepts of Nature, power, the body, and animal/human relations will also be of concern."
+        },
+        {
+            "dept": "envs",
+            "code": "5543",
+            "credit": 3.0,
+            "name": "Nature and Society in the Industrial World: Global Environmental History since Industrialization",
+            "prereqs": "",
+            "desc": "This course examines the relationships between people and their environments from the mid-nineteenth century to the early twenty-first century. It considers the global ecological consequences of industrialization and the growing human footprint on Earth from a historical perspective, drawing from the field of environmental history."
+        },
+        {
+            "dept": "envs",
+            "code": "6101A",
+            "credit": 3.0,
+            "name": "Special Topic;Selected Issues in Waste Management",
+            "prereqs": "",
+            "desc": "n/a"
+        },
+        {
+            "dept": "envs",
+            "code": "6102",
+            "credit": 3.0,
+            "name": "MES Research Proposal",
+            "prereqs": "",
+            "desc": "This course assists students in the transition from MES II to MES III, with emphasis on the design of the substantive and integrative experiences to be undertaken in MES III (including expectations of the Major Project, Major Paper, or Thesis) and the ways that students may demonstrate \u0093mastery\u0094 of the subject matter."
+        },
+        {
+            "dept": "envs",
+            "code": "6115",
+            "credit": 3.0,
+            "name": "Ecological Economics",
+            "prereqs": "",
+            "desc": "Exploration in the emerging field of ecological economics, including discussion of: the optimal scale of the economy in relation to the environment, environmental valuation, measurement, risk, and discounting; intergenerational and interspecies equity; entropy/ thermodynamics; and community-based economics."
+        },
+        {
+            "dept": "envs",
+            "code": "6119",
+            "credit": 3.0,
+            "name": "Environmental Resource Management",
+            "prereqs": "",
+            "desc": "Examination of the principles of environmental resource management and conservation, with emphasis on integrating ecological/physical, economic, and social/ethical considerations in contemporary problems in environmental resource management."
+        },
+        {
+            "dept": "envs",
+            "code": "6124",
+            "credit": 3.0,
+            "name": "Urban-Regional Planning: International and Comparative Perspectives",
+            "prereqs": "",
+            "desc": "Introduction to planning for urban centres and regions.  Emphasis is on the history of urban  regional planning thought and practice, key planning models and concepts, the planning process, and plan implementation"
+        },
+        {
+            "dept": "envs",
+            "code": "6126",
+            "credit": 3.0,
+            "name": "Community Planning and Housing",
+            "prereqs": "",
+            "desc": "Explores the evolving nature of community planning and the linkages among planning, housing policy and programs, and planning for the provision of social services and infrastructure in a multicultural society."
+        },
+        {
+            "dept": "envs",
+            "code": "6127",
+            "credit": 3.0,
+            "name": "Community Organizing and Development",
+            "prereqs": "",
+            "desc": "An overview of the practice and theory of community development/ community organizing approaches as strategies for improving the quality of life for marginalized groups in Canadian urban society and as a method for increasing the levels of social justice."
+        },
+        {
+            "dept": "envs",
+            "code": "6131",
+            "credit": 3.0,
+            "name": "Environmental Planning",
+            "prereqs": "",
+            "desc": "Focus is on planned approaches to identifying and resolving environmental problems encountered in human settlements.  Consideration is given to the location, form, pattern and functioning of human communities in relation to the natural environment, as well as to the livability and quality of built environments."
+        },
+        {
+            "dept": "envs",
+            "code": "6132",
+            "credit": 3.0,
+            "name": "Urban Environmental Design",
+            "prereqs": "",
+            "desc": "Examines the role of urban design in creating healthy and equitable urban environments. Social, ecological and economic considerations shaping the urban landscape are studied and provide a basis for a proactive and informed approach to its design."
+        },
+        {
+            "dept": "envs",
+            "code": "6134",
+            "credit": 3.0,
+            "name": "Critical Urban Theory: Epistemologies and Politics",
+            "prereqs": "",
+            "desc": "Examines the critical urban theories and theoretical debates that have informed research questions and political orientations in the field of urban studies since the 1960s. Readings include major texts from feminist, post-structural/colonial and Marxist approaches, and debates over the changing natures of local states, political organizations and justice, generated both in Western and non-Western urban contexts. Students are expected to develop faculties of comparing and critically assessing different theoretical approaches."
+        },
+        {
+            "dept": "envs",
+            "code": "6141",
+            "credit": 3.0,
+            "name": "Education, Sustainability and the Ecological Crisis",
+            "prereqs": "",
+            "desc": "Examines the deep cultural dimensions of the ecological crisis and considers the implications for public education. Discussing pre-contact indigenous models of education, the course examines education`s role in developing mind and landscape. Historical sustainability and contemporary environmental, social and educational malaise will be studied. We conclude envisioning education to create sustainable culture. "
+        },
+        {
+            "dept": "envs",
+            "code": "6150",
+            "credit": 3.0,
+            "name": "Popular Education for Social Change",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "envs",
+            "code": "6158",
+            "credit": 3.0,
+            "name": "Leadership in Social Sector Management",
+            "prereqs": "",
+            "desc": "This course discusses contemporary challenges facing leaders in the social sector in both Canadian and international contexts. The course is suitable for those who wish to develop leadership skills as either a senior manager or a board member. The course is team-taught, involves sectoral speakers and live cases, and offers flexibility in assignments.\r\n\r\nPrerequisites: All 5100-series Required Foundations of Management Core Courses.\r\n\r\n"
+        },
+        {
+            "dept": "envs",
+            "code": "6165",
+            "credit": 3.0,
+            "name": "Land Use Planning Law",
+            "prereqs": "",
+            "desc": "Examination of law relating to planning and development, with emphasis on the Canadian context. Topics include land use, real estate, urban and regional planning."
+        },
+        {
+            "dept": "envs",
+            "code": "6172",
+            "credit": 3.0,
+            "name": "Food Policy Development in Canada",
+            "prereqs": "",
+            "desc": "Explores the theories, concepts and conundrums of food policy development in Canada. There is currently no national food policy, so the course examines policy and program options to create a sustainable, equitable and health promoting food system for Canada"
+        },
+        {
+            "dept": "envs",
+            "code": "6173",
+            "credit": 3.0,
+            "name": "Politics and Planning",
+            "prereqs": "",
+            "desc": "Planning and politics are considered along a number of dimensions: the ideologies of planning; the role of planning as a selective filter of values and interests in civil society and the local state; planning as a mediator of conflicts between concepts of urban places as \u0091economic space' and \u0091community space'; planning as the mediating agency of urban growth and decline."
+        },
+        {
+            "dept": "envs",
+            "code": "6175",
+            "credit": 3.0,
+            "name": "Global Environmental Politics",
+            "prereqs": "",
+            "desc": "Advanced exploration of the linkages between the global political system and the world's natural environment.  In particular, the course addresses: history of conceptions of the environment as a political issue in the global arena; theories of international conflict and cooperation with respect to the natural environment; interactions between the current global political economy and the environment; and empirical investigation of key issue areas which illustrate the above concepts."
+        },
+        {
+            "dept": "envs",
+            "code": "6179",
+            "credit": 3.0,
+            "name": "Climate Change: Science and Policy",
+            "prereqs": "",
+            "desc": "The purpose of this course is to help students develop a thorough understanding of the causes of climate change and its key policy solutions. The course also aims at providing opportunities to implement practical actions to address the problem."
+        },
+        {
+            "dept": "envs",
+            "code": "6182",
+            "credit": 3.0,
+            "name": "Environmental Analytics:  Data, Models and Methods",
+            "prereqs": "",
+            "desc": "&quot;The application of analytics including optimization, simulation, regression, and time series analysis, to problems in environmental studies such as food systems, political change, emergency response systems, and homeless shelter policy. Solutions will be implemented in spreadsheets and statistical software (Excel and R)."
+        },
+        {
+            "dept": "envs",
+            "code": "6183",
+            "credit": 3.0,
+            "name": "Qualitative Research Methods",
+            "prereqs": "",
+            "desc": "Examination of the various phases of carrying out research in the field: planning the research project; choosing appropriate methods for data collection; analyzing data and communicating results of research. Emphasis is on analysis and reporting of questionnaire and qualitative data."
+        },
+        {
+            "dept": "envs",
+            "code": "6186",
+            "credit": 3.0,
+            "name": "Environmental Assessment",
+            "prereqs": "",
+            "desc": "The purpose of this course is to provide a critical overview of the theory, practice and key issues pertaining to environmental assessment. Emphasis will be placed on the Canadian context. The objectives include: a) gaining familiarity with the fundamentals of environmental assessment; b) exploring issues pertaining to the practice of environmental assessment; c) exploring substantive issues that may be addressed through environmental assessment; and d) briefly exploring methods and techniques of environmental assessment."
+        },
+        {
+            "dept": "envs",
+            "code": "6191",
+            "credit": 3.0,
+            "name": "Management Practices for Sustainable Business",
+            "prereqs": "",
+            "desc": "This course situates corporate activity within the wider context of Sustainability. In particular, it provides an overview of important management \r\ntrends, tools and frameworks for integrating environmentally and socially progressive practices into organizational practice. The course also helps understand the interactions between stakeholders and the inherent issues related to their conflicting demands. "
+        },
+        {
+            "dept": "envs",
+            "code": "6330",
+            "credit": 3.0,
+            "name": "Environmental Planning Workshop",
+            "prereqs": "",
+            "desc": "The workshop examines the context and debates surrounding the environmental future of the Greater Toronto Area in which we live, work, study, and play. The purpose is to allow students an opportunity to observe, critically analyse, and develop environmental plans within an applied setting."
+        },
+        {
+            "dept": "envs",
+            "code": "6331",
+            "credit": 3.0,
+            "name": "Planning in Toronto Workshop",
+            "prereqs": "",
+            "desc": "This project-based course examines current planning and development practices in Toronto. Students learn about complex problems that planners typically need to resolve when dealing with significant development projects in major North American cities."
+        },
+        {
+            "dept": "envs",
+            "code": "6401",
+            "credit": 3.0,
+            "name": "Disasters: Concepts and Causes",
+            "prereqs": "",
+            "desc": "This course examines natural disasters from an interdisciplinary point of view, particularly considering why there seem to be more natural disasters, and how and why decisions made by people create vulnerable communities. \r\n"
+        },
+        {
+            "dept": "envs",
+            "code": "6401",
+            "credit": 3.0,
+            "name": "Disasters: Concepts and Causes",
+            "prereqs": "",
+            "desc": "Examines natural disasters from an interdisciplinary point of view, particularly considering why there seem to be more natural disasters, and how and why decisions made by people create vulnerable communities. Crosslisted DEMS 5020."
+        },
+        {
+            "dept": "envs",
+            "code": "6599",
+            "credit": 3.0,
+            "name": "Individual Directed Study",
+            "prereqs": "",
+            "desc": "Individual study activities in subject areas not addressed in current Environmental Studies course offerings, devised and carried out under the supervision of a faculty member and arranged to suit the requirements of the student\u0092s individual Plan of Study. Normally intended for students at the MES II level. Maximum 18 credits per program"
+        },
+        {
+            "dept": "envs",
+            "code": "6599",
+            "credit": 6.0,
+            "name": "Individual Directed Study",
+            "prereqs": "",
+            "desc": "Individual study activities in subject areas not addressed in current Environmental Studies course offerings, devised and carried out under the supervision of a faculty member and arranged to suit the requirements of the student\u0092s individual Plan of Study. Normally intended for students at the MES II level. Maximum 18 credits per program"
+        },
+        {
+            "dept": "envs",
+            "code": "6599A",
+            "credit": 3.0,
+            "name": "Individual Directed Study",
+            "prereqs": "",
+            "desc": "Individual study activities in subject areas not addressed in current Environmental Studies course offerings, devised and carried out under the supervision of a faculty member and arranged to suit the requirements of the student\u0092s individual Plan of Study. Normally intended for students at the MES II level. Maximum 18 credits per program"
+        },
+        {
+            "dept": "envs",
+            "code": "6699",
+            "credit": 9.0,
+            "name": "Experiential Learning",
+            "prereqs": "",
+            "desc": "Individual study activities in subject areas not addressed in current Environmental Studies course offerings, devised and carried out under the supervision of a faculty member and arranged to suit the requirements of the student\u0092s individual Plan of Study. Normally intended for students at the MES II level. Maximum 18 credits per program"
+        },
+        {
+            "dept": "envs",
+            "code": "6699",
+            "credit": 3.0,
+            "name": "Experiential Learning",
+            "prereqs": "",
+            "desc": "Individual study activities in subject areas not addressed in current Environmental Studies course offerings, devised and carried out under the supervision of a faculty member and arranged to suit the requirements of the student\u0092s individual Plan of Study. Normally intended for students at the MES II level. Maximum 18 credits per program"
+        },
+        {
+            "dept": "envs",
+            "code": "6699",
+            "credit": 6.0,
+            "name": "Experiential Learning",
+            "prereqs": "",
+            "desc": "Individual study activities in subject areas not addressed in current Environmental Studies course offerings, devised and carried out under the supervision of a faculty member and arranged to suit the requirements of the student\u0092s individual Plan of Study. Normally intended for students at the MES II level. Maximum 18 credits per program"
+        },
+        {
+            "dept": "envs",
+            "code": "7899",
+            "credit": 9.0,
+            "name": "MES Major Research",
+            "prereqs": "",
+            "desc": "Approved research toward the submission of Major Paper, Major Project, Portfolio, arranged and conducted under the supervision of a faculty Supervisor. MES students take the course for 0 credit. Only MES/JD students take the course for (transfer) credits (normally 12)."
+        },
+        {
+            "dept": "envs",
+            "code": "7899",
+            "credit": 3.0,
+            "name": "MES Major Research",
+            "prereqs": "",
+            "desc": "Approved research toward the submission of Major Paper, Major Project, Portfolio, arranged and conducted under the supervision of a faculty Supervisor. MES students take the course for 0 credit. Only MES/JD students take the course for (transfer) credits (normally 12)."
+        },
+        {
+            "dept": "envs",
+            "code": "7899",
+            "credit": 0.0,
+            "name": "MES Major Research",
+            "prereqs": "",
+            "desc": "Approved research toward the submission of Major Paper, Major Project, Portfolio, arranged and conducted under the supervision of a faculty Supervisor. MES students take the course for 0 credit. Only MES/JD students take the course for (transfer) credits (normally 12)."
+        },
+        {
+            "dept": "envs",
+            "code": "7899",
+            "credit": 6.0,
+            "name": "MES Major Research",
+            "prereqs": "",
+            "desc": "Approved research toward the submission of Major Paper, Major Project, Portfolio, arranged and conducted under the supervision of a faculty Supervisor. MES students take the course for 0 credit. Only MES/JD students take the course for (transfer) credits (normally 12)."
+        },
+        {
+            "dept": "envs",
+            "code": "7999",
+            "credit": 0.0,
+            "name": "M.E.S. Thesis Research",
+            "prereqs": "",
+            "desc": "Approved research toward the submission of Major Paper, Major Project, Portfolio, arranged and conducted under the supervision of a faculty Supervisor. MES students take the course for 0 credit. Only MES/JD students take the course for (transfer) credits (normally 12)."
+        },
+        {
+            "dept": "envs",
+            "code": "7999",
+            "credit": 3.0,
+            "name": "M.E.S. Thesis Research",
+            "prereqs": "",
+            "desc": "Approved research toward the submission of Major Paper, Major Project, Portfolio, arranged and conducted under the supervision of a faculty Supervisor. MES students take the course for 0 credit. Only MES/JD students take the course for (transfer) credits (normally 12)."
+        },
+        {
+            "dept": "envs",
+            "code": "7999",
+            "credit": 9.0,
+            "name": "M.E.S. Thesis Research",
+            "prereqs": "",
+            "desc": "Approved research toward the submission of Major Paper, Major Project, Portfolio, arranged and conducted under the supervision of a faculty Supervisor. MES students take the course for 0 credit. Only MES/JD students take the course for (transfer) credits (normally 12).\r\n"
+        },
+        {
+            "dept": "envs",
+            "code": "7999",
+            "credit": 6.0,
+            "name": "M.E.S. Thesis Research",
+            "prereqs": "",
+            "desc": "Approved research toward the submission of Major Paper, Major Project, Portfolio, arranged and conducted under the supervision of a faculty Supervisor. MES students take the course for 0 credit. Only MES/JD students take the course for (transfer) credits (normally 12)."
+        },
+        {
+            "dept": "envs",
+            "code": "8102",
+            "credit": 3.0,
+            "name": "Ph.D Research Seminar",
+            "prereqs": "",
+            "desc": "This ongoing seminar is designed to assist PhD students in the formulation of their PhD Program Plan, through a comparative examination of research methods and research designs."
+        },
+        {
+            "dept": "envs",
+            "code": "8599",
+            "credit": 3.0,
+            "name": "Individual PhD Research",
+            "prereqs": "",
+            "desc": "Individual research activities in subject areas not addressed in current Environmental Studies course offerings, devised and carried out under the supervision of a faculty member and arranged to suit the requirements of the student's individual PhD Program Plan."
+        },
+        {
+            "dept": "envs",
+            "code": "8599",
+            "credit": 6.0,
+            "name": "Individual PhD Research",
+            "prereqs": "",
+            "desc": "Individual research activities in subject areas not addressed in current Environmental Studies course offerings, devised and carried out under the supervision of a faculty member and arranged to suit the requirements of the student's individual PhD Program Plan."
+        }
+    ]
+}

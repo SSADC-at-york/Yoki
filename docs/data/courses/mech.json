@@ -1,0 +1,364 @@
+{
+    "courses": [
+        {
+            "dept": "mech",
+            "code": "2112",
+            "credit": 3.0,
+            "name": "Mechanical Engineering: Professionalism and Society ",
+            "prereqs": "",
+            "desc": "In this course, students explore their role in the profession of mechanical engineering and the relationship between mechanical engineering and society. Students learn about the role of engineering in society, human-centred design principles, working with communities, and technological stewardship principles. These are applied through a major project completed outside of the classroom (e.g. in partnership with a local community or external organization). The course also focuses on various career paths and opportunities, e.g. options in government, private industry, not-for-profit sector, graduate education, entrepreneurial opportunities and technology protection. Students are required to build their professional network, for example, through attending networking events and conducting informational interviews. Finally, this course discusses the professional matters including the value of diversity, allyship in the workplace, life-long learning strategies, working in teams, and giving &amp; receiving feedback. Guest lecturers from industry and other appropriate bodies will be used to provide a firsthand knowledge from practicing engineers and other professionals. Course credit exclusion: LE/MECH 2100 1.00, LE/MECH 2102 2.00. Prerequisite: LE/ENG 1101 4.00."
+        },
+        {
+            "dept": "mech",
+            "code": "2201",
+            "credit": 3.0,
+            "name": "Thermodynamics",
+            "prereqs": "phys1800",
+            "desc": "This course covers properties and behaviour of substances, first and second laws of thermodynamics, applications of thermodynamics laws to closed and open systems, and availability. Prerequisites: SC/PHYS 1800 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "2202",
+            "credit": 3.0,
+            "name": "Heat and Flow Engineering Principles",
+            "prereqs": "math1013 math1014 phys1800",
+            "desc": "This course covers introduction to modes of heat transfer, 1D heat conduction fluids, properties of fluids, principles of fluid mechanics, fluid statics and internal flows, surface tension and capillarity. Prerequisites: SC/MATH 1013 3.00, SC/MATH 1014 3.00, and SC/PHYS 1800 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "2301",
+            "credit": 3.0,
+            "name": "Mechanics of Material 1",
+            "prereqs": "math1013 math1014 phys1800",
+            "desc": "This course covers normal and shear stresses and strains in deformable bodies, axial, torsion loading, multi-axis stress analysis, beam bending and analysis of mechanical systems (e.g., pressure vessels, and buckling of columns; design for strength and deflection of a member.)  Prerequisites: SC/MATH 1013 3.00, SC/MATH 1014 3.00, and SC/PHYS 1800 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "2302",
+            "credit": 3.0,
+            "name": "Dynamics",
+            "prereqs": "math1013 math1014 phys1800",
+            "desc": "This course covers kinematics and kinetics of rigid body motion  based on concepts of force, work, momentum and energy methods; impact; engineering applications are emphasized. Prerequisites: SC/MATH 1013 3.00, SC/MATH 1014 3.00, and SC/PHYS 1800 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "2401",
+            "credit": 3.0,
+            "name": "Engineering Graphics &amp; CAD Modeling",
+            "prereqs": "eng1102",
+            "desc": "This course discusses technical drawing principles, introduction and application of computer aided design tools, and solid modeling. Simple model parts, which can be assembled together, are fabricated in teams (e.g., using additive technology). Prerequisite: LE/ENG 1102 4.00. Cross-listed: LE/ESSE 2401 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "2412",
+            "credit": 3.0,
+            "name": "Mini Design Project 1",
+            "prereqs": "",
+            "desc": "The course consists of two main modules. The first module covers workshop safety, and introduces and practices of various subtractive manufacturing methods (e.g., cutting, drilling, machining). The second module includes a review of the design process, project planning techniques, and effective project and team management skills. The student will work in teams and will apply the fundamental concepts of the design process through completing a mini design project. Course credit exclusions: LE/MECH 2402 2.00, LE/MECH 2501 2.00. Prerequisites: LE/ENG 1102 4.00, LE/MECH 2401 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "2502",
+            "credit": 3.0,
+            "name": "Instrumentation and Measurement Techniques",
+            "prereqs": "math1013 math1014 math1025 eecs1011",
+            "desc": "This course covers underlying physics and design of measurement systems for various phenomena, instrumentation systems and computerized data acquisition, as well as data presentation strategies and related statistics. Prerequisites: SC/MATH 1013 3.00, SC/MATH 1014 3.00, SC/MATH 1025 3.00, LE/EECS 1011 3.00.\n"
+        },
+        {
+            "dept": "mech",
+            "code": "3201",
+            "credit": 3.0,
+            "name": "Engineering Thermodynamics",
+            "prereqs": "mech2201",
+            "desc": "This course continues the learning in thermodynamics, including topics such as: Analysis and application of energy compression cycles, vapor compression cycles and application to HVAC systems; combustion and/or compressible gas flow in conduits (adiabatic and isothermal). Students will examine the various implications of the laws of thermodynamics in complex systems relevant to mechanical engineering. Prerequisite: LE/MECH 2201 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "3202",
+            "credit": 3.0,
+            "name": "Fluid Dynamics",
+            "prereqs": "mech2202",
+            "desc": "Introduces key concepts and methods in solving problems in fluid mechanics. Topics covered include: External flow; boundary layers; momentum theories; similitude; fluid friction, drag and lift; fluid friction in pipes and minor losses; fluid machineries; pipe networks; time permitting flow at high Reynolds numbers including shock waves and/or turbulence. Students will formulate models that are needed to analyze and design fluid systems, and demonstrate strong problem solving skills appropriate to the engineering practice. Prerequisite: LE/MECH 2202 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "3203",
+            "credit": 3.0,
+            "name": "Heat Transfer",
+            "prereqs": "mech3202",
+            "desc": "This course will develop students' understanding and problem solving skills in topics of heat transfer, including: Steady and unsteady heat conduction (exact and numerical analysis); free and forced convection (internal and external); heat exchangers; thermal radiation; heat transfer with phase change. Students will extend their knowledge previously learnt in Heat and Flow Engineering Principles and Fluid Mechanics to solve engineering problems. Prerequisite: LE/MECH 3202 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "3302",
+            "credit": 3.0,
+            "name": "Mechanisms for Mechanical Systems ",
+            "prereqs": "mech2302",
+            "desc": "This course covers topics including classifications of mechanisms; velocity, acceleration and force analysis (e.g., for linkages, cranks, sliders, and cams); balancing of rotating and reciprocating machinery; gears and gear-trains; graphical and computer-oriented methods of analysis for mechanisms; applications of different mechanisms in mechanical systems (e.g., engines, manufacturing systems). Prerequisite: LE/MECH 2302 3.00. Course credit exclusion: LE/ESSE 3340 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "3401",
+            "credit": 3.0,
+            "name": "Mini Design Project 2",
+            "prereqs": "mech2201 mech2412 mech2402 mech2502 mech3202",
+            "desc": "This project-based course involves a semester-long team project that is limited in scope, but open-ended and/or requiring multiple solutions. Students will also practice advanced machining techniques and apply them to fabricate parts in their projects. Lecture sessions are designed to provide complementary training in different areas of project execution such that students will be well prepared to succeed in their final year capstone project. Students have the option of choosing a project in any area of mechanical engineering; they are also encouraged to work in partnership with industry, consult a practicing engineer, and/or collaborate with students from a technical college. Evaluation criteria include written and oral communications of technical solutions, as well as economic analysis and/or other analyses related to entrepreneurial opportunities. Prerequisites: LE/MECH 2201 3.00; LE/MECH 2412 3.00 or LE/MECH 2402 2.00; LE/MECH 2502 3.00; LE/MECH 3202 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "3409",
+            "credit": 3.0,
+            "name": "Machine Elements Design",
+            "prereqs": "mech2301 mech2401",
+            "desc": "Introduces methodology for mechanical design of components. It discusses topics including design for static and dynamic loads, failure analysis. fatigue, component design and selection for materials and machine elements, e.g. threaded joints, springs, gears, belt, chain, bearings, etc. Prerequisites: LE/MECH 2301 3.00, LE/MECH 2401 3.00. Course Credit Exclusion: LE/MECH 2409 3.00  "
+        },
+        {
+            "dept": "mech",
+            "code": "3502",
+            "credit": 3.0,
+            "name": "Solid Mechanics and Materials Laboratory",
+            "prereqs": "chem1100 mech2301 mech2502",
+            "desc": "Building on the foundational knowledge in the mechanics of materials, this course introduces students to a number of measurement and characterization methods used for macro- and micro-systems. A selected number of laboratory experiments and demonstrations may include: strain measurements \n(e.g. strain gauges and/or speckles &amp; interferometry method), deflection measurements, hardness, impact, non-destructive testing method for crack detection; material characterization methods including techniques such as SEM, AFM, nano-indentors, etc.; motion measurements, traditional and optical (using imaging methods, e.g. by a cell phone camera). Students will continue to develop their skills in data collection, analysis, and the presentation of findings. Prerequisites: SC/CHEM 1100 4.00; LE/MECH 2301 3.00; LE/MECH 2502 3.00. "
+        },
+        {
+            "dept": "mech",
+            "code": "3503",
+            "credit": 3.0,
+            "name": "Macro-and-Micro Manufacturing Methods",
+            "prereqs": "mech2412",
+            "desc": "The ever-expanding range of scale in manufacturing presents unique challenges for engineers and manufacturers. This course will introduce students to the traditional macro-manufacturing methods and existing micro-manufacturing methods. Macro-manufacturing methods may include casting, forming and forging, machining (e.g. CNC and EDM), injection molding, additive manufacturing, treatments (heat, shot pinning, etc.). Micro-manufacturing methods will include those based on silicon, thin film and polymer technologies; Current trends and issues will be explored during selected field trips, laboratory visits, and/or through in-class activities. Prerequisite: LE/MECH 2412 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "3504",
+            "credit": 3.0,
+            "name": "Thermofluid Laboratory",
+            "prereqs": "mech2201 mech2202 mech2502",
+            "desc": "Building on the foundational knowledge of thermodynamics and basic skills in instrumentation, this course will provide students with an in-depth experience in measurement methods used in micro- and macro-systems. A select number of laboratory experiments and demonstrations will deal with thermodynamics (e.g. power cycles, or heat pumps), fluid mechanics (flow in the pipes and losses), fluid machines (e.g. pumps or fans), flow measurements techniques (e.g. from traditional to advanced optical systems e.g. PIV), conduction/convective and radiation heat transfer, heat exchangers, etc. Safety practices in laboratory environment are reinforced. Prerequisites: LE/MECH 2201 3.00; LE/MECH 2202 3.00; LE/MECH 2502 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "4201",
+            "credit": 3.0,
+            "name": "Transport Phenomena",
+            "prereqs": "mech3201 mech3203",
+            "desc": "Introduction to constitutive equations and basic principles for mass transport, momentum transport and/or energy transport at two different scales of macroscopic and microscopic; examples from novel and traditional mechanical systems and applications are discussed. Prerequisites: LE/MECH 3201 3.00; LE/MECH 3203 3.00"
+        },
+        {
+            "dept": "mech",
+            "code": "4202",
+            "credit": 3.0,
+            "name": "Aerodynamics",
+            "prereqs": "mech3201 mech3202",
+            "desc": "This course is a first course specialized in aerodynamics. In this course the flow over aerofoils, wings, and bluff bodies are studied. Potential flow is used to develop the theory of flow over aerofoils and wings, using classical and numerical methods, such as thin-aerofoil theory, vortex panel methods, and lifting-line theory. Additional topics include compressible flows, supersonic aerofoils and aircraft performance. Prerequisite: LE/MECH 3201 3.00 and LE/MECH 3202 3.00"
+        },
+        {
+            "dept": "mech",
+            "code": "4203",
+            "credit": 3.0,
+            "name": "Energy Conversion and Storage",
+            "prereqs": "mech3201 mech3203",
+            "desc": "This course gives a comprehensive view of energy conversion processes and technologies in the context of the global energy system. A cohesive thermodynamic framework is developed to evaluate any energy conversion process or technology. The framework is used to understand how energy is transformed from a primary energy source to its ultimate end use. The concepts of primary energy, secondary energy, energy-use sectors (industrial, transportation, residential, commercial, and electric power sectors), energy transmission, and energy storage are illustrated. Electricity generation technologies, including fossil fuels, nuclear, solar, wind, and hydroelectricity, are analyzed and compared in terms of efficiency, cost, and environmental impact. End uses other than electricity, including space heating, industrial process heat, and transportation are emphasized. The requirements for transitioning the Canadian and global energy systems to a sustainable system based on renewable and carbon-neutral technologies are discussed. Prerequisite: LE/MECH 3201 3.00 and LE/MECH 3203 3.00"
+        },
+        {
+            "dept": "mech",
+            "code": "4301",
+            "credit": 3.0,
+            "name": "Introduction to Composite Materials",
+            "prereqs": "math1025 mech3502",
+            "desc": "This course will cover the design, fabrication, and analysis, of composite polymer composites and nanocomposites. Topics include: Introduction to polymers and their composites. Processing technologies to fabricate polymer composites and nanocomposites, micro-mechanics of composite lamina, macro-mechanics of composite lamina, analysis of composite laminates (Classical Laminate Plate Theory), failure analysis of composite laminates, design of laminated structures, applications and research on polymer composites and nanocomposites.  Prerequisites: SC/MATH 1025 3.00 and LE/MECH 3502 3.00.\n"
+        },
+        {
+            "dept": "mech",
+            "code": "4401",
+            "credit": 3.0,
+            "name": "System Level Engineering",
+            "prereqs": "envs2150 esse2210",
+            "desc": "This course discusses system level analysis methodology for complex engineering cases (quantitative and qualitative methods/frameworks), technology selection, technology integration, and life cycle analysis. Prerequisites: ES/ENVS 2150 3.00 or LE/ESSE 2210 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "4402",
+            "credit": 4.0,
+            "name": "Simulation Tools for Design &amp; Analysis",
+            "prereqs": "mech2301 eng3330 mech3203 esse3360 mech2401",
+            "desc": "This course provides an introduction to numerical modeling (e.g. finite element analysis) and commercial software of choice. The application of commercial software to a selected number of problems (e.g. stress analysis, heat transfer, and/or fluid flow, etc. to design or analyze a system) is discussed. Result verification/interpretation of numerical modeling are emphasized. Prerequisites: \nLE/MECH 2301 3.00 or LE/ENG 3330 3.00, LE/MECH 3203 3.00 or LE/ESSE 3360 3.00, and LE/MECH 2401 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "4502",
+            "credit": 3.0,
+            "name": "Vibrations",
+            "prereqs": "math2271",
+            "desc": "This course discusses free and forced vibration single degree of freedom systems with and without damping, steady state and transient vibrations, vibration of multi-degree of freedom systems, vibration isolation and modal analysis, and beam vibrations. Prerequisites: SC/MATH 2271 3.00. Corequisite: LE/ENG 4550 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "4504",
+            "credit": 3.0,
+            "name": "Life-cycle Analysis and Sustainability",
+            "prereqs": "envs2150 esse2210",
+            "desc": "This course discusses the notion of &quot;triple bottom-line&quot; or triple-E (energy, environment, economics), life Cycle inventory, computational structure of LC inventory, case studies and execution of a mini- LCA, as well as strengths, weaknesses and appropriate uses of LCA. Prerequisites: ES/ENVS 2150 3.00 or LE/ESSE 2210 3.00. Corequisite: LE/MECH 4401 3.00."
+        },
+        {
+            "dept": "mech",
+            "code": "4510",
+            "credit": 3.0,
+            "name": "Advanced Mechanical Technologies",
+            "prereqs": "math2015 mech2202 eecs3505",
+            "desc": "This course discusses non-traditional and interdisciplinary areas that mechanical engineers work for as well as analysis of assumptions, governing laws, behavior, and forces for a set of non-traditional systems (e.g. micro-fluidic systems, MEMS, electro-chemical-mechanical systems, biomedical devices, biological systems, etc.). Prerequisites: SC/MATH 2015 3.00, LE/MECH 2202 3.00, and LE/EECS 3505 3.00"
+        },
+        {
+            "dept": "mech",
+            "code": "4512",
+            "credit": 3.0,
+            "name": "Principles of Bioengineering",
+            "prereqs": "",
+            "desc": "Introduction to contemporary themes in bioengineering including: biological concepts for engineers; cell and tissue engineering; regenerative medicine and stem cells, bionanotechnology, biomaterials, drug screening, bioreactors, biotechnology, bioinformatics, genetic engineering, clinical trials and regulations. Pre-requisites: 21 3000-level science or engineering credits including MECH 3503 3.00\nDate submitted: 2018-01-09"
+        },
+        {
+            "dept": "mech",
+            "code": "6000",
+            "credit": 0.0,
+            "name": "Graduate Seminar",
+            "prereqs": "",
+            "desc": "The Graduate Seminar course is a full-year long research writing and presentation event that is conducted annually at the Department of Mechanical Engineering. The main purposes of this course is to develop and improve graduate students' writing and presentation skills and techniques for their future career paths and to widen the scope of their knowledge by exposing them to research topics in other areas of Mechanical Engineering to establish a sense of community. Participation in this course is required for all full-time graduate students and counts towards fulfilment of their degree requirements at York University."
+        },
+        {
+            "dept": "mech",
+            "code": "6102",
+            "credit": 3.0,
+            "name": "Interfacial Phenomena",
+            "prereqs": "",
+            "desc": "Topics include: Interfacial thermodynamic principles; equilibrium conditions; contact angles; capillarity and wetting; surface forces and tension; drop-surface interactions; introduction to fluid mechanics involving interfaces; interfacial measurement techniques; special topics on applications."
+        },
+        {
+            "dept": "mech",
+            "code": "6104",
+            "credit": 3.0,
+            "name": "Advanced Heat Transfer",
+            "prereqs": "",
+            "desc": "This course covers Advanced Heat Transfer and its applications. Topics covered include: generalized governing equations, heat conduction, forced and natural convection, condensation, evaporation, boiling, radiation, advanced computational heat transfer and advanced characterization of thermal properties. Pre-requisites: Consent of the Instructor."
+        },
+        {
+            "dept": "mech",
+            "code": "6105",
+            "credit": 3.0,
+            "name": "Advanced Fluid Dynamics",
+            "prereqs": "",
+            "desc": "This is a first graduate level course in fluid dynamics with an introduction to turbulent flow and modeling. This course builds from an assumed undergraduate knowledge of fluid mechanics. The course begins with review of tensor notation, flow kinematics and derivation of the equations of fluid motion. Following this, the course covers exact solutions to Navier-Stokes equations, circulation and vorticity, potential flow, boundary layers, turbulence, modeling and closure methods. Prerequisite:  undergraduate level fluid mechanics."
+        },
+        {
+            "dept": "mech",
+            "code": "6106",
+            "credit": 3.0,
+            "name": "Radiative Transfer",
+            "prereqs": "",
+            "desc": "This course is a complete treatment of Radiation Heat Transfer and its applications, covering: fundamentals of thermal radiation; calculation methods for surface-to-surface and volumetric radiative exchange; advanced modelling techniques including Monte Carlo; and applications including: solar energy, space, atmospheric transport, sustainability, advanced energy technologies, and high temperature processes. Prerequisite: permission of the instructor."
+        },
+        {
+            "dept": "mech",
+            "code": "6107",
+            "credit": 3.0,
+            "name": "Computational Tools for Microscale Research",
+            "prereqs": "",
+            "desc": "This course covers theoretical foundations for microscale computations and introduces several tools with emphasis on molecular dynamics. Applications in engineering will also be emphasized, so that students can perform sample simulations according to their research interests. The course involves 3hrs lecture per week and registration requires instructor's consent."
+        },
+        {
+            "dept": "mech",
+            "code": "6202",
+            "credit": 3.0,
+            "name": "Advanced Dynamics",
+            "prereqs": "",
+            "desc": "Topics include: Dynamic system; rigid body kinematics; rigid body kinetics; D\u0092Alembert principle; Lagrange\u0092s Equation; variational principle, Hamilton\u0092s principle; Hamilton-Jacobi theory; stability of dynamic systems; applications to a variety of engineering problems.\r\nPre-requisites: MECH 2302, 3501 and MATH 2270 (or equivalent)"
+        },
+        {
+            "dept": "mech",
+            "code": "6204",
+            "credit": 3.0,
+            "name": "Fracture and Failure of Materials",
+            "prereqs": "",
+            "desc": "This course is designed to introduce students to the concepts of linear and nonlinear fracture mechanics in materials by helping students to obtain a thorough understanding on how cracks initiate and affect engineering materials. This includes when an existing crack in a material may start to grow till catastrophic failure ensues. Considerations in design of engineering materials against failure will be discussed.\r\nPre-requisite: Consent of the instructor"
+        },
+        {
+            "dept": "mech",
+            "code": "6301",
+            "credit": 3.0,
+            "name": "The Finite Element Method in Engineering Analysis",
+            "prereqs": "mech3502 math2270 eecs1021",
+            "desc": "Topics include: variational formulations and approximation for continuous systems; stiffness matrix formulations of truss and beam elements; 2D &amp; 3D is oparametric finite elements; shell elements; FEA static analysis; steady state thermal analysis (conduction only); mass matrix formulations; vibration eigen value problems; dynamic (time domain) problems; linear solvers; verification and validation in finite element procedures. Prerequisites: LE/MECH 3502 3.00, SC/MATH 2270 3.00, LE/EECS 1021 3.00 and/or by Instructor\u0092s permission."
+        },
+        {
+            "dept": "mech",
+            "code": "6302",
+            "credit": 3.0,
+            "name": "Multidisciplinary System Design Optimization for Mechanical Engineers",
+            "prereqs": "",
+            "desc": "This course covers Multidisciplinary Design Optimization Methods and its applications in the field of engineering. To create advanced and complex engineering systems that are competitive (both in performance and life-cycle value), today's engineers need a rigorous, quantitative multidisciplinary design methodology that can integrate with the intuitive non-quantitative and creative side of the design process. Topics covered include: unconstrained and constrained gradient-based optimization; Gradient-free optimization, various optimization techniques such as sequential quadratic programming, simulated annealing or genetic algorithms and machine learning algorithms such as Supervised Learning, Unsupervised Learning, or Reinforcement Learning. Pre-requisites: Consent of the Instructor."
+        },
+        {
+            "dept": "mech",
+            "code": "6404",
+            "credit": 3.0,
+            "name": "Advanced Mechatronics: MEMS and Micro-Systems",
+            "prereqs": "",
+            "desc": "This course is designed to be an introduction to advanced mechatronics and MEMS (micro-electro-mechanical systems) and their applications. Topics covered include: introduction to MEMS and micro-systems; working principles of MEMS; design and fabrication of MEMS and micro-systems; microfabrication and micromachining; materials for MEMS; and applications of MEMS."
+        },
+        {
+            "dept": "mech",
+            "code": "6405",
+            "credit": 3.0,
+            "name": "Introduction to Nanomaterials and Metamaterials",
+            "prereqs": "",
+            "desc": "This course is designed to be an introduction to nanomaterials and metamaterials and their applications. Topics covered include the crystal structure of matter; the reciprocal lattice; phononic and photonic crystals; acoustic and optical metamaterials; semiconductor-based nanostructures; characterization and fabrication techniques for nanomaterials and metamaterials; and applications of nanomaterials and metamaterials."
+        },
+        {
+            "dept": "mech",
+            "code": "6505",
+            "credit": 3.0,
+            "name": "Advanced Optical Measurement Techniques for Engineering",
+            "prereqs": "",
+            "desc": "Topics include image processing and analysis with MATLAB, Python and OpenCV; theory and operation of cameras; particle image velocimetry, digital image correlation, tomographic imaging techniques.\r\nPrerequisite:  Consent of the Instructor"
+        },
+        {
+            "dept": "mech",
+            "code": "6900C",
+            "credit": 3.0,
+            "name": "Directed Study: Materials",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "mech",
+            "code": "6900H",
+            "credit": 3.0,
+            "name": "Directed Study: Dynamics, Control and Robotics",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "mech",
+            "code": "6900J",
+            "credit": 3.0,
+            "name": "Directed Study: Microfluidics and Micro-Electro-Mechanical Systems (MEMS)",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "mech",
+            "code": "9001",
+            "credit": 0.0,
+            "name": "MSc Thesis",
+            "prereqs": "",
+            "desc": "Students enrolled in performing research towards completion of the thesis requirement for MSc degree."
+        },
+        {
+            "dept": "mech",
+            "code": "9002",
+            "credit": 0.0,
+            "name": "Ph.D. Dissertation",
+            "prereqs": "",
+            "desc": "Students enrolled in performing research towards completion of the dissertation requirement for Ph.D. degree."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "courses": [
+        {
+            "dept": "tlse",
+            "code": "3715",
+            "credit": 6.0,
+            "name": "Teaching and Learning Seminar",
+            "prereqs": "",
+            "desc": "The purpose of this course is to develop an understanding of the current pedagogy, practices and policy relating to the teaching of Deaf and Hard-of -Hearing students. The course content provides a framework for understanding the instructional techniques encountered in practicum placements. The practicum component of this course exposes teachers candidates to the range of educational environments as well as the communication philosophies and modalities used in the education of Deaf and Hard-of-Hearing students.\r\n\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        },
+        {
+            "dept": "tlse",
+            "code": "3716",
+            "credit": 0.0,
+            "name": "Practicum 1",
+            "prereqs": "",
+            "desc": "Teacher candidates participate in one practicum experience over the course of the academic year.\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        },
+        {
+            "dept": "tlse",
+            "code": "3717",
+            "credit": 0.0,
+            "name": "Practicum 2",
+            "prereqs": "",
+            "desc": "Teacher candidates participate in one practicum experience over the course of the academic year.\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        },
+        {
+            "dept": "tlse",
+            "code": "3725",
+            "credit": 3.0,
+            "name": "Teaching Deaf and Hard of Hearing Learners in Inclusive Settings",
+            "prereqs": "",
+            "desc": "The purpose of this course is to provide candidates with the skills and knowledge needed to plan, implement, and assess education plans for Deaf and Hard of Hearing learners in inclusive settings. Candidates will critically examine the social and emotional needs of D/HH learners in inclusive settings and discuss strategies and methods used to enable D/HH learners to be socially included with their peers in the classroom setting.\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        }
+    ]
+}

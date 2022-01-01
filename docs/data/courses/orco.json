@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "orco",
+            "code": "3540",
+            "credit": 3.0,
+            "name": "Listening and Speaking with Deaf and Hard of Hearing Learners",
+            "prereqs": "",
+            "desc": "Prepares teachers in the oral/aural stream of the Deaf/Hard of Hearing Program to assess, teach and evaluate progress in the development of listening and speech skills of deaf/hard of hearing learners.\r\n\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "courses": [
+        {
+            "dept": "indg",
+            "code": "1025",
+            "credit": 6.0,
+            "name": "Ancient North America From the Last Ice Age to European Contact",
+            "prereqs": "",
+            "desc": "This course studies the history of Indigenous people in North America from \u0093time immemorial\u0094 to the regular settlement of Europeans in the 16th, 17th, and 18th centuries. Using a wide variety of sources it ranges from Meso-America to the High Arctic, and examines theories of the peopling of the continent; hunting, fishing and gathering; and the rise of corn civilizations."
+        },
+        {
+            "dept": "indg",
+            "code": "1050",
+            "credit": 6.0,
+            "name": "Introduction to Indigenous Studies",
+            "prereqs": "",
+            "desc": "This course introduces basic issues facing Indigenous peoples, in Canada and internationally. Students must engage in critical thinking about settler state colonialism at home and abroad. Topics include colonization histories, identity legislation, residential schooling, child welfare, criminal justice, and self-determination. Course credit exclusions: AP/REI 1050 6.00 (prior to Fall 2013), AP/REI 2050 6.00 (prior to Fall 2012). Previously offered as AP/MIST 1050 6.00\r\n"
+        },
+        {
+            "dept": "indg",
+            "code": "2030",
+            "credit": 6.0,
+            "name": "Racism and Colonialism",
+            "prereqs": "",
+            "desc": "Colonialism and racial conflict are examined in historical and comparative perspective, including a discussion of links between racism and sexism, and the experiences of Indigenous peoples. Examples are drawn from Africa, Asia, the Americas, and the Middle East.\nCourse credit exclusions: Prior to Fall 2018:  AP/MIST 3620/AP/POLS 3565 6.00; Prior to Fall 2013: AP/REI 3620 6.00; Prior to Fall 2012: AP/SOCI 3620 6.00"
+        },
+        {
+            "dept": "indg",
+            "code": "2050",
+            "credit": 6.0,
+            "name": "Indigenous Spirituality in the Contemporary World",
+            "prereqs": "",
+            "desc": "This course introduces students to Indigenous spiritualities grounded in the contemporary worlds of the Indigenous peoples whose territories lie in Central and Eastern Canada, primarily of the Anishinaabeg, Haudenosaunee, Cree, and Metis peoples, although some texts will address diverse peoples\u0092 spiritual worldviews. The texts will be supplemented by visits with Elders as well as ceremonial and land-based practices.\r\nPrerequisites:AP/ INDG 1050 6.00"
+        },
+        {
+            "dept": "indg",
+            "code": "2900",
+            "credit": 6.0,
+            "name": "Global Indigenous Histories",
+            "prereqs": "",
+            "desc": "This course compares the histories of Indigenous peoples around the world. It explores Indigenous rights, lands and resource conflicts, Indigenous-state relations, language and cultural revitalization, and political activism. Case studies may include Australia, New Zealand, Scandinavia, Africa, the South Pacific, Japan, the Americas, and the Circumpolar North. It also focuses on local Anishinaabe, Wendat, and Haudenosaunee First Nations."
+        },
+        {
+            "dept": "indg",
+            "code": "3060",
+            "credit": 3.0,
+            "name": "Indigenous Cultural Experience",
+            "prereqs": "indg1050 indg2050",
+            "desc": "This course enables students to engage in a three-credit independent study, involving cultural activity, such as ceremonies, Elders\u0092 teachings, or language classes.\r\nPrerequisites: AP/INDG 1050 6.00 , AP/INDG 2050 6.00"
+        },
+        {
+            "dept": "indg",
+            "code": "3310",
+            "credit": 6.0,
+            "name": "M\u00e9tis Issues in North America",
+            "prereqs": "",
+            "desc": "This course explores the history and literature of the M\u00e9tis and Louis Riel in their homelands and in their communities in North America\r\nsince the 17th century. Topics include M\u00e9tis identities, family histories, communities, resistance movements, and land and treaty rights.\r\nPreviously offered as AP/MIST 3310 6.00\r\nCourse credit exclusion: AP/REI 3310 6.00 (prior to Fall 2013). \r\n\r\n"
+        },
+        {
+            "dept": "indg",
+            "code": "3470",
+            "credit": 6.0,
+            "name": "Black Indians and Native Black Relations",
+            "prereqs": "",
+            "desc": "This course examines conceptual issues shaping racial formation for Black and Native peoples, histories of genocide and slavery, and the histories of Native-Black relations in different regions of Latin America, the Caribbean, the U.S. and Canada. The course addresses both alliances and divisions between Black and Native peoples across the Americas.\r\nPreviously offered as: AP/REI 3470 6.00, AP/MIST 3470 6.00"
+        },
+        {
+            "dept": "indg",
+            "code": "4301",
+            "credit": 3.0,
+            "name": "Horror, Crime, and the Law in Indigenous and African Diaspora Fiction and Performance",
+            "prereqs": "",
+            "desc": "The course engages with horror and crime fiction, films, plays, and the graphic novel, as well as the latter's adaptations to multiplayer online gaming.  While detective fiction and the mystery novel have a growing body of recent scholarship in the interdisciplinary field of law and literature, the study of the horror genre, as a critique of the injustice of the law, has not received a great deal of scholarly attention. "
+        },
+        {
+            "dept": "indg",
+            "code": "4600",
+            "credit": 6.0,
+            "name": "Research Seminar",
+            "prereqs": "",
+            "desc": "This seminar adopts an advanced approach to research and interpretation, including data collection and analysis within a relevant theoretical framework. Students will develop a research question, formulate a thesis, and complete a substantial research project.\nCourse credit exclusion: Prior to Fall 2018: AP/MIST 4600 6.00 \nPrerequisites: 78 credits, including AP/HREQ 1010 6.00 (formerly AP/HREQ 2010 6.00), AP/HREQ 2030 6.00, and AP/HREQ 3100 6.00, or permission of the Undergraduate Program Director"
+        },
+        {
+            "dept": "indg",
+            "code": "4705",
+            "credit": 6.0,
+            "name": "Indigenous Theory",
+            "prereqs": "indg1050",
+            "desc": "Provides a solid knowledge of the theoretical foundations of Indigenous Studies, its relationship to postcolonial, and critical race theory, as well as a range of contemporary theoretical work by Indigenous scholars, addressing, among other subjects, questions of gender, racism, culture, identity, recognition, decolonization and self-determination.\r\n Prerequisites: 78 credits, including AP/INDG 1050 6.00\r\nCourse credit exclusion: AP/MIST 4705 6.00 (Prior to Fall 2018), AP/REI 4705 6.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "indg",
+            "code": "4750",
+            "credit": 3.0,
+            "name": "Approaching Indigenous Media",
+            "prereqs": "",
+            "desc": "This course focuses on forms of indigenous storytelling which underlie indigenous media. It explores indigeneity in popular culture, the history of indigenous broadcasting and broadcast policy in Canada. This course and its complement together trace the arc of indigenous storytelling, from thousands of years ago to the present, as it has evolved through changing regimes of technology, policy, and governance."
+        },
+        {
+            "dept": "indg",
+            "code": "4770",
+            "credit": 3.0,
+            "name": "First Nations Music and Cultural Regeneration",
+            "prereqs": "",
+            "desc": "This is a music appreciation course\u0097no prior knowledge of music is required. The course examines various forms of Indigenous music in\r\nCanada and the United States, from traditional to contemporary, including protest music, blues, rock and hiphop,and the role music has played in maintaining communities, engaging in social commentary, promoting cultural regeneration, and recreating sovereignty.\r\nCourse credit exclusions: AP/MIST 4770 6.00, AP/REI 4770 3.00 (prior to Fall 2013).\r\nPreviously offered as:AP/MIST 4770 3.00\r\n"
+        }
+    ]
+}

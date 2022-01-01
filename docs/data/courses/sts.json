@@ -1,0 +1,292 @@
+{
+    "courses": [
+        {
+            "dept": "sts",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "History of Modern Science",
+            "prereqs": "",
+            "desc": "Explores some of the central issues and theories in the history of physical and life sciences since the Renaissance. The focus is on the institutional trends and changing conceptual frameworks as they related to larger societal change. Course credit exclusions: AP/HIST 2810 6.00.\r Previously offered as: SC/STS 2010 6.00."
+        },
+        {
+            "dept": "sts",
+            "code": "2110",
+            "credit": 3.0,
+            "name": "Truth, Theory and Superstition",
+            "prereqs": "",
+            "desc": "An examination of contemporary perspectives on justice through the lens of practical political issues in Canada and the international arena. Topics may include: multiculturalism, ethnic conflict, racism, sexism, nationalism, cosmopolitanism, human rights, and 'humanitarian' intervention. \n"
+        },
+        {
+            "dept": "sts",
+            "code": "2210",
+            "credit": 3.0,
+            "name": "Technology in the Modern World",
+            "prereqs": "",
+            "desc": "Examines the critical interconnections among technology, politics, culture, the arts, the sciences and social life. Specific topics will vary from year to year, covering social and historical contexts that may include Europe, North America, Africa, and Asia between 1500 and the present. Course Credit Exclusions: AP/HUMA 2412 3.00, SC/STS 3700 6.00, AP/HUMA 3700 6.00\n."
+        },
+        {
+            "dept": "sts",
+            "code": "2222",
+            "credit": 3.0,
+            "name": "Exploring Gender in Science, Technology, Engineering &amp; Mathematics",
+            "prereqs": "",
+            "desc": "Gender is one of the most powerful shapers of human societies. How does it affect, and how is it affected by, science, technology, engineering and mathematics (STEM)? This course explores the relationship between STEM based disciplines and gender. It examines how concepts of gender shape STEM based institutions, practices, and cultures.  Conversely, it investigates how STEM research has shaped historical and current understandings of gender. It highlights the productive contributions that gender analysis can make to the STEM disciplines, not only to address equity issues, but also to improve methodologies of research and innovation. Selected topics include: theories of gender and techno-science, gendered representations of science and technology in popular media, gender imbalance in STEM, and the gendering of military, medical, domestic, and digital technologies. \nCourse credit exclusion: AP/HUMA 3970 3.0, &quot;Science and Gender in Modern Western Culture.&quot;"
+        },
+        {
+            "dept": "sts",
+            "code": "2411",
+            "credit": 3.0,
+            "name": "Introduction to Science and Technology Studies",
+            "prereqs": "",
+            "desc": "Introduces students to the interdisciplinary field of science and technology studies. Using case studies it considers how knowledge about science and technology develops. It analyses the social responsibility of the scientist and the public engagement with technoscientific expertise. Course credit exclusions: AP/HUMA 2411 3.0, AP/HUMA 2411 6.00, SC/STS 2411 6.0"
+        },
+        {
+            "dept": "sts",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Thinking with Things: Material Culture in Science and Technology Studies",
+            "prereqs": "",
+            "desc": "Examines principles and techniques used in evaluating the material culture of science and technology to explore connections to ideas, practices, and values of a particular era. Students apply methods of analysis to understand material culture in context. Prerequisite: Completion of 24 credits.\r\n\r\n\r\n"
+        },
+        {
+            "dept": "sts",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "The Global Information Society",
+            "prereqs": "",
+            "desc": "Examines current national information societies and their possible transformation into a global information society by analyzing the interplay between the causes for the globalization of information and communication technologies, as well as the societal impact of these technologies."
+        },
+        {
+            "dept": "sts",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Technological Failure",
+            "prereqs": "",
+            "desc": "This course challenges our common understandings of why technologies fail. Using approaches drawn from history, sociology and philosophy of technology, it critically examines the complex relationships between human action, the social contexts of knowledge and the proper functioning of machines. Course credit exclusion: SC/STS 3600 6.00."
+        },
+        {
+            "dept": "sts",
+            "code": "3725",
+            "credit": 3.0,
+            "name": "Science and Exploration",
+            "prereqs": "",
+            "desc": "Systems of knowledge and technologies utilized in scientific exploration are investigated within the socio political context of borderlands, colonialism and modern progress. Course exclusion: SC/STS 3725 6.00.               \r\n                                                                        "
+        },
+        {
+            "dept": "sts",
+            "code": "3726",
+            "credit": 3.0,
+            "name": "Technology, Experts and Society",
+            "prereqs": "",
+            "desc": "A critical examination of the introduction and adoption of new technologies and the rise of expert knowledge. Specific historical examples of modern technologies will be considered in order to explore the relationship between society and technology."
+        },
+        {
+            "dept": "sts",
+            "code": "3730",
+            "credit": 3.0,
+            "name": "Science, Technology and Modern Warfare",
+            "prereqs": "",
+            "desc": "Explores the interplay between warfare, scientific development, and technological change in a broad societal context through a series of representative case-studies from the past and the present. Enhances students' understanding of some of the main forces that shape our world. Course credit exclusion: SC/STS 3730 6.00."
+        },
+        {
+            "dept": "sts",
+            "code": "3760",
+            "credit": 3.0,
+            "name": "Nature, Knowledge and New Worlds, 1500-1800",
+            "prereqs": "",
+            "desc": "An in-depth examination of the cultural, social, technological and intellectual context of a formative period in the history of modern science. Course credit exclusions: AP/HUMA 3760 6.00 (prior to Winter 2014), SC/STS 3760 6.00."
+        },
+        {
+            "dept": "sts",
+            "code": "3775",
+            "credit": 3.0,
+            "name": "Physics in the 20th Century",
+            "prereqs": "",
+            "desc": "Examines both the philosophical questions raised by historical developments in modern physics and historical-scientific questions raised by philosophical inquiry. Note: No background in physics required. Readings include scientific, historical and philosophical texts."
+        },
+        {
+            "dept": "sts",
+            "code": "3780",
+            "credit": 3.0,
+            "name": "Biomedical Science in Social &amp; Historical Context",
+            "prereqs": "",
+            "desc": "An examination of the changing nature of biomedical research, concepts, and practices since 1800. Topics for sociohistorical analysis include: public health, physiology, microbiology, risk factors, diagnostic technologies, drug development and policy, immunology, and genetic medicine. Course credit exclusion: AP/SOSC 3780 6.00, SC/STS 3780 6.00."
+        },
+        {
+            "dept": "sts",
+            "code": "3790",
+            "credit": 3.0,
+            "name": "Science and Technology Issues in Global Development",
+            "prereqs": "",
+            "desc": "Examines a multiplicity of historical and cultural factors influencing and shaping scientific norms and technological practices in global development Moreover, this course seeks to address questions on how global development goals are affecting the utilization of planetary resources and the advancement of technological systems of production. One of the predominant objectives of this course is to elucidate the entanglements between science, technology and global development, and unpack further what &quot;global development&quot; means in the context of international cooperation and international security."
+        },
+        {
+            "dept": "sts",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Seminar in Philosophy of Science",
+            "prereqs": "phil2110 phil3170 phil3270 phil3280",
+            "desc": "An intensive examination of contemporary philosophical problems concerning the growth of science and technology selected from interpretations of theory, of models, of presumed facts, of presumed progress, of experimental technique, and of the place of values in science and technology. \r\nPrerequisite: At least nine credits in philosophy including one of AP/PHIL 2110 3.00, AP/PHIL 3170 3.00, AP/PHIL 3270 3.00, or AP/PHIL 3280 3.00. Course credit exclusions: None.  \r\n\r\nPRIOR TO FALL 2009: Prerequisite: At least nine credits in philosophy, of which AK/PHIL 3280 3.00, AS/PHIL 3170 3.00, AS/PHIL 3270, or AS/PHIL 3280 3.00 is recommended.  Course credit exclusion: AS/PHIL 4110 3.00."
+        },
+        {
+            "dept": "sts",
+            "code": "4655",
+            "credit": 3.0,
+            "name": "From the Ark to the Anthropocene: Episodes in the History of the Earth and Environmental Sciences",
+            "prereqs": "",
+            "desc": "This course examines episodes in the history of the geo-sciences and environmental sciences from the seventeenth century to the present. Topics range from: chronologies of the earth; Enlightenment theories of the earth; fossils, extinction and the origins of palaeontology; mining and its relations to the geosciences; the development of plate tectonics; meteor impact theory; ideas of the anthropocene. The course emphasizes the connections between scientific, philosophical, technological and social change.\n\nThis course is for students in 3rd or 4th year. Students need to have completed 60 credits to enrol; no other specific prerequisites or exclusions.  \n"
+        },
+        {
+            "dept": "sts",
+            "code": "4700",
+            "credit": 3.0,
+            "name": "Independent Research in Science and Technology Studies",
+            "prereqs": "",
+            "desc": "Offers the opportunity for students to design and pursue a course of individualized study in consultation with the Science and Technology Studies Program Co-ordinator and proposed Instructor. Note: Students must be accepted by a faculty supervisor before registering for SC/STS 4700 3.00 and must have permission from the Science and Technology Studies Program Co-ordinator. Prerequisites: 78 credits and permission of the Science and Technology Studies Program Co-ordinator. Course credit exclusions: SC/STS 4700 6.00, SC/STS 4710 6.00."
+        },
+        {
+            "dept": "sts",
+            "code": "4700",
+            "credit": 6.0,
+            "name": "Independent Research in Science and Technology Studies",
+            "prereqs": "",
+            "desc": "Offers the opportunity for students to design and pursue a course of individualized study in consultation with the Science and Technology Studies Program Co-ordinator and proposed Instructor. Note: Students must be accepted by a faculty supervisor before registering for SC/STS 4700 6.00 and must have permission from the Science and Technology Studies Program Co-ordinator. Prerequisites: 78 credits and permission of the Science and Technology Studies Program Co-ordinator. Course credit exclusions: SC/STS 4700 3.00, SC/STS 4710 6.00."
+        },
+        {
+            "dept": "sts",
+            "code": "4710",
+            "credit": 6.0,
+            "name": "Honours Thesis in Science and Technology Studies",
+            "prereqs": "",
+            "desc": "Original research undertaken by a student under the supervision of a thesis committee. Note: Open only to honours students in Science and Technology Studies. Prerequisite: 78 credits and permission of the Science and Technology Studies Program Co-ordinator. Course credit exclusions: SC/STS 4700 3.00, SC/STS 4700 6.00."
+        },
+        {
+            "dept": "sts",
+            "code": "4785",
+            "credit": 3.0,
+            "name": "Science, Health and Food",
+            "prereqs": "",
+            "desc": "An examination of how knowledge is generated and validated in health and food sectors through analysis of studies, statistics, publications, evidence based medicine, government regulation and policy in Canada, the USA and the EU. Case studies will detail controversial issues. Prerequisite: Completion of 60 credits. "
+        },
+        {
+            "dept": "sts",
+            "code": "5000",
+            "credit": 3.0,
+            "name": "Directed Readings for M.A. Students",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "sts",
+            "code": "5001",
+            "credit": 3.0,
+            "name": "Introduction to Science and Technology Studies",
+            "prereqs": "",
+            "desc": "Introduces students to major texts and theoretical strands of science and technology studies through a combination of empirical case studies and theoretical reflections on themes central to science and technology studies scholarship, such as epistemology, objectivity, expertise and materiality."
+        },
+        {
+            "dept": "sts",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "Directed Readings for Ph.D. Students",
+            "prereqs": "",
+            "desc": "Permission of Program Director required"
+        },
+        {
+            "dept": "sts",
+            "code": "6001",
+            "credit": 3.0,
+            "name": "Introduction to Science and Technology Studies",
+            "prereqs": "",
+            "desc": "Introduces students to major texts and theoretical strands of science and technology studies through a combination of empirical case studies and theoretical reflections on themes central to science and technology studies scholarship, such as epistemology, objectivity, expertise and materiality.\r\n"
+        },
+        {
+            "dept": "sts",
+            "code": "6004",
+            "credit": 0.0,
+            "name": "STS Colloquium",
+            "prereqs": "",
+            "desc": "The Colloquium provides students with a regular forum to engage with Program members as an intellectual community. It involves a range of activities designed to stimulate a broad disciplinary engagement with science and technology studies, including research talks by invited external speakers, Program faculty and graduate students, and professional development workshops. It normally runs every two weeks over two terms."
+        },
+        {
+            "dept": "sts",
+            "code": "6005",
+            "credit": 3.0,
+            "name": "STS Research Cluster",
+            "prereqs": "",
+            "desc": "Research Clusters foster theoretical and methodological innovation on a specific topic in Science and Technology Studies (STS). They involve biweekly meetings of faculty and graduate students who engage in a range of activities and they embed broader program requirements in an experimental, flexible, adaptable, and interdisciplinary intellectual space."
+        },
+        {
+            "dept": "sts",
+            "code": "6005A",
+            "credit": 0.0,
+            "name": "STS Research Cluster",
+            "prereqs": "",
+            "desc": "Research Clusters foster theoretical and methodological innovation on a specific topic in Science and Technology Studies (STS). They involve biweekly meetings of faculty and graduate students who engage in a range of activities and they embed broader program requirements in an experimental, flexible, adaptable, and interdisciplinary intellectual space."
+        },
+        {
+            "dept": "sts",
+            "code": "6005A",
+            "credit": 3.0,
+            "name": "STS Research Cluster",
+            "prereqs": "",
+            "desc": "Research Clusters foster theoretical and methodological innovation on a specific topic in Science and Technology Studies (STS). They involve biweekly meetings of faculty and graduate students who engage in a range of activities and they embed broader program requirements in an experimental, flexible, adaptable, and interdisciplinary intellectual space."
+        },
+        {
+            "dept": "sts",
+            "code": "6005",
+            "credit": 0.0,
+            "name": "STS Research Cluster",
+            "prereqs": "",
+            "desc": "Research Clusters foster theoretical and methodological innovation on a specific topic in Science and Technology Studies (STS). They involve biweekly meetings of faculty and graduate students who engage in a range of activities and they embed broader program requirements in an experimental, flexible, adaptable, and interdisciplinary intellectual space."
+        },
+        {
+            "dept": "sts",
+            "code": "6006",
+            "credit": 3.0,
+            "name": "Digital Technoscience",
+            "prereqs": "",
+            "desc": "The course examines the social, political, economic, and cultural shaping of digital technoscience - ranging from digital platforms through smart cities to self-driving cars - paying particular attention to how different visions of and expectations about the future are enrolled in the deployment of digital technoscience in the present.\n\nOnline/Blended."
+        },
+        {
+            "dept": "sts",
+            "code": "6106",
+            "credit": 3.0,
+            "name": "Bodies and Biotechnologies in Anthropology",
+            "prereqs": "",
+            "desc": "The disciplinary focus of anthropology, and more specifically the anthropology of the body, offers students a critical theoretical perspective and point of departure for the study of the contingency of, and relationship between, bodies and biotechnologies."
+        },
+        {
+            "dept": "sts",
+            "code": "6108",
+            "credit": 3.0,
+            "name": "Health and Illness",
+            "prereqs": "",
+            "desc": "This course is designed to consider current debates about health and care within a feminist political economy framework.  The focus will be Canada but a Canada located within an international context.  Of course students will be invited to introduce other perspectives and other countries into the readings, discussions and their papers."
+        },
+        {
+            "dept": "sts",
+            "code": "6109",
+            "credit": 3.0,
+            "name": "Gender and Technoscience",
+            "prereqs": "",
+            "desc": "A seminar devoted to exploring gender, sexuality, and sex in the development and application of technoscience. It addresses how scientists have both conceptualised and deployed (or ignored) sex and gender as explanatory concepts throughout the course of their disciplinary practices. Key questions to be addressed include: What role have women played in the development of science and technology, and how has technological change affected the roles of women and ideas of gender?  How does technology offer possibilities for new social relations and how should we evaluate these possibilities?  Can technoscience be gender-neutral? "
+        },
+        {
+            "dept": "sts",
+            "code": "6205",
+            "credit": 3.0,
+            "name": "Critical Technical Practise:  Computer Accessibility and Assistive Technology",
+            "prereqs": "",
+            "desc": "This course examines issues of technological design in computer accessibility and computational forms of assistive technology (hardware and/or software).  Students learn to critically reflect on the hidden assumptions, ideologies and values underlying the design of these technologies, and to analyse and to design them."
+        },
+        {
+            "dept": "sts",
+            "code": "6305",
+            "credit": 6.0,
+            "name": "Contexts Of Victorian Science      ",
+            "prereqs": "",
+            "desc": "Contexts of Victorian Science. This course focuses on nineteenth century\nBritish and European science and its social, political, cultural, and intellectual contexts. Adopting the contextualist approach to the history of science allows us to raise a series of provocative questions: in what way did all of these different contexts shape the nature of nineteenth century\nscientific thought? How were scientific facts socially constructed? What was it about the nineteenth century context that led many intellectuals to reject Christianity and embrace science as providing a new, privileged form of knowledge? Included among the topics to be covered are the discourse of natural theology, the politics of geological controversy, Scottish philosophy and phrenology, radical working class Lamarckianism in England during the 1830s, the plurality of worlds debate, science and gender, the professionalization of science, English scientific naturalism and German scientific materialism, the literary structure of Darwin's Origin of Species, Darwinian theory and its ideological uses, and late nineteenth century physics and psychics. This course will be of interest to students of British, European, social, and intellectual history.\n"
+        }
+    ]
+}

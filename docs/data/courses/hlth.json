@@ -1,0 +1,92 @@
+{
+    "courses": [
+        {
+            "dept": "hlth",
+            "code": "5000",
+            "credit": 3.0,
+            "name": "Directed Studies in Health Studies",
+            "prereqs": "",
+            "desc": "Students work directly with a faculty member on a directed reading or research project to broaden their scope of knowledge in a topic pertaining to Health Studies that is not addressed in the department's regular course offerings. Prerequisite: GS/HLTH 5485 Public Policy and Health. Permission required."
+        },
+        {
+            "dept": "hlth",
+            "code": "5040",
+            "credit": 3.0,
+            "name": "Health, Ethics and Law",
+            "prereqs": "",
+            "desc": "Explores the relationship between health, ethics and the law. It focuses on the following key areas of study: bioethical principles and approaches, selected case and statute law and health-related issues which illustrate the intersection between legal and ethical analysis. This intersection will be explored from both individual and social policy perspectives."
+        },
+        {
+            "dept": "hlth",
+            "code": "5060",
+            "credit": 3.0,
+            "name": "Qualitative Methods for Health Studies",
+            "prereqs": "",
+            "desc": "This course will strike a balance between theory and application in qualitative research in health studies. We will examine a number of issues surrounding qualitative research as well as four of the most common methods for analyzing qualitative data: Thematic Analysis, Grounded Theory, Narrative Analysis and Content Analysis. Opportunities for experiential learning will be interwoven with the course material. "
+        },
+        {
+            "dept": "hlth",
+            "code": "5405",
+            "credit": 3.0,
+            "name": "Graduate Research Methods",
+            "prereqs": "",
+            "desc": "This course emphasizes the evaluation, design, implementation, and documentation of research in the social sciences. The main goal will be for students to be able to identify and evaluate various research techniques that are appropriate for the questions asked."
+        },
+        {
+            "dept": "hlth",
+            "code": "5450",
+            "credit": 3.0,
+            "name": "Health Equity and Mental Health Policy",
+            "prereqs": "",
+            "desc": "This course involves an analysis of mental health policy starting with early conceptualizations and approaches to mental health care, to more recent government initiatives and societal approaches in Canada, with a comparison to other international contexts. Integrated with the undergraduate course Atkinson Health Studies 4140 3.0"
+        },
+        {
+            "dept": "hlth",
+            "code": "5485",
+            "credit": 3.0,
+            "name": "Public Policy and Health",
+            "prereqs": "",
+            "desc": "This seminar introduces students to the history and process of public policy making ways ways to evaluate them with a focus on health.  Course topics include the origins of public-policy making; key concepts, modes and instruments in the process of public policy making; and constraints on public policy analysis along with critical analyses of relevant cases from the field of health."
+        },
+        {
+            "dept": "hlth",
+            "code": "5490",
+            "credit": 3.0,
+            "name": "Intersectionality, Disability, and Health",
+            "prereqs": "",
+            "desc": "This course traces the profound shifts and challenges for understanding health inequities that Intersectionality theorists and practitioners from Black, Indigenous, and Feminist Studies have brought to Health Studies and Disability Studies, including new methodological and theoretical approaches to gender and gender identity, sexuality, (dis)ability, trauma, structural violence, settler colonial studies, and environmental studies."
+        },
+        {
+            "dept": "hlth",
+            "code": "6210",
+            "credit": 3.0,
+            "name": "The Political Economy of Health Inequities",
+            "prereqs": "",
+            "desc": "Considers how the political and economic forces that shape the distribution of wealth, influence, and power within wealthy developed nations such as Canada create health inequities. The course focuses on three key areas related to the presence of health inequities: the economic system, the political system, and the ability of citizens to shape public policy."
+        },
+        {
+            "dept": "hlth",
+            "code": "6220",
+            "credit": 3.0,
+            "name": "Human Rights and Health Equity",
+            "prereqs": "",
+            "desc": "This course considers health from a human rights and social justice perspective, exploring both domestic and international issues.  It focuses on three areas:  disability, reproductive technology and HIV/AIDS."
+        },
+        {
+            "dept": "hlth",
+            "code": "6230",
+            "credit": 3.0,
+            "name": "Health Equity: Analytic Orientations",
+            "prereqs": "hlst2020 hlst3120",
+            "desc": "Analyzes health equity issues by drawing on a range of political science orientations (pluralism, public choice, class structure, neo-institutionalism, social movements, political economy, political philosophy) in which an assessment of public policy is grounded. Prerequisites: HH/HLST 2020 3.00, HH/HLST 3120 3.00, or course equivalents. "
+        },
+        {
+            "dept": "hlth",
+            "code": "6245",
+            "credit": 3.0,
+            "name": "Perspectives on Knowledge Transfer, Evidence and Decision Making in Organizations",
+            "prereqs": "",
+            "desc": "This course examines various perspectives on knowledge, Information, Evidence and decision making in organizations by building on theoretical and empirical work in organizational behaviour and health care.  In addition, the course explores theories of knowledge translation and the knowledge exchange process."
+        }
+    ]
+}

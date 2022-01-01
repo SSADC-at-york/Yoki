@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "lawl",
+            "code": "6706",
+            "credit": 3.0,
+            "name": "Intellectual Property Challenges in the Twenty-First Century",
+            "prereqs": "",
+            "desc": "This course analyzes issues currently challenging courts, policymakers and socioeconomic and cultural practices in Canada and internationally, including:  filesharing, fair dealing and fair use, digital rights management, data protection, freelance authorship/publishing, branding, commercialization of intellectual property and university spin-outs, etc."
+        },
+        {
+            "dept": "lawl",
+            "code": "6751",
+            "credit": 6.0,
+            "name": "Trade-Mark Law",
+            "prereqs": "",
+            "desc": "This course covers Canadian trade-mark law and other aspects of the law of unfair competitions at an advanced level."
+        },
+        {
+            "dept": "lawl",
+            "code": "6752",
+            "credit": 3.0,
+            "name": "Protection of Intangible Business Interests",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lawl",
+            "code": "6757",
+            "credit": 3.0,
+            "name": "International Aspects of Intellectual Property",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lawl",
+            "code": "6758",
+            "credit": 3.0,
+            "name": "Intellectual Property Transactions",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

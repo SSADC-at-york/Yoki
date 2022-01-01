@@ -1,0 +1,724 @@
+{
+    "courses": [
+        {
+            "dept": "thea",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Introduction to Acting I",
+            "prereqs": "",
+            "desc": "Introduces the principles, processes and skills of acting for the stage. Students will rehearse and perform a variety of class presentations, and actively participate in warm-ups, theatre games and acting exercises. A practical studio course with a strong written component to the curriculum. Required of all first-year theatre majors. Open only to theatre majors. Corequisites: FA/THEA 1100 3.00 and FA/THEA 1200 6.00. Note: A minimum of two rehearsal hours per week may be required."
+        },
+        {
+            "dept": "thea",
+            "code": "1011",
+            "credit": 3.0,
+            "name": "Introduction to Acting II",
+            "prereqs": "",
+            "desc": "Continues the exploration of the principles, processes and skills of acting for the stage commenced in FA/THEA 1010 3.00, with a particular emphasis on basic script analysis and the rehearsing and performing of monologues and scenes. A practical studio course with is a strong written component to the curriculum. Open to theatre majors only. Pre-requisite: a minimum grade of 'C+' in FA/THEA 1010 3.00, and/or permission of the department."
+        },
+        {
+            "dept": "thea",
+            "code": "1100",
+            "credit": 3.0,
+            "name": "Introduction to Stagecraft I",
+            "prereqs": "",
+            "desc": "Introduces the fundamentals and vocabulary of design, lighting and stagecraft (in any given year this could include sound, props, paint etc.). Corequisites: FA/THEA 1010 3.00, FA/THEA 1200 6.00. Course credit exclusion: FA/THEA 1100 6.00, FA/DANC 1270 3.00. Note: Open to theatre majors only. Note: Evening and/or weekend crew work on department productions is required, as well as lab hours."
+        },
+        {
+            "dept": "thea",
+            "code": "1110",
+            "credit": 3.0,
+            "name": "Introduction to Stagecraft II",
+            "prereqs": "",
+            "desc": "Continues the introduction to the basics of theatrical production begun in FA/THEA 1100 3.00. Previously offered as: FA/THEA 1100 6.00. Note: Open to theatre majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "1200",
+            "credit": 6.0,
+            "name": "Introduction to Theatre and Performance ",
+            "prereqs": "",
+            "desc": "Designed to introduce Theatre students to the key concepts and debates animating Theatre Studies today. Beginning with the overarching question &quot;&quot;What is theatre and why/how do we study it?&quot;&quot; students will explore a wide range of topics, including (but not limited to) audience, space, time, bodies, community, spectacle, history, and politics. The course will also introduce students to a range of theoretical and methodological approaches for studying theatre and performance, e.g. performance ethnography, theatre historiography, community activism, practice-based research, educational outreach. Students will have opportunities to work individually as well as collaboratively on written and performance projects. They will also become familiar with Toronto's lively theatre and performance ecology through visits to a wide range of performances over the course of the year. Corequisite: FA/THEA 1010 3.00, FA/THEA 1100 3.00. \r\nNote: Attendance at Prime Time is required for Theatre majors."
+        },
+        {
+            "dept": "thea",
+            "code": "1520",
+            "credit": 3.0,
+            "name": "Acting for Non-Majors",
+            "prereqs": "",
+            "desc": "Introduces students to the following concepts:  breath/alignment/basic voice work, brief physical warm-up, group work, and improvisation; and the following technique concepts:  trusting impulses, objectives, tactics, obstacles, analysis and exploration of monologues and journal writing. Not open to theatre majors. Note:  Plus two rehearsal hours per week."
+        },
+        {
+            "dept": "thea",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "Voice I                                ",
+            "prereqs": "thea1010 thea1100 thea1200",
+            "desc": "Introduces the rudiments of voice training for the actor with an introduction to the speaking of prose and poetry. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00, FA/THEA 1200 6.00 and/or audition plus permission of the department. Corequisites: FA/THEA 2020 3.00, FA/THEA 2030 3.00. Open to theatre majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "2011",
+            "credit": 3.0,
+            "name": "Voice II                      ",
+            "prereqs": "thea2010",
+            "desc": "Intensive application and further development of the work begun in FA/THEA 2010 3.00 with the addition of speech training. Prerequisites: Grade of B or better in FA/THEA 2010 3.00 or permission of the department. Corequisites: FA/THEA 2021 3.00, FA/THEA 2031 3.00. Open to theatre majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "Acting I                               ",
+            "prereqs": "thea1010 thea1100 thea1200",
+            "desc": "Introduces acting technique through ensemble exercises, improvisation and personal exploration. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00, FA/THEA 1200 6.00 and/or audition plus permission of the department. Corequisites: FA/THEA 2010 3.00 and FA/THEA 2030 3.00. Open to theatre majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "2021",
+            "credit": 3.0,
+            "name": "Acting II                         ",
+            "prereqs": "thea2020",
+            "desc": "An introduction to a systematic process for building a character and text analysis through work on scenes from established plays. Prerequisites: Grade of B or better in FA/THEA 2020 3.00 or permission of the department. Corequisites: FA/THEA 2011 3.00, FA/THEA 2031 3.00. Open to theatre majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "2030",
+            "credit": 3.0,
+            "name": "Movement I                             ",
+            "prereqs": "thea1010 thea1100 thea1200",
+            "desc": "An introduction to the rudiments of the physical techniques necessary for the actor. It is the beginning of building a vocabulary of movement, self-discipline and learning how to solve individual problems. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00 and FA/THEA 1200 6.00 and/or audition plus permission of the department. Corequisites: FA/THEA 2010 3.00 and FA/THEA 2020 3.00. Open to theatre majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "2031",
+            "credit": 3.0,
+            "name": "Movement II                        ",
+            "prereqs": "thea2030",
+            "desc": "Offers an intensive application and further development of the work begun in FA/THEA 2030 3.00. Prerequisites: Grade of B or better in FA/THEA 2030 3.00 or permission of the department. Corequisites: FA/THEA 2011 3.00, FA/THEA 2021 3.00. Open to theatre majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "2050",
+            "credit": 3.0,
+            "name": "Introduction to Devised Theatre I ",
+            "prereqs": "thea1010 thea1100 thea1200",
+            "desc": "Offers students an introduction to the devising of original theatre in a collaborative setting. Through classroom exercises and the creation, rehearsal and presentation of devised and interpreted performance projects, the participants will explore the essential questions and investigative tools of the theatre practitioner. Practical studio course. Prerequisites: FA/THEA 1010 3.0, FA/THEA 1100 3.0, and FA/THEA 1200 6.0, and/or permission of the Theatre Department. Open to Theatre majors only.\r\n. \r\n\r\n\r\n"
+        },
+        {
+            "dept": "thea",
+            "code": "2051",
+            "credit": 3.0,
+            "name": "Introduction to Devised Theatre II",
+            "prereqs": "thea2050",
+            "desc": "Affords students a continued introduction to the devising of theatre in all aspects, from conception to execution. Classroom exercises and performance project assignments will deepen the exploration of the processes and skills of the theatre practitioner. Practical studio course. Prerequisite: Grade of B or better in FA/THEA 2050 3.00 and permission of the department. Open to theatre majors only. Note: Plus rehearsal hours."
+        },
+        {
+            "dept": "thea",
+            "code": "2060",
+            "credit": 3.0,
+            "name": "Voice and Speech I",
+            "prereqs": "",
+            "desc": "An introductory course in voice and speech for effective communication. Exercises and practical applications in a variety of speaking contexts focus on vocal function, breath, resonance, articulation and coping with performance stress."
+        },
+        {
+            "dept": "thea",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Production Practicum                   ",
+            "prereqs": "thea1010 thea1100",
+            "desc": "Provides students with the opportunity to learn and practice the technical and management skills associated with creating a production. Required of all second-year students working in production and design. Open to majors/minors. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00 with a minimum grade of C+ or by permission of the Theatre Department. Corequisites: FA/THEA 2110 6.00, FA/THEA 2410 6.00."
+        },
+        {
+            "dept": "thea",
+            "code": "2101",
+            "credit": 3.0,
+            "name": "Production Practicum",
+            "prereqs": "thea1010 thea1100",
+            "desc": "Provides second-year production students with the opportunity to expand their learning and practice of technical and management skills associated with creating a production. Taken in conjunction with FA/THEA 2100 3.00 this course is open to second-year students working in production and design who want to work on more than one project in their second-year. Open to majors/minors. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00 with a minimum grade of C+ or by permission of the Theatre Department. Corequisites: FA/THEA 2110 6.00, FA/THEA 2410 6.00.\n"
+        },
+        {
+            "dept": "thea",
+            "code": "2101",
+            "credit": 6.0,
+            "name": "Production Practicum",
+            "prereqs": "thea1010 thea1100",
+            "desc": "Provides second year production students with the opportunity to expand their learning and practice of technical and management skills associated with creating a production. An alternative to 2100 3.0 for all second-year students working in production and design who want to work on more than one project in their second year Open to majors/minors. Prerequisite: FA/THEA 1010 3.00, FA/THEA 1100 3.00 with a minimum grade of C+ or by permission of the Theatre Department. Corequisite: FA/THEA 2110 6.00, FA/THEA 2410 6.\r\n"
+        },
+        {
+            "dept": "thea",
+            "code": "2110",
+            "credit": 6.0,
+            "name": "2nd year Stagecraft               ",
+            "prereqs": "thea1010 thea1100 thea1200",
+            "desc": "Offers further practical exploration into the elements of theatrical production. Students will explore management, scenic, drafting, lighting and sound techniques. Required of all second-year students working in production and design. Open to theatre majors/minors. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00 with a minimum grade of C+, FA/THEA 1200 6.00 and permission of the Department. "
+        },
+        {
+            "dept": "thea",
+            "code": "2120",
+            "credit": 3.0,
+            "name": "An Introduction to Costuming",
+            "prereqs": "thea1010 thea1100 danc1270 thea1200",
+            "desc": "Offers an introduction to costume drafting, construction and maintenance. Emphasis is placed on the proper use of equipment and employment of techniques of costuming. Note Students will be expected to serve on one crew for a departmental production. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00 or FA/DANC 1270 3.00 and FA/THEA 1200 6.00 or permission of the Theatre Department. Open to majors and non-majors."
+        },
+        {
+            "dept": "thea",
+            "code": "2121",
+            "credit": 3.0,
+            "name": "Basic Costuming I",
+            "prereqs": "thea2120",
+            "desc": "Continues the work begun in FA/THEA 2120 3.00, providing further exploration of the costuming process. It examines techniques from conception to final costume fabrication and how it can be an integral element in a theatrical production. Lectures, demonstrations and projects will help the student develop skills in working with any aspect of theatrical costuming. Prerequisite: FA/THEA 2120 3.00 or permission of the Theatre Department. Open to majors and non-majors."
+        },
+        {
+            "dept": "thea",
+            "code": "2141",
+            "credit": 3.0,
+            "name": "Introduction to Design for Theatre",
+            "prereqs": "",
+            "desc": "Introduces the basic principles of theatrical design dealing with aesthetics and the design process explored through lectures and exercises. The history of scenography and contemporary aspects of stage design is also studied. Open to majors and non-majors. Course credit exclusion: FA/THEA 2141 3.00 (prior to Fall 2010)."
+        },
+        {
+            "dept": "thea",
+            "code": "2200",
+            "credit": 6.0,
+            "name": "History of Theatre and Performance",
+            "prereqs": "thea1010 thea1100 thea1200",
+            "desc": "Offers an historical survey of theatre and performance from classical Athens to late C20. It examines theatre and performance in the larger social, cultural and political contexts by integrating critical analysis with explorations of various performance possibilities. Required of all second-year majors. Open to non-majors. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00 and FA/THEA 1200 6.00 or permission of the Instructor. "
+        },
+        {
+            "dept": "thea",
+            "code": "2210",
+            "credit": 3.0,
+            "name": "Theatre and Social Justice                   ",
+            "prereqs": "thea1010 thea1100 thea1200",
+            "desc": "Provides a basis for continuing work in theatre studies. This course examines questions about the nature of theatre and its role in society. Required of all second-year theatre studies students. Open to non-majors. Prerequisites: FA/THEA 1010 3.00, FA/THEA 1100 3.00 and FA/THEA 1200 6.00 or permission of the Instructor. Corequisite: For theatre majors, FA/THEA 2200 6.00."
+        },
+        {
+            "dept": "thea",
+            "code": "2410",
+            "credit": 6.0,
+            "name": "History of Visual Sources for Theatrical Design",
+            "prereqs": "",
+            "desc": "Offers a survey course relating the architecture, art, clothing, interior design and furnishings of Western civilization to the theatre. The course also touches on the visual aspects of the theatrical styles of various periods. Required of all production and directing students."
+        },
+        {
+            "dept": "thea",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Independent Production Practicum",
+            "prereqs": "",
+            "desc": "Provides an intermediate practicum in production technique usually based on training and experience with a professional theatre/organization. Prerequisite: Permission of the Theatre Department. Open to theatre majors and minors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Independent Production Practicum ",
+            "prereqs": "",
+            "desc": "Provides an intermediate practicum in production technique usually based on training and experience with a professional theatre or organization. Prerequisite: Permission of the Theatre Department. Open to theatre majors and minors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Voice III                        ",
+            "prereqs": "thea2010 thea2011 thea2020 thea2021 thea2030 thea2031",
+            "desc": "This intermediate level course is a continuation of techniques, principles and explorations in voice, speech and text for the actor. Prerequisites BFA (Acting): FA/THEA 2010 3.00, Grade of B or better in FA/THEA 2011 3.00, FA/THEA 2020 3.00, FA/THEA 2021 3.00, FA/THEA 2030 3.00, FA/THEA 2031 3.00 or permission of the department. Corequisites: FA/THEA 3011 3.00, FA/THEA 3020 3.00 and FA/THEA 3030 3.00. Open to  majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3011",
+            "credit": 3.0,
+            "name": "Voice IV                    ",
+            "prereqs": "thea3010",
+            "desc": "Provides intensive application and further development of the work begun in FA/THEA 3010 3.00. Prerequisites: Grade of B or better in FA/THEA 3010 3.00 or permission of the department. Corequisites: FA/THEA 3021 3.00 and FA/THEA 3031 3.00. Open to majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Acting III                    ",
+            "prereqs": "thea2021",
+            "desc": "Provides an examination of acting techniques, approaches to character development and beginning examination of theatrical styles. Note: Plus rehearsal hours. Prerequisites: Grade of B or better in FA/THEA 2021 3.00 or permission of the department. Corequisites (BFA Acting): FA/THEA 3010 3.00, FA/THEA 3011 3.00, FA/THEA 3021 3.00, FA/THEA 3030 3.00 and FA/THEA 3031 3.00. Open to majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3021",
+            "credit": 3.0,
+            "name": "Acting IV                    ",
+            "prereqs": "thea3020",
+            "desc": "Intensive application and further development of the work begun in FA/THEA 3020 3.00. Prerequisites: Grade of B or better in FA/THEA 3020 3.00 or permission of the department. Corequisites: FA/THEA 3011 3.00 and FA/THEA 3031 3.00. Open to  majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3030",
+            "credit": 3.0,
+            "name": "Movement III                       ",
+            "prereqs": "thea2031",
+            "desc": "This intermediate level course is a continuation of techniques, principles and explorations of movement for the actor. Prerequisites: Grade of B or better in FA/THEA 2031 3.00 or permission of the department. Corequisites (BFA Acting): FA/THEA 3010 3.00, FA/THEA 3011 3.00, FA/THEA 3020 3.00, FA/THEA 3021 3.00 and FA/THEA 3031 3.00. Open to  majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3031",
+            "credit": 3.0,
+            "name": "Movement IV                          ",
+            "prereqs": "thea3030",
+            "desc": "Intensive application and further development of the work begun in FA/THEA 3030 3.00. Prerequisites: Grade of B or better in FA/THEA 3030 3.00 or permission of the department. Corequisites: FA/THEA 3010 3.00, FA/THEA 3011 3.00, FA/THEA 3020 3.00, FA/THEA 3021 3.00 and FA/THEA 3030 3.00. Open to majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3050",
+            "credit": 3.0,
+            "name": "Devised Theatre in Practice I",
+            "prereqs": "thea2051",
+            "desc": "Rigorously develops the processes and skills of devising and interpreting theatre works within a collaborative context. In classroom exercises, and through the rehearsal and performance of assigned performance projects, students will explore and practice the creative approaches of the theatre practitioner. Practical studio course. Prerequisites: Grade of B or better in FA/THEA 2051 3.00, and permission of the department. Open to majors only. Note: Plus rehearsal hours. Corequisite: FA/THEA 3200 3.00.\n"
+        },
+        {
+            "dept": "thea",
+            "code": "3051",
+            "credit": 3.0,
+            "name": "Devised Theatre in Practice II",
+            "prereqs": "thea3050",
+            "desc": "Building on the processes and skills investigated in FA/THEA 3050 3.00, this practical studio course offers students further opportunities to practice the creation and presentation of devised theatre pieces in a collaborative setting. Classroom exercises and assigned performance projects will prepare participants for their final year public showcase in FA/THEA 4050 3.00 and FA/THEA 4051 3.00. Prerequisites: Grade of  B or better in FA/THEA 3050 3.00 and permission of the Theatre Department. Open to majors only. Note: Plus rehearsal hours."
+        },
+        {
+            "dept": "thea",
+            "code": "3060",
+            "credit": 3.0,
+            "name": "Public Speaking:Prep,Practice,Present",
+            "prereqs": "",
+            "desc": "Examines how to prepare and practice for presentations in seminars, office, public events. Develops physical, vocal and rhetorical skills needed for public presentations. Prerequisite: third- or fourth- year standing, FA/THEA 2060.3.00 or permission of the department. Open to theatre majors and non-majors."
+        },
+        {
+            "dept": "thea",
+            "code": "3070",
+            "credit": 3.0,
+            "name": "Performance Practicum I                ",
+            "prereqs": "thea2021 thea2051",
+            "desc": "Intended for third-year students working in acting, or in assistant directing mounted or unmounted department productions in the fall term. This course offers an intensive opportunity to develop and improve skills in the creation of workshop productions. Prerequisites: FA/THEA 2021 3.00 or FA/THEA 2051 3.00 and/or permission of the department. Open to majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3071",
+            "credit": 3.0,
+            "name": "Performance Practicum II              ",
+            "prereqs": "thea3020 thea3050",
+            "desc": "Intended for third-year students in acting, or in assistant directing mounted or unmounted department productions in the winter term. This course offers an intensive opportunity to develop and improve skills in the creation of workshop productions. Prerequisites: FA/THEA 3020 3.00 or FA/THEA 3050 3.00 and/or permission of the department. Open to majors only."
+        },
+        {
+            "dept": "thea",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Production Practicum                   ",
+            "prereqs": "thea2100 thea2100 thea2101 thea2101",
+            "desc": "Required of all third-year students working in production and design. The course gives students an opportunity to experience all aspects of creating a show (including stage management) from a production standpoint. Prerequisites: FA/THEA 2100 3.00 or permission of the production area. Prerequisites: FA/THEA 2100 3.00, FA/THEA 2101 3.00 or FA/THEA 2101 6.00 with a minimum grade of C+ or by permission of the Production/Design Area. Corequisite: At least one other studio course in theatre production. Note: Students may take FA/THEA 3100 3.00 or FA/THEA 3101 6.00, but not both concurrently. Open to majors and minors only or by permission of the department."
+        },
+        {
+            "dept": "thea",
+            "code": "3101",
+            "credit": 3.0,
+            "name": "Production Practicum ",
+            "prereqs": "thea2100 thea2100 thea2101 thea2101",
+            "desc": "Required of all third-year students working in production and design. The course gives students an opportunity to experience all aspects of creating a show (including stage management) from a production standpoint. Prerequisites: FA/THEA 2100 3.00 or permission of the production area. Prerequisites: FA/THEA 2100 3.00, FA/THEA 2101 3.00 or FA/THEA 2101 6.00 with a minimum grade of C+ or by permission of the Production/Design Area. Corequisite: At least one other studio course in theatre production. Note: Students may take FA/THEA 3100 3.00 or FA/THEA 3101 6.00, but not both concurrently. Open to majors and minors only or by permission of the department."
+        },
+        {
+            "dept": "thea",
+            "code": "3101",
+            "credit": 6.0,
+            "name": "Production Practicum                   ",
+            "prereqs": "thea2100 thea2100 thea2101 thea2101",
+            "desc": "Required of all third-year students working in production and design. The course gives students an opportunity to experience all aspects of creating a show (including stage management) from a production standpoint. Prerequisites: FA/THEA 2100 3.00 or permission of the production area. Prerequisites: FA/THEA 2100 3.00, FA/THEA 2101 3.00 or FA/THEA 2101 6.00 with a minimum grade of C+ or by permission of the Production/Design Area. Corequisite: At least one other studio course in theatre production. Note: Students may take FA/THEA 3100 3.00 or FA/THEA 3101 6.00, but not both concurrently. Open to majors and minors only or by permission of the department."
+        },
+        {
+            "dept": "thea",
+            "code": "3120",
+            "credit": 3.0,
+            "name": "Basic Costuming II",
+            "prereqs": "thea2120",
+            "desc": "Provides Intensive application and further development of work begun in FA/THEA 2120 3.00. The course focuses on costume drafting and construction, and proper use of equipment and materials.  Prerequisite: FA/THEA 2120 3.00 or permission of the Theatre Department. ."
+        },
+        {
+            "dept": "thea",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Lighting Design I",
+            "prereqs": "thea2141",
+            "desc": "Introduces the theory and practical application of theatrical lighting design. Prerequisite: FA/THEA 2141 3.00 or permission of the Theatre Department. Corequisite: FA/THEA 3145 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "3131",
+            "credit": 3.0,
+            "name": "Lighting Design II ",
+            "prereqs": "thea3130",
+            "desc": "Continues to introduce students to the methods and objectives of stage lighting begun in FA/THEA 3130 3.00 Lighting Design I and FA/DANC 4270 3.00 Lighting Design for Dance. Lights will be examined in their practical uses by studying the controllable (and not so controllable) properties of light, visual perception, colour theories, the audience-performance relationship and the affect of architecture on that relationship. Prerequisites: FA/THEA 3130 3.00 or FA/DANC 4270 3.00. Corequisite: FA/THEA 3145 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "3135",
+            "credit": 3.0,
+            "name": "Technology in Arts Management ",
+            "prereqs": "",
+            "desc": "Trains students to use current technologies to mange both production and their own careers. Students will be introduced to the fundamental concepts and uses of many computer programs and protocols that will be helpful for furthering themselves in their professions. Students will learn the basic skills needed to establish a web presence for information distribution and self promotion, familiarize themselves with best practices and operation of databases to better manage and record information, and work with common graphic design and presentation software to create more effective and clear documentation."
+        },
+        {
+            "dept": "thea",
+            "code": "3142",
+            "credit": 3.0,
+            "name": "Drawing for the Theatre I",
+            "prereqs": "",
+            "desc": "Aims at giving the student the basic skills of drawing, and the particular requirements of visual expression for theatre set and costume design. "
+        },
+        {
+            "dept": "thea",
+            "code": "3143",
+            "credit": 3.0,
+            "name": "Set and Costume Design I",
+            "prereqs": "thea2141 thea2410 thea3142 thea3145",
+            "desc": "Focuses on designing visual and spatial elements for live performance spaces and the performers who fill them. The goal is to provide students with the basic skills required to design sets and costumes for theatre. Prerequisites: FA/THEA 2141 3.00 and FA/THEA 2410 6.00 or permission of the Instructor. Co-requisite: FA/THEA 3142 3.00 and FA/THEA 3145 3.00 or permission of the Theatre Department."
+        },
+        {
+            "dept": "thea",
+            "code": "3144",
+            "credit": 3.0,
+            "name": "Set and Costume Design II",
+            "prereqs": "thea3143",
+            "desc": "Builds on FA/THEA 3143 3.00. Using research, text analysis, model building, drawing and painting, students design theoretical sets and costumes for plays set within York's live performance spaces. Higher levels of understanding theatre design, combined with hands-on practice of essential skills, prepare students for future potential real-life design projects. Prerequisite: FA/THEA 3143 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "3145",
+            "credit": 3.0,
+            "name": "Technical Drawing for the Theatre",
+            "prereqs": "",
+            "desc": "This blended studio and online course familiarizes students with technical drawing for the theatre, both as a creator and reader of drafting. This involves the ability not only to communicate technical material for a design's realisation on stage, but also to translate painted renderings and/or models into technical drawings for costing and construction. It will involve hand drafting at first, the Computer Assisted Drafting towards the end of the course. It is intended for set and lighting design students, as well as students of technical directing, production and stage managers, as well as those working in theatre shops."
+        },
+        {
+            "dept": "thea",
+            "code": "3150",
+            "credit": 3.0,
+            "name": "Theatre Management",
+            "prereqs": "thea2200",
+            "desc": "Introduces students to the principles of theatre management and organization including staffing, budgeting, fund raising, box office and production management. Note: This course or FA/THEA 4150 3.00 is required of all majors. Prerequisite: FA/THEA 2200 6.00. Corequisite: Non-majors by permission of the Instructor."
+        },
+        {
+            "dept": "thea",
+            "code": "3180",
+            "credit": 3.0,
+            "name": "Stage Management",
+            "prereqs": "thea2100",
+            "desc": "A practicum in the art of stage management, consisting of lectures and seminars on theory, methodology and organization, focused through practical application of developed skills. Prerequisites: FA/THEA 2100 3.00 or permission of the Theatre Department."
+        },
+        {
+            "dept": "thea",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Canadian Theatre and Performance",
+            "prereqs": "thea2200",
+            "desc": "Examines the emergence of theatre in Canada. Required of all third-year majors. Prerequisite: FA/THEA 2200 6.00 or permission of the Instructor."
+        },
+        {
+            "dept": "thea",
+            "code": "3235",
+            "credit": 3.0,
+            "name": "The Body in Performance",
+            "prereqs": "facs1900",
+            "desc": "Focuses on ideas and issues surrounding embodiment and the body in performance. Through critical inquiry, it will explore various theoretical perspectives on the performing body and some of the traditions from which it has emerged. Prerequisite: FA/FACS 1900 6.00 or permission of the Instructor. PRIOR TO WINTER 2017: course credit exclusion: FA/FACS 3500 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "Screen Acting: Practical Approaches to the Craft of the Actor",
+            "prereqs": "",
+            "desc": "Offers an introduction to the complexities of the actor's process as it relates to contemporary film and television production. This course is open to all Arts, Media, Performance &amp; Design students and theatre majors."
+        },
+        {
+            "dept": "thea",
+            "code": "3260H",
+            "credit": 3.0,
+            "name": "Black Theatre and Performance",
+            "prereqs": "",
+            "desc": "Explores black theatre and black performance created in the African Diaspora of North America, the Caribbean and Europe in the 20th and 21st centuries, through the examination of the influences of key artists and theorists.  "
+        },
+        {
+            "dept": "thea",
+            "code": "3290",
+            "credit": 6.0,
+            "name": "Playwriting and New Play Dramaturgy I",
+            "prereqs": "",
+            "desc": "Through reading of student-written material, in-class discussion and dramaturgical input from students and the Instructor, students work towards creation and development of theatrical work. Prerequisites: Submission of portfolio and permission of Instructor."
+        },
+        {
+            "dept": "thea",
+            "code": "3331",
+            "credit": 3.0,
+            "name": "The Theatricality Of Power:  Violence, memory, and revolution",
+            "prereqs": "",
+            "desc": "Examines the use of theatre, spectacle, and theatricality- by the state, by oppositional groups, and by performance practitioners - to establish or challenge structures of power. Prerequisite: 3000-level standing or permission of the Instructor. PRIOR TO WINTER 2017: course Credit Exclusion: FA/FACS 3100 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Independent Production Practicum",
+            "prereqs": "",
+            "desc": "Provides An advanced practicum in production technique usually based on training and experience with a professional theatre. Prerequisite: Permission of the production area, by special arrangement. Open only to theatre majors."
+        },
+        {
+            "dept": "thea",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Independent Production Practicum",
+            "prereqs": "",
+            "desc": "Provides An advanced practicum in production technique usually based on training and experience with a professional theatre. Prerequisite: Permission of the production area, by special arrangement. Open only to theatre majors."
+        },
+        {
+            "dept": "thea",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Voice V",
+            "prereqs": "thea3011",
+            "desc": "Incorporates, focuses and adds to the skills developed in prior years training of shaping the character within the context of the play and the performance. Prerequisites: Grade of B or better in FA/THEA 3011 3.00 or permission of the department. Corequisites: FA/THEA 4020 3.00 and FA/THEA 4030 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "4011",
+            "credit": 3.0,
+            "name": "Voice VI",
+            "prereqs": "thea4010",
+            "desc": "Incorporates, focuses and adds to the skills developed in prior years training of shaping the character within the context of the play and the performance. Intensive application and further development of the work begun in FA/THEA 4010 3.00. Prerequisites: Grade of B or better in FA/THEA 4010 3.00 or permission of the department. Corequisites: FA/THEA 4021 3.00 and FA/THEA 4071 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Acting V",
+            "prereqs": "thea3021",
+            "desc": "Examines acting technique. Prerequisites: Grade of B or better in FA/THEA 3021 3.00 or permission of the department. Corequisites: FA/THEA 4010 3.00 and FA/THEA 4030 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "4021",
+            "credit": 3.0,
+            "name": "Acting VI",
+            "prereqs": "thea4020",
+            "desc": "Examines acting technique. Intensive application and further development of the work begun in FA/THEA 4020 3.00. Prerequisites: Grade of B or better in FA/THEA 4020 3.00 or permission of the department. Corequisites: FA/THEA 4011 3.00 and FA/THEA 4071 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "4030",
+            "credit": 3.0,
+            "name": "Movement V",
+            "prereqs": "thea3031",
+            "desc": "Incorporates, focuses and adds to the skills developed in prior years training to shaping the character within the context of the play and the performance. Prerequisites: Grade of B or better in FA/THEA 3031 3.00 or permission of the department. Corequisites: FA/THEA 4010 3.00 and FA/THEA 4020 3.00."
+        },
+        {
+            "dept": "thea",
+            "code": "4050",
+            "credit": 3.0,
+            "name": "Devised Theatre Perspectives",
+            "prereqs": "thea3051",
+            "desc": "Offers students in their final year of Devised Theatre an intensive curriculum in further perspectives of devised theatre exploration. Incorporating skill sets from the previous two years of training, this class will focus on advanced techniques for creating and performing original theatre works in a group setting, in preparation for a performance in the Devised Theatre Festival in the winter term. Prerequisites: Grade of B or better in FA/THEA 3051 3.00 and permission of the Theatre Department. Open to majors only. Note: Plus rehearsal hours."
+        },
+        {
+            "dept": "thea",
+            "code": "4051",
+            "credit": 3.0,
+            "name": "Devised Theatre Workshop ",
+            "prereqs": "thea4050",
+            "desc": "Offers an opportunity for students to consolidate their training by creating and performing their own piece(s) for a public performance in the Devised Theatre Festival at the end of the winter term. In accordance with the self-reliant nature of this series of classes, students will participate fully in all aspects of the collaborative devising of theatre in these presentations, from conception to execution, with minimal dependence on external technical support. Prerequisites: Minimum of B in FA/THEA 4050 3.00 and permission of the Theatre Department. Open to majors only. Note: Plus rehearsal hours."
+        },
+        {
+            "dept": "thea",
+            "code": "4070",
+            "credit": 3.0,
+            "name": "Performance Practicum III",
+            "prereqs": "thea3021 thea3050 thea4485",
+            "desc": "Intended for final-year students in acting, or in assistant directing mounted department productions in the fall term. This course gives students an intensive opportunity to develop advanced skills in the creation of a fully mounted production. Prerequisites: FA/THEA 3021 3.00 or FA/THEA 3050 3.00, and/or permission of the Theatre Department. For assistant directors, it is recommended to take FA/THEA 4485 3.00. Open to Theatre majors only.\r\n"
+        },
+        {
+            "dept": "thea",
+            "code": "4071",
+            "credit": 3.0,
+            "name": "Performance Practicum IV",
+            "prereqs": "thea4020 thea4050",
+            "desc": "Intended for final-year students in acting, or in assistant directing mounted department productions in the winter term. This course gives students an intensive opportunity to develop advanced skills in the creation of a fully mounted production. Prerequisites: FA/THEA 4020 3.00 or FA/THEA 4050 3.00, and/or permission of the Theatre Department. Corequisites for Specialized Honours BFA Program (Acting) FA/THEA 4011 3.00 and FA/THEA 4021 3.00. For assistant directors, it is recommended to take FA/THEA 4485 3.00. Open to Theatre majors only.\r\n"
+        },
+        {
+            "dept": "thea",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Production Practicum II",
+            "prereqs": "thea3100 thea3101",
+            "desc": "Required of all fourth-year students working in production and design, the course gives advanced students an opportunity to further develop and perfect skills in the creation of a show. Labs include work on departmental productions. Prerequisite: FA/THEA 3100 3.00 or FA/THEA 3101 6.00 with a minimum grade of C+ or by permission of the Production/Design Area. Corequisite: At least one other 4000-level course in theatre production. Open to non-majors by permission of the department. Note: Students may take FA/THEA 4100 3.00 or FA/THEA4101 6.00, but not both concurrently."
+        },
+        {
+            "dept": "thea",
+            "code": "4101",
+            "credit": 6.0,
+            "name": "Production Practicum II",
+            "prereqs": "thea3100 thea3101",
+            "desc": "Required of all fourth-year students working in production and design, the course gives advanced students an opportunity to further develop and perfect skills in the creation of a show. Labs include work on departmental productions. Prerequisite: FA/THEA 3100 3.00 or FA/THEA 3101 6.00.  "
+        },
+        {
+            "dept": "thea",
+            "code": "4101",
+            "credit": 3.0,
+            "name": "Production Practicum II",
+            "prereqs": "thea3100 thea3101",
+            "desc": "Required of all fourth-year students working in production and design, the course gives advanced students an opportunity to further develop and perfect skills in the creation of a show. Labs include work on departmental productions. Prerequisite: FA/THEA 3100 3.00 or FA/THEA 3101 3.00 or 6.00.  "
+        },
+        {
+            "dept": "thea",
+            "code": "4111",
+            "credit": 3.0,
+            "name": "Sustainable Staging Techniques",
+            "prereqs": "",
+            "desc": "Addresses the need for theatre practitioners to study practices that are more sustainable for the theatrical production and design process. A strong understanding of current sustainable practices in many industries including theatre will be studied and developed . Theatre artists have the goal of creating good art; all people should have the goal to do things sustainably. The goal is to create new, more sustainable methodologies in theatre by looking at the history of theatre practice and the new techniques that are embraced in the construction and design fields of any industry. By Permission of the Instructor. Open to non-majors."
+        },
+        {
+            "dept": "thea",
+            "code": "4120",
+            "credit": 3.0,
+            "name": "Advanced Costuming",
+            "prereqs": "",
+            "desc": "Advanced costuming offers students the opportunity to explore traditional and non\u00ad traditional materials and techniques to create a costume for a performance piece. An emphasis will be placed on the examination of emerging technology in the costume making process:the use of thermoplastics,30 printing.soft circuits and conductive material.This course aims to reinforce the idea that the costume making process, from concept to realized garment, is an essential component for character development. Prerequisite: FAfTHEA 3120 3.00 or permission of the Theatre Department.\n"
+        },
+        {
+            "dept": "thea",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Lighting and Media Design ",
+            "prereqs": "thea3131 thea3145",
+            "desc": "Explores the intensive application and further development of work begun in Lighting Design I. Meets for the full academic year. Prerequisites: FA/THEA 3131 3.00, FA/THEA 3145 3.00 or permission of the Theatre Department."
+        },
+        {
+            "dept": "thea",
+            "code": "4143",
+            "credit": 6.0,
+            "name": "Set and Costume Design III",
+            "prereqs": "thea3143 thea3144 thea3145 thea3142",
+            "desc": "Continues the design program of FA/THEA 3143 3.00 and FA/THEA 3144 3.0. Students will expand their knowledge in the area of costume and set design. Collaborative and interdisciplinary aspect of the design for performing arts is the focus of this course. Prerequisites: FA/THEA 3143 3.00, FA/THEA 3144 3.00, FA/THEA 3145 3.00, FA/THEA 3142 3.00 or by permission of the Theatre Department. Open to Theatre majors and/ or permission of the Theatre Department."
+        },
+        {
+            "dept": "thea",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Perspectives on Contemporary Theatre",
+            "prereqs": "thea3200",
+            "desc": "Explores some of the innovative and challenging developments in dramatic writing and theatrical performance in the last 25 years, in Canada and internationally. Prerequisites: For theatre majors, FA/THEA 3200 3.00.\n\r\n"
+        },
+        {
+            "dept": "thea",
+            "code": "4290",
+            "credit": 6.0,
+            "name": "Playwriting and New Play Dramaturgy II",
+            "prereqs": "thea3290",
+            "desc": "Emphasizing skills development, this process-oriented course builds on discoveries achieved in Playwriting and New Play Dramaturgy I, and continues to explore the special requirements of new play dramaturgy and play development. Prerequisites: FA/THEA 3290 6.00, submission of portfolio and permission of the department."
+        },
+        {
+            "dept": "thea",
+            "code": "4300",
+            "credit": 6.0,
+            "name": "Independent Study I",
+            "prereqs": "",
+            "desc": "For highly motivated fourth-year Theatre majors who have an Overall GPA of 6.0 or better and a Major GPA of 7.0 or better, and who wish to pursue special and intensive personal study in an independent non-studio course under the supervision of an appropriate Area faculty member. Note: Open by application to the Department of Theatre Undergraduate Education Committee."
+        },
+        {
+            "dept": "thea",
+            "code": "4300",
+            "credit": 3.0,
+            "name": "Independent Study I",
+            "prereqs": "",
+            "desc": "For highly motivated fourth-year Theatre majors who have an Overall GPA of 6.0 or better and a Major GPA of 7.0 or better, and who wish to pursue special and intensive personal study in an independent non-studio course under the supervision of an appropriate Area faculty member. Note: Open by application to the Department of Theatre Undergraduate Education Committee."
+        },
+        {
+            "dept": "thea",
+            "code": "4301",
+            "credit": 6.0,
+            "name": "Independent Study II",
+            "prereqs": "",
+            "desc": "For highly motivated fourth-year Theatre majors who have an Overall GPA of 6.0 or better and a Major GPA of 7.0 or better, and who wish to pursue special and intensive personal study in an independent studio course under the supervision of an appropriate Area faculty member. Note: Open by application to the Department of Theatre Undergraduate Education Committee."
+        },
+        {
+            "dept": "thea",
+            "code": "4301",
+            "credit": 3.0,
+            "name": "Independent Study II",
+            "prereqs": "",
+            "desc": "For highly motivated fourth-year Theatre majors who have an Overall GPA of 6.0 or better and a Major GPA of 7.0 or better, and who wish to pursue special and intensive personal study in an independent studio course under the supervision of an appropriate Area faculty member. Note: Open by application to the Department of Theatre Undergraduate Education Committee."
+        },
+        {
+            "dept": "thea",
+            "code": "4331",
+            "credit": 3.0,
+            "name": "Performance, Politics, and Human Rights",
+            "prereqs": "",
+            "desc": "Studies the ways in which playwrights and theatre artists have employed theatre as a medium for addressing social and political issues, and as a vehicle for political mobilization. Course credit exclusion: FA/THEA 4331 6.00. Open to non-majors."
+        },
+        {
+            "dept": "thea",
+            "code": "4360",
+            "credit": 3.0,
+            "name": "The Musical Theatre",
+            "prereqs": "",
+            "desc": "Examines the evolution of America's most enduringly popular and democratically accessible theatrical form in its historical and cultural context, together with analysis and criticism of some of its epoch-making manifestations. Prerequisite: Third- or fourth-year standing. Others by permission of the course department.\r\n"
+        },
+        {
+            "dept": "thea",
+            "code": "4485",
+            "credit": 3.0,
+            "name": "Aspects of Directing",
+            "prereqs": "thea2410 thea3051 thea3210 thea3290 thea3070 thea3071",
+            "desc": "Provides an Investigation and application of the fundamental and intermediate principles of directing for the theatre. Prerequisites: FA/THEA 2410 6.00; FA/THEA 3051 3.00 or FA/THEA 3210 6.00 or FA/THEA 3290 6.00; FA/THEA 3070 3.00 or FA/THEA 3071 3.00; or by application to the department. Corequisites: FA/THEA 4070 3.00 or FA/THEA 4071 3.00. Course credit exclusion:  FA/THEA 4480 6.00."
+        },
+        {
+            "dept": "thea",
+            "code": "5075",
+            "credit": 3.0,
+            "name": "Solo Performance Creation; Devising for Solo Performance in any Medium",
+            "prereqs": "",
+            "desc": "Through sourcing exercises, presentations of student-created material, and feedback, students develop material for solo performance in any medium. The class focuses on creation rather than production. Prerequisites: Some studio training required (dance, digital media, acting\u0085). Submission of a resume (portfolio/video if available), interest statement and permission of Instructor. Available to MFA students in theatre and MA/PhD students in Theatre and Performance Studies."
+        },
+        {
+            "dept": "thea",
+            "code": "5076",
+            "credit": 3.0,
+            "name": "Performance Creation II",
+            "prereqs": "",
+            "desc": "Continued creation of a performance piece begun in Theatre 5075 3.0 in any medium. The student is mentored while creating a 'mood-board', building a support team, long term planning for creation and advancing previously devised or created material.  The class also examines grants for performance creation. There is one performance scheduled downtown to showcase an excerpt of the work.\r\n\r\nPrerequisites: Theatre 5075 3.0\r\n"
+        },
+        {
+            "dept": "thea",
+            "code": "5111",
+            "credit": 3.0,
+            "name": "Sustainable Design in Performance ",
+            "prereqs": "",
+            "desc": "Sustainable Design in Performance prepares students to tackle issues of sustainability in theatrical and related artistic practice. Students will build their literacy in contemporary sustainable thinking, environmental/climate issues, emerging models of creation, pedagogy, and community stakeholder engagement through a combination of research, modelling and field work as strategic change agents in professional settings."
+        },
+        {
+            "dept": "thea",
+            "code": "5210",
+            "credit": 3.0,
+            "name": "Graduate Research Seminar",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "thea",
+            "code": "5400",
+            "credit": 3.0,
+            "name": "Historical Sources for Designs and Directors",
+            "prereqs": "",
+            "desc": "This is a survey course relating the architecture, art, clothing, interior design and furnishings of world civilization to the theatre. The course also touches on the visual aspects of the theatrical styles of various periods. Required of all design and directing students."
+        },
+        {
+            "dept": "thea",
+            "code": "5413",
+            "credit": 3.0,
+            "name": "Graduate One Ecological Design for the Performing Arts",
+            "prereqs": "",
+            "desc": "Provides the opportunity to work on complex projects through the various areas of theatrical design in traditional theatre, dance or opera incorporating sustainability in space, design and production methods. Corequisites: GS/THEA 5210 3.00, GS/THEA 5410 3.00, GS/THEA 5412 3.00"
+        }
+    ]
+}

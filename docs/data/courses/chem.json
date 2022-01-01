@@ -1,0 +1,516 @@
+{
+    "courses": [
+        {
+            "dept": "chem",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Chemical Structure",
+            "prereqs": "chem1500",
+            "desc": "Introduction to chemistry with emphasis on physical and electronic structure of matter, including gases, liquids and solids. Topics include behaviour of gases; thermochemistry; atomic structure and periodic table; chemical bonding and architecture; structure of liquids and solids; frontiers of chemistry. Two and one-half lecture hours per week, one tutorial hour per week, six three-hour laboratory sessions. One term. Three credits. Prerequisites: OAC chemistry, 12U chemistry or SC/CHEM 1500 4.00 or equivalent. Course credit exclusions: SC/CHEM 1100 3.00, SC/ISCI 1201 3.00, SC/ISCI 1210 6.00."
+        },
+        {
+            "dept": "chem",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "Chemical Dynamics",
+            "prereqs": "chem1500",
+            "desc": "This course complements SC/CHEM 1000 3.00 - with emphasis on chemical change and equilibrium. Topics include chemical kinetics; chemical equilibrium; entropy and free energy as driving forces for chemical change; electrochemistry; frontiers in chemistry. Prerequisites: OAC chemistry, 12U chemistry or SC/CHEM 1500 4.00 or equivalent. Course credit exclusions: SC/ISCI 1202 3.00, SC/ISCI 1210 6.00."
+        },
+        {
+            "dept": "chem",
+            "code": "1100",
+            "credit": 4.0,
+            "name": "Chemistry and Materials Science for Engineers",
+            "prereqs": "",
+            "desc": "The course is designed for Engineering students interested in refreshing and expending their general chemistry knowledge while exploring the relationship between structure of matter, properties and processing. This course will focus mainly at covering important introductory concept to understand solution chemistry including reactivity, thermochemistry, structure and properties of materials. The course is divided in six sections. The first section covers an introduction to the topic of Materials Science and its impact on our daily lives as well as future trends and review key chemistry concepts required for this course. The second section will present the states of matter (gas, liquid and solid), their physical characteristics and the forces holding materials together (bonding and intermolecular forces). The third section will expend on the liquid phase and properties of solutions including equilibrium, solubility, pH and pKa. The fourth section will deal with thermochemistry and its first law with an emphasis on enthalpy as well as phase changes and phase diagrams. Section six will present an introduction to the properties of solids (electronic and mechanical) and criteria in the selection of materials will also be discussed. Section seven will present in more details structure-properties and processing of soft materials (natural and artificial polymer) in the context of the material covered in the other sections. Prerequisites: 12U chemistry or equivalent. Course credit exclusion: SC/CHEM 1000 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "1500",
+            "credit": 4.0,
+            "name": "Introduction to Chemistry",
+            "prereqs": "",
+            "desc": "An introductory course in chemistry for students needing an adequate preparation for SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00. Topics include basic atomic theory, stoichiometry, the periodic table, chemical bonding, equilibria, acids and bases, oxidation-reduction and organic chemistry. Each student is counselled by a faculty adviser to enrol either in this course or in SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00 depending on previous chemistry experience. Note: May not be taken by any student who has taken or is currently taking another university course in chemistry."
+        },
+        {
+            "dept": "chem",
+            "code": "1550",
+            "credit": 3.0,
+            "name": "Introductory Biochemistry for Nurses",
+            "prereqs": "",
+            "desc": "An introductory course in chemistry as applied to the nursing profession. Provides an overview of the basic chemical and biochemical concepts relevant to the understanding and promotion of human health and wellness. Note: Only open to students in the Second Entry Nursing Program."
+        },
+        {
+            "dept": "chem",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Problem Solving in Chemistry",
+            "prereqs": "chem1000 chem1001 math1013",
+            "desc": "This course introduces students to fundamental methods and techniques that are needed to view and solve problems in chemistry. The instructor first gives a brief overview and introduction of mathematical knowledge that is needed in solving general chemistry problems. The knowledge is then applied to develop concepts of a variety of fields in chemistry. The concepts include: (1) thermodynamic state functions and their analyses; (2) numerical analysis in experiments; (3) evolution of material quantities in chemical kinetics; (4) linear algebra application in chemistry; (5) vector analysis in chemistry Overall, the purpose of this course is to prepare students for the more advanced third- and fourth-year chemistry courses.\nPrerequisites: SC/CHEM 1000 3.00, SC/CHEM 1001 3.00, SC/MATH 1013 3.00.  Prerequisite or Corequisite: SC/MATH 1014 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2011",
+            "credit": 3.0,
+            "name": "Introduction to Thermodynamics",
+            "prereqs": "math1014 math1505 chem1001 chem1100",
+            "desc": "This course is an introduction to equilibrium chemical thermodynamics. The three laws of thermodynamics and the thermodynamic state functions are described. Many applications are considered, including the operation of heat engines, phase transformations, thermochemistry and chemical reaction equilibria. Three lecture hours, one tutorial hour. One term. Three credits. Prerequisites: SC/MATH 1014 3.00, or SC/MATH 1505 6.00 with a minimum grade of B; SC/CHEM 1001 3.00 or SC/CHEM 1100 4.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "Introductory Organic Chemistry I",
+            "prereqs": "chem1000 chem1001",
+            "desc": "An introduction to organic chemistry: nomenclature, bonding, structure, resonance, reactivity, thermodynamics, kinetics, preparation and reactions of alkanes, alkenes, alkynes, alkyl halides and alcohols, with mechanisms. Prerequisites: SC/CHEM 1000 3.00, SC/CHEM 1001 3.00. Course credit exclusion: SC/CHEM 2020 6.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2021",
+            "credit": 3.0,
+            "name": "Introductory Organic Chemistry II",
+            "prereqs": "chem2020",
+            "desc": "An introduction to organic chemistry: nomenclature, bonding, structure, resonance, reactivity, thermodynamics, kinetics, preparation and reactions of alkanes, alkenes, alkynes, alkyl halides and alcohols, with mechanisms. Prerequisites: SC/CHEM 2020 3.00. Course Credit exclusion: SC/CHEM 2020 6.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2030",
+            "credit": 3.0,
+            "name": "Basic Inorganic Chemistry",
+            "prereqs": "chem1000 chem1001",
+            "desc": "The descriptive chemistry of the more common elements is discussed within the context of qualitative inorganic analysis. Principles of ionic equilibria in aqueous solution, elementary coordination chemistry and electrochemical potentials are presented. Prerequisites: Both SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2050",
+            "credit": 4.0,
+            "name": "Introductory Biochemistry",
+            "prereqs": "",
+            "desc": "An introduction to biochemistry for chemistry students. Course material includes cellular functions, biomolecules and metabolism. Prerequisite or corequisite: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00. Course credit exclusions: SC/BIOL 2020 3.00, SC/BCHM 2020 3.00, SC/BIOL 2020 4.00 (prior to Winter 2012), SC/BCHM 2020 4.00 (prior to Winter 2012)."
+        },
+        {
+            "dept": "chem",
+            "code": "2080",
+            "credit": 4.0,
+            "name": "Analytical Chemistry",
+            "prereqs": "chem1000 chem1001",
+            "desc": "Introduction to quantitative chemical analysis and the analytical method; errors and statistical analysis of data; gravimetric and volumetric methods of analysis including acid-base, precipitation, complexation and redox titrimetry, the effect of equilibria on chemical analysis; introduction to potentiometry and spectrophotometry. Prerequisites: Both SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2200",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "chem1000 chem1001",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week.\nPrerequisites: Open to students in a Chemistry or Biochemistry program having completed SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00 and not meeting the prerequisites for SC/CHEM 3200 0.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2201",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "chem2200",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week.\nPrerequisite: SC/CHEM 2200 0.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2202",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "chem2201",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week.\nPrerequisite: SC/CHEM 2201 0.00."
+        },
+        {
+            "dept": "chem",
+            "code": "2550",
+            "credit": 3.0,
+            "name": "Pharmacology for Health Sciences",
+            "prereqs": "chem1550 biol2020 bchm2020 biol2020",
+            "desc": "An introduction to the general principles of pharmacotherapeutics, pharmacokinetics and pharmacodynamics. Prerequisites: SC/CHEM 1550 3.00 or SC/BIOL 2020 3.00 or SC/BCHM 2020 3.00 or SC/BIOL 2020 4.00 Note: Preference in enrolment will be given to students in the Second Entry Nursing Program. Course Credit Exclusion: SC/SENE 3073 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Experimental Chemistry I",
+            "prereqs": "chem2020 chem2021 chem2030 chem2080",
+            "desc": "A laboratory course in organic, inorganic and physical chemistry, including basic instruction in data handling, use of the literature and formal report writing. Prerequisites: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00, SC/CHEM 2030 3.00, SC/CHEM 2080 4.00. Prerequisite or corequisite: SC/CHEM 2011 3.00. PRIOR TO WINTER 2015: course credit exclusions: SC/CHEM 3011 4.00, SC/CHEM 3020 4.00, SC/CHEM 3030 4.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3001",
+            "credit": 3.0,
+            "name": "Experimental Chemistry II",
+            "prereqs": "chem3000",
+            "desc": "A second, advanced laboratory course in organic, inorganic and physical chemistry, building on SC/CHEM 3000 3.00.\nPrerequisite: SC/CHEM 3000 3.00. PRIOR TO WINTER 2015: course credit exclusions: SC/CHEM 3010 4.00, SC/CHEM 3021 4.00, SC/CHEM 3031 4.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Physical Chemistry",
+            "prereqs": "chem2011 chem2030",
+            "desc": "An introduction to quantum mechanics, spectroscopy and statistical thermodynamics with applications to atoms and small molecules.  Electronic structure and chemical bonds.  Three lecture hours per week. First term. Three credits.  Prerequisites: SC/CHEM 2011 3.00, SC/CHEM 2030 3.00.  "
+        },
+        {
+            "dept": "chem",
+            "code": "3011",
+            "credit": 3.0,
+            "name": "Physical Chemistry",
+            "prereqs": "chem2011",
+            "desc": "This is an introductory course in chemical kinetics as applied primarily to reactions in the gas phase but also in solution and at electrode surfaces. Three lecture hours per week. One term. Three credits. Prerequisite: SC/CHEM 2011 3.00\r\n"
+        },
+        {
+            "dept": "chem",
+            "code": "3020",
+            "credit": 3.0,
+            "name": "Intermediate Organic Chemistry I",
+            "prereqs": "chem2020 chem2021",
+            "desc": "Intermediate topics in NMR spectroscopy and mass spectrometry, carbanion and enol chemistry and introductory heterocyclic chemistry, with biochemical examples. Three lecture hours and one tutorial hour per week. One term. Three credits. Prerequisite: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00. "
+        },
+        {
+            "dept": "chem",
+            "code": "3021",
+            "credit": 3.0,
+            "name": "Intermediate Organic Chemistry II",
+            "prereqs": "chem3020",
+            "desc": "A course building on SC/CHEM 3020 3.00, dealing with a variety of advanced reactions and stereochemistry. Prerequisite: SC/CHEM 3020 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3030",
+            "credit": 3.0,
+            "name": "Transition Metal Chemistry",
+            "prereqs": "chem2021 chem2020 chem2030",
+            "desc": "The chemistry of the transition metals is discussed from an historical perspective and within the context of modern theories of bonding, structure and spectroscopy. Topics include classical coordination compounds, organometallics, metallocenes, metal carbonyls and bioinorganic chemistry. Three lecture hours and two tutorial hours per week. One term. Three credits. Prerequisites: SC/CHEM 2021 3.00 or SC/CHEM 2020 6.00; SC/CHEM 2030 3.00"
+        },
+        {
+            "dept": "chem",
+            "code": "3031",
+            "credit": 3.0,
+            "name": "Physical Inorganic Chemistry",
+            "prereqs": "chem3030",
+            "desc": "An introduction to physical and theoretical methods in inorganic chemistry. Topics are selected from the following: atomic structure and spectra, molecular orbital and ligand field theory, bonding, electronic spectroscopy, magnetism of metal complexes, photochemistry, electrochemistry, solid state chemistry, metal-metal bonding. Prerequisite: SC/CHEM 3030 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3050",
+            "credit": 3.0,
+            "name": "Advanced Biochemistry",
+            "prereqs": "biol2020 bchm2020 chem2050 chem2020 chem2021",
+            "desc": "A detailed discussion of enzyme structure and function. The chemistry and metabolism of biological molecules. Metabolic regulation at the level of enzyme activity. Knowledge of general concepts of metabolism and of basic aspects of enzyme structure and function is assumed. Prerequisites: SC/BIOL 2020 3.00 or SC/BCHM 2020 3.00 or SC/CHEM 2050 4.00; SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3051",
+            "credit": 3.0,
+            "name": "Macromolecules of Biochemical Interest",
+            "prereqs": "chem2020 chem2021 chem2050 bchm2020 biol2020",
+            "desc": "A discussion of the structures and functions of naturally occurring macromolecules, including nucleic acids, proteins, polysaccharides and related macromolecular conjugates. Prerequisites: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00 and either SC/CHEM 2050 4.00 or SC/BCHM 2020 3.00 or SC/BIOL 2020 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3060",
+            "credit": 3.0,
+            "name": "Introductory Atmospheric Chemistry",
+            "prereqs": "chem1000 chem1001 math1010 math1014 math1310 math1505",
+            "desc": "An introductory course linking chemistry and atmospheric science. Topics include atmospheric evolution; biogeochemical cycles; sources, transformations and sinks of atmospheric species; human impacts such as acid rain, photochemical smog and depletion of the ozone layer. Prerequisites: Both SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00; one of SC/MATH 1010 3.00, SC/MATH 1014 3.00, SC/MATH 1310 3.00, SC/MATH 1505 6.00. Course Credit Exclusions: LE/EATS 3130 3.00 (prior to Fall 2014), SC/EATS 3130 3.00 (prior to Summer 2013)."
+        },
+        {
+            "dept": "chem",
+            "code": "3075",
+            "credit": 3.0,
+            "name": "Introduction to Drug Discovery and Development",
+            "prereqs": "chem2020 chem2021 chem2050 bchem2020",
+            "desc": "This course introduces students to the fundamentals of modern drug development such as how the structure, metabolism, route of administration, additives in formulation, etc. play key roles in determining a drug's activity and efficacy.  The course explains how a molecule can be identified as a leading compound (by high throughput screenings or computational modeling) and then optimized to ensure maximum efficacy and minimal side effects.  The course is mainly focused on elements of structural biology and the pharmacological aspects of medicinal chemistry.  Several classes of drug molecules are explained to ensure that students are exposed to a broad overview about the real world of drug discovery and development procedures.  Guest speakers from pharmaceutical companies will speak about current pharmaceutical research and development as well as patents and innovation.  Overall the course is designed to make sure that students are familiarized with the idea of drug design and development, and the recent approaches taking place in this field of science.  \r\n\r\nPrerequisites:  SC/CHEM 2020 3.00, SC/CHEM 2021 3.00 and either SC/CHEM 2050 4.00 or SC/BIOL/BCHEM 2020 3.00.\r\nCourse Credit Exclusion: SC/CHEM 3071 3.00. "
+        },
+        {
+            "dept": "chem",
+            "code": "3080",
+            "credit": 4.0,
+            "name": "Instrumental Methods of Chemical Analysis",
+            "prereqs": "chem2080 phys1010 phys1410 phys1420 phys1012 phys1412 phys1422 isci1310 isci1302",
+            "desc": "The theory and application of a variety of common modern quantitative instrumental methods. Topics include calibrations; basic electronics; signal processing; optical systems; atomic and molecular absorption and emission spectroscopies; gas, liquid, and ion chromatography; and electroanalytical techniques. This course covers applications to modern chemical analysis of samples relevant to industry, medicine, environment, and others. Three lecture hours, three laboratory hours. One term. Four credits. Prerequisites: SC/CHEM 2080 4.00; SC/PHYS 1010 6.00 or SC/PHYS 1410 6.00 or SC/PHYS 1420 6.0 or SC/PHYS 1012 3.00 or SC/PHYS 1412 3.00 or SC/PHYS 1422 3.00 or SC/ISCI 1310 6.0 or SC/ISCI 1302 3.00. Course Credit Exclusions: SC/SENE 2081 3.00 and SC/SENE 2082 3.00"
+        },
+        {
+            "dept": "chem",
+            "code": "3090",
+            "credit": 3.0,
+            "name": "Introduction to Polymer Chemistry",
+            "prereqs": "chem2020 chem2021",
+            "desc": "Classification and structure of polymers: molecular weights, synthesis, kinetics, statistics, characterization techniques and thermodynamics. Polymers in the solid state, crystallinity and advanced materials. Prerequisites: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3200",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week.\nPrerequisites: Open to students in a Chemistry or Biochemistry program having completed at least 22 credits in CHEM, BCHM and BIOL courses, and not meeting the prerequisites for SC/CHEM 4200 0.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3201",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "chem3200",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week.\nPrerequisites: SC/CHEM 3200 0.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3202",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "chem3201",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week. Prerequisite: SC/CHEM 3201 0.00."
+        },
+        {
+            "dept": "chem",
+            "code": "3901",
+            "credit": 0.0,
+            "name": "Chemistry Internship Work Term ",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer.  \n \nPrerequisites: Enrollment is by permission only. Criteria for permission include: \n 1. that students have a cumulative GPA and an average GPA in chemistry courses of at least 7.5;  \n2. completion of CHEM 3000 and CHEM 3001, and a minimum of 84 credits overall; \n3. that students are enrolled full-time in the Honours or Specialized Honours program prior to beginning their internship;  \n4. that students have not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  \n5. that upon enrolling in this course students have a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and need to return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n  \nNote: This is a pass/fail course, which does not count for degree credit. Registration in CHEM 3901/2/3/4 0.00 provides a record on the transcript for each work term."
+        },
+        {
+            "dept": "chem",
+            "code": "3902",
+            "credit": 0.0,
+            "name": "Chemistry Internship Work Term ",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer.  \n \nPrerequisites: Enrollment is by permission only. Criteria for permission include: \n 1. that students have a cumulative GPA and an average GPA in chemistry courses of at least 7.5;  \n2. completion of CHEM 3000 and CHEM 3001, and a minimum of 84 credits overall; \n3. that students are enrolled full-time in the Honours or Specialized Honours program prior to beginning their internship;  \n4. that students have not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  \n5. that upon enrolling in this course students have a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and need to return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n  \nNote: This is a pass/fail course, which does not count for degree credit. Registration in CHEM 3901/2/3/4 0.00 provides a record on the transcript for each work term."
+        },
+        {
+            "dept": "chem",
+            "code": "3903",
+            "credit": 0.0,
+            "name": "Chemistry Internship Work Term ",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer.  \n \nPrerequisites: Enrollment is by permission only. Criteria for permission include: \n 1. that students have a cumulative GPA and an average GPA in chemistry courses of at least 7.5;  \n2. completion of CHEM 3000 and CHEM 3001, and a minimum of 84 credits overall; \n3. that students are enrolled full-time in the Honours or Specialized Honours program prior to beginning their internship;  \n4. that students have not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  \n5. that upon enrolling in this course students have a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and need to return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n  \nNote: This is a pass/fail course, which does not count for degree credit. Registration in CHEM 3901/2/3/4 0.00 provides a record on the transcript for each work term."
+        },
+        {
+            "dept": "chem",
+            "code": "3904",
+            "credit": 0.0,
+            "name": "Chemistry Internship Work Term ",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer.  \n \nPrerequisites: Enrollment is by permission only. Criteria for permission include: \n 1. that students have a cumulative GPA and an average GPA in chemistry courses of at least 7.5;  \n2. completion of CHEM 3000 and CHEM 3001, and a minimum of 84 credits overall; \n3. that students are enrolled full-time in the Honours or Specialized Honours program prior to beginning their internship;  \n4. that students have not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  \n5. that upon enrolling in this course students have a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and need to return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n  \nNote: This is a pass/fail course, which does not count for degree credit. Registration in CHEM 3901/2/3/4 0.00 provides a record on the transcript for each work term."
+        },
+        {
+            "dept": "chem",
+            "code": "4000",
+            "credit": 4.0,
+            "name": "Research Project",
+            "prereqs": "",
+            "desc": "An original laboratory or theoretical project, supported by studies of the relevant scientific literature. Detailed guidelines are given in the departmental handbook. Six tutorial hours. Note: This course is open only to Honours students with at least 84 credits and has special enrolment requirements. Please contact the chemistry department well in advance for enrolment details."
+        },
+        {
+            "dept": "chem",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Chemistry in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Chemistry in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Chemistry in the intermediate and senior grades. \nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "chem",
+            "code": "4000",
+            "credit": 8.0,
+            "name": "Research Project",
+            "prereqs": "",
+            "desc": "An original laboratory or theoretical project, supported by studies of the relevant scientific literature. Detailed guidelines are given in the departmental handbook. 12 tutorial hours. Note: This course is open only to Honours students with at least 84 credits and has special enrolment requirements. Please contact the chemistry department well in advance for enrolment details. Course credits exclusion: SC/BCHM 4000 8.00."
+        },
+        {
+            "dept": "chem",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Chemistry in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Chemistry in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Chemistry areas in order to further develop students' expertise for teaching this subject. ED/CHEM 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "chem",
+            "code": "4021",
+            "credit": 3.0,
+            "name": "Synthetic Organic Chemistry",
+            "prereqs": "chem3021",
+            "desc": "A course concentrating on strategies of synthesizing complex molecules, with emphasis on carbon-carbon bond-forming reactions, blocking groups, regioselectivity and stereochemical methods. Three lecture hours. One term. Three credits. Prerequisite: SC/CHEM 3021 3.00"
+        },
+        {
+            "dept": "chem",
+            "code": "4024",
+            "credit": 3.0,
+            "name": "Structure Elucidation of Organic and Organometallic Compounds",
+            "prereqs": "chem3020 chem3000",
+            "desc": "Explores, in detail, the application of Nuclear Magnetic Resonance (NMR) spectroscopy for the identification of organic reaction products and other organic and organometallic unknowns. It is intended primarily for students with a basic knowledge of NMR spectroscopy. The main focus is to establish molecular structure using modern NMR techniques. Prerequisite: SC/CHEM 3020 3.00 or SC/CHEM 3000 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "4031",
+            "credit": 3.0,
+            "name": "Advanced Inorganic Chemistry",
+            "prereqs": "chem3030 chem3031",
+            "desc": "Advanced topics in inorganic chemistry, including organometallic synthesis and characterization, ligand classification, reaction types and catalysis.  Prerequisite: SC/CHEM 3030 3.00; SC/CHEM 3031 3.00 is recommended. \n"
+        },
+        {
+            "dept": "chem",
+            "code": "4050",
+            "credit": 3.0,
+            "name": "Bioanalytical Chemistry",
+            "prereqs": "biol2020 bchm2020 biol2021 bchm2021 chem2020 chem2021",
+            "desc": "This course describes modern methods of bioanalytical chemistry in their application to the analysis of biological polymers: proteins, nucleic acids, carbohydrates and lipids. Analytical aspects of genomics and proteomics are considered. Prerequisites: SC/BIOL 2020 3.00 or SC/BCHM 2020 3.00 or SC/ CHEM 2050 4.00;  SC/BIOL 2021 3.00 or SC/BCHM 2021 3.00; SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "4051",
+            "credit": 3.0,
+            "name": "Biological Chemistry",
+            "prereqs": "chem2020 chem2021 bchm2020 biol2020 chem2050 bchm2020 biol2020 chem2030",
+            "desc": "Bio-organic and bio-inorganic topics: active sites in enzymes and metalloproteins, coenzymes; abiotic models; aromatic natural products, terpenoids and some alkaloid classes. Prerequisites: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00 and either SC/BCHM 2020 3.00 or SC/BIOL 2020 3.00 or SC/CHEM 2050 4.00 or SC/BCHM 2020 4.00 or SC/BIOL 2020 4.00; SC/CHEM 2030 3.00 is strongly recommended."
+        },
+        {
+            "dept": "chem",
+            "code": "4080",
+            "credit": 3.0,
+            "name": "Advanced Analytical Separation Methods",
+            "prereqs": "chem3080",
+            "desc": "Advanced theory and practice of high-resolution separation techniques, especially high-resolution chromatography and capillary electrophoresis, with emphasis on the practical application of advanced theories and the problem of optimizing separation procedures. Analytical procedures as integrated methods. Possibilities and limitations of interfacing sample injection, separation method and detection. Prerequisite: SC/CHEM 3080 4.00."
+        },
+        {
+            "dept": "chem",
+            "code": "4090",
+            "credit": 3.0,
+            "name": "Topics in Materials Sciences",
+            "prereqs": "chem3021 chem3030 chem3031",
+            "desc": "Exploring the chemistry behind novel materials relevant to electronics, alternative energy sources, life sciences and polymer sciences. One term. Three credits. Prerequisites: SC/CHEM 3021 3.00 and SC/CHEM 3030 3.00; SC/CHEM 3031 3.00 is strongly recommended."
+        },
+        {
+            "dept": "chem",
+            "code": "4093",
+            "credit": 3.0,
+            "name": "Biomaterials Chemistry",
+            "prereqs": "chem3051 chem3090",
+            "desc": "An introduction to materials used for biomedical applications for students with background in chemistry, physics and biology. Emphasis is on biological and biomimetic surfaces, interactions at the biomaterial/tissue interfaces, and mechanisms involved with biologically driven materials self-assembly. \nPrerequisites: SC/CHEM 3051 3.00 or SC/CHEM 3090 3.00."
+        },
+        {
+            "dept": "chem",
+            "code": "4200",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "chem3001 bchm3140 chem4000 bchm4000",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week.\nPrerequisites: Open to students in an Honours Chemistry or Biochemistry program having completed SC/CHEM 3001 3.00 or at least three four-credits 3000-level CHEM courses or SC/BCHM 3140 4.00 or with permission of the Instructor. May not overlap with SC/CHEM 4000 4.00 or 8.00, nor with SC/BCHM 4000 8.00."
+        },
+        {
+            "dept": "chem",
+            "code": "4201",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "chem4200 chem4000 bchm4000",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week. Prerequisite: SC/CHEM 4200 0.00. May not overlap with SC/CHEM 4000 4.00 or 8.00, nor with SC/BCHM 4000 8.00."
+        },
+        {
+            "dept": "chem",
+            "code": "4202",
+            "credit": 0.0,
+            "name": "Research Experience Term",
+            "prereqs": "chem4201 chem4000 bchm4000",
+            "desc": "Provides part-time supervised research and supplementary laboratory experience for Chemistry and Biochemistry majors. Minimum five hours per week.\nPrerequisite: SC/CHEM 4201 0.00. May not overlap with SC/CHEM 4000 4.00 or 8.00, nor with SC/BCHM 4000 8.00."
+        },
+        {
+            "dept": "chem",
+            "code": "4300",
+            "credit": 3.0,
+            "name": "Selected Topics in Chemistry",
+            "prereqs": "",
+            "desc": "By special arrangement through the Chair of the chemistry department, a student may enrol in a reading course under the direction of a member of the chemistry faculty to study in a special area of chemistry."
+        },
+        {
+            "dept": "chem",
+            "code": "5021",
+            "credit": 3.0,
+            "name": "Synthetic Organic Chemistry     ",
+            "prereqs": "",
+            "desc": "This course attempts to organize the known reactions of organic chemistry into carbon-carbon bond forming and functional group interconverting types. The techniques of synthetic planning are then discussed with reference to selected published syntheses involving skeletal, stereo-chemical, and multi-stage synthetic examples.\n Course credit exclusion:  Chemistry 5050 3.0 may not also be taken for credit."
+        },
+        {
+            "dept": "chem",
+            "code": "5024",
+            "credit": 3.0,
+            "name": "Structural Elucidation in Organic and Organometallic Chemistry",
+            "prereqs": "chem3020",
+            "desc": "This course is designed to introduce graduate students in Chemistry to the use of high resolution NMR spectroscopy with the goal of complete structural elucidation of organic and organometallic compounds. The fundamentals of NMR as well as their mode of application to the solution of various chemical problems is discussed. Prerequisite: SC/CHEM 3020 4.00 or equivalent."
+        },
+        {
+            "dept": "chem",
+            "code": "5031",
+            "credit": 3.0,
+            "name": "Advanced Transition Metal Chemistry",
+            "prereqs": "chem3020",
+            "desc": "This course uses basic concepts of inorganic chemistry to address issues and solve problems related to synthetic organometallic chemistry. Topics include major approaches and reaction types, reactivity studies and fluxional behaviour of organometallic complexes, and analytical methods to investigate these. Prerequisite: SC/CHEM 3020 4.00 or equivalent."
+        },
+        {
+            "dept": "chem",
+            "code": "5080",
+            "credit": 3.0,
+            "name": "Advanced Analytical Separation Methods     ",
+            "prereqs": "",
+            "desc": "This course introduces graduate students in Chemistry to the use of modern separation (and analytical) techniques. General and detailed principles of separation techniques are presented and applied to the development and optimization of instrumental methods, such as-but not limited to-solid phase extraction, gas chromatography, liquid chromatography and capillary electrophoresis. The fundamentals as well as their mode of application to the solution of various chemical problems will be discussed.\r\nPrerequisites: CHEM 3080 4.0 or an equivalent instrumental methods in chemical analysis undergraduate course.\r\n"
+        },
+        {
+            "dept": "chem",
+            "code": "6000",
+            "credit": 6.0,
+            "name": "MSc Review Essay",
+            "prereqs": "",
+            "desc": "Prerequisite:  Enrolment in this course requires graduate students to have successfully completed 12 credits of the graduate courses offered by the Chemistry Graduate Program, AND approval by the Graduate Program Director."
+        },
+        {
+            "dept": "chem",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "MSc Review Essay             ",
+            "prereqs": "",
+            "desc": "Prerequisite:  Enrolment in this course requires graduate students to have successfully completed 12 credits of the graduate courses offered by the Chemistry Graduate Program, AND approval by the Graduate Program Director."
+        },
+        {
+            "dept": "chem",
+            "code": "6080",
+            "credit": 3.0,
+            "name": "Fundamentals and Applications of Mass Spectrometry",
+            "prereqs": "",
+            "desc": "This course introduces graduate students in Chemistry to the fundamentals and applications of modern mass spectrometric techniques. General and detailed principles of operation of a mass spectrometer will be presented, as well as its applications to Proteomics, Metabolomics, and Drug Discovery. \r\nPrerequisites: CHEM 3080 4.0 or an equivalent instrumental methods course at\r\nundergraduate level."
+        },
+        {
+            "dept": "chem",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Recent Advances in Chemistry",
+            "prereqs": "",
+            "desc": "This course is designed to provide graduates in chemistry with a survey of modern developments in the field.  Modern experimental techniques are given special attention. Course credit exclusion:  Chemistry 5610 3.0 may not also be taken for credit."
+        },
+        {
+            "dept": "chem",
+            "code": "6320",
+            "credit": 3.0,
+            "name": "Selected Topics in Organic Chemistry",
+            "prereqs": "",
+            "desc": "Course credit exclusion:  Chemistry 5010 3.0 may not also be taken for credit."
+        },
+        {
+            "dept": "chem",
+            "code": "6330",
+            "credit": 3.0,
+            "name": "Selected Topics in Inorganic Chemistry",
+            "prereqs": "",
+            "desc": "Course credit exclusion:  Chemistry 5260 3.0 may not also be taken for credit."
+        },
+        {
+            "dept": "chem",
+            "code": "6350",
+            "credit": 3.0,
+            "name": "Selected Topics in Bioorganic Chemistry",
+            "prereqs": "",
+            "desc": "The purpose of this course is to acquaint students with current developments in organic aspects of biological chemistry. Its content will necessarily change from year to year."
+        }
+    ]
+}

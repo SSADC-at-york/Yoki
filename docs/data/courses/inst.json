@@ -1,0 +1,76 @@
+{
+    "courses": [
+        {
+            "dept": "inst",
+            "code": "5000B",
+            "credit": 3.0,
+            "name": "Theory/Practice",
+            "prereqs": "",
+            "desc": "This foundational IS course studies interdisciplinary theory and practice and requires students to engage in professional skills necessary for their interdisciplinary work.  It examines representative ways of thinking in interdisciplinary terms and selected methodological approaches to interdisciplinary research, which students apply to their own intellectual or artistic praxis. "
+        },
+        {
+            "dept": "inst",
+            "code": "5000A",
+            "credit": 3.0,
+            "name": "Seminar in Interdisciplinary Studies",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "inst",
+            "code": "5010",
+            "credit": 6.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "inst",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "inst",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "inst",
+            "code": "5020",
+            "credit": 6.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "inst",
+            "code": "5030",
+            "credit": 3.0,
+            "name": "Practicum                              ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "inst",
+            "code": "5030",
+            "credit": 6.0,
+            "name": "Practicum                              ",
+            "prereqs": "",
+            "desc": "The acquisition of specialized skills, the mastery of mechanical\ntechniques or of the principles of a particular discipline; and supervised experience in applying these to a Candidate's area of studies. The acquisition of specialized skills, the mastery of mechanical techniques or of the principles of a particular discipline; and supervised experience in applying these to a Candidate's area of studies.\n"
+        },
+        {
+            "dept": "inst",
+            "code": "6000A",
+            "credit": 0.0,
+            "name": "M. A. Major Research Paper",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

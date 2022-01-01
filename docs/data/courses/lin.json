@@ -1,0 +1,292 @@
+{
+    "courses": [
+        {
+            "dept": "lin",
+            "code": "1603",
+            "credit": 6.0,
+            "name": "Introduction to Linguistics",
+            "prereqs": "",
+            "desc": "This course introduces the theory and technique of linguistics with illustrations mainly from English. Core areas of study will include phonetics, phonology, morphology, syntax and semantics. Other areas include pragmatics, discourse analysis and historical linguistics. Course credit exclusions: GL/EN 2570 3.00, AP/LING 1000 6.00, GL/EN 1605 6.00 (prior to Fall 2014), GL/EN 2605 6.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "lin",
+            "code": "1622",
+            "credit": 6.0,
+            "name": "Introductory Latin",
+            "prereqs": "",
+            "desc": "A course for students with little or no previous training in Latin. The course covers the rudiments of Latin grammar and provides practice in the translation into English or French of sentences and short passages from Latin authors."
+        },
+        {
+            "dept": "lin",
+            "code": "1716",
+            "credit": 6.0,
+            "name": "Logique formelle et informelle         ",
+            "prereqs": "",
+            "desc": "Le cours a pour but de faire conna\u00eetre \u00e0 l'\u00e9tudiant les moyens de distinguer les bons raisonnements des mauvais. Un texte \u00e9l\u00e9mentaire de logique sera utilis\u00e9 comme livre de r\u00e9f\u00e9rence. Le cours poursuivra aussi une \u00e9tude d\u00e9taill\u00e9e de textes choisis.\r\nNote: Only one in the MODR 17xx 6.00 series may be taken for credit.\r\n"
+        },
+        {
+            "dept": "lin",
+            "code": "2305",
+            "credit": 3.0,
+            "name": "Grammatical Description",
+            "prereqs": "sosc1603",
+            "desc": "This course introduces the student to the practice of describing the grammatical structures of a language. Students learn in detail about word classes, constituents and sentence structure, and relationships within and among clauses and how to identify and describe these grammatical elements. \r\nPrerequisite: GL/LIN/SOSC 1603 6.00."
+        },
+        {
+            "dept": "lin",
+            "code": "2505",
+            "credit": 6.0,
+            "name": "Romanian Language: a linguistic introduction",
+            "prereqs": "",
+            "desc": "This course introduces the Romanian language in its contemporary and historical context as a member of both the Romance language family and the Balkan &quot;Sprachbund&quot;. The course's introductory lesson component requires no previous knowledge of Romanian."
+        },
+        {
+            "dept": "lin",
+            "code": "2525",
+            "credit": 3.0,
+            "name": "Le roumain, langue romane",
+            "prereqs": "",
+            "desc": "Le cours analyse la romanit\u00e9 du roumain au niveau du lexique, de la structure grammaticale et du syst\u00e8me phonologique en comparant la langue roumaine avec d'autres langues romanes, surtout avec le fran\u00e7ais. La connaissance pr\u00e9alable de la langue n\u0092est pas n\u00e9cessaire."
+        },
+        {
+            "dept": "lin",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Introduction \u00e0 la linguistique g\u00e9n\u00e9rale et fran\u00e7aise",
+            "prereqs": "",
+            "desc": "On \u00e9tudiera l'appareil conceptuel de la linguistique structurale, en montrant quel regard elle autorise sur les langues en g\u00e9n\u00e9ral et sur le fran\u00e7ais en particulier. L'examen syst\u00e9matique des niveaux d'analyse (phonologie, morphologie, syntaxe et s\u00e9mantique) permettra d'aborder les principales th\u00e9ories contemporaines : fonctionnalisme, g\u00e9n\u00e9rativisme, linguistique \u00e9nonciative. Conditions pr\u00e9alables : Justifier d'un minimum de C en GL/FRLS 1240 3.00 ou GL/FRAN 1835 3.00 (ou GL/FRLS 1530 3.00) ou GL/FRAN 1745 3.00 ou permission du d\u00e9partement. Cours incompatibles : AP/FR 2100 6.00. Remarque : Tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises devra justifier d'un minimum de C dans le GL/FRAN 2600 6.00 avant de pouvoir s'inscrire dans n'importe quel autre cours de linguistique pour lequel GL/FRAN 2600 6.00 est un pr\u00e9alable. "
+        },
+        {
+            "dept": "lin",
+            "code": "2622",
+            "credit": 3.0,
+            "name": "Romanian culture in a semiotic perspective",
+            "prereqs": "",
+            "desc": "This course introduces students to Romanian culture from a semiotic (meaning-making and -interpreting) perspective by inviting them to learn about and participate in cultural contexts, both in Romania and Toronto, in which Romanian cultural practices may be accessed."
+        },
+        {
+            "dept": "lin",
+            "code": "2636",
+            "credit": 3.0,
+            "name": "Anishinaabemowin (Ojibway) Language and Culture I",
+            "prereqs": "",
+            "desc": "This course introduces the language and culture of the Anishinaabe (Ojibway) peoples of Ontario from multidisciplinary intercivilizational perspectives. A central component of the course is focused on learning the Anishinaamebowin language within a framework which draws upon indigenous world-views. "
+        },
+        {
+            "dept": "lin",
+            "code": "2638",
+            "credit": 3.0,
+            "name": "Anishinaabemowin (Ojibway) Language and Culture II",
+            "prereqs": "lin2636",
+            "desc": "This course builds on GL/LIN 2636 3.00, continuing the learning of Anishinaabemowin (Ojibwe language). It extends the depth and breadth of understanding of Indigenous world-views from multidisciplinary perspectives and in the context of understanding  the challenges of Reconciliation. Prerequisite: GL/LIN 2636 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "2640",
+            "credit": 6.0,
+            "name": "Logic",
+            "prereqs": "",
+            "desc": "This course is an introduction to the basic concepts and techniques of modern logic. No previous course in logic or philosophy is required. Course credit exclusion: AP/PHIL 2100 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "2711",
+            "credit": 3.0,
+            "name": "Phonetics",
+            "prereqs": "lin1603 lin1605 lin1601",
+            "desc": "An introduction to various aspects of phonetics (articulatory and acoustic) with practice in discrimination and transcription of speech sounds, with particular attention to, but not limited to, English. Prerequisites: GL/LIN 1603 6.00 (formerly GL/LIN 1605 6.00) or GL/LIN 1601 6.00 or an equivalent introductory linguistics course or permission of the department. Course credit exclusions: GL/FRAN/LIN 3621 3.00, AP/LING 2110 3.00, GL/LIN/EN 2611 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "2713",
+            "credit": 3.0,
+            "name": "Phonology",
+            "prereqs": "lin2711 lin2611",
+            "desc": "This course studies theoretical principles and practical techniques of phonological analysis of data taken principally, but not exclusively, from English. Prerequisite: GL/LIN 2711 3.00 or GL/LIN 2611 3.00 or equivalent. Course credit exclusions: GL/LIN 2613 3.00, AP/LING 2120 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "2922",
+            "credit": 6.0,
+            "name": "Intermediate Latin",
+            "prereqs": "",
+            "desc": "The course begins with a review of Latin grammar and syntax and then concentrates on the reading of selected passages from Latin prose and verse in the original Latin. Selections may include passages from Horace, Ovid, Catullus, Cicero, Caesar, and selections from the Latin Bible. \nPre-requisites for Glendon students: GL/HUMA 1622 6.00 or GL/LIN 1622 6.00"
+        },
+        {
+            "dept": "lin",
+            "code": "3206",
+            "credit": 3.0,
+            "name": "Morphology",
+            "prereqs": "",
+            "desc": "Morphology is the study of word structure and the nature of morphemes which are the constituents of words. In this course we investigate the typology of morphemes; the structural and semantic composition of words.\r\nPrerequisite: An introductory course in Linguistics. Course credit exclusion: AP/LING 2130 3.00. "
+        },
+        {
+            "dept": "lin",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la linguistique romane",
+            "prereqs": "",
+            "desc": "Ce cours analyse la probl\u00e9matique fondamentale de la linguistique romane du point de vue  diachronique et synchronique. On \u00e9tudie la formation des langues romanes, les caract\u00e9ristiques essentielles de l'\u00e9volution des principales langues romanes, et le classement typologique des langues romanes. Condition pr\u00e9alable : GL/FRAN/LIN 2600 6.00 ou GL/EN/LIN 1603 6.00 ou GL/EN/LIN 1601 6.00."
+        },
+        {
+            "dept": "lin",
+            "code": "3305",
+            "credit": 3.0,
+            "name": "Foundations of syntax 1",
+            "prereqs": "lin1603 lin2600",
+            "desc": "This course is an introduction to the analysis of sentence structure within the framework of generative syntax. The focus is on the conceptual underpinnings of the Principles and Parameters model: syntactic categories, subcategorization, constituency, Binding Theory, X-bar Theory, Theta Theory.\r\nPrerequisite: GL/LIN 1603 6.00 or GL/LIN 2600 6.00."
+        },
+        {
+            "dept": "lin",
+            "code": "3604",
+            "credit": 3.0,
+            "name": "Varieties of English",
+            "prereqs": "en1601 en1603",
+            "desc": "Within a linguistic framework, the course analyzes written and oral varieties of English language and language use based on social, temporal, geographical, institutional and individual circumstances. Prerequisite: GL/EN 1601 6.00 or GL/EN 1603 6.00 or an equivalent introductory linguistics course or permission of the Instructor. \r\nFor GL/EN 3604 6.00 Praat software is used in the study of oral varieties."
+        },
+        {
+            "dept": "lin",
+            "code": "3606",
+            "credit": 3.0,
+            "name": "Learning English as a Second Language",
+            "prereqs": "",
+            "desc": "This course studies the process of acquisition of a second language, considered in the light of relevant theory and research, and the analysis of linguistic, psychological, sociocultural and other factors in second language learning. Course credit exclusion: GL/EN 3500 3.00, AP/LING 3240 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "3614",
+            "credit": 3.0,
+            "name": "Grammaire raisonn\u00e9e du fran\u00e7ais : approche \u00e9nonciative",
+            "prereqs": "",
+            "desc": "Dans ce cours, nous montrons comment des outils issus des th\u00e9ories \u00e9nonciatives de Benveniste, Ducrot et Culioli peuvent fournir aux linguistes et \u00e9ventuellement aux futurs enseignants de langue de solides bases permettant d'expliquer les r\u00e8gles sous-jacentes aux marqueurs grammaticaux. Condition pr\u00e9alable : GL/FRAN 2600 6.00 ou GL/LIN 2600 6.00.  Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises."
+        },
+        {
+            "dept": "lin",
+            "code": "3621",
+            "credit": 3.0,
+            "name": "Phon\u00e9tique/Phonologie du fran\u00e7ais moderne",
+            "prereqs": "",
+            "desc": "Phon\u00e9tique articulatoire; classification des consonnes et des voyelles. \u00c9tablissement de la distinction entrephon\u00e9tique et phonologie, notion de phon\u00e8me, traits distinctifs. Phon\u00e9tique combinatoire (syllabe, assimilation, liaison) et suprasegmentale (accent, intonation). Description phonologique des fran\u00e7ais contemporains; \u00e9tude d\u00e9taill\u00e9e du fran\u00e7ais canadien. Condition pr\u00e9alable : Cours d'introduction \u00e0 la linguistique ou GL/FRAN 2600 6.00 ou GL/LIN 2600 6.00 ou GL/EN 2605 6.00 ou GL/LIN 2605 6.00. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Cours incompatibles : AP/FR 3140 6.00, GL/LIN 3603 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "3622",
+            "credit": 3.0,
+            "name": "S\u00e9mantique",
+            "prereqs": "",
+            "desc": "Ce cours analyse la probl\u00e9matique du sens et de la r\u00e9f\u00e9rence, la s\u00e9mantique lexicale (polys\u00e9mie, synonymie, notion de marque), la s\u00e9mantique grammaticale : (deixis du temps et de la personne, aspects, modalit\u00e9s, d\u00e9termination). Ce cours traite du passage de la s\u00e9mantique \u00e0 la pragmatique : (typologie de l'implicit\u00e9 et actes de discours). Condition pr\u00e9alable : Cours d'introduction \u00e0 la linguistique ou GL/FRAN 2600 6.00 ou GL/LIN 2600 6.00 ou GL/EN 1603 6.00 ou GL/LIN 1603 6.00. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. Cours incompatibles : GL/LIN 3611 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "3650",
+            "credit": 6.0,
+            "name": "Sociolinguistics",
+            "prereqs": "lin1601 lin1603 lin1605 lin2634 lin3632",
+            "desc": "This course examines language in its social context with emphasis on language varieties, meaning in situations, language and social organization, and individual linguistic skills. Prerequisites: GL/LIN 1601 6.00 or GL/LIN 1603 6.00 (formerly GL/LIN 1605 6.00) or equivalent and GL/LIN 2634 3.00 (formerly GL/LIN 3632 3.00) or permission of the department."
+        },
+        {
+            "dept": "lin",
+            "code": "3660",
+            "credit": 3.0,
+            "name": "Teaching Spanish as a Foreign Language",
+            "prereqs": "",
+            "desc": "This course studies Spanish language learning and teaching from theoretical and practical (experiential) points of view. It also examines principles and practices of teaching Spanish with a focus on recent interactive and communicative models of foreign language instruction.\r\nPrerequisite: SP 3000 6.00 or permission of the Department."
+        },
+        {
+            "dept": "lin",
+            "code": "3711",
+            "credit": 3.0,
+            "name": "Semantics",
+            "prereqs": "lin1601 lin1603",
+            "desc": "This course offers an examination of modern linguistic approaches to semantics. Prerequisite: GL/LIN 1601 6.00 or GL/LIN 1603 6.00 or an equivalent introductory linguistics course or permission of the Department. Course credit exclusions: GL/LIN/EN 3611 3.00, GL/LIN 3622 3.00, AP/LING 3150 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Students will do independent reading and/or research, together with written assignments, under the guidance of a member of the Linguistic Program. Prerequisite: Permission of the department."
+        },
+        {
+            "dept": "lin",
+            "code": "4217",
+            "credit": 3.0,
+            "name": "Documentary Linguistics",
+            "prereqs": "en3601 lin3601 en3206 lin3206 en3650 lin3650",
+            "desc": "This course introduce the student to the methodologies used in documentary linguistics, the systematic documentation of a language. The course includes instruction in both the theoretical background and practical work in language documentation using linguistic data and current technology. Prerequisites: Two of the following: GL/EN 3601 3.00, GL/LIN 3601 3.00, GL/EN 3206 3.00, GL/LIN 3206 3.00, GL/EN 3650 6.00 or GL/LIN 3650 6.00 or equivalents (including corresponding Glendon courses FRAN/LIN cross-listed ) or permission of the Department."
+        },
+        {
+            "dept": "lin",
+            "code": "4305",
+            "credit": 3.0,
+            "name": "Foundations of syntax 2",
+            "prereqs": "lin3305",
+            "desc": "This course builds on the knowledge and insights gained in LIN 3xxx 3.0. It addresses movement operations and constraints on movement, raising vs. control constructions and ellipsis processes, and it offers a principled account of polysynthetic languages and non-configurational languages.\r\nPrerequisite: GL/LIN 3305 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Varieties of Romance: Dialectology of the Romance- Speaking World ",
+            "prereqs": "lin3300",
+            "desc": "This course explores linguistic variation among Latin-derived languages from a geographic, social, and historical perspective. Non-standard varieties are studied in the context both of their direct evolution from Latin and their eventual social relationship to national or other prestige varieties.\nPrerequisite: GL/LIN 3300 3.00/6.00 and one of LIN 2505 3.00/6.00, LIN 2515 6.00, or an equivalent 6-credit course in a Romance language other than French or Spanish, or permission of the department."
+        },
+        {
+            "dept": "lin",
+            "code": "4606",
+            "credit": 6.0,
+            "name": "History of the English Language",
+            "prereqs": "en1601 en1603",
+            "desc": "Provides an outline of both the cultural and the formal linguistic history of English, from its beginnings to the present. \r\nPrerequisite: GL/EN 1601 6.00 or GL/EN 1603 6.00 or an equivalent introductory linguistics course or permission of the Instructor. Course credit exclusion: AP/LING 3060 3.00.\r\n"
+        },
+        {
+            "dept": "lin",
+            "code": "4651",
+            "credit": 6.0,
+            "name": "Histoire de la langue fran\u00e7aise",
+            "prereqs": "",
+            "desc": "Ce cours comprend deux parties: I. Introduction \u00e0 la linguistique historique (d\u00e9finition et concepts, m\u00e9thodologie, changement linguistique). II. \u00c9volution historique du fran\u00e7ais: origine et formation (langue d'oil et langue d'oc); l'ancien fran\u00e7ais (structure et dialectes); le moyen fran\u00e7ais (transformations linguistiques, fran\u00e7ais litt\u00e9raire/fran\u00e7ais populaire); le fran\u00e7ais moderne (type et tendances \u00e9volutives, le fran\u00e7ais et les langues romanes, les vari\u00e9t\u00e9s sociolinguistiques et r\u00e9gionales, le fran\u00e7ais au Canada). Condition pr\u00e9alable : Cours d'introduction \u00e0 la linguistique. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises.Cours incompatibles : AP/FR 4110 6.00, GL/FRAN 4651 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "4657",
+            "credit": 3.0,
+            "name": "La Sociolinguistique et les r\u00e9alit\u00e9s de la francophonie",
+            "prereqs": "",
+            "desc": "Situation historique de la sociolinguistique. Aspects fondamentaux de cette science. Langues - dialectes - patois. Norme, tol\u00e9rance, tabous, mythes qui r\u00e9gissent les diverses vari\u00e9t\u00e9s de fran\u00e7ais (qu\u00e9b\u00e9cois, fran\u00e7ais, franco-ontarien, cr\u00e9ole etc.). Influences des institutions religieuses, du r\u00f4le de la femme dans la soci\u00e9t\u00e9, des classes sociales, des fonctions du langage. Condition pr\u00e9alable : Cours d'introduction \u00e1 la linguistique. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises. "
+        },
+        {
+            "dept": "lin",
+            "code": "4658",
+            "credit": 3.0,
+            "name": "Lexicologie/Lexicographie      ",
+            "prereqs": "",
+            "desc": "1. G\u00e9n\u00e9ralit\u00e9s : les mots et les choses. Lexique et vocabulaire. Synchronie et diachronie. Lexicologie et lexicolographie; leur place au sein de la linguistique 2. Le mot, le signe linguistique et l'unit\u00e9 lexicale. Lex\u00e8mes et synth\u00e8mes. Identification des unit\u00e9s lexicales : synth\u00e8mes, figements et syntagmes. Formation des unit\u00e9s lexicales. L'information lexicale. 3. Lexicologie : typologie des dictionnaires. Nomenclature, article. Condition pr\u00e9alable : cours d'introduction \u00e0 la linguistique. Remarque : une note minimale de C en GL/FRAN 2600 6.00 (ou \u00e9quivalent) est requise pour tout \u00e9tudiant se sp\u00e9cialisant en \u00e9tudes fran\u00e7aises."
+        },
+        {
+            "dept": "lin",
+            "code": "4694",
+            "credit": 3.0,
+            "name": "Spanish as a Global Language",
+            "prereqs": "",
+            "desc": "This course explores the growing global presence of the Spanish language in its historical and current aspects. It also examines the whys and wherefores of the history, present-day status and future potential of Spanish as an international language of communication.\r\nPrerequisite: SP 3000 6.00 or permission of the Department."
+        },
+        {
+            "dept": "lin",
+            "code": "4709",
+            "credit": 3.0,
+            "name": "Advanced Phonetics and Phonology",
+            "prereqs": "lin2711 lin2611",
+            "desc": "Building on GL/LIN 2711 3.00, this course will introduce detailed work in acoustic phonetics using our micro speech lab for computer speech analysis and display. We will then use the acquired techniques to study international meaning in spoken Canadian English texts. Prerequisite: GL/LIN 2711 3.00 or GL/LIN 2611 3.00 equivalent or permission of the Department.\r\nCourse credit exclusion: GL/LIN/EN 4609 3.00."
+        },
+        {
+            "dept": "lin",
+            "code": "4728",
+            "credit": 3.0,
+            "name": "Critical Discouse Analysis",
+            "prereqs": "lin1601 lin1603",
+            "desc": "This course analyses the relationship between power and language, principally how power is realised in language and constructed through language. Focus is on political discourse in its numerous manifestations; parliamentary discourse, political rhetoric, political interviews, and political commentary. Prerequisites: GL/LIN 1601 6.00, GL/LIN 1603 6.00 or equivalent introductory course, or permission of the department.\r\nCourse credit exclusion: GL/LIN/EN 4628 3.00."
+        }
+    ]
+}

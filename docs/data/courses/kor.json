@@ -1,0 +1,68 @@
+{
+    "courses": [
+        {
+            "dept": "kor",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Modern Standard Korean",
+            "prereqs": "",
+            "desc": "An introductory Korean language course for absolute beginners and those with a very limited knowledge of Korean. This course stresses the skills of listening, speaking, reading and writing, and includes some lectures and readings on various aspects of Korean culture. Language of Instruction: Korean/English."
+        },
+        {
+            "dept": "kor",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Modern Standard Korean",
+            "prereqs": "",
+            "desc": "An introductory Korean language course for absolute beginners and those with a very limited knowledge of Korean. This course stresses the skills of listening, speaking, reading and writing, and includes some lectures and readings on various aspects of Korean culture. Language of Instruction: Korean/English."
+        },
+        {
+            "dept": "kor",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Advanced Modern Standard Korean",
+            "prereqs": "kor2000",
+            "desc": "This course focuses on discourse structure in all four-skill areas. Original and edited texts are read, summarized, translated and discussed. Socio-cultural aspects are particularly emphasized to deepen the understanding of Korean society and culture. \r\nPrerequisites: AP/KOR 2000 6.00, or permission of the department."
+        },
+        {
+            "dept": "kor",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Contemporary Korea: Identity, Society, and Culture ",
+            "prereqs": "",
+            "desc": "Introduces students to contemporary Korean culture, identity, and society. It seeks to help students develop a dynamic understanding of contemporary Korea by taking an interdisciplinary approach to cultural and socio-political issues of Korean society. Previously offered as: AP/KOR 3600 6.00 "
+        },
+        {
+            "dept": "kor",
+            "code": "3610",
+            "credit": 3.0,
+            "name": "Contemporary Korea: Korean Popular Culture and Korean Wave ",
+            "prereqs": "",
+            "desc": "Examines the socio-culture meaning of the Korean popular cultural phenomenon in terms of Korea's globalization and of the processes of production, transnational distribution, and consumption of Korean popular culture."
+        },
+        {
+            "dept": "kor",
+            "code": "3650",
+            "credit": 3.0,
+            "name": "Understanding Korea through Korean Films",
+            "prereqs": "",
+            "desc": "This course aims to enhance students' understanding of a variety of historical, social, cultural issues of Korean society by analyzing relevant Korean films. It examines close relationships between cinematic representations and modern Korean history and society. Following the historical trajectory of Korean cinema from 1990s to the present, the course provides opportunities to engage a critical thinking of the dynamics between nation, history, society, and cinema."
+        },
+        {
+            "dept": "kor",
+            "code": "4050",
+            "credit": 6.0,
+            "name": "Advanced Korean for Business",
+            "prereqs": "kor3000",
+            "desc": "The goal of the course is to provide students with Korean linguistic proficiency at a level that allows them to conduct business activities. This course aims to enhance students proficiency to the advanced level while covering specialized vocabulary and expressions used in a wide range of business settings in Korea. Prerequisites: AP/KOR 3000 6.00 or equivalent level of knowledge in the Korean language."
+        },
+        {
+            "dept": "kor",
+            "code": "4500",
+            "credit": 3.0,
+            "name": "A Taste of Korea: Korean Foodways and Culture",
+            "prereqs": "",
+            "desc": "This course examines Korean foodways, that is, the language, history, society, traditions, and economics of Korean (and Korean-Canadian) food culture. Topics include the relationships between Korean food and globalism/localisation, national identities and socio-economic status in Korean food culture, the role of food media in the contemporary Korean foodways, and the cultural beliefs encapsulated in food language.\r\nEE Components:\r\n1) Invited lectures by chefs and food writers (such as Sanghyeon Kim)\r\n2) Evaluation component: Report on a culinary experience in the local Korean- Canadian community\r\nThe language of instruction is English"
+        }
+    ]
+}

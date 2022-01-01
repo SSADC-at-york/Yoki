@@ -1,0 +1,140 @@
+{
+    "courses": [
+        {
+            "dept": "nats",
+            "code": "1200",
+            "credit": 6.0,
+            "name": "La Vie Sauvage de Toronto: \u00c9cologie urbaine et restauration",
+            "prereqs": "",
+            "desc": "Ce cours examine comment les esp\u00e8ces s\u0092adaptent aux \u00e9cosyst\u00e8mes urbains. Il analyse les d\u00e9fis \u00e9cologiques, les m\u00e9thodes de recensement et la restauration de l'habitat. Le cours examine aussi les m\u00e9thodes d\u0092accro\u00eetre la biodiversit\u00e9 et la r\u00e9silience des esp\u00e8ces urbaines."
+        },
+        {
+            "dept": "nats",
+            "code": "1510",
+            "credit": 3.0,
+            "name": "The History of the Environment",
+            "prereqs": "",
+            "desc": "How the Earth's environment came to be what it is now. From the formation of the Earth through all stages of human civilization, this course traces the factors that have given the planet the environment that we live in today. \n"
+        },
+        {
+            "dept": "nats",
+            "code": "1570",
+            "credit": 3.0,
+            "name": "Exploring the Solar System",
+            "prereqs": "",
+            "desc": "This course considers the science of the Solar System, including the structure of the planets and other objects within it, as well as its dynamic processes. Course credit exclusions: SC/NATS 1740 6.00, SC/NATS 1880 6.00, SC/NATS 1750 6.00. NCR: to any student who has successfully taken or is taking SC/PHYS 1070 3.00 or SC/PHYS 1470 3.00. Not open to any students enrolled in the Astronomy Stream."
+        },
+        {
+            "dept": "nats",
+            "code": "1585",
+            "credit": 3.0,
+            "name": "Astronomy: Exploring the Universe",
+            "prereqs": "",
+            "desc": "Explores the universe beyond our solar system. We begin by studying how gravity triggers fusion reactions in starts that create heat, light, and every element in our bodies except hydrogen: overall, stars shine by converting mass into energy (Einstein's E=mc^2). We discuss how we can use the corpses of stars (white dwarfs, neutron stars, and black holes) to probe how space and time are related via Einstein's theories of relativity. We examine how stars are bound together into galaxies by gravity and how to use various wavelengths of light to determine why there are different types of galaxies: elegant spirals, massive ellipticals, and faint dwarf galaxies. We learn how the Doppler effect reveals that dark matter must produce some of the gravity that binds stars into galaxies, galaxies into clusters of galaxies, and clusters of galaxies into superclusters. We explore how we can use distant galaxies to study the development of the universe over its entire history, including the increasing importance of dark energy. We confront both the earliest instants and the far future of our universe's history: what we know, what we still hope to learn, and what we think we can ever learn. Finally, we join some modern scientists in the speculation about whether or not other universes might exist beyond the one we can perceive. Course credit exclusions: SC/NATS 1740 6.00. NCR: to any student who has successfully taken or is taking SC/PHYS 1070 3.00 or SC/PHYS 1470 3.00. Not open to any student enrolled in the Astronomy stream. Minimal simple arithmetical calculation at about the Grade 10 level."
+        },
+        {
+            "dept": "nats",
+            "code": "1740",
+            "credit": 6.0,
+            "name": "Astronomy                             ",
+            "prereqs": "",
+            "desc": "A discussion of our present understanding of the universe and its constituents. Topics include the structure and evolution of the planets, stars, galaxies and the universe as a whole.  Course credit exclusions: SC/NATS 1880 6.00, SC/NATS 1570 3.00, SC/NATS 1585 3.00. NCR: to any student who has successfully taken or is taking SC/PHYS 1070 3.00 or SC/PHYS 1470 3.00. Not open to any students enrolled in the Astronomy stream."
+        },
+        {
+            "dept": "nats",
+            "code": "1750",
+            "credit": 6.0,
+            "name": "The Earth and Its Atmosphere",
+            "prereqs": "",
+            "desc": "In this course we describe the physical properties and characteristics of Earth as an active system. We will look at the overall structure of Earth and how it is a dynamic system. Plate tectonics, the constantly changing surface of Earth, the nature of water and oceans and the atmosphere will be covered. We will also address how these different elements interact. We will touch briefly on other solar system bodies, and how they may be similar to or different from Earth. We will also look at how geology plays a role in the mineral resources on Earth. The effect and interaction with life will also be touched on.  Course credit exclusions: SC/NATS 1570 3.00, SC/NATS 1780 6.00, LE/EATS 1010 3.0, SC/EATS 1010 3.00, LE/EATS 1011 3.00, SC/EATS 1011 3.00. Not open to any student who has passed or is taking a course in earth and atmospheric science. PRIOR TO SUMMER 2013: Course credit exclusions: SC/NATS 1780 6.00, SC/EATS 1010 3.00, SC/EATS 1011 3.00."
+        },
+        {
+            "dept": "nats",
+            "code": "1840",
+            "credit": 6.0,
+            "name": "Science, Technology and the Environment",
+            "prereqs": "",
+            "desc": "Environmental issues, how they arise, and an exploration of possible solutions to present and future problems.  Topics include pollution, water quality, biodiversity, resource usage, population, global warming, and medical consequences of environmental changes.  NCR: No credit will be retained for any student who has passed or is taking SC/NATS 1512 3.00, SC/NATS 1515 3.00, EN/ENVS 1500 6.00. Note: Not open to any student enrolled in an Environmental Studies program."
+        },
+        {
+            "dept": "nats",
+            "code": "2920",
+            "credit": 6.0,
+            "name": "Medieval Science:  Thought and Practice",
+            "prereqs": "",
+            "desc": "A history of scientific thought in the Middle Ages, its divisions, its scope and its place in medieval society."
+        },
+        {
+            "dept": "nats",
+            "code": "3628",
+            "credit": 3.0,
+            "name": "The Politics of Science",
+            "prereqs": "",
+            "desc": "This course analyzes the intersection between politics and the physical and biological sciences. Topics examined include environmental politics, the political impact of changing technology, as well as the political aspects of natural resources, food, and health/disease."
+        },
+        {
+            "dept": "nats",
+            "code": "3635",
+            "credit": 3.0,
+            "name": "Psychologie de la sant\u00e9",
+            "prereqs": "",
+            "desc": "La psychologie de la sant\u00e9 constitue un secteur d'activit\u00e9 en pleine effervescence. Le cours mettra l'emphase sur le r\u00f4le scientifique de la psychologie appliqu\u00e9 aux probl\u00e8mes de sant\u00e9, le stress psychologique ainsi que plusieurs variables moderatrices. Condition pr\u00e9alable : GL/PSYC 2510 6.00. Cours incompatibles : HH/PSYC 3170 3.00."
+        },
+        {
+            "dept": "nats",
+            "code": "3635",
+            "credit": 3.0,
+            "name": "Health Psychology",
+            "prereqs": "psyc2510",
+            "desc": "This course examines psychological contributions to health maintenance, prevention and treatment of illness, and to the identification of correlates of specific conditions in health and illness. Prerequisite: GL/PSYC 2510 6.00. Course credit exclusions: HH/PSYC 3170 3.00."
+        },
+        {
+            "dept": "nats",
+            "code": "3670",
+            "credit": 3.0,
+            "name": "Psychobiology                 ",
+            "prereqs": "psyc2510",
+            "desc": "This course reviews the physiological basis of behaviour including elements of neuroanatomy, psycho-physiology, neuropsychology and psycho-pharmacology. Prerequisite: GL/PSYC 2510 6.00 or equivalent. Course credit exclusion: HH/PSYC 2240 3.00."
+        },
+        {
+            "dept": "nats",
+            "code": "3670",
+            "credit": 3.0,
+            "name": "Psychobiologie",
+            "prereqs": "",
+            "desc": "Ce cours a pour but d'offrir aux \u00e9tudiants une introduction g\u00e9n\u00e9rale et un survol \u00e0 des bases neurobiologiques du comportement humain. La psychobiologie conna\u00eet un essor extraordinaire depuis ces derni\u00e8res ann\u00e9es. Nous discutons des avanc\u00e9es scientifiques dans le domaine et de leurs applications cliniques. Ce cours permet aux \u00e9tudiants non-initi\u00e9s d'avoir une appr\u00e9ciation des fronti\u00e8res de la psychologie. Condition pr\u00e9alable : GL/PSYC 2510 6.00 ou l'\u00e9quivalent. "
+        },
+        {
+            "dept": "nats",
+            "code": "3690",
+            "credit": 3.0,
+            "name": "Perception                             ",
+            "prereqs": "psyc2510",
+            "desc": "This course focuses on the nature of light, the eye and the visual nervous system. Early vision (encoding light and pattern) and higher order vision (encoding surfaces and objects) are covered. Neurobiological mechanisms are underlined. The auditory system is also covered. Prerequisite: GL/PSYC 2510 6.00. Course credit exclusions: HH/PSYC 3270 3.00, HH/PSYC 2220 3.00."
+        },
+        {
+            "dept": "nats",
+            "code": "4200",
+            "credit": 0.0,
+            "name": "Work Placement",
+            "prereqs": "",
+            "desc": "This not-for-credit experiential education course provides students the opportunity to analyze and apply the knowledge, skills and competencies gained in the classroom in a professional environment and to reflect on the relationship between theory and practice. Note: This course cannot be used to satisfy the general education requirement."
+        },
+        {
+            "dept": "nats",
+            "code": "4620",
+            "credit": 3.0,
+            "name": "Urban Environmentalism and Urban Sociology",
+            "prereqs": "",
+            "desc": "Environmental change is making a major impact on cities and, in turn, is changing the experience of city life. The course examines this intersection of environmental sociology and urban sociology, which is emerging as a major global planning issue, for example in the two recent UN Habitat reports on sustainable cities (2009) and cities and climate change (2011). "
+        },
+        {
+            "dept": "nats",
+            "code": "4645",
+            "credit": 3.0,
+            "name": "Topics in the Philosophy of Descartes     ",
+            "prereqs": "",
+            "desc": "A variety of topics in Descartes' philosophy is examined in this course. Descartes' philosophy is studied in historical context. Emphasis is placed on Descartes' participation in the scientific revolution and his assessment of its philosophical implications, particularly those concerning human nature and the possibility of knowledge (including self-knowledge) and human freedom. Topics may change from year to year. Integrated with GS/PHIL 5150 3.00. Prerequisite: 12 credits in Philosophy or permission of the Department.  "
+        }
+    ]
+}

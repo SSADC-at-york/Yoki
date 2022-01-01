@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "eil",
+            "code": "6560",
+            "credit": 6.0,
+            "name": "Public Utility Law",
+            "prereqs": "",
+            "desc": "This course addresses the role of public utility regulators with an emphasis on the role of the Ontario Energy Board in regulating electricity and gas utilities. The course also focuses on the development of North American and international mode"
+        },
+        {
+            "dept": "eil",
+            "code": "6569",
+            "credit": 3.0,
+            "name": "Power Purchase Agreements: A Tool for Investment and Electricity Generation",
+            "prereqs": "",
+            "desc": "This course studies Power Purchase Agreements as they are used in Ontario's electricity market, in other Canadian provinces and internationally."
+        },
+        {
+            "dept": "eil",
+            "code": "7001",
+            "credit": 3.0,
+            "name": "International Transportation Law",
+            "prereqs": "",
+            "desc": "This course introduces the legal framework of the international carriage of goods by sea, road, rail, air and multimodal transportation and also focus on the importance of container transportation in global trade.\r\n"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "courses": [
+        {
+            "dept": "writ",
+            "code": "1003",
+            "credit": 6.0,
+            "name": "Professional Writing: An Introduction",
+            "prereqs": "",
+            "desc": "Introduces the concepts, fields, and practices of professional writing. Concepts considered include creativity and the idea of writing, composition theories and practices, writing for different audiences, and critical analyses of professional writing modes and media. Students practice writing for different audiences and professional writing contexts."
+        },
+        {
+            "dept": "writ",
+            "code": "1004",
+            "credit": 3.0,
+            "name": "Research for Professional Writers",
+            "prereqs": "",
+            "desc": "A practical introduction to research demands, strategies, and ethics in today\u0092s digital professional writing environment. In a digital writing project, students will develop and use strategies for formulating research plans; gathering relevant and reliable information through appropriate research methods and from information retrieval systems; and evaluating and organizing information to craft responsible, compelling texts.\r\n\r\nPRIOR TO FALL 2014: Course credit exclusion: AP/WRIT 2300 3.00.\r\nPRIOR TO FALL 2012: Course credit exclusion: AP/WRIT 2300 3.00 AP/PRWR 2300 3.00 , AP/WRIT 3988 3.00."
+        },
+        {
+            "dept": "writ",
+            "code": "1006",
+            "credit": 3.0,
+            "name": "A Writer's Introduction to Literary Forms ",
+            "prereqs": "",
+            "desc": "An introduction to the fundamental principles governing the production and reception of four principal literary forms in English: poetry, prose fiction, prose non-fiction and drama. Extensive consideration is given to the form's ties to the parallel concept of genre. \r\nCourse credit exclusion: AP/PRWR 1006 3.00 (prior to Fall 2012).\n"
+        },
+        {
+            "dept": "writ",
+            "code": "2003",
+            "credit": 6.0,
+            "name": "Genre for Professional Writers",
+            "prereqs": "",
+            "desc": "Since genre determines most of the essential elements that a writer must consider and apply, including purpose, audience, form, style, voice, evidence, methodology, ethics and context, understanding genre is crucial for effective writing.  This course explores these critical considerations of genre, and students apply these concepts to their own writing in multiple academic and professional writing genres. \r\n\r\n"
+        },
+        {
+            "dept": "writ",
+            "code": "2004",
+            "credit": 3.0,
+            "name": "Writing in Digital Cultures",
+            "prereqs": "",
+            "desc": "This course develops students' critical writing, analysis, design, and implementation abilities in the digital world. Students will analyze the impact of digital products through current theory and global issues, then design, write, and implement their own digital product. Areas of study include questions such as power, gender, audience, identity, language, accessibility, and knowledge construction.  "
+        },
+        {
+            "dept": "writ",
+            "code": "2201",
+            "credit": 3.0,
+            "name": "Effective Writing and Research in Information Technology",
+            "prereqs": "",
+            "desc": "This course develops fundamental research and technical writing capabilities needed to clearly describe and document IT-related problems and solutions. Students develop these capabilities by working on projects that require research into, and clear descriptions of, technical problems, solutions and procedures using relevant academic and professional genres, and creating an eportfolio to demonstrate and reflect critically on their development as researcher/writers.\r\nPre-requisites: Students must have successfully completed all 1000 level required courses in information technology before taking WRIT 2201 3.00\r\nCourse Credit Exclusions: WRIT 3988 Prior to Summer 2019\r\nOpen to: ITEC students only\r\nNot open to: PRWR and ENPR Students"
+        },
+        {
+            "dept": "writ",
+            "code": "3001",
+            "credit": 3.0,
+            "name": "Intermediate Digital Authoring",
+            "prereqs": "prwr2006 writ2004",
+            "desc": "The course considers authoring in the context of online environments and theories of such work. It introduces strategies for composing, editing, and promoting one's writing online. Collaborative online platforms will be demonstrated and analyzed. Topics considered include blogging, copyright law, social networking, creating media rich environments, ebooks, and the skills writers need to find and reach a particular audience. \r\nPrerequisites: AP/PRWR 2006 3.00 and AP/WRIT 2004 3.00."
+        },
+        {
+            "dept": "writ",
+            "code": "3002",
+            "credit": 3.0,
+            "name": "Introduction to Periodical Writing and Publishing",
+            "prereqs": "prwr2006",
+            "desc": "Offers an introductory survey of the primary genres involved in periodical publication, both newspapers and magazines. Genres addressed include news and investigative reports, commentary, reviews, profiles. The course attends also to the differential effects of subject matter on genre. \r\n\r\nPrerequisite: AP/PRWR 2006 3.00. Course credit exclusion: AP/EN 3700 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "writ",
+            "code": "3003",
+            "credit": 3.0,
+            "name": "Introduction to Corporate/Organizational Writing in",
+            "prereqs": "prwr2006",
+            "desc": "This course familiarizes students with the expectations,requirements, and conventions of corporate/organizational communication, and develops the skills needed to become a successful writer in a public or private sector professional environment. \r\nPrerequisite: AP/PRWR 2006 3.00.\r\nCourse credit exclusion: AS/EN 3710 6.00 (prior to Fall 2012).\r\nPRIOR TO FALL 2009: Course credit exclusions: AP/EN 3800 6.00, AP/EN 4800 6.00 (prior to Fall/Winter 2004-2005).\r\n"
+        },
+        {
+            "dept": "writ",
+            "code": "3004",
+            "credit": 3.0,
+            "name": "Books and Bookmaking in the 21st Century",
+            "prereqs": "prwr2006",
+            "desc": "This course considers the role of books in our culture now and in the future. Through lectures, workshops, and simulations, students learn how publishers affect the content, appearance, and reception of the books they publish. \r\nPrerequisite: AP/PRWR 2006 3.00"
+        },
+        {
+            "dept": "writ",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Practical Studies in Damage Control",
+            "prereqs": "",
+            "desc": "A problem-based capstone course in which students work in teams to develop and construct institutional responses, both internal and external, to extraordinary circumstances. \r\n\r\nPRIOR TO FALL 2012: AP/EN 4711 3.00\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/EN 4810 3.00."
+        },
+        {
+            "dept": "writ",
+            "code": "3011",
+            "credit": 3.0,
+            "name": "Reading the News: Examining the Rhetoric of the Press",
+            "prereqs": "",
+            "desc": "This course examines not only what is &quot;news&quot; but how the press presents news stories to the reading public. Issues in bias, spinning and framing, ideology and politics will be of focus. \r\n\r\nCourse credit exclusions: AP/WRIT/EN 4752. \r\nPRIOR TO FALL 2009: Course credit exclusion: AS/EN 4756 3.00."
+        },
+        {
+            "dept": "writ",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Special Topics",
+            "prereqs": "",
+            "desc": "This course provide students in Professional Writing and when possible, students in other programs, with specialized approaches to a special topic by exploring research, pursuing methods of inquiry and critical reflection, and producing examples of topic-related writing practices.\r\nOpen to: A selection of seats will be reserved for PRWR Majors / PRWR Minors / ENPR Majors"
+        },
+        {
+            "dept": "writ",
+            "code": "3730",
+            "credit": 3.0,
+            "name": "Substantive Editing",
+            "prereqs": "",
+            "desc": "The course addresses the problems of developing a text to the point at which it is deemed publishable. It trains students to diagnose problems with voice, continuity and accuracy. It addresses cutting the too-long manuscript and the issues involved in rewrites. \r\nCourse credit exclusion: AP/EN 3730 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "writ",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Professional Writing for Nurses",
+            "prereqs": "",
+            "desc": "Develops writing skills appropriate to the professional needs of nurses. Focus on university research papers and health educational materials using nursing curriculum-appropriate materials. Open to: Student enrolled in the collaborative BScN, post-RN Honours BScN, or the Qualifying Pre-Session for internationally educated nurses only."
+        },
+        {
+            "dept": "writ",
+            "code": "3988",
+            "credit": 3.0,
+            "name": "Effective Writing and Research",
+            "prereqs": "",
+            "desc": "Develops research and writing skills appropriate to university-level work in both liberal arts and professional studies. Skills include clarifying information needs, formulating research questions, using research tools and strategies to locate, manage and critically evaluate information, and using writing processes and understanding of rhetorical contexts and genres to write effectively for a range of academic and professional contexts and audiences. \nCourse credit exclusion: AP/WRIT 2300 3.00"
+        },
+        {
+            "dept": "writ",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Activist Rhetorics",
+            "prereqs": "",
+            "desc": "Students in this course analyze various activist rhetorics from around the world, engage with critical theory about the forms and functions of politically effective discourses, and learn to produce their own activist rhetorics. \r\nCourse credit exclusions: None. \r\n\r\nPrior TO FALL 2009: Course credit exclusion: AS/WRIT 4000 3.00."
+        },
+        {
+            "dept": "writ",
+            "code": "4001",
+            "credit": 6.0,
+            "name": "Digital Authoring Practicum",
+            "prereqs": "writ3001",
+            "desc": "This practicum allows fourth year students in PRWR to design and implement online writing and marketing campaigns for community organizations.\r\nCommunity service learning is central to this course. Students are matched with individuals and organizations that need digital help. Students write blogs, build websites, execute social media campaigns, write and design material appealing to multiple audiences using a variety of technologies. Students critically reflect on issues related to online communication.\r\n\r\nPrerequisites: AP/WRIT 3001 3.0 Digital Authoring "
+        },
+        {
+            "dept": "writ",
+            "code": "4002",
+            "credit": 6.0,
+            "name": "Periodical Writing and Publishing Practicum",
+            "prereqs": "writ3002 writ3700",
+            "desc": "The course provides students with advanced instruction in periodical writing styles and craft with a goal to publish their own material in a course-run digital periodical. Students will conceptualize, design and maintain an online periodical by performing the various roles required to take it from conception to publication on the Internet and, potentially, other platforms.\r\n\r\nPrerequisites: AP/WRIT 3002 3.0 or AP/WRIT 3700 6.0\r\nCourse credit exclusions: AP/WRIT 4700 6.0\r\nOpen to: 4th year Professional Wiring Majors and Minors; English and Professional Writing Majors"
+        },
+        {
+            "dept": "writ",
+            "code": "4003",
+            "credit": 6.0,
+            "name": "Organizational Writing Practicum",
+            "prereqs": "writ3003 writ3710",
+            "desc": "This practicum offers students direct experience applying rhetorical theories and concepts to writing for businesses/organizations requiring new or improved documents, newsletters, promotional literature, etc. Students develop client relationships with the York community (internal and/or external) while performing needs assessments, developing proposals, planning, producing, editing and publishing materials, and managing delivery in both print and digital media.\r\n\r\nPrerequisites: AP/WRIT 3003 3.0 or AP/WRIT 3710 6.0\r\nOpen to: PRWR Majors, PRWR Minors and ENPR Majors who have completed WRIT 3710 6.0 or WRIT 3003 3.0"
+        },
+        {
+            "dept": "writ",
+            "code": "4004",
+            "credit": 6.0,
+            "name": "Book Publishing Practicum",
+            "prereqs": "writ3004",
+            "desc": "This Practicum allows students in their 4th year to participate in the publication of a book of short fiction. Manuscripts are chosen from submissions to a contest, edited, produced in both electronic and print editions, and marketed, all under the supervision of Professional Writing faculty. Students must grapple with issues from how to judge the publishability of a manuscript to how best to edit, produce, and market an appropriate text. Assessment is through written assignments associated with the publishing tasks the students perform. \r\n\r\nPrerequisites: AP/WRIT 3004 3.00. \r\nCourse credit exclusion: AP/WRIT 4721 6.00\r\nPRIOR TO FALL 2016: Prerequisites: AP/WRIT 3720 6.0, AP/PRWR 3720 3.00, AP/EN 3720 6.00, AP/EN 3730 3.00. Corequisite: AP/EN 4720 6.00. \r\nCourse credit exclusion: AP/EN 4721 6.00 \r\nPRIOR TO FALL 2009: Prerequisites: AS/PRWR 3720 3.00, AS/EN 3600 6.00, AS/EN 3602 3.00. Corequisite: AS/EN 4280 6.00. Course credit exclusion: AS/EN 4600 6.00.\r\n"
+        }
+    ]
+}

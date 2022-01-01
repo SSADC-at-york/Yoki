@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "heb",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Modern Hebrew, Level I",
+            "prereqs": "",
+            "desc": "A course in beginning Hebrew, teaching elementary speaking and writing skills, emphasizing oral production and comprehension. Note: This course is not open to anyone who has studied Hebrew before, either formally or informally."
+        },
+        {
+            "dept": "heb",
+            "code": "3630",
+            "credit": 6.0,
+            "name": "Israeli Cinema:  Culture, Values, Art",
+            "prereqs": "",
+            "desc": "Introduces students to Israeli cinema as it evolved from the 1930s to the present. By studying feature films and documentaries, this course looks at film as a vehicle through which to explore questions of history, identity, conflict and reconciliation, war and peace, gender, ethnicity, the holocaust, and the tensions between individual and collective values.\n"
+        }
+    ]
+}

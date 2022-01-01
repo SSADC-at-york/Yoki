@@ -1,0 +1,180 @@
+{
+    "courses": [
+        {
+            "dept": "facc",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "Introduction to Governance and Accountability",
+            "prereqs": "",
+            "desc": "This is the required first course in the Program. As well as providing an overview of the program, it addresses interpersonal communication skills critical in business environments, reviews basic management competencies needed for careers in management and introduces students to basic research techniques. It also addresses the growing use of social media in business."
+        },
+        {
+            "dept": "facc",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Corporate Responsibilty and Ethics",
+            "prereqs": "",
+            "desc": "Acquire the basic knowledge necessary for an understanding of corporate accountability and ethics, including: ethical governance and accountability frameworks, corporate reporting responsibilities, professional and managerial ethical codes and obligations, business ethics and stakeholder management relationships, and ethical decision-making analyses and frameworks. \r\n\r\n "
+        },
+        {
+            "dept": "facc",
+            "code": "6170",
+            "credit": 3.0,
+            "name": "Justice, Governance and Accountability in the Global South",
+            "prereqs": "",
+            "desc": "This course will explore how the mechanics of developing country debt, the increased liberalization of global trade policy, the erosion of environmental protections, the increasing hegemony of transnational corporations and other related factors, have contributed to a widening gap in income, wealth and access to resources, both within countries and also between countries."
+        },
+        {
+            "dept": "facc",
+            "code": "6180",
+            "credit": 3.0,
+            "name": "Sustainability and Corporate Social Responsibility",
+            "prereqs": "",
+            "desc": "This course integrates concepts of sustainable development and corporate social responsibility and examines corporate strategies from three perspectives: social, environmental and economic outcomes; the interests and rights of future and current generations; value that nurtures positive relationships among firms, labor and communities.  "
+        },
+        {
+            "dept": "facc",
+            "code": "6190",
+            "credit": 3.0,
+            "name": "Case Studies in Stakeholder Accountability for Sustainability",
+            "prereqs": "",
+            "desc": "Examines applied issues of ecological, ethical and economic integration through a stakeholder accountability lens. Case studies and current events are used to explore issues such as fossil fuel development and climate change, globalization and labour standards, and financial instability and inequality. The focus is on managing diverse and competing stakeholder interests that arise in the context of sustainability."
+        },
+        {
+            "dept": "facc",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Performance Measurement Systems",
+            "prereqs": "",
+            "desc": "Provides an overview of performance measurement and incentive systems (PMIS) used by companies; improves students\u0092 understanding of management behaviour related to PMIS; presents examples of financial and non-financial PMIS; and provides students with opportunities to develop a PMIS. The course ensures students understand that any accountability, oversight and governance mechanism is based on a set of performance measures designed by managers and directors."
+        },
+        {
+            "dept": "facc",
+            "code": "6280",
+            "credit": 3.0,
+            "name": "Directors\u0092 Duties in Discharging Boards\u0092 Accountability Responsibilities",
+            "prereqs": "",
+            "desc": "The Board of Directors is the primary vehicle for achieving accountability and proper governance in any organization. This course provides guidance to play an effective role as a Board member."
+        },
+        {
+            "dept": "facc",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Enterprise Risk Management",
+            "prereqs": "",
+            "desc": "This course presents an integrated framework of risk management in organizations (ERM), analyzes risks that can be controlled and explains \r\nthe control policies and procedures available to reduce risks."
+        },
+        {
+            "dept": "facc",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Research Methods and Statistical Inference",
+            "prereqs": "",
+            "desc": "This course has four principal objectives. The first is to help students take a more structured and scientific approach to the evaluation of data. Managers are literally bombarded with data (the information overload problem) and must be able to filter and assess the quality of such data before inputting into managerial decision models. The ability to evaluate the quality of data and to make generalizations from it using the principles of statistical inference are critical skills for all mangers. The second objective of the course is to show how risk and uncertainty can be incorporated into decision making using techniques such as Probability theory and Bayesian inference. The third objective to show how data is qualitatively evaluated using the principles of evidence. Managers should be adept in evaluating both the sufficiency and persuasiveness of evidence used in decision models. The fourth objective is to show students how to prepare a research proposal to address any business problem. This is obviously essential for students pursuing the major paper option, but any manager benefits from recognizing when sound methodological principles have been followed in researching a business question. Managers read and possibly rely on many research reports over their careers and it is important to be able to distinguish good research from weak research."
+        },
+        {
+            "dept": "facc",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Corporate Governance",
+            "prereqs": "",
+            "desc": "Effective corporate governance is crucial to a successful and sustainable corporate enterprise.  This course explores corporate governance in relation to financial accountability, including boards of directors; board structures, processes, legal and ethical environment; evaluation of board performance; financial reporting and internal control oversight; performance and compensation oversight; strategic planning and risk oversight; assessing individual director performance; and shareholder accountability."
+        },
+        {
+            "dept": "facc",
+            "code": "6550",
+            "credit": 3.0,
+            "name": "Governance and Regulation of Anti-Money Laundering and Terrorist Financing",
+            "prereqs": "",
+            "desc": "This course provides an overview of the anti-money laundering and terrorist financing requirements in Canada, the United States and internationally.\r\n\r\nStudents will be able to identify the principal elements of and create an anti-money laundering and terrorist financing compliance program, which is a high demand job in the marketplace.\r\n"
+        },
+        {
+            "dept": "facc",
+            "code": "6555",
+            "credit": 3.0,
+            "name": "Regulation of Canadian Banking, Clearing and Payment Systems",
+            "prereqs": "",
+            "desc": "This course will cover the Canadian regulatory framework for banks and the infrastructure that facilitate the clearing, settling and recording of payments, securities and other financial transactions among participating entities. The MFAC program is geared towards banking and this course will equip MFAC students for careers in the Canadian banking sector."
+        },
+        {
+            "dept": "facc",
+            "code": "6600",
+            "credit": 3.0,
+            "name": "Accountability Issues in the Public Sector",
+            "prereqs": "",
+            "desc": "Examines management and accountability issues encountered in government and not-for-profit entities. Issues such as governance, transparency, and performance measurement are tailored to the unique challenges faced by these entities."
+        },
+        {
+            "dept": "facc",
+            "code": "6700",
+            "credit": 3.0,
+            "name": "Executive Compensation",
+            "prereqs": "",
+            "desc": "Most modern management theories posit that principal drivers of managerial behavior are executive compensation schemes. It is also a common belief that compensation schemes tied to the bottom line and stock price lead to actions more in the manager's interest than the firm's interest. This course looks at these issues and identifies best practices to strengthen corporate governance and accountability in the organization through appropriate design of executive compensation schemes. The revised course description reflects the reality that executive compensation dominates all benefits in terms of impact on accountability and governance."
+        },
+        {
+            "dept": "facc",
+            "code": "6800",
+            "credit": 3.0,
+            "name": "Synthesis of theory and practice, governance and accountability",
+            "prereqs": "",
+            "desc": "Capstone course In the Graduate Program in Financial Accountability which integrates theories and practices from the previous courses and applies them in an experiential learning format. "
+        },
+        {
+            "dept": "facc",
+            "code": "6850",
+            "credit": 6.0,
+            "name": "Financial Accountability Practicum",
+            "prereqs": "",
+            "desc": "Placements in organizations provide students with the opportunity to explore the relationship between theory and practice in financial accountability as well as obtain relevant employment experience to prepare for careers.\r\nPre-requisite: GS/FACC 6000 3.00 Introduction to Governance and Accountability\r\nPre- or Co- requisite: GS/FACC6100 3.00 Corporate Responsibility and Ethics\r\nPracticum: at least either 10 hours of work in each of 22 weeks or 30 hours a week for 10 weeks\r\n"
+        },
+        {
+            "dept": "facc",
+            "code": "6870",
+            "credit": 3.0,
+            "name": "Advanced Techniques of Financial Analysis",
+            "prereqs": "",
+            "desc": "In addition to exploring advanced techniques of financial statement analysis, including how to understand and use the information that appears in annual reports inside and outside audited financial statements, students explore two topics not commonly found in courses dealing with financial statements: 1) advanced techniques of cash flow analysis; and 2) distribution sustainability and governance of income trusts. The course also explores how companies manage their image using non-financial disclosures in public documents, and how non-financial information is essential to using the financial data properly. \r\n"
+        },
+        {
+            "dept": "facc",
+            "code": "6880",
+            "credit": 3.0,
+            "name": "Information Technology Goverance",
+            "prereqs": "",
+            "desc": "This course takes an applied approach to IT governance and will cover the fundamentals of IT governance, examining effective governance models and successful implementation of these models. Since all organizations, regardless of size, have information systems, management of such systems is an important component of developing systems that provide accurate financial information. Appropriate case studies are covered to highlight lessons learned and best practices.\r\n"
+        },
+        {
+            "dept": "facc",
+            "code": "6885",
+            "credit": 3.0,
+            "name": "Regulation of Blockchain Technology and Cryptocurrencies  ",
+            "prereqs": "",
+            "desc": "This course examines the current legal, regulatory and governance issues surrounding the emerging blockchain and cryptocurrency technologies including future applications of blockchain in disrupting traditional banking (Fintech) and other industries."
+        },
+        {
+            "dept": "facc",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Leadership and management skills for emerging leaders charged with governance",
+            "prereqs": "",
+            "desc": "\tThis course facilitates emerging leaders in developing skills for effective leadership and management when charged with governance or when working with those that are. \n\tThe course includes three units: (1) strategic thinking and foresight (2) current trends and challenges in governance and (3) traditional facets of successful leadership including time management, team building, negotiating, decision-making and conflict management. \n"
+        },
+        {
+            "dept": "facc",
+            "code": "6990",
+            "credit": 3.0,
+            "name": "Directed Readings",
+            "prereqs": "",
+            "desc": "A supervised reading course on a topic for which there is no current course offering. Permission of the Graduate Program Director is required"
+        },
+        {
+            "dept": "facc",
+            "code": "6999",
+            "credit": 6.0,
+            "name": "Major Research Paper Option",
+            "prereqs": "",
+            "desc": "Students who select the MRP option will complete an independent reading and research project under the guidance of two faculty members. "
+        }
+    ]
+}

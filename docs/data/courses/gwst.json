@@ -1,0 +1,556 @@
+{
+    "courses": [
+        {
+            "dept": "gwst",
+            "code": "1502",
+            "credit": 6.0,
+            "name": "Introduction to Gender and Women's Studies",
+            "prereqs": "",
+            "desc": "Using an interdisciplinary approach, this course explores how many aspects of our lives are gendered, racialized, embodied, sexualized, and classed, and the consequences of these intersecting practices for social inequalities. Key debates within feminist scholarship are introduced to analyze issues of power and transformation. \r\nPRIOR TO FALL 2014: AP/GWST 2510 9.00, GL/GWST 2510 9.00, AP/HUMA 2930 9.00, AP/SOSC 2180 9.00,\nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 2500 6.00 or GL/WMST 2500 6.00, AP/WMST 2510 9.00, GL/WMST 2510 9.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "1502",
+            "credit": 6.0,
+            "name": "Introduction to Gender and Women's Studies",
+            "prereqs": "",
+            "desc": "Using an interdisciplinary approach, this course explores how many aspects of our lives are gendered, racialized, embodied, sexualized, and classed, and the consequences of these intersecting practices for social inequalities. Key debates within feminist scholarship are introduced to analyze issues of power and transformation. \r\nPRIOR TO FALL 2014: AP/GWST 2510 9.00, GL/GWST 2510 9.00, AP/HUMA 2930 9.00, AP/SOSC 2180 9.00,\nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 2500 6.00 or GL/WMST 2500 6.00, AP/WMST 2510 9.00, GL/WMST 2510 9.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "1502",
+            "credit": 6.0,
+            "name": "Introduction aux \u00e9tudes des femmes et de genre",
+            "prereqs": "",
+            "desc": "Ce cours explore comment l'exp\u00e9rience des individus est marqu\u00e9e par le genre, la race, la sexualit\u00e9 et la classe en r\u00e9f\u00e9rence notamment au v\u00e9cu des femmes. Dans une d\u00e9marche multidisciplinaire, les concepts fondamentaux en \u00e9tudes des femmes et de genre ainsi que les grands d\u00e9bats f\u00e9ministes sont introduits en vue d'analyser les relations de pouvoir et leurs possibles transformations. \r\n\r\nAVANT L'AUTOMNE 2014: cours incompatibles: AP/GWST 2510 9.00, GL/GWST 2510 9.00, AP/HUMA 2930 9.00, AP/SOSC 2180 9.00. AVANT L'AUTOMNE 2013: cours incompatibles: AP/WMST 2500 6.00, GL/WMST 2500 6.00, AP/WMST 2510 9.00, GL/WMST 2510 9.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "1502",
+            "credit": 6.0,
+            "name": "Introduction aux \u00e9tudes des femmes et de genre",
+            "prereqs": "",
+            "desc": "Ce cours explore comment l'exp\u00e9rience des individus est marqu\u00e9e par le genre, la race, la sexualit\u00e9 et la classe en r\u00e9f\u00e9rence notamment au v\u00e9cu des femmes. Dans une d\u00e9marche multidisciplinaire, les concepts fondamentaux en \u00e9tudes des femmes et de genre ainsi que les grands d\u00e9bats f\u00e9ministes sont introduits en vue d'analyser les relations de pouvoir et leurs possibles transformations. \r\n\r\nAVANT L'AUTOMNE 2014: cours incompatibles: AP/GWST 2510 9.00, GL/GWST 2510 9.00, AP/HUMA 2930 9.00, AP/SOSC 2180 9.00. AVANT L'AUTOMNE 2013: cours incompatibles: AP/WMST 2500 6.00, GL/WMST 2500 6.00, AP/WMST 2510 9.00, GL/WMST 2510 9.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "2501",
+            "credit": 3.0,
+            "name": "Language and Gender",
+            "prereqs": "",
+            "desc": "Explores the relationship between language and sex/gender systems from a feminist perspective. The main areas investigated are language and gender stereotypes; language, power and women's status; and male versus female communicative style in different socio-cultural contexts. \r\nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 2501 3.00, GL/WMST 2501 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "2501",
+            "credit": 3.0,
+            "name": "Language and Gender",
+            "prereqs": "",
+            "desc": "Explores the relationship between language and sex/gender systems from a feminist perspective. The main areas investigated are language and gender stereotypes; language, power and women's status; and male versus female communicative style in different socio-cultural contexts. \r\nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 2501 3.00, GL/WMST 2501 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "2511",
+            "credit": 6.0,
+            "name": "Sex, Gender and Popular Culture",
+            "prereqs": "",
+            "desc": "Examines the construction of gender - both femininity and masculinity - and sexuality in popular culture with a consideration of how social, political and historical forces influence media practices as well as audience consumption preferences. Note: Students will need access to the Internet for web-based research. Course credit exclusions: GL/GWST 2511 6.00. \nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 1510 6.00, GL/WMST 1510 6.00.\n"
+        },
+        {
+            "dept": "gwst",
+            "code": "2511",
+            "credit": 6.0,
+            "name": "Sex, Gender and Popular Culture",
+            "prereqs": "",
+            "desc": "Examines the construction of gender - both femininity and masculinity - and sexuality in popular culture with a consideration of how social, political and historical forces influence media practices as well as audience consumption preferences. Note: Students will need access to the Internet for web-based research. Course credit exclusions: GL/GWST 2511 6.00. \nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 1510 6.00, GL/WMST 1510 6.00.\n"
+        },
+        {
+            "dept": "gwst",
+            "code": "2512",
+            "credit": 6.0,
+            "name": "Race, Gender &amp; Sexuality",
+            "prereqs": "gwst1501 gwst1502 sxst1600",
+            "desc": "Explores the social and historical construction of race, gender and sexuality through a critical and intersectional approach. It draws on a range of theoretical perspectives from anti-racist feminist, critical race, (post)colonial and transnational studies, among others, to broaden and complicate understandings of power and difference. Prerequisites: AP/GWST 1501 9.00, AP/GWST 1502 6.00, or AP/SXST 1600 9.00. "
+        },
+        {
+            "dept": "gwst",
+            "code": "2513",
+            "credit": 6.0,
+            "name": "Mothering and Motherhood ",
+            "prereqs": "",
+            "desc": "Examines motherhood as it is theorized and analyzed in interdisciplinary feminist scholarship and as it is portrayed in women's fictional and autobiographical writings. The history, sociology, psychology and politics of motherhood with emphasis on class, cultural and racial differences are investigated. \r\nPRIOR TO FALL 2015: Course credit exclusion: GL/GWST 3508 6.00.\r\n\nPRIOR TO FALL 2014: Course credit exclusion: AP/GWST 3508 6.00.\r\n\nPRIOR TO FALL 2013: Course credit exclusions: GL/WMST 3508 6.00, AP/WMST 3508 6.00.\n"
+        },
+        {
+            "dept": "gwst",
+            "code": "2513",
+            "credit": 6.0,
+            "name": "Mothering and Motherhood ",
+            "prereqs": "",
+            "desc": "Examines motherhood as it is theorized and analyzed in interdisciplinary feminist scholarship and as it is portrayed in women's fictional and autobiographical writings. The history, sociology, psychology and politics of motherhood with emphasis on class, cultural and racial differences are investigated. \r\nPRIOR TO FALL 2015: Course credit exclusion: GL/GWST 3508 6.00.\r\n\nPRIOR TO FALL 2014: Course credit exclusion: AP/GWST 3508 6.00.\r\n\nPRIOR TO FALL 2013: Course credit exclusions: GL/WMST 3508 6.00, AP/WMST 3508 6.00.\n"
+        },
+        {
+            "dept": "gwst",
+            "code": "2515",
+            "credit": 6.0,
+            "name": "Thinking Whiteness: An Introduction to the Socio-Cultural Construction of Whiteness",
+            "prereqs": "",
+            "desc": "This course surveys key texts and concepts in the field of critical, anti-racist North American whiteness studies. Approaches are intersectional and read for historical and contemporary constructions of whiteness as personhood intersecting with settler colonialism, gender, class, sexuality, and ethnicity.\r\n"
+        },
+        {
+            "dept": "gwst",
+            "code": "2515",
+            "credit": 6.0,
+            "name": "Thinking Whiteness: An Introduction to the Socio-Cultural Construction of Whiteness",
+            "prereqs": "",
+            "desc": "This course surveys key texts and concepts in the field of critical, anti-racist North American whiteness studies. Approaches are intersectional and read for historical and contemporary constructions of whiteness as personhood intersecting with settler colonialism, gender, class, sexuality, and ethnicity.\r\n"
+        },
+        {
+            "dept": "gwst",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Critical Foundations in Sexuality Studies  ",
+            "prereqs": "",
+            "desc": "This course is an interdisciplinary and transnational introduction to theories, methods, themes, debates and issues that constitute the field of critical sexuality studies. The course will examine how sexuality intersects with other lines and relations of power including gender, race, class, dis/ability, family among others. It will also examine key theoretical innovations within the field of sexuality studies, as well as how theoretical directions pioneered in other fields have shaped sexuality studies. Previously offered as: AP/WMST 2600 6.00, GL/WMST 2600 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Critical Foundations in Sexuality Studies  ",
+            "prereqs": "",
+            "desc": "This course is an interdisciplinary and transnational introduction to theories, methods, themes, debates and issues that constitute the field of critical sexuality studies. The course will examine how sexuality intersects with other lines and relations of power including gender, race, class, dis/ability, family among others. It will also examine key theoretical innovations within the field of sexuality studies, as well as how theoretical directions pioneered in other fields have shaped sexuality studies. Previously offered as: AP/WMST 2600 6.00, GL/WMST 2600 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "2685",
+            "credit": 3.0,
+            "name": "La Famille       ",
+            "prereqs": "",
+            "desc": "\u00c9tude de la famille en tant qu'unit\u00e9 du syst\u00e8me social et domaine d'interaction sociale. \u00c9tude, en particulier, des variations de formes familiales et de leurs relations avec les diff\u00e9rents syst\u00e8mes sociaux; \u00e9tude des changements actuels dans la vie familiale et des attitudes envers la famille, des r\u00f4les et des comportements familiaux."
+        },
+        {
+            "dept": "gwst",
+            "code": "3503",
+            "credit": 6.0,
+            "name": "Femmes et mondialisation",
+            "prereqs": "",
+            "desc": "Ce cours porte sur la situation des femmes dans un contexte de mondialisation. Il traite de l'impact de la mondialisation sur les conditions de vie des femmes aux niveaux local et international et analyse leur capacit\u00e9 \u00e0 s'auto-organiser economiquement et politiquement. \r\nOffert pr\u00e9c\u00e9demment comme suit: AP/WMST 3503 6.00, GL/WMST 3503 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3503",
+            "credit": 6.0,
+            "name": "Femmes et mondialisation",
+            "prereqs": "",
+            "desc": "Ce cours porte sur la situation des femmes dans un contexte de mondialisation. Il traite de l'impact de la mondialisation sur les conditions de vie des femmes aux niveaux local et international et analyse leur capacit\u00e9 \u00e0 s'auto-organiser economiquement et politiquement. \r\nOffert pr\u00e9c\u00e9demment comme suit: AP/WMST 3503 6.00, GL/WMST 3503 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3504",
+            "credit": 6.0,
+            "name": "Women and Aging",
+            "prereqs": "",
+            "desc": "This course analyzes the experience of women as they move into old age. We analyze myths that surround the concept of old woman using story, biography, poetry and film. Topics include: sexuality beyond menopause; isolation and poverty; relationships between women; anger and creative energy; patterns of language and the effects of self-imposed silencing; the re-evaluation of the crone. Course credit exclusions: AP/SOCI 4680 3.00.\nPreviously offered as: AP/WMST 3504 6.00, GL/WMST 3504 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3504",
+            "credit": 6.0,
+            "name": "Women and Aging",
+            "prereqs": "",
+            "desc": "This course analyzes the experience of women as they move into old age. We analyze myths that surround the concept of old woman using story, biography, poetry and film. Topics include: sexuality beyond menopause; isolation and poverty; relationships between women; anger and creative energy; patterns of language and the effects of self-imposed silencing; the re-evaluation of the crone. Course credit exclusions: AP/SOCI 4680 3.00.\nPreviously offered as: AP/WMST 3504 6.00, GL/WMST 3504 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3509",
+            "credit": 6.0,
+            "name": "Women Organizing",
+            "prereqs": "",
+            "desc": "Women have a long tradition of organizing to expand their rights, resist oppression, challenge and defend traditional values and to change their societies. This course documents and analyzes the patterns of women's activism using historical, cross-cultural and contemporary sources. Previously offered as: AP/WMST 3509 6.00, GL/WMST 3509 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3509",
+            "credit": 6.0,
+            "name": "Women Organizing",
+            "prereqs": "",
+            "desc": "Women have a long tradition of organizing to expand their rights, resist oppression, challenge and defend traditional values and to change their societies. This course documents and analyzes the patterns of women's activism using historical, cross-cultural and contemporary sources. Previously offered as: AP/WMST 3509 6.00, GL/WMST 3509 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3510",
+            "credit": 6.0,
+            "name": "Women and Work: Production and Reproduction",
+            "prereqs": "",
+            "desc": "Explores the conditions of women's work, paid and unpaid. The historical development of a sexual division of labour and the roles played by the family, employers, trade unions and government policy in the gendering of jobs is examined. Previously offered as: AP/WMST 3510 6.00, GL/WMST 3510 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3510",
+            "credit": 6.0,
+            "name": "Women and Work: Production and Reproduction",
+            "prereqs": "",
+            "desc": "Explores the conditions of women's work, paid and unpaid. The historical development of a sexual division of labour and the roles played by the family, employers, trade unions and government policy in the gendering of jobs is examined. Previously offered as: AP/WMST 3510 6.00, GL/WMST 3510 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3524",
+            "credit": 3.0,
+            "name": "Colonialisme, genre soci\u00e9t\u00e9s en Afrique noire",
+            "prereqs": "",
+            "desc": "La colonisation par sa mission civilisatrice a contribu\u00e9 entre autres \u00e0 forger des rapports de genre dans les soci\u00e9t\u00e9s africaines. Dans ce sens, ce cours traite de son impact sur les rapports sociaux de sexe autant en Afrique coloniale que postcoloniale. Offert pr\u00e9c\u00e9demment comme suit: AP/WMST 3524 3.00, GL/WMST 3524 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3524",
+            "credit": 3.0,
+            "name": "Colonialisme, genre soci\u00e9t\u00e9s en Afrique noire",
+            "prereqs": "",
+            "desc": "La colonisation par sa mission civilisatrice a contribu\u00e9 entre autres \u00e0 forger des rapports de genre dans les soci\u00e9t\u00e9s africaines. Dans ce sens, ce cours traite de son impact sur les rapports sociaux de sexe autant en Afrique coloniale que postcoloniale. Offert pr\u00e9c\u00e9demment comme suit: AP/WMST 3524 3.00, GL/WMST 3524 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3540",
+            "credit": 6.0,
+            "name": "Across Borders: Globalization and Women's Health",
+            "prereqs": "",
+            "desc": "Globalization and the spread of Western free market economies have significantly impacted women's health around the world. This course examines within a comparative, international framework the impact of globalization on women's health, women's access to health care services, and women's health activism. Previously offered as: AP/WMST 3540 6.00, GL/WMST 3540 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3540",
+            "credit": 6.0,
+            "name": "Across Borders: Globalization and Women's Health",
+            "prereqs": "",
+            "desc": "Globalization and the spread of Western free market economies have significantly impacted women's health around the world. This course examines within a comparative, international framework the impact of globalization on women's health, women's access to health care services, and women's health activism. Previously offered as: AP/WMST 3540 6.00, GL/WMST 3540 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3547",
+            "credit": 3.0,
+            "name": "Reframing Fat: An introduction to Feminist Fat Theory",
+            "prereqs": "gwst2500 gwst2500 gwst2510 gwst2510 wmst2500 wmst2510 wmst2510",
+            "desc": "Students will become familiar with feminist and post-colonialist theories of embodiment, and use them to explore how the fat body and fat phobia have been and are produced through history, through policy, and through popular culture. Note: A knowledge of feminist theory is required. A knowledge of feminist theories of the body is an asset. Prerequisite: AP/GWST 2500 6.00 or GL/GWST 2500 6.00 or AP/GWST 2510 9.0 or GL/GWST 2510 9.00 or AP/ WMST 2500 6.00 (prior to Fall 2013), GL/WMST 2500 6.00 (prior to Fall 2013) or AP/WMST 2510 9.00 (prior to Fall 2013 or GL/WMST 2510 9.00 (prior to Fall 2013). Previously offered as: AP/WMST 3547 3.00, GL/WMST 3547 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3547",
+            "credit": 3.0,
+            "name": "Reframing Fat: An introduction to Feminist Fat Theory",
+            "prereqs": "gwst2500 gwst2500 gwst2510 gwst2510 wmst2500 wmst2510 wmst2510",
+            "desc": "Students will become familiar with feminist and post-colonialist theories of embodiment, and use them to explore how the fat body and fat phobia have been and are produced through history, through policy, and through popular culture. Note: A knowledge of feminist theory is required. A knowledge of feminist theories of the body is an asset. Prerequisite: AP/GWST 2500 6.00 or GL/GWST 2500 6.00 or AP/GWST 2510 9.0 or GL/GWST 2510 9.00 or AP/ WMST 2500 6.00 (prior to Fall 2013), GL/WMST 2500 6.00 (prior to Fall 2013) or AP/WMST 2510 9.00 (prior to Fall 2013 or GL/WMST 2510 9.00 (prior to Fall 2013). Previously offered as: AP/WMST 3547 3.00, GL/WMST 3547 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3555",
+            "credit": 6.0,
+            "name": "Genealogies of Feminist Theorizing ",
+            "prereqs": "gwst2500 gwst2500 gwst2500 gwst2510",
+            "desc": "Examines major feminist theoretical approaches, both historical and contemporary, in women's and gender studies. Students will develop their analytic skills by engaging in rigorous critique and debate of feminist theorizing. Students will write detailed assessments of specific theoretical feminist approaches that take into consideration difference and intersectionality. \r\nPrerequisites: AP/GWST 2500 6.00 or GL/GWST 2500 6.00 or AP/GWST 2500 6.00 or GL/GWST 2510 9.00. Course credit exclusions: AP/GWST 4500 6.00, GL/GWST 4500 6.00. Previously offered as: AP/WMST 3555 6.00 , GL/WMST 3555 6.00.\n\nPRIOR TO FALL 2013: Prequisites: AP/WMST 2500 6.00, GL/WMST 2500 6.00, AP/WMST 2510 9.00, GL/WMST 2510 9.00. Course credit exclusions: AP/WMST 4500 6.00, GL/WMST 4500 6.00, AP/WMST4500 6.00, GL/WMST 4500 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3555",
+            "credit": 6.0,
+            "name": "Genealogies of Feminist Theorizing ",
+            "prereqs": "gwst2500 gwst2500 gwst2500 gwst2510",
+            "desc": "Examines major feminist theoretical approaches, both historical and contemporary, in women's and gender studies. Students will develop their analytic skills by engaging in rigorous critique and debate of feminist theorizing. Students will write detailed assessments of specific theoretical feminist approaches that take into consideration difference and intersectionality. \r\nPrerequisites: AP/GWST 2500 6.00 or GL/GWST 2500 6.00 or AP/GWST 2500 6.00 or GL/GWST 2510 9.00. Course credit exclusions: AP/GWST 4500 6.00, GL/GWST 4500 6.00. Previously offered as: AP/WMST 3555 6.00 , GL/WMST 3555 6.00.\n\nPRIOR TO FALL 2013: Prequisites: AP/WMST 2500 6.00, GL/WMST 2500 6.00, AP/WMST 2510 9.00, GL/WMST 2510 9.00. Course credit exclusions: AP/WMST 4500 6.00, GL/WMST 4500 6.00, AP/WMST4500 6.00, GL/WMST 4500 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3557",
+            "credit": 6.0,
+            "name": "Superstition, Religion and Sexuality",
+            "prereqs": "",
+            "desc": "Explores the intersection of religion and superstition from ancient times to the present. Analyzes issues of gender, power and sexuality through the study of goddesses, witches and the current fascination with vampires in popular culture. Note: An introductory course in Gender and Women's Studies is recommended. Previously offered as: AP/WMST 3557 6.00, GL/WMST 3557 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3557",
+            "credit": 6.0,
+            "name": "Superstition, Religion and Sexuality",
+            "prereqs": "",
+            "desc": "Explores the intersection of religion and superstition from ancient times to the present. Analyzes issues of gender, power and sexuality through the study of goddesses, witches and the current fascination with vampires in popular culture. Note: An introductory course in Gender and Women's Studies is recommended. Previously offered as: AP/WMST 3557 6.00, GL/WMST 3557 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3567",
+            "credit": 6.0,
+            "name": "Feminist Life Writing: Theories, Histories, Practices, and Methods",
+            "prereqs": "",
+            "desc": "Introduces students to theoretical and practical aspects of life writing in multiple genres and media. It\r foregrounds the important role of autobiographical and biographical representations, both textual and visual, in\r promoting the development of feminist, anti-racist, decolonizing, and queer thought in the twentieth- and twenty-first centuries.\n\nCourse credit exclusions: AP/HUMA 4150 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3567",
+            "credit": 6.0,
+            "name": "Feminist Life Writing: Theories, Histories, Practices, and Methods",
+            "prereqs": "",
+            "desc": "Introduces students to theoretical and practical aspects of life writing in multiple genres and media. It\r foregrounds the important role of autobiographical and biographical representations, both textual and visual, in\r promoting the development of feminist, anti-racist, decolonizing, and queer thought in the twentieth- and twenty-first centuries.\n\nCourse credit exclusions: AP/HUMA 4150 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3569",
+            "credit": 3.0,
+            "name": "Colonialism, Gender &amp; Sexuality",
+            "prereqs": "",
+            "desc": "This course provides a thematic overview of colonialism, specifically through the categories of sexuality and gender. It emphasizes a critical, historical, interdisciplinary and intersectional mode of analysis that draws on scholarship in postcolonial, anti-colonial, indigenous, feminist, critical race, queer and transnational studies."
+        },
+        {
+            "dept": "gwst",
+            "code": "3570",
+            "credit": 3.0,
+            "name": "Gender and Islamophobia",
+            "prereqs": "",
+            "desc": "This course investigates current debates and issues related to gender and Islamophobia in Canadian and international contexts. The course takes an intersectional analytic approach that brings together seminal and emerging scholarship on the topic in anti-racist feminism, critical Muslim studies, critical race studies, critical studies on anti-blackness, transnational and postcolonial feminism and critical sexuality studies."
+        },
+        {
+            "dept": "gwst",
+            "code": "3602",
+            "credit": 3.0,
+            "name": "Transnational Sexualities",
+            "prereqs": "",
+            "desc": "This interdisciplinary course examines transnational and diasporic sexualities, with special emphasis on African, Asian, Caribbean, Latin American, Middle Eastern, and indigenous contexts. Prerequisite: six credits in AP/SXST core or primary courses."
+        },
+        {
+            "dept": "gwst",
+            "code": "3603",
+            "credit": 3.0,
+            "name": "Sexual Activism, Movements and Politics",
+            "prereqs": "",
+            "desc": "Examines 20th and 21st century sexual activism, movements, and politics, focusing on everyday resistance, organized protest, and mobilizations for reform and revolution. Prerequisite: six credits in AP/SXST core or primary courses."
+        },
+        {
+            "dept": "gwst",
+            "code": "3608",
+            "credit": 3.0,
+            "name": "Roman f\u00e9minin des XVIIe, XVIIIe et XIXe si\u00e8cles",
+            "prereqs": "",
+            "desc": "Analyse de 4 ou 5 romans f\u00e9minins des XVIIe, XVIIIe et XIXe si\u00e8cles choisis pour la contribution de leurs auteures \u00e0 l'\u00e9volution du genre romanesque et leur participation \u00e0 la vie intellectuelle."
+        },
+        {
+            "dept": "gwst",
+            "code": "3609",
+            "credit": 3.0,
+            "name": "Women and Religion: Sex, Spirituality and Feminine Power",
+            "prereqs": "",
+            "desc": "This course uses sociological theories on religion to study the main issues, gains and struggles faced by women in religious traditions around the world. Students study women in religion at the macro and micro levels of spirituality and femininity. PRIOR TO FALL 2014: course credit exclusion: GL/SOCI 3600 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "3638",
+            "credit": 3.0,
+            "name": "Sex, Love, and the Family: Issues in Ethics, Law and Social Thought",
+            "prereqs": "",
+            "desc": "This course explores key normative issues concerning the sphere of human intimacy and close relationships. Social norms, laws, and policies regulating sex, romance, friendship, and familial relationships will be critically examined from a philosophical perspective."
+        },
+        {
+            "dept": "gwst",
+            "code": "3638",
+            "credit": 3.0,
+            "name": "Sexe, amour et famille : enjeux en \u00e9thique, droit et pens\u00e9e sociale",
+            "prereqs": "",
+            "desc": "Ce cours explore des enjeux normatifs concernant la sph\u00e8re de l\u0092intimit\u00e9 et des relations personnelles. Nous examinerons de mani\u00e8re critique, et d\u0092une perspective philosophique, diff\u00e9rentes id\u00e9es, normes sociales, lois et politiques autour du sexe, de l\u0092amour, de l\u0092amiti\u00e9 et des relations familiales."
+        },
+        {
+            "dept": "gwst",
+            "code": "4502",
+            "credit": 6.0,
+            "name": "Violence Against Women",
+            "prereqs": "",
+            "desc": "Examines gender-based violence in its many forms, such as domestic violence, state violence, legal violence (punishment) and cultural violence (rituals) and analyzes the global context in which gender and power are constructed and violence against women is perpetuated and tolerated. Previously offered as: AP/WMST 4502 6.00, GL/WMST 4502 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4502",
+            "credit": 6.0,
+            "name": "Violence Against Women",
+            "prereqs": "",
+            "desc": "Examines gender-based violence in its many forms, such as domestic violence, state violence, legal violence (punishment) and cultural violence (rituals) and analyzes the global context in which gender and power are constructed and violence against women is perpetuated and tolerated. Previously offered as: AP/WMST 4502 6.00, GL/WMST 4502 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4503",
+            "credit": 3.0,
+            "name": "Politics of the Women's Movements in Canada ",
+            "prereqs": "",
+            "desc": "Examines the politics of the women's movements in Canada, emphasizing their historical and contemporary developments. We examine women's organising initiatives from the mid 19th century to the present in light of Canada's unique political structures and current challenges to feminism.\nPreviously offered as: AP/WMST 4503 3.00, GL/WMST 4503 3.00"
+        },
+        {
+            "dept": "gwst",
+            "code": "4503",
+            "credit": 3.0,
+            "name": "Politics of the Women's Movements in Canada ",
+            "prereqs": "",
+            "desc": "Examines the politics of the women's movements in Canada, emphasizing their historical and contemporary developments. We examine women's organising initiatives from the mid 19th century to the present in light of Canada's unique political structures and current challenges to feminism.\nPreviously offered as: AP/WMST 4503 3.00, GL/WMST 4503 3.00"
+        },
+        {
+            "dept": "gwst",
+            "code": "4507",
+            "credit": 3.0,
+            "name": "Writing Women's History",
+            "prereqs": "",
+            "desc": "Examines how feminist issues and theories have influenced the ways women's history has been written, the questions asked and the themes studied. Students are encouraged to develop the conceptual and methodological skills to undertake their own historical research. \r\nPreviously offered as: AP/WMST 4507 3.00, GL/WMST 4507 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4507",
+            "credit": 3.0,
+            "name": "Writing Women's History",
+            "prereqs": "",
+            "desc": "Examines how feminist issues and theories have influenced the ways women's history has been written, the questions asked and the themes studied. Students are encouraged to develop the conceptual and methodological skills to undertake their own historical research. \r\nPreviously offered as: AP/WMST 4507 3.00, GL/WMST 4507 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4516",
+            "credit": 6.0,
+            "name": "Gender, Globalization and Militarization",
+            "prereqs": "",
+            "desc": "This course uses a feminist anti-racist lens to explore the increasing intersection of processes of globalization and militarization in what many refer to as 'the new age of Empire,' examining in particular the emergence of the security paradigm post 9/11. \r\nPRIOR TO FALL 2013: course credit exclusions: AP/WMST 4516 6.00, GL/WMST 4516 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4516",
+            "credit": 6.0,
+            "name": "Gender, Globalization and Militarization",
+            "prereqs": "",
+            "desc": "This course uses a feminist anti-racist lens to explore the increasing intersection of processes of globalization and militarization in what many refer to as 'the new age of Empire,' examining in particular the emergence of the security paradigm post 9/11. \r\nPRIOR TO FALL 2013: course credit exclusions: AP/WMST 4516 6.00, GL/WMST 4516 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4518",
+            "credit": 6.0,
+            "name": "Women, Ethnicity, Race and Migration: Research Seminar",
+            "prereqs": "",
+            "desc": "Examines migration from a global, feminist perspective. It pays particular attention to government policies and to the ways women in immigrant and racialized communities shape their own lives and those of their communities.\n Previously offered as: AP/WMST 4518 6.00, GL/WMST 4518 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4518",
+            "credit": 6.0,
+            "name": "Women, Ethnicity, Race and Migration: Research Seminar",
+            "prereqs": "",
+            "desc": "Examines migration from a global, feminist perspective. It pays particular attention to government policies and to the ways women in immigrant and racialized communities shape their own lives and those of their communities.\n Previously offered as: AP/WMST 4518 6.00, GL/WMST 4518 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4522",
+            "credit": 3.0,
+            "name": "Cancer Biopower: Bodies, Environments, and Creativity",
+            "prereqs": "gwst1502 gwst1501 gwst1502",
+            "desc": "This course exposes students to a wide range of theoretical, creative, and activist responses to encounters with cancer. Foucault's concept of biopower is applied to examine 1) how individual bodies and entire populations are targeted by biomedical discourses and; 2) what forms of resistance and creativity are developed to confront cancer as both a public epidemic and an existential crisis. Prerequisites: GL/GWST 1502 6.00, AP/GWST 1501 9.00 or AP/GWST 1502 6.00.  "
+        },
+        {
+            "dept": "gwst",
+            "code": "4523",
+            "credit": 3.0,
+            "name": "Femmes, genre, migration internationale et mondialisation",
+            "prereqs": "",
+            "desc": "Dans une perspective f\u00e9ministe intersectionnelle, ce s\u00e9minaire s'articule autour des d\u00e9bats sur la division internationale du travail selon le genre. Une r\u00e9flexion critique est d\u00e9velopp\u00e9e sur ses implications pour la situation des femmes dans la migration et la mondialisation. Cours incompatibles : GL/GWST 3564 3.00, GL/ILST 3564 3.00, AP/GWST 3564 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4523",
+            "credit": 3.0,
+            "name": "Femmes, genre, migration internationale et mondialisation",
+            "prereqs": "",
+            "desc": "Dans une perspective f\u00e9ministe intersectionnelle, ce s\u00e9minaire s'articule autour des d\u00e9bats sur la division internationale du travail selon le genre. Une r\u00e9flexion critique est d\u00e9velopp\u00e9e sur ses implications pour la situation des femmes dans la migration et la mondialisation. Cours incompatibles : GL/GWST 3564 3.00, GL/ILST 3564 3.00, AP/GWST 3564 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4524",
+            "credit": 6.0,
+            "name": "Easy Reads? Feminist Stories, Graphic Narratives, and the Art of Drawing Politics",
+            "prereqs": "",
+            "desc": "This course introduces students to the genre of graphic narratives that tell stories about a diverse range of bodies and histories. It explores the conventions and possibilities of the visual-verbal comic medium from an intersectional perspective informed by feminist, queer, post-colonial, affect, critical disability, and anti-oppressive theories.\r\nPrerequisites: GWST 1501 9.0 or 1502 6.0; SXST 1600 9.0 or 1601 6.0; or equivalent\r\nOpen to: GWST and SXST degree and certificate students"
+        },
+        {
+            "dept": "gwst",
+            "code": "4555",
+            "credit": 6.0,
+            "name": "Feminist Methodologies and Methods",
+            "prereqs": "gwst2500 gwst2500 wmst2510 wmst2510 gwst3555 gwst3555 gwst3556 gwst3556 wmst2500 wmst2500 wmst2510 wmst2510 wmst3555 wmst3555 wmst3556 wmst3556",
+            "desc": "Investigates a range of methodologies and methods in feminist research. Students will engage in a research project that requires the application of research methods and strategies of inquiry relevant to feminist scholarship. The course will offer hands-on experience in doing research and will broaden students' knowledge of various feminist approaches in the social sciences and humanities. \r\nPrerequisites: AP/GWST 2500 6.0 or GL/GWST 2500 6.00 or AP/WMST 2510 9.00 or GL/WMST 2510 9.00 ; and AP/GWST 3555 6.00 or GL/GWST 3555 6.00 or AP/GWST 3556 6.00 or GL/GWST 3556 6.00.\nPreviously offered as: AP/WMST 4555 6.00, GL/WMST 4555 6.00.\n\nPRIOR TO FALL 2013: Prerequisites: AP/WMST 2500 6.00 or GL/WMST 2500 6.00 or AP/WMST 2510 9.00 or GL/WMST 2510 9.00; and AP/WMST 3555 6.00 or GL/WMST 3555 6.00 or AP/WMST 3556 6.00 or GL/WMST 3556 6.00.\n\n"
+        },
+        {
+            "dept": "gwst",
+            "code": "4555",
+            "credit": 6.0,
+            "name": "Feminist Methodologies and Methods",
+            "prereqs": "gwst2500 gwst2500 wmst2510 wmst2510 gwst3555 gwst3555 gwst3556 gwst3556 wmst2500 wmst2500 wmst2510 wmst2510 wmst3555 wmst3555 wmst3556 wmst3556",
+            "desc": "Investigates a range of methodologies and methods in feminist research. Students will engage in a research project that requires the application of research methods and strategies of inquiry relevant to feminist scholarship. The course will offer hands-on experience in doing research and will broaden students' knowledge of various feminist approaches in the social sciences and humanities. \r\nPrerequisites: AP/GWST 2500 6.0 or GL/GWST 2500 6.00 or AP/WMST 2510 9.00 or GL/WMST 2510 9.00 ; and AP/GWST 3555 6.00 or GL/GWST 3555 6.00 or AP/GWST 3556 6.00 or GL/GWST 3556 6.00.\nPreviously offered as: AP/WMST 4555 6.00, GL/WMST 4555 6.00.\n\nPRIOR TO FALL 2013: Prerequisites: AP/WMST 2500 6.00 or GL/WMST 2500 6.00 or AP/WMST 2510 9.00 or GL/WMST 2510 9.00; and AP/WMST 3555 6.00 or GL/WMST 3555 6.00 or AP/WMST 3556 6.00 or GL/WMST 3556 6.00.\n\n"
+        },
+        {
+            "dept": "gwst",
+            "code": "4600",
+            "credit": 6.0,
+            "name": "Advanced Seminar in Sexuality Studies",
+            "prereqs": "",
+            "desc": "This seminar reviews and synthesizes theories, methods and practices in sexuality studies. Students explore the intersections and tensions within and between disciplines involved in sexuality research to develop and improve skills for designing, implementing and assessing research projects. Previously offered as: AP/WMST 4600 6.00, GL/WMST 4600 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4600",
+            "credit": 6.0,
+            "name": "Advanced Seminar in Sexuality Studies",
+            "prereqs": "",
+            "desc": "This seminar reviews and synthesizes theories, methods and practices in sexuality studies. Students explore the intersections and tensions within and between disciplines involved in sexuality research to develop and improve skills for designing, implementing and assessing research projects. Previously offered as: AP/WMST 4600 6.00, GL/WMST 4600 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4604",
+            "credit": 3.0,
+            "name": "Gender, Politics and Culture",
+            "prereqs": "",
+            "desc": "This course develops students\u0092 understanding of the theoretical and empirical foundations that constitute the sociological study of gender.  Using an intersectional lens, it examines the structuring role that gender plays in various societal domains, including everyday social interactions, culture and media, production and reproduction, nationhood and citizenship, and politics and diversity."
+        },
+        {
+            "dept": "gwst",
+            "code": "4605",
+            "credit": 3.0,
+            "name": "Sociology of Masculinities: From Iron John to Buck Angel",
+            "prereqs": "",
+            "desc": "In this seminar course, students examine the core concepts, themes, methodologies, and debates in the dynamic field of masculinity studies, such as the crisis of masculinity thesis and hegemonic masculinity. Students formulate their own critical research projects as a means to deepen their understanding of the sociology of gender.\r\nPrerequisite: Permission of the department.\r\nCourse credit exclusion: AP/GL/GWST 3544 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4605",
+            "credit": 3.0,
+            "name": "Sociology of Masculinities: From Iron John to Buck Angel",
+            "prereqs": "",
+            "desc": "In this seminar course, students examine the core concepts, themes, methodologies, and debates in the dynamic field of masculinity studies, such as the crisis of masculinity thesis and hegemonic masculinity. Students formulate their own critical research projects as a means to deepen their understanding of the sociology of gender.\r\nPrerequisite: Permission of the department.\r\nCourse credit exclusion: AP/GL/GWST 3544 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4801",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course is designed to enable Honours students to undertake a detailed independent study of their own choosing. The student will undertake intensive reading and writing in one or two selected areas. Previously offered as: AP/WMST 4801 6.00, GL/WMST 4801 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4801",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course is designed to enable Honours students to undertake a detailed independent study of their own choosing. The student will undertake intensive reading and writing in one or two selected areas. Previously offered as: AP/WMST 4801 6.00, GL/WMST 4801 6.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4801",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course is designed to enable Honours students to undertake a detailed independent study of their own choosing. The student will undertake intensive reading and writing in one or two selected areas. Previously offered as: AP/WMST 4801 3.00, GL/WMST 4801 3.00."
+        },
+        {
+            "dept": "gwst",
+            "code": "4801",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "This course is designed to enable Honours students to undertake a detailed independent study of their own choosing. The student will undertake intensive reading and writing in one or two selected areas. Previously offered as: AP/WMST 4801 3.00, GL/WMST 4801 3.00."
+        }
+    ]
+}

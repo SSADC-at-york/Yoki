@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "scie",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Teaching Science in the Intermediate Division",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Science in the intermediate grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "scie",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Science (General) in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Science in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Science in the intermediate and senior grades. \nOnly available to students in the Bachelor of Education (BEd) degree program. \n"
+        },
+        {
+            "dept": "scie",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Science (General) in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Science in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Science areas in order to further develop students' expertise for teaching this subject. ED/SCIE 4000 (Part A) is a prerequisite for this course.\nOnly available to students in the Bachelor of Education (BEd) program. "
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "courses": [
+        {
+            "dept": "mfin",
+            "code": "5000",
+            "credit": 0.0,
+            "name": "Research Seminar Series",
+            "prereqs": "",
+            "desc": "The seminars enhance the core curriculum and provide students with an opportunity to dialogue with leading academic scholars in the field, and learn about their current research.  These seminars constitute an important part of the research component in the Master of Finance program.  Attendance is mandatory."
+        },
+        {
+            "dept": "mfin",
+            "code": "5050",
+            "credit": 0.0,
+            "name": "Professional Seminar Series",
+            "prereqs": "",
+            "desc": "The seminars complement the core curriculum and provide students with an opportunity to dialogue with industry experts from different areas of finance, and discuss career opportunities.  Attendance is mandatory."
+        },
+        {
+            "dept": "mfin",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Capital Markets",
+            "prereqs": "",
+            "desc": "Provides an in-depth analysis of the foundations of the capital markets, financial securities, empirical work, and practice. This first finance course in the Master in Finance program provides the basic economic intuition and fundamental derivations of financial models and valuation framework, as well as the essential practical side of the concepts and financial models.\r\nPrerequisites: A working knowledge of calculus and basic econometrics (OLS regressions) will be necessary."
+        },
+        {
+            "dept": "mfin",
+            "code": "5200",
+            "credit": 3.0,
+            "name": "Financial Management and Valuation",
+            "prereqs": "mfin5100",
+            "desc": "The three fundamental corporate finance decisions, the investment decision, the financing decision and the dividend decision, are studied in this course. Students will examine both theories of these decisions and the application of the theories to real businesses. In addition, business valuation concepts and tools will be studied and applied to real businesses.\r\nPrerequisite: SB/MFIN 5100 3.00.\r\nCorequisite: SB/ACTG 6120 3.00."
+        },
+        {
+            "dept": "mfin",
+            "code": "5300",
+            "credit": 3.0,
+            "name": "Investment Banking",
+            "prereqs": "mfin5100 mfin5200",
+            "desc": "The objective of this course is to provide an advanced analysis of the major issues affecting the financial policy of a modern corporation and the role of investment banks in facilitating those policies. We will discuss issues such as the Going-public decision of a firm and its Initial Public Offering (IPO), Security Issuance decisions such as SEO's, other corporate restructurings and M&amp;A's, impact of corporate governance on such decisions, roles played by Analysts and Institutional Investors and their impact on such decisions and how Investment Banks take all these into account when they advise firms on these decisions.\r\nPrerequisites: SB/MFIN 5100 3.00, SB/MFIN 5200 3.00.\nIn addition, a working knowledge of basic econometrics (OLS regressions) will be necessary."
+        },
+        {
+            "dept": "mfin",
+            "code": "5400",
+            "credit": 3.0,
+            "name": "Fixed Income Securities",
+            "prereqs": "mfin5200",
+            "desc": "An introduction to the management of fixed income markets and interest rate derivative securities. Major topics covered include term structure theories, institutional settings of the fixed income markets, and analytical tools for managing interest rate risk. It not only emphasizes traditional management methods such as duration and immunization, but also cutting edge approaches such as continuous-time, dynamic management techniques of interest rate risk. \r\nPrerequisite: SB/MFIN 5200 3.00.\nCorequisite: SB/FINE 6800 3.00."
+        },
+        {
+            "dept": "mfin",
+            "code": "5500",
+            "credit": 3.0,
+            "name": "Analysis of Structured Products using Excel",
+            "prereqs": "mfin5400",
+            "desc": "This course will function as a hands-on research practicum in which 3-4 &quot;&quot;live&quot;&quot; structured products will be brought into the classroom and analyzed using the tools of financial economics. And, given the advanced (capstone) nature of the course, we will examine these structures from a variety of perspectives. Some of the questions we will address are: Who exactly manufactures them? Why are they being created? Who buys them and how do they fit into a pre-existing investment portfolio? How should they be priced/valued? What are their regulatory and tax implications? Can they be synthesized using existing securities? How profitable are they for the issuer/underwriter?\r\nPrerequisite: SB/MFIN 5400 3.00."
+        },
+        {
+            "dept": "mfin",
+            "code": "5600",
+            "credit": 3.0,
+            "name": "Institutional Wealth Management",
+            "prereqs": "mfin5100",
+            "desc": "This course focuses on the role that institutional investors play in the financial market and their investment process. It begins with an overview of the wealth management industry, followed by an examination of the asset allocation decision, investment strategies, portfolio performance evaluation, alternative investments, behavioral finance, and responsible investing. The emphasis is on both the theoretical underpinnings and the practical execution of the investment models. \r\nPrerequisite: SB/MFIN 5100 3.00."
+        }
+    ]
+}

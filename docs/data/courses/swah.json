@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "swah",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Swahili",
+            "prereqs": "",
+            "desc": "An introduction to spoken and written Swahili intended for beginners."
+        }
+    ]
+}

@@ -1,0 +1,1372 @@
+{
+    "courses": [
+        {
+            "dept": "psyc",
+            "code": "1010",
+            "credit": 6.0,
+            "name": "Introduction to Psychology",
+            "prereqs": "",
+            "desc": "A survey of psychology introducing basic terms, concepts and methods. Included are topics such as biological bases of behaviour, learning, perception, motivation, cognition, child development, personality, and abnormal and social psychology. Note: This course is required for all students who intend to pursue additional HH/PSYC courses the 2000-, 3000- and 4000- levels. Students must pass the course with a minimum grade of C in order to pursue further studies in psychology. Course credit exclusion: GL/PSYC 2510 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "Writing in Psychology",
+            "prereqs": "psyc1010",
+            "desc": "Develop university-level writing ability. Students write about psychological content; however, this course develops general written communication skills that are broadly transferable. Students learn how texts 'work' and develop self-reflective writing skill. This course builds skills for writing in upper year University courses and develops the literacy expected of an educated citizen.  \r\nPrerequisite:  HH/PSYC 1010 6.00 with a minimum grade of C. \r\nNot open to: Non Psychology majors. "
+        },
+        {
+            "dept": "psyc",
+            "code": "2020",
+            "credit": 6.0,
+            "name": "Statistical Methods I and II",
+            "prereqs": "",
+            "desc": "An introduction to the analysis of data from psychological studies. Fundamental concepts and techniques of both descriptive and inferential statistics and their application to psychological research. \r\nPrerequisite or corequisite: HH/PSYC 1010 6.00, with a minimum grade of C when used as a prerequisite. \r\nCourse credit exclusions: AP/SOCI 3030 6.00, HH/PSYC 2021 3.00, HH/PSYC 2022 3.00, SC/BIOL 2060 3.00, HH/KINE 2050 3.00, HH/KINE 3150 3.00, SC/MATH 2500 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00, SC/MATH 2570 3.0, GL/PSYC 2530 3.00, GL/PSYC 2531 3.00. \r\nNote 1: The course credit exclusions listed above may not be substituted for HH/PSYC 2020 6.00 to satisfy psychology degree requirements unless approved as acceptable substitutes by the department and Faculty. Please consult the relevant department and Faculty for more information.\r\n Note 2: Students who discontinue registration in HH/PSYC 2020 6.00 after the fall term may not petition for credit for a half course in statistics."
+        },
+        {
+            "dept": "psyc",
+            "code": "2021",
+            "credit": 3.0,
+            "name": "Statistical Methods I",
+            "prereqs": "",
+            "desc": "The fundamental concepts and application of descriptive statistics. An introduction to probability and inferential statistics, including hypothesis testing with the normal- and t-distributions. \r\nPrerequisite or corequisite: HH/PSYC 1010 6.00, GL/PSYC 2510 6.00, with a minimum grade of C when used as a prerequisite. \r\nCourse credit exclusions: HH/PSYC 2020 6.00, SC/BIOL 2060 3.00, HH/KINE 2050 3.00, SC/MATH 2500 3.00, SC/MATH 2560 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2022",
+            "credit": 3.0,
+            "name": "Statistical Methods II",
+            "prereqs": "psyc2021 kine2050 math2560",
+            "desc": "A continuation of the study of fundamental concepts and techniques of descriptive and inferential statistics. Topics include correlation, regression, analysis of variance and non-parametric statistics.\r\nPrerequisite: One of HH/PSYC 2021 3.00, HH/KINE 2050 3.00, SC/MATH 2560 3.00. \r\nPrerequisite or corequisite: HH/PSYC 1010 6.00, GL/PSYC 2510 6.00, with a minimum grade of C when used as a prerequisite. \r\nCourse credit exclusions: HH/PSYC 2020 6.00, HH/KINE 3150 3.00, SC/MATH 2570 3.00, GL/PSYC 2531 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2030",
+            "credit": 3.0,
+            "name": "Introduction to Research Methods",
+            "prereqs": "psyc1010",
+            "desc": "An introduction to the use of experimental and non-experimental research methods by psychologists in the study of behaviour. Topics such as research design, external and internal validity, sources of bias, APA style and ethics are considered. \r\nPrerequisites: HH/PSYC 1010 6.00, with a minimum grade of C. \r\nCourse credit exclusions: HH/KINE 2049 3.00, GL/PSYC 2520 3.00.\r\nNCR: students who have passed or are taking HH/PSYC 3010 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2110",
+            "credit": 3.0,
+            "name": "Developmental Psychology",
+            "prereqs": "psyc1010",
+            "desc": "This course considers physical, intellectual, emotional and social development from birth through adolescence and the impact of the interaction of these various aspects of development upon the individual as a whole. \r\nPrerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. \r\nCourse credit exclusions: GL/PSYC 3300 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2120",
+            "credit": 3.0,
+            "name": "Social Psychology",
+            "prereqs": "psyc1010",
+            "desc": "This course reviews the theories, methods and empirical evidence in the scientific study of human social behaviour. The aim is to elucidate social psychological processes through the examination of areas such as social influence, attribution, attitudes and stereotyping. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. \r\nCourse credit exclusions: GL/PSYC 3660 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2130",
+            "credit": 3.0,
+            "name": "Personality",
+            "prereqs": "psyc1010",
+            "desc": "Examines major theories and research on personality functioning, with a focus on description of the factors contributing to the development, structure and dynamics of personality. \r\nPrerequisite: HH/PSYC 1010 6.00 with a minimum grade of C.\r\nCourse credit exclusion: GL/PSYC 3220 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2220",
+            "credit": 3.0,
+            "name": "Sensation and Perception I",
+            "prereqs": "psyc1010",
+            "desc": "A course in problems, experimental methods and research findings in sensation and perception. Vision and hearing are covered in some detail, including discussion of the structure and function of the eye and ear, and cortical areas responsible for processing visual and auditory information. \r\nPrerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. \r\nCourse credit exclusions: GL/PSYC 3690 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2230",
+            "credit": 3.0,
+            "name": "Motivation",
+            "prereqs": "psyc1010",
+            "desc": "A course in problems, experimental methods and research findings in motivation. Topics include emotion, drives and social motives. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3380 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2240",
+            "credit": 3.0,
+            "name": "Biological Basis of Behaviour",
+            "prereqs": "psyc1010",
+            "desc": "An introduction to fundamental principles of brain function and neural organization, as illustrated by classic findings and current research. Topics may include sleep and dreaming, memory, sensory motor processing, motivation (e.g. eating, reproductive behaviours), higher cognitive processes and neurological disorders. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3670 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2260",
+            "credit": 3.0,
+            "name": "Cognition",
+            "prereqs": "psyc1010",
+            "desc": "A survey of higher-order cognitive processes in humans. Topics include attention, memory, problem solving, thinking and language. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3370 3.00. Previously offered as:  HH/PSYC 3260 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2510",
+            "credit": 6.0,
+            "name": "Introduction \u00e0 la psychologie",
+            "prereqs": "",
+            "desc": "Revue g\u00e9n\u00e9rale des sujets de base en psychologie tels que la pens\u00e9e et le langage, la sensation et la perception, l'apprentissage et la modification du comportement, le comportement social, le d\u00e9veloppement, la personnalit\u00e9, la motivation, la psychologie anormale, et la base physiologique du comportement. Remarque: Ce cours est obligatoire pour les \u00e9tudiants qui ont l'intention de prendre des cours de psychologie au niveau 2000, 3000 ou 4000. Les \u00e9tudiants qui se sp\u00e9cialisent en psychologie doivent avoir r\u00e9ussi \u00e0 ce cours avec une note minimale de C (4.0). Dans des circonstances exceptionnelles, les non-sp\u00e9cialistes qui n'ont pas obtenu une note minimale de C (4.0) dans GL/PSYC 2510 6.00 peuvent faire une demande de permission aupr\u00e8s du directeur du d\u00e9partement de psychologie \u00e0 Glendon pour pouvoir s'inscrire \u00e0 d\u0092autres cours de psychologie pour lesquels GL/PSYC 2510 6.00 est une condition pr\u00e9alable. Cours incompatible : HH/PSYC 1010 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2510",
+            "credit": 6.0,
+            "name": "Introduction to Psychology",
+            "prereqs": "",
+            "desc": "An overview of the discipline of psychology, which includes sensation and perception, learning and behaviour modification, social psychology, developmental psychology, personality, motivation, abnormal psychology and psychobiology. Note: This course is required for all students who intend to pursue additional courses in psychology at the 2000-, 3000- and 4000-levels. Students must pass the course with a minimum grade of C in order to pursue further studies in psychology. Under exceptional circumstances, non-majors who have not obtained a minimum grade of C in GL/PSYC 2510 6.00 may apply for special consideration to enrol in an upper-level psychology course for which GL/PSYC 2510 6.00 is a prerequisite. This application should be made to the Glendon psychology department Chair. Course credit exclusion: HH/PSYC 1010 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2520",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la psychologie exp\u00e9rimentale   ",
+            "prereqs": "",
+            "desc": "Ce cours traite de la d\u00e9marche et des m\u00e9thodes scientifiques en psychologie. Les relations entre les \u00e9vidences empiriques, les interf\u00e9rences, la fiabilit\u00e9, et la validit\u00e9 y sont \u00e9tudi\u00e9es.  Les \u00e9tudiants doivent mettre au point et r\u00e9aliser une \u00e9tude empirique. Condition pr\u00e9alable : GL/PSYC 2510 6.00 et GL/PSYC 2530 3.00 ou l'\u00e9quivalent. Condition concomitante : GL/PSYC 2531 3.00.  Cours incompatible : HH/PSYC 2030 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2520",
+            "credit": 3.0,
+            "name": "Introduction to Experimental Psychology",
+            "prereqs": "psyc2510 psyc2530",
+            "desc": "The course is designed to provide students with an understanding of the process of scientific reasoning as it applies to psychology. The course discusses the relationships between empirical evidence and inference, reliability, and validity. Students obtain experience in designing and executing empirical studies. Prerequisite: GL/PSYC 2510 6.00 and GL/PSYC 2530 3.00 or the equivalent. Corequisite: GL/PSYC 2531 3.00. Course credit exclusion: HH/PSYC 2030 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2530",
+            "credit": 3.0,
+            "name": "Statistics I            ",
+            "prereqs": "",
+            "desc": "This course covers descriptive statistics, the basics of probability and of inferential statistics. Topics covered include: frequency distributions; measures of central tendency and dispersion; the normal curve; correlation and regression; hypothesis testing; non-factorial experimental designs, and t-tests. Corequisite: GL/PSYC 2510 6.00 or equivalent. Course credit exclusions: HH/PSYC 2021 3.00, HH/PSYC 2022 3.00, HH/PSYC 2020 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2530",
+            "credit": 3.0,
+            "name": "Statistiques I      ",
+            "prereqs": "",
+            "desc": "Ce cours couvre les statistiques descriptives, les bases de la probabilit\u00e9, et des statistiques inf\u00e9rentielles. Les sujets abord\u00e9s comprennent les distributions de fr\u00e9quences, mesures de tendance centrale et de dispersion, courbe normale, corr\u00e9lation et r\u00e9gression, tests d'hypoth\u00e8ses, plans de recherche non-factoriels, et le test t. Condition concomitante : GL/PSYC 2510 6.00 ou l'\u00e9quivalent.  Cours incompatibles : HH/PSYC 2021 3.00 et HH/PSYC 2022 3.00 ou HH/PSYC 2020 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2531",
+            "credit": 3.0,
+            "name": "Statistiques II",
+            "prereqs": "",
+            "desc": "Ce cours est la suite du cours Statistiques I. Les statistiques inf\u00e9rentielles y sont \u00e9tudi\u00e9es. Les sujets abord\u00e9s incluent l'analyse de variance (non-factorielle et factorielle), l'analyse de covariance, les tests post-hoc, la puissance statistique, les tests non-param\u00e9triques et l'introduction \u00e0 l'utilisation de logiciels statistiques. Condition pr\u00e9alable : GL/PSYC 2510 6.00 ou l'equivalent ; GL/PSYC 2530 3.00. Cours incompatible : HH/PSYC 2022 3.00 ou HH/PSYC 2020 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "2531",
+            "credit": 3.0,
+            "name": "Statistics II",
+            "prereqs": "psyc2510 psyc2530",
+            "desc": "This course is a sequel to GL/PSYC 2530 3.00. Inferential statistics are studied. Topics covered include one-way and two-way analyses of variance; analysis of covariance post-hoc tests; statistical power; non-parametric tests, and introduction to statistical software use. Prerequisites: GL/PSYC 2510 6.00 or the equivalent; GL/PSYC 2530 3.00. Course credit exclusions: HH/PSYC 2022 3.00, HH/PSYC 2020 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Professionalism and Communication in Psychology",
+            "prereqs": "psyc1010 psyc2030 psyc2020 psyc2010",
+            "desc": "Enhance students' professionalism and communication skills through teaching, class discussion, assignments and experiential learning within practicum settings. Specific learning objectives include: capacity for autonomous learning, the development of an identity as an academic psychologist, development of professional integrity, professional self-presentation, and effective communication of academic work in various forms (e.g. posters, talks, written academic papers, fellowship applications). Prerequisites: HH/PSYC 1010 6.00 with a minimum grade of C, HH/PSYC 2030 3.00, HH/PSYC 2020 6.00, HH/PSYC 2010 3.00. Open to: Specialized Honours Students. Note: Enrolment is by permission of the department"
+        },
+        {
+            "dept": "psyc",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Intermediate Research Methods",
+            "prereqs": "psyc1010 psyc2030 psyc2020 psyc2021 psyc2022",
+            "desc": "An intermediate course to provide further experience with the design, execution, analysis, interpretation and communication of psychological studies. Building on the foundation established in HH/ PSYC 2030 3.00, the course further prepares students for many types of advanced-research and Honours thesis projects.  \r\nPrerequisites: HH/PSYC 1010 6.00 with a minimum grade of C, HH/PSYC 2030 3.00, one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.  \r\nCourse credit exclusion: GL/PSYC 3525 3.00. \r\nOpen to: Specialized Honours Students. Note: Open to Honours Students by permission of the Department.\r\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "3015",
+            "credit": 3.0,
+            "name": "Introduction to Program Evaluation",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022 psyc2030",
+            "desc": "Explores the systematic collection of information to assess the design, implementation, or outcomes of a program in order to demonstrate program effectiveness, identify areas for improvement, and/or inform future program development. This course is designed for undergraduate students interested in learning the essentials of program evaluation theory and its application in psychology across different settings (e.g., schools, hospitals, community, industry). \nPrerequisites: HH/PSYC 1010 6.00 with a minimum grade of C, HH/PSYC 2010 3.00, HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00, HH/PSYC 2030 3.00\nOpen to: Psychology students who have successfully completed a total of 54 credits"
+        },
+        {
+            "dept": "psyc",
+            "code": "3031",
+            "credit": 3.0,
+            "name": "Intermediate Statistics I",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2022",
+            "desc": "This course provides students with the opportunity to apply, consolidate, and extend their statistical analysis skills to realistic psychological data using methods such as regression analysis. An important component of the course is the use of a statistical software package such as SPSS or SAS to prepare students for independent thesis research.  An important component of the course is the use of a statistical software package to prepare students for independent thesis research or other research-related work. \nPrerequisites: HH/PSYC 1010 6.00 with a minimum grade of C, HH/PSYC 2030 3.00, one of HH/ PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00. \nOpen to: All psychology students meeting the prerequisites, or by permission of the Department of Psychology.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "3032",
+            "credit": 3.0,
+            "name": "Intermediate Statistics II",
+            "prereqs": "psyc1010 psyc2020 psyc2030 psyc3031",
+            "desc": "Topics include data preparation and visualization, analyses with missing data, intermediate general linear models, robust statistics, and communicating statistical results. In addition, the students will also be trained in statistical software (e.g., R) for analyzing data.\nPrerequisites: HH/PSYC 1010 6.00 with minimum grade of C, HH/PSYC 2020 6.00 or equivalent, HH/PSYC 2030 3.00, HH/PSYC 3031 3.00"
+        },
+        {
+            "dept": "psyc",
+            "code": "3090",
+            "credit": 3.0,
+            "name": "Psychological Measurement",
+            "prereqs": "psyc1010 psyc2020 psyc2021",
+            "desc": "An introduction to measurement theory, including principles of psychological testing with special emphasis on test construction and the statistical evaluation, interpretation and validation of test scores. The course does not address the applied uses of tests. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; one of HH/PSYC 2020 6.00, HH/PSYC 2021 3.00. Course credit exclusion: GL/PSYC 3550 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3125",
+            "credit": 3.0,
+            "name": "History of Psychology    ",
+            "prereqs": "psyc1010",
+            "desc": "Examines the discipline of psychology from a historical perspective and studies the emergence and development (and sometimes decline) of a number of theoretical systems that have influenced the nature, content and direction of psychological inquiry. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3650 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3140",
+            "credit": 3.0,
+            "name": "Abnormal Psychology",
+            "prereqs": "psyc1010",
+            "desc": "A course on the nature, causes and treatment of a number of behaviour disorders. Topics include developmental disorders, anxiety problems, personality disorders, substance abuse, affective disorders, organic brain disorders and schizophrenia. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3230 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3170",
+            "credit": 3.0,
+            "name": "Health Psychology",
+            "prereqs": "psyc1010",
+            "desc": "Explores the developing role of psychology in the health field. It provides psychological frameworks that elucidate the (non) practice of health behaviours, the role of stress in illness, adjustment to and coping with illness and representations of health/illness. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusions: HH/KINE 3100 3.00, HH/KINE 4710 3.00, GL/PSYC 3635 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3230",
+            "credit": 3.0,
+            "name": "Introduction to Abnormal Psychology (Psychopathology)",
+            "prereqs": "psyc2510",
+            "desc": "This course discusses what is normal and abnormal, reviews the classical nosology of neurosis, psychosis and character disorders, relates the concept of behaviour disorders to these notions and outlines the different therapy theories and techniques. Prerequisite: GL/PSYC 2510 6.00 or equivalent. Course credit exclusion: HH/PSYC 3140 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3230",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la psychologie anormale",
+            "prereqs": "",
+            "desc": "Ce cours a pour but d'initier l'\u00e9tudiant aux concepts de normalit\u00e9 et d'anormalit\u00e9, d'\u00e9xaminer les n\u00e9vroses, les psychoses, et les d\u00e9sordres de personnalit\u00e9, et de pr\u00e9senter en revue les diff\u00e9rentes formes de th\u00e9rapeutique qui sont utilis\u00e9es dans le traitement des comportements anormaux. Condition pr\u00e9alable : GL/PSYC 2510 6.00 ou l'\u00e9quivalent. Cours incompatible : HH/PSYC 3140 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3250",
+            "credit": 3.0,
+            "name": "Neural Basis of Behaviour    ",
+            "prereqs": "psyc1010 psyc2240",
+            "desc": "This course surveys issues concerning the development and localization of cerebral functions, and examines experimental and clinical studies illustrating behavioural effects of brain damage. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2240 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3255",
+            "credit": 3.0,
+            "name": "The Psychology of Reasoning, Judgment and Decision-Making",
+            "prereqs": "psyc1010 psych2260 psyc2110 psyc2120",
+            "desc": "Examines the psychology of human reasoning, judgment and decision-making. Discuss current theories that shape the field, including dual process models and The Great Rationality Debate. Topics include: classic reasoning theories, the heuristics and biases tradition, individual differences in performance, overconfidence paradigms, prospect theory, neural bases, developmental studies, clinical applications, studies in behavioural economics and training effects. Prerequisites: HH/PSYC 1010 6.00 with a minimum grade of C; HH/PSYCH 2260 3.00 or HH/PSYC 2110 3.00 or HH/PSYC 2120 3.00. Open to: Students who have completed at least 54 earned credits."
+        },
+        {
+            "dept": "psyc",
+            "code": "3265",
+            "credit": 3.0,
+            "name": "Memory",
+            "prereqs": "psyc1010",
+            "desc": "An examination of how humans encode, store and retrieve information from memory. Although the course focuses on data from laboratory studies and their theoretical interpretation, some consideration is given to applied aspects of human memory. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3390 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3270",
+            "credit": 3.0,
+            "name": "Sensation and Perception II",
+            "prereqs": "psyc1010 psyc2220",
+            "desc": "A continuation of Sensation and Perception I. Senses such as balance, taste, smell and touch are considered, and there is more thorough discussion of the methods used to study sensory processing and perception. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2220 3.00. Course credit exclusion: GL/PSYC 3690 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3280",
+            "credit": 3.0,
+            "name": "Animal Behaviour                  ",
+            "prereqs": "psyc1010",
+            "desc": "An introduction to the study of animal behaviour including comparative psychology, behavioural ecology, ethology and sociobiology. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusions: GL/PSYC 3675 3.00, GL/PSYC 3680 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3290",
+            "credit": 3.0,
+            "name": "Psycholinguistics",
+            "prereqs": "psyc1010 ling1000",
+            "desc": "A survey of psycholinguistic research and theory. Topics chosen from the following: introduction to language structure, biological basis for language, speech perception, sentence processing, speech production, relation of language and thought, language acquisition and atypical language. \r\nPrerequisite: HH/PSYC 1010 6.00, with a minimum grade of C, or AP/LING 1000 6.00. \r\nCourse credit exclusions: HH/PSYC 3190 3.00, GL/PSYC 3640 3.00, GL/LIN 3640 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Introduction au d\u00e9veloppement de l'enfant",
+            "prereqs": "",
+            "desc": "Ce cours examinera les th\u00e9ories et les recherches empiriques les plus importantes en psychologie d\u00e9veloppementale, et portera surtout sur la premi\u00e8re enfance et l'enfance. Le cours traitera du d\u00e9veloppement de la motricit\u00e9, du cerveau, de la perception, de l'apprentissage, des connaissances, du langage, du comportement social, des \u00e9motions, de la personnalit\u00e9, et de la conscience. Condition pr\u00e9alable : GL/PSYC 2510 6.00 ou l'\u00e9quivalent. Cours incompatible : HH/PSYC 2110 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Introduction to Development: Infancy and Childhood ",
+            "prereqs": "psyc2510",
+            "desc": "Theory and research in contemporary psychology are presented. Theories include Piaget's, Erickson's, attachment theory and learning theory. Topics include the development of motor skills, perception, learning, cognition, language, the brain, social behaviour, emotional behaviour, personality etc. Prerequisite: GL/PSYC 2510 6.00 or equivalent. Course credit exclusion: HH/PSYC 2110 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3310",
+            "credit": 3.0,
+            "name": "Psychology and Law",
+            "prereqs": "psyc1010",
+            "desc": "Examines the applications of psychology to legal issues and procedures. Drawing from the areas of social, cognitive, developmental and clinical psychology, the law's informal theories of human behaviour are compared to what psychologists know on the basis of theories and research. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3600 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3350",
+            "credit": 3.0,
+            "name": "Cultural Psychology",
+            "prereqs": "psyc1010",
+            "desc": "This course addresses theory, research, and methods pertaining to culture and psychology. The course begins by offering different perspectives on culture and the methodological challenges that researchers face when bringing a cultural level of analysis to human behaviour. The potential role of culture is examined across a range of psychological areas including perception, cognition, emotion, developmental processes, as well as social and abnormal behaviour. \r\nPrerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. \r\nNote: This course does not count for science credit."
+        },
+        {
+            "dept": "psyc",
+            "code": "3390",
+            "credit": 3.0,
+            "name": "Memory                                 ",
+            "prereqs": "psyc2510",
+            "desc": "The field of memory is a rapidly developing one. Models of memory and theories of forgetting, both early and present-day, are reviewed. Prerequisite: GL/PSYC 2510 6.00 or equivalent. Course credit exclusion: HH/PSYC 3265 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3390",
+            "credit": 3.0,
+            "name": "La m\u00e9moire",
+            "prereqs": "",
+            "desc": "Ce cours approfondira l'\u00e9tude de la m\u00e9moire humaine sous ses aspects multiples : 1) la r\u00e9ception, la s\u00e9lection (consciente ou inconsciente) d'informations re\u00e7ues par les organes des sens; 2) le codage et le stockage de ces informations sous forme \u00ab d'engrammes \u00bb au sein d'ensembles de neurones; 3) la capacit\u00e9 d'acc\u00e9der \u00e0 ces informations. Condition pr\u00e9alable : GL/PSYC 2510 6.00 ou l'\u00e9quivalent. Cours incompatibles : HH/PSYC 3265 3.00"
+        },
+        {
+            "dept": "psyc",
+            "code": "3420",
+            "credit": 3.0,
+            "name": "Evolutionary Psychology      ",
+            "prereqs": "psyc1010",
+            "desc": "The evolutionary origins of infra-human and human psychological processes and behaviour are considered from the perspective of the original Darwinian theory through to current sociobiological concepts. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3680 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3430",
+            "credit": 3.0,
+            "name": "Behaviour in Groups",
+            "prereqs": "psyc1010",
+            "desc": "An examination of human behaviour in small group situations, with particular emphasis on sensitivity training, communication, interaction feedback processes, norms, group development and role theory. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusion: GL/PSYC 3662 3.00. Note: This course does not count for science credit."
+        },
+        {
+            "dept": "psyc",
+            "code": "3480",
+            "credit": 3.0,
+            "name": "Psychology of Women",
+            "prereqs": "psyc1010",
+            "desc": "Explores factors associated with the psychology of women, including gender-role stereotypes, socialization practices, male-female differences and the family. At all times, the interpretation offered is made with reference to the broader social context. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C."
+        },
+        {
+            "dept": "psyc",
+            "code": "3490",
+            "credit": 3.0,
+            "name": "Adult Development and Aging   ",
+            "prereqs": "psyc1010",
+            "desc": "An examination of data and theories relating to the psychology of adult development and aging. Major topics include biological and psychological theories of aging; age changes in intelligence, personality and social relations; pathologies of old age and methods of intervention. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C. Course credit exclusions: GL/PSYC 3310 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3495",
+            "credit": 3.0,
+            "name": "Neuroscience of Aging &amp; Cognitive Health",
+            "prereqs": "psyc1010 psyc2240",
+            "desc": "This course investigates the neural basis of cognitive changes across the adult lifespan. Students will learn how the brain is altered in structure and function as people age and how these changes impact cognition. The course will examine the border between normal and abnormal aging and how neuroscience research is informing strategies to sustain cognitive health into older adulthood. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2240 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Development in Adolescence",
+            "prereqs": "psyc1010 psyc2110",
+            "desc": "This course involves the scientific study of changes in affective, social and cognitive development during the second decade of life. Focus is on fundamental developmental changes, the contexts in which development occurs and the central psychosocial issues of adolescence. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2110 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3520",
+            "credit": 3.0,
+            "name": "Infancy",
+            "prereqs": "psyc1010 psyc2110",
+            "desc": "This course involves the scientific study of changes in motor development, perception, and social and physical cognition that occur during the first two years of life. Focus is on the nature and determination of these changes and on theoretical and methodological advances. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2110 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3525",
+            "credit": 3.0,
+            "name": "Intermediate Experimental Psychology   ",
+            "prereqs": "psyc2510 psyc2520 psyc2530 psyc2531",
+            "desc": "This is a continuation of GL/PSYC 2520 3.00. It focuses on applications of research principles. Published research articles are evaluated; students execute an empirical study involving a factorial design. Students learn which particular statistical analyses are appropriate for various different experimental designs. Prerequisites: GL/PSYC 2510 6.00, GL/PSYC 2520 3.00, GL/PSYC 2530 3.00 and GL/PSYC 2531 3.00 or the equivalent.  Course credit exclusion: HH/PSYC 3010 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3550",
+            "credit": 3.0,
+            "name": "Psychological Testing and Measurement",
+            "prereqs": "psyc2510 psyc2530 psyc2531",
+            "desc": "Theoretical and practical aspects of testing and measurement are treated, with particular attention being given to the principles and problems of measurement in the areas of personality, social psychology and psychopathology. Prerequisites: GL/PSYC 2510 6.00, GL/PSYC 2530 3.00 and GL/PSYC 2531 3.00 or equivalents. Course credit exclusion: HH/PSYC 3090 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3550",
+            "credit": 3.0,
+            "name": "Creativity",
+            "prereqs": "psyc1010",
+            "desc": "Offers a systematic study of the persons, processes and products of creativity, including theories, research and measurement methods. Creativity is defined as something that is both novel and significant. Prerequisite: HH/PSYC 1010 6.00, with a minimum grade of C."
+        },
+        {
+            "dept": "psyc",
+            "code": "3555",
+            "credit": 3.0,
+            "name": "Learning, Behaviour Modification, and Behaviour Management",
+            "prereqs": "psyc2510 psyc2520 psyc2530 psyc2531",
+            "desc": "Examines learning and behaviour modification as applied in clinical settings. Topics include classical and operant conditioning, reinforcement, self- and environmental control and behavioural intervention geared to people who suffer from cognitive disorders.\r\nPrerequisites: GL/PSYC 2510 6.00, GL/PSYC 2520 3.00, GL/PSYC 2530 3.00, GL/PSYC 2531 3.00. PRIOR TO FALL 2014: Course credit exclusion: GL/PSYC 3400 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3560",
+            "credit": 3.0,
+            "name": "Psychology of Death and Dying",
+            "prereqs": "psyc1010 psyc2410",
+            "desc": "This course considers issues and topics in thanatology including sociocultural influences on our understanding of death, care of the dying and medical ethics. It examines research and theory in aging and illness, adjustment to life-threatening conditions and grief reactions. Prerequisite: AK/AS/HH/SC/PSYC 1010 6.00 or AK/HH/PSYC 2410 6.00, with a minimum grade of C. Course credit exclusions: AK/PSYC 3290 3.00 (before Summer 2002), AK/AS/HH/SC/PSYC 4250 3.00, AK/HH/NURS 4790B 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3590",
+            "credit": 3.0,
+            "name": "Drugs and Behaviour",
+            "prereqs": "psyc1010",
+            "desc": "A survey of various aspects of major licit and illicit drugs. Topics include historical changes in use/abuse, methods of administration, neurochemical actions, pharmacological effects, and theories of addiction as viewed from physiological, cognitive, learning and social-psychological perspectives. \r\nPrerequisite:HH/PSYC 1010 6.00 with a minimum grade of C. "
+        },
+        {
+            "dept": "psyc",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Psychology and Law",
+            "prereqs": "psyc2510",
+            "desc": "Laws and court decisions are based on assumptions about human behaviour and its causes. The validity of these assumptions can be appraised with the methods of social science. Topics will include the fallibility of the eyewitness, jury decisions, the trustworthiness of hearsay and police evidence. Prerequisite: GL/PSYC 2510 6.00. Course credit exclusion: HH/PSYC 3310 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3635",
+            "credit": 3.0,
+            "name": "Psychologie de la sant\u00e9",
+            "prereqs": "",
+            "desc": "La psychologie de la sant\u00e9 constitue un secteur d'activit\u00e9 en pleine effervescence. Le cours mettra l'emphase sur le r\u00f4le scientifique de la psychologie appliqu\u00e9 aux probl\u00e8mes de sant\u00e9, le stress psychologique ainsi que plusieurs variables moderatrices. Condition pr\u00e9alable : GL/PSYC 2510 6.00. Cours incompatibles : HH/PSYC 3170 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3635",
+            "credit": 3.0,
+            "name": "Health Psychology",
+            "prereqs": "psyc2510",
+            "desc": "This course examines psychological contributions to health maintenance, prevention and treatment of illness, and to the identification of correlates of specific conditions in health and illness. Prerequisite: GL/PSYC 2510 6.00. Course credit exclusions: HH/PSYC 3170 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3640",
+            "credit": 3.0,
+            "name": "Psychology of Intimate Relationships",
+            "prereqs": "psyc1010 psyc2120",
+            "desc": "Why do people want to be in relationships? How do people choose romantic partners? What predicts relationship satisfaction and stability? What is the role of sexuality in relationships? How can people become better romantic partners? These and other questions are examined from a variety of theoretical perspectives and across the lifespan. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2120 3.00; completed at least 54 earned credits."
+        },
+        {
+            "dept": "psyc",
+            "code": "3660",
+            "credit": 3.0,
+            "name": "Introduction to Social Psychology",
+            "prereqs": "psyc2510 psyc2520",
+            "desc": "Examines human social behaviour from the perspective of the experimental social psychologist. Topics include theories and research methods of social psychology, social perception and attraction, social cognition, language and bilingualism, attitudes, attitude change and prejudice. Prerequisite: GL/PSYC 2510 6.00 or equivalent. GL/PSYC 2520 3.00 is strongly recommended. Course credit exclusions: HH/PSYC 2120 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3670",
+            "credit": 3.0,
+            "name": "Psychobiology                 ",
+            "prereqs": "psyc2510",
+            "desc": "This course reviews the physiological basis of behaviour including elements of neuroanatomy, psycho-physiology, neuropsychology and psycho-pharmacology. Prerequisite: GL/PSYC 2510 6.00 or equivalent. Course credit exclusion: HH/PSYC 2240 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3670",
+            "credit": 3.0,
+            "name": "Psychobiologie",
+            "prereqs": "",
+            "desc": "Ce cours a pour but d'offrir aux \u00e9tudiants une introduction g\u00e9n\u00e9rale et un survol \u00e0 des bases neurobiologiques du comportement humain. La psychobiologie conna\u00eet un essor extraordinaire depuis ces derni\u00e8res ann\u00e9es. Nous discutons des avanc\u00e9es scientifiques dans le domaine et de leurs applications cliniques. Ce cours permet aux \u00e9tudiants non-initi\u00e9s d'avoir une appr\u00e9ciation des fronti\u00e8res de la psychologie. Condition pr\u00e9alable : GL/PSYC 2510 6.00 ou l'\u00e9quivalent. "
+        },
+        {
+            "dept": "psyc",
+            "code": "3690",
+            "credit": 3.0,
+            "name": "Perception                             ",
+            "prereqs": "psyc2510",
+            "desc": "This course focuses on the nature of light, the eye and the visual nervous system. Early vision (encoding light and pattern) and higher order vision (encoding surfaces and objects) are covered. Neurobiological mechanisms are underlined. The auditory system is also covered. Prerequisite: GL/PSYC 2510 6.00. Course credit exclusions: HH/PSYC 3270 3.00, HH/PSYC 2220 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "3900",
+            "credit": 3.0,
+            "name": "Individual Research Project",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022",
+            "desc": "Students arrange to complete an individual research project with a full-time faculty member in the Psychology Department, Faculty of Health. This course allows students to obtain first-hand research experience in a professor\u0092s area of research expertise.\r\nPrerequisites: HH/PSYC 1010 6.00, with a minimum grade of C, HH/PSYC 2010 3.00; one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.\r\nOpen to: Students who have earned 54 credits in the Honours or Specialized Honours Programs in Psychology\r\nNote: Students may complete one 6.00 credit or two 3.00 credit Individual Research Project courses in each academic year, to a maximum of 12.00 credits in total (HH/PSYC 3900 series and HH/PSYC 4900 series combined). After securing a supervisor, students should consult the Department of Psychology for an application."
+        },
+        {
+            "dept": "psyc",
+            "code": "3901",
+            "credit": 3.0,
+            "name": "Individual Research Project",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022",
+            "desc": "Students arrange to complete an individual research project with a full-time faculty member in the Psychology Department, Faculty of Health. This course allows students to obtain first-hand research experience in a professor\u0092s area of research expertise.\r\nPrerequisites: HH/PSYC 1010 6.00, with a minimum grade of C, HH/PSYC 2010 3.00; one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.\r\nOpen to students with 54 earned credits in the Honours or Specialized Honours Programs in Psychology.\r\nNote: Students may complete one 6.00 credit or two 3.00 credit Individual Research Project courses in each academic year, to a maximum of 12.00 credits in total (HH/PSYC 3900 series and HH/PSYC 4900 series combined). After securing a supervisor, students should consult the Department of Psychology for an application."
+        },
+        {
+            "dept": "psyc",
+            "code": "3902",
+            "credit": 6.0,
+            "name": "Individual Research Project",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022",
+            "desc": "Students arrange to complete an individual research project with a full-time faculty member in the Psychology Department, Faculty of Health. This course allows students to obtain first-hand research experience in a professor\u0092s area of research expertise.\r\nPrerequisites: HH/PSYC 1010 6.00, with a minimum grade of C, HH/PSYC 2010 3.00; one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.\r\nNote: Students may complete one 6.00 credit or two 3.00 credit Individual Research Project courses in each academic year, to a maximum of 12.00 credits in total (HH/PSYC 3900 series and HH/PSYC 4900 series combined). After securing a supervisor, students should consult the Department of Psychology for an application.\r\nOpen to: students with 54 earned credits in the Honours or Specialized"
+        },
+        {
+            "dept": "psyc",
+            "code": "3903",
+            "credit": 6.0,
+            "name": "Individual Research Project",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022",
+            "desc": "Students arrange to complete an individual research project with a full-time faculty member in the Psychology Department, Faculty of Health. This course allows students to obtain first-hand research experience in a professor\u0092s area of research expertise.\r\nPrerequisites: HH/PSYC 1010 6.00, with a minimum grade of C, HH/PSYC 2010 3.00; one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.\r\nOpen to: students with 54 earned credits in the Honours or Specialized Honours Programs in Psychology.\r\nNote: Students may complete one 6.00 credit or two 3.00 credit Individual Research Project courses in each academic year, to a maximum of 12.00 credits in total (HH/PSYC 3900 series and HH/PSYC 4900 series combined). After securing a supervisor, students should consult the Department of Psychology for an application."
+        },
+        {
+            "dept": "psyc",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Honours Thesis",
+            "prereqs": "psyc2520 psyc2530 psyc2531 psyc3525",
+            "desc": "An opportunity for the advanced student to study a topic in some depth, by doing an empirical study \u0097 although, under unusual circumstances, non-empirical work may also be acceptable. Prerequisites: GL/PSYC 2520 3.00, GL/PSYC 2530 3.00, GL/PSYC 2531 3.00 and GL/PSYC 3525 3.00 and permission of the department. Course credit exclusions: HH/PSYC 4000 6.00, HH/PSYC 4170 6.00.\r\nNote: Open only to Specialized Honours students in their fourth-year."
+        },
+        {
+            "dept": "psyc",
+            "code": "4001",
+            "credit": 6.0,
+            "name": "Specialized Honours Thesis",
+            "prereqs": "",
+            "desc": "Students carry out an individual piece of psychological research in consultation with a thesis supervisor and write a thesis. Some Honours thesis topics may not be eligible for science (SC) credit. In addition, students attend a seminar course. \r\nPrerequisite: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00 or HH/PSYC 2020 6.00; HH/PSYC 2010 3.00; HH/PSYC 3000 3.00; HH/PSYC 3010; HH/PSYC 3031 3.00. \r\nCourse Credit Exclusion(s): GL/PSYC 4000 6.00, HH/PSYC 4000 6.00, HH/PSYC 4175 6.00, HH/PSYC 4180 6.00. \r\nOpen to: Students in the Specialized Honours program who have completed at least 84 credits (excluding ED/EDUC courses). \r\nNote: This course is available to those students who applied to and were accepted into the specialized honours program. This course is not available for registration until the student completes the Specialized Honours Thesis Agreement form with the supervisor and submits the form to the Psychology Undergraduate Office.\r\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "4010",
+            "credit": 6.0,
+            "name": "Seminar in Developmental Psychology       ",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2110",
+            "desc": "Some major modern theories of child development are compared and their corresponding data and methodologies are analyzed. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2110 3.00. Course credit exclusions: HH/PSYC 4010 3.00, GL/PSYC 4510 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Seminar in Developmental Psychology       ",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2110",
+            "desc": "Some major modern theories of child development are compared and their corresponding data and methodologies are analyzed. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2110 3.00. Course credit exclusions: HH/PSYC 4010 6.00, GL/PSYC 4510 3.00"
+        },
+        {
+            "dept": "psyc",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Seminar in Social Psychology",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2120",
+            "desc": "In depth consideration of contemporary issues in social psychology. The focus will vary depending on the speciality area of the Instructor. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2120 3.00. Course credit exclusion: HH/PSYC 4020 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4020",
+            "credit": 6.0,
+            "name": "Seminar in Social Psychology",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2120",
+            "desc": "In depth consideration of contemporary issues in social psychology. The focus will vary depending on the speciality area of the Instructor. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2120 3.00. Course credit exclusion: HH/PSYC 4020 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4030",
+            "credit": 6.0,
+            "name": "Behaviour Modification and Behaviour Therapy",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2130 psyc3140",
+            "desc": "An examination of theoretical issues, basic research and practical application in the area of behaviour change. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HHPSYC 2020 6.00; HH/PSYC 2130 3.00;HH/PSYC 3140 3.00"
+        },
+        {
+            "dept": "psyc",
+            "code": "4050",
+            "credit": 6.0,
+            "name": "Personality Theory and Behaviour Disorders",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2130 psyc3140",
+            "desc": "A critical review of current concepts of the nature, causes and amelioration of disordered behaviour. Concepts are illustrated with selected examples of both normal and abnormal social behaviour. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2130 3.00; HH/PSYC 3140 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4060",
+            "credit": 6.0,
+            "name": "Counselling Psychology",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2130 psyc3140",
+            "desc": "An examination of current theory, practice and research in counselling. Theories of counselling and psychotherapy are considered in relation to the process of psychological change in various settings. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2130 3.00;HH/PSYC 3140 3.00. Course credit exclusions: HH/PSYC 4061 3.00, HH/PSYC 4062 3.00, GL/PSYC 4250 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4061",
+            "credit": 3.0,
+            "name": "Theoretical Approaches to Counselling and Psychotherapy",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2130 psyc3140",
+            "desc": "A survey of current psychotherapies including psychoanalytic, humanistic and behaviour therapies. Emphasis is on the theoretical assumptions made by different theories and the impact of theory on practice. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2130 3.00; HH/PSYC 3140 3.00. Course credit exclusions: HH/PSYC 4060 6.00, GL/PSYC 4250 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4062",
+            "credit": 3.0,
+            "name": "Skills and Techniques in Counselling and Psychotherapy",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2130 psyc3140 psyc4061",
+            "desc": "Examines skills that are common to many modern psychotherapies. Theoretical papers and empirical studies evaluating various therapeutic techniques and clinical skills are considered. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2130 3.00, HH/PSYC 3140 3.00; HH/PSYC 4061 3.00. Course credit exclusion: HH/PSYC 4060 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4080",
+            "credit": 6.0,
+            "name": "Neuropsychology of Abnormal Behaviour  ",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2240 psyc3140",
+            "desc": "An examination of the genetic, physiological and anatomical bases of several types of abnormal behaviour. The social, public policy and ethical implications of a neuropsychological view of abnormal behaviour are discussed. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2240 3.00; HH/PSYC 3140 3.00. Course credit exclusion: GL/PSYC 3530 3.00 (after Summer 2010)."
+        },
+        {
+            "dept": "psyc",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Individual Studies                     ",
+            "prereqs": "",
+            "desc": "This course is conducted on a one-to-one basis between the student and the Instructor. It consists of an intensive study of a particular problem in psychology of interest to both the student and the Instructor and may or may not include a practicum. Prerequisite: Restricted to fourth-year psychology majors. Prior approval of the department required."
+        },
+        {
+            "dept": "psyc",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Travail individuel",
+            "prereqs": "",
+            "desc": "Ceci consiste en un programme d'\u00e9tude intensif d'un sujet psychologique d'int\u00e9r\u00eat \u00e0 l'\u00e9tudiant ainsi qu'au professeur (qui peut comprendre un stage pratique) et qui est suivi par l'\u00e9tudiant individuellement avec le professeur de son choix. Conditions pr\u00e9alables : Restreint aux \u00e9tudiants de quatri\u00e8me ann\u00e9e qui font une majeure en psychologie et l'approbation du d\u00e9partement."
+        },
+        {
+            "dept": "psyc",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Travail individuel",
+            "prereqs": "",
+            "desc": "Ceci consiste en un programme d'\u00e9tude intensif d'un sujet psychologique d'int\u00e9r\u00eat \u00e0 l'\u00e9tudiant ainsi qu'au professeur (qui peut comprendre un stage pratique) et qui est suivi par l'\u00e9tudiant individuellement avec le professeur de son choix. Conditions pr\u00e9alables : Restreint aux \u00e9tudiants de quatri\u00e8me ann\u00e9e qui font une majeure en psychologie et l'approbation du d\u00e9partement."
+        },
+        {
+            "dept": "psyc",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Individual Studies                     ",
+            "prereqs": "",
+            "desc": "This course is conducted on a one-to-one basis between the student and the Instructor. It consists of an intensive study of a particular problem in psychology of interest to both the student and the Instructor and may or may not include a practicum. Prerequisite: Restricted to fourth-year psychology majors. Prior approval of the department required."
+        },
+        {
+            "dept": "psyc",
+            "code": "4145",
+            "credit": 3.0,
+            "name": "Addiction Etiology and Treatment",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022 psyc2030 psyc2130",
+            "desc": "Introduces the psychology of addictive disorders, including their history, prevalence, theoretical underpinnings, and evidence-based treatment. Survey research on the biological, psychological, and social factors that contribute to the development and maintenance of addictive disorders. Covers contemporary issues in addiction psychology, with a specific focus on those issues that are relevant to Canadians.\r\nPrerequisites: HH/PSYC 1010 6.00 with a minimum grade of C, HH/PSYC 2010 3.00, HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00, HH/PSYC 2030 3.00, HH/PSYC 2130 3.00; PSYC 3140 3.00\r\nOpen to: Honours students in Psychology who have earned at least 84 credits\r\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "4180",
+            "credit": 6.0,
+            "name": "Critical Thinking in Psychology",
+            "prereqs": "psyc1010 psyc2020 psyc2030",
+            "desc": "Critical thinking in this course refers to purposeful and self-regulated judgment applied to the processes of gathering, evaluating and integrating sometimes conflicting theories and evidence in Psychology to arrive at an informed opinion. Students will be taught to engage in critical thinking and to effectively communicate their conclusions to a general public audience. To promote flexibility in critical thinking about key aspects of Psychology, emphasis will be placed on covering topics in breadth. Prerequisites: HH/PSYC 1010 6.00 with a minimum grade of C, HH/PSYC 2020 6.00 or equivalent, HH/PSYC 2030 3.00 and have completed 84 credits. Course credit exclusion: HH/PSYC 4170 6.00. Open to: Honours students in Psychology. Note: Capstone course for non-thesis Honours program in Psychology."
+        },
+        {
+            "dept": "psyc",
+            "code": "4190",
+            "credit": 3.0,
+            "name": "Seminar in Health Psychology",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc3170",
+            "desc": "This seminar will focus on a single health problem (e.g., HIV/AIDS, cardiovascular disease, cancer), using this as a unifying context to examine the interplay of biological, psychological and social determinants of health status and of health promoting and health damaging behaviours. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 3170 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4215",
+            "credit": 3.0,
+            "name": "Neuroimaging of Cognition \u0096 fMRI methods",
+            "prereqs": "psyc1010 psyc2010 psyc2030 psyc3250 psyc2240 psyc2020",
+            "desc": "This course offers fundamental knowledge on neuroimaging of cognition using fMRI, including practical aspects of experimental design and analytical approaches. The course provides the necessary theoretical perspectives of fMRI experiments and provides extensive \u0093hands-on\u0094 experience in fMRI analysis. \r\nIntegration: HH/PSYC 6226 3.00\r\nPrerequisites: HH/PSYC 1010 6.00, HH/PSYC 2010 3.00, HH/PSYC 2030 3.00, HH/PSYC 3250 3.00 or HH/PSYC 2240 3.00; HH/PSYC 2020 6.00 or PSYC 2021 3.00 and PSYC 2022 3.00\r\nOpen to: student in the honours program with 84 earned credits or above"
+        },
+        {
+            "dept": "psyc",
+            "code": "4220",
+            "credit": 6.0,
+            "name": "Theories of Human Nature",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020",
+            "desc": "A critical examination of theories of human nature with special emphasis on psychological theories, cultural and social theories, psychoanalysis, philosophical theories, racial theories and economic theories. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00. Open to students after completion of 84 credits."
+        },
+        {
+            "dept": "psyc",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "Advanced Seminar",
+            "prereqs": "psyc2520 psyc2530 psyc2531 psyc3525",
+            "desc": "This course attempts to integrate various areas of psychology for the advanced student. The format of the course and its subject matter vary from year to year. Prerequisites: GL/PSYC 2520 3.00, GL/PSYC 2530 3.00, GL/PSYC 2531 3.00 and GL/PSYC 3525 3.00 and permission of the Department. Note: open only to honours students in their fourth-year."
+        },
+        {
+            "dept": "psyc",
+            "code": "4240",
+            "credit": 3.0,
+            "name": "Advanced Experimental Design",
+            "prereqs": "psyc2520 psyc2530 psyc2531 psyc3525 psyc2530 psyc2531",
+            "desc": "The design and evaluation of psychological experiments are stressed, including detailed treatment of various analysis of variance models. In addition, the philosophy of statistics is examined in some detail. Prerequisites: GL/PSYC 2520 3.00, GL/PSYC 2530 3.00, GL/PSYC 2531 3.00 and GL/PSYC 3525 3.00 and the permission of the department. Note: It is strongly advised that students carefully review the material covered in GL/PSYC 2530 3.00 and GL/PSYC 2531 3.00, before lectures begin in this course. Open only to honours students in their fourth-year."
+        },
+        {
+            "dept": "psyc",
+            "code": "4260",
+            "credit": 6.0,
+            "name": "Applied Research Practicum",
+            "prereqs": "",
+            "desc": "Students in this course conduct applied research in a practicum setting. They engage in planning and executing an empirical study (typically using a quasi-experimental design, for example a case study), including data analysis and interpretation. Prerequisite: Approval from the Department Chair is required. N.B.: Reserved for 4th-year students."
+        },
+        {
+            "dept": "psyc",
+            "code": "4260",
+            "credit": 6.0,
+            "name": "Stage de recherche appliqu\u00e9e",
+            "prereqs": "",
+            "desc": "Les \u00e9tudiants inscrits \u00e0 ce cours participent \u00e0 la r\u00e9alisation d'un projet de recherche en milieu appliqu\u00e9. Ils s'engagent dans la conceptualisation et l'ex\u00e9cution d'une \u00e9tude empirique (habituellement utilisant un plan de recherche quasi-exp\u00e9rimental, ex. une \u00e9tude de cas), et dans l'analyse et l'interpr\u00e9tation de ses r\u00e9sultats. Condition pr\u00e9alable : Acceptation du plan de stage par le directeur du d\u00e9partement. Remarque : R\u00e9serv\u00e9 aux \u00e9tudiants de 4\u00e8me ann\u00e9e. "
+        },
+        {
+            "dept": "psyc",
+            "code": "4260",
+            "credit": 3.0,
+            "name": "Stage de recherche appliqu\u00e9e",
+            "prereqs": "",
+            "desc": "Les \u00e9tudiants inscrits \u00e0 ce cours participent \u00e0 la r\u00e9alisation d'un projet de recherche en milieu appliqu\u00e9. Ils s'engagent dans la conceptualisation et l'ex\u00e9cution d'une \u00e9tude empirique (habituellement utilisant un plan de recherche quasi-exp\u00e9rimental, ex. une \u00e9tude de cas), et dans l'analyse et l'interpr\u00e9tation de ses r\u00e9sultats. Condition pr\u00e9alable : Acceptation du plan de stage par le directeur du d\u00e9partement. Remarque : R\u00e9serv\u00e9 aux \u00e9tudiants de 4\u00e8me ann\u00e9e. "
+        },
+        {
+            "dept": "psyc",
+            "code": "4260",
+            "credit": 3.0,
+            "name": "Applied Research Practicum",
+            "prereqs": "",
+            "desc": "Students in this course conduct applied research in a practicum setting. They engage in planning and executing an empirical study (typically using a quasi-experimental design, for example a case study), including data analysis and interpretation. Prerequisite: Approval from the Department Chair is required. N.B.: Reserved for fourth-year students."
+        },
+        {
+            "dept": "psyc",
+            "code": "4260",
+            "credit": 3.0,
+            "name": "Seminar in Sensation and Perception",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2220",
+            "desc": "This seminar course gives advanced, detailed coverage of topics in sensation and perception. Specific topics vary according to the Instructor, and could include vision (e.g., shape perception, colour perception), hearing (e.g., auditory localization, speech perception), or vestibular perception (e.g., balance, the sense of movement). The course emphasizes reading and evaluating original scientific work, and readings include journal articles or research monographs. Special attention is paid to understanding the value and limitations of common experimental methods in perception research. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2220 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4270",
+            "credit": 3.0,
+            "name": "Seminar in Memory and Cognition",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2260 psyc3265",
+            "desc": "An examination of a number of issues in memory and cognition. The course focuses on areas of current interest and may include topics such as pattern recognition, perception of art, memory retrieval, connectionist models, problem solving, thinking, concept formation, categorization and artificial intelligence. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2260 3.00 or HH/PSYC 3265 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4270",
+            "credit": 3.0,
+            "name": "Rehabilitation Psychology",
+            "prereqs": "psyc2520 psyc2530",
+            "desc": "Rehabilitation psychology deals with the etiology, assessment and treatment of psychological impairments due to physical injury, chronic disease and other disabling conditions. The course will cover assessment, diagnosis of the impairments, some basic tests (in personality, cognition) and treatment (of mental health). Prerequisites: GL/PSYC 2520 3.00 and GL/PSYC 2530 3.00. Course credit exclusion: HH/PSYC 4040 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4370",
+            "credit": 3.0,
+            "name": "Current Issues in Health Psychology",
+            "prereqs": "psyc1010 psyc2021 psyc2020 psyc2030 psyc2240 psyc3170",
+            "desc": "Examines current theoretical and practical issues in clinical and hospital-based health psychology. Students present, critically evaluate, reflect upon, and discuss current evidence and theory related to disease development as well as preventive and therapeutic interventions for chronic diseases and conditions in which health-compromising and health-enhancing behaviours play a role. Instructional methods include case studies and experiential class activities. Integration: GS/PSYC 6455 3.00. Prerequisites: HH/PSYC 1010 6.00, with minimum grade of C; HH/PSYC 2021 3.00 or HH/PSYC 2020 6.00; HH/PSYC 2030 3.00; HH/PSYC 2240 3.0; HH/PSYC 3170 3.00; must be in a Specialized Honours program in Psychology and have completed at least 84 credits; excluding (EDUC) education courses."
+        },
+        {
+            "dept": "psyc",
+            "code": "4460",
+            "credit": 6.0,
+            "name": "Atypical Development",
+            "prereqs": "psyc1010 psyc2030 psyc2021 psyc2020 psyc2110",
+            "desc": "An examination of psychological problems and disorders of childhood and adolescence including an extensive exploration of their nature, causes, and treatment based on current research. Developmental risks and protective factors will be considered. Students are also required to complete a volunteer placement in children\u0092s settings, such as schools and childhood agencies. Prerequisites: HH/PSYC 1010 6.00, with a minimum grade of C; HH/PSYC 2030 3.00; one of HH/PSYC 2021 3.00, HH/PSYC 2020 6.00; HH/PSYC 2110 3.00. Course credit exclusion: GL/PSYC 3510 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4530",
+            "credit": 6.0,
+            "name": "Human Neuropsychology",
+            "prereqs": "psyc3670",
+            "desc": "Neuropsychology is concerned with the behavioural expression of brain dysfunction. This course will review the major neuropsychological disorders associated with brain dysfunction and the mechanisms underlying these deficits. Recovery and advances in assessment, diagnosis, and treatment will also be discussed.\r\nPrerequisite: GL/PSYC 3670 3.00.\r\nCourse credit exclusion: GL/PSYC 3530 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Individual Research Project",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022",
+            "desc": "Students arrange to complete an individual research project with a full-time faculty member in the Psychology Department, Faculty of Health. This course allows students to obtain first-hand research experience in a professor\u0092s area of research expertise.\r\nPrerequisites: HH/PSYC 1010 6.00, with a minimum grade of C, HH/PSYC 2010 3.00; one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.\r\nOpen to students with 84 earned credits in the Honours or Specialized.\r\nNote: Students may complete one 6.00 credit or two 3.00 credit Individual Research Project courses in each academic year, to a maximum of 12.00 credits in total (HH/PSYC 3900 series and HH/PSYC 4900 series combined). After securing a supervisor, students should consult the Department of Psychology for an application."
+        },
+        {
+            "dept": "psyc",
+            "code": "4901",
+            "credit": 3.0,
+            "name": "Individual Research Project",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022",
+            "desc": "Students arrange to complete an individual research project with a full-time faculty member in the Psychology Department, Faculty of Health. This course allows students to obtain first-hand research experience in a professor\u0092s area of research expertise.\r\nPrerequisites: including HH/PSYC 1010 6.00, with a minimum grade of C, HH/PSYC 2010 3.00; one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.\r\nOpen to: Students with 84 earned credits in the Honours or Specialized Honours Programs in Psychology.\r\nNote: Students may complete one 6.00 credit or two 3.00 credit Individual Research Project courses in each academic year, to a maximum of 12.00 credits in total (HH/PSYC 3900 series and HH/PSYC 4900 series combined). After securing a supervisor, students should consult the Department of Psychology for an application."
+        },
+        {
+            "dept": "psyc",
+            "code": "4902",
+            "credit": 6.0,
+            "name": "Individual Research Project",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022",
+            "desc": "Students arrange to complete an individual research project with a full-time faculty member in the Psychology Department, Faculty of Health. This course allows students to obtain first-hand research experience in a professor\u0092s area of research expertise.\r\nPrerequisites: HH/PSYC 1010 6.00, with a minimum grade of C, HH/PSYC 2010 3.00; one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.\r\nOpen to: Students with 84 earned credits in the Honours or Specialized Honours Programs in Psychology.\r\nNote: Students may complete one 6.00 credit or two 3.00 credit Individual Research Project courses in each academic year, to a maximum of 12.00 credits in total (HH/PSYC 3900 series and HH/PSYC 4900 series combined). After securing a supervisor, students should consult the Department of Psychology for an application."
+        },
+        {
+            "dept": "psyc",
+            "code": "4903",
+            "credit": 6.0,
+            "name": "Individual Research Project",
+            "prereqs": "psyc1010 psyc2010 psyc2020 psyc2021 psyc2022",
+            "desc": "Students arrange to complete an individual research project with a full-time faculty member in the Psychology Department, Faculty of Health. This course allows students to obtain first-hand research experience in a professor\u0092s area of research expertise.\r\nPrerequisites: HH/PSYC 1010 6.00, with a minimum grade of C, HH/PSYC 2010 3.00; one of HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00.\r\nOpen to: Students with 84 earned credits in the Honours or Specialized Honours Programs in Psychology.\r\nNote: Students may complete one 6.00 credit or two 3.00 credit Individual Research Project courses in each academic year, to a maximum of 12.00 credits in total (HH/PSYC 3900 series and HH/PSYC 4900 series combined). After securing a supervisor, students should consult the Department of Psychology for an application."
+        },
+        {
+            "dept": "psyc",
+            "code": "6020",
+            "credit": 3.0,
+            "name": "Historical and Theoretical Foundations of Contemporary Psychology (A)",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6030",
+            "credit": 3.0,
+            "name": "Historical and Theoretical Foundations of Contemporary Psychology (B)",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6131",
+            "credit": 3.0,
+            "name": "Univariate Analysis I: Analysis of Variance",
+            "prereqs": "",
+            "desc": "The primary aim of this course is to provide the student with the basic tools for analyzing data from univariate designs with categorical predictors. The course material will focus on simple and complex Analysis of Variance (ANOVA) models."
+        },
+        {
+            "dept": "psyc",
+            "code": "6132",
+            "credit": 3.0,
+            "name": "Univariate Analysis II: Regression",
+            "prereqs": "",
+            "desc": "The primary aim of this course is to provide the student with the basic tools for analyzing data using regression models. The course will focus on the general linear model, encompassing multiple regression and ANOVA, thereby allowing any combination of continuous and categorical predictors. Time permitting, generalized linear models for categorical outcomes (e.g., logistic regression) may also be considered."
+        },
+        {
+            "dept": "psyc",
+            "code": "6135",
+            "credit": 3.0,
+            "name": "Psychology of Data Visualization",
+            "prereqs": "",
+            "desc": "This course is designed as a lecture/seminar dealing with data visualization from a largely psychological perspective."
+        },
+        {
+            "dept": "psyc",
+            "code": "6137",
+            "credit": 3.0,
+            "name": "Best Practices in Quantitative Research Methods",
+            "prereqs": "",
+            "desc": "This course is designed to introduce and train students with research skills aligned with current recommendations on best practice in quantitative research. The course focuses on all stages of research including power analysis and multiplicity control in research design, data management and documentation for reproducibility, and research reporting and presentation graphics. Pre-requisites for this course are PSYC 6131 Univariate Analysis I - Analysis of Variance and PSYC6132: Univariate Analysis II - Regression."
+        },
+        {
+            "dept": "psyc",
+            "code": "6139",
+            "credit": 3.0,
+            "name": "Item Response Theory",
+            "prereqs": "",
+            "desc": "This course focuses on understanding psychological item response data using a latent variable framework known as item response theory (IRT), applying IRT methods to different measurement problems, and examining its practical uses in applied research. Utilizing software to study IRT models will be a strong focus, with class time dedicated to learning and using IRT estimation packages, particularly in the R environment. \n\nPrerequisite: PSYC 6131 (Univariate Statistics I) and PSYC 6132 (Univariate Statistics II)\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6150E",
+            "credit": 3.0,
+            "name": "Research Meth In Study Of Personality  ",
+            "prereqs": "",
+            "desc": "This course reviews and evaluates research methods applicable to the study of personality. Among the topics covered are the following: psychometric development and evaluation; personality x situation designs; multiple regression and analysis of variance in the analysis of data from interactive designs; causal modelling; and factor analysis.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6176",
+            "credit": 3.0,
+            "name": "Structural Equation Modeling",
+            "prereqs": "",
+            "desc": "This course covers structural equalization modelling (SEM) concepts and methodology, including &quot;causation&quot; and correlation, path analysis, confirmatory factor analysis and latent variables. Students gain experience with computer programs (e.g., EQS) and practical applications.  Previous knowledge of multivariate methods is desirable."
+        },
+        {
+            "dept": "psyc",
+            "code": "6180",
+            "credit": 3.0,
+            "name": "Psychometric Methods",
+            "prereqs": "psyc6130",
+            "desc": "This course will expand on the psychological measurement topics covered in undergraduate psychological testing and measurement courses. Prerequisite: GS/PSYC 6130 3.00 or an equivalent statistics course covering ANOVA and regression."
+        },
+        {
+            "dept": "psyc",
+            "code": "6225",
+            "credit": 3.0,
+            "name": "Computational Models of Visual Perception",
+            "prereqs": "",
+            "desc": "This course examines the problem of developing rigorous computational models for visual processing.  Computational strategies may draw upon techniques in statistical inference, signal processing, optimization theory, graph theory and distributed computation."
+        },
+        {
+            "dept": "psyc",
+            "code": "6226",
+            "credit": 3.0,
+            "name": "Neuroimaging of Cognition - fMRI Methods",
+            "prereqs": "",
+            "desc": "This course offers fundamental knowledge on neuroimaging of cognition using fMRI, including practical aspects of experimental design and analytical approaches. The course provides the necessary theoretical perspectives of fMRI experiments and provides extensive &quot;hands-on&quot; experience in fMRI analysis.  "
+        },
+        {
+            "dept": "psyc",
+            "code": "6253",
+            "credit": 3.0,
+            "name": "Fundamentals of Neuroscience II: Circuits, Systems and Behaviour",
+            "prereqs": "",
+            "desc": "This course focuses on a systems approach to specialized circuits within the central nervous system that determine sensory, motor and cognitive systems. Permission of the Instructors is required to enrol in the course."
+        },
+        {
+            "dept": "psyc",
+            "code": "6257",
+            "credit": 3.0,
+            "name": "Fundamentals of Neuroscience I: Structures, Neurons and Synapses",
+            "prereqs": "",
+            "desc": "This course will focus on molecular and cellular mechanisms underlying the structure and function of the nervous system, functional neuroanatomy, and the neurophysiology of movement. Prerequisites: undergraduate course in neuroscience or equivalent or by permission of Instructor"
+        },
+        {
+            "dept": "psyc",
+            "code": "6273",
+            "credit": 3.0,
+            "name": "Computer Programming for Experimental Psychology",
+            "prereqs": "",
+            "desc": "This graduate course covers computer programming methods that are useful for running experiments and analyzing data in experimental psychology.  Students will learn a general-purpose programming language such as MATLAB or Python.  Topics include basic programming methods and data structures, data files, curve fitting, device calibration, data visualization, statistical tests, model simulations, and interfacing to external devices."
+        },
+        {
+            "dept": "psyc",
+            "code": "6320",
+            "credit": 3.0,
+            "name": "Human neuropsychology: History and Syndromes",
+            "prereqs": "",
+            "desc": "This course provides a foundation in the basic\r\ntopics and theoretical underpinnings of human neuropsychology through a historical overview of the clinical-pathological\r\nmethod.  Extensive readings include classic papers spanning the earliest descriptions of various brain disorders to current\r\nreviews of major neuropsychological syndromes."
+        },
+        {
+            "dept": "psyc",
+            "code": "6325",
+            "credit": 3.0,
+            "name": "Clinical Neuroanatomy",
+            "prereqs": "",
+            "desc": "Provides foundational knowledge in the functional neuroanatomy of brain structures and systems (e.g., cortex, basal ganglia). The course also describes the clinical correlates (e.g., Parkinsonism, ataxia, hemiparesis) associated with damage to key brain regions and structures and reviews current methods used to investigate brain structure and function, including behavioural functions."
+        },
+        {
+            "dept": "psyc",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Contemporary Issues in Personality and Social Psychology",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6410",
+            "credit": 3.0,
+            "name": "Social Psychology",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6421",
+            "credit": 3.0,
+            "name": "Foundations of Clinical Psychology: Biopsychosocial formulations",
+            "prereqs": "",
+            "desc": "This course provides a biopsychosocial perspective on severe forms of mental illness and \tcognitive impairment including schizophrenia, bipolar mood disorder, dementia, and other disturbances of brain and behaviour. Consideration will be given to biological and environmental contributions to etiology, prevention and treatment and to the sociocultural and cross-cultural contexts of these disorders. The role of psychologists as scientist-clinicians in advancing understanding and intervention options for serious mental illness is highlighted."
+        },
+        {
+            "dept": "psyc",
+            "code": "6422",
+            "credit": 3.0,
+            "name": "Foundations of Clinical Psychology: Psychopathology and Personality",
+            "prereqs": "",
+            "desc": "This course is an introduction to a knowledge base underlying the theory and practice of clinical psychology, with an emphasis on theories of the self (e.g., cognitive, psychodynamic, developmental) and how personality contributes to psychopathology. It comprises an integrative and critical review of theory and research on mental disorders, including depressive, anxiety, obsessive-compulsive, substance, trauma and stress-related, and eating disorders."
+        },
+        {
+            "dept": "psyc",
+            "code": "6430P",
+            "credit": 6.0,
+            "name": "Clinical Practicum I                   ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6431",
+            "credit": 3.0,
+            "name": "Cognitive Assessment",
+            "prereqs": "",
+            "desc": "This course covers the theoretical foundations of cognitive assessment and related psychometric and scale development concepts. There is a practical component that centres on test administration, scoring, interpretation, and clinical report writing. Clinical and professional issues surrounding cognitive assessment will be discussed throughout the course."
+        },
+        {
+            "dept": "psyc",
+            "code": "6432",
+            "credit": 3.0,
+            "name": "Personality Assessment",
+            "prereqs": "",
+            "desc": "This course covers psychometric and theoretical foundations and applied aspects of personality assessment. Tests commonly used in clinical practice are examined at a theoretical and practical level with emphasis on procedures of test score interpretation, profile analysis, and report writing. Clinical and professional issues surrounding personality assessment are discussed throughout the course."
+        },
+        {
+            "dept": "psyc",
+            "code": "6436",
+            "credit": 3.0,
+            "name": "Evidence Based Principles of Psychotherapy",
+            "prereqs": "",
+            "desc": "This course is informed by a common factors framework and provides students with grounding in fundamental principles of psychotherapy. These include a framework for viewing all forms of psychotherapy, and consideration of the therapeutic alliance and alliance ruptures, empathy, awareness &amp; experiencing, emotion and emotion regulation, and client &amp; therapist factors known to influence psychotherapy process and outcomes. In addition, the course will cover case formulation, issues regarding empirically supported treatments, and the three major specific models of psychotherapy: psychodynamic, cognitive-behavioral, and person-centred or person-experiential. "
+        },
+        {
+            "dept": "psyc",
+            "code": "6437",
+            "credit": 3.0,
+            "name": "Approaches to Psychotherapy: Advanced Study",
+            "prereqs": "",
+            "desc": "Provides students with advanced and intensive study of major models of psychotherapy, from traditional to contemporary. Models include psychodynamic, cognitive-behavioral, and person-centred or person-experiential, but also contemporary models including emotion-focused therapy, post-modern approaches and narrative processes, motivational interviewing, mindfulness &amp; acceptance-based approaches. In addition, other modalities of therapy are considered including group therapy, systems approaches, and couples therapy. While each model is considered individually, psychotherapy integration will also be discussed and considered throughout the course."
+        },
+        {
+            "dept": "psyc",
+            "code": "6440P",
+            "credit": 6.0,
+            "name": "Clinical Practicum II",
+            "prereqs": "",
+            "desc": " In this course, students are given practical training in psychodiagnosis and in advanced approaches to psychological intervention. The training is mediated through demonstration, role playing, and supervised management of a small number of clinical cases.\r\nPrerequisites: Psychology 6420.06, Psychology 6430.06, Psychology 6435.06 and Psychology 6430P.06."
+        },
+        {
+            "dept": "psyc",
+            "code": "6441P",
+            "credit": 6.0,
+            "name": "Psychodiagnostics",
+            "prereqs": "",
+            "desc": "This course covers the theoretical foundations, psychometric knowledge, and practical skills required to conduct a comprehensive psychological assessment.  Students learn about the psychometric basis for core foundational psychological tests, practice test administration, and learn to interpret and integrate test scores with clinical history and observations. Students conduct a real-life assessment together with classmates."
+        },
+        {
+            "dept": "psyc",
+            "code": "6445P",
+            "credit": 6.0,
+            "name": "&quot;Advanced Psychological Intervention&quot; as a practicum",
+            "prereqs": "psyc6420 psyc6430p psyc6435",
+            "desc": "Provides advanced training in theory of intervention. Specific methods of active psychotherapeutic intervention and research evidence on their impact will be covered. This course includes more broad ranging rehabilitation and systems approaches to intervention. Prerequisites: GS/PSYC 6420 6.00, GS/PSYC 6430P 6.00, GS/PSYC 6435 6.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "6455",
+            "credit": 3.0,
+            "name": "Current Issues in Health Psychology",
+            "prereqs": "",
+            "desc": "This course presents an overview of current issues in health psychology. The course is intended to expose graduate students to some \rof the current theoretical and practical issues in the field of health psychology."
+        },
+        {
+            "dept": "psyc",
+            "code": "6456",
+            "credit": 1.5,
+            "name": "Graduate Diploma in Health Psychology - Seminar 1",
+            "prereqs": "",
+            "desc": "Provides the basics of a broad and systemic training in health psychology. The course is not only intended to be educational but also a supportive environment for students as they progress through their graduate training."
+        },
+        {
+            "dept": "psyc",
+            "code": "6457",
+            "credit": 1.5,
+            "name": "Graduate Diploma in Health Psychology - Seminar 2",
+            "prereqs": "",
+            "desc": "Provides the basics of a broad and systemic training in health psychology. The course is not only intended to be educational but also a supportive environment for students as they progress through their graduate training."
+        },
+        {
+            "dept": "psyc",
+            "code": "6460P",
+            "credit": 6.0,
+            "name": "Clinical Practicum III (Optional)",
+            "prereqs": "",
+            "desc": "This practicum provides extra clinical training that the student and the Director of Clinical Training deem necessary for the student to meet training requirements, such as assuring that the student has sufficient training in both assessment and intervention skills. This practicum may be taken only after the Ph.D. III academic year and provided that the student has completed all course work, and either the minor area paper or an approved Ph.D. dissertation proposal. \r\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6470",
+            "credit": 3.0,
+            "name": "Family Therapy                         ",
+            "prereqs": "",
+            "desc": "This seminar offers a demonstration and evaluation of various therapeutic approaches to treating the disturbed family. Basic principles of conducting psychotherapy with couples and families are presented and illustrated with case material. Psychodynamic and behavioural perspectives are considered, although the focus is placed on family systems theory, including structural and strategic approaches. Prerequisite or corequisite: GS/PSYC 6570 3.00 (A), GS/PSYC 6580 3.00 (A), GS/PSYC 6580 3.00 (B), or GS/PSYC 6560 3.00 (B) or permission of the Instructor."
+        },
+        {
+            "dept": "psyc",
+            "code": "6474",
+            "credit": 3.0,
+            "name": "Introduction to Qualitative Research",
+            "prereqs": "",
+            "desc": "An introduction to qualitative research methods. The main methods of qualitative research are surveyed, followed by concentration on the particular method(s) with which the Instructor has expertise. In this concentration, the given method\u0092s procedures are specified and exercises are provided to give the student first-hand experience at using them. The overall goal of the course is to provide a sufficient grounding in qualitative research methodology to enable students to apply it competently."
+        },
+        {
+            "dept": "psyc",
+            "code": "6490B",
+            "credit": 3.0,
+            "name": "Ethical Issues In Professional Pract.  ",
+            "prereqs": "",
+            "desc": "This course focuses on professional issues, with particular reference to Ontario and Canada. The course will cover the Psychologist's code of ethics, standards of practice and research issues in legislation, discipline codes, ethical issues in supervision, differing models in professional training\nand the roles of voluntary associations. Students will become familiar with the regulations governing the practice of Psychology in Ontario. The course attempts to familiarize the student with major current concerns of the Professional practitioner. The section makes use of prominent\nguests from the professional community to highlight the various topics. Prerequisite: Permission of Instructor.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6610",
+            "credit": 3.0,
+            "name": "Social and Emotional Bases of Development",
+            "prereqs": "",
+            "desc": "An advanced general course in development covering: perceptual learning and/or perceptual motor skills; learning; cognitive processes and\nintelligence; social and personality development, language development, and any other area of development of current interest to the developmental area."
+        },
+        {
+            "dept": "psyc",
+            "code": "6665",
+            "credit": 3.0,
+            "name": "Lifespan Cognitive Development and Change",
+            "prereqs": "",
+            "desc": "This course examines cognitive change across the lifespan, integrating research from the two subdisciplines of child development and adult aging.  The models and data used in each subdiscipline are considered in terms of their implications for a coherent theory of lifespan cognitive change. "
+        },
+        {
+            "dept": "psyc",
+            "code": "6710",
+            "credit": 3.0,
+            "name": "Readings                               ",
+            "prereqs": "",
+            "desc": "A reading course for a student or group of students with a faculty member in any area not covered by the psychology courses offered in a particular year. Note: Enrolments in this course are limited and are authorized for individual students only on the specific recommendation of the Graduate Programme Director. See Program Director for specific procedures involved.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6710",
+            "credit": 6.0,
+            "name": "Readings                               ",
+            "prereqs": "",
+            "desc": "A reading course for a student or group of students with a faculty member in any area not covered by the psychology courses offered in a particular year. Note: Enrolments in this course are limited and are authorized for individual students only on the specific recommendation of the Graduate Programme Director. See Program Director for specific procedures involved.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6810D",
+            "credit": 6.0,
+            "name": "Applied Practicum IV                 ",
+            "prereqs": "",
+            "desc": "Supervised experience in the application of the principles of psychology to the amelioration of applied problems.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6810A",
+            "credit": 3.0,
+            "name": "Applied Practicum I",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6810A",
+            "credit": 6.0,
+            "name": "Applied Practicum I                    ",
+            "prereqs": "",
+            "desc": "Supervised experience in the application of the principles of psychology to the amelioration of applied problems.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6810B",
+            "credit": 6.0,
+            "name": "Applied Practicum II                  ",
+            "prereqs": "",
+            "desc": "Supervised experience in the application of the principles\r of psychology to the amelioration of applied problems.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6810B",
+            "credit": 3.0,
+            "name": "Applied Practicum II                  ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6810C",
+            "credit": 6.0,
+            "name": "Applied Practicum III                 ",
+            "prereqs": "",
+            "desc": "Supervised experience in the application of the\r principles of psychology to the amelioration of applied problems.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6820A",
+            "credit": 3.0,
+            "name": "Research Practicum I                   ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6820A",
+            "credit": 6.0,
+            "name": "Research Practicum I                   ",
+            "prereqs": "",
+            "desc": "Supervised experience in the design, execution, analysis\nand communication of psychological research.\n"
+        },
+        {
+            "dept": "psyc",
+            "code": "6820B",
+            "credit": 3.0,
+            "name": "Research Practicum II                 ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6820C",
+            "credit": 6.0,
+            "name": "Research Practicum III             ",
+            "prereqs": "",
+            "desc": "Supervised experience in the design, execution, analysis and communication of psychological research."
+        },
+        {
+            "dept": "psyc",
+            "code": "6820C",
+            "credit": 3.0,
+            "name": "Research Practicum III               ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "psyc",
+            "code": "6820B",
+            "credit": 6.0,
+            "name": "Research Practicum II                 ",
+            "prereqs": "",
+            "desc": "Supervised experience in the design, execution, analysis and communication of psychological research."
+        },
+        {
+            "dept": "psyc",
+            "code": "6840A",
+            "credit": 3.0,
+            "name": "Clinical Internship I",
+            "prereqs": "",
+            "desc": "PhD students in the Clinical area and the Clinical-Developmental area complete a 12-month full-time clinical internship or a 24-month part-time clinical internship at the end of the PhD program. Internships reflect a minimum of 1600 hours of training. The half-time internship option requires a minimum of 800 hours of training in each of the two years."
+        },
+        {
+            "dept": "psyc",
+            "code": "6840B",
+            "credit": 3.0,
+            "name": "Clinical Internship II",
+            "prereqs": "",
+            "desc": "PhD students in the Clinical area and the Clinical-Developmental area complete a 12-month full-time clinical internship or a 24-month part-time clinical internship at the end of the PhD program. Internships reflect a minimum of 1600 hours of training. The half-time internship option requires a minimum of 800 hours of training in each of the two years. "
+        },
+        {
+            "dept": "psyc",
+            "code": "6840",
+            "credit": 6.0,
+            "name": "Clinical Internship",
+            "prereqs": "",
+            "desc": "PhD students in the Clinical area and the Clinical-Developmental area complete a 12-month full-time clinical internship or a 24-month part-time clinical internship at the end of the PhD program. Internships require a minimum of 1600 hours of training."
+        },
+        {
+            "dept": "psyc",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Issues in CD Psychology: A Proseminar in Ethics, Practice and Research",
+            "prereqs": "",
+            "desc": "This course is organized as a series of topic modules in which all members of the Clinical-Developmental faculty jointly participate. \r\nIn each module, a critical examination of fundamental issues, as reflected in the Instructor\u0092s area of research interests and clinical expertise, is presented."
+        },
+        {
+            "dept": "psyc",
+            "code": "6905",
+            "credit": 3.0,
+            "name": "Biological and Cognitive Bases of Development",
+            "prereqs": "",
+            "desc": "This course will focus on the psycho-neuropathhology and biological origins of various childhood behaviour disorders. For these purposes, information will be drawn from clinical and experimental neuropsychology, ethology and comparative psychology, and developmental neurobiology and genetics."
+        },
+        {
+            "dept": "psyc",
+            "code": "6910",
+            "credit": 3.0,
+            "name": "Psychoeducational Assessment of Children and Adolescents",
+            "prereqs": "",
+            "desc": "Psychoeducational Assessment of Children and Adolescents: This course will train students in the administration,scoring and interpretation of some commonly used psychological tests. Students will also be introduced to basic skills in conducting developmental interviews and disseminating assessment information. A restriction for enrolment in the course is no previous assessment experience.\r\nPrerequisites:  Psychology 6610 3.00 and Psychology 6905 3.00 or permission of the Clinical-Developmental Area "
+        },
+        {
+            "dept": "psyc",
+            "code": "6910P",
+            "credit": 6.0,
+            "name": "Introduction to the Psychological Assessment of Children",
+            "prereqs": "psyc6610 psyc6905",
+            "desc": "Provides students with 330 hours of practicum training in psychological assessment. Placement in an applied setting is arranged Regular class meetings with the Instructor provide monitoring of student progress.\r\n\r\nPrerequisites: GS/PSYC 6610 3.00 and GS/PSYC 6905 3.00.\r\nCorequisite: GS/PSYC 6910 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "6920",
+            "credit": 3.0,
+            "name": "Clinical and Diagnostic Assessment of Children and Adolescents",
+            "prereqs": "",
+            "desc": "Clinical and Diagnostic Assessment of Children and Adolescents: This course will\nconsider the use of interviews, observations and psychological testing in the developmental\nassessment of children and the assessment of their families and larger social contexts over a wide\nage range and with a variety of presenting problems. The cognitive, language and social-emotional\nareas of development will receive attention.\n\r\nPrerequisites:  Psychology 6910 3.0 or permission of the Clinical-Developmental Area or permission of the Director "
+        },
+        {
+            "dept": "psyc",
+            "code": "6930P",
+            "credit": 6.0,
+            "name": "Clinical Developmental Interventions Practicum",
+            "prereqs": "psyc6610 psyc6905",
+            "desc": "Provides students with 330 hours of practicum training in psychological assessment. Placement in an applied setting is arranged Regular class meetings with the Instructor provide monitoring of student progress.\r\n\r\nPrerequisites: GS/PSYC 6610 3.00 and GS/PSYC 6905 3.00.\r\nCorequisite: GS/PSYC 6910 3.00."
+        },
+        {
+            "dept": "psyc",
+            "code": "6930",
+            "credit": 3.0,
+            "name": "Clinical Developmental Interventions:  Foundations",
+            "prereqs": "",
+            "desc": "Intervention Strategies With Children. An overview of the important\napproaches and issues involved in the treatment of psychological problems of children. We will cover individual, group and interactional-systemic approaches to intervention."
+        },
+        {
+            "dept": "psyc",
+            "code": "6945",
+            "credit": 3.0,
+            "name": "Applied Pediatric Neuropsychology",
+            "prereqs": "",
+            "desc": "This course will consist of a survey of various types of disorders of childhood with a biological component. The focus will be on the effects of these disorders on brain function during development. Implications for long-term cognitive, emotional, and social outcome will be considered."
+        },
+        {
+            "dept": "psyc",
+            "code": "6955",
+            "credit": 3.0,
+            "name": "Developmental Psychopathology of Childhood and Adolescence",
+            "prereqs": "",
+            "desc": "Examines the guiding principles and contemporary theories of developmental psychopathology. Implications for the practice of clinical child psychology are considered. The course provides a theoretical foundation on which more advanced Clinical-Developmental courses and practical training are based."
+        },
+        {
+            "dept": "psyc",
+            "code": "6970",
+            "credit": 3.0,
+            "name": "Clinical Developmental Interventions: Advanced Skills ",
+            "prereqs": "",
+            "desc": "This course offers an overview of assessment and intervention with adults, families and children. It will provide students with basic skills in formulation and treatment planning within a primarily CBT model. Special issues pertaining to the use of CBT with children will be highlighted, as will its applicability to diverse cultural groups. This is a skills oriented, clinical case based seminar course."
+        }
+    ]
+}

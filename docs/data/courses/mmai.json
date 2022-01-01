@@ -1,0 +1,52 @@
+{
+    "courses": [
+        {
+            "dept": "mmai",
+            "code": "5000",
+            "credit": 3.0,
+            "name": "Artificial Intelligence Fundamentals",
+            "prereqs": "",
+            "desc": "This course introduces students to the field of artificial intelligence, with a focus on AIdriven business applications. It provides a historical perspective tracing the emergence of basic concepts of contemporary AI. Students learn key artificial intelligence techniques including knowledge representation and symbolic reasoning, biologically inspired approaches to AI, supervised, unsupervised and reinforcement learning, multi-agent systems and natural language processing."
+        },
+        {
+            "dept": "mmai",
+            "code": "5040",
+            "credit": 3.0,
+            "name": "Business Applications of Artificial Intelligence I",
+            "prereqs": "mmai5000",
+            "desc": "This course focuses on understanding the opportunities that artificial intelligence offers an organization to improve value creation. Students learn skills to develop, analyse and integrate artificial intelligent into business decision-making. Using case studies and hands-on in-class exercises students will be able to use machine learning to analyse text and social networks using Python and R.\nPrerequisite: SB/MMAI 5000 3.00"
+        },
+        {
+            "dept": "mmai",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Database Fundamentals",
+            "prereqs": "",
+            "desc": "Database Management Systems are computer-based systems used by organizations to manage the vast amount of data that accompany daily operations, support data analysis, and enable intelligent decision making. This course provides an applied introduction to database management systems and their use in the business environment. The course covers the fundamentals of database analysis and design."
+        },
+        {
+            "dept": "mmai",
+            "code": "5200",
+            "credit": 3.0,
+            "name": "Algorithms for Business Analysis",
+            "prereqs": "",
+            "desc": "The course covers main approaches to design and analysis of algorithms used in business contexts, including important algorithms and data structures, and results in complexity and computability. This course is a pre-requisite for SB/MMAI 5300 3.00.\r\n"
+        },
+        {
+            "dept": "mmai",
+            "code": "5300",
+            "credit": 3.0,
+            "name": "Numerical Methods and Analysis",
+            "prereqs": "mmai5200",
+            "desc": "Numerical analysis is concerned with finding numerical solutions to problems for which analytical solutions either do not exist or are not readily or cheaply obtainable. This course provides an introduction to the subject, focusing on the three core topics of iteration, interpolation and quadrature. Students will learn about both practical and theoretical aspects of algorithms. \r\nPrerequisite: SB/MMAI 5200 3.00"
+        },
+        {
+            "dept": "mmai",
+            "code": "6050",
+            "credit": 6.0,
+            "name": "AI Consulting Project",
+            "prereqs": "",
+            "desc": "The AI Consulting Project is an intensive, 2-term course where groups of 4 students undertake a comprehensive artificial intelligence (AI) project of an organization and provide business insights to enhance the site\u0092s success. At the conclusion of the project students present their\r\nwork to a panel of at least two experts, including the course director, and to the client site."
+        }
+    ]
+}

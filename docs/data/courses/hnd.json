@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "hnd",
+            "code": "3710",
+            "credit": 3.0,
+            "name": "Contemporary Literatures of the South Asian Diaspora",
+            "prereqs": "",
+            "desc": "This course investigates the phenomenon of South Asian diaspora in modern, postcolonial, and global contexts. It examines an interdisciplinary literature from the Humanities and Social Sciences in order to establish the social features of diaspora and the cultural expressions of the diasporic condition through a consideration of theoretical, literary, and ethnographic texts. Note: Knowledge of Hindi and/or Urdu is not required."
+        }
+    ]
+}

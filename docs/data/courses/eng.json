@@ -1,0 +1,92 @@
+{
+    "courses": [
+        {
+            "dept": "eng",
+            "code": "1101",
+            "credit": 4.0,
+            "name": "Renaissance Engineer 1: Ethics, Communication &amp; Problem Solving",
+            "prereqs": "",
+            "desc": "Who is an engineer and what are his/her ethical and academic integrity obligations; communications strategies for technical subjects in oral and written forms; dealing with ambiguity, uncertainties, and open ended problems in a technical context, problem definition strategies."
+        },
+        {
+            "dept": "eng",
+            "code": "1102",
+            "credit": 4.0,
+            "name": "Renaissance Engineer 2: Engineering Design Principles",
+            "prereqs": "eng1101",
+            "desc": "This course will cover: engineering design methodology; features and elements of good design with environment and human interface considerations; aesthetics in design and idea communication using graphics and technical drawings. Prerequisite: LE/ENG 1101 4.00."
+        },
+        {
+            "dept": "eng",
+            "code": "1500",
+            "credit": 3.0,
+            "name": "Innovation and Creativity",
+            "prereqs": "",
+            "desc": "Being creative is about solving problems or approaching opportunities in novel and valuable ways. This course, is designed to help students harness their creative potential by stimulating their own creative process, in order to help them develop ideas that create real value and have a positive impact on society.\r\nCreativity can be applied across many disciplines, and this course is designed for students from all faculties, with enhanced learning opportunities fostered through projects delivered in cross disciplinary teams. \r\nThe course will help students learn how to observe and frame critical problems, and then identify and choose potential solutions that can be implemented by individuals or organizations. As a consequence of participating in this course, students will become an innovation enabler in any type of organization, or better able to use their own creativity to create a startup.   \r\nStudents will start by exploring their own creativity and problem solving style, before being introduced to creative problems solving frameworks, tools and processes, which they can deploy while solving real problems, both individually and in teams.  Course credit exclusions: LE/ENG 1101 4.00, LE/ENG 1102 4.00\r\n"
+        },
+        {
+            "dept": "eng",
+            "code": "2001",
+            "credit": 3.0,
+            "name": "Engineering Projects: Management, Economics and Safety",
+            "prereqs": "eng1101 eng1000",
+            "desc": "Introduction to the management, economics and safety as they relate to engineering projects, including the following. Project management: work breakdown structures, Gantt charts, logic diagrams and change management. Engineering economics: time value of money, comparison methods, rates of return. Workplace safety. Group design projects. Prerequisites: LE/ENG 1101 4.00 or LE/ENG 1000 6.00."
+        },
+        {
+            "dept": "eng",
+            "code": "2003",
+            "credit": 3.0,
+            "name": "Effective Engineering Communication",
+            "prereqs": "eng1101",
+            "desc": "Students learn to effectively employ communication strategies essential to a successful engineering career, including the social, rhetorical, ethical, and practical aspects of professional communications. The focus is on building individuals' confidence and judgment through communications assignments based on case studies. \n\nPrerequisites: LE/ENG 1101 4.0."
+        },
+        {
+            "dept": "eng",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Professional Engineering Practice",
+            "prereqs": "eng2001",
+            "desc": "An introduction to the legal and ethical frameworks of the engineering profession, preparing students for the Professional Practice Examination required for certification as a professional engineer. Also covered are associated professional issues such as entrepreneurship, intellectual property and patents. Prerequisites: LE/ENG 2001 3.00. Course credit exclusions: LE/EECS 3000 3.00"
+        },
+        {
+            "dept": "eng",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Engineering Project (Capstone)",
+            "prereqs": "eng3000",
+            "desc": "The project will include significant elements of design and implementation. The format is intended to resemble engineering projects in practice, including specifications, background research, innovative solutions, analysis, testing and communication. 2 terms. Prerequisite(s): 21 3000-level science or engineering credits in the Engineering Program, exclusive of LE/ENG 3000 3.00. Prerequisite or corequisite: LE/ENG 3000 3.00. Course credit exclusions: CIVL4000 , ESSE4000.\n "
+        },
+        {
+            "dept": "eng",
+            "code": "4330",
+            "credit": 3.0,
+            "name": "Radio Science and Techniques for Space Exploration",
+            "prereqs": "phys3250",
+            "desc": "The theory and application of modern radio science and radio techniques in space exploration and space navigation. Topics include signal processing, radio astronomy fundamentals, Deep Space Network instrumentation, antenna theory, arrays, Very Long Baseline Interferometry, spacecraft navigation, radar systems, range, range rate and the radar equation. Prerequisite: SC/PHYS 3250 3.00."
+        },
+        {
+            "dept": "eng",
+            "code": "4550",
+            "credit": 3.0,
+            "name": "Introduction to Control Systems",
+            "prereqs": "math2015",
+            "desc": "This course provides an introduction to classical control theory. From a base of dynamic system modeling the course will develop methods for modifying system behavior through feedback so as to produce desired performance and meet specifications in spite of disturbances and modeling errors. Students are expected to be versed in Linear Algebra, Ordinary Differential Equations, and Complex Variables. Signals and Systems would also be a definite asset. Prerequisites: SC/MATH 2015 3.00.\n"
+        },
+        {
+            "dept": "eng",
+            "code": "4650",
+            "credit": 3.0,
+            "name": "Feedback Control Systems",
+            "prereqs": "eng4550 math3410 math2270 math2271 math2022",
+            "desc": "This course teaches fundamentals of control design and analysis using state-space methods. This includes both the practical and theoretical aspects of the topic. The students are expected to design controllers using state-space methods and evaluate the control performance and validate if these controllers are robust to system uncertainties and external disturbances. Prerequisites: LE/ENG 4550 3.00 or the following combination of courses: SC/MATH 3410 3.00; SC/MATH 2270 3.00 or SC/MATH 2271 3.00; SC/MATH 2022 3.00."
+        },
+        {
+            "dept": "eng",
+            "code": "6000",
+            "credit": 0.0,
+            "name": "Engineering Ethics",
+            "prereqs": "",
+            "desc": "Topics include: Ethical responsibilities for engineering profession; academic and research integrity; technology impact on society; sustainable development and corporate citizenship; public health and safety."
+        }
+    ]
+}

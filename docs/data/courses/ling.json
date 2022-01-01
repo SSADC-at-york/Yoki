@@ -1,0 +1,196 @@
+{
+    "courses": [
+        {
+            "dept": "ling",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Linguistics",
+            "prereqs": "",
+            "desc": "Examines fundamental principles of language structure and interpretation. The focus is on the core areas, specifically, phonology, morphology, and syntax, but a brief survey of phonetics, semantics, language acquisition, historical linguistics, and language variation is also offered. Data and analytic exercises from a wide range of the world's languages is used for illustration.\r\nCourse credit exclusions: GL/EN 2605 6.00, GL/LIN 2605 6.00."
+        },
+        {
+            "dept": "ling",
+            "code": "2110",
+            "credit": 3.0,
+            "name": "Phonetics",
+            "prereqs": "",
+            "desc": "Discusses the anatomical and physiological bases of the production of speech sounds and introduces a wide range of sound types from a variety of human languages. Students receive ear-training in the discrimination of speech-sounds and instruction and practice in making and transcribing these sounds. An introduction to the physical (acoustic) properties of speech sounds is also given.\r\nPrerequisite or corequisite: AP/LING 1000 6.00 or permission of the department. PRIOR TO FALL 2013: course credit exclusions: GL/EN 3603 3.00, GL/LIN 3603 3.00."
+        },
+        {
+            "dept": "ling",
+            "code": "2120",
+            "credit": 3.0,
+            "name": "Phonology 1: Analysis",
+            "prereqs": "ling1000 ling2110",
+            "desc": "Provides students with the opportunity to develop the analytical skills necessary for more advanced phonological work. Emphasis throughout is on practical analysis and argumentation, drawing on data from a wide variety of languages. Prerequisites: AP/LING 1000 6.00 with a grade of at least C; AP/LING 2110 3.00. PRIOR TO FALL 2013: course credit exclusions: GL/EN 3601 3.00, GL/LIN 3601 3.00."
+        },
+        {
+            "dept": "ling",
+            "code": "2130",
+            "credit": 3.0,
+            "name": "Morphology 1: Analysis",
+            "prereqs": "ling1000",
+            "desc": "An introduction to the nature and organization of morphological patterns in human languages. Students are exposed to a range of cross-linguistic data, with emphasis being placed on how morphological theory accounts for these data. Prerequisite: AP/LING 1000 6.00 with a grade of at least C."
+        },
+        {
+            "dept": "ling",
+            "code": "2140",
+            "credit": 3.0,
+            "name": "Syntax 1: Analysis",
+            "prereqs": "ling1000 ling2130",
+            "desc": "Offers an introduction to syntactic analysis, building on concepts acquired in AP/LING 1000 6.00 and AP/LING 2130 3.00, and paves the way for AP/LING 3140 3.00. Topics include lexical and functional categories, morphosyntactic features, theta-roles and argument structure, the structure of phrases, constituency, and syntactic relationships within the clause. Prerequisite: AP/LING 1000 6.00 with a grade of at least C; AP/LING 2130 3.00."
+        },
+        {
+            "dept": "ling",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Introduction to Speech and Language Sciences",
+            "prereqs": "",
+            "desc": "This course introduces students to key aspects of speech sciences, including acoustic phonetics, speech perception, speech production and audition, as well as fundamental concepts in speech-language development and disorders. The relationship between speech and abstract levels of language, such as syntax and phonology, is also considered.\r\nPre-requisites: AP/LING 1000 6.00 and HH/PSYC 1010 6.00"
+        },
+        {
+            "dept": "ling",
+            "code": "2410",
+            "credit": 3.0,
+            "name": "Language and Gender",
+            "prereqs": "",
+            "desc": "Explores the relationship between language and sex/gender systems from a feminist perspective. The main areas investigated are language and gender stereotypes; language, power and women's status; and male versus female communicative style in different socio-cultural contexts. \r\nPRIOR TO FALL 2013: Course credit exclusions: AP/WMST 2501 3.00, GL/WMST 2501 3.00."
+        },
+        {
+            "dept": "ling",
+            "code": "2420",
+            "credit": 3.0,
+            "name": "Language and Culture",
+            "prereqs": "",
+            "desc": "This course investigates the relationship between language and culture by exploring analyses of language use in social interaction in both Western and non-Western societies. It investigates the role of language in marking social difference and social change, along dimensions such as gender, ethnicity, class, and religion. It does so by investigating questions about universal versus culture-specific aspects of language structure, language use, and beliefs about language. Drawing on research in linguistic anthropology and sociolinguistics, topics that are investigated include: language acquisition and socialization, language ideology, language and thought, language endangerment, indexicality and performativity. "
+        },
+        {
+            "dept": "ling",
+            "code": "2800",
+            "credit": 3.0,
+            "name": "Language and Mind",
+            "prereqs": "",
+            "desc": "Explores how the structures of human language reflect the architecture of the human mind. Linguistics issues are related to topics in vision, philosophy, and psychology, among others. The course focuses primarily on internalist views of language, as exemplified in the generative tradition.\r\nCourse credit exclusion: AP/LING 3800 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "ling",
+            "code": "3040",
+            "credit": 3.0,
+            "name": "Historical Linguistics",
+            "prereqs": "ling1000 ling2120",
+            "desc": "An introduction to the study of the development of language systems through time, including the principles of genetic classification of languages, comparative grammar and internal reconstruction. Prerequisites: AP/LING 1000 6.00, or permission of the department. (prior to Fall 2015 AP/LING 2120 3.00, or permission of the department.)"
+        },
+        {
+            "dept": "ling",
+            "code": "3120",
+            "credit": 3.0,
+            "name": "Phonology 2: Theory",
+            "prereqs": "ling2110 ling2120",
+            "desc": "This course builds on the skills acquired in AP/LING 2120 3.00. Students will continue with problem sets from a variety of languages, while being introduced to key issues in current phonological theory. Prerequisites: AP/LING 2110 3.00 and AP/LING 2120 3.00 or equivalent with grade of C or better."
+        },
+        {
+            "dept": "ling",
+            "code": "3140",
+            "credit": 3.0,
+            "name": "Syntax 2: Theory",
+            "prereqs": "ling2140",
+            "desc": "Focuses on core aspects of syntactic theory from a Minimalist perspective. Concepts covered in AP/LING 2140 3.00 are assumed throughout. Topics discussed include argument structure, VP shells, properties of functional categories, Case theory, head and XP movement, and DP structure, among others. Prerequisite: AP/LING 2140 3.00 or equivalent with a grade of C or better."
+        },
+        {
+            "dept": "ling",
+            "code": "3150",
+            "credit": 3.0,
+            "name": "Semantics",
+            "prereqs": "ling1000 ling2060",
+            "desc": "An introduction to topics in formal semantics. The emphasis is on providing students with an understanding of a wide range of semantic phenomena by adopting a truth-conditional account of meaning using a limited formal apparatus. Topics covered include propositional and first order logic, modality and possible worlds, definite and indefinite descriptions, event semantics and tense and aspect.\r\nPrerequisites: AP/LING 1000 6.00 or AP/LING 2060 6.00, or permission of the department. Course credit exclusions: GL/LIN 3611 3.00, GL/LIN 3611 3.00."
+        },
+        {
+            "dept": "ling",
+            "code": "3160",
+            "credit": 3.0,
+            "name": "Discourse Analysis",
+            "prereqs": "ling1000 ling2060",
+            "desc": "An introduction to the analysis of spoken and written texts in context. Issues examined include: the relation between linguistic form and function; the relation between text and context; and the question of 'textuality' (distinguishing a randomly-ordered set of sentences from a coherent 'text'). Approaches to discourse analysis covered include speech act theory, interactional sociolinguistics, critical discourse analysis and conversation analysis. Prerequisite: AP/LING 1000 6.00 or AP/LING 2060 6.00. Course credit exclusions: GL/EN 4608 3.00, GL/LIN 4608 3.00."
+        },
+        {
+            "dept": "ling",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "First Language Acquisition",
+            "prereqs": "ling1000 ling3220",
+            "desc": "An introduction to children's acquisition of linguistic knowledge, including lexical, morphological, phonological, syntactic, and pragmatic development, and familiarizes students with fundamental issues in current theoretical models of language acquisition.\r\nPrerequisite: AP/LING 1000 6.00 or AP/LING 3220 3.00."
+        },
+        {
+            "dept": "ling",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "Psycholinguistics",
+            "prereqs": "psyc1010 ling1000",
+            "desc": "A survey of psycholinguistic research and theory. Topics chosen from the following: introduction to language structure, biological basis for language, speech perception, sentence processing, speech production, relation of language and thought, language acquisition and atypical language. \r\nPrerequisite: HH/PSYC 1010 6.00, with a minimum grade of C, or AP/LING 1000 6.00. \r\nCourse credit exclusions: HH/PSYC 3190 3.00, GL/PSYC 3640 3.00, GL/LIN 3640 3.00."
+        },
+        {
+            "dept": "ling",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Second Language Acquisition",
+            "prereqs": "ling1000 ling2060 ling3220 psyc3290",
+            "desc": "Provides an introduction to second language acquisition.  Issues discussed include linguistic, biological, cognitive, socio-psychological, and socio-educational aspects of second language acquisition. A variety of theoretical models are also considered.\r\nPrerequisite: AP/LING 1000 6.00 or AP/LING 2060 6.00 or AP/LING 3220 3.00 or AP/SC/PSYC 3290 3.00. Course credit exclusions: GL/EN/LIN 3606 3.00.\r\n\r\nPRIOR TO FALL 2009: Prerequisite: AK/AS/SC/PSYC 3290 3.00 or AS/LING 1000 6.00 or AS/LING 3220 3.00. Course credit exclusion: AS/LING 3240.\r\n"
+        },
+        {
+            "dept": "ling",
+            "code": "3410",
+            "credit": 3.0,
+            "name": "Writing Systems",
+            "prereqs": "ling1000 ling2060",
+            "desc": "This course deals with the interaction of spoken language and writing structure; functioning and cultural spread of writing systems; historical relationships; and orthographic change, reform and design. Systems studied include Roman, Greek, Cyrillic, Arabic and Hebrew alphabets, and systems of the Indian sub-continent, Korea, China and Japan. Prerequisites: AP/LING 1000 6.00, or AP/LING 2060 6.00 or permission of the department."
+        },
+        {
+            "dept": "ling",
+            "code": "4120",
+            "credit": 3.0,
+            "name": "Advanced Phonology",
+            "prereqs": "ling3120",
+            "desc": "Concentrates on recent advances in phonological theory within a generative framework. Specific topics include constraint- vs. rule-based approaches to phonology, segmental representation, markedness, and the relation between phonetics and phonology.\r\nIntegrated with: GS/LING 5120 3.00. Prerequisites: AP/LING 3120 3.00 and at least three additional credits in LING at the 3000-level with grades of C+ or better, or permission of the department.\n"
+        },
+        {
+            "dept": "ling",
+            "code": "4140",
+            "credit": 3.0,
+            "name": "Advanced Syntax",
+            "prereqs": "ling3140",
+            "desc": "This course aims at providing students with an in-depth understanding of the interaction between theoretical assumptions, analysis and data in syntax. The course concentrates primarily on Minimalist approaches to raising and control, PRO, Case features, (wh)-operators, and phases. Involves primary literature. Integrated with: GS/LING 5140 3.00. Prerequisites: AP/LING 3140 3.00 and at least three additional credits in AP/LING at the 3000-level with grades of C+ or better, or permission of the department."
+        },
+        {
+            "dept": "ling",
+            "code": "4220",
+            "credit": 3.0,
+            "name": "Acoustic Phonetics",
+            "prereqs": "ling2110 ling2120 ling3120",
+            "desc": "An investigation of acoustic-phonetic aspects of speech and their relation to speech perception and recognition. Practical experience in techniques of acoustic-phonetic research. Prerequisites: AP/LING 2110 3.00 and AP/LING 2120 3.00 with grades of C+ or better, and at least six credits in linguistics (LING) at the 3000-level with grades of C+ or better, or permission of the department. AP/LING 3120 3.00 is recommended."
+        },
+        {
+            "dept": "ling",
+            "code": "4230",
+            "credit": 3.0,
+            "name": "Language and the Brain",
+            "prereqs": "ling2120 ling2140 ling3220",
+            "desc": "Focuses on the relationship between the human brain and comprehension, production, and acquisition of language. It surveys a variety of language disorders, such as aphasia, delayed language development, dyslexia and language dissolution in old age. \r\nPrerequisites: AP/LING 2120 3.00, AP/LING 2140 3.00, and AP/LING 3220 3.00 with grades of C+ or better; and at least three additional credits in linguistics (AP/LING) at the 3000 level with grades of C+ or better."
+        },
+        {
+            "dept": "ling",
+            "code": "4350",
+            "credit": 3.0,
+            "name": "Pidgin and Creole Linguistics",
+            "prereqs": "ling2120 ling2130 ling2140",
+            "desc": "Pidgins and Creoles are languages that develop from contact between groups of people who have no common means of communication. This course examines the historical and social circumstances in which these languages, their linguistic characteristics and their relevance to linguistic theory. Integrated with: GS/LING 5350 3.00. Prerequisites: AP/LING 2120 3.00, AP/LING 2130 3.00, AP/LING 2140 3.00 and two 3000-level Linguistics courses, all with grades of at least C+, or permission of the department."
+        },
+        {
+            "dept": "ling",
+            "code": "4440",
+            "credit": 3.0,
+            "name": "Syntactic Change",
+            "prereqs": "ling2140 ling3140 ling2400 ling3040",
+            "desc": "This course deals with morphosyntactic change from a broadly generative perspective. It focuses on large-scale changes, changes resulting in dialectal variation, and changes in progress. Both language-internal and language-external mechanisms by which change takes place are considered. Integrated with: AP/LING 5440 3.00. Prerequisites: AP/LING 2140 3.00 and at least six credits in linguistics (LING) at the 3000-level including AP/LING 3140 3.00, all with grades of C+ or better, or permission of the department. AP/LING 2400 3.00 and AP/LING 3040 3.00 are recommended."
+        }
+    ]
+}

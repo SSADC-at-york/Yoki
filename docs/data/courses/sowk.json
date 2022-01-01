@@ -1,0 +1,412 @@
+{
+    "courses": [
+        {
+            "dept": "sowk",
+            "code": "1011",
+            "credit": 6.0,
+            "name": "Introduction to Critical Social Work ",
+            "prereqs": "",
+            "desc": "Introduces the ethics, theories and practice of critical social work. Analyzes social issues and social policies that produce social inequalities and marginalization, and examines various advocacy and social change tools devoted to social justice. Exposes students to social work institutions, agencies, and networks and an understanding of political reflective professional practice. The everyday realities of social workers are understood in a historical, theoretical, and ethical framework. Course credit exclusions: AP/SOWK 1010 6.00, AP/SOWK 2000 6.00. Note 1: This course requires the student to complete 40 hours of volunteer work in a Social Service setting. The student is responsible for finding their own agency.\r\n"
+        },
+        {
+            "dept": "sowk",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "Addiction in Contemporary Society",
+            "prereqs": "",
+            "desc": "Introduction to the field of addictions. Based on the premise that the concept of addiction is socially constructed, the course will examine definitions of addiction, the relation of addiction to the state, treatment, recovery, change and future directions in the field. Note 1: This course is offered on a full Internet basis. Note 2: Students are required to have access to a computer that is able to support the software requirements of the course. Note 3: This course does not count for major credit in social work. Note 4: This course is not open to social work majors."
+        },
+        {
+            "dept": "sowk",
+            "code": "2025",
+            "credit": 3.0,
+            "name": "Eating Disorders: The Political, Social and Psychological Issues",
+            "prereqs": "",
+            "desc": "Eating disorders continue to plague large numbers of adolescent and adult women, and to a lesser extent men, compromising their health and ability to function in their daily lives. This course will introduce students to the political, social and psychological factors contributing to eating disorders, identify models of treatment and conclude with special topics such as athletes, sexual abuse and substance abuse. Note 1: This course does not count as major credit in the social work. Note 2: This course is offered on a full Internet basis. Note 3: Students are required to have access to a computer that is able to support the software requirements of the course. Note 4: This course is not open to social work majors."
+        },
+        {
+            "dept": "sowk",
+            "code": "2035",
+            "credit": 3.0,
+            "name": "Current Issues in Mental Health",
+            "prereqs": "",
+            "desc": "Introduces students to fundamental issues and concepts with respect to mental health and community responses to mental health. Provides an opportunity for students to examine their own perspectives in relation to current debates and conflicting representations in the field. Not open to: Social Work majors. Note 1: This course is offered on a full Internet basis. Note 2: Students are required to have access to a computer that is able to support the software requirements of the course."
+        },
+        {
+            "dept": "sowk",
+            "code": "2050",
+            "credit": 6.0,
+            "name": "Identity, Diversity and Anti-Discriminatory Practice",
+            "prereqs": "",
+            "desc": "Focuses on our diverse identities and the role of language, discourse and culture as a way of understanding ourselves. The role of systemic inequalities, especially experiences of oppression and privilege, is explored in relation to social work practice\r\n\r\nPrerequisites or corequisite for post-degree BSW Honours majors: AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00. \r\nPrerequisites for direct entry BSW Honours majors: AP/SOWK 1011 6.00, 18 credits in non-social work courses; and corequisites: AP/SOWK 2060 3.00, AP/SOWK 2070 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "2060",
+            "credit": 3.0,
+            "name": "Social Justice Work with Groups, Communities and Social Movements",
+            "prereqs": "sowk1010",
+            "desc": "Introduces students to critical theories, perspectives, approaches and practice skills relevant to social justice work with small groups, communities and social movements. Students will have the opportunity to explore the significance of collectivization and social action with the goal of effecting social, economic and political change. Prerequisites: AP/SOWK 1010 6.00, 18 credits in non-social work courses.\nCorequisite: AP/SOWK 2050 6.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "2070",
+            "credit": 3.0,
+            "name": "Indigenous Understandings in Social Work Theory and Practice",
+            "prereqs": "sowk1011",
+            "desc": "&quot;Introduces social work students to the historical and current acts of oppression as experienced by Indigenous people, families, communities and Nations. Students' learning will also focus on the positive contributions that Indigenous knowledges and worldviews have on social work theory and practice.\r\nPrerequisite: AP/SOWK 1011 6.00.\nCorequisite: AP/SOWK 2050 6.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "3041",
+            "credit": 3.0,
+            "name": "Communication",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "The premise of this course is that communication is the foundation of social work practice. The course will rely on experiential learning in which attention is paid to the development of skillful attention, response and reflection within intentional change processes. Note: Open only to social work majors\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00.\nPrerequisites for direct entry BSW Honours majors: 18 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00 Corequisites for direct entry BSW Honours majors: AP/SOWK 3041 3.00, AP/SOWK 3060 3.00 and AP/SOWK 3070 3.00 and AP/SOWK 3110 3.00.\n"
+        },
+        {
+            "dept": "sowk",
+            "code": "3060",
+            "credit": 6.0,
+            "name": "Integrated Social Work Practice",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "Explores the interconnections between structure, systems and people and the influence of power in shaping social services and social work practice. Practice examples will encourage an integrated understanding of micro and macro aspects of practice. \r\n\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00. \r\nPrerequisites for direct entry BSW Honours majors: 30 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.0 Corequisites for direct entry BSW Honours majors: AP/SOWK 3041 3.00, AP/SOWK 3070 3.00 and AP/SOWK 3110 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "3070",
+            "credit": 3.0,
+            "name": "Foundations of Social Work Research ",
+            "prereqs": "sowk2050 sowk2060 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "Introduces students to the basics of social work research. The course examines various research approaches, research designs relevant to social work. Translation of social work issues into researchable questions and designs will be discussed.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00, AP/SOWK and 2070 3.00.\nPrerequisites for direct entry BSW Honours majors: 30 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00.\r\nCorequisites for direct entry BSW Honours majors: AP/SOWK 3041 3.00, AP/SOWK 3060 3.00, AP/SOWK 3070 3.00 and AP/SOWK 3110 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "3110",
+            "credit": 3.0,
+            "name": "Policy Frameworks",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "The purpose of this course is to assist students in developing a critical overview of policy development in Canada by examining major concepts, developments, and political and economic trends shaping the evolution of social policy, social welfare institutions and social work in Canada. The impacts on human needs and structural inequalities are assessed and current welfare state dilemmas are explored\n\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00 Prerequisites for direct entry BSW Honours majors: 30 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00 Corequisites for direct entry BSW Honours majors: AP/SOWK 3041 3.00, AP/SOWK 3060 3.00 and AP/SOWK 3070 3.00. \n"
+        },
+        {
+            "dept": "sowk",
+            "code": "3570",
+            "credit": 3.0,
+            "name": "Social Work Practice, Racism, and Whiteness",
+            "prereqs": "sowk2050 sowk2060 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "Examines the ways that everyday social work practices reflect and reproduce racism and whiteness. The course places particular emphasis on critical self-reflection.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00, AP/SOWK and 2070 3.00. \r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00 "
+        },
+        {
+            "dept": "sowk",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Practicum in Social Work I ",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk3041 sowk3060 sowk3070 sowk3110",
+            "desc": "Students integrate theory with practice by completing a 700 hour placement at an agency setting supervised by an experienced and qualified Field Instructor. The placement is intended to prepare students to function as professional social workers upon graduation. Students will be assigned a Faculty Advisor and are expected to attend Integrative Seminars delivered by their Faculty Advisor. \r\nNote 1: The School of Social Work assumes responsibility for locating placements and contracting with the setting to provide a suitable learning experience. Note 2: Students will be given permission to enrol in AP/SOWK 4000 6.00 by the Field Office. Note 3: Post-Degree BSW Honours majors normally complete the practicum requirement by spending two to five days per week in their field placement. Direct Entry BSW Honours majors are expected to spend three days per week in the field. Note 4: While the student's performance is evaluated jointly by the Field Instructor and Faculty Advisor, the School of Social Work determines whether the student has met the requirements which determine a passing grade. Note 5: Open only to students in the Direct Entry BSW Honours and Post-Degree BSW Honours programs. \r\nPrerequisites for Post-Degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00., AP/SOWK 3041 3.00, AP/SOWK 3060 6.00, AP/SOWK 3070 3.00 and AP/SOWK 3110 3.00. \r\nPrerequisite or Corequisite for Post-Degree BSW Honours majors: AP/SOWK 4001 6.00, AP/SOWK 4020 3.00. \r\nPrerequisites for Direct Entry BSW Honours majors: 57 credits in non-SOWK courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00., AP/SOWK 3041 3.00, AP/SOWK 3060 6.00, AP/SOWK 3070 3.00, AP/SOWK 3110 3.00, and AP/SOWK 4020 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "4001",
+            "credit": 6.0,
+            "name": "Practicum in Social Work II",
+            "prereqs": "",
+            "desc": "Students continue their 700 hours placement with increased responsibilities and expectations. Students continue to attend integrative seminars with their Faculty Advisor at the School. Students are required to complete a practice-based reflective paper as a part of this course. At the end of the placement, students must be able to function as an entry-level social worker. \r\nNote 1: AP/SOWK 4001 6.00 Practicum II is a continuation of the AP/SOWK 4000 6.00 Practicum I setting (see Note 1, AP/SOWK 4000 6.00). Note 2: Students will be given permission to enrol in AP/SOWK 4001 6.00 by the Field Office. Note 3: Post-Degree BSW Honours majors normally complete the practicum requirement by spending two to five days per week in their field placement. Direct Entry BSW Honours majors are expected to spend three days per week in the field. Note 4: While the student's performance is evaluated jointly by the Field Instructor and Faculty Advisor, the School of Social Work determines whether the student has met the requirements which determine a passing grade. Note 5: Open only to students in the Direct Entry BSW Honours and Post-Degree BSW Honours programs. \r\nPrerequisites for Post-Degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00, and AP/SOWK 2070 3.00. AP/SOWK 3041 3.00, AP/SOWK 3060 6.00, AP/SOWK 3070 3.00 and AP/SOWK 3110 3.00. Pre or Corequisite for Post-Degree BSW Honours majors: AP/SOWK 4000 6.00, AP/SOWK 4020 3.00. \r\nPrerequisites for Direct Entry BSW Honours majors: 57 credits in non-SOWK courses; AP/SOWK 1011 6.0, AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00 AP/SOWK 3041 3.00, AP/SOWK 3060 6.00, AP/SOWK 3070 3.00, AP/SOWK 3110 3.00, AP/SOWK 4000 6.00 and AP/SOWK 4020 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "4020",
+            "credit": 3.0,
+            "name": "Issues in the Study of the Welfare State: Power, Organization and Bureaucracy",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk3041 sowk3060 sowk3070 sowk3110 sowk1011 sowk2050 sowk2060 sowk2070 sowk3041 sowk3060 sowk3070 sowk3110",
+            "desc": "Studies the organizational structures of agencies in the public and voluntary sector. Issues of social control, managerial structures, processes and administrative practices are examined against the background of people's location within class, gender and race differentiated groups. \r\nNote: Open only to students in the direct entry BSW Honours and post-degree BSW Honours programs.\r\n\r\nPrerequisites for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00, AP/SOWK 3041 3.00, AP/SOWK 3060 6.00, AP/SOWK 3070 3.00 and AP/SOWK 3110 3.00. \r\nPrerequisites for direct entry BSW Honours majors: 57 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and  AP/SOWK 2070 3.00, AP/SOWK 3041 3.00, AP/SOWK 3060 6.00, AP/SOWK 3070 3.00 and AP/SOWK 3110 3.00. \r\nCorequisite for direct entry BSW Honours majors: AP/SOWK 4000 6.00\r\n"
+        },
+        {
+            "dept": "sowk",
+            "code": "4130",
+            "credit": 3.0,
+            "name": "Social Work with Immigrants and Refugees",
+            "prereqs": "sowk2050 sowk2060 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "This course analyzes Canadian immigration policy and demographics, explores experiences of refugees and immigrants and exposes students to practice skills and knowledge required for work with these populations.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00, AP/SOWK and 2070 3.00. \r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "4150",
+            "credit": 3.0,
+            "name": "Violence in Families",
+            "prereqs": "sowk2050 sowk2060 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "Integrates theoretical and practical perspectives on violence in the family. A primary focus is working with survivors of violence. Emphasis is given to interventions with women and children.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00, AP/SOWK and 2070 3.00. \r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00. "
+        },
+        {
+            "dept": "sowk",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Directed Readings/Special Studies",
+            "prereqs": "sowk2050 sowk2060 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "Students will do supervised study in a selected area. Those wishing to enrol should contact an Instructor willing to supervise their study, draw up a study plan and complete the directed reading contract available from the Social Work office. Students may take only three credits in a directed reading course to fulfill BSW degree requirements.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00, AP/SOWK and 2070 3.00 \r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00.\n"
+        },
+        {
+            "dept": "sowk",
+            "code": "4240",
+            "credit": 3.0,
+            "name": "Social Policy and Services Concerning Disability ",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "From a policy and a social work practice perspective, this course will examine the social services provisions for individuals with developmental disabilities. The emphasis may vary year to year from physical to developmental disabilities.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00. \r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00.\r\nNote: Only under extenuating circumstances may BSW students receive permission by the Undergraduate Program Director to take 4000-level electives simultaneously with second- and third-year social work core courses. All student requests for these permissions must be directed to the School of Social Work Undergraduate Program office."
+        },
+        {
+            "dept": "sowk",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Sexual Diversity in Contemporary Social Work Practice ",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "Explores issues of sexual diversity within a socio-historical and socio-political context applicable to direct social work practice. Examines practice issues working with sexual minorities particularly gay, lesbian and bisexual persons.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00 \r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "4270",
+            "credit": 3.0,
+            "name": "Indigenous Peoples and Canadian Social Welfare Policy: Reflecting on Relationship",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "An introductory background to the historical and contemporary factors which directly influence the context of social welfare and social work practice in First Nations' communities in Canada, with a special emphasis on those in Ontario.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00.\r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "4380",
+            "credit": 3.0,
+            "name": "Child Welfare Policy and Services",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "This integrated policy and practice course will examine the legislation and programs bearing on the provision for children. Social work methods, skills and techniques in working with children will be emphasize \r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00 Prerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00.\r\n\r\nPRIOR TO FALL 2017: Prerequisite or corequisite for post-degree BSW Honours majors: AK/SOWK 2030 6.00. Prerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AK/SOWK 1010 6.00, AK/SOWK 2030 6.00 and AK/SOWK 2050 6.00. Course credit exclusion: AK/SOWK 4380 3.00.\r\n\r\n"
+        },
+        {
+            "dept": "sowk",
+            "code": "4450",
+            "credit": 3.0,
+            "name": "International Social Work",
+            "prereqs": "",
+            "desc": "Examines the context of international social work from an anti-imperialist perspective and provides an understanding of issues for practice. \r\nPrerequisite or corequisite for post-degree BSW Honours majors: AP/SOWK 2030 6.00.\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00 \r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00.\r\n"
+        },
+        {
+            "dept": "sowk",
+            "code": "4460",
+            "credit": 3.0,
+            "name": "Addictions",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "Examines and critically analyze the current issues related to policy, treatment and research in the field of alcohol and drug dependence. While the course will consider multidisciplinary approaches to the problem of chemical dependence, it will emphasize the social worker's role within a range of hospital and agency settings.\r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00.\r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "4470",
+            "credit": 3.0,
+            "name": "Family Mediation",
+            "prereqs": "sowk2050 sowk2060 sowk2070 sowk1011 sowk2050 sowk2060 sowk2070",
+            "desc": "Integrate(s) the conceptual framework and skills that guide mediation and conflict resolution with theories of the Family and practice intervention. \r\n\r\nPrerequisite for post-degree BSW Honours majors: AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00. \r\nPrerequisites for direct entry BSW Honours majors: 42 credits in non-social work courses; AP/SOWK 1011 6.00, AP/SOWK 2050 6.00, AP/SOWK 2060 3.00 and AP/SOWK 2070 3.00. \r\nNote: Credit for AP/SOWK 4470 3.00 is given in the Dispute Resolution Certificate. \r\nOpen to: Students in the BSW program. "
+        },
+        {
+            "dept": "sowk",
+            "code": "5010",
+            "credit": 3.0,
+            "name": "Introduction to Social Work Theories and Critical Practice Skills Part I",
+            "prereqs": "",
+            "desc": "Part I introduces students to social work theories and practice skills from a critical perspective, on theories/models used in direct practice. Utilizing classroom/lab settings, students critically examine personal conceptions of social work and their professional role/identity."
+        },
+        {
+            "dept": "sowk",
+            "code": "5011",
+            "credit": 3.0,
+            "name": "Introduction to Social Work Theories and Critical Practice Skills Part II",
+            "prereqs": "sowk5010",
+            "desc": "This course furthers students\u0092 engagement with social work theories and practice skills from a critical perspective in the areas of advocacy, community development and policy. Students develop critical understandings of the interconnections between micro, mezzo and macro levels of social work. Prerequisite: GS/SOWK 5010 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "History of Social Welfare and Social Work from Critical Perspectives",
+            "prereqs": "",
+            "desc": "Course participants engage in a critical/reflective study of the history of social welfare and social work. The course examines social work values and responses to populations in the context of the changing social, political, economic and moral climates that have shaped social work practice at different historical junctures."
+        },
+        {
+            "dept": "sowk",
+            "code": "5030",
+            "credit": 3.0,
+            "name": "Oppression and Intersectionality",
+            "prereqs": "",
+            "desc": "Examines the interlocking nature of oppression, including colonial and state oppression of Aboriginal people. Questions of identity, subjectivity, and representation will be examined to move toward understanding practices of resistance and transformation."
+        },
+        {
+            "dept": "sowk",
+            "code": "5040",
+            "credit": 3.0,
+            "name": "Social Welfare and Social Policy",
+            "prereqs": "",
+            "desc": "Students will gain a critical understanding of Canadian social policy and social welfare as shaped by economic, social, political, and globalization forces.  Students will understand the social policy impact on social work practice and develop policy analysis and advocacy skills."
+        },
+        {
+            "dept": "sowk",
+            "code": "5050",
+            "credit": 3.0,
+            "name": "Understanding Organizations for Social Work Practice",
+            "prereqs": "",
+            "desc": "A foundation is provided in the organizational structures of governmental, non-government and community agencies serving vulnerable populations. Students will understand organizational, managerial structures as well as the exercise of power and control and develop skills to effect change."
+        },
+        {
+            "dept": "sowk",
+            "code": "5150",
+            "credit": 3.0,
+            "name": "Critical Perspectives in Social Work",
+            "prereqs": "sowk5010 sowk5011 sowk5030 sowk5040 sowk5050 sowk5020",
+            "desc": "The meaning and practice of contemporary social work are explored through attention to changing knowledge paradigms and shifting values. The relationship of social work to power is examined as the basis for practice from a social justice perspective. Prerequisites: GS/SOWK 5010 3.00, GS/SOWK 5011 3.00, GS/SOWK 5030 3.00, GS/SOWK 5040 3.00, GS/SOWK 5050 3.00, GS/SOWK 5020 3.00; or a BSW."
+        },
+        {
+            "dept": "sowk",
+            "code": "5250",
+            "credit": 3.0,
+            "name": "Graduate Research Seminar",
+            "prereqs": "",
+            "desc": "Perspectives on Social Work research are developed, and issues in the formulation, design and analysis of research are presented.\r\nStudents are expected to present their work in progress on the Practice Research projects. Prerequisites: Social Work 5010 3.0, Social Work 5011 3.0, Social Work 5030 3.0, or a BSW"
+        },
+        {
+            "dept": "sowk",
+            "code": "5310",
+            "credit": 6.0,
+            "name": "Practicum",
+            "prereqs": "",
+            "desc": "Students engage in research or professional training within an approved agency setting, providing the opportunity to apply critical social work concepts, theories and intervention approaches to practice situation. This practicum will run 550 hours.\r\nPrerequisites: Social Work 5010 3.0, 5020 3.0, 5030 3.0, 5040 3.0.\r\nCorequisites: Social Work 5011 3.0, 5050 3.0."
+        },
+        {
+            "dept": "sowk",
+            "code": "5350",
+            "credit": 6.0,
+            "name": "Advanced Practicum",
+            "prereqs": "",
+            "desc": "Students engage in research or professional training within an approved agency setting, providing the opportunity to apply concepts, theories, and intervention approaches to practice situations.\r\nPrerequisite: Social Work 5310 6.00 or a BSW\r\nPrerequisite/Corequisite: Social Work 5150 3.0"
+        },
+        {
+            "dept": "sowk",
+            "code": "5450",
+            "credit": 3.0,
+            "name": "Practice Research Paper Seminar",
+            "prereqs": "",
+            "desc": "This course is offered in a small group format in order to support reflective learning from students' practice and to facilitate the planning of the Practice-based Research Paper. This course is designed to stimulate critical and analytic reflection on practice in order to integrate academic and practical learning which will become the basis for individual independent research for the Practice-based Research paper. Students are expected to develop the capacity to integrate theory and practice through discussion of their independent research project in social work. The seminar will assist the development of a proposal for their Practice-based Research and analyses of the data. \r\nPrerequisite: Social Work 5010 3.0, Social Work 5011 3.0, Social Work 5030 3.0, or a BSW; and Social Work 5250 3.0"
+        },
+        {
+            "dept": "sowk",
+            "code": "5550",
+            "credit": 3.0,
+            "name": "Indigenous Worldviews and Implications to Social Work",
+            "prereqs": "",
+            "desc": "This course blends academic learning with the use of storytelling to provide students with a critical understanding of the historical and current implications of colonial structures on the lives of Indigenous People to Turtle Island. It will at the same time provide students with foundational knowledge on how to engage in critical, self-reflexive practice based on holistic understandings of Indigenous social work theory. "
+        },
+        {
+            "dept": "sowk",
+            "code": "5907",
+            "credit": 3.0,
+            "name": "Mindfulness and Just Relations in Social Work",
+            "prereqs": "",
+            "desc": "This course introduces students to mindfulness as a political act and embodied ethics in social justice and critical social work. Students learn mindfulness practice through experiential exercises, observe and investigate their embodied awareness of internal and external phenomena and social realities, and engage in practical application of mindfulness in critical social work practice."
+        },
+        {
+            "dept": "sowk",
+            "code": "5912",
+            "credit": 3.0,
+            "name": "Transformative Approaches in Mental Health",
+            "prereqs": "",
+            "desc": "This course explores issues related to the psychiatric and mental health system from critical perspectives. Students are introduced to dominant policy, legislative and practice discourses on &quot;mental health&quot; and &quot;mental illness&quot; and their critiques. Counter-discourses and approaches to dominant 'psy' discourses, systems, and practices on &quot;mental distress&quot; are captured through an exploration of community mobilization and community-based advocacy and support networks."
+        },
+        {
+            "dept": "sowk",
+            "code": "5932",
+            "credit": 3.0,
+            "name": "Studies in Social Policy",
+            "prereqs": "",
+            "desc": "Using contemporary issues as a base, this course examines approaches to understanding the context, formation and implications of social policies. The differential impacts of social policies are assessed, and the interrelationship between policies, services and practice is emphasized."
+        },
+        {
+            "dept": "sowk",
+            "code": "5933",
+            "credit": 3.0,
+            "name": "Social Exclusion: The Idea, Social Realities, and Responses",
+            "prereqs": "",
+            "desc": "This course contributes a unique approach to the critical study of social work practice through an applied social policy concept.  It will examine relationships between the popular notion of social exclusion and taken-for-granted assumptions of difference, and consequential social processes and outcomes. "
+        },
+        {
+            "dept": "sowk",
+            "code": "5942",
+            "credit": 3.0,
+            "name": "Critical Perspectives in Child Welfare",
+            "prereqs": "",
+            "desc": "Explores current debates in child welfare, including parents vs. children's rights, justice vs. welfare, legal vs.. professional mandates. Students are encouraged to critically examine the social context of debates, and develop a critique of practice based on this analysis. Prerequisite or corequisite: GS/SOWK 5150 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "5970",
+            "credit": 3.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "Individual students or small groups will read under supervision in one or two selected areas. Students wishing to enrol are to contact the Director of the Graduate Program in Social Work for approval.\n"
+        },
+        {
+            "dept": "sowk",
+            "code": "5981",
+            "credit": 3.0,
+            "name": "Critical Social Work and Animals: Trans-Species Social Justice",
+            "prereqs": "",
+            "desc": "This course expands the focus of social justice, thus social work, beyond anthropocentricism. It helps students understand the significance of human- animal relations in social work and analyse and reflect on policies and social work practice considering such relationships. Students are challenged to examine social justice and oppression beyond human-animal boundaries by familiarizing themselves with relevant critical theories."
+        },
+        {
+            "dept": "sowk",
+            "code": "5983",
+            "credit": 3.0,
+            "name": "Narrative Therapy and Critical Social Work",
+            "prereqs": "",
+            "desc": "This course explores the possibilities and limits of using Narrative therapy as a critical social work practice. Students explore through experiential learning how narrative ideas may lend themselves to addressing social justice in every day practice with individuals, groups and larger communities. Prerequisite or corequisite: GS/SOWK 5150 3.00."
+        },
+        {
+            "dept": "sowk",
+            "code": "6112",
+            "credit": 6.0,
+            "name": "Quantitative Analysis",
+            "prereqs": "",
+            "desc": "The course focuses on the use of regression models to analyze surveys and other social data. Assuming no prior background, it covers the statistical basics, model building strategies, model assumptions and the interpretation of results."
+        },
+        {
+            "dept": "sowk",
+            "code": "7000",
+            "credit": 3.0,
+            "name": "Social Justice within a Social Work Context",
+            "prereqs": "",
+            "desc": "This course explores social justice in the context of social work by examining the relations between redistribution and recognition. The impact on social work perspectives of theories of social justice that analytically integrate material relations and identity politics is considered."
+        },
+        {
+            "dept": "sowk",
+            "code": "7010",
+            "credit": 3.0,
+            "name": "Epistemology",
+            "prereqs": "",
+            "desc": "Offers critical perspectives on the knowledge bases that inform and challenge social work today. Foundational philosophical approaches from the era of the Enlightenment to today, and various critical responses are covered, and their implications for social work considered."
+        },
+        {
+            "dept": "sowk",
+            "code": "7020",
+            "credit": 3.0,
+            "name": "Seminar on Research Design and Methodology",
+            "prereqs": "",
+            "desc": "Examines a wide range of research designs and methodologies which are appropriate for answering social work questions. Both quantitative and qualitative designs will be examined. Emphasis will be placed on examining research questions relevant to social work and selecting appropriate methods for answering these questions."
+        },
+        {
+            "dept": "sowk",
+            "code": "7030",
+            "credit": 3.0,
+            "name": "Quantitative and Qualitative Data Analysis",
+            "prereqs": "",
+            "desc": "This course is designed to develop and enhance students\u0092 skills in the analysis and interpretation of both quantitative and qualitative data.  Emphasis will be placed on issues and techniques of data analysis and interpretation."
+        },
+        {
+            "dept": "sowk",
+            "code": "7040",
+            "credit": 3.0,
+            "name": "Doctoral Seminar",
+            "prereqs": "",
+            "desc": "The course is a required seminar designed to support doctoral students in developing a dissertation proposal.  It is open to students who have completed their required core courses and electives."
+        }
+    ]
+}

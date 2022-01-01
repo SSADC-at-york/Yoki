@@ -1,0 +1,148 @@
+{
+    "courses": [
+        {
+            "dept": "entr",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Business Essentials for Technology Entrepreneurs I",
+            "prereqs": "",
+            "desc": "This course has three modules: Organizational Behavior develops skills/knowledge of leadership, teamwork, negotiations and motivation. Marketing presents marketing strategy fundamentals. Operations Management reviews business processes to maximize supply under resource constraints.\r\nPrerequisite: completion of 30 engineering credits.\r\nNote: Open to students in the Lassonde School of Engineering or by permission of the Instructor and Lassonde Student Services."
+        },
+        {
+            "dept": "entr",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Business Essentials for Technology Entrepreneurs II",
+            "prereqs": "",
+            "desc": "This course has three modules: Accounting presents financial accounting fundamentals for business planning; Finance presents finance fundamentals to enable fund raising and resource allocation decisions; Strategy explores competitive analysis and strategic planning.\r\nPrerequisite: completion of 30 engineering credits.\r\nNote: Open to students in the Lassonde School of Engineering or by permission of the Instructor and Lassonde Student Services.\r\n\r\nFormer prerequisite: completion of 60 credits in the major."
+        },
+        {
+            "dept": "entr",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Field Study: Innovating with Entrepreneurs, Unlocking New Venture Potential",
+            "prereqs": "",
+            "desc": "Provides students with firsthand experience of the opportunities and challenges growing organizations face. Student groups are paired with an entrepreneurial firm to research an opportunity or project for the firm. Limited classes emphasize consulting, market research and presentation skills.\r\nPrerequisites: Completion of all year 1 and year 2 core courses."
+        },
+        {
+            "dept": "entr",
+            "code": "4500",
+            "credit": 3.0,
+            "name": "Entrepreneurship and Technology Ventures",
+            "prereqs": "",
+            "desc": "This course brings forward the challenges and opportunities facing an entrepreneur creating a technology start-up. Students turn an idea into an enterprise by focusing on what customers want. \r\nNote: open to Years 3 and 4 BBA/iBBA students, students who have completed 60.00 engineering credits in Lassonde School of Engineering, or students with instructor permission.\r\nCourse Credit Exclusion: SB/ENTR 4600 3.00."
+        },
+        {
+            "dept": "entr",
+            "code": "4600",
+            "credit": 3.0,
+            "name": "Entrepreneurship and New Venture Creation",
+            "prereqs": "",
+            "desc": "Explores the many dimensions of new venture creation and growth and fosters innovation and new business formations. The focus will be on content and process questions as well as on formulation and implementation issues that relate to conceptualizing, developing and managing successful new ventures.\r\nNote: open to fourth-year BBA and iBBA students only.\r\nCourse Credit Exclusion: SB/ENTR 4500 3.00.\n"
+        },
+        {
+            "dept": "entr",
+            "code": "4700",
+            "credit": 3.0,
+            "name": "Financing Growing Ventures",
+            "prereqs": "",
+            "desc": "Engages a range of topics central to the private equity world including the challenges of fundraising, the perspectives of institutional investors, evaluating investment opportunities, structuring deals, monitoring investments and exiting investments."
+        },
+        {
+            "dept": "entr",
+            "code": "4800",
+            "credit": 3.0,
+            "name": "Social Entrepreneurship",
+            "prereqs": "",
+            "desc": "This course is for students interested in the phenomenon of social entrepreneurship. Using a combination of assigned readings, videos, guest speakers, and extensive interaction with real-world social entrepreneurs, students will gain a broad understanding of business models within the field, as well as the challenges and decisions social entrepreneurs face during start-up and on an on-going basis."
+        },
+        {
+            "dept": "entr",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study: Entrepreneurial Studies-Selected Problems in Entrepreneurial Studies",
+            "prereqs": "",
+            "desc": "Guided Study: Entrepreneurial Studies-Selected Problems in Entrepreneurial Studies"
+        },
+        {
+            "dept": "entr",
+            "code": "4950",
+            "credit": 3.0,
+            "name": "Managing the Family Enterprise",
+            "prereqs": "",
+            "desc": "Family businesses comprise three interacting systems: the business, the family and the ownership systems. This course helps students understand how these systems must be managed through the development stages of a family enterprise. The course pays particular attention to issues of conflict management, succession and governance.  It prepares students to advise family business and to understand how advising can help firms avoid pitfalls and reap benefits common to family enterprises."
+        },
+        {
+            "dept": "entr",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Field Study: Innovating with Entrepreneurs, Unlocking New Venture Potential",
+            "prereqs": "",
+            "desc": "Provides students with firsthand experience of the opportunities and challenges growing organizations face. Student groups are paired with an entrepreneurial firm to research an opportunity or project for the firm. Students\u0092 firsthand experience will be supported by four scheduled classes emphasizing consulting, market research and presentation skills.\r\nPrerequisites: All 5000-series Required Foundations of Management Core Courses. Those admitted must supply the instructor with a current r\u00e9sum\u00e9 so that the instructor can effectively assign students to projects."
+        },
+        {
+            "dept": "entr",
+            "code": "6605",
+            "credit": 3.0,
+            "name": "Entrepreneurship and New Firm Creation",
+            "prereqs": "",
+            "desc": "Explores various dimensions of the creation of new ventures, including family enterprises. It is concerned with content and process questions as well as with formulation and implementation issues that relate to conceptualizing, developing and managing successful new ventures. The course examines the nature of entrepreneurs and what they do. It identifies the nature of opportunities and considers how new venture ideas can successfully be screened. The course provides the opportunity to develop a cohesive and affective business plan for a start-up venture.\r\nPrerequisites: All 5100-series Required Foundations of Management Core Courses."
+        },
+        {
+            "dept": "entr",
+            "code": "6610",
+            "credit": 3.0,
+            "name": "Startup Marketing",
+            "prereqs": "",
+            "desc": "Entrepreneurs are not truly in business until they make their first sale and have a paying customer. This course develops a managerial and socio-cultural perspective on startup marketing to understanding how the interplay between cultural meaning systems, marketplace structures, and consumer behaviour can be strategically leveraged and influenced through specific marketing strategies to successfully bring a new product to market."
+        },
+        {
+            "dept": "entr",
+            "code": "6655",
+            "credit": 3.0,
+            "name": "Social Entrepreneurship",
+            "prereqs": "",
+            "desc": "This course is for students interested in the phenomenon of social entrepreneurship. Using a combination of assigned readings, videos, guest speakers, and extensive interaction with real-world social entrepreneurs, students will gain a broad understanding of business models within the field, as well as the challenges and decisions social entrepreneurs face during start-up and on an ongoing basis.\r\nPrerequisites: All 5100-series Required Foundations of Management Core Courses. "
+        },
+        {
+            "dept": "entr",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Entrepreneurial Studies",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "entr",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Entrepreneurial Studies",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "entr",
+            "code": "6901",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Entrepreneurial Studies",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "entr",
+            "code": "6910",
+            "credit": 3.0,
+            "name": "Venture Capital &amp; Private Equity",
+            "prereqs": "",
+            "desc": "This course is primarily geared to students interested in working in venture capital or other private equity organizations at some point in their careers. It is also valuable for those who intend to work alongside venture capitalists as managers of firms being financed by such investors and for students interested in applying aspects of private equity investing to established organizations. The course is divided into four modules focusing on the venture capital cycle including fundraising, investing, and exiting. In the final module the course explores new frontiers in venture capital including corporate venturing. Throughout the course we touch on career issues with respect to private equity. \r\nPrerequisite: all 5000-series Required Foundations of Management Core Courses."
+        },
+        {
+            "dept": "entr",
+            "code": "6960",
+            "credit": 6.0,
+            "name": "Mentorship Match: Learning to Innovate with Venture Leaders",
+            "prereqs": "",
+            "desc": "This experiential learning course offers the opportunity for MBA/IMBA students to accelerate their understanding of entrepreneurship and earn credit for gaining relevant work experience \u0096 under the direct on-site mentorship and guidance of a handpicked Innovation Sector\r\nFounder or Venture Investment Leader."
+        }
+    ]
+}

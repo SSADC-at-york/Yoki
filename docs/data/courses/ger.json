@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "ger",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary German",
+            "prereqs": "",
+            "desc": "In this course students acquire basic functional competence in oral and written German. This course also introduces students to aspects of contemporary German culture. No previous knowledge of German is assumed."
+        },
+        {
+            "dept": "ger",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Berlin: History, Memory and the Contemporary City",
+            "prereqs": "",
+            "desc": "This course examines the city of Berlin from its emergence as a major metropolis in the early 20th century to the present. \n\nCourse credit exclusion: AP/GER 4600 3.00."
+        },
+        {
+            "dept": "ger",
+            "code": "3793",
+            "credit": 3.0,
+            "name": "Screening the Past: Rewriting German History in Film",
+            "prereqs": "",
+            "desc": "The course investigates the relation between German cinema and history. It examines reconstructions of history in twentieth- and twenty-first century films from Germany and German cinema's contribution to the shaping of national and collective identities. \nNote: Language of instruction: English, all readings in English, however, students enrolling through German, are required to complete most readings in German and write some assignments in German. Note: For students enrolling through Humanities there is no prerequisite; knowledge of German is not required. Note: Students are expected to view the films in their own time in the library (SMIL) in preparation for class discussion.\n"
+        },
+        {
+            "dept": "ger",
+            "code": "3989",
+            "credit": 6.0,
+            "name": "Germany and the Global Imaginary    ",
+            "prereqs": "",
+            "desc": "Investigates the international cultural, artistic, intellectual, and social links that have informed German self-definition and the German imagination of spaces and peoples beyond the German-speaking world. Considers how this international exchange has influenced cultural production in a variety of media, such as literature, film, visual arts, music, architecture and theatre."
+        },
+        {
+            "dept": "ger",
+            "code": "4600",
+            "credit": 3.0,
+            "name": "Berlin: History, Memory and the Contemporary City",
+            "prereqs": "",
+            "desc": "This course examines the city of Berlin from its emergence as a major metropolis in the early 20th century to the present. \n\nCourse credit exclusions: AP/GER 3600 3.00, AP/HUMA 3600 3.00."
+        }
+    ]
+}

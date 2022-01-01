@@ -1,0 +1,116 @@
+{
+    "courses": [
+        {
+            "dept": "msmg",
+            "code": "6010",
+            "credit": 3.0,
+            "name": "Quantitative Methods for Business and Management Research",
+            "prereqs": "",
+            "desc": "This course prepares our students with the core knowledge and skills for designing quantitative, academic and applied, research in business and management, including understanding of data analysis and applications of statistical concepts and methods."
+        },
+        {
+            "dept": "msmg",
+            "code": "6020",
+            "credit": 3.0,
+            "name": "Research Design and Qualitative Methods",
+            "prereqs": "",
+            "desc": "Students gain an understanding of the fundamentals of research design including consideration of the trade-offs among various strategies. Students develop their critical skills in evaluating the quality of qualitative research and appreciating the role of the reader in interpreting, translating and applying qualitative research."
+        },
+        {
+            "dept": "msmg",
+            "code": "6120",
+            "credit": 3.0,
+            "name": "A primer on Analytics for the Broad Accounting Function",
+            "prereqs": "",
+            "desc": "Students gain an understanding of the fundamentals of analytics as they are used and applied to the broad accounting and finance function of organizations. Students work with visualization software to develop their critical criteria on how data is most effectively presented."
+        },
+        {
+            "dept": "msmg",
+            "code": "6150",
+            "credit": 3.0,
+            "name": "Data Analytics for Internal &amp; Performance Auditing",
+            "prereqs": "",
+            "desc": "The course focus is on the role of the professional internal or government auditor performing a variety of assurance engagements in a &quot;big data&quot; universe. The types of engagements explored in the course include: performance audits, compliance audits, operational audits, fraud, and IT systems audits. The objective of the course is to develop the technical knowledge with an emphasis of use of data tools and data analysis and practical knowledge necessary to be a competent professional auditor."
+        },
+        {
+            "dept": "msmg",
+            "code": "6160",
+            "credit": 3.0,
+            "name": "Accounting Theory and Conceptual Framework Applied Research",
+            "prereqs": "",
+            "desc": "This course provides a basis for the theoretical analysis of many fundamental problems and contemporary issues in the area of financial accounting and reporting. The readings, research paper assignments/presentations, and a term project that requires the submission of an empirical research proposal provide an appreciation for the development of theories and empirical research in the area of financial accounting and reporting.\nA statistics course that covers multiple regression techniques should be a prerequisite to this course."
+        },
+        {
+            "dept": "msmg",
+            "code": "6170",
+            "credit": 3.0,
+            "name": "Business Intelligence for Performance Management",
+            "prereqs": "",
+            "desc": "Students gain an understanding of the fundamentals of performance management including consideration of the trade-offs between planning and control. Students will develop their critical skills in evaluating the usage of business intelligence systems linked to enterprise data warehousing when designing mechanisms to manage performance."
+        },
+        {
+            "dept": "msmg",
+            "code": "6410",
+            "credit": 3.0,
+            "name": "Marketing Analytics",
+            "prereqs": "",
+            "desc": "This course examines how marketing analytics transforms research information into strategic insights and how those insights are leveraged to inform marketing decision-making."
+        },
+        {
+            "dept": "msmg",
+            "code": "6450",
+            "credit": 3.0,
+            "name": "Marketing Management and Metrics",
+            "prereqs": "",
+            "desc": "The course reviews major categories of marketing decisions and examines some common marketing metrics. Methods for metrics collection, tools for their analysis, and their impact on marketing decisions are discussed."
+        },
+        {
+            "dept": "msmg",
+            "code": "6460",
+            "credit": 3.0,
+            "name": "Seminar in Consumer Research",
+            "prereqs": "",
+            "desc": "This course is devoted to the theories, methodologies, and implications of consumer research. Students learn how theories and research methods can be used to study consumer phenomena and provide novel consumer insights."
+        },
+        {
+            "dept": "msmg",
+            "code": "6470",
+            "credit": 3.0,
+            "name": "Special Topics in Marketing",
+            "prereqs": "",
+            "desc": "This course is designed to provide exposure to specific areas of research in Marketing as a way of stimulating both an understanding of and critical thinking about those topics. The area of concentration depends on the instructor."
+        },
+        {
+            "dept": "msmg",
+            "code": "6510",
+            "credit": 3.0,
+            "name": "Analytics for Supply Chain Management",
+            "prereqs": "",
+            "desc": "Supply chain analytics renders supply chains with advanced capabilities like trend analysis, drilldown views, forecasts, what-if analysis, simulation, and optimization capabilities. This course covers fundamental concepts, processes, and tools to help better manage and improve organizations' supply chains and key process areas."
+        },
+        {
+            "dept": "msmg",
+            "code": "6550",
+            "credit": 3.0,
+            "name": "Fundamentals of Supply Chain Management",
+            "prereqs": "",
+            "desc": "Provides an in-depth study of the theory and practice of the SCM functions in the manufacturing and service industries and facilitates an understanding of the strategic concepts and tools necessary for meeting the challenges of 21st century supply chain management."
+        },
+        {
+            "dept": "msmg",
+            "code": "6560",
+            "credit": 3.0,
+            "name": "Supply Chain Risk Management",
+            "prereqs": "",
+            "desc": "This course explores risks which would impede supply chain operations and managements in private sectors. This course also explores the potential applicability of concepts in private sector logistics to logistics of nonprofit sectors under disaster and emergencies. The course focusses on developing quantitative and qualitative models in supply chain risk management."
+        },
+        {
+            "dept": "msmg",
+            "code": "6570",
+            "credit": 3.0,
+            "name": "Reverse Logistics &amp; Closed-Loop Supply Chains",
+            "prereqs": "msmg6550 msmg6510",
+            "desc": "This course explores reverse logistics/closed-loop supply chains with the goal of helping academics and professionals develop knowledge and expertise in this area. Reverse logistics refers to all managerial operations related to reuse or recycle of products, components or materials. Closed- loop supply chains stand for all operations of dealing with items that are no longer desired or can no longer be used by their users. PREREQUISITES: GS/MSMG6550 3.0 Fundamentals of SCM, GS/MSMG6510 3.00 Analytics for Supply Chain Management."
+        }
+    ]
+}

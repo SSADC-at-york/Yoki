@@ -1,0 +1,980 @@
+{
+    "courses": [
+        {
+            "dept": "soci",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Skills for Success in Sociology",
+            "prereqs": "",
+            "desc": "This course develops generic skills for student success in sociology. It is designed to ensure students understand university academic skills and expectations in the discipline. It uses a framework emphasizing: critical thinking and the development of approaches used by sociologists when writing, evaluating arguments, doing research, weighing evidence; text assessments that highlight the nature of the sociological imagination and critical literacies."
+        },
+        {
+            "dept": "soci",
+            "code": "1010",
+            "credit": 6.0,
+            "name": "Introduction to Sociology",
+            "prereqs": "",
+            "desc": "An introduction to basic sociological concepts and theoretical frameworks, and research methods used to understand the social structures that transcend and shape personal experience in a Canadian context by taking account power, differentiation, socialization, and social relations. Areas of discussion: family and gender; youth and aging; health and illness; race, culture and ethnicity; work and organizations; communications; law and crime. Course credit exclusion: GL/SOCI 2510 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "1020",
+            "credit": 6.0,
+            "name": "The Sociology of Pleasure and Trouble",
+            "prereqs": "",
+            "desc": "This introductory course explores how pleasure and trouble are created, interconnected and experienced in everyday life. For sociologists, pleasure and trouble are more than the outcome of individual psychology, biology, and biography; they arise from the cultural, economic and political conditions shaping social interaction, self-formation, and identity. Students encounter sociological approaches to knowledge production, meaning making, emotions, and material conditions.\n"
+        },
+        {
+            "dept": "soci",
+            "code": "1030",
+            "credit": 6.0,
+            "name": "Mediated Life: Structure and Agency in a Digital World",
+            "prereqs": "",
+            "desc": "This introductory course provides a sociological perspective for understanding life in a digital world. With a focus on structure-agency dynamics, we will explore the complex interactions between individuals, media, and society. It helps students develop skills to critically evaluate conventional wisdom and their own assumptions about the mediated life. Topics covered include technology, ideology, inequality, democracy, and globalization."
+        },
+        {
+            "dept": "soci",
+            "code": "2030",
+            "credit": 6.0,
+            "name": "Sociological Research Methods",
+            "prereqs": "",
+            "desc": "This course provides an introduction to sociological research methods. It gives an overview of both qualitative and quantitative approaches used in sociological inquiry. Students will learn key principles of research design, critical thinking and interpretation of different kinds of data, construction and administration of data collection instruments, as well as ethical considerations. The course prepares students for upper-level courses in research design and empirical methods.\n\nCourse credit exclusions: GL/CNDS 3680 3.00, GL/CNDS 3690 3.00, GL/POLS 3680 3.00, GL/POLS 3690 3.00, GL/SOCI 3680 3.00, GL/SOCI 3690 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "2040",
+            "credit": 6.0,
+            "name": "Sociological Theory",
+            "prereqs": "",
+            "desc": "An introduction to major sociological themes and theorists, in the historical context of their times and places. The courses deals with classical and contemporary trends in sociological theory. "
+        },
+        {
+            "dept": "soci",
+            "code": "2050",
+            "credit": 6.0,
+            "name": "Social Structure and Social Change",
+            "prereqs": "",
+            "desc": "This foundation course deals with comparative and historical aspects of social life, political organization and the state, and modern industrial society. Special attention is given to the analysis of class, inequality and social change."
+        },
+        {
+            "dept": "soci",
+            "code": "2060",
+            "credit": 6.0,
+            "name": "Social Interaction and Community",
+            "prereqs": "",
+            "desc": "This foundation course deals with processes of social interaction, socialization and self, and the relationship of the individual to society as exemplified in several substantive areas. Emphasis is given to understanding personal action and free will in a social context."
+        },
+        {
+            "dept": "soci",
+            "code": "2080",
+            "credit": 6.0,
+            "name": "Power and Everyday Life",
+            "prereqs": "",
+            "desc": "Power and Everyday Life introduces students to the multiple dimensions through which power permeates our everyday social worlds and shapes the organization and regulation of social life, both locally and globally. It investigates the formation of bodies, identities and selves, knowledge, social institutions, and cultural practices. Not open to: First-year students. Course credit exclusions: AP/SOCI 2070 6.00.\n"
+        },
+        {
+            "dept": "soci",
+            "code": "2510",
+            "credit": 6.0,
+            "name": "Principles of Sociology  ",
+            "prereqs": "",
+            "desc": "An introduction to the history of the discipline; concepts, theories and methods basic to sociological inquiry; social issues and social problems. Course credit exclusion: AP/SOCI 1010 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "2510",
+            "credit": 6.0,
+            "name": "Perspectives sociologiques",
+            "prereqs": "",
+            "desc": "Ce cours est consacr\u00e9 \u00e0 l'initiation aux \u00e9l\u00e9ments fondamentaux de la sociologie afin d'entrer dans la perception de la r\u00e9alit\u00e9 sociale propre \u00e0 cette discipline. Cours incompatible : AP/SOCI 1010 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "2520",
+            "credit": 6.0,
+            "name": "Deviant Behaviour and Social Control        ",
+            "prereqs": "",
+            "desc": "The meaning of the term deviance. Who is most likely to be labelled a deviant and why? Types of deviants (criminal and non-criminal). Methodological problems involved in the counting of deviants. Societal and individual reactions to deviant behaviour. Managing a deviant identity. Costs and benefits of various treatments of deviant behaviour. A critical examination of the major sociological theories in this area is also undertaken."
+        },
+        {
+            "dept": "soci",
+            "code": "2610",
+            "credit": 3.0,
+            "name": "Introduction to Statistical Methods I",
+            "prereqs": "",
+            "desc": "This course covers the elements of probability theory and standard probability distributions, the measures and techniques used in descriptive statistics, principles of sampling and tests of significance. Prerequisite: OAC or Grade 12 mathematics. Course credit exclusions: SC/MATH 1131 3.00, SC/MATH 2560 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "2620",
+            "credit": 3.0,
+            "name": "Introduction to Statistical Methods II ",
+            "prereqs": "math1610",
+            "desc": "This course covers the correlations and regression analysis, analysis of variance and parametric tests, and problem work emphasizing applications of statistics in the social sciences. Prerequisite: GL/MATH 1610 3.00 or permission of the Department. Course credit exclusion: SC/MATH 2570 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "2630",
+            "credit": 3.0,
+            "name": "Aboriginal Peoples of Canada",
+            "prereqs": "",
+            "desc": "This course covers perspectives on Inuit and Indian communities of Canada; cultural and linguistic diversity; traditional economic and social organization; religion and art; the impact of Western society; contemporary strategies for survival. "
+        },
+        {
+            "dept": "soci",
+            "code": "2652",
+            "credit": 3.0,
+            "name": "Social Movements and Contentious Politics in a Global Context",
+            "prereqs": "",
+            "desc": "This course explores the dynamics of contemporary social movements through an examination of organizations, political institutions and the dynamics of collective action at local, national and international levels in order to understand how people come together to organize for social change. Course credit exclusions: GL/SOCI 2590 3.00, GL/SOCI 2590 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "2660",
+            "credit": 6.0,
+            "name": "Perspectives on Human Nature           ",
+            "prereqs": "",
+            "desc": "A multidisciplinary study of a range of influential yet contrasting images of man or models of human nature encountered in the contemporary humanities and social sciences. Perspectives surveyed include those of such 19th- and 20th-century thinkers as Kierkegaard, Marx, Nietzsche, Freud, Heidegger, Sartre, and De Beauvoir."
+        },
+        {
+            "dept": "soci",
+            "code": "2665",
+            "credit": 3.0,
+            "name": "Education and Society",
+            "prereqs": "",
+            "desc": "A study of the relationship between education and the wider social structure. What role does education fulfill in the larger society? What are the social forces directing its development? How effective is education in discharging its institutional responsibilities?"
+        },
+        {
+            "dept": "soci",
+            "code": "2672",
+            "credit": 3.0,
+            "name": "Religion and Society",
+            "prereqs": "",
+            "desc": "This course analyzes the relationship between religion, culture and social class. It observes how religion, as a social structure, organizes communities around beliefs and rituals. It introduces students to classical sociological theories about religion; looking at empirical cases globally. PRIOR TO FALL 2014: course credit exclusion: GL/SOCI 2525 3.00. "
+        },
+        {
+            "dept": "soci",
+            "code": "2680",
+            "credit": 3.0,
+            "name": "Relations sexe/genre                   ",
+            "prereqs": "",
+            "desc": "Analyse de la signification des distinctions de genre dans la structure sociale. En particulier \u00e9tude de la socialisation et de la stratification des r\u00f4les de chaque sexe, des relations entre les genres masculin/f\u00e9minin."
+        },
+        {
+            "dept": "soci",
+            "code": "2685",
+            "credit": 3.0,
+            "name": "La Famille       ",
+            "prereqs": "",
+            "desc": "\u00c9tude de la famille en tant qu'unit\u00e9 du syst\u00e8me social et domaine d'interaction sociale. \u00c9tude, en particulier, des variations de formes familiales et de leurs relations avec les diff\u00e9rents syst\u00e8mes sociaux; \u00e9tude des changements actuels dans la vie familiale et des attitudes envers la famille, des r\u00f4les et des comportements familiaux."
+        },
+        {
+            "dept": "soci",
+            "code": "3030",
+            "credit": 3.0,
+            "name": "Social Statistics I",
+            "prereqs": "",
+            "desc": "This course introduces students to the basic concepts of statistical thinking and statistical computing that are commonly used in social science research and are increasingly relevant in policy decisions and public life. Key topics include data and variables, summary statistics, distributions, measures of association, research designs, visualization, hypothesis testing, and simple regression analysis. Students will learn how to perform simple data analysis and write up their own research.  Prerequisites: AP/SOCI 2030 6.00 or equivalent in research methods. Course credit exclusions: HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, HH/PSYC 2022 3.00, AP/POLS 3300 6.00, AP/SOCI 3031 6.00. Open to: Sociology Specialized Honours and Sociology Honours majors. "
+        },
+        {
+            "dept": "soci",
+            "code": "3030",
+            "credit": 6.0,
+            "name": "Statistics for Social Sciences",
+            "prereqs": "",
+            "desc": "Provides a basic understanding of the statistical reasoning and fundamental statistical techniques frequently used to analyze social data. It introduces students to the uses of computers and statistics in the social sciences. It helps develop necessary critical skills to evaluate empirical research. \r\nCourse credit exclusions: AP/ADMS 2320 3.00, AP/ECON 2500 3.00, AP/GEOG 2420 3.00, SC/GEOG 2420 3.00, AP/GEOG 3421 3.00, SC/GEOG 3421 3.00, GL/MATH 1610 3.00, GL/MATH 1620 3.00, GL/MODR 1610 3.00, GL/MODR 1620 3.00, GL/POLS 2610 3.00, GL/POLS 2620 3.00, GL/SOCI 2610 3.00, GL/SOCI 2620 3.00, HH/KINE 2050 3.00, HH/KINE 3150 3.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, HH/PSYC 2022 3.00, SC/BIOL 2060 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00, SC/MATH 2570 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3031",
+            "credit": 6.0,
+            "name": "Statistics for Sociology",
+            "prereqs": "",
+            "desc": "Every area of sociology has questions whose answers are inherently statistical. This course provides the concepts and skills needed to analyze social data from surveys, social experiments and administrative records. These skills will give students the ability to understand and critically assess published research. The course covers basic descriptive and inferential statistics and multiple regression.\r\n\r\nPrerequisites: AP/SOCI 203 6.00 or equivalent in research methods \r\nCourse credit exclusions: AP/ECON 2500 3.00, AP/ECON 3480 3.00, AP/POLS 3300 6.00, AP/SOCI 3030 3.00, HH/PSYC 2021 6.00, HH/PSYC 2022 3.00, AP/SOCI 3030 3.00"
+        },
+        {
+            "dept": "soci",
+            "code": "3035",
+            "credit": 6.0,
+            "name": "Research Design in Qualitative Methods",
+            "prereqs": "soci2030",
+            "desc": "This course teaches research design in qualitative sociological methods through a combination of conceptual work and empirical research. It covers a range of qualitative methods and their applicability in social and political practice. In addition to standard delivery formats, students will be expected to engage in practical exercises. The course prepares students for independent research projects at the fourth-year level. \n\nPrerequisites: AP/SOCI 2030 6.00 or equivalent in research methods. Course credit exclusion:  GL/SOCI 3680 3.00 Open to: Sociology Specialized Honours and Sociology Honours majors. \n\n"
+        },
+        {
+            "dept": "soci",
+            "code": "3040",
+            "credit": 3.0,
+            "name": "Advanced Sociological Theory",
+            "prereqs": "soci2040",
+            "desc": "Provides an in-depth study of one or more major sociological theoretical paradigms, building on the overview of sociological theory that students have gained from AP/SOCI 2040 6.00. Both classical and contemporary theories may be represented in this course, with an emphasis on the centrality of theory to the discipline of sociology. Prerequisite: AP/SOCI 2040 6.00.\nOpen to: Sociology Specialized Honours and Sociology Honours majors."
+        },
+        {
+            "dept": "soci",
+            "code": "3110",
+            "credit": 3.0,
+            "name": "Collective Behaviour",
+            "prereqs": "",
+            "desc": "This course will analyze forms of collective behaviour (crowd, mob, panic, fashion, cult) with a view to understanding their function in society. Factors conducive to the formation of such behaviour, characteristics of members, leadership and processes of social action will be considered."
+        },
+        {
+            "dept": "soci",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "Coming of Age in a Risk Society: Sociology of Childhood, Adolescence and Youth",
+            "prereqs": "soci2510",
+            "desc": "The course focuses on the social world of children and youth in modern society. Historical and anthropological readings will be introduced to sharpen awareness of the distinct character of the contemporary passage to adulthood. Against this comparative background we will, then, analyze how modern developments in family life, economy, education, mass media and cultural beliefs have affected the growing-up process. We shall explore the ramifications of these changes and trace the varied responses to them. Prerequisite: GL/SOCI 2510 6.00. Previously offered as: GL/SOCI 3210 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3217",
+            "credit": 3.0,
+            "name": "Mobsters, Fraudsters, Gangsters and Killers: Power, Law and Criminal Justice",
+            "prereqs": "soci2510 soci2520",
+            "desc": "This course introduces some of the major issues of crime and criminal justice from a sociological perspective. Students will examine the how, when, where and why of criminal predation and victimization within the context of Canadian society.\r\nPrerequisite: GL/SOCI 2510 6.00 or GL/SOCI 2520 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3225",
+            "credit": 3.0,
+            "name": "Public Sociology",
+            "prereqs": "soci2510",
+            "desc": "This course examines the relationship of sociology to civil society and the public sphere. It considers competing perspectives on the meaning, efficacy and feasibility of public sociology. The course investigates what it means to &quot;do&quot; public sociology through case studies. Prerequisite: GL/SOCI 2510 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3355",
+            "credit": 3.0,
+            "name": "Social Movements",
+            "prereqs": "",
+            "desc": "Topics studied will include the causes, characteristics, processes and consequences of social movements; the appeal, ideology, organizational structure, strategies and tactics of social movements; and the process of becoming committed to a social movement."
+        },
+        {
+            "dept": "soci",
+            "code": "3410",
+            "credit": 6.0,
+            "name": "Social  Inequality",
+            "prereqs": "",
+            "desc": "Theories about social equality and inequality are analyzed, in industrial and non-industrial, democratic and non-democratic societies. The course considers the influence of differential privilege on social behaviour and institutions, and problems of upward and downward mobility. \r\nCourse credit exclusions: GL/SOCI 3330 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3430",
+            "credit": 6.0,
+            "name": "Ethnicity, Power and Identity",
+            "prereqs": "",
+            "desc": "Introduces students to contemporary issues in ethnicity, power and identity in international perspective. Sociological and anthropological theories on ethnicity, race, culture and identity form the conceptual basis for this course. Course credit exclusions: AP/MIST 3580 6.00, AP/REI 3580 6.00 (prior to Fall 2013).\n\r\n"
+        },
+        {
+            "dept": "soci",
+            "code": "3450",
+            "credit": 6.0,
+            "name": "The Sociology of Race and Racism",
+            "prereqs": "",
+            "desc": "Offers a sociological critique of race and racism by examining both the concept and practices in terms of social organization, discourse and history. Biogenetic and cultural racism are investigated in terms of knowledge frameworks involving gender and class. Course credit exclusions: AP/MIST 3680 6.00, AP/SOCI 3680 6.00, AP/REI 3680 6.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "soci",
+            "code": "3480",
+            "credit": 6.0,
+            "name": "Organizations, Work and Society",
+            "prereqs": "",
+            "desc": "Formal organizations such as social groups, such as businesses, governments, educational institutions and trade unions are established in a more or less deliberate manner for the attainment of specific goals. Focuses on topics such as institutionalization, leadership, change, rationality, bureaucracy, structure, power and technology. Prerequisite: A 1000-level course in AP/SOSC. Course credit exclusions: AP/HREQ 3480 6.00 (prior to Fall 2013), AP/SOCI 3490 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3550",
+            "credit": 3.0,
+            "name": "Sociology of Aging",
+            "prereqs": "",
+            "desc": "Examines interpersonal, cultural, demographic and political aspects of aging and retirement. Gender, class and other major factors are discussed, along with familial, government and self-help responses to seniors' needs. Prerequisite: A 1000-level AP/SOSC course. Course credit exclusions: AP/HREQ 3550 3.00 (prior to Fall 2013), AP/HREQ 3550 6.00 (prior to Fall 2013), AP/SOCI 3560 3.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "soci",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "Sociology of Work and Labour",
+            "prereqs": "",
+            "desc": "In this course, work will be viewed as a social problem. Topics include the meaning of work, the theory of alienation, evolving patterns of industrialization and labour relations, occupational cultures, the deskilling of work and solutions to alienated labour. The theories of post-industrial society will be examined."
+        },
+        {
+            "dept": "soci",
+            "code": "3609",
+            "credit": 3.0,
+            "name": "Women and Religion: Sex, Spirituality and Feminine Power",
+            "prereqs": "",
+            "desc": "This course uses sociological theories on religion to study the main issues, gains and struggles faced by women in religious traditions around the world. Students study women in religion at the macro and micro levels of spirituality and femininity. PRIOR TO FALL 2014: course credit exclusion: GL/SOCI 3600 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3630",
+            "credit": 6.0,
+            "name": "Sociology of Education",
+            "prereqs": "",
+            "desc": "The relationship of the educational system to the social structure is examined. Among topics to be considered are the role of education in social change, the school as a social system, and the school as an agency of socialization."
+        },
+        {
+            "dept": "soci",
+            "code": "3636",
+            "credit": 3.0,
+            "name": "Social Inequality",
+            "prereqs": "soci2510 ilst2200",
+            "desc": "This course addresses a key topic in sociology: social inequality. It examines and explains the causes and consequences of social inequalities, generally and in specific contexts, as well as the processes by which inequalities are created and challenged. Prerequisite: GL/SOCI 2510 6.00 or GL/ILST 2200 6.00. Course credit exclusion: GL/SOCI 3305 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3645",
+            "credit": 6.0,
+            "name": "Socialization: Negotiating Relationships and Identities     ",
+            "prereqs": "",
+            "desc": "Within a broadly semiotic framework, the processes of socialization and personality development are examined from the standpoints of the symbolic interactionist and psychoanalytic theories respectively and with reference to such meta-theoretical debates as those among biologism, environmentalism, existentialism, structuralism and post-structuralism. Course credit exclusion: AP/SOCI 3420 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3648",
+            "credit": 3.0,
+            "name": "Music and Culture in Global Perspective ",
+            "prereqs": "",
+            "desc": "This course surveys music traditions and practices of diverse cultures and regions, through the perspective of ethnomusicology. Guided listening is a key component of lectures, which will also consider social context, identify, and diaspora, and issues of transnationalism and globalization."
+        },
+        {
+            "dept": "soci",
+            "code": "3649",
+            "credit": 3.0,
+            "name": "Sociology of Emotions: From the Intimate to the Political",
+            "prereqs": "",
+            "desc": "This course focuses on the social nature of emotions to understand better the forces that motivate our individual conducts, the behaviour of large groups and social movements. Students will examine the major sociological approaches to the study of emotions.\r\nCourse credit exclusions: GL/SOCI 3551 6.00 (EN), GL/SOCI 3551 6.00 (FR) (prior to Fall 2014)."
+        },
+        {
+            "dept": "soci",
+            "code": "3650",
+            "credit": 6.0,
+            "name": "Sociolinguistics",
+            "prereqs": "lin1601 lin1603 lin1605 lin2634 lin3632",
+            "desc": "This course examines language in its social context with emphasis on language varieties, meaning in situations, language and social organization, and individual linguistic skills. Prerequisites: GL/LIN 1601 6.00 or GL/LIN 1603 6.00 (formerly GL/LIN 1605 6.00) or equivalent and GL/LIN 2634 3.00 (formerly GL/LIN 3632 3.00) or permission of the department."
+        },
+        {
+            "dept": "soci",
+            "code": "3658",
+            "credit": 3.0,
+            "name": "Colonialisme, genre soci\u00e9t\u00e9s en Afrique noire",
+            "prereqs": "",
+            "desc": "La colonisation par sa mission civilisatrice a contribu\u00e9 entre autres \u00e0 forger des rapports de genre dans les soci\u00e9t\u00e9s africaines. Dans ce sens, ce cours traite de son impact sur les rapports sociaux de sexe autant en Afrique coloniale que postcoloniale. Offert pr\u00e9c\u00e9demment comme suit: AP/WMST 3524 3.00, GL/WMST 3524 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3660",
+            "credit": 6.0,
+            "name": "Families and Social Change",
+            "prereqs": "",
+            "desc": "The course provides a wide-ranging and provocative analysis of the social forces and individual responses contributing to diversity in family life, emphasizing how social, economic and political changes in Canadian society have reshaped family forms and social policy. \r\nCourse credit exclusions: GL/SOCI 2685 3.00, GL/SOSC 2685 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3663",
+            "credit": 3.0,
+            "name": "Human Rights and Civil Liberties in Canada",
+            "prereqs": "",
+            "desc": "This course examines the development of human rights legislation and the present state of civil liberties in Canada. Among other themes that will be analyzed are holocaust denial; hate literature; gay and lesbian rights; police powers; personal privacy; measures against terrorism; discrimination and affirmative actions. Prerequisite: Six credits in POLS or PHIL or SOCI."
+        },
+        {
+            "dept": "soci",
+            "code": "3665",
+            "credit": 6.0,
+            "name": "Femmes et mondialisation",
+            "prereqs": "",
+            "desc": "Ce cours porte sur la situation des femmes dans un contexte de mondialisation. Il traite de l'impact de la mondialisation sur les conditions de vie des femmes aux niveaux local et international et analyse leur capacit\u00e9 \u00e0 s'auto-organiser economiquement et politiquement. \r\nOffert pr\u00e9c\u00e9demment comme suit: AP/WMST 3503 6.00, GL/WMST 3503 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3670",
+            "credit": 3.0,
+            "name": "Sociology Of Sport",
+            "prereqs": "",
+            "desc": "Sport is used in this course as a medium for testing sociological theory. Topics will be organized around the effects of involvement in sport on those who &quot;play,&quot; consume and produce it. Course credit exclusion: HH/KINE 3620 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3672",
+            "credit": 3.0,
+            "name": "La sociologie politique : autorit\u00e9, pouvoir et domination",
+            "prereqs": "",
+            "desc": "Ce cours est une introduction \u00e0 la sociologie politique. \u00c0 la base, ce cours examine la nature du pouvoir dans la soci\u00e9t\u00e9. Il examine les formes de pouvoir social avec un accent particulier sur le pouvoir politique et les relations \u00c9tat-soci\u00e9t\u00e9.\r\nCours incompatible : AP/SOCI 3640 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3680",
+            "credit": 3.0,
+            "name": "Logic of Social Inquiry: Qualitative Methods ",
+            "prereqs": "",
+            "desc": "An examination of how theories influence the logic of inquiry and research designs. Assumptions concerning objectivity and values are discussed and problems of operationalization are analyzed. Prerequisite: A course in Canadian studies or political science or sociology."
+        },
+        {
+            "dept": "soci",
+            "code": "3680",
+            "credit": 3.0,
+            "name": "La logique de l'enqu\u00eate : m\u00e9thodes qualitatives ",
+            "prereqs": "",
+            "desc": "Une \u00e9tude des relations entre la th\u00e9orie et la pratique de la recherche. Les questions d'objectivit\u00e9 et l'intrusion des valeurs. Le cours se pr\u00e9occupera de la recherche qualitative. Condition pr\u00e9alable : Un cours en \u00c9tudes canadiennes, science politique ou sociologie."
+        },
+        {
+            "dept": "soci",
+            "code": "3690",
+            "credit": 3.0,
+            "name": "La logique de l'enqu\u00eate : m\u00e9thodes quantitatives",
+            "prereqs": "",
+            "desc": "Le cours examinera d'abord la construction de questionnaire et de c\u00e9dules d'interview pour illustrer les probl\u00e8mes qu'implique la collecte des donn\u00e9es sociales. Ensuite il consid\u00e9rera l'interpr\u00e9tation des statistiques sociales."
+        },
+        {
+            "dept": "soci",
+            "code": "3690",
+            "credit": 3.0,
+            "name": "The Logic of Social Inquiry: Quantitative Methods (Data Collection and Analysis)",
+            "prereqs": "",
+            "desc": "The course concentrates first on questionnaire design and interview procedures and extrapolates from these techniques the general problems of data collection. Secondly, it examines the logic of research procedures used in assessing and interpreting data. Prerequisite: A course in Canadian studies or political science or sociology."
+        },
+        {
+            "dept": "soci",
+            "code": "3692",
+            "credit": 6.0,
+            "name": "Theories of Society",
+            "prereqs": "",
+            "desc": "A comparative study of significant contributions to sociological theory, based on an intensive reading of such authors as Durkheim, Weber, Marx, Simmel, Freud, Cooley, Mead, Parsons, Berger and Goffman. PRIOR TO FALL 2013: course credit exclusion: AP/SOCI 3330 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3694",
+            "credit": 3.0,
+            "name": "Cities, Migrants, and the Politics of Belonging",
+            "prereqs": "",
+            "desc": "This course examines how migrants shape cities and vice versa, considering literatures on urban citizenship, human mobility, local governance, and migrant rights. It considers analytical, empirical, and normative perspectives on the relationship between migration and the creation and maintenance of state borders."
+        },
+        {
+            "dept": "soci",
+            "code": "3710",
+            "credit": 6.0,
+            "name": "Environmental Sociology",
+            "prereqs": "",
+            "desc": "This course explores sociological approaches to the interaction between humans and their bio-physical environment; the history of ecology and contemporary social ecologies; contending explanations for environmental problems; and the history of environmental movements and organizations."
+        },
+        {
+            "dept": "soci",
+            "code": "3810",
+            "credit": 6.0,
+            "name": "Criminalization and  Racialization ",
+            "prereqs": "",
+            "desc": "Criminalization and racialization are examined through a range of sociological theories to address the relationship between processes of criminalization and racialization in Canada and globally."
+        },
+        {
+            "dept": "soci",
+            "code": "3820",
+            "credit": 6.0,
+            "name": "Sociology of Health and Health Care",
+            "prereqs": "",
+            "desc": "Social factors related to health and physical and mental illness will be discussed, including comparative examinations of the healing process. The social organization of systems of health care will be explored, including recruitment and socialization of health care personnel, hospitals as social institutions, stratification in medicine, emergence of professional medicine and alternatives to it and development of the health promotion perspective. Course credit exclusion: GL/SOCI 3230 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3860",
+            "credit": 6.0,
+            "name": "Women, Work and Family",
+            "prereqs": "",
+            "desc": "Women's challenges in the home and in waged work, including historical and cross-cultural analyses. Areas of discussion may include: household, the labour market, racism and the state; barriers to women's career success; single-parent families and parenting responsibilities. \r\nPrerequisite: A 1000-level social science course. Course credit exclusion: AP/HREQ 3860 6.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "soci",
+            "code": "3940",
+            "credit": 6.0,
+            "name": "The Social Life of Science",
+            "prereqs": "",
+            "desc": "Contemporary, controversies such as cloning, genetics and race, climate change, AIDS treatment and DNA fingerprinting are used to foreground the social and cultural processes which shape knowledge.\nPrerequisite: Students must have successfully completed 24 credits.  \nCourse credit exclusions: AP/SOCI 3940.\r\nPRIOR  TO FALL 2009: Prerequisite: Students must have successfully completed 84 credits. However, third-year Honours students with 78 completed credits who are also taking summer courses may enrol. Course credit exclusion: AS/SOCI 4050 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "3950",
+            "credit": 3.0,
+            "name": "Exploring Disability: An Introduction to Disability Studies",
+            "prereqs": "",
+            "desc": "Drawing on traditional and contemporary theoretical frameworks for understanding disability, this course introduces students to the field of disability studies. Within a comparative perspective, the course explores legal frameworks, social policy, advocacy and rights movements, citizenship, identities and representations."
+        },
+        {
+            "dept": "soci",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Sociology Research Capstone",
+            "prereqs": "",
+            "desc": "This capstone course provides an opportunity for students to carry out a piece of independent research and to write a thesis under the supervision of a faculty member. Students work together in class to select their research topic and to formulate original research questions by incorporating sociological theories and methodologies. Students are required to gather original data or analyze existing data sets or archives to present their findings in a final thesis. Prerequisite: Students must have successfully completed 84 credits. Students must have a minimum cumulative major GPA of 6.0.  Students must have completed SOCI 3030 3.0 or SOCI 3031 6.0 or SOCI 3035 3.0/6.0 to be eligible. Note: Required by Sociology Specialized Honours students only. Other Sociology majors in the Honours program who meet the prerequisites may enrol in this course to fulfill upper level (4000-level) requirements."
+        },
+        {
+            "dept": "soci",
+            "code": "4030",
+            "credit": 3.0,
+            "name": "Independent Study",
+            "prereqs": "",
+            "desc": "A detailed independent study course involving intensive reading and writing taken under direction of a faculty member. Students must be accepted by a faculty supervisor before they can register in this course and are required to submit a major paper of no less than 10,000 words in length, or equivalent. Note: Students must have successfully completed at least 84 credits to be eligible for an independent study course. Note: Please consult the Faculty of Liberal Arts and Professional Studies Academic Advising and Student Responsibility section of the calendar for regulations on independent study courses. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4030",
+            "credit": 6.0,
+            "name": "Independent Study",
+            "prereqs": "",
+            "desc": "A detailed independent study course involving intensive reading and writing taken under direction of a faculty member. Students must be accepted by a faculty supervisor before they can register in this course and are required to submit a major paper of no less than 10,000 words in length, or its equivalent. Note: Students must have successfully completed at least 84 credits to be eligible for an independent study course. Note: Please consult the Faculty of Liberal Arts and Professional Studies Academic Advising and Student Responsibility section of the calendar for regulations on independent study courses. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4060",
+            "credit": 3.0,
+            "name": "The Sociology of Parent/Child Relationships",
+            "prereqs": "",
+            "desc": "Examines the parent-child relationship as interactive process within social structure. This relationship is explored in terms of reciprocity, multiple levels, the dynamic lifespan model, and the mediation role of social and cultural factors such as class and ethnicity. Prerequisite: Students must have successfully completed 84 credits. Course credit exclusion: AP/SOCI 4060 3.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "soci",
+            "code": "4072",
+            "credit": 3.0,
+            "name": "Sociology of Human Reproduction",
+            "prereqs": "",
+            "desc": "This course seeks to describe and analyze contemporary rapid social change occurring in the knowledge, conduct and regulation of human reproduction, investigating this change across multiple institutional sites such as techno-science, kinship, the health system and social movements."
+        },
+        {
+            "dept": "soci",
+            "code": "4220",
+            "credit": 3.0,
+            "name": "Social Movements: Theory and Practice",
+            "prereqs": "",
+            "desc": "Social movements are intrinsic to societies characterized by unequal access to property, political power, and cultural resources. In this course, the relevance of political economy to the study of social movements will be critically reviewed in relation to other approaches. \r\nPrerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4230",
+            "credit": 6.0,
+            "name": "Cultural Identities",
+            "prereqs": "",
+            "desc": "Examines the processes through which cultural identities have formed in Canada, encompassing local to transnational forms of cultural belonging.  Building on cultural sociology and related theories of culture, power and agency as well as diaspora and cultural belonging, the course offers a combination of advanced theoretical discussion and in-depth case studies."
+        },
+        {
+            "dept": "soci",
+            "code": "4275",
+            "credit": 3.0,
+            "name": "Beliefs in the Digital Age: Religion, Faith and Spirituality",
+            "prereqs": "soci2672",
+            "desc": "This course is an interdisciplinary investigation of how religion is mediated in culture through mass media (television, radio, the press) as well as through electronic media (internet, video games) and popular culture (film). Prerequisite: GL/SOCI 2672 3.00 or permission of the department."
+        },
+        {
+            "dept": "soci",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Culture, Health and Power",
+            "prereqs": "",
+            "desc": "Analyses health as a distinctively modern political value and examines its social and cultural effects. Investigates relations between health and social power by examining cultural representations of health and the social effects of local, national and global health governance. Possible topics include health, fitness and consumer culture (Bourdieu), global health and capital (Hardt and Negri), and biopolitics and genetic medicine (Foucault). Prerequisite: Students must have successfully completed 84 credits.\n"
+        },
+        {
+            "dept": "soci",
+            "code": "4345",
+            "credit": 3.0,
+            "name": "Family and Intimate Relations ",
+            "prereqs": "",
+            "desc": "Discussion of major issues in family composition, functioning and relationships such as: authority and decision making; migration and kin support; alternatives to contemporary marriage; separation and divorce; family life education. Prerequisite: Students must have successfully completed 84 credits. Course credit exclusions: AP/SOCI 4346 3.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "soci",
+            "code": "4350",
+            "credit": 3.0,
+            "name": "Immigration and Citizenship",
+            "prereqs": "",
+            "desc": "Examines emerging patterns of international migration and refugee flows. Particular attention is given to the recent rise of emigration from Asia, the Caribbean and Latin America to North America. These flows are studied from the perspective of global trends in political economy, development and underdevelopment, and social-cultural ties and networks. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4360",
+            "credit": 6.0,
+            "name": "Migration Experiences: Theory and Practice",
+            "prereqs": "",
+            "desc": "Examines the relationship between globalization and international migration. Themes include: why migrants leave home countries; immigration policies and practices in receiving countries; trafficking in migrants; migrants in global cities; migrant networks; transnationalism, and; refugee expulsion and return. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4390",
+            "credit": 3.0,
+            "name": "Transnationalism and Diaspora",
+            "prereqs": "",
+            "desc": "Introduces theoretical perspectives on transnational migration, focusing on immigrant incorporation, citizenship, the host state, relations with the home state/community and transnationalism. Comparative material from various regions may be used. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Sociology of Poverty",
+            "prereqs": "",
+            "desc": "The societal and personal causes of poverty are explored. The focus is on the consequences of poverty for society, areas and individuals. Life opportunities, health and stress are considered. Key demographic variables are gender, age, ethnicity and marital/parental status. \r\nPrerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4420",
+            "credit": 6.0,
+            "name": "Sociology of Indigeneity and Decolonization in a North American Context  ",
+            "prereqs": "",
+            "desc": "This course explores themes, methods and concepts in Indigenous studies and knowledges in relation to ideas in sociology.  Reflecting on social, legal, and historical processes, the course examines the relationships between Indigenous Peoples, the settler state and other social actors. Emphasis will be given to processes and practices of decolonization. \n\nPrerequisite: Students must have successfully completed 84 credits. Course credit exclusions: None. \n\nPRIOR TO FALL 2009: Course credit exclusion: AS/SOCI 4420 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "4430",
+            "credit": 3.0,
+            "name": "Human Displacement and Refugees in a Global Context",
+            "prereqs": "",
+            "desc": "Offers a comprehensive sociological assessment of some current issues and research in refugee migration. Primary emphasis is on Canada's refugee policy and responses to it. The unique experiences and adaptation problems of refugee resettlement will be examined, with particular attention to Third World refugees in Canada. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4440",
+            "credit": 6.0,
+            "name": "Racialization and the Law",
+            "prereqs": "",
+            "desc": "Critically examines the relationship between law and social inequality, treating law and justice as contradictory. The focus is on the place of law in forming racialized groups, but also deals with gender, sexual orientation, class and age stratification. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4470",
+            "credit": 3.0,
+            "name": "Bodies, Genders and Sexualities",
+            "prereqs": "",
+            "desc": "This course considers a variety of theories concerning the relation between sex, sexuality and gender identity. Theories to be covered are those of Freud, Michel Foucault on the history of sexuality, and those of a number of psychoanalytic feminist theorists. \r\nPrerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4500",
+            "credit": 6.0,
+            "name": "Social Theory and Cultural Expression",
+            "prereqs": "",
+            "desc": "This course examines the interplay between social theory and culturally expressive works, including novels, theatre and film. It looks at how theoretical ideas can be exposed in narrative accounts, and aims to help students develop skills in reading, interrogating and interpreting texts.  Prerequisite: Students must have successfully completed 84 credits. Course credit exclusion: AP/HREQ 4500 6.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "soci",
+            "code": "4523",
+            "credit": 3.0,
+            "name": "Femmes, genre, migration internationale et mondialisation",
+            "prereqs": "",
+            "desc": "Dans une perspective f\u00e9ministe intersectionnelle, ce s\u00e9minaire s'articule autour des d\u00e9bats sur la division internationale du travail selon le genre. Une r\u00e9flexion critique est d\u00e9velopp\u00e9e sur ses implications pour la situation des femmes dans la migration et la mondialisation. Cours incompatibles : GL/GWST 3564 3.00, GL/ILST 3564 3.00, AP/GWST 3564 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "4601",
+            "credit": 3.0,
+            "name": "Indigenous Activism, Resistance and Resurgence",
+            "prereqs": "",
+            "desc": "This course discusses the ways in which Indigenous peoples of Turtle Island have and are actively responding and resisting to assimilation policies, colonialism and state power, with a special focus on the lands claimed by the Canadian state. The course seeks to discuss how Indigenous peoples have sought to protect and assert their distinct political status, rights and cosmologies."
+        },
+        {
+            "dept": "soci",
+            "code": "4604",
+            "credit": 3.0,
+            "name": "Gender, Politics and Culture",
+            "prereqs": "",
+            "desc": "This course develops students\u0092 understanding of the theoretical and empirical foundations that constitute the sociological study of gender.  Using an intersectional lens, it examines the structuring role that gender plays in various societal domains, including everyday social interactions, culture and media, production and reproduction, nationhood and citizenship, and politics and diversity."
+        },
+        {
+            "dept": "soci",
+            "code": "4605",
+            "credit": 3.0,
+            "name": "Sociology of Masculinities: From Iron John to Buck Angel",
+            "prereqs": "",
+            "desc": "In this seminar course, students examine the core concepts, themes, methodologies, and debates in the dynamic field of masculinity studies, such as the crisis of masculinity thesis and hegemonic masculinity. Students formulate their own critical research projects as a means to deepen their understanding of the sociology of gender.\r\nPrerequisite: Permission of the department.\r\nCourse credit exclusion: AP/GL/GWST 3544 3.00."
+        },
+        {
+            "dept": "soci",
+            "code": "4620",
+            "credit": 3.0,
+            "name": "Urban Environmentalism and Urban Sociology",
+            "prereqs": "",
+            "desc": "Environmental change is making a major impact on cities and, in turn, is changing the experience of city life. The course examines this intersection of environmental sociology and urban sociology, which is emerging as a major global planning issue, for example in the two recent UN Habitat reports on sustainable cities (2009) and cities and climate change (2011). "
+        },
+        {
+            "dept": "soci",
+            "code": "4620",
+            "credit": 6.0,
+            "name": "Work and Workers in a Globalized Economy",
+            "prereqs": "",
+            "desc": "Examines changes in the labour process and the relationship between labour and management. We study labour segmentation, marginalization, techniques of control, the impact of new technologies on the labour process, and unions' responses to workplace and economic change. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4621",
+            "credit": 6.0,
+            "name": "Decolonising Canada - D\u00e9coloniser le Canada",
+            "prereqs": "",
+            "desc": "This seminar course examines the history, current state, and possible futures of Indigenous-non-Indigenous relations in Canada.\r\nCe s\u00e9minaire examine l'histoire, l\u0092\u00e9tat actuel, et les avenirs potentiels des relations entre les autochtones et les non-autochtones au Canada.\r\nPrerequisite: Six credits in any discipline on the study of Canada or permission of the Department.\r\nCourse credit exclusion: GL/CDNS/SOSC 4622 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "4652",
+            "credit": 3.0,
+            "name": "Borders, Displacement, and the State",
+            "prereqs": "",
+            "desc": "This course analyzes the role of population displacement in state transformation, drawing on both historical and contemporary cases to show how migration both contests and shapes borders and the relationship between citizens, the state, and society more broadly."
+        },
+        {
+            "dept": "soci",
+            "code": "4667",
+            "credit": 3.0,
+            "name": "The Sociology of International Migration: Contemporary Issues and Debates",
+            "prereqs": "",
+            "desc": "Global migration is among the most contentious phenomena of our times. This course begins with an overview of contemporary debates on migration and refugee studies. It then discusses key issues (i.e., border security politics) shaping today\u0092s multifaceted realities of international migration."
+        },
+        {
+            "dept": "soci",
+            "code": "4670",
+            "credit": 3.0,
+            "name": "The Social Self",
+            "prereqs": "",
+            "desc": "Examines classical and contemporary sociological theories of self - the development of the self concept, its effects in interaction, and its stability or change over time. Implications of the self in relation to the wider society are explored. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4681",
+            "credit": 3.0,
+            "name": "Politique et gestion de la diversit\u00e9",
+            "prereqs": "",
+            "desc": "Ce cours pr\u00e9sente et analyse les diff\u00e9rents mod\u00e8les d'int\u00e9gration et de gestion de la diversit\u00e9 ethnoculturelle dans les r\u00e9gimes d\u00e9mocratiques tels que le multiculturalisme au Canada et en Grande-Bretagne, le r\u00e9publicanisme en France, et l'interculturalisme au Qu\u00e9bec et en Belgique."
+        },
+        {
+            "dept": "soci",
+            "code": "4685",
+            "credit": 6.0,
+            "name": "Feminist Perspectives on Families, Gender and the State",
+            "prereqs": "",
+            "desc": "This course focuses on four major theoretical feminist perspectives on families, gender and the state. Exploring issues such as regulation of sexuality, division of labour and income, violence, childcare, and reproduction of race and class. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4810",
+            "credit": 6.0,
+            "name": "Women and the Criminal Justice System",
+            "prereqs": "",
+            "desc": "This course analyzes theory and research on the incidence and treatment of child, adolescent and adult women who are offenders (e.g. theft, homicide), victims (e.g. sexual and physical assault), and professionals (e.g. police, judges) in the criminal justice system. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4830",
+            "credit": 3.0,
+            "name": "Childhood and Violence",
+            "prereqs": "",
+            "desc": "This course explores violence experienced by children and violence committed by children. The course explores the ways that children and adults learn, use and experience violence (physical and sexual) in societal settings such as schools, churches, television and war. Prerequisite: Students must have successfully completed 84 credits."
+        },
+        {
+            "dept": "soci",
+            "code": "4930",
+            "credit": 6.0,
+            "name": "Sociology of Science and Technology",
+            "prereqs": "",
+            "desc": "This course focuses on the role of science and technology in social life, especially examining the contributions of human agency to creating and sustaining a social-cultural world that is infused with scientific knowledge and technological know-how. \r\nPrerequisite: Students must have successfully completed 84 credits. Course credit exclusions: None. \r\n\r\nPRIOR TO FALL 2009: Course credit exclusion: AS/SOCI 4930 6.00."
+        },
+        {
+            "dept": "soci",
+            "code": "5900",
+            "credit": 6.0,
+            "name": "Independent Reading Course             ",
+            "prereqs": "",
+            "desc": "M.A. students wishing to strengthen their background in a particular area may take one 4000-level Sociology course in the Faculty of Liberal Arts &amp; Professional Studies or Glendon College, with the approval of the Instructor. They should enrol in GS/SOCI 5900 3.00 and expect to undertake additional work. The available courses are listed each year in the Sociology Program Manual.\n"
+        },
+        {
+            "dept": "soci",
+            "code": "5900",
+            "credit": 3.0,
+            "name": "Independent Reading Course             ",
+            "prereqs": "",
+            "desc": "M.A. students wishing to strengthen their background in a particular area may take one 4000-level Sociology course in the Faculty of Liberal Arts &amp; Professional Studies or Glendon, with the approval of the Instructor. They should enrol in GS/SOCI 5900 3.00 and expect to undertake additional work. The available courses are listed each year in the Sociology Program Manual.\n"
+        },
+        {
+            "dept": "soci",
+            "code": "5901",
+            "credit": 3.0,
+            "name": "Key Debates in Sociological Theory",
+            "prereqs": "",
+            "desc": "This course, designed for MA students in the Graduate Program in Sociology, consists of a survey of some of the key questions and concepts in classical and contemporary sociological theory, with a specific emphasis on critical modes of theorizing."
+        },
+        {
+            "dept": "soci",
+            "code": "5995",
+            "credit": 3.0,
+            "name": "Masters Seminar",
+            "prereqs": "",
+            "desc": "Based on a cohort model, this course provides a supportive environment that allows master's students to rapidly accrue sociological reading, writing and revising skills.  The curriculum moves students through the initial research/writing stages to completion of the RRP/thesis proposal."
+        },
+        {
+            "dept": "soci",
+            "code": "6001",
+            "credit": 3.0,
+            "name": "Doctoral Seminar I:  Professional Development Workshop Series",
+            "prereqs": "",
+            "desc": "The overall objectives of this workshop-based course are:  (i) the development of professional skills for the academic and non-academic labour market; (ii) to facilitate timely progress through the program; and (iii) to contribute to the development of a research culture in the cohort and beyond."
+        },
+        {
+            "dept": "soci",
+            "code": "6002",
+            "credit": 3.0,
+            "name": "Doctoral Seminar II:  Professional Development Workshop Series",
+            "prereqs": "",
+            "desc": "The objectives of this workshop-based course are:  (i) the development of professional skills for the academic and non-academic labour markets; (ii) to facilitate academic progress after completion of the comprehensive exams; and (iii) to contribute to the development of a research culture in the cohort.\r\n\r\nPre-requisite:  Completion of Sociology 6001 3.0:  Doctoral Seminar 1, and registration in the second year of the Sociology PhD program.\r\n"
+        },
+        {
+            "dept": "soci",
+            "code": "6060",
+            "credit": 3.0,
+            "name": "Qualitative Methods Of Research        ",
+            "prereqs": "",
+            "desc": "This course is intended to introduce students to a range of methods currently being used in sociological field research. It will include interviewing techniques, content analysis and selected ethnographic techniques. Instruction will be through demonstration, role-playing and field study experience, as well as the critical reading of selected texts.\n"
+        },
+        {
+            "dept": "soci",
+            "code": "6090",
+            "credit": 3.0,
+            "name": "Selected Topics In Empirical Methods   ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "soci",
+            "code": "6112",
+            "credit": 6.0,
+            "name": "Quantitative Analysis",
+            "prereqs": "",
+            "desc": "The course focuses on the use of regression models to analyze surveys and other social data. Assuming no prior background, it covers the statistical basics, model building strategies, model assumptions and the interpretation of results."
+        },
+        {
+            "dept": "soci",
+            "code": "6190",
+            "credit": 3.0,
+            "name": "Selected Topics in Classical and Contemporary Theory",
+            "prereqs": "",
+            "desc": "A selected topics seminar may be offered when there is sufficient student and faculty interest for a course not listed in the Calendar."
+        },
+        {
+            "dept": "soci",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Contemporary Topics in Social Theory",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "soci",
+            "code": "6312",
+            "credit": 3.0,
+            "name": "Critical Political Ecologies",
+            "prereqs": "",
+            "desc": "Explores how power and knowledge shape intertwined social and ecological relationships, drawing on theoretically-informed ethnographies and other empirical studies, with an emphasis on global south research."
+        },
+        {
+            "dept": "soci",
+            "code": "6535",
+            "credit": 3.0,
+            "name": "Critical Sexuality",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "soci",
+            "code": "6536",
+            "credit": 3.0,
+            "name": "Transnational Sexualities",
+            "prereqs": "",
+            "desc": "This course examines the contemporary articulation and organization of sexual identities and rights in the developing world, and considers how interventions by international agencies, nation-states and advocacy groups have informed/been informed by racial and gender politics, and notions of citizenship."
+        },
+        {
+            "dept": "soci",
+            "code": "6614",
+            "credit": 3.0,
+            "name": "Migration and Transnationalisms",
+            "prereqs": "",
+            "desc": "Cross-border movements of people, capital, goods, and ideas raise challenging theoretical, methodological and policy questions about the social, political, economic and cultural organization of life lived in multiple national contexts.  This course will explore social, economic, cultural, and political transnational processes.  Topics may include: nation-building and membership, theories of migration and incorporation, transnationalism, diasporas, citizenship and legal status, racialization, identity, gender, remittances, second generation, and cross-border political participation. "
+        },
+        {
+            "dept": "soci",
+            "code": "6745",
+            "credit": 3.0,
+            "name": "The Making of Asian Studies: Critical Perspectives",
+            "prereqs": "",
+            "desc": "Offers a historical examination of the multiple, overlapping processes through which Asian identities and regions were constituted. It will also examine new directions in Asian studies in an era of intensified global flows, transnationalism, and the presence of Asian diaspora in Canada and elsewhere."
+        },
+        {
+            "dept": "soci",
+            "code": "6760",
+            "credit": 3.0,
+            "name": "Race and Ethnicity       ",
+            "prereqs": "",
+            "desc": "Undertakes the comparative study of race and ethnic relations in modern societies, with particular reference to cultural pluralism, ethnic stratification and the significance of race and ethnicity in social conflict and change.\n"
+        },
+        {
+            "dept": "soci",
+            "code": "6805",
+            "credit": 3.0,
+            "name": "Bodies and Biotechnologies in Anthropology",
+            "prereqs": "",
+            "desc": "The disciplinary focus of anthropology, and more specifically the anthropology of the body, offers students a critical theoretical perspective and point of departure for the study of the contingency of, and relationship between, bodies and biotechnologies."
+        },
+        {
+            "dept": "soci",
+            "code": "6810",
+            "credit": 3.0,
+            "name": "Topics in Biopolitics",
+            "prereqs": "",
+            "desc": "This course investigates biopolitics: the varying relations between politics and life that date to  Ancient Greece.  Since the eighteenth century biopolitics has been a domain of rationalized practices pertaining to the vital events of human and non-human species. "
+        },
+        {
+            "dept": "soci",
+            "code": "6831",
+            "credit": 3.0,
+            "name": "Health and Illness",
+            "prereqs": "",
+            "desc": "This course is designed to consider current debates about health and care within a feminist political economy framework.  The focus will be Canada but a Canada located within an international context.  Of course students will be invited to introduce other perspectives and other countries into the readings, discussions and their papers."
+        },
+        {
+            "dept": "soci",
+            "code": "6885",
+            "credit": 3.0,
+            "name": "Politics of Security and Regulation",
+            "prereqs": "",
+            "desc": "A critical examination of security and regulation in contemporary and/or historical settings. Critical theoretical work on risk, dis/order, community and security assessed alongside practices and socio-legal policies that may include national security, economic regulation, private versus public policing."
+        },
+        {
+            "dept": "soci",
+            "code": "6886",
+            "credit": 3.0,
+            "name": "Social Dimensions of Legal Discourse",
+            "prereqs": "",
+            "desc": "This course looks at how social categories that arrange persons in moral hierarchies are constructed in the legal forum. The focus of inquiry is on how narratives from everyday life are put into legal discourse."
+        },
+        {
+            "dept": "soci",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Independent Reading Course             ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "soci",
+            "code": "6900A",
+            "credit": 3.0,
+            "name": "Independent Reading Course             ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "soci",
+            "code": "6900",
+            "credit": 6.0,
+            "name": "Independent Reading Course             ",
+            "prereqs": "",
+            "desc": "\r\n"
+        },
+        {
+            "dept": "soci",
+            "code": "6900A",
+            "credit": 6.0,
+            "name": "Independent Reading Course             ",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

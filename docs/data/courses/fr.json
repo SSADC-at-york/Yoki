@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "dept": "fr",
+            "code": "0120",
+            "credit": 6.0,
+            "name": "Basic French",
+            "prereqs": "",
+            "desc": "This course, which is designed for beginners or near-beginners, focuses on the development of basic oral and written skills in French and offers an introduction to French culture. \nThis course is only open to non-majors. This course will not count towards the degree requirements for students majoring in French Studies.\nNote: Students may only register in AP/FR 0120 6.00 through a language placement questionnaire.\nCourse credit exclusions: GL/FRLS 0400 6.00 (Prior to Fall 2013)"
+        },
+        {
+            "dept": "fr",
+            "code": "0130",
+            "credit": 6.0,
+            "name": "Elementary French",
+            "prereqs": "fr0120 frsl0400",
+            "desc": "This course is designed for students who have previously studied French. The aims of the course are to consolidate basic oral and written skills, to apply them in various contexts relating to everyday life, and to raise cultural awareness.\nThis course is only open to non-majors. This course will not count towards the degree requirements for students majoring in French Studies.\nPrerequisite: AP/FR 0120 6.00 (with a minimum grade of C) or GL/FRSL 0400 6.00 (with a minimum grade of C), or through a language placement questionnaire.\nPRIOR TO FALL 2013: course credit exclusions: GL/FRLS 1500 6.00."
+        },
+        {
+            "dept": "fr",
+            "code": "1080",
+            "credit": 6.0,
+            "name": "French Language &amp; Culture",
+            "prereqs": "fr1030 fr1500",
+            "desc": "This course is designed to improve students' ability to speak, understand, read and write French. The focus is on improving listening and pronunciation skills, and on developing spontaneous expression, research skills, and the ability to explain fundamental concepts of French society.\r\nPrerequisites: AP/FR 1030 6.00 (with a minimum grade of C), or GL/FR 1500 6.00 (with a minimum grade of C), or through language placement questionnaire. Course credit exclusions: AP/FR 1060 6.00, GL/FRLS 1510 6.00 (prior to Fall 2013), GL/FRLS 1512 3.00, GL/FRLS 1515 3.00, GL/FRLS 1525 3.00."
+        },
+        {
+            "dept": "fr",
+            "code": "2081",
+            "credit": 3.0,
+            "name": "Written Communication in French",
+            "prereqs": "fr1080 fr1530 fr1525",
+            "desc": "This French-language course focuses on the techniques of written expression and on the development of reading skills. The unifying thematic framework for the various reading and writing assignments is that of the Francophone world. \r\nPrerequisite: AP/FR 1080 6.00 (with a minimum grade of C, or GL/FR 1530 3.00 (with a minimum grade of C), or GL/FR 1525 3.00 (with a minimum grade of B), or equivalent. Course credit exclusions: AP/FR 2060 3.00, AP/FR 2061 3.00, GL/FRLS 2240 6.00."
+        },
+        {
+            "dept": "fr",
+            "code": "2082",
+            "credit": 3.0,
+            "name": "Oral Communication in French",
+            "prereqs": "fr1080",
+            "desc": "This French-language course focuses on spoken French. Oral comprehension, pronunciation, conversational skills and vocabulary are improved through various oral activities, including individualized coaching and discussion on a variety of topics. The unifying thematic framework is that of the Francophone world. A blended version of this course is to be offered on a regular basis.\nPrerequisite: AP/FR 1080 6.00 (with a minimum grade of C), or departmental permission. \nCourse credit exclusions: GL/FRLS 2700 3.00, GL/FRAN 2870 3.00"
+        },
+        {
+            "dept": "fr",
+            "code": "2100",
+            "credit": 6.0,
+            "name": "Introduction to the Linguistic Study of French",
+            "prereqs": "fr1080",
+            "desc": "Introduction to basic linguistic concepts in phonetics, phonology, morphology, syntax and semantics as they apply to French and its variants in the francophone world, including Canada. This course is a prerequisite for further study in French linguistics. A blended version of this course is to be offered on a regular basis.  \nPrerequisite: AP/FR 1080 6.00(with minimum grade of C) or through language placement test or with departmental permission. \nCourse credit exclusions: GL/FRAN/LIN 2600 6.00"
+        },
+        {
+            "dept": "fr",
+            "code": "2200",
+            "credit": 6.0,
+            "name": "Approaches to French Literature: An Introduction",
+            "prereqs": "fr1080",
+            "desc": "Focusing on literary methodology, students learn analytical and expository techniques appropriate for examining the quality and context of literary works. Various genres in French literature as well as the literature of the French-speaking world are examined.\r\nPrerequisite: AP/FR 1080 6.00 (with minimum grade of C), or through language placement test or with departmental permission. Course credit exclusions: GL/FRAN 2335 6.00."
+        },
+        {
+            "dept": "fr",
+            "code": "3081",
+            "credit": 3.0,
+            "name": "Advanced Written Communication in French",
+            "prereqs": "fr2080 fr2081 frsl1530",
+            "desc": "This language course focuses on advanced techniques of written expression and on the development of reading skills. The unifying thematic framework for reading and writing activities is that of contemporary Quebec society. \r\nPrerequisite: AP/FR 2080 6.00 or AP/FR 2081 3.00 or GL/FRSL 1530 3.00 (with a minimum grade of B). Course credit exclusions: AP/FR 3060 3.00, AP/FR 3080 6.00, AP/FR 3180 6.00 and GL/FRLS 2240 6.00."
+        },
+        {
+            "dept": "fr",
+            "code": "3082",
+            "credit": 3.0,
+            "name": "Advanced Oral Communication in French",
+            "prereqs": "fr2082",
+            "desc": "This language course focuses on advanced techniques of oral communication, and the mastery of listening comprehension and speaking skills. Students will learn to understand controversial issues, participate in discussions (online format in the BLEN section), moderate debates in real time,  and construct valid arguments to support a point of view. A blended version of this course to be offered on a regular basis. \nPrerequisite: AP/FR 2082 3.00\nCourse credit exclusions: AP/FR 3089 6.00"
+        },
+        {
+            "dept": "fr",
+            "code": "3121",
+            "credit": 6.0,
+            "name": "Translation and Contrastive Linguistics",
+            "prereqs": "fr2100",
+            "desc": "Introduction to the theoretical and practical aspects of translation through the perspective of contrastive linguistics. The students are introduced to linguistic theories of translation while being given an opportunity to familiarize themselves with the process of translation. \r\nPrerequisite: AP/FR 2100 6.00."
+        },
+        {
+            "dept": "fr",
+            "code": "3360",
+            "credit": 6.0,
+            "name": "Literature of French Canada",
+            "prereqs": "fr2200",
+            "desc": "This course concentrates on the poetry, fiction and theatre of French Canada. Representative works in all genres will be studied both for their literary merit and as reflections of evolving identities.\r\nPrerequisite: AP/FR 2200 6.00. Course credit exclusions: GL/CDNS 3640 3.00, GL/CDNS 4625 3.00, GL/DRST 3650 3.00, GL/DRST 3610 3.00, GL/FRAN 3610 3.00, GL/FRAN 3640 3.00, GL/FRAN 3650 3.00, GL/FRAN 3340 6.00, GL/FRAN 4625 3.00."
+        },
+        {
+            "dept": "fr",
+            "code": "4122",
+            "credit": 3.0,
+            "name": "Models of Second Language Acquisition: the case of French",
+            "prereqs": "fr2100",
+            "desc": "This course examines models of second language acquisition, as well as their theoretical foundations in linguistics, psychology and cognitive science.  Students examine how these models have been applied to the teaching and learning of French in Canada, France and the rest of the francophone world.\nPrerequisites: AP/FR 2100 6.00\nCourse credit exclusion: GL/FRAN 3556 3.00"
+        },
+        {
+            "dept": "fr",
+            "code": "4152",
+            "credit": 3.0,
+            "name": "Linguistic and Socio-cultural Approach to Canadian French",
+            "prereqs": "fr2100",
+            "desc": "Through the empirical analysis of speech samples from different regions and registers, this course provides a linguistic description of Laurentian French, the variety of French spoken in Quebec and Ontario, from linguistic, historical and sociocultural perspectives.  Particular attention is given to phonetic, morpho-syntactic and lexical variants, and to the question of norms and variants.\nPrerequisite: AP/FR 2100 6.00 \nCourse credit exclusion: AP/FR 4150 6.00."
+        },
+        {
+            "dept": "fr",
+            "code": "4351",
+            "credit": 3.0,
+            "name": "20th-Century French Literature:Critical Insights into Modernism",
+            "prereqs": "fr2200",
+            "desc": "This course explores the major literary currents in French literature, especially as they relate to modernism during the first half of the 20th century. Topics include surrealism, existentialism, and an examination of questions of conscience and an examination of the role of the unconscious in fiction.\r\nPrerequisite: AP/FR 2200 6.00. \r\nCourse credit exclusion: AP/FR 4350 6.00."
+        },
+        {
+            "dept": "fr",
+            "code": "4363",
+            "credit": 3.0,
+            "name": "Francophone Literature II: New Identities",
+            "prereqs": "fr2200",
+            "desc": "Through a study of works in their historical, social and aesthetic context, this course explores literature in the post-colonial Francophone world. It highlights the uses of literary genres and the creation of new forms to express the struggle for unity and social renewal.\r\nPrerequisite: AP/FR 2200 6.00. Course credit exclusions: GL/FRAN 3923 3.00, GL/HUMA 3923 3.00."
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "courses": [
+        {
+            "dept": "hlst",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Foundations of Health Studies I",
+            "prereqs": "",
+            "desc": "An inter- and multi-disciplinary introduction to the issues underlying Canada's health care system.  Examines the social, cultural, economic, and political influences on concepts, values and structures of Canada's health care system.  \r\nCourse credit exclusion: HH/IHST 1010 3.00\r\n"
+        },
+        {
+            "dept": "hlst",
+            "code": "1011",
+            "credit": 3.0,
+            "name": "Foundations of Health Studies II",
+            "prereqs": "",
+            "desc": "Uses the entry point of faculty research to explore a wide range of issues and social contexts in health care. Case studies and course material will focus on the struggle for health and equity for all.  "
+        },
+        {
+            "dept": "hlst",
+            "code": "1111",
+            "credit": 3.0,
+            "name": "Mathematics for Health Studies",
+            "prereqs": "",
+            "desc": "Introduces and encourages mastery of introductory mathematical concepts and quantitative literacy relevant to health policy, management and informatics applications.  Open to: BHS students"
+        },
+        {
+            "dept": "hlst",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "Social Determinants of Health",
+            "prereqs": "hlst1010 hlst1011",
+            "desc": "Societal factors determine why some people stay healthy and others become ill. This course examines how these determinants of health influence health. Focus is upon income, stress, early life, social exclusion, work conditions, unemployment, social support, addiction, food and transportation. \nPrerequisites: HH/HLST 1010 3.00 and HH/HLST 1011 3.00 \nCourse Credit Exclusions: HH/IHST 2200 3.00 \nNote: Non-BHS students can contact Course Director for permission to enrol. \nPreviously: HH/HLST 3010 3.00\n"
+        },
+        {
+            "dept": "hlst",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "Health Policy: Power and Politics",
+            "prereqs": "hlst1010 hlst1011",
+            "desc": "Examines the development of health policy from the micro, meso and macro points of view.  Explores how decisions are made and the role of both government and non-government bodies, using case histories to illustrate the interplay of these factors.  \r\nPrerequisites:  HH/HLST 1010 3.00 and HH/HLST 1011 3.00.\r\nCourse Credit Exclusion(s):  HH/IHST 2000 3.00.\r\n"
+        },
+        {
+            "dept": "hlst",
+            "code": "2030",
+            "credit": 3.0,
+            "name": "Health Management 1: Essentials of Health Care Management",
+            "prereqs": "hlst1010 hlst1011 adms1000 ihst1010",
+            "desc": "Examines key areas that comprise the field of health care management by building on the root disciplines of organizational theory, strategic management and organizational behavior.  Topics include the design and managerial roles in health care organizations, leadership and motivation, work team performance and interorganizational relationships.\r\nPrerequisite: HH/HLST 1010 3.00 and HH/HLST 1011 3.00 and AP/ADMS 1000 3.00, or HH/IHST 1010 3.00."
+        },
+        {
+            "dept": "hlst",
+            "code": "2040",
+            "credit": 3.0,
+            "name": "Health Informatics 1: Introduction to Health Informatics",
+            "prereqs": "hlst1010 hlst1011 ihst1010",
+            "desc": "Introduces basic principles of health informatics as applied to a variety of health and social area applications. Examines how the delivery of healthcare is changed in response to new technology development. Explores knowledge and skills in the field of health data collection, storage, process and communication. \r\nPrerequisite: HH/HLST 1010 3.00 and HH/HLST 1011 3.00 or HH/IHST 1010 3.00.\r\nCourse Credit Exclusion(s):  HH/HLST 2050 3.00."
+        },
+        {
+            "dept": "hlst",
+            "code": "2300",
+            "credit": 6.0,
+            "name": "Statistical Methods in Health Studies",
+            "prereqs": "hlst1010 hlst1011",
+            "desc": "An introduction to the analysis of data from health studies. Fundamental concepts and techniques of both descriptive and inferential statistics and their application to health research.  \nPrerequisite:   HH/HLST 1010 3.00 and HH/HLST 1011 3.00.  \nCourse Credit Exclusion(s):  AP/ADMS 2300 6.00 (prior to summer 2018) or HH/KINE 2050 3.00 or HH/PSYC 2020 6.00 or HH/PSYC 2021 3.00 and HH/PSYC 2022 3.00 \nNote: HH/HLST 1111 3.00 Mathematics for Health Studies highly recommended for students without 12U Math."
+        },
+        {
+            "dept": "hlst",
+            "code": "3012",
+            "credit": 3.0,
+            "name": "Determinants of Indigenous Peoples' Health ",
+            "prereqs": "hlst2010",
+            "desc": "Provides students with an overview of Indigenous health and wellness in Canada. Student will learn to critically examine and reflect on the historic, economic, social, cultural and political dimensions of health and wellness using an Indigenized social determinant of health lens. In order to think of Indigeneity and health together, we must pay close attention to the multiple dimensions of settler colonial violence, including the violence of: law; research; healthcare policy; education; and social services. This course focuses specifically on Indigeneity in the context of settler colonialism and the Canadian state.\r\nPrerequisite: HH/HLST 2010 3.00\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3015",
+            "credit": 3.0,
+            "name": "Pharmaceutical Politics and Policy",
+            "prereqs": "hlst2020",
+            "desc": "Examines the place of pharmaceuticals in the Canadian health care system. Focuses on conflicts among stakeholders in policy formation, costs and physician prescribing behaviour. \r\nPrerequisite: HH/HLST 2020 3.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3110",
+            "credit": 3.0,
+            "name": "Major Themes in Health Policy in Canada",
+            "prereqs": "hlst2020",
+            "desc": "Examines critical points in the development of Canada's health care system at the municipal, provincial and federal level. Focuses on understanding the perspective of the different parties and the historical context in which the policies were implemented. \r\nPrerequisite:  HH/HLST 2020 3.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3120",
+            "credit": 3.0,
+            "name": "Health Policy II: Analyzing Processes of Power and Politics",
+            "prereqs": "hlst2020",
+            "desc": "A continued exploration of the processes of health policy development and the outcomes to which they lead. Varying analytic approaches will be applied to three policy themes: the public/private mix in health care, integrated health systems and international health systems.\r\nPrerequisite:  HH/HLST 2020 3.00\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3230",
+            "credit": 3.0,
+            "name": "Integrated Health Systems in Canada",
+            "prereqs": "hlst2030",
+            "desc": "Examines and critiques the elements and concepts of an evolving integrated health system (IHS) in Canada. Studies the evolution and the socio-political-economic impact of this new evolving holistic and integrated health-healing model from an interdisciplinary and cross-sectoral perspective. \r\nPrerequisite: HH/HLST 2030 3.0.   \r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Occupational Health and Safety",
+            "prereqs": "adms1000 adms1000",
+            "desc": "Covers federal and provincial occupational health and safety legislation, hazard identification and control, physical agents, chemical agents, socio-psychological aspects of health and the management of safety programs. \r\nPrerequisite: AP/ADMS 1000 3.00, for all BCOM and BCOM Honours students. \r\nPrior TO FALL 2009: Prerequisite: AK/ADMS 1000 3.00, for all BCOM and BCOM Honours students. Course credit exclusions: AK/ADMS 3400 3.00, AK/HLST 3240 3.00 prior to F/W 2008."
+        },
+        {
+            "dept": "hlst",
+            "code": "3260",
+            "credit": 3.0,
+            "name": "Health Services Accounting",
+            "prereqs": "hlst2030",
+            "desc": "Examines accounting practices in various health sectors and organizations in Canada.  \r\nPrerequisite: HH/HLST 2030 3.00. \r\nCourse Credit Exclusions: HLST 3250 6.00, AP/ADMS 3525 3.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3265",
+            "credit": 3.0,
+            "name": "Health Services Finance",
+            "prereqs": "hlst3260",
+            "desc": "Examines finance practices in various health sectors and organizations in Canada.  \r\nPrerequisite: HH/HLST 3260 3.00.  \r\nCourse Credit Exclusions: HH/HLST 3250 6.00, AP/ADMS 3526 3.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3310",
+            "credit": 3.0,
+            "name": "Electronic Health Record",
+            "prereqs": "hlst2040 hlst2050",
+            "desc": "Provides students with the knowledge and skills to manage health information services in health organizations, to use computer technologies to collect, manage analyze and technically evaluate health information and work with confidential health records. \r\nPrerequisites: HH/HLST 2040 3.00 or HH/HLST 2050 3.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3320",
+            "credit": 3.0,
+            "name": "Health Database Applications",
+            "prereqs": "hlst2040 hlst2050",
+            "desc": "Students will develop a working knowledge of design, implementation, administration and maintenance of relational database systems used in various areas in healthcare. Oracle, the full-scale multi-platform database management system, is used to teach database design and client/server application development and implementation. \r\nPrerequisites: HH/HLST 2040 3.00 or HH/HLST 2050 3.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3330",
+            "credit": 3.0,
+            "name": "Global eHealth/Virtual Communities",
+            "prereqs": "hlst2040 hlst2050",
+            "desc": "The course provides student with knowledge of Virtual Communities and their applications in e-Health, at a global level. It investigates the Virtual Community paradigm, its relation to the computer supported collaborative work, the internet and smart devices. The course also studies the convergence of Virtual Communities with social media, and their applications in global e-Health initiatives in different areas, such as homecare, chronic disease management, telemonitoring, and patient support. \r\nPrerequisite: HH/HLST 2040 3.00 or HH/HLST 2050 3.0.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3341",
+            "credit": 3.0,
+            "name": "Health Informatics II: Health Information Systems",
+            "prereqs": "hlst2040 hlst2050",
+            "desc": "Designed to develop a global understanding of the significance of health information systems (HIS) in healthcare. Topics include: health information management, HIS implications in transformation of health care and health care services delivery, standards development, technical and policy issues surrounding security, privacy and confidentiality of health care data. \r\nPrerequisite: HH/HLST 2040 3.00 or HH/HLST 2050 3.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3350",
+            "credit": 3.0,
+            "name": "Health Data Analytics, Machine Learning and AI",
+            "prereqs": "hlst2300",
+            "desc": "Provides a practical introduction to Health Data analytics to students from multiple disciplines. It permits students to understand data analytics including descriptive, predictive and prescriptive analytics, machine learning, artificial intelligence and the different tools that can be deployed to implement health data analytics. Students would be able to understand how and when healthcare analytics can be used to make better decisions; they will also be able to identify the opportunities and the challenges that analytics present to health and society.\r\nPrerequisite: HH/HLST 2300 6.00 "
+        },
+        {
+            "dept": "hlst",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Healthcare Quality Improvement and Patient Safety",
+            "prereqs": "hlst2030",
+            "desc": "Analyzes issues related to health system improvement and patient safety. Examines quality improvement and patient safety theory and techniques and considers the barriers and facilitating factors for bringing about improvement in the delivery and outcomes of health care faced by managers, clinicians and organizations. \r\nPrerequisite: HH/HLST 2030 3.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3500",
+            "credit": 3.0,
+            "name": "Quality and Operational Excellence in Healthcare - Introduction to Lean Six Sigma",
+            "prereqs": "hlst2030 hlst2300",
+            "desc": "An introduction to Lean Six Sigma, a rigorous data-driven methodology and proven set of tools for eliminating waste, reducing variation and improving quality and processes.  Illustrates the relevance of Lean Six Sigma to continuous improvement in healthcare processes using examples and case studies across the health care continuum.   Extensive use of graphical and statistical analyses using statistical software.  \r\nPrerequisites: HH/HLST 2030 3.00 and HH/HLST 2300 6.00.\r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "3520",
+            "credit": 3.0,
+            "name": "Aging: Comparative Perspectives",
+            "prereqs": "",
+            "desc": "This course will explore various approaches to understanding contemporary aging issues.  \r\nOpen to: Students who have 54 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Health Care Law",
+            "prereqs": "hlst2020 hlst2030 hlst2040",
+            "desc": "Legislation relevant to health care; consent to treatment; cases of negligence; medical staff privileges; release of information. \r\nPrerequisites: HH/HLST 2020 3.00, HH/HLST 2030 3.00 and HH/HLST 2040 3.00.  \r\nOpen to: Students in the BHS Honours program with 84 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Health Care Ethics: Policy and Management Perspectives",
+            "prereqs": "hlst2020 hlst2030 hlst2040",
+            "desc": "Provides an overview of ethical issues involved in health care policy, management and informatics in Canada. It combines theory and practical application to allow for reflection on the role values and beliefs play in health policy, management and informatics decisions. \r\nPrerequisites: HH/HLST 2020 3.00, HH/HLST 2030 3.00 and HH/HLST 2040 3.00.\r\nCourse Credit Exclusion: HH/IHST 4010 3.00\r\nOpen to: Students in the BHS Honours program with 84 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Comparative Health Policy",
+            "prereqs": "hlst2020 ihst2000",
+            "desc": "Examines historical, cultural, environmental, economic and political considerations of national health systems throughout the world, especially as health becomes less isolated and more an interconnected and integral part of all the other systems impacting our globe. \r\nPrerequisites:  HH/HLST 2020 3.00 or HH/IHST 2000 3.00.   \r\nOpen to: Students in the BHS Honours program with 84 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4200",
+            "credit": 6.0,
+            "name": "Applied Research Approaches in Health Studies: Advanced Seminar",
+            "prereqs": "hlst2020 hlst2030 hlst2040 hlst2300 hlst2300",
+            "desc": "Examines key issues associated with inquiry into health policy, management and informatics issues. The advanced seminar topics include various research methods and design issues relevant to health studies, data analysis and communication of research findings. \r\nPrerequisites: HH/HLST 2020 3.00, HH/HLST 2030 3.00, HH/HLST 2040 3.00 and HH/HLST 2300 6.00.  \r\nNote:  Students with course equivalents to HH/HLST 2300 6.00 will be required to complete Lynda.com SPSS training, or equivalent, before enrolling and submitting proof of completion to the School.\r\nOpen to: Students in the BHS Honours program with 84 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Health Care Leadership",
+            "prereqs": "hlst2030",
+            "desc": "Addresses the most salient leadership skills required for the micro-meso-macro developments in the health care field in Canada: foresight, systems thinking, issue management, impact assessment, critical thinking, contingency planning, visioning, strategic planning, change management, facilitation and negotiation. \r\nPrerequisite:  HH/HLST 2030 3.00.\r\nOpen to: Students in the BHS Honours program with 84 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4250",
+            "credit": 3.0,
+            "name": "Measuring Health System Performance/Effectiveness",
+            "prereqs": "hlst2030",
+            "desc": "Analyzes issues related to the measurement, dissemination and use of health system performance information. Examines the measurement of health system performance at multiple levels in the system and in different settings and jurisdictions. \r\nPrerequisite: HH/HLST 2030 3.00.   \r\nOpen to: Students in the BHS Honours program with 84 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Analysis and Design of Health Information Systems",
+            "prereqs": "hlst3320",
+            "desc": "Provides the students with the knowledge and the ability to analyze health information systems and design health systems specifications to meet specific objectives, using the appropriate CASE tools. Methods for structured health analysis and design are covered. The use of teamwork is emphasized. \r\nPrerequisites:  HH/HLST 3320 3.00.\r\nOpen to: Students in the BHS Honours program with 84 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4320",
+            "credit": 3.0,
+            "name": "eHealth",
+            "prereqs": "",
+            "desc": "Introduces the major issues and trends in the application of Information and Communication Technologies (ICT) in the health care service sector. \r\nOpen to: Students in the BHS Honours program with 84 earned credits."
+        },
+        {
+            "dept": "hlst",
+            "code": "4330",
+            "credit": 3.0,
+            "name": "Decision Making and Decision Support Systems in Healthcare",
+            "prereqs": "hlst2300",
+            "desc": "Integrates literature on decision making and literature on management information systems in the health care context to illuminate the rational and non-rational aspects of decision making in health care. \r\nPrerequisite:  HH/HLST 2300 6.00\r\nOpen to: Students in the BHS Honours program with 84 earned credits"
+        },
+        {
+            "dept": "hlst",
+            "code": "4340",
+            "credit": 3.0,
+            "name": "Health Technology Assessment",
+            "prereqs": "hlst3320 hlst3341",
+            "desc": "Provides students with the knowledge and skills required to carry out systematic analysis and make informed decisions concerning the introduction, allocation and cost-effective use of technologies in healthcare. \r\nPrerequisites:  HH/HLST 3320 3.00 and HH/HLST 3341 3.00\r\nOpen to: Students in the BHS Honours program with 84 earned credits"
+        },
+        {
+            "dept": "hlst",
+            "code": "4510",
+            "credit": 3.0,
+            "name": "Health and Human Rights",
+            "prereqs": "",
+            "desc": "Examines how health and human rights are complementary approaches to understanding and analyzing human well-being. The congruence of the two fields has arisen as the definition of human rights has expanded from civil and political rights to include social and economic rights. Will examine this evolution and its implications. \r\nCourse credit exclusion:  HH/IHST 4510 3.00\r\nOpen to: Students in the BHS Honours program with 84 earned credits"
+        },
+        {
+            "dept": "hlst",
+            "code": "4990",
+            "credit": 9.0,
+            "name": "Health Policy, Management, Informatics Practicum",
+            "prereqs": "hlst4000 hlst4010",
+            "desc": "Designed to bridge theory and practice in a variety of health care settings, the practicum is a planned, supervised and evaluated practice-based experience in which students are mentored and supported by fieldwork-supervisors. To support students' development of professionalism skills within work integrated learning, students are required to attend pre-practicum workshops and in-class pre-placement sessions. The practicum course will require 15-20 in-class hours and 250-300 in-field hours. Students will prepare a learning contract, complete a field-based project deliverable, participate in continuous reflective-related exercises and prepare a final practicum  poster presentation. The practicum is open to students in BHS specialized honours program. \nPrerequisites: HH/HLST 4000 3.00, and HH/HLST 4010 3.00 \nPre/Corequisites: HH/HLST 4200 6.00 \nOpen to: Students in the BHS Specialized Honours program with 84 earned credits \nNote 1: A minimum GPA of 7.0 is required in major credits. \nNote 2: Enrollment is by permission only. Students with the required earned credits are invited to an Information Session in the Winter term prior to placement.  Students submit an application, are interviewed and those selected are notified of acceptance by end of Winter term.\nNote 3: Students are required to complete all pre-practicum risk management and screening requirements before the Winter term of practicum.\nNote 4: Students are required to attend all in-class pre-practicum sessions and post-practicum sessions and commit to a minimum of 3 days a week in fieldwork placements based on negotiated workdays with the field supervisor, completing a minimum of 250-300 in-field work hours."
+        }
+    ]
+}

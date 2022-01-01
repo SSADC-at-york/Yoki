@@ -1,0 +1,140 @@
+{
+    "courses": [
+        {
+            "dept": "envb",
+            "code": "1601",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course. Students are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enrol. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enrol. Students will not be allowed to enrol in a biology research practicum course with their Honours Thesis (SB/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SB/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in biology or biochemistry majors."
+        },
+        {
+            "dept": "envb",
+            "code": "1602",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nNote: This course does not count for degree credit in any program. Students are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "envb",
+            "code": "2050",
+            "credit": 4.0,
+            "name": "Ecology",
+            "prereqs": "biol1000 biol1001 isci1110 isci1101 isci1102",
+            "desc": "A study of the interactions between organisms and their abiotic environments, presented in an evolutionary context. Includes processes of evolution, ecosystems and communities, competition, predation, population ecology and current environmental problems such as habitat loss and extinction. Prerequisite: Both SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00, or SC/ISCI 1110 6.00, or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00. Prerequisite or corequisite: SC/BIOL 2060 3.00.\r\n"
+        },
+        {
+            "dept": "envb",
+            "code": "2601",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nStudents are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enrol. Students may enroll in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "envb",
+            "code": "2602",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nStudents are expected to commit to approximately 5-10 hours per week (on average) . The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "envb",
+            "code": "3001",
+            "credit": 3.0,
+            "name": "Field Course",
+            "prereqs": "biol2050 biol2060",
+            "desc": "A course given at one of several biological stations, the objective of which is to give the student the opportunity to study plants and animals in their natural surroundings. The departmental brochure should be consulted for further details. Two-week field course. Prerequisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00; plus other prerequisites if specified for a given module. Note: Students must be manually enrolled in this course through the Biology Department in early January or prior to the session in which the course is offered. Enrolment is not possible at any other time of year. In addition to the tuition fee levied by the University, each student must pay for transportation, room and board."
+        },
+        {
+            "dept": "envb",
+            "code": "3002",
+            "credit": 3.0,
+            "name": "Field Course",
+            "prereqs": "",
+            "desc": "This is a second field course, which may be taken for credit, the contents of which must differ materially from SC/BIOL 3001 2.00 or SC/BIOL 3001 3.00 as determined by the Instructor. The departmental brochure should be consulted for further details. Two-week field course. Prerequisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00; plus other prerequisites if specified for a given module. Note: Students must be manually enrolled in this course through the Biology Department early in January or prior to the session in which the course is offered. Enrolment is not possible at any other time of year. In addition to the tuition fee levied by the University, each student must pay for transportation, room and board."
+        },
+        {
+            "dept": "envb",
+            "code": "3003",
+            "credit": 3.0,
+            "name": "Field Course",
+            "prereqs": "",
+            "desc": "This is a third field course, which may be taken for credit, the contents of which must differ materially from SC/BIOL 3001 2.00 or SC/BIOL 3001 3.00, and SC/BIOL 3002 2.00 or SC/BIOL 3002 3.00, as determined by the Instructor. The departmental brochure should be consulted for further details. Two-week field course. Prerequisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00; plus other prerequisites if specified for a given module. Note: Students must be manually enrolled in this course through the Biology Department early in January or prior to the session in which the course is offered. Enrolment is not possible at any other time of year. In addition to the tuition fee levied by the University, each student must pay for transportation, room and board."
+        },
+        {
+            "dept": "envb",
+            "code": "3601",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course. \nStudents are expected to commit to approximately 5-10 hours per week (on average). The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enrol. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enrol. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "envb",
+            "code": "3602",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nNote: This course does not count for degree credit in any program. Students are expected to commit to approximately 5-10 hours per week (on average). The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enroll in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enrol in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "envb",
+            "code": "4000",
+            "credit": 8.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "A research thesis based on laboratory and/or field investigations under the supervision of a faculty member. Rules governing this course are outlined in the Department of Biology undergraduate handbook. Note: Only open to Honours students majoring in biology and environmental biology or environmental science (life sciences stream) with at least 84 credits, and a Biology Major GPA of at least 6.0. "
+        },
+        {
+            "dept": "envb",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Honours Thesis",
+            "prereqs": "",
+            "desc": "A substantial written thesis, including a literature review based on library investigations, under the supervision of a faculty member. Rules governing this course are outlined in the Department of Biology undergraduate handbook. Note: Open only to Honours students majoring in Biology, Environmental Biology or Environmental Science (life sciences stream) with at least 84 credits, and a Biology Major GPA of at least 6.00. "
+        },
+        {
+            "dept": "envb",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Selected Readings in Biology",
+            "prereqs": "",
+            "desc": "A reading course offered by special arrangement between an individual student and a faculty supervisor which focuses on a specialized area of biology of mutual interest. The subject matter must be significantly different from that of the student's honours thesis. A student may take this course only once for credit. Note: Open only to students with a minimum science GPA of 6.00."
+        },
+        {
+            "dept": "envb",
+            "code": "4245",
+            "credit": 3.0,
+            "name": "Conservation Biology",
+            "prereqs": "biol2050 biol2060",
+            "desc": "Explores the role of biological science in efforts to conserve natural resources, systems and the organisms therein. Prerequisites: SC/BIOL 2050 4.00, SC/BIOL 2060 3.00."
+        },
+        {
+            "dept": "envb",
+            "code": "4601",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nStudents are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enrol in this course during any term, and there is no limit to the number of terms in which they are allowed to enroll. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. The course evaluation will be pass/fail only. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "envb",
+            "code": "4602",
+            "credit": 0.0,
+            "name": "Research Practicum",
+            "prereqs": "",
+            "desc": "Offers the student research experience as part of a Biology research team. The student must make arrangements with a faculty member before enrolling in this course.\nNote: This course does not count for degree credit in any program. Students are expected to commit to approximately 5-10 hours per week (on average) for one term. The student and faculty member must sign a form in which they agree on the type and amount of work to be done, and the form must be approved by the Instructor before the student will be allowed to enroll. Students may enroll in this course during any term, and there is no limit to the number of terms in which they are allowed to enrol. Students will not be allowed to enroll in a biology research practicum course with their Honours Thesis (SC/BIOL 4000 8.00) supervisor during the same terms that they are enrolled in SC/BIOL 4000 8.00. Students will be required to obtain safety training, such as WHMIS, if appropriate to the type of research undertaken. The course is intended only for students in Biology or Biochemistry majors."
+        },
+        {
+            "dept": "envb",
+            "code": "4700",
+            "credit": 3.0,
+            "name": "Current Topics in Environmental Biology",
+            "prereqs": "biol2050 biol2060",
+            "desc": "A review of recent advances in environmental biology with an emphasis on current research, experimental design and biological methods. Prerequisites: SC/BIOL 2050 4.00 and SC/BIOL 2060 3.00."
+        }
+    ]
+}

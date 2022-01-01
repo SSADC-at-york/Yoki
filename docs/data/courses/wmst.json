@@ -1,0 +1,76 @@
+{
+    "courses": [
+        {
+            "dept": "wmst",
+            "code": "4681",
+            "credit": 3.0,
+            "name": "Medieval Women's Writing",
+            "prereqs": "",
+            "desc": "This course explores texts in a variety of genres by women from Late Antiquity to the Early Modern Period. The strategies and techniques used by women in their attempts to set forth their views will also be considered."
+        },
+        {
+            "dept": "wmst",
+            "code": "6102",
+            "credit": 3.0,
+            "name": "Nineteenth Century British Fiction",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "wmst",
+            "code": "6119",
+            "credit": 3.0,
+            "name": "Sexualities and Education ",
+            "prereqs": "",
+            "desc": "This course considers contemporary debates in the study of sexualities.  Drawing upon research and literature in the humanities, social sciences and arts, theories of sexuality are placed in conversation with issues in education.  Topics to be covered may include: childhood and \r\nadolescent sexualities, teacher's sexualities, controversies in sex education, representations of AIDS, lesbian, gay, bisexual and transgendered issues and identities in education, and representations of sexuality across the curriculum.\r\n"
+        },
+        {
+            "dept": "wmst",
+            "code": "6210",
+            "credit": 3.0,
+            "name": "Girlhood",
+            "prereqs": "",
+            "desc": "Many scholars contend that girlhood is a modern invention. However, girls appear in many early modern texts. This course examines early modern conceptions of girlhood, looking at literary as well as historical figures, and seeking to locate a space for girls within current feminist theory. \r\n"
+        },
+        {
+            "dept": "wmst",
+            "code": "6216",
+            "credit": 3.0,
+            "name": "Transnational Sexualities",
+            "prereqs": "",
+            "desc": "This course examines the contemporary articulation and organization of sexual identities and rights in the developing world, and considers how interventions by international agencies, nation-states and advocacy groups have informed/been informed by racial and gender politics, and notions of citizenship."
+        },
+        {
+            "dept": "wmst",
+            "code": "6301",
+            "credit": 3.0,
+            "name": "Fem.Issues In Anth. Hist.&amp; Current Deb ",
+            "prereqs": "",
+            "desc": ": Perceiving Women. This course explores literature in feminist anthropology\nduring the past twenty years. Major theoretical contributions and debates discussed include issues\nthat dominated the field during the 1970's (women in the ethnographic literature; the\npublic/private dichotomy; male dominance; impact of colonialism) as well as current concerns\nregarding feminist methodology, cultural constructions of gender and the female body, and\nwomen's resistance.\n(Same as Women's Studies 6301.03.)\nProfessor Romalis\n"
+        },
+        {
+            "dept": "wmst",
+            "code": "6406",
+            "credit": 3.0,
+            "name": "Issues in Comparative Women's and Gender History: Part II, The Twentieth Century",
+            "prereqs": "",
+            "desc": "This course aims to give students a broad introduction to the diversity of women's experience in different countries by examining selected themes in the history of women during the 20th century. PRIOR TO WINTER 2015: course credit exclusion: GS/WMST 6406 3.00."
+        },
+        {
+            "dept": "wmst",
+            "code": "6507",
+            "credit": 3.0,
+            "name": "Feminist Pedagogy",
+            "prereqs": "",
+            "desc": "The course explores feminist theories and philosophical concerns emerging from and related to experiences and objects of pedagogy. It considers ongoing critique and revision of feminist discourse, and challenges socio-cultural and ideological assumptions underscoring theories of learning, teaching, and curriculum."
+        },
+        {
+            "dept": "wmst",
+            "code": "6805",
+            "credit": 3.0,
+            "name": "Health and Illness",
+            "prereqs": "",
+            "desc": "This course is designed to consider current debates about health and care within a feminist political economy framework.  The focus will be Canada but a Canada located within an international context.  Of course students will be invited to introduce other perspectives and other countries into the readings, discussions and their papers."
+        }
+    ]
+}

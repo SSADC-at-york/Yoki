@@ -1,0 +1,188 @@
+{
+    "courses": [
+        {
+            "dept": "lal",
+            "code": "5120",
+            "credit": 3.0,
+            "name": "Advanced Phonology",
+            "prereqs": "",
+            "desc": "Concentrates on recent advances in phonological theory within a generative framework. Specific topics include constraint- vs. rule-based approaches to phonology, segmental representation, markedness, and the relation between phonetics and phonology."
+        },
+        {
+            "dept": "lal",
+            "code": "5140",
+            "credit": 3.0,
+            "name": "Advanced Syntax",
+            "prereqs": "ling4140",
+            "desc": "This course aims at providing students with an in-depth understanding of the interaction between theoretical assumptions, analysis and data in syntax. The course concentrates primarily on Minimalist approaches to raising and control, PRO, Case features, (wh)-operators, and phases. Involves primary literature. Prerequisite: an upper level half-course (3000- or 4000-level) in syntax. Prerequisite: an appropriate upper-year one semester course in syntax.\nIntegrated with the undergraduate course AP/LING 4140 3.00."
+        },
+        {
+            "dept": "lal",
+            "code": "5350",
+            "credit": 3.0,
+            "name": "Pidgins and Creoles",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lal",
+            "code": "5440",
+            "credit": 3.0,
+            "name": "Syntactic Change",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lal",
+            "code": "5670",
+            "credit": 3.0,
+            "name": "Second Language Instruction",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lal",
+            "code": "6120",
+            "credit": 3.0,
+            "name": "Phonetic and Phonological Analysis",
+            "prereqs": "",
+            "desc": "A graduate-level introduction to the analysis of sound production and sound systems in human language, focusing on core aspects of phonetic and phonological analysis.\r\n\r\nPrerequisite:  An undergraduate introductory course in Linguistics \r\n\r\n"
+        },
+        {
+            "dept": "lal",
+            "code": "6140",
+            "credit": 3.0,
+            "name": "Grammatical Analysis",
+            "prereqs": "",
+            "desc": "A graduate-level introduction to the analysis of grammatical systems across languages, focusing on core aspects of grammatical analysis and theory. Prerequisites:  An undergraduate introductory course in Linguistics"
+        },
+        {
+            "dept": "lal",
+            "code": "6230",
+            "credit": 3.0,
+            "name": "Reading and Writing in a Second Language: Theory to Practice",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lal",
+            "code": "6235",
+            "credit": 3.0,
+            "name": "English for Specific Purposes: Theory and Practice",
+            "prereqs": "",
+            "desc": "Examines current perspectives in English for Specific Purposes (ESP) with particular emphasis on academic and occupational contexts. Course themes include content-based language instruction, corpus linguistics, genre studies, critical EAP, and intercultural communication as they relate to ESP. "
+        },
+        {
+            "dept": "lal",
+            "code": "6270",
+            "credit": 3.0,
+            "name": "Race, Culture and Schooling",
+            "prereqs": "",
+            "desc": "The course explores the historical and ideological relationships between dominant and minority groups in Canada and the structure of social and cultural power among them. The course examines how theories and unquestioned assumptions about race and ethnicity, precipitated historically and perpetuated through myths and stereotypes, mediate the teaching-learning process today. Participants will critically evaluate the extent to which race and ethno-cultural policy, provision and pedagogy have achieved equity education for all students. A more progressive and reconstructonist approach to multicultural and anti-racist education will be explored. "
+        },
+        {
+            "dept": "lal",
+            "code": "6280",
+            "credit": 3.0,
+            "name": "The Language Teacher",
+            "prereqs": "",
+            "desc": "This course critically examines key relevant areas in second/additional language (L2) teacher education that include teacher cognition, identity and experience. Theoretical and pedagogical perspectives of teacher experience, reflection and professional development are discussed in both pre-service and in-service contexts. Topics focus on the needs of L2 teachers working in a range of educational contexts with varied types of learners."
+        },
+        {
+            "dept": "lal",
+            "code": "6283",
+            "credit": 3.0,
+            "name": "Education in Urban Contexts",
+            "prereqs": "",
+            "desc": "Urban communities are typically spatial centres to which individuals migrate and immigrate. With this comes increased population density, economic disparities and increased cultural, ethic, racial and religious diversity. Public institutions, and schools in particular, are charged with the responsibility of addressing the resultant challenges. Using Toronto as an example, the course begins by examining the question: What characterizes urban schools We then go on to examine the historical, social, economis and political issues in the city and investigate how the demographic changes in particular have affected the education system. What changes have occured in the teaching, professional and administrative staff of the schools in term of representation What curricula, programmatic and pedagogical changes have occured? What are the challenges and tensions that the schools face as they attempt to accomodate diverse cultures? Schools in Toronto will be investigated and used as case studies. Through urban theory, field visits and individual assignments we will investigate the extent to which schools' currucula, program and staff representatives are responsive to the needs of today's students. Special attention will be paid to the roles of educators, students and parents in helping address educational, cultural and social issues. The goal of this course, therefore, is to enable students to develop working (tentative and transitional) conceptualizations around the following essential question: how are power, knowledge, identity and cultural representation organized within the space of urban educational encounters?"
+        },
+        {
+            "dept": "lal",
+            "code": "6290",
+            "credit": 3.0,
+            "name": "Multilingual Education",
+            "prereqs": "",
+            "desc": "The term, multilingual education, typically refers to the teaching of and through more than two languages. This means that multilingual education is concerned with language policy. Language choices and uses in education reflect social policy decisions within a multicultural or cross-cultural context. In this course, we investigate language policy, education, ecology, and hegemony in our changing world. Multilingual education will be viewed in multiple ways, incorporating internal and international responses to globalization and multiculturalism. In our world today, people live in increasingly multicultural, multilingual countries where historical concepts of belonging are under pressure to respond to current cultural realities. Technological advances of the late twentieth century have simultaneaously provided people with the means to move around the globe much more easily and drawn edges of the world closer within virtual space, such that cross-glabal communications take place in nanoseconds. This has changed language use enormously in terms of both which languages we use most often and the media through which we communicate using these languages."
+        },
+        {
+            "dept": "lal",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Multimodal Literacies",
+            "prereqs": "",
+            "desc": "Multimodal literacies examines the changing face of literacy in our networked worlds, exploring contemporary literacy shapes, sites and practices. The course invites diverse theoretical and pedagogical perspectives on multimodal literacies, and contemplates new basics in twenty-first century literacy education."
+        },
+        {
+            "dept": "lal",
+            "code": "6310",
+            "credit": 3.0,
+            "name": "Languages in Contact",
+            "prereqs": "",
+            "desc": "A survey of language contact. Topics include multilingualism, diglossia, pidginization and creolization, language continua, interlanguage, language maintenance and language shift, language death. The educational and social issues arising from the phenomena will be discussed."
+        },
+        {
+            "dept": "lal",
+            "code": "6350",
+            "credit": 3.0,
+            "name": "Technology-Mediated Language Teaching &amp; Learning",
+            "prereqs": "",
+            "desc": "Critically examines the potential and limitations of technology-mediated language teaching and learning (TMLL) in varied language learning contexts. Learning theories, the design of learning environments and instructional approaches are reviewed in relation to language teaching methodology, curriculum design and second language acquisition theories. Web-enhanced, blended and distance language learning environments are explored through a blended learning approach."
+        },
+        {
+            "dept": "lal",
+            "code": "6380",
+            "credit": 3.0,
+            "name": "Sociocultural Theory and Applied Linguistics",
+            "prereqs": "",
+            "desc": "This course serves as an introduction to Vygotskian sociocultural theory (SCT). Key SCT concepts are illuminated through narratives of teaching and learning languages. Connections will be made between SCT and other social theories of learning. Students will gain a better appreciation for the relationship between-and the contributions of-SCT research/ theory to second language classroom practice. \r\n\r\n"
+        },
+        {
+            "dept": "lal",
+            "code": "6410",
+            "credit": 3.0,
+            "name": "&quot;Language, Culture and Ideology",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lal",
+            "code": "6450",
+            "credit": 3.0,
+            "name": "Discourse Analysis and Pragmatics",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lal",
+            "code": "6480",
+            "credit": 3.0,
+            "name": "&quot;Language, Gender and Sexuality",
+            "prereqs": "",
+            "desc": "&quot;This course explores some of the complex ways in which gender, sexuality and language interact, drawing upon a variety of theoretical perspectives, methodologies, and findings from recent research in feminist linguistics. The course traces the major debates in the field of language, gender and sexuality, from earlier perspectives that focused on gender difference to more recent approaches that view gender and sexuality as enacted through language.\r\n\r\n"
+        },
+        {
+            "dept": "lal",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Research Methods in Applied Linguistics",
+            "prereqs": "",
+            "desc": "The objective of this course is to develop students' awareness of the nature of research in general, and of the various approaches to research in applied linguistics in particular. Through readings, discussion, and assignments, students are equipped with the tools necessary to create their own research projects, and the skills to critically evaluate research in the field."
+        },
+        {
+            "dept": "lal",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Independent Study",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "lal",
+            "code": "6900N",
+            "credit": 3.0,
+            "name": "Independent Study",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

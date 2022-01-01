@@ -1,0 +1,252 @@
+{
+    "courses": [
+        {
+            "dept": "datt",
+            "code": "1010",
+            "credit": 3.0,
+            "name": "Introduction to Interactive Digital Media I",
+            "prereqs": "",
+            "desc": "Exploration of interactive digital media using a programming environment designed for creative use, such as Max/MSP. The primary content of this course will be presented in a series of themes that provide the basis for the exploration of computational art through fundamental tools needed for the analysis, evaluation, and creation of interactive computational art works, including the exploration of generative art, sound manipulation and effects, video manipulation and effects, and 2D graphics in run-time environments. Emphasis on cultural analysis about the important role that computational media have in the arts, as well as integration of key ideas and computer programming methods. Students will put these concepts in practice through the development their own projects. Course Credit Exclusion: DATT 1000."
+        },
+        {
+            "dept": "datt",
+            "code": "1020",
+            "credit": 3.0,
+            "name": "Introduction to Interactive Digital Media II",
+            "prereqs": "",
+            "desc": "Explores the creation of interactive and immersive virtual worlds in run-time environments using a programming environment designed for creative use, such as Max/MSP. Built on a foundation of skills gained in DATT 1010, this course will focus on real-time 3D and the creation of real-time generative 3D object transforms, worldbuilding, mise-en-scene in real time interactive 3D, and simple agent-based systems. The content of this course will be presented in a series of themes that provide the basis for the exploration of 3D worldbuilding in computational art. Emphasis on cultural analysis about the important role that computational media have in the arts, as well as integration of key ideas and computer programming methods. In developing their own projects, students will put these concepts in practice. Open to non-majors.\n\nPrerequisite: DATT 1010 Introduction to Interactive Digital Media I, or by permission of the instructor. Course Credit Exclusion: DATT 1000.\n"
+        },
+        {
+            "dept": "datt",
+            "code": "1100",
+            "credit": 3.0,
+            "name": "Fundamentals of Digital Media Studies",
+            "prereqs": "",
+            "desc": "Offers students a survey of digital media through an investigation of historical and theoretical sources that explore the intersection of art and technology. Potential topics include cybernetics, artificial intelligence, human-computer interfaces, artScience, hypertext, net technologies, and the philosophy of science. Course credit exclusion: FA/FACS 1100 3.00."
+        },
+        {
+            "dept": "datt",
+            "code": "1200",
+            "credit": 3.0,
+            "name": "Multimedia Asset Creation I",
+            "prereqs": "",
+            "desc": "Explores the techniques of non-linear multimedia asset creation as used in sound, video, and image editing software tools such as video editors, visual effects (VFX) software, digital audio workstations (DAW), digital audio editors, and vector and raster image editors. Topics of the course techniques are essential for asset creation in computational arts including the use of the timeline editor, compression techniques, distribution and file formats, plug-ins and effects. Artists, composers, and theorists relevant to the subjects will be presented to provide theoretical and critical context to the work. Students will put theoretical concepts in practice through a series of small studies leading up to a final project.  Open-source software tools will be used in this course wherever possible. Open to non-majors."
+        },
+        {
+            "dept": "datt",
+            "code": "1939",
+            "credit": 3.0,
+            "name": "Making Interactive New Media Art",
+            "prereqs": "",
+            "desc": "Introduces students with little or no experience in the creation of new media works to the issues and techniques that will enable them to engage critically and creatively with the area. In the relatively short history of new media, a new language and tool set have become pervasive in the world of art making. This course provides students with an introduction to interactive new media. Using HTML, JavaScript, and Photoshop, students will engage with the web as a creative medium. Projects will be based in a variety of new media genres including net.art, blogs, interactive narrative, and randomness. Not open to Digital Media BA majors. Course credit exclusion: FA/FACS 1939 3.00."
+        },
+        {
+            "dept": "datt",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Introduction to Physical Computing",
+            "prereqs": "",
+            "desc": "Explores embodied approaches to combining hardware, software and materials to create art works. Students will be introduced to the world of physical computing: combining simple computers (e.g. Arduino), sensors, LEDs, motors etc. in physical forms. Prerequisite: Second-year standing or permission of the Instructor. Course credit exclusion: FA/FACS 3933 3.00.\n"
+        },
+        {
+            "dept": "datt",
+            "code": "2010",
+            "credit": 3.0,
+            "name": "Physical Computing II",
+            "prereqs": "datt2000",
+            "desc": "Builds on the material covered in Introduction to Physical Computing to explore new forms of engagement and interaction in specific areas including: wearable computing, wired and wireless communication, and instrument creation. Students will develop a larger work for public presentation. Prerequisite: FA/FACS 3933 3.00 or FA/DATT 2000 3.00 or permission of the Instructor. Course credit exclusion: FA/FACS 4933 3.00."
+        },
+        {
+            "dept": "datt",
+            "code": "2050",
+            "credit": 3.0,
+            "name": "Media Signal Processing",
+            "prereqs": "",
+            "desc": "Introduces the concepts and techniques of digital signal processing and their application in both sound and image resulting in the development of works that are cross-modal hybrids between sound and image, such as found in the Visual Music aesthetic. Course credit exclusion: FA/FACS 2935 3.00. Prerequisites: FA/FACS 2930 6.00 or FA/DATT 1000 6.00 or FA/DATT 1020 3.00.\n\n"
+        },
+        {
+            "dept": "datt",
+            "code": "2100",
+            "credit": 3.0,
+            "name": "Publishing in Digital Media",
+            "prereqs": "",
+            "desc": "Introduces techniques and strategies for the documentation and dissemination of work in the digital age. Students will expand their skills in traditional and internet-based research in tandem with developing competence in the clear, concise communication of ideas through appropriate integration of text, visual, sonic and interactive components. Overview of tools such as image processing, web development, mobile content development, and content management systems. Course credit exclusion: FA/FACS 2500 3.00."
+        },
+        {
+            "dept": "datt",
+            "code": "2300",
+            "credit": 3.0,
+            "name": "Game Development I",
+            "prereqs": "",
+            "desc": "Introduces the essential workflows and requisite knowledge for game development through the design and creation of game prototypes using a game engine. Provides an introductory hands-on approach to the study and practice of games, gamification, and game play and their use in various applications, including video games, simulations, serious gaming, and art making contexts. The course will take practical and theoretical approaches to game production in a variety of gaming contexts. Emphasis will be on implementation, using software tools and engines found in professional game development and in the making of technology-based art practice. While a large part of the focus of the course will be on standard game techniques as applied in gaming contexts, this course will also focus on the applications in non-gaming contexts, known as gamification. Gamification involves the larger implications of game techniques in a variety of fields including interactive art, multi-stakeholder engagement, serious gaming, learning, and other problem solving scenarios. This course will also explore new and cutting edge trends in gaming, such as in the areas of alt gaming, Not Games, and urban gaming where the potential and boundaries of games and game play are being challenged and tested. Open to non-majors"
+        },
+        {
+            "dept": "datt",
+            "code": "2301",
+            "credit": 3.0,
+            "name": "Game History, Genre, and New Directions",
+            "prereqs": "",
+            "desc": "Examines the development of computer and video games from an historical and genre perspective. Provides a foundation for thinking critically about the history of games and how they are situated in culture, including their practices of representation of women, racial minorities and others. Provides a broad study of games, gamification, and game play and their use in various applications, including video games, simulations, serious gaming, and art making contexts. The course considers implications of game techniques in a variety of fields including interactive art, multi-stakeholder engagement, serious gaming, learning, and other problem solving scenarios. It also explores new and cutting edge trends in gaming, such as in the areas of alt gaming, queer games, Not Games, and urban gaming where the potential and boundaries of games and game play are being challenged and tested. Open to non-majors"
+        },
+        {
+            "dept": "datt",
+            "code": "2500",
+            "credit": 3.0,
+            "name": "Introduction to 3D Modelling",
+            "prereqs": "",
+            "desc": "Provides a foundation in 3D modelling using state of the art render time 3D modelling software such as Maya, Blender, and 3DS Max. The course will provide a survey of various modelling techniques and approaches with an emphasis on modelling used in 3D art, 3D animation and games. Topics include photorealistic rendering, scene building, character modelling, and the use of 3D graphics in simulation and visualization."
+        },
+        {
+            "dept": "datt",
+            "code": "2501",
+            "credit": 3.0,
+            "name": "Introduction to 3D Animation",
+            "prereqs": "datt2500",
+            "desc": "Provides a foundation in 3D animation using state of the art render time 3D modelling and animation software such as Maya, Blender, and 3DS Max. The course will provide a survey of various animation techniques and approaches with an emphasis on render time animation as it is used in 3D art, 3D animation, data visualization and games. Topics include, scene building, character animation, timeline based animation techniques, and the use of 3D graphics in simulation and visualization. \r\nPrerequisites: FA/DATT 2500 3.00, or by permission of the Instructor.\r\n"
+        },
+        {
+            "dept": "datt",
+            "code": "3070",
+            "credit": 3.0,
+            "name": "Electro-Acoustic Orchestra",
+            "prereqs": "",
+            "desc": "Allows students to participate in a large electro-acoustic orchestra that will create (re-create) and perform both historical and contemporary repertoire using both the latest digital sound production hardware as well as traditional instruments. A participating student will be required to function as both performer and in at least one other capacity such as composer, arranger, improviser or conductor."
+        },
+        {
+            "dept": "datt",
+            "code": "3300",
+            "credit": 3.0,
+            "name": "Game Mechanics",
+            "prereqs": "datt2300 datt2301",
+            "desc": "Explores the rules and procedures followed by players and games-more broadly and not limited to computer games-that are the building blocks that make up gameplay. Students look at the various aspects of game mechanics; what they are, how they can be formed, how they interact with each other, what values they transmit and topics relating to the application of game mechanics. Examines system dynamics, balancing luck and skill, cooperation and competition, in variety of gaming and non-gaming contexts. Students will prototype, test, and implement mechanics in games and learn how to visualize, simulate and operationalize game mechanics. Topics include: emergent gameplay, balancing game mechanics and level design, and scripted events vs. dynamic progression systems. Prerequisites: FA/DATT 2300 3.00 and FA/DATT 2301 3.00, or permission of the Instructor."
+        },
+        {
+            "dept": "datt",
+            "code": "3700",
+            "credit": 6.0,
+            "name": "Collaborative Project Development",
+            "prereqs": "datt2050 datt2100 eecs2030",
+            "desc": "The entire class collaborates on the realization of one or two ambitious projects. Students will work together as a development team by taking on roles where they focus on specific aspects of the project (such as Director, Designer, Artist, Programmer, Sound engineer, Interaction Designer, Publicity). The development team structure is modeled on teams used in large-scale project development within fields related to Digital Media, such as contemporary art practice, game development, creative software development, and interactive experience development that rely on multi-stakeholder collaboration and interdisciplinary research. Projects may incorporate partnerships with York-based Faculties, Departments, or research teams depending on the focus of the project. The nature of the project will vary from year to year, but will be a significant work in the field of Digital Media. The Instructor(s) will prepare a general description of the project(s) at the beginning of the course. The details of the project(s) will be developed as part of the class activities. As part of the project development and execution students will be expected to prepare presentations, posters, and a written paper. The culmination of this course will be a final presentation, which will be open to the public. In addition to group assignments, students are evaluated based on their individual contribution, teamwork, presentations, and other deliverables as appropriate. \n\nPrerequisites: Only open to students the Digital Media Specialized Honours BA program Arts or Developer Stream, and the Digital Media BA; FA/DATT 2050 3.00 and FA/DATT 2100 3.00. Co-requisite: LE/EECS 2030 3.00. Course credit exclusion: FA/DATT 3701 6.00."
+        },
+        {
+            "dept": "datt",
+            "code": "3701",
+            "credit": 6.0,
+            "name": "Collaborative Project Development in Games",
+            "prereqs": "",
+            "desc": "The entire class collaborates on the realization of one or two ambitious game projects. Students will work together as a development team by taking on roles where they focus on specific aspects of the project (such as Director, Designer, Artist, Programmer, Level Designer, Sound Designer, Publicity). The development team structure is modeled on teams used in large-scale project development within fields related to games that rely on multi-stakeholder collaboration and interdisciplinary research. Projects may incorporate partnerships with York-based Faculties, Departments, or research teams depending on the focus of the project. The nature of the project will vary from year to year, but will be a significant work in the field of games. The Instructor(s) will prepare a general description of the project(s) at the beginning of the course. The details of the project(s) will be developed as part of the class activities. As part of the project development and execution students will be expected to prepare presentations, posters, and a written paper. The culmination of this course will be a final presentation, which will be open to the public. In addition to group assignments, students are evaluated based on their individual contribution, teamwork, presentations, and other deliverables as appropriate. Only open to students the Digital Media Specialized Honours BA program Games stream, and the Digital Media BA; FA/DATT 2050 3.00, and FA/DATT 2100 3.00. Co-requisite: LE/EECS 2030 3.00 and DATT 3300 3.00. Course credit exclusion: FA/DATT 3700 6.00."
+        },
+        {
+            "dept": "datt",
+            "code": "3929",
+            "credit": 0.0,
+            "name": "Internship Work Term",
+            "prereqs": "datt3700 datt3701 datt3936 eecs2011",
+            "desc": "Provides qualified students with the opportunity to work in an internship work term. Prerequisites: Only open full-time students in the Digital Media Specialized Honours BA program with a minimum of 9 credits remaining to graduate prior to the start of the internship. FA/DATT 3700 6.00, FA/DATT 3701 6.00, or FA/DATT 3936 3.0; and LE/EECS 2011 3.0. Must be in good standing in the program."
+        },
+        {
+            "dept": "datt",
+            "code": "3930",
+            "credit": 3.0,
+            "name": "Screen-Based Fluid Interfaces",
+            "prereqs": "facs2930 datt1000 datt1010",
+            "desc": "Looks beyond the vocabulary of the point-and-click gesture to fluid mouse gestures in interactive new media art. Fluid mouse gestures, those that involve reacting to movement, provide a vast array of possibilities to generate complex meaning. A course material fee is required. Prerequisite: FA/FACS 2930 6.00 or FA/DATT 1000 6.00 or FA/DATT 1010 3.00 permission of the course director. Course credit exclusion: FA/FACS 3930 6.00."
+        },
+        {
+            "dept": "datt",
+            "code": "3931",
+            "credit": 3.0,
+            "name": "Collaborative Performance Project I",
+            "prereqs": "facs2930 datt1000 datt1010 datt2400",
+            "desc": "In this course students work on a large scale project in collaboration with the Departments of Dance, Theatre, and/or Music. Students engage in a collaborative interdisciplinary artistic creation process with students from participating departments under the direction of an Artistic Director(s). The final project is typically presented in one of AMPD's large performance facilities. Time flexibility on the part of students in this course is critical as class sessions are scheduled around the availability of a diverse team.\n\nPrerequisite: FA/FACS 2930 6.00, FA/DATT 1000 6.00, or FA/DATT 1010 3.00, or FA/DATT 2400 3.00."
+        },
+        {
+            "dept": "datt",
+            "code": "3933",
+            "credit": 3.0,
+            "name": "Agents for Change: Creating Climate Futures",
+            "prereqs": "datt2050 eecs1720",
+            "desc": "Within a technologically agnostic framework, this course explores computational creativity in relation to ecological issues surrounding life, both human and non, within the Anthropocene. This course will focus on artwork as a powerful medium for communication that can help express ideas, develop empathy, and inspire change. Students will work collaboratively and independently on transdisciplinary projects at the intersection of art, science and technology and will be encouraged to critically and speculatively engage with topics relating to ecology, sustainability and the ecosophic world. Students will not be tethered to telling or exploring human stories, but rather are encouraged to radically engage with the experiences of the many diverse minds that we share our planet with. \n\nThis hands-on studio course combines thinking with doing, with an emphasis on contemporary issues arising out of a growing concern for our changing planet. Students will be presented with contemporary theory in the form of exposure to relevant artists, scientists and theorists in support of their individualized research trajectory. Students will be expected to deeply engage with ideas and produce high quality work that will cohere with the course objectives but also contribute to their individual goals as artists and thinkers. To this end students will determine the technologies they will work with and their working methodologies. Students will be encouraged to apply, enhance and refine the skills they have learned in other courses, including 3D modelling for 3D printing, 3D design for laser cutting, physical computing, Max/MSP, sculpture, and installation.\n\nPrerequisites: Recommended for students in the 3rd or 4th year of the Digital Media program. FA/DATT 2050 3.0 and LE/EECS 1720 3.0 or equivalent experience required, or by permission of the instructor."
+        },
+        {
+            "dept": "datt",
+            "code": "3940",
+            "credit": 3.0,
+            "name": "Modelling for 3D Fabrication",
+            "prereqs": "datt2050",
+            "desc": "Introduces students to the possibilities for creating digital objects using advanced 3D design software and 3D scanning technologies, and the related conceptual concerns. Prerequisite: three credits from FA/VISA 203x 3.00 series of courses; for DIGM students: FA/DATT 2050 3.00."
+        },
+        {
+            "dept": "datt",
+            "code": "3941",
+            "credit": 3.0,
+            "name": "Digital Fabrication",
+            "prereqs": "datt3940 visa3033",
+            "desc": "Introduces students to the possibilities for translating digital objects into physical objects using three-dimensional printing technologies, and the related conceptual concerns. Prerequisite: FA/DATT 3940 3.00 or FA/VISA 3033 3.00."
+        },
+        {
+            "dept": "datt",
+            "code": "4070",
+            "credit": 3.0,
+            "name": "Electro-Acoustic Orchestra",
+            "prereqs": "musi3070",
+            "desc": "Allows students to participate in a large electro-acoustic orchestra that will create (re-create) and perform both historical and contemporary repertoire using both the latest digital sound production hardware as well as traditional instruments. A participating student will be required to function as both performer and in at least one other capacity such as composer, arranger, improviser or conductor. Prerequisite: FA/MUSI 3070 3.00"
+        },
+        {
+            "dept": "datt",
+            "code": "4071",
+            "credit": 3.0,
+            "name": "Interactive Sonic Arts",
+            "prereqs": "",
+            "desc": "This course prepares students to compose and perform interactive music and sound art using computational means. Students learn the fundamental programming techniques required to realize algorithmic music compositions and interactive performance systems. Following the paradigms of composer/performer and of the composed-instrument, students' projects focus on writing an interactive composition (solo or ensemble) for their classmates, and developing an interactive performance system for personal expression. Topics include orientation to algorithmic composition principles, sound analysis/processing/synthesis methods, developing new interfaces for musical expression, and fundamentals of acoustics and auditory perception as they relate to computational music and sonic art creation. Contemporary research-creation practices in these ares are introduced, and contextualized relative to the rich historical, aesthetic and conceptual literature in the field of Computer Music. Prerequisites: MUSI 3070 or4070 Electro-Acoustic Orchestra or MUSI 1140 Digital and Electronic Media I or DATT 1000 - Introduction to Interactive Digital Media or Permission of Instructor. CCE: FA/DATT 4071 3.00."
+        },
+        {
+            "dept": "datt",
+            "code": "4300",
+            "credit": 3.0,
+            "name": "Game Development II",
+            "prereqs": "datt3300",
+            "desc": "Advanced topics in game development and implementation such as game engine techniques, game engine scripting, prototyping, player controls, and level design building on previous courses in game development and game mechanics. Advanced hands-on approach to the study and practice of games, gamification, and game play and their use in various applications, including video games, simulations, serious gaming, and art making contexts. Further explores new and cutting edge trends in gaming, such as in the areas of alt gaming, queer games, Not Games, and urban gaming where the potential and boundaries of games and game play are being challenged and tested. Prerequisite: FA/DATT 3300 3.00, or permission of the instructor.\r\n"
+        },
+        {
+            "dept": "datt",
+            "code": "4520",
+            "credit": 3.0,
+            "name": "Generative Art in Mixed Reality",
+            "prereqs": "datt2050 eecs2030 eecs3431",
+            "desc": "This course addresses the 3D space of mixed reality as a creative computational medium, to understand and create new kinds of artistic, generative, and responsive worlds. Mixed reality describes a rapidly evolving spectrum of technologies and techniques merging real and virtual space including for example spatial sensing and embodied interaction, spatial and heterogeneous visual and audio display. This hands-on course gives students an opportunity to learn about and undertake mixed reality world-making in a studio environment. \n\nThe course instructor provides one or more systems/environments incorporating software and hardware (spatial sensing &amp; display) with which students develop new generative and immersive experiences. Theoretical and technical instruction enables students to develop projects. Students also critically engage with internationally recognized historical and contemporary works in the field. The goal is to develop computationally literate art practices that apply the dynamic and interactive malleability of computation in 3D mixed reality, to deepen the generative responsiveness of media environments surrounding us. \n\nThe course is understood to be an experimental undertaking whose success very much depends on collective enthusiasm and active, collaborative engagement. Open to non-majors. Prerequisites: FA/DATT 2050 3.00 plus at least one of: LE/EECS2030 3.00, or any 3000-level LE/EECS course. LE/EECS3431 3.00 recommended."
+        },
+        {
+            "dept": "datt",
+            "code": "4930",
+            "credit": 3.0,
+            "name": "Cultural Theory Through New Media",
+            "prereqs": "",
+            "desc": "Offers an upper-level course in both multimedia art and contemporary cultural theory that is designed for students who have already achieved a significant level of accomplishment in both these areas. Students will undertake extensive theoretical research using both traditional and online resources. The result of that research will be integrated into advanced multimedia projects. Course material fee required. Prerequisite: Six credits in FA/DATT at the third-year level or permission of the course director. Course credit exclusion: FA/FACS 4930 3.00"
+        },
+        {
+            "dept": "datt",
+            "code": "4931",
+            "credit": 3.0,
+            "name": "Collaborative Performance Project II",
+            "prereqs": "datt3931",
+            "desc": "In this course students work on a large scale project in collaboration with the Departments of Dance, Theatre, and/or Music. Students engage in a collaborative interdisciplinary artistic creation process with students from participating departments under the direction of an Artistic Director(s). Students in this course are expected to take leadership roles. The final project is typically presented in one of AMPD's large performance facilities. Time flexibility on the part of students in this course is critical as class sessions are scheduled around the availability of a diverse team.\r\n\r\nPrerequisite: FA/DATT 3931 3.00.\n"
+        },
+        {
+            "dept": "datt",
+            "code": "4935",
+            "credit": 3.0,
+            "name": "Virtual Communities: Digital Activism and Social Justice",
+            "prereqs": "",
+            "desc": "Examines the formation of communities and new theories of mobilization in the digital era.  We will examine the recent history of digital media as a tool in the propagation of social advocacy and activism, focusing on the rise of a digitally networked public sphere through social media and mobile technologies that has come to shape contemporary social movements. We will look at the ways these emerging platforms have contributed to a growing resistance against systemic imbalances by bringing to attention issues in our policing and judicial systems, historical teachings and monuments, and the disparity in socio-economic impacts of global crises such as migration, climate change and public health.\n\nAt the same time, the course will explore the limits of digital media activism through the censorship, marketing and manipulation of information online by governments and markets, as well as challenge the assumption of digital equality by critically reviewing accessibility and digital literacies in the community.  Students will engage intentionally with these critical issues by thinking and prototyping new potential directions and strategies for social justice.\n\nThe course will combine theoretical readings with analyses of historical movements that build on virtual communities for social justice and activism.  Classes will also be supplemented by field trips, guest lectures and community-based activities.  Students will work towards a summative art project/social media campaign that addresses a current social crisis through a mixture of digital approaches."
+        },
+        {
+            "dept": "datt",
+            "code": "4990",
+            "credit": 3.0,
+            "name": "Independent Studies",
+            "prereqs": "",
+            "desc": "Students have the option of taking an Independent Studies course in a specialized area of Digital media with any faculty member in the Digital Media or Intermedia Program, provided a suitable course is not available in the current curriculum, and provided the course does not overlap significantly with a course taken previously. The student will be expected to meet regularly with the supervisor throughout the term. \nGeneral prerequisites: Successful completion of 24 credits in EECS or DATT and permission of course coordinator."
+        }
+    ]
+}

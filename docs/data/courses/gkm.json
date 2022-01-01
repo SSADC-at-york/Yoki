@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "gkm",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Modern Greek",
+            "prereqs": "",
+            "desc": "This course teaches the fundamentals of modern Greek: the writing system, pronunciation, basic forms and syntax. It also introduces simple conversation, reading and writing. Note: Not open to students who obtained their high school graduation (apolytirion) from Greece and Cyprus, nor to students with Grade 12 U or M Modern Greek (or equivalent). \r\nCourse credit exclusions: None.\r\n\r\nPrior TO FALL 2009: Course credit exclusions: AS/GKM 1000 6.00 and AK/AS/GK 1410 6.00 (prior to Fall/Winter 2002-2003)."
+        },
+        {
+            "dept": "gkm",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Modern Greek",
+            "prereqs": "gkm1000 gk1410",
+            "desc": "This course is designed to improve the student's oral and written command of the modern Greek language. Short texts relevant to modern Greek culture will be read and analyzed. Prerequisite: AP/GKM 1000 6.00 or AP/GK 1410 6.00 or Grade 12 U or M Modern Greek (or equivalent), or permission of the department."
+        },
+        {
+            "dept": "gkm",
+            "code": "3600",
+            "credit": 6.0,
+            "name": "Modern Greek Literature and Culture after Independence",
+            "prereqs": "gkm2000 gk2430 gkm2000",
+            "desc": "A general survey of the development of Greek literature and culture from the early 19th century, as they related to contemporary Greek consciousness. Further practice and study of modern Greek. Prerequisite: AP/GKM 2000 6.00 or AP/GK 2430 6.00, or permission of the department. With permission, students may co-enrol in AP/GKM 2000 6.00."
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "dest",
+            "code": "3770",
+            "credit": 3.0,
+            "name": "Deaf  Studies - Introduction",
+            "prereqs": "",
+            "desc": "This course studies how people develop their identities based on hearing status. It examines social, cultural, and political factors related to being Deaf or Hard of Hearing and develops understandings of how such factors affect family life, education, and communication.\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        },
+        {
+            "dept": "dest",
+            "code": "3780",
+            "credit": 3.0,
+            "name": "Deaf  Studies - Culture and Community                 ",
+            "prereqs": "",
+            "desc": "This course focuses on concepts related to the development and maintenance of Deaf communities and Deaf cultures. It also explores Deaf/hearing interactions and considers the role of communication in the development of positive Deaf/hearing relationships.\r\n\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        }
+    ]
+}

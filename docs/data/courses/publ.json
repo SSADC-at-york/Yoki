@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "publ",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Government and Business",
+            "prereqs": "",
+            "desc": "The public sector is a major force shaping the business environment. The mission of governments is to create public value, regulating, enabling and partnering with business in the process. This course offers a strategic understanding of the role of government, and of key features of public policy and management in different contexts across the globe. It challenges students to take on the role of public managers who need to improve performance and service delivery, often in collaboration with private and social sector partners."
+        },
+        {
+            "dept": "publ",
+            "code": "6155",
+            "credit": 3.0,
+            "name": "Democratic Administration",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

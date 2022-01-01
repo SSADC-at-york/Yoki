@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "dept": "ibus",
+            "code": "3100",
+            "credit": 3.0,
+            "name": "Introduction to International Business",
+            "prereqs": "",
+            "desc": "Provides a broad coverage of the essential elements of international business. Topics covered include: international business patterns; cross-cultural systems affecting the conduct of international business; theories of international business; international financial institutions; multinational corporations; and functional management and operational concerns. Previously offered as: SB/IBUS 4400 3.00.\n\r\nTHIS COURSE IS NOT OPEN TO iBBA students."
+        },
+        {
+            "dept": "ibus",
+            "code": "3200",
+            "credit": 3.0,
+            "name": "Managing International Business Activities",
+            "prereqs": "",
+            "desc": "This course focuses on how to deal with the issues affecting the success of organizations operating internationally through exporting, importing, licensing or engaging in foreign direct investment. Role-playing, and development of an international business plan will be utilized in generating the skills and mind-set required for dealing with real-life international business situations. \r\nPrerequisites or corequisites: Enrolment in the third- or fourth-year of the iBBA Program or enrolment in the third- or fourth-year of the BBA Program. BBA students must also take SB/ECON 3510 3.00 either as a corequisite or as a prerequisite for this course. The course is required for the Schulich Certificate in International Management, but students do not have to enrol in the Certificate to take the course."
+        },
+        {
+            "dept": "ibus",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Work Placement in the Global Context",
+            "prereqs": "",
+            "desc": "Work Placement in the Global Context provides undergraduate students with an opportunity to earn credit for gaining relevant work experience in a global context. Approval of work placement must be obtained by the undergraduate associate program director prior to start of the course."
+        },
+        {
+            "dept": "ibus",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "Integrative International Business Seminar",
+            "prereqs": "",
+            "desc": "This course is the capstone for the Certificate in International Management. By exposure to senior executives operating in international business, who will be presenting seminars, and by actual visits to actual businesses, students will be able to see how real-life situations are dealt with, and what skills and mind-set are required to be successful in international business.\r\nPrerequisite or Corequisite: SB/IBUS 3200 3.00\r\nNote: Preference will be given to students enrolled in the Certificate in International Management."
+        },
+        {
+            "dept": "ibus",
+            "code": "4500",
+            "credit": 3.0,
+            "name": "Managing Business in Developing Economies",
+            "prereqs": "",
+            "desc": "The course is designed to help students understand the opportunities and problems of managing business in developing economies. Through readings, cases and projects set in various geographical regions, students will learn how country- and organizational-level characteristics of various developing economies differentially influence market entry and related business functions in these economies.\r\n\r\nPrerequisites or corequisites: Third-year or fourth-year standing in the program."
+        },
+        {
+            "dept": "ibus",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study: Selected Problems in International Business",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "ibus",
+            "code": "6410",
+            "credit": 3.0,
+            "name": "International Business: Strategic Overview for Managers",
+            "prereqs": "",
+            "desc": "Examines issues and challenges that arise when business transactions and organizations transcend national boundaries and become international, regional or global. Entry strategies and adjustments to managerial functions are considered for multiple sectors/industries (e.g., manufacturing, services; autos, pharmaceuticals, advertising, hotels) and a variety of countries in the major regions of the world (Americas, Asia, Europe and Africa/Middle East).\r\n\r\nPrerequisites: All 5100-series Required Foundations of Management Core Courses or permission of the Instructor\r.\nNOTE: Not open to IMBA students."
+        },
+        {
+            "dept": "ibus",
+            "code": "6490",
+            "credit": 3.0,
+            "name": "International Negotiations: Analysis, Strategy and Practice",
+            "prereqs": "",
+            "desc": "Provides structured approaches to understanding, planning, and doing business negotiations in international contexts. Students apply their business knowledge in a series of interactive exercises and written assignments in order to develop analytic, strategic and practical negotiation skills. On two Saturdays, students conduct complex negotiation simulations (e.g., alliance formation, foreign market entry) and receive performance feedback from experienced negotiators. \r\nPrerequisites for students in MBA Program:  All 5000-series Required Foundations of Management Core Courses or permission of the Instructor. \r\nPrerequisites for students in IMBA Program: All IMBA first year required core courses "
+        },
+        {
+            "dept": "ibus",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in International Business",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "ibus",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in International Business",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

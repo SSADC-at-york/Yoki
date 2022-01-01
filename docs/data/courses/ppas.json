@@ -1,0 +1,244 @@
+{
+    "courses": [
+        {
+            "dept": "ppas",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Politics: Exploring the Democratic Experience",
+            "prereqs": "",
+            "desc": "Introduces students to the central concepts of political science. The emphasis is on how individuals participate in politics and on how politics may be changed. Among the topics to be considered are the following: nationalism and nation building, liberalism, communism, fascism, power, war, imperialism and dependency, international organization, interdependence and integration. Material from municipal, provincial, national and international levels of politics will be included as well as material on current policy issues, such as recent changes in the Ontario Human Rights Code. Course credit exclusion: GL/POLS 1400 6.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "1110",
+            "credit": 3.0,
+            "name": "Introduction to Public Administration: Bureaucracy and Western Liberal Capitalist Democracy",
+            "prereqs": "",
+            "desc": "A comparative introduction to public administration which explores the ways in which the key institutions of western civilization impact on the work of public servants and the ways in which these institutions are, in turn, reshaped by their interaction with the primary institution of the public service, bureaucracy."
+        },
+        {
+            "dept": "ppas",
+            "code": "2110",
+            "credit": 3.0,
+            "name": "Canadian Government",
+            "prereqs": "",
+            "desc": "Provides a systematic introduction to Canadian government and politics with a particular focus on political institutions. Topics will include the executive, the legislature, the judiciary, federalism, the policy process, electoral behavior, and group politics. Course credit exclusions: AP/POLS 2910 6.00, GL/POLS 2600 6.00, AP/POLS 2100 3.0. Previously offered as: AP/PPAS 2110 6.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "2195",
+            "credit": 3.0,
+            "name": "Professional Skills and Communication",
+            "prereqs": "",
+            "desc": "Introduces students to the norms of behavior and decision-making protocols in the public sector. Lectures are combined with simulations, discussions and group activities to develop effective oral and written communication skills, team building and conflict resolution capabilities along with political acuity, intercultural skills and social media management. Prepares students for experiential education opportunities including practicums and internships."
+        },
+        {
+            "dept": "ppas",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Communities and Public Law",
+            "prereqs": "",
+            "desc": "Introduces students to the Canadian legal system and the major components of public law. More specifically it examines the relationship between communities and the fundamental principles underpinning administrative law, constitutional law and criminal law."
+        },
+        {
+            "dept": "ppas",
+            "code": "2420",
+            "credit": 3.0,
+            "name": "Community Policing",
+            "prereqs": "",
+            "desc": "Provides a sociological analysis of a particular strategy of public policing (community policing). The nature of community policing is analyzed in reference to the contemporary and historical debates regarding the mandate and accountability of modern policing."
+        },
+        {
+            "dept": "ppas",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Politics, Policy And Law Of Minority Rights",
+            "prereqs": "",
+            "desc": "Provides students with an overview of the legal and political issues and public policy concerns pertaining to minority rights. Legal Definitions of &quot;a minority&quot; and &quot;discrimination&quot;, as well as how claims are made to counter discrimination in different policy areas, will be critically examined. The minority rights jurisprudence to be covered in this course is comprehensive and policy-relevant. "
+        },
+        {
+            "dept": "ppas",
+            "code": "3135",
+            "credit": 3.0,
+            "name": "Public Law I: The Constitution and the Courts in Canada",
+            "prereqs": "",
+            "desc": "An examination of the Canadian court structure, judicial review of federalism, the role of courts and lawyers, and the relationship between law, politics and public policy. Using technology-enhanced learning, students participate in electronic discussions and mock trials."
+        },
+        {
+            "dept": "ppas",
+            "code": "3136",
+            "credit": 3.0,
+            "name": "Public Law II: The Charter of Rights and Freedoms and the Limits of Public Administration",
+            "prereqs": "",
+            "desc": "We focus on the Canadian Charter of Rights and Freedoms, including freedom of expression, legal rights, equality rights, language rights, aboriginal people's rights and judicial review of public administration.\nCourse credit exclusion: AP/SOSC 3360 6.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "3190",
+            "credit": 6.0,
+            "name": "Public Administration",
+            "prereqs": "",
+            "desc": "Examines the theory and practice of policy making and public administration as well as the machinery of government, with particular reference to Canada. It discusses who makes policy, how policy is developed and implemented, and how the system is controlled and evaluated. Course credit exclusion: GL/POLS 2500 6.00.\r\n"
+        },
+        {
+            "dept": "ppas",
+            "code": "3300",
+            "credit": 6.0,
+            "name": "Statistics for Social Sciences",
+            "prereqs": "",
+            "desc": "Provides a basic understanding of the statistical reasoning and fundamental statistical techniques frequently used to analyze social data. It introduces students to the uses of computers and statistics in the social sciences. It helps develop necessary critical skills to evaluate empirical research. \r\nCourse credit exclusions: AP/ADMS 2320 3.00, AP/ECON 2500 3.00, AP/GEOG 2420 3.00, SC/GEOG 2420 3.00, AP/GEOG 3421 3.00, SC/GEOG 3421 3.00, GL/MATH 1610 3.00, GL/MATH 1620 3.00, GL/MODR 1610 3.00, GL/MODR 1620 3.00, GL/POLS 2610 3.00, GL/POLS 2620 3.00, GL/SOCI 2610 3.00, GL/SOCI 2620 3.00, HH/KINE 2050 3.00, HH/KINE 3150 3.00, HH/PSYC 2020 6.00, HH/PSYC 2021 3.00, HH/PSYC 2022 3.00, SC/BIOL 2060 3.00, SC/MATH 2560 3.00, SC/MATH 2565 3.00, SC/MATH 2570 3.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "3524",
+            "credit": 3.0,
+            "name": "Public Sector Budget Process",
+            "prereqs": "",
+            "desc": "Examines the key issues and context of the budget process and the increasing importance of oversight, transparency and accountability in the public sector in Canada. Assesses current approaches to budget policy, fiscal management and accountability frameworks. Prerequisites: AP/ECON 1000 3.00, AP/ECON 1010 3.00, AP/ADMS 2500 3.00 (or AP/ADMS 1500 3.00 or AP/ADMS 1550 3.00)."
+        },
+        {
+            "dept": "ppas",
+            "code": "3569",
+            "credit": 3.0,
+            "name": "Economic Policy in Developing Countries",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Examines policy issues arising from development planning. Topics include agriculture versus industry, international trade, monetary and fiscal policies, foreign investment, foreign aid and self-reliance, and global issues. Prerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents. Course credit exclusions: AP/ECON 3560 3.00, AP/PPAS 3560 3.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "3761",
+            "credit": 3.0,
+            "name": "Canada's Social Policy",
+            "prereqs": "",
+            "desc": "Examines Canadian federal, provincial and municipal programs aimed at those outside the paid labour force. Programs covered include health care, child care services and benefits, old age pensions, social assistance and disability. Covers current debates on future of the welfare state. \nCourse credit exclusions: Prior to Fall 2019: AP/HREQ 3761 3.00\n\n"
+        },
+        {
+            "dept": "ppas",
+            "code": "3762",
+            "credit": 3.0,
+            "name": "Canada's Labour Market",
+            "prereqs": "",
+            "desc": "Examines the development and operation of government programs in Canada directed at influencing labour supply/demand, including training and education policies, employment/unemployment insurance, job creation policies, collective bargaining, employment standards, pay equity and employment equity, and immigration. Considers current debates about the role of the state in regulating the labour market. \nCourse credit exclusions: Prior to Fall 2019: AP/HREQ 3762 3.00\n\n"
+        },
+        {
+            "dept": "ppas",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Directed Reading/Special Study",
+            "prereqs": "ppas3190",
+            "desc": "Students will do supervised special study in one or two selected areas. Students wishing to enrol are to contact the Undergraduate Program Director of the School of Public Policy &amp; Administration. \r\nPrerequisites: 78 credits including either AP/PPAS 3190 6.00 and permission of the Undergraduate Program Director. Note: Students must be accepted by a faculty supervisor before they can register in the 4000-level reading course. Students wishing to enrol must complete and submit a Directed Reading/Special Study request form (signed by the proposed faculty supervisor) and attach a reading list for the course."
+        },
+        {
+            "dept": "ppas",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Directed Reading/Special Study",
+            "prereqs": "ppas3190",
+            "desc": "Students will do supervised special study in one or two selected areas. Students wishing to enrol are to contact the Undergraduate Program Director of the School of Public Policy &amp; Administration. \r\nPrerequisites: 78 credits including either AP/PPAS 3190 6.00 and permission of the Undergraduate Program Director. Note: Students must be accepted by a faculty supervisor before they can register in the 4000-level reading course. Students wishing to enrol must complete and submit a Directed Reading/Special Study request form (signed by the proposed faculty supervisor) and attach a reading list for the course."
+        },
+        {
+            "dept": "ppas",
+            "code": "4052",
+            "credit": 3.0,
+            "name": "Race, Ethnicity and Social Policy",
+            "prereqs": "",
+            "desc": "Focuses on training students to analyze and construct public policy analysis on social issues through the lens of race and ethnicity. Through this course, public policy analysis will be utilized as a tool for understanding and impacting the prevailing social agenda from a race and ethnicity perspective. Course credit exclusions: AP/MIST 3680 6.00, AP/REI 3680 6.00 (prior to Fall 2013), AP/SOCI 3680 6.00 (prior to Fall 2012), AP/MIST 4052 3.00\nPreviously offered as: AP/MIST 4052 3.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "4070",
+            "credit": 6.0,
+            "name": "Sociology of Law",
+            "prereqs": "",
+            "desc": "Examines social institutions and ideologies of law. The foundations and practices of law are studied in reference to the influences of capitalism, liberalism and modernity. Informed by classical and contemporary perspectives, this course examines the relationship between law and society."
+        },
+        {
+            "dept": "ppas",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Regional Economic Development",
+            "prereqs": "econ1000 econ1010",
+            "desc": "Regional Economic Development is the process of creating wealth through the mobilization of resources to generate new jobs and additional tax bases. The course will analyze the theory and practice of local economic development in Ontario. \r\nPrerequisites: AP/ECON 1000 3.00 and AP/ECON 1010 3.00 or equivalents, or permission of the Instructor."
+        },
+        {
+            "dept": "ppas",
+            "code": "4111",
+            "credit": 3.0,
+            "name": "The International Refugee Protection Regime I: Criticial Problems",
+            "prereqs": "",
+            "desc": "Using multi-disciplinary analytical perspectives, the current state of the international refugee protection regime will be examined to reveal the underlying forces and dynamics at the root of the critical problems and the probable solutions facing those seeking international protection. \nCourse credit exclusions: AP/HREQ 4772 3.00"
+        },
+        {
+            "dept": "ppas",
+            "code": "4112",
+            "credit": 3.0,
+            "name": "The International Refugee Protection Regime II: Research Seminar",
+            "prereqs": "ppas4111",
+            "desc": "Analyzes and examines specific international asylum and refugee issues from an interdisciplinary perspective. Students will conduct independent research on international asylum and refugee issues and will have an Experiential Education opportunity with an organization working with refugees. \nPrerequisite: AP/PPAS 4111 3.00. \nCourse credit exclusions: AP/HREQ 4772 3.00\n\n"
+        },
+        {
+            "dept": "ppas",
+            "code": "4115",
+            "credit": 6.0,
+            "name": "The Political Economy of the State and Finance",
+            "prereqs": "",
+            "desc": "Examines the political economy of the modern state from different approaches, with particular attention to the modern fiscal-welfare state, taxation and economic policy, inter-state coordination. This will also include the study of issues of finance in relation to central bank policies, money markets and the funding of governments. The challenges posed by globalization and the new politics of austerity for economic policy and alternate egalitarian policies will also be examined.\n"
+        },
+        {
+            "dept": "ppas",
+            "code": "4130",
+            "credit": 6.0,
+            "name": "Politics, Law and the Courts",
+            "prereqs": "",
+            "desc": "Students are introduced to the administration of justice in Canada. Its focus is on the relationship between the administration of the legal system and the outcomes of civil and criminal disputes. Course credit exclusions: AP/POLS 4401 3.00, AP/SOSC 4362 6.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "4190",
+            "credit": 3.0,
+            "name": "Ethics and the Public Service:  Integrity and Democracy",
+            "prereqs": "ppas2110 ppas2110 ppas2910 pols2600",
+            "desc": "This course analyzes the basic ideas that underlie ethical principles in the public sector in democratic countries, with emphasis on Canada. \r\nPrerequisites: AP/PPAS 2110 6.00 or AP/PPAS 2110 3.00 or AP/PPAS 2910 6.00 or GL/POLS 2600 6.00, or permission of the Instructor."
+        },
+        {
+            "dept": "ppas",
+            "code": "4200",
+            "credit": 6.0,
+            "name": "Applied Public Policy Analysis ",
+            "prereqs": "ppas3190 pols3190",
+            "desc": "An applied analysis of specific areas of public policy chosen to reflect current public debates. The primary focus is on Canada, but comparisons with other countries are made where useful to understanding the policy process in Canada. Students apply their knowledge of policy analysis in the context of case studies and/or real world projects with community partners. \r\nPrerequisites: 78 credits including AP/PPAS 3190 6.00 or AP/POLS 3190 6.00 or, for students with equivalent preparation, permission of the Undergraduate Program Director. Course credit exclusions: AP/PPAS 4300 6.00, AP/POLS 4300 6.00, GL/POLS 4300 6.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Program Evaluation I",
+            "prereqs": "pols3300 ppas3300",
+            "desc": "Provides students with the fundamental methodological tools necessary to evaluate the effectiveness of government programs, and includes a review of the extensive literature in this area. Students will learn techniques for evaluating assessments, and will learn to develop research designs for formative evaluations, summative evaluations and needs studies. \r\nPrerequisites: AP/POLS 3300 6.00 or AP/PPAS 3300 6.00, or permission of the Instructor. Course credit exclusions: AP/POLS 4300 6.00, AP/PPAS 4300 6.00, GL/POLS 4300 6.00. \r\n\r\nNote: Students taking this course are strongly encouraged to also complete AP/PPAS 4320 3.00 offered in the subsequent term. The reason for this recommendation is that students typically work on the same program evaluation project in the two courses."
+        },
+        {
+            "dept": "ppas",
+            "code": "4320",
+            "credit": 3.0,
+            "name": "Program Evaluation II",
+            "prereqs": "pols3300 ppas4310",
+            "desc": "Provides students with a variety of methodological tools and case study practice necessary to effectively carry out the evaluation studies of government programs and public policies. Students will have an opportunity to undertake assessments, put research designs into practice for formative evaluations, summative evaluations and needs studies. \r\nPrerequisites: AP/PPAS/POLS 3300 6.00 and AP/PPAS 4310 3.00. \r\nCourse credit exclusions: AP/PPAS/POLS 4300 6.00, GL/POLS 4300 6.00. \r\n\r\n"
+        },
+        {
+            "dept": "ppas",
+            "code": "4390",
+            "credit": 3.0,
+            "name": "Public Administration of Ontario: Sub-National Governance in Comparison",
+            "prereqs": "ppas3190 pols3190",
+            "desc": "Explores the institutional structures that under-pin the public administration of Ontario and the consequences that these structures hold for policymaking and public management in an era when states are said to be required to practice governance in partnership with multiple actors. Prerequisites: AP/PPAS 3190 6.00 or AP/POLS 3190 6.00."
+        },
+        {
+            "dept": "ppas",
+            "code": "4995",
+            "credit": 6.0,
+            "name": "Practicum in Public Administration",
+            "prereqs": "",
+            "desc": "Public policy and administration students in their fourth-year may take an independent, individually-supervised reading and research course which combines volunteer work experience in an agency with an academic analysis of that experience. The course may be taken either on a full-year or half-year basis, when the student and the course meet the requirements set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Prerequisite: AP/PPAS 3190 6.00 or AP/POLS 3190 6.00 or AP/SOCI 3490 6.00 or permission of the Instructor. \r\nNote: Enrolment in this course is on a competitive basis and by permission only. Interested students should contact the School of Public Policy &amp; Administration for more information."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "lls",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Language and Learning Seminar",
+            "prereqs": "",
+            "desc": "This course is intended primarily to assist students with learning disabilities in their transition to University studies. It aims to enhance students' theoretical understanding of language and to develop practical language skills in order to meet the academic demands of the University."
+        }
+    ]
+}

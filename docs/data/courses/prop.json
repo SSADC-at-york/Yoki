@@ -1,0 +1,140 @@
+{
+    "courses": [
+        {
+            "dept": "prop",
+            "code": "4800",
+            "credit": 3.0,
+            "name": "Real Estate Development and Marketing",
+            "prereqs": "",
+            "desc": "Provides a conceptual framework that allows students to identify and explore issues fundamental to all real estate decisions. This framework will then be applied with tools and techniques of analysis that pertain specifically to new real estate development in the current economy while integrating the various marketing strategies integral to all new real estate ventures."
+        },
+        {
+            "dept": "prop",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Guided Study: Real Property",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "prop",
+            "code": "4950",
+            "credit": 3.0,
+            "name": "Real Estate Finance",
+            "prereqs": "",
+            "desc": "Course provides an understanding of the fundamental tools and techniques of financial analysis used when making decisions to borrow, lend, invest in, or manage real property assets. Set within an overview of the real estate industry that provides some important institutional characteristics of the industry, the course focuses on applied analytical approaches and methodologies that are transferable to many different problem areas. Topics include methods of evaluation and appraisal, risk assessment, discounted cash flow analysis, mortgage calculations, taxation, use of leverage, debt and deal structuring, and portfolio investment."
+        },
+        {
+            "dept": "prop",
+            "code": "6001",
+            "credit": 0.0,
+            "name": "Leadership in Real Estate and Infrastructure I",
+            "prereqs": "",
+            "desc": "This course develops the thinking and reflective skills required for leadership in a turbulent world, with specific emphasis on real estate and infrastructure. It explores contemporary leadership challenges and opportunities, and introduces students to thinking techniques relevant for complex contexts. This course is the first part of a three-course sequence."
+        },
+        {
+            "dept": "prop",
+            "code": "6002",
+            "credit": 0.0,
+            "name": "Leadership in Real Estate and Infrastructure II",
+            "prereqs": "",
+            "desc": "This course develops the reflective and interpersonal skills required for effective leadership in a relationship based sector such as real estate and infrastructure. Through lectures, exercises and self-assessments, students will enhance their self-awareness, context-awareness and ability to work with others in order to make a positive leadership difference. This course is non-credit and the second part of a three-course sequence."
+        },
+        {
+            "dept": "prop",
+            "code": "6050",
+            "credit": 3.0,
+            "name": "Historical Perspectives on the Industry",
+            "prereqs": "",
+            "desc": "Examines the key factors, firms, and personalities that have shaped urban development, ranging from the economy to technology,  government policy, culture, industry structure, and people/firms that have made a difference over time. The course analyzes the past to better understand trends that will shape the future of real estate and infrastructure development in Canada and abroad.\r\nOnly available to MREI students."
+        },
+        {
+            "dept": "prop",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Real Estate Finance &amp; Investment       ",
+            "prereqs": "",
+            "desc": "Course provides the requisite quantitative skills for analyzing real estate investments and fosters development of a critical perspective in financial decision-making. It covers valuation techniques, cash flow modeling, development feasibility analysis, tax considerations, debt and equity financing, risk assessment and also examines strategic and tactical investment considerations. The course uses a prescribed text, case studies, problem sets and group assignments and has a quantitative focus. Use of financial calculators and personal computers is required.\r\nMBA Prerequisite: All 5000-series Required Foundations of Management Core Courses.\r\nMBA Corequisite: SB/PROP 6200 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "prop",
+            "code": "6150",
+            "credit": 3.0,
+            "name": "Economic Forces Shaping the City",
+            "prereqs": "",
+            "desc": "Those who shape cities must understand the fundamental economic forces at work and the resulting spatial pattern of activities that sustain city life. The course contributes to an understanding of these forces and the role they play in achieving a better built environment. This includes a theoretical perspective as well as the skills and knowledge to make wise decisions."
+        },
+        {
+            "dept": "prop",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Development Prototypes",
+            "prereqs": "",
+            "desc": "This course deals with development, developers, and the products that they create. The course provides an understanding of the business of real estate development, insights into the economic, functional, technical, and aesthetic factors that shape dominant building forms, and an understanding of the link between demand and product development. Course content spans an understanding of the spatial economy of cities-where economic activity occurs and why-to the interaction between demand and supply in the marketplace, a detailed examination of the products that are shaped by market forces, and an overview of new prototypes that are emerging to meet emerging demands. The course is delivered through a combination of lectures, case studies, and guest speakers from industry.\r\nMBA Prerequisites: All 5000-series Required Foundations of Management Core Courses. \r\nMBA Corequisites: SB/PROP 6100 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "prop",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Infrastructure Delivery Models",
+            "prereqs": "",
+            "desc": "Infrastructure is an international business of increasing scope, complexity and scale that typically involves  both  the  public  and  private  sectors  in various partnership arrangements.   This course examines the many &quot;moving parts&quot; of this business and explores the various partnership models that are being employed to address a variety of social and economic infrastructure needs.\r\nMBA Prerequisites:  All 5000-series Required Foundations of Management Core Courses\r\nNotes: Open to MREI students only."
+        },
+        {
+            "dept": "prop",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Infrastructure Investment and Finance",
+            "prereqs": "prop6300",
+            "desc": "This course examines project viability and risk, ownership and contractual structures, funding sources, and financial structuring for infrastructure projects. It also introduces infrastructure as an asset-class and provides an overview of the international infrastructure market with focus on the demand for infrastructure assets and expected capital requirements.\r\nPrerequisites: SB/PROP 6300 3.00\r\nNote: Open to MREI students only"
+        },
+        {
+            "dept": "prop",
+            "code": "6450",
+            "credit": 3.0,
+            "name": "Life of a Project",
+            "prereqs": "",
+            "desc": "This course deals with the phase between conceptual development of an asset and its occupancy/operation. Content is covered from the perspective of the owner/client ranging from project initiation to what embodies final success for various stakeholders. Management processes, roles/responsibilities, stakeholder engagement, and delivery models are examined to understand how project structure can meet project  objectives.\r\nOnly available to MREI students."
+        },
+        {
+            "dept": "prop",
+            "code": "6550",
+            "credit": 3.0,
+            "name": "Sustainable Cities: Urbanization, Infrastructure, and Strategic Choices",
+            "prereqs": "",
+            "desc": "Provides an understanding of issues related to the pace of urbanization across the globe and the impact on the demand for new infrastructure. The challenges for both developing and developed countries is examined from the perspective of potential new strategies, new technologies, new business models and new financing techniques that can begin to make a difference in addressing a full range of infrastructure needs. In terms of sustainability, this will include an understanding of the demand side and supply side, cultural factors, and the policy framework."
+        },
+        {
+            "dept": "prop",
+            "code": "6600",
+            "credit": 3.0,
+            "name": "Real Estate Portfolio Management",
+            "prereqs": "prop6100",
+            "desc": "This course deals with the spectrum of investment styles, structures and strategies employed in the creation and management of institutional real estate investment portfolios in both the private and public markets. It includes a review of portfolio theory in a real estate context; examination of the concepts of risk, return, and diversification and how they influcence portfolio planning decisions; consideration of the advantages and disadvantages of various investment vehicles; and the consequences of international diversification on portfolio performance.\r\nPrerequisite:  SB/PROP 6100 3.00\r\nNote: Open to MBA students only.\r\n\r\n"
+        },
+        {
+            "dept": "prop",
+            "code": "6850",
+            "credit": 3.0,
+            "name": "Structuring Development Transactions",
+            "prereqs": "",
+            "desc": "This course addresses considerations involved when structuring real estate and infrastructure development transactions. This course provides a basic understanding of the theories, techniques, and institutions involved in legally controlling the possession, use, and preservation of development rights. This course also addresses transactional details from inception into operation of development projects.\r\nPrerequisites: PROP 6100 3.00 and PROP 6200 3.00. \r\n"
+        },
+        {
+            "dept": "prop",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Real Property",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "prop",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Real Property",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

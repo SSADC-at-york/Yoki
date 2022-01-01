@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "fnd",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Fundamentals of Learning: Essentials for a Successful University Experience",
+            "prereqs": "",
+            "desc": "This course focuses on skills essential for a successful university experience. The course covers topics such as time management, reading skills, note taking, study and exam techniques, essay writing, library research skills, and personal issues such as self-esteem, managing\r emotions and confidence. The course evaluation will be pass/fail only.\n Note: This course is not open to all students; enrolment is restricted."
+        }
+    ]
+}

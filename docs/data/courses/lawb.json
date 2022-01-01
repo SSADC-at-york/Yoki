@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "lawb",
+            "code": "6735",
+            "credit": 3.0,
+            "name": "Boards of Directors ",
+            "prereqs": "",
+            "desc": "Examines how management of the corporation is established; composition of the board and audit committees; corporate governance; separation of ownership and control; duties and powers of directors/officers; duty of care; disclosure and business judgement rules; and liability."
+        },
+        {
+            "dept": "lawb",
+            "code": "6749",
+            "credit": 3.0,
+            "name": "Corporate Governance",
+            "prereqs": "",
+            "desc": "In the aftermath of the global financial\rcrisis, this course critically assesses, at an advanced level, current\racademic and practitioner thinking in corporate law, policy and research i light of North American and international developments in corporat governance."
+        },
+        {
+            "dept": "lawb",
+            "code": "6888",
+            "credit": 3.0,
+            "name": "Intellectual Property Law in a Business Context",
+            "prereqs": "",
+            "desc": "This course introduces the general structure of intellectual property law systems and key issues arising in seeking to minimize a business's exposure to infringement."
+        },
+        {
+            "dept": "lawb",
+            "code": "6902",
+            "credit": 3.0,
+            "name": "Corporate Finance",
+            "prereqs": "",
+            "desc": "This course introduces financing techniques available to businesses, including limitations and constraints on financing alternatives. Recent financings of Canadian public companies are examined. The mandate of institutional bodies that regulate capital markets is examined, as well as other topical themes such as the impact of the credit crisis and the intersection of securities regulation and business law."
+        },
+        {
+            "dept": "lawb",
+            "code": "6909",
+            "credit": 3.0,
+            "name": "Corporate Transactions",
+            "prereqs": "",
+            "desc": "This course examines corporate transactions, both public and private, and the various means of financing corporate transactions. It provides practical perspectives on the fundamental motivations underlying business negotiations and the critical components of corporate transactions."
+        }
+    ]
+}

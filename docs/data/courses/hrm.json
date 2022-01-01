@@ -1,0 +1,332 @@
+{
+    "courses": [
+        {
+            "dept": "hrm",
+            "code": "2600",
+            "credit": 3.0,
+            "name": "Human Resources Management",
+            "prereqs": "adms1000 adms1000 adms1000",
+            "desc": "This course examines a number of issues in Canadian human resources management including: human resources planning, recruitment, selection, performance appraisal, industrial relations, and training and development. \r\nPrerequisite: AP/ADMS 1000 3.00 (students in the BCOM/BHRM programs, the HRM Certificate or the HRM Minor may take AP/ADMS 1000 3.00 concurrently with AP/ADMS/HRM 2600 3.00). \r\nPrior TO FALL 2009: Prerequisite: AK/ADMS 1000 3.00 (students in the BCOM/BHRM programs may take AK/ADMS\r\n1000 3.00 concurrently with AK/ADMS 2600 3.00). \r\nCourse credit exclusions: AK/ADMS 2600 3.00, AK/ADMS 3480 3.00 (prior to Summer 2001)."
+        },
+        {
+            "dept": "hrm",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Occupational Health and Safety",
+            "prereqs": "adms1000 adms1000",
+            "desc": "Covers federal and provincial occupational health and safety legislation, hazard identification and control, physical agents, chemical agents, socio-psychological aspects of health and the management of safety programs. \r\nPrerequisite: AP/ADMS 1000 3.00, for all BCOM and BCOM Honours students. \r\nPrior TO FALL 2009: Prerequisite: AK/ADMS 1000 3.00, for all BCOM and BCOM Honours students. Course credit exclusions: AK/ADMS 3400 3.00, AK/HLST 3240 3.00 prior to F/W 2008."
+        },
+        {
+            "dept": "hrm",
+            "code": "3410",
+            "credit": 3.0,
+            "name": "Training and Development",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "Covers the corporate training process of needs analysis, objective setting, program design, adult education, equity in training, methods and evaluation, as well as alternatives to training and the role of stakeholder. Prerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00, and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "3420",
+            "credit": 3.0,
+            "name": "Employment Law",
+            "prereqs": "hrm2600",
+            "desc": "Provides a basic understanding of the law and issues governing the employer-employee relationship. The rights and obligations of employers and employees are examined, as well as labour relations in unionized settings. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "3422",
+            "credit": 3.0,
+            "name": "Industrial Relations",
+            "prereqs": "adms2400",
+            "desc": "Examines the history of unions, the nature of the industrial relations systems including the legal framework, the social psychological climate, contract negotiation and administration. Ideologies and trends are discussed. Prerequisite: AP/ADMS 2400 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "3430",
+            "credit": 3.0,
+            "name": "Human Resources Planning",
+            "prereqs": "hrm2600",
+            "desc": "Provides students with an understanding of the personnel planning process, the qualitative and quantitative techniques used in forecasting personnel requirements, and feasible solutions to shortages or surpluses. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "3440",
+            "credit": 3.0,
+            "name": "Leadership and Management Skills",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "This course focuses on imparting to students key skills associated with managerial success in organizations. Leadership is a key theme throughout the course, which also addresses decision-making, conflict resolution, time management, team-building, negotiating, and other critical management skills. Prerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00, and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "3450",
+            "credit": 3.0,
+            "name": "Equity, Diversity and Inclusion in the Workplace",
+            "prereqs": "hrm2600",
+            "desc": "Provides basic understanding of diversity and inclusion practices in organizations and in the Canadian workforce. Issues of inequality and discrimination are examined through theoretical lenses that inform the practice of diversity management. The value of diversity and inclusion, and means of accommodation are explored. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "3470",
+            "credit": 3.0,
+            "name": "Recruitment, Selection and  Performance Appraisal of Personnel",
+            "prereqs": "hrm2600",
+            "desc": "This course enables the student to identify the appropriate recruiting methods for locating and attracting different types of candidates, explains the key steps in the selection process, evaluates the validity of various selection techniques and describes various performance appraisal methods. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "3490",
+            "credit": 3.0,
+            "name": "Compensation",
+            "prereqs": "hrm2600",
+            "desc": "Provides the student with an understanding of the objectives of a compensation program; the process and techniques of wage and salary determination; issues and problems in incentive systems, benefits and services and the management of these programs. Prerequisite: AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "3495",
+            "credit": 0.0,
+            "name": "Human Resources Management Internship Work Term",
+            "prereqs": "",
+            "desc": "This experiential education course reflects the work term component of the Human Resources Management Internship Program (HRMIP). Qualified Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course receive assistance from the Career Centre prior to and during their internship, and are also assigned a Faculty Supervisor/Committee. Registration in AP/HRM 3495 0.00 provides a record on the transcript for each work term.\r\n\r\nEnrolment in this course is by permission only. Criteria for permission include: 1. that students have successfully completed AP/HRM 2600 3.00 and at least nine HRM credits at the 3000-level with GPA of at least six in the major AP/HRM courses; 2. that students are enrolled full-time in the Honours Bachelor of Human Resources Management prior to beginning their internship and have attended the mandatory preparatory sessions as outlined by the Career Centre; 3. that students have not been absent for more than two consecutive years as a full-time student from their Honours degree studies; 4. that students have a minimum of 15 credits remaining to complete for their Honours degree upon enrolling in this course and to return as a full-time student for at least one academic term upon completion of their final work term. \r\nCourse credit exclusion: AP/ADMS 3495 0.00 (prior to Summer 2011)."
+        },
+        {
+            "dept": "hrm",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Strategic Human Resources Management",
+            "prereqs": "hrm2600 hrm3400 hrm3410 hrm3422 hrm3430 hrm3470 hrm3490",
+            "desc": "Examines the evolution of the HR role, the trends that impact on HRM, the threats and opportunities affecting the HR function. Discusses strategy, action plans, priority management, measurement of results and competencies. \r\nPrerequisites: AP/HRM 2600 3.00, AP/HRM 3400 3.00, AP/HRM 3410 3.00, AP/HRM 3422 3.00, AP/HRM 3430 3.00, AP/HRM 3470 3.00, AP/HRM 3490 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4420",
+            "credit": 3.0,
+            "name": "Human Resources Research Methods",
+            "prereqs": "hrm2600 hrm2600",
+            "desc": "Examines the research function in HRM. Topics include measurement and evaluation, as well as experimental, survey and qualitative research methods. Emphasis is placed on how to design research to measure and evaluate HRM programs. \r\nPrerequisites: 1) For students in the Honours program, 78 credits including AP/HRM 2600 3.00, or 2) for other students, a grade of C+ or better in AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4430",
+            "credit": 3.0,
+            "name": "Career Management",
+            "prereqs": "hrm2600 hrm3410",
+            "desc": "Provides students with the theory and skills to enable them to manage their own careers, the careers of employees and the career process within organizations. Prerequisites: AP/HRM 2600 3.00 and AP/HRM 3410 3.00.\r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "4440",
+            "credit": 3.0,
+            "name": "Issues in Human Resource Management",
+            "prereqs": "hrm2600 hrm2600",
+            "desc": "Examines current issues in HRM, which may include but not limited to downsizing, contingency workers, training transfer, stress related diseases, ethics, and outsourcing. Students are active participants in the identification and delineation of trends. Prerequisites: For students in the Honours program, 78 credits including AP/HRM 2600 3.00, or for other students, a grade of C+ or better in AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4444",
+            "credit": 3.0,
+            "name": "Identity and Inclusivity in Organizations: Advanced Topics ",
+            "prereqs": "",
+            "desc": "Develops in depth awareness and understanding of workplace diversity and inclusion from various stakeholders' perspectives. Explores advanced topics such as the role individual identity management, stigma and disclosure in the experiences of members of non-dominant groups. Examines issues of individual identity including, but not limited to, gender, race and ethnicity, sexual orientation, gender identity and expression, ability, religion and social status. Note: This course may not be taken concurrently with AP/HRM 3450 3.00.\r\nPrerequisites: AP/HRM 3450 3.00 recommended; 1) For students in a BCom/BHRM Honours program, 78 credits including AP/ADMS 2400 3.00 or AP/ADMS 2600 3.00, or 2) for other students, a grade of B or better in AP/ADMS 2400 3.00 (or HH/PSYC 3570 3.00) or Instructor's permission."
+        },
+        {
+            "dept": "hrm",
+            "code": "4460",
+            "credit": 3.0,
+            "name": "Organizational Development",
+            "prereqs": "adms2400 hrm2600 adms2400 hrm2600",
+            "desc": "Examines the design and implementation of programs for employee development at various organizational levels. Emphasis is placed on the integration of theoretical and experiential knowledge and the development of intervention skills as aids to understanding and responding to change in organizations. Prerequisites: For students in an Honours program, 78 credits including AP/ADMS 2400 3.00 and AP/HRM 2600 3.00 or for other students, a grade of C+ or better in AP/ADMS 2400 3.00 and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4470",
+            "credit": 3.0,
+            "name": "International Human Resources Management",
+            "prereqs": "hrm2600 hrm3410 hrm3430 hrm3470 hrm3490",
+            "desc": "Outlines the differences between domestic and international human resources management with specific emphasis on staffing, training, management development, compensation and benefits, union and employee relations. HRM practices in other countries are identified. \r\nPrerequisites: AP/HRM 2600 3.00, AP/HRM 3410 3.00, AP/HRM 3430 3.00, AP/HRM 3470 3.00 and AP/HRM 3490 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4480",
+            "credit": 3.0,
+            "name": "Cross Cultural Management",
+            "prereqs": "adms2400 hrm2600 adms2400 hrm2600",
+            "desc": "Introduces students to essential theories, frameworks and concepts in Cross Cultural Management. Adopting an experiential learning approach it develops an understanding of how to manage and be managed in diverse cultural contexts. \r\nPrerequisites: For students in an Honours program, 78 credits including AP/ADMS 2400 3.00 and AP/HRM 2600 3.00, or for other students, a grade of C+ or better in AP/ADMS 2400 3.00 and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4481",
+            "credit": 3.0,
+            "name": "Organizational Communication",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "Presents basic theoretical and practical tools of organizational communication and introduces students to the principles and value of communicating effectively in any work setting and to different type of audience. The focus is on interpersonal communication and basic processes of informative and persuasive communication. Prerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00 and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4485",
+            "credit": 3.0,
+            "name": "Executive Coaching",
+            "prereqs": "adms1000 hrm2600 hrm2600",
+            "desc": "Provides an overview of the theoretical bases, underlying principles and practical guidelines of executive coaching. The objective is to understand the executive coaching process, its unique challenges and goals, and its role in the HR function. \r\nPrerequisites: 1) For students in an Honours program, 78 credits including AP/ADMS 1000 3.00 and AP/HRM 2600 3.00, or 2) for other students, a grade of C+ or better in AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4490",
+            "credit": 3.0,
+            "name": "Negotiations for Human Resource Management",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "Experiential exercises and case studies are used to gain critical skills for negotiating in a human resource management context. The objective is to learn how to analyze the key factors in a negotiation and plan a course of action. Prerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00 and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "4495",
+            "credit": 3.0,
+            "name": "Managing Effective Groups and Teams",
+            "prereqs": "adms1000 adms2400 hrm2600",
+            "desc": "Experiential exercises and group projects are used to help students gain insights into managing groups. The students will leave the course with knowledge on how to select, appraise, motivate, and provide feedback to teams in organizational settings. \r\nPrerequisites: AP/ADMS 1000 3.00, AP/ADMS 2400 3.00, and AP/HRM 2600 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "6000",
+            "credit": 3.0,
+            "name": "Major Research Paper",
+            "prereqs": "",
+            "desc": "An independent research effort conceived and executed by the students and supervised by a Faculty member.\r\n\r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Staffing Organizations",
+            "prereqs": "",
+            "desc": "The recruitment, selection, socialization of staff in the legal, ethical and economic context of North America.\r\n\r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Employee Training and Development",
+            "prereqs": "",
+            "desc": "Identifying, implementing and evaluating employee development as a mechanism for enhancing individual and organizational effectiveness\r\n\r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Strategic Compensation",
+            "prereqs": "",
+            "desc": "Attracting, retaining and motivating staff through compensation mechanisms and strategies.\r\n\r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Organizational Change &amp; Development",
+            "prereqs": "",
+            "desc": "Examines systematic and collaborative approaches to change organizational culture, and is based on scientific methods to increase organizational effectiveness. Topics covered include models of change, the change process, change strategies and interventions, organizational renewal, planned change, the OD consultant, the role of the group, the diagnostic process, dealing with resistance to change, intervention strategies, and organizational transformation.\r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Human Resources Management Effectiveness",
+            "prereqs": "",
+            "desc": "Integrating HR policies and processes to overall business strategy and the bottom line.\r\n\r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "6600",
+            "credit": 3.0,
+            "name": "Research, Measurement and Evaluation of Human Resources",
+            "prereqs": "",
+            "desc": "Understanding research and measurement concepts into the practice of HR in organizations.\r\n\r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "6700",
+            "credit": 3.0,
+            "name": "Workplace Citizenship: Lessons from Labour Relations",
+            "prereqs": "",
+            "desc": "This course uses contemporary Canadian labour relations case materials to examine the place of human and civil rights, freedoms, values and institutions in workplace governance, interpersonal relations and conflict resolution."
+        },
+        {
+            "dept": "hrm",
+            "code": "6910",
+            "credit": 3.0,
+            "name": "Issues in Human Resource Management: Careers",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "hrm",
+            "code": "6920",
+            "credit": 3.0,
+            "name": "Work/Life Balance",
+            "prereqs": "",
+            "desc": "\u0093Issues in Human Resources Management: Work/Life Balance\u0094"
+        },
+        {
+            "dept": "hrm",
+            "code": "6930",
+            "credit": 3.0,
+            "name": "Issues in Human Resource Management:  Managing a Contingent Workforce",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "hrm",
+            "code": "7000",
+            "credit": 3.0,
+            "name": "Human Resources Management Theory Seminar",
+            "prereqs": "",
+            "desc": "Introduces students to key theories in the foundational disciplines related to human resources management. It covers theories drawn from sociology, psychology and industrial relations, among other disciplines."
+        },
+        {
+            "dept": "hrm",
+            "code": "7010",
+            "credit": 3.0,
+            "name": "Qualitative Research Methods and Processes",
+            "prereqs": "",
+            "desc": "This course considers qualitative research methods and techniques for human resources management research.  Covers (i) gathering data, including ethnographic approaches, interview techniques, case study based approaches, critical methodologies, narratological approaches: (ii) framing data, constructivism, interactionism and (iii) analyzing data including NVIVO qualitative data analysis."
+        },
+        {
+            "dept": "hrm",
+            "code": "7020",
+            "credit": 3.0,
+            "name": "Quantitative Research Methods",
+            "prereqs": "",
+            "desc": "The first term of this course is an in-depth survey of quantitative research methods and techniques commonly used in human resources management research and practice.  It will include experimental, quasi-experimental, survey research and multilevel research issues.  Second term will include an in depth investigation into the various multivariate statistical techniques available to the HR researcher.  It will include such techniques as MANOVA, hierarchical linear modeling, structural equation modeling, multiple regression, and factor analysis."
+        },
+        {
+            "dept": "hrm",
+            "code": "7040",
+            "credit": 3.0,
+            "name": "Univariate Statistics",
+            "prereqs": "",
+            "desc": "Univariate statistics introduces the fundamentals of statistical analysis using a single dependant variable.  The major concepts that are covered include sampling, probability, hypothesis testing, parametric tests, correlation and regression analyses, t-test, analysis of variance and non-parametric tests. "
+        },
+        {
+            "dept": "hrm",
+            "code": "7050",
+            "credit": 3.0,
+            "name": "Multivariate Statistics",
+            "prereqs": "",
+            "desc": "Multivariate statistics covers statistical analyses using multiple measures simultaneously.  Major topics include factor and reliability analyses, regressions (multiple, logistic and multinomial logit), multiple discriminational analysis, MANOVA, MANCOVA, conjoint analysis, cluster analysis, event history, multilevel models and structural equation modelling. \r\n"
+        },
+        {
+            "dept": "hrm",
+            "code": "7110",
+            "credit": 3.0,
+            "name": "Seminar 1: Seminal, Strategic &amp; Macro-Human Resources Management Research",
+            "prereqs": "adms7010 adms7020 adms7030",
+            "desc": "This course involves an in-depth analysis and critique of contemporary research, with a view of carving out human resources management issues that require further research. Prerequisites: GS/ADMS 7010 3.00, GS/ADMS 7020 3.00, GS/ADMS 7030 3.00."
+        },
+        {
+            "dept": "hrm",
+            "code": "7120",
+            "credit": 3.0,
+            "name": "Seminar II: Micro-Human Resources Management Research",
+            "prereqs": "",
+            "desc": "Examines topics pertinent to the research and practice of human resources management. Students will gain familiarity with the human resource management literature, and assess research appearing in leading journals in the field. The course is aimed at helping students to develop an ability to generate original theory and research in Human Resources Management."
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "wkst",
+            "code": "3610",
+            "credit": 6.0,
+            "name": "Women and Work: Production and Reproduction",
+            "prereqs": "",
+            "desc": "Explores the conditions of women's work, paid and unpaid. The historical development of a sexual division of labour and the roles played by the family, employers, trade unions and government policy in the gendering of jobs is examined. Previously offered as: AP/WMST 3510 6.00, GL/WMST 3510 6.00."
+        }
+    ]
+}

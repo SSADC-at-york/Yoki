@@ -1,0 +1,156 @@
+{
+    "courses": [
+        {
+            "dept": "drca",
+            "code": "1001",
+            "credit": 3.0,
+            "name": "Live Theatre: An Introduction",
+            "prereqs": "",
+            "desc": "This course offers an introduction to theatre as an art form. As a foundation course for theatre studies, it teaches how to analyze live performance. Attending and reviewing theatre performances is an essential component of the course.\nCourse credit exclusions:  GL/DRST 1000 6.00."
+        },
+        {
+            "dept": "drca",
+            "code": "1002",
+            "credit": 3.0,
+            "name": "Visual Art: An Introduction",
+            "prereqs": "",
+            "desc": "This course offers an introduction to thinking and writing about visual art. It teaches how to understand art's purposes and functions, and how to analyze works of art. Attending and reviewing art exhibitions is an essential component of the course."
+        },
+        {
+            "dept": "drca",
+            "code": "1200",
+            "credit": 6.0,
+            "name": "Smoke and Mirrors: An Introduction to Technical Theatre",
+            "prereqs": "",
+            "desc": "This course aims to give students an introduction to the technical processes of theatrical production, including scenery, lighting, sound, multimedia, properties, and stage management. Students will apply their \nnew skills to support at least one Glendon theatre production.\nCourse credit exclusion: GL/DRST 2200 6.00."
+        },
+        {
+            "dept": "drca",
+            "code": "1210",
+            "credit": 3.0,
+            "name": "Performance I",
+            "prereqs": "",
+            "desc": "This course acquaints students with key elements of performance through the study of written texts and practical exercises. After introducing major concepts central to all the performing arts, it focuses on fundamentals specific to text-based performance. Course credit exclusion: GL/DRST 2210 3.00."
+        },
+        {
+            "dept": "drca",
+            "code": "1215",
+            "credit": 3.0,
+            "name": "Performance II/Arts de la sc\u00e8ne II",
+            "prereqs": "",
+            "desc": "This course pursues at a more advanced level the study of major concepts central to the performing arts, and the practice of performance exercises. It prepares the students to deal with text and acquaints them \nwith various performance styles./ Ce cours poursuit \u00e0 un niveau plus avanc\u00e9 l'\u00e9tude des concepts fondamentaux des arts de la sc\u00e8ne et la pratique d'exercices. Il initie les \u00e9tudiants au travail sur le texte et \u00e0 diff\u00e9rents styles de jeu th\u00e9\u00e2tral.\nPRIOR TO FALL 2014: course credit exclusion: GL/DRST 2215 3.00."
+        },
+        {
+            "dept": "drca",
+            "code": "1625",
+            "credit": 6.0,
+            "name": "Lignes et formes",
+            "prereqs": "",
+            "desc": "Introduction \u00e0 la pratique d'\u00e9l\u00e9ments de base du domaine du dessin. La r\u00e9alisation de projets en deux et trois dimensions, utilisant diff\u00e9rents mat\u00e9riaux et techniques, aide les personnes inscrites \u00e0 d\u00e9velopper leurs talents cr\u00e9ateurs et \u00e0 les utiliser au mieux. \nCours incompatibles : GL/HUMA 2500 6.00."
+        },
+        {
+            "dept": "drca",
+            "code": "2200",
+            "credit": 3.0,
+            "name": "Computer tools and applications for communication ",
+            "prereqs": "",
+            "desc": "This course teaches computer applications used in communication for an understanding of computer and Internet architecture, use of databases for communication, advanced tools in office and collaborative work, with a critical eye to issues like security, accessibility and multi-platform communication. "
+        },
+        {
+            "dept": "drca",
+            "code": "2621",
+            "credit": 6.0,
+            "name": "Faire du th\u00e9\u00e2tre en fran\u00e7ais",
+            "prereqs": "",
+            "desc": "Ce cours introduit des notions g\u00e9n\u00e9rales sur les th\u00e9\u00e2tres francophones, mettant l'accent sur le vocabulaire sp\u00e9cialis\u00e9 de ce champ d'\u00e9tudes. Les personnes dans le cours auront l'occasion de se familiariser concr\u00e8tement avec toutes les disciplines d'une production th\u00e9\u00e2trale lors d'un spectacle public. "
+        },
+        {
+            "dept": "drca",
+            "code": "2632",
+            "credit": 6.0,
+            "name": "Western Drama: Ancient to Modern",
+            "prereqs": "",
+            "desc": "This course provides a text-based study of major theatrical achievements from early Greece to the late nineteenth century. This study situates the plays within cultural and historical contexts while focusing on practices of theatrical staging. PRIOR TO FALL 2010: course credit exclusions: GL/EN 2610 3.00, GL/EN 2612 3.00."
+        },
+        {
+            "dept": "drca",
+            "code": "2665",
+            "credit": 6.0,
+            "name": "Beauty and Power: Creations and Contexts in Visual Art ",
+            "prereqs": "",
+            "desc": "This course is a survey of visual art in diverse contexts and histories. Combining theory with practical elements, it teaches students to analyze artworks and practices in depth, and to work with key ideas in the study of the visual arts.  "
+        },
+        {
+            "dept": "drca",
+            "code": "2675",
+            "credit": 6.0,
+            "name": "Photographie num\u00e9rique",
+            "prereqs": "",
+            "desc": "Ce cours de photographie num\u00e9rique pr\u00e9sente les grands principes de ce m\u00e9dium. Par le biais de lectures, d'exemples et d'ateliers, les personnes inscrites d\u00e9veloppent un regard critique sur cet art. Elles mettent en pratique leurs connaissances par la pr\u00e9sentation de projets. \nCours incompatibles : GL/HUMA 3200 6.00."
+        },
+        {
+            "dept": "drca",
+            "code": "3600",
+            "credit": 3.0,
+            "name": "La dramaturgie du XVIIe si\u00e8cle",
+            "prereqs": "",
+            "desc": "Ce cours porte sur le th\u00e9\u00e2tre du \u00ab Grand Si\u00e8cle \u00bb. Seront \u00e9tudi\u00e9es certaines oeuvres de Corneille, Moli\u00e8re et Racine aussi bien que quelques pi\u00e8ces baroques et les th\u00e9ories de Boileau sur le th\u00e9\u00e2tre. Condition pr\u00e9alable : GL/FRAN 2870 3.00 ou GL/FRLS 2700 3.00 ou permission du d\u00e9partement d'\u00e9tudes fran\u00e7aises.\nCours incompatible: GL/FRAN 3250 3.00."
+        },
+        {
+            "dept": "drca",
+            "code": "3620",
+            "credit": 6.0,
+            "name": "Reading Shakespeare",
+            "prereqs": "",
+            "desc": "A study of a representative selection of Shakespeare's playtexts, with particular attention to how we produce their meanings.\nCourse credit exclusions: AP/EN 3535 6.00."
+        },
+        {
+            "dept": "drca",
+            "code": "3622",
+            "credit": 6.0,
+            "name": "Postcolonial Drama in English",
+            "prereqs": "",
+            "desc": "This course examines contemporary English-speaking postcolonial drama issuing from one or a combination of the following regions: South and West Africa, Southeast Asia, India, Australia, New Zealand, the Caribbean and Canada."
+        },
+        {
+            "dept": "drca",
+            "code": "3625",
+            "credit": 3.0,
+            "name": "Medieval English Drama",
+            "prereqs": "",
+            "desc": "This course studies the early development of English drama from the Biblical cycles of the medieval carft guilds, and the moralities and interludes, through to the humanist drama of the first half of the 16th century."
+        },
+        {
+            "dept": "drca",
+            "code": "3633",
+            "credit": 3.0,
+            "name": "Indigenous Drama and Theatre",
+            "prereqs": "",
+            "desc": "A study of the development of Indigenous drama and theatre in Canada, this course examines key performances and dramatic texts, and situates them within their theoretical, historical, and theatrical contexts. It also considers the practical aspects of staging and performance."
+        },
+        {
+            "dept": "drca",
+            "code": "3955",
+            "credit": 6.0,
+            "name": "Approaches to Theatre",
+            "prereqs": "",
+            "desc": "This course will introduce students to theatre by the study of theoretical and practical approaches to production. First-term classes and workshops will culminate in a second-term production."
+        },
+        {
+            "dept": "drca",
+            "code": "4200",
+            "credit": 3.0,
+            "name": "The Stage Director's Process/Le processus du metteur en sc\u00e8ne",
+            "prereqs": "drst1200 drst1210 drst1215 drst2517 drst2615",
+            "desc": "This course introduces approaches towards directing, with an eye towards the relationship between director and actor. Students acquire skills through hands-on directorial experiences./Ce cours pr\u00e9sente diverses approches de la mise en sc\u00e8ne et, se concentre sur la relation entre le metteur en sc\u00e8ne et l'acteur. L'apprentissage inclut des exp\u00e9riences pratiques.\nPrerequisites: At least two of the following: GL/DRCA/DRST 1200 6.00, GL/DRCA/DRST 1210 3.00, GL/DRCA/DRST 1215 3.00, GL/DRCA/DRST 2517 6.00, GL/DRCA/DRST 2615 6.00 or permission of the Department. "
+        },
+        {
+            "dept": "drca",
+            "code": "4621",
+            "credit": 6.0,
+            "name": "Current Intercultural Performance Practices",
+            "prereqs": "",
+            "desc": "This course offers historical, theoretical and experiential approaches to intercultural, multicultural, Indigenous, and diasporic performance, with an emphasis on contemporary practices. It provides a framework for understanding theatre and performance in relation to cultural specificity, both internationally and in Canada."
+        }
+    ]
+}

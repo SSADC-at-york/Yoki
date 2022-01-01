@@ -1,0 +1,644 @@
+{
+    "courses": [
+        {
+            "dept": "danc",
+            "code": "1205",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms ",
+            "prereqs": "",
+            "desc": "Offers an introductory course in ballet. Emphasizes integrated movement, alignment, classical ballet vocabulary, artistic expression, as well as the creative process. Corequisite: FA/DANC 1215 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "1207",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms ",
+            "prereqs": "",
+            "desc": "Continues the work begun in FA/DANC 1205 3.00 in ballet. Emphasizes integrated movement, alignment, classical ballet vocabulary, artistic expression, as well as the creative process.  Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "1215",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "An introductory course in modern dance. Emphasizes integrated movement, alignment, modern dance vocabulary, artistic expression, as well as the creative process. Required of all BFA dance majors. Corequisite: FA/DANC 1205 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "1216",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "danc1215",
+            "desc": "An introductory course in modern dance. Emphasizes integrated movement, alignment, modern dance vocabulary, artistic expression, as well as the creative process. Required of all BFA dance majors. Prerequisite: FA/DANC 1215 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "1217",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "Continues the work begun in FA/DANC 1215 3.00 in modern dance. Emphasizes integrated movement, alignment, modern dance vocabulary, artistic expression, as well as the creative process. Note: Open by permission of the department only"
+        },
+        {
+            "dept": "danc",
+            "code": "1218",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "Continues the work begun in FA/DANC 1216 3.00 in modern dance. Emphasizes integrated movement, alignment, modern dance vocabulary, artistic expression, as well as the creative process. Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "1271",
+            "credit": 3.0,
+            "name": "Dance Production ",
+            "prereqs": "",
+            "desc": "Examines all areas of production applicable to dance, to discover how each of these areas can individually support a unified collaborative artistic vision. Through lectures and labs, students will become familiar with current production practices, with an emphasis on creative collaboration, sustainability and safe working practice. During the labs, students have access to fully equipped, state-of-the-art theatre facilities and inventory. The course is divided into two components of equal import: Each week features a 90-minute lecture that will explore current technical theory (lighting, sound, projections and electricity for crew) and theatre management (front-of-house, marketing, publicity, budgets, fund-raising and professional associations). In addition, the weekly 120-minute lab component offers hands-on experience in lighting, projections, sound, wardrobe, and stage-management practices. Course credit exclusion: FA/THEA 1100 3.00.\n"
+        },
+        {
+            "dept": "danc",
+            "code": "1340",
+            "credit": 3.0,
+            "name": "Dance Studies: An Introduction ",
+            "prereqs": "",
+            "desc": "Introduces students to the scholarly world of dance studies and provides them with critical tools in making sense of dance and the cultural, historical, and artistic milieux in which it is produced.  It explores dance in the contexts of culture, ritual, power, identities, embodiment, and memory/reconstruction."
+        },
+        {
+            "dept": "danc",
+            "code": "1341",
+            "credit": 3.0,
+            "name": "Dance Studies in the 21st Century",
+            "prereqs": "",
+            "desc": "A blended course, engages students in a social media-enhanced dialogue concerning dance, history, anthropology and cultural studies to develop their own research identity. The course encourages students to position dance both in terms of theory and movement in its social, political, and economic contexts. Open to non-majors."
+        },
+        {
+            "dept": "danc",
+            "code": "1500",
+            "credit": 3.0,
+            "name": "Big Dance Small Space: The Virtual Dance Experience",
+            "prereqs": "",
+            "desc": "Big Dance Small Space is designed to provide students with an approach to the appreciation of dance from a global perspective. Creates a fully online, immersive and accessible environment for any space, introducing non-dance majors to a selection of dance forms actively practiced in Canada. \n\nIn modular form, each module features a practitioner who maintains a strong connection to their cultural heritage through dance. Guided instruction in each dance form is complemented by opportunities to improvise and engage in creative explorations and choreography. Resources for each module may include podcasts, interviews, readings, video recordings and other tools to provide socio-historical context for each form. \n\nThis course addresses issues such as cultural policies, hybridized and/or hyphenated identity and processes of adaptation and acculturation. Together each dance form is a basis for understanding how dance functions as a bridge to diasporic identity. In addition to learning the movements and culture of multiple dances, students will also have the opportunity to research the dances of their own cultural heritage. No previous dance experience required."
+        },
+        {
+            "dept": "danc",
+            "code": "1900",
+            "credit": 3.0,
+            "name": "Dance, Film, and Culture",
+            "prereqs": "",
+            "desc": "Introduces students to dance, film, and cultural analysis through the critical viewing of many dance films, informed by contemporary scholarship related to dance and cultural criticism. Refines such analytical skills, which will be demonstrated when students communicate with each other online, process ideas through writing, and develop final projects that combine criticism with creativity. Students watch films, access on-line lectures, post comments, and participate in monitored forums via the course website. Not open to dance majors. Open to non-majors."
+        },
+        {
+            "dept": "danc",
+            "code": "2205",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms ",
+            "prereqs": "danc1206",
+            "desc": "Offers Ballet technique for dance majors. Ongoing training develops artistic expression, classical ballet vocabulary, musicality and performance skills. Required of dance majors seeking the BFA degree. Prerequisites: FA/DANC 1206 3.00 and permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "2207",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms ",
+            "prereqs": "",
+            "desc": "Continues the work begun in FA/DANC 2205 3.00. Ongoing training in ballet to develop artistic expression, classical ballet vocabulary, musicality and performance skills. Five hours. Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "2215",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "danc1216",
+            "desc": "Offers ongoing training to develop artistic expression, modern dance vocabulary, musicality and performance skills. Required of dance majors seeking the BFA degree. Prerequisites: FA/DANC 1216 3.00 and permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "2216",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "danc2215",
+            "desc": "Offers Contemporary/Modern dance technique for dance majors. Ongoing training develops artistic expression, modern dance vocabulary, musicality and performance skills. Required of dance majors seeking the BFA degree. Prerequisite: FA/DANC 2215 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "2217",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "Continues the work begun in FA/DANC 2215 3.00. Ongoing training in modern to develop artistic expression, modern dance vocabulary, musicality and performance skills. Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "2218",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "Continues the work begun in FA/DANC 2216 3.00. Ongoing training in modern to develop artistic expression, modern dance vocabulary, musicality and performance skills. Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "2225",
+            "credit": 3.0,
+            "name": "Choreography",
+            "prereqs": "danc1205 danc1206 danc1215 danc1216",
+            "desc": "Introduces the study of the basic principles of dance composition; both practical movement studies and analytic/critical work will be employed to explore the creative process and to begin to develop the craft and skills of choreography. Required of dance majors seeking the BFA degree. Prerequisites: FA/DANC 1205 3.00, FA/DANC 1206 3.00, FA/DANC 1215 3.00 and FA/DANC 1216 3.00 or permission of the Instructor. Corequisite: Current enrolment in dance technique, or permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "2226",
+            "credit": 3.0,
+            "name": "Choreography",
+            "prereqs": "danc2225",
+            "desc": "Offers further study of the basic principles of dance composition; development of studies toward completed works, and examination of production and performance as it relates to choreography. Continued analytic/critical work of choreographed dances. Prerequisite: FA/DANC 2225 3.00. Corequisite: Current enrolment in dance technique or permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "2271",
+            "credit": 3.0,
+            "name": "Dance Production Practicum",
+            "prereqs": "danc1271",
+            "desc": "Represents the practical application of all material learned in FA/DANC 1271 3.00. Generally, the work will be at an introductory level and will encompass the specific expertise necessary in each area for the mounting of a dance production. Students will be assigned to, and responsible for one of the areas of production for each show: lighting, sound, projections, wardrobe, stage management, or front-of-house. Ultimately, students will develop an understanding of how all of the various departments of a production team work collaboratively to create a unified dance production. Prerequisite: FA/DANC 1271 3.00.\n"
+        },
+        {
+            "dept": "danc",
+            "code": "2320",
+            "credit": 3.0,
+            "name": "Dance Kinesiology",
+            "prereqs": "",
+            "desc": "Introduces the field of dance kinesiology, and the analysis of movement from a scientific perspective. Correct and efficient movement patterns for dance technique are discussed through the examination of the muscular/skeletal system and its functions. Study includes identification of common muscle imbalances that impede good alignment, and the optimal execution of dance technique. Required of all dance majors seeking the BFA degree.  Prerequisite or corequisite: One of SC/NATS 1610 6.00, SC/NATS 1620 6.00, SC/NATS 1650 6.00, HH/KINE 2031 3.00. Open to non-majors."
+        },
+        {
+            "dept": "danc",
+            "code": "2368",
+            "credit": 3.0,
+            "name": "Introduction to Dance Education ",
+            "prereqs": "",
+            "desc": "Introduces students to a range of practical and theoretical approaches to dance education. Students will have the opportunity to observe classes as well as familiarize themselves with key themes, theories, and principles in dance education. In addition to lecture/studies, there will be one hour of observation per week.\r\n\r\nNote: A Placement is required for this course."
+        },
+        {
+            "dept": "danc",
+            "code": "2510F",
+            "credit": 3.0,
+            "name": "Philippine Folk Dance I",
+            "prereqs": "danc1500",
+            "desc": "Introduces students to selected Philippine folk dances with focus on lowland Christian dances. The effects of contemporary changes on these art forms are examined. Studio/Discussion. Prerequisites: FA/DANC 1500 6.00 or permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "2510L",
+            "credit": 3.0,
+            "name": "Breaking and Hip-Hop Dance Practices",
+            "prereqs": "danc1500",
+            "desc": "Offers breaking at the introductory level with a focus on the fundamentals of breaking (also known as b-boying/b-girling and often called &quot;breakdancing&quot;). The cultural contexts of hip hop as experienced \r\nlocally and in the media are considered. Learning outcomes include an understanding of breaking's significance as an art form and cultural practice rooted in conversations about community, art, dance and music. Course objectives include the development of basic competences in foundational movements such as various toprocks, downrocks, freezes, get downs, and spins. Students will also develop an embodied understanding of hip hop culture through their practice and critical engagement with the dance in its local contexts. Prerequisite: FA/DANC 1500 6.00 or permission of the department. Open to non majors."
+        },
+        {
+            "dept": "danc",
+            "code": "3000",
+            "credit": 3.0,
+            "name": "Teaching Dance in the Intermediate Division",
+            "prereqs": "",
+            "desc": "Examines the theories, philosophies, knowledge, policies and practices specific to teaching and learning Dance in the intermediate grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program. "
+        },
+        {
+            "dept": "danc",
+            "code": "3205",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms ",
+            "prereqs": "",
+            "desc": "Offers ballet technique for BFA dance majors. Ongoing training develops artistic expression, classical ballet vocabulary, musicality, and athleticism. Required of dance majors seeking the BFA degree.  Prequisite: FA/DANC2206 3.00, and permission of the department. Corequisite: FA/DANC3215 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "3206",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms ",
+            "prereqs": "",
+            "desc": "Offers ballet technique for BFA dance majors. Ongoing training develops artistic expression, classical ballet vocabulary, musicality, and athleticism. Required of dance majors seeking the BFA degree.  Prequisite: FA/DANC3205 3.00. Corequisite: FA/DANC3216 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "3207",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms ",
+            "prereqs": "",
+            "desc": "Offers a continuation of the work begun in FA/DANC 3205 3.00. Ongoing training in ballet to develop artistic expression, classical ballet vocabulary, musicality and athleticism. Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "3208",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms ",
+            "prereqs": "",
+            "desc": "Offers a continuation of the work begun in FA/DANC 3206 3.00. Ongoing training in ballet to develop artistic expression, classical ballet vocabulary, musicality and athleticism. Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "3215",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "Offers modern and contemporary technique for BFA dance majors. Ongoing training develops artistic expression, modern and contemporary dance vocabulary, musicality, and athleticism. Required of dance majors seeking the BFA degree.  Prequisite: FA/DANC2216 3.00. Corequisite: FA/DANC3205 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "3216",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "Offers modern and contemporary technique for BFA dance majors. Ongoing training develops artistic expression, modern and contemporary dance vocabulary, musicality, and athleticism. Required of dance majors seeking the BFA degree.  Prequisite: FA/DANC3215 3.00. Corequisite: FA/DANC3206 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "3217",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "Offers a continuation of the work begun in FA/DANC 3215 3.00. Ongoing training in modern to develop artistic expression, modern dance vocabulary, musicality and athleticism. Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "3218",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms ",
+            "prereqs": "",
+            "desc": "Continues the work begun in FA/DANC 3216 3.00. Ongoing training in modern to develop artistic expression, modern dance vocabulary, musicality and athleticism. Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "Choreography",
+            "prereqs": "",
+            "desc": "Offers selected projects in choreography with continued work in structure and forms, and an increased focus on development of individual interests and style. Continued work in production, performance and criticism as related to choreography. Prerequisite: A grade of B+ or higher in FA/DANC 2226 3.00 or permission of the department. Corequisite: Current enrolment in dance technique."
+        },
+        {
+            "dept": "danc",
+            "code": "3235",
+            "credit": 3.0,
+            "name": "Performance",
+            "prereqs": "",
+            "desc": "Introduces the study and performance of original or reconstructed choreographic works in a rehearsal and presentation setting. Rehearsal time outside of the course meetings will be scheduled close to performance dates. Required of BFA Dance Majors in the Performance/Choreography concentration. Open only to dance majors. Corequisite: Enrolment in upper level Contemporary/Modern.\r\n"
+        },
+        {
+            "dept": "danc",
+            "code": "3236",
+            "credit": 3.0,
+            "name": "Performance",
+            "prereqs": "",
+            "desc": "Introduces the study and performance of original or reconstructed choreographic works in a rehearsal and presentation setting.   Rehearsal time outside of the course meetings will be scheduled close to performance dates.  Required of BFA Dance Majors in the Performance/Choreography concentration. Open only to dance majors. Four hours. Co-requisite: Enrolment in upper level Contemporary/Modern.\r\n"
+        },
+        {
+            "dept": "danc",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Dance Ensemble Apprenticeship",
+            "prereqs": "",
+            "desc": "Offers an enriched performance/production experience for highly motivated third-year dance majors wishing to concentrate on the performance and/or production areas. Students are required to commit to an intensive schedule, including evening rehearsals and out-of-town performances. Ensemble apprentices will focus on one or more aspects of dance company activity, which include performance, choreography, tour management, production support and publicity. Students in FA/DANC 3240 are expected to continue with FA/DANC 4245 3.00 or FA/DANC 4246 3.00 in the following year. Prerequisite: Admission is by juried audition. Corequisites: Performers must be enrolled in FA/DANC 3205 2.25, FA/DANC 3206 2.25, FA/DANC 3215 2.25 and FA/DANC 3216 2.25."
+        },
+        {
+            "dept": "danc",
+            "code": "3240",
+            "credit": 6.0,
+            "name": "Dance Ensemble Apprenticeship",
+            "prereqs": "",
+            "desc": "Offers an enriched performance/production experience for highly motivated third-year dance majors wishing to concentrate on the performance and/or production areas. Students are required to commit to an intensive schedule, including evening rehearsals and out-of-town performances. Ensemble apprentices will focus on one or more aspects of dance company activity, which include performance, choreography, tour management, production support and publicity. Students in FA/DANC 3240 3.00 are expected to continue with FA/DANC 4245/4246 Dance Ensemble in the following year. Prerequisite: Admission is by juried audition. Corequisites: Performers must be enrolled in FA/DANC 3205 2.25, FA/DANC 3206 2.25, FA/DANC 3215 2.25 and FA/DANC 3216 2.25."
+        },
+        {
+            "dept": "danc",
+            "code": "3271",
+            "credit": 3.0,
+            "name": "Intermediate Dance Production Practicum ",
+            "prereqs": "danc2270",
+            "desc": "Represents the practical application of all material learned in FA/DANC 1270 3.00 and FA/DANC 2270 3.00. Generally, the work will be at an intermediate level and will encompass the specific expertise necessary in each production/design area for the mounting of a dance production. Students will be assigned to, and responsible for one of the major areas of production: Front-of-House Manager, Stage-Manager, Production Manager, Technical Director, Sound Designer, Lighting Designer, Projection Designer, Costume Designer, or Set Designer. Ultimately, students will develop an understanding of the specific requirements, and responsibilities in their area of expertise, and how to work as part of a collaborative creative/production team. Prerequisites: FA/DANC 2270 3.00 and Permission of the Department."
+        },
+        {
+            "dept": "danc",
+            "code": "3321",
+            "credit": 3.0,
+            "name": "Prevention and Care of Dance Injuries",
+            "prereqs": "",
+            "desc": "Examines the prevention, recognition and treatment of dance injuries. Specific study of proper versus improper technique and its correlation to resultant injuries. Follow-up remedial procedures and therapeutic modalities to enhance healing are also studied. May be offered in extended or normal format. Prerequisite or corequisite: One of: SC/NATS 1610 6.00, SC/NATS 1620 6.00, SC/NATS 1650 6.00, HH/KINE 2031 3.00 and FA/DANC 2320 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "3330",
+            "credit": 3.0,
+            "name": "Reading, Writing, Dancing",
+            "prereqs": "",
+            "desc": "Designed for all dance majors and minors and intended to build on the first-year course, Introduction to Dance Studies, and develop skills and perspective to enhance students' engagement with the third-year course, Choreographic History. The course addresses a constellation of aims, moving through a wide range of writing activities, addressing skills needed by dancers, choreographers, educators, journalists, administrators, and researchers for portfolio careers as dance professionals. Writing skill relies on the ability to write clearly, energetically, simply, and concretely, with a strong sense of audience and purpose as well as flow and structure, while knowledge of grammar and punctuation are essential supports of effective writing. As part of classroom activities, student write, revise, peer-review, and discuss writing with each other and enjoy visits from dance professionals including artists and scholars. Field trips to see dance writing and research in action may be a component of the course. The goal is for all dance students to understand writing as a skill that can be mastered through practice, and as a means to support achieving individual career goals. \r\nPrerequisites: FA/DANC 1340 3.00, FA/DANC 1341 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "danc",
+            "code": "3340",
+            "credit": 3.0,
+            "name": "Dance Studies:  Choreographic History ",
+            "prereqs": "danc1340",
+            "desc": "Examines the theoretical, technical, and artistic developments of western theatrical dance from the Renaissance to the 21st century. Through the exploration of various dance works and choreographers, topics will include issues associated with gender, class, race and power related dance practice and performance. Occasional studio sessions will enhance the appreciation and knowledge of dance forms through the ages. Prerequisites: FA/DANC 1340 6.00, or permission of department."
+        },
+        {
+            "dept": "danc",
+            "code": "3510L",
+            "credit": 3.0,
+            "name": "Breaking and Hip-Hop Dance Practices",
+            "prereqs": "danc2510l",
+            "desc": "Offers breaking at the intermediate level. This includes creative tasks as students begin to develop their own breaking &quot;sets&quot; alongside methods for approaching their freestyle (improvised) dance practices. Learning outcomes include a critical understanding of the work involved in improvisation and the individual development of preparation strategies for breaking &quot;battles&quot; (competitions). \r\nCourse objectives include the development of basic competences in performance including strategies for &quot;battle&quot; formats. Students will develop a critical understanding of how concepts and discourses about improvisation are taken up in breaking practices and receptions. Prerequisites: FA/DANC 2510L 3.00 or 2511L 3.00 or permission of the department. Open to non majors.\r\n"
+        },
+        {
+            "dept": "danc",
+            "code": "3510F",
+            "credit": 3.0,
+            "name": "Contemporary World Dance Forms:  Philippine Folk Dance III",
+            "prereqs": "danc1500 danc2510f",
+            "desc": "Offers Philippine folk dances at the intermediate level. It focuses not only on lowland Christian dances but also indigenous and/or tribal dances. Studio/Discussion. Prerequisites: FA/DANC 1500 6.00 or FA/DANC 2510F 3.00 or permission of the department. Open to majors and non-majors"
+        },
+        {
+            "dept": "danc",
+            "code": "3560",
+            "credit": 3.0,
+            "name": "Teaching Street &amp; Club Dance Styles",
+            "prereqs": "danc2216",
+            "desc": "Examines the techniques, course, history, styles and foundations of breaking. The course involves technical and performance development. Required in BFA Dance (Dance Education stream), this course equips students to teach breaking's movement fundamentals and the cultural and historical context to K-12 students. Prerequisites: FA/DANC 2216 3.00 and Permission of the Department."
+        },
+        {
+            "dept": "danc",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Dance in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Dance in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Dance in the intermediate and senior grades.\nOnly available to students in the Bachelor of Education (BEd) program. "
+        },
+        {
+            "dept": "danc",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Dance in the Intermediate-Senior Divisions - B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Dance in Ontario classrooms. It develops students\u0092 expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Dance areas in order to further develop students\u0092 expertise for teaching this subject. ED/DANC 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "danc",
+            "code": "4205",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms",
+            "prereqs": "danc3206",
+            "desc": "Offers ballet technique for BFA dance majors. Ongoing training refines artistic expression, classical ballet vocabulary, musicality and athleticism. Includes a theoretical component which may be written projects, oral presentations, and class discussions. Optional for all dance majors. Prerequisites: FA/DANC 3206 3.00 and permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "4206",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms",
+            "prereqs": "danc4205",
+            "desc": "Offers ballet technique for BFA dance majors. Ongoing training refines artistic expression, classical ballet vocabulary, musicality and athleticism. Includes a theoretical component which may be written projects, oral presentations, and class discussions. Optional for all dance majors. Prerequisites: FA/DANC 4205 3.00 and permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "4207",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms",
+            "prereqs": "",
+            "desc": "Offers a continuation of work begun in FA/DANC 4205 3.00. Ongoing training in ballet to refine artistic expression, classical ballet vocabulary, musicality and athleticism. Includes a theoretical component which may be written projects, oral presentations, and class discussions.  Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "4208",
+            "credit": 3.0,
+            "name": "Contemporary/Ballet Dance Forms",
+            "prereqs": "",
+            "desc": "Offers a continuation of work begun in FA/DANC 4206 3.00. Ongoing training in ballet to refine artistic expression, classical ballet vocabulary, musicality and athleticism. Includes a theoretical component which may be written projects, oral presentations, and class discussions.  Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "4215",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms",
+            "prereqs": "danc3216",
+            "desc": "Offers modern and contemporary dance technique for BFA dance majors. Ongoing training refines artistic expression, modern dance vocabulary, musicality and athleticism.  Includes a theoretical component which may be written projects, oral presentations, and class discussions.  Optional for all dance majors. Prerequisites: FA/DANC 3216 3.00 and permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "4216",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms",
+            "prereqs": "danc4215",
+            "desc": "Offers modern and contemporary dance technique for BFA dance majors. Ongoing training refines artistic expression, modern dance vocabulary, musicality and athleticism.  Includes a theoretical component which may be written projects, oral presentations, and class discussions.  Optional for all dance majors. Prerequisite: FA/DANC 4215 3.00 and permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "4217",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms",
+            "prereqs": "",
+            "desc": "Offers a continuation of work begun in FA/DANC 4215 3.00. Ongoing training in modern to refine artistic expression, modern dance vocabulary, musicality and athleticism. Includes a theoretical component which may be written projects, oral presentations, and class discussions.  Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "4218",
+            "credit": 3.0,
+            "name": "Contemporary/Modern Dance Forms",
+            "prereqs": "",
+            "desc": "Offers a continuation of work begun in FA/DANC 4216 3.00. Ongoing training in modern to refine artistic expression, modern dance vocabulary, musicality and athleticism. Includes a theoretical component which may be written projects, oral presentations, and class discussions.  Note: Open by permission of the department only."
+        },
+        {
+            "dept": "danc",
+            "code": "4220",
+            "credit": 3.0,
+            "name": "Choreography",
+            "prereqs": "",
+            "desc": "Offers selected projects in choreography with an emphasis on interdisciplinary productions, and continued work on structure and form. Increased focus on the development of individual interests and style in choreography. Designed for highly motivated creative individuals. The course requires students to commit themselves to pre-performance and performance schedules related to productions of their work. Lectures/presentations/performances. Prerequisites: For dance majors, a grade of B+ or higher in FA/DANC 3220 3.00 and permission of the Instructor. This course is open to other qualified third- or fourth-year Fine Arts students by permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "4245",
+            "credit": 6.0,
+            "name": "Dance Ensemble I",
+            "prereqs": "",
+            "desc": "Offers an enriched performance/production experience for highly motivated upper-level dance majors wishing to concentrate on the performance and/or production areas. Students are required to commit to an intensive schedule, including evening rehearsals and out-of-town performances. Ensemble members will focus on one or more aspects of dance company activity, which include performance, choreography, tour management, production support and publicity. Students in FA/DANC 4245 6.00 are expected to continue with FA/DANC 4246 6.00. Due to the heavy rehearsal schedule, there is a minimum of 12 hours per week. Prerequisite: Admission is by juried audition. Open to other fine arts majors by permission of the Instructor. Corequisite: Performers must be enrolled in FA/DANC 4205 3.00 and FA/DANC 4215 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "4245",
+            "credit": 3.0,
+            "name": "Dance Ensemble I",
+            "prereqs": "",
+            "desc": "Offers an enriched performance/production experience for highly motivated upper-level dance majors wishing to concentrate on the performance and/or production areas. Students are required to commit to an intensive schedule, including evening rehearsals and out-of-town performances. Ensemble members will focus on one or more aspects of dance company activity, which include performance, choreography, tour management, production support and publicity. Students in FA/DANC 4245 3.00 are expected to continue with FA/DANC 4246 3.00. Due to the heavy rehearsal schedule, there is a minimum of 12 hours per week. Prerequisite: Admission is by juried audition. Open to other fine arts majors by permission of the Instructor. Corequisite: Performers must be enrolled in FA/DANC 4205 3.00 and FA/DANC 4215 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "4246",
+            "credit": 6.0,
+            "name": "Dance Ensemble II",
+            "prereqs": "danc4245",
+            "desc": "Continues the work of FA/DANC 4245 6.00, an enriched performance/production experience for highly motivated upper-level dance majors wishing to concentrate on the performance and/or production areas. Students are required to commit to an intensive schedule, including evening rehearsals and possible out-of-town performances. Ensemble members will focus on one or more aspects of dance company activity, which include performance, choreography, tour management, production support and publicity.  Due to the heavy rehearsal schedule, there is a minimum of 12 hours per week. Prerequisite: FA/DANC 4245 3.00/6.00. Corequisite: Performers must be enrolled in FA/DANC 4206 3.00 and FA/DANC 4216 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "4246",
+            "credit": 3.0,
+            "name": "Dance Ensemble II",
+            "prereqs": "danc4245",
+            "desc": "Continues the work of FA/DANC 4245 3.00, an enriched performance/production experience for highly motivated upper-level dance majors wishing to concentrate on the performance and/or production areas. Students are required to commit to an intensive schedule, including evening rehearsals and possible out-of-town performances. Ensemble members will focus on one or more aspects of dance company activity, which include performance, choreography, tour management, production support and publicity.  Due to the heavy rehearsal schedule, there is a minimum of 12 hours per week. Prerequisite: FA/DANC 4245 3.00/6.00. Corequisite: Performers must be enrolled in FA/DANC 4206 3.00 and FA/DANC 4216 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "4260",
+            "credit": 3.0,
+            "name": "Dance Video and Intermedial Performance",
+            "prereqs": "danc3220 danc4220",
+            "desc": "Offers a multidisciplinary studio course which explores the design and production of dance on camera. It covers the practical aspects of video production from expressed intention through distribution. In process students will have hands-on experience lighting, shooting and editing dance video. Students will also have the opportunity to investigate video production and projection for intermedial dance presentations. Prerequisites: FA/DANC 3220 3.00 or FA/DANC 4220 3.00 or permission of the department."
+        },
+        {
+            "dept": "danc",
+            "code": "4270",
+            "credit": 3.0,
+            "name": "Lighting Design for Dance I",
+            "prereqs": "danc1270",
+            "desc": "Introduces the theory and practical application of stage lighting design with an emphasis on lighting for dance. Prerequisites: FA/DANC 1270 3.00, or permission of the Dance Department. Credit Exclusions: FA/THEA 3130 6.00, FA/THEA 4130 3.00."
+        },
+        {
+            "dept": "danc",
+            "code": "4271",
+            "credit": 3.0,
+            "name": "Advanced Dance Production Practicum ",
+            "prereqs": "danc2271",
+            "desc": "Represents the practical application of all material learned in FA/DANC 1270 3.00, FA/DANC 2270 3.00 and FA/DANC 3271 3.00. The work is at an advanced level and encompasses the specific expertise necessary in each production/design area for the mounting of a dance production. Prerequisite: FA/DANC 2271 3.00.\n\r\n"
+        },
+        {
+            "dept": "danc",
+            "code": "4368",
+            "credit": 3.0,
+            "name": "Community Dance Education",
+            "prereqs": "danc3368 danc3369",
+            "desc": "Provides students with theories, tools, strategies, and applications for teaching dance to a range of community populations, which might include older adults and/or people with mobility or other personal or societal challenges. Students will learn to plan, teach, and assess movement experiences for various community populations using a range of dance forms. In addition to lectures/studio, there will be 1 hour practicum. Prerequisites: FA/DANC 3368 3.00 and FA/DANC 3369 3.00 or permission of the department. Note: A placement is required for this course. "
+        },
+        {
+            "dept": "danc",
+            "code": "4400",
+            "credit": 6.0,
+            "name": "Senior Projects",
+            "prereqs": "",
+            "desc": "Students develop one or a series of self-directed interlinked projects, which may consist of research or field studies on a topic of interest (theoretical or creative) leading to a major piece of writing, a performance, an internship or some combination of these activities. Adjudication of the credit weighting of each project will be made by the department, based on the proposal. A supervisory committee may be established for projects involving more than six credits. Prerequisite: Fourth-year standing."
+        },
+        {
+            "dept": "danc",
+            "code": "4400",
+            "credit": 3.0,
+            "name": "Senior Projects",
+            "prereqs": "",
+            "desc": "Students develop one or a series of self-directed interlinked projects, which may consist of research or field studies on a topic of interest (theoretical or creative) leading to a major piece of writing, a performance, an internship or some combination of these activities. Adjudication of the credit weighting of each project will be made by the department, based on the proposal. A supervisory committee may be established for projects involving more than six credits. Prerequisite: Fourth-year standing."
+        },
+        {
+            "dept": "danc",
+            "code": "4400",
+            "credit": 9.0,
+            "name": "Senior Projects",
+            "prereqs": "",
+            "desc": "Students develop one or a series of self-directed interlinked projects, which may consist of research or field studies on a topic of interest (theoretical or creative) leading to a major piece of writing, a performance, an internship or some combination of these activities. Adjudication of the credit weighting of each project will be made by the department, based on the proposal. A supervisory committee may be established for projects involving more than six credits. Prerequisite: Fourth-year standing."
+        },
+        {
+            "dept": "danc",
+            "code": "4401",
+            "credit": 3.0,
+            "name": "Independent Studies",
+            "prereqs": "",
+            "desc": "Students develop one or a series of interlinked self-directed research projects, which may consist of research on a topic of interest (theoretical or creative) leading to a major piece of writing, thesis or series of essays. Open by application to the department. Adjudication of the appropriate credit weighting will be made by the department, based on the proposal. "
+        },
+        {
+            "dept": "danc",
+            "code": "4401",
+            "credit": 6.0,
+            "name": "Independent Studies",
+            "prereqs": "",
+            "desc": "Students develop one or a series of interlinked self-directed research projects, which may consist of research on a topic of interest (theoretical or creative) leading to a major piece of writing, thesis, or series of essays.   Adjudication of the appropriate credit weighting will be made by the Department, based on the proposal.  Open by application to the department."
+        },
+        {
+            "dept": "danc",
+            "code": "4401",
+            "credit": 9.0,
+            "name": "Independent Studies",
+            "prereqs": "",
+            "desc": "Students develop one or a series of interlinked self-directed research projects, which may consist of research on a topic of interest (theoretical or creative) leading to a major piece of writing, thesis, or series of essays. Adjudication of the appropriate credit weighting will be made by the Department, based on the proposal. Open by application to the department."
+        },
+        {
+            "dept": "danc",
+            "code": "4510F",
+            "credit": 3.0,
+            "name": "Philippine Folk Dance V",
+            "prereqs": "danc3510f danc3511f",
+            "desc": "Offers Philippine folk dances at an advanced level. It covers lowland Christian, indigenous, and Muslim dances, which are either performed solo or in groups. Studio/Discussion. Prerequisites: FA/DANC 3510F 3.00 or FA/DANC 3511F 3.00 or permission of the department. Open to non majors."
+        },
+        {
+            "dept": "danc",
+            "code": "4510L",
+            "credit": 3.0,
+            "name": "Breaking and Hip-Hop Dance Practices",
+            "prereqs": "danc3510l danc3511l",
+            "desc": "Offers breaking at the advanced level. This includes a critical examination of breaking as an art form and social/political movement. Prerequisites: FA/DANC 3510L 3.00 or FA/DANC 3511L 3.00 or permission of the department. Open to non majors."
+        },
+        {
+            "dept": "danc",
+            "code": "5100",
+            "credit": 6.0,
+            "name": "Directed Readings                      ",
+            "prereqs": "",
+            "desc": "A full or half course in supervised readings for individual students to prepare for intensive research in a selected area. Approval is required of the principal advisor and program director.\n"
+        },
+        {
+            "dept": "danc",
+            "code": "5110",
+            "credit": 3.0,
+            "name": "Directed Reading                       ",
+            "prereqs": "",
+            "desc": "A full or half course in supervised readings for individual students to prepare for intensive research in a selected area. Approval is required of the principal advisor and program director.\n"
+        },
+        {
+            "dept": "danc",
+            "code": "5260",
+            "credit": 3.0,
+            "name": "Dance Video and Intermedial Performance",
+            "prereqs": "",
+            "desc": "This multidisciplinary studio course explores the design and production of dance on camera. It covers the practical aspects of video production from expressed intention through distribution. In process students have hands-on experience lighting, shooting, and editing dance video. Students also have the opportunity to investigate video production and projection for intermedial dance presentations."
+        },
+        {
+            "dept": "danc",
+            "code": "5270",
+            "credit": 3.0,
+            "name": "Lighting Design for Dance",
+            "prereqs": "",
+            "desc": "Introduces the theory and practical application of stage lighting design with an emphasis on lighting for dance."
+        },
+        {
+            "dept": "danc",
+            "code": "5330",
+            "credit": 3.0,
+            "name": "Anthropology of Dance in Canada",
+            "prereqs": "",
+            "desc": "This course surveys classical, folk, tribal and social dance traditions within the Canadian cultural context and from an ethnographic perspective"
+        },
+        {
+            "dept": "danc",
+            "code": "5602",
+            "credit": 0.0,
+            "name": "Dance Production",
+            "prereqs": "",
+            "desc": "Over the four terms, fall and winter, MFA students are required to complete eighty hours (80) of production, rehearsal direction, design, and administrative work related to the creation and mounting of theatrical dance events.  This works out to twenty hours (20) for each of the four terms."
+        },
+        {
+            "dept": "danc",
+            "code": "6003",
+            "credit": 0.0,
+            "name": "Contemporary Choreography Professional Qualifying Practica I (Fall)",
+            "prereqs": "",
+            "desc": "Once a student's MFA dance thesis proposals in contemporary choreography has been accepted, the MFA student is required to present their choreographic research as part of an on going critical discourse into the creative research and into the specific theoretical questions the student has undertaken. There will be a minimum of three (3) qualifying work-in-progress showings for both the students required I AM research and the required proscenium stage research for a total of six (6) practicums. These qualifying practicums will be set-up and organized by the MFA program at least a month in advance of each presentation."
+        },
+        {
+            "dept": "danc",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Advanced Research and Dissertation Seminar",
+            "prereqs": "",
+            "desc": "Provides a framework within which PhD candidates meet together to explore the methodologies and approaches to scholarly writing that are relevant to their research areas."
+        }
+    ]
+}

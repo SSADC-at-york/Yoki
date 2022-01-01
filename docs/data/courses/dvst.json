@@ -1,0 +1,76 @@
+{
+    "courses": [
+        {
+            "dept": "dvst",
+            "code": "5000",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "The main purpose of this course is to allow students an option of taking a Directed Reading Course outside of the list of the program courses only when an appropriate course is available in the current curriculum. The course is designed to help students to pursue his/her MRP/Thesis in a specific area that is not currently covered by the program\u0092s curriculum. Students will be required to obtain a written permission from the program director before taking this Directed Reading Course with a relevant faculty member.   "
+        },
+        {
+            "dept": "dvst",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Conceptual Foundations of Development",
+            "prereqs": "",
+            "desc": "Examines the epistemological foundations of development from a critical interdisciplinary perspective. It focuses on the key theoretical approaches that influenced the evolution of the discipline and on the historical forces that shaped development as a field of study. The course enables reflection on prevalent development practices through an analysis of the shifting frontiers of development."
+        },
+        {
+            "dept": "dvst",
+            "code": "5101",
+            "credit": 3.0,
+            "name": "Historical and Institutional Foundations of Development",
+            "prereqs": "",
+            "desc": "This course traces the evolution of development theory and practice through critical reflection on the main models of economic and human development in the field. It assesses competing claims about the causes, consequences of, and obstacles to, development, by focusing on quantitative and non-quantitative variables, including non-mathematical models of economic growth, changes in institutional and organizational practices, and cultural factors. "
+        },
+        {
+            "dept": "dvst",
+            "code": "5105",
+            "credit": 3.0,
+            "name": "Graduate Seminar in Fieldwork and Professional Development",
+            "prereqs": "",
+            "desc": "This course offers students practical tools and strategies to enhance their fieldwork experience and professional development. It aims to give students: 1) practical research tools for designing, planning, executing and communicating research projects and their results; 2) support in their search for suitable internships to maximize professional development and research opportunities; 3) professional skills appropriate for the field of development."
+        },
+        {
+            "dept": "dvst",
+            "code": "5111",
+            "credit": 3.0,
+            "name": "Civil Society in Development Discourse and Practice ",
+            "prereqs": "",
+            "desc": "Examines the changing roles of civil society in development. It critically reviews the main theoretical and practical approaches to civil society, highlighting their normative assumptions regarding its potential contribution to development and democracy as well as their practical consequences. It explores the usefulness of the concept of civil society to capture the complexity and diversity of associational life across the Global South.\r\n"
+        },
+        {
+            "dept": "dvst",
+            "code": "5120",
+            "credit": 3.0,
+            "name": "Research Methods for Development",
+            "prereqs": "",
+            "desc": "This interdisciplinary course will provide a basis for research on and in developing countries, giving students an appreciation of the range of competing theoretical and methodological frameworks which inform research in international development. "
+        },
+        {
+            "dept": "dvst",
+            "code": "5121",
+            "credit": 3.0,
+            "name": "Tools and Policy Analysis for Development",
+            "prereqs": "",
+            "desc": "Offers a concise, yet critical and systematic analysis of development praxis. It emphasizes a close link between development theory and practice, and thus aims to provide a deeper understanding of the processes by which development intervention programs are designed, implemented, and monitored. "
+        },
+        {
+            "dept": "dvst",
+            "code": "5122",
+            "credit": 3.0,
+            "name": "Critical Reflections on Field Work",
+            "prereqs": "",
+            "desc": "Drawing from participatory action research model, this course aims to help class-members critically review the data collected and/or experiences gathered from the field.  It highlights the contradiction between a researcher's agenda and findings and the lack of usefulness or relevance the information/data/insights have for primary beneficiaries, stakeholders, and local people."
+        },
+        {
+            "dept": "dvst",
+            "code": "5123",
+            "credit": 3.0,
+            "name": "Forced Migration and Refugee Issues",
+            "prereqs": "",
+            "desc": "Examines contemporary issues related to refugee and forced migration movements from a critical development studies perspective. Drawing on Canadian and international academic and field-based experts, the course explores political, economic, social and cultural contexts of forced migration."
+        }
+    ]
+}

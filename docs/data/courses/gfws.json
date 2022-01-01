@@ -1,0 +1,188 @@
+{
+    "courses": [
+        {
+            "dept": "gfws",
+            "code": "6001",
+            "credit": 3.0,
+            "name": "Histories: Women, Genders, Sexualities",
+            "prereqs": "",
+            "desc": "This course examines key concepts, debates, methodologies, and theoretical directions in the history of women, genders and sexualities from a transnational and intersectional perspective.\nIt focuses on the dialogue between gender history and social history and asks how social movements have shaped the questions historians ask and how gender articulates with major analytic categories including class relations and racial formation.\n"
+        },
+        {
+            "dept": "gfws",
+            "code": "6002",
+            "credit": 3.0,
+            "name": "Feminist Theory",
+            "prereqs": "",
+            "desc": "Offers an analysis of contemporary feminist theoretical debates in the program's fields of specialization: Cultural and Literary Studies, Performance and Fines Arts; Diaspora, Transnational and Global Studies; Histories; Politics, Economies and Societies; Race; Sexualities; Theories and Methods. Required course for all MA students.\r\n"
+        },
+        {
+            "dept": "gfws",
+            "code": "6007",
+            "credit": 3.0,
+            "name": "Feminist Research Colloquium ",
+            "prereqs": "",
+            "desc": "This course is designed for incoming Master's students. It provides a supportive learning environment to develop research and writing skills appropriate to the discipline."
+        },
+        {
+            "dept": "gfws",
+            "code": "6008",
+            "credit": 3.0,
+            "name": "Feminist Methodologies and Research Methods",
+            "prereqs": "",
+            "desc": "Explores the relationship among theory, methodology and research methods, prepares students to identify, critique and assess the appropriateness of selected research methods and reviews some of the current debates on feminist methodologies.\r\nRequired course for all PhD students."
+        },
+        {
+            "dept": "gfws",
+            "code": "6009",
+            "credit": 3.0,
+            "name": "Advanced Research in Feminist Theory ",
+            "prereqs": "",
+            "desc": "This PhD course has two objectives: to provide advanced scholarship in feminist epistemologies and theories to prepare PhD students for their comprehensive exams and dissertations, and to engage critically with theoretical issues pertaining to students' research interests."
+        },
+        {
+            "dept": "gfws",
+            "code": "6111",
+            "credit": 3.0,
+            "name": "(De) Colonizing Research Methodologies",
+            "prereqs": "",
+            "desc": "This course examines the colonizing roots, contemporary problems, and possibilities of field-based research methodologies with relevance to education.  From issues in science and positivism to anthropological questions of representation and ethics, the course asks what it means to decolonize methodology."
+        },
+        {
+            "dept": "gfws",
+            "code": "6114",
+            "credit": 3.0,
+            "name": "Race, Gender and American Politics",
+            "prereqs": "",
+            "desc": "In recent years, a wealth of scholarship on race, gender and ethnicity has transformed the way scholars treat almost every aspect of US. \r\nhistory. This course uses this historical literature to re-examine conventional topics, such as the New Deal and the Cold War, broach fresh subjects like the history of whiteness, and shed new light on American culture and politics. Weekly readings explore such topics as \r\nslavery, the formation of the US. welfare system, Americanization and ethnicity, lynching and miscegenation, African American organizing in \r\n the Jim Crow south, gay history, and the urban crisis."
+        },
+        {
+            "dept": "gfws",
+            "code": "6119",
+            "credit": 3.0,
+            "name": "Sexualities and Education ",
+            "prereqs": "",
+            "desc": "This course considers contemporary debates in the study of sexualities.  Drawing upon research and literature in the humanities, social sciences and arts, theories of sexuality are placed in conversation with issues in education.  Topics to be covered may include: childhood and \r\nadolescent sexualities, teacher's sexualities, controversies in sex education, representations of AIDS, lesbian, gay, bisexual and transgendered issues and identities in education, and representations of sexuality across the curriculum.\r\n"
+        },
+        {
+            "dept": "gfws",
+            "code": "6123",
+            "credit": 3.0,
+            "name": "Critical Sexuality",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "gfws",
+            "code": "6214",
+            "credit": 3.0,
+            "name": "Maternal Theory",
+            "prereqs": "",
+            "desc": "Theory on mothering and motherhood has emerged as a distinct boy of knowledge within motherhood studies and feminist theory more generally.  This course examines the rich and diverse tradition of maternal theory that has evolved over the last thirty years"
+        },
+        {
+            "dept": "gfws",
+            "code": "6216",
+            "credit": 3.0,
+            "name": "Transnational Sexualities",
+            "prereqs": "",
+            "desc": "This course examines the contemporary articulation and organization of sexual identities and rights in the developing world, and considers how interventions by international agencies, nation-states and advocacy groups have informed/been informed by racial and gender politics, and notions of citizenship."
+        },
+        {
+            "dept": "gfws",
+            "code": "6301",
+            "credit": 3.0,
+            "name": "Fem.Issues In Anth. Hist.&amp; Current Deb ",
+            "prereqs": "",
+            "desc": ": Perceiving Women. This course explores literature in feminist anthropology\nduring the past twenty years. Major theoretical contributions and debates discussed include issues\nthat dominated the field during the 1970's (women in the ethnographic literature; the\npublic/private dichotomy; male dominance; impact of colonialism) as well as current concerns\nregarding feminist methodology, cultural constructions of gender and the female body, and\nwomen's resistance.\n(Same as Women's Studies 6301.03.)\nProfessor Romalis\n"
+        },
+        {
+            "dept": "gfws",
+            "code": "6507",
+            "credit": 3.0,
+            "name": "Feminist Pedagogy",
+            "prereqs": "",
+            "desc": "The course explores feminist theories and philosophical concerns emerging from and related to experiences and objects of pedagogy. It considers ongoing critique and revision of feminist discourse, and challenges socio-cultural and ideological assumptions underscoring theories of learning, teaching, and curriculum."
+        },
+        {
+            "dept": "gfws",
+            "code": "6801",
+            "credit": 3.0,
+            "name": "Reading Course                  ",
+            "prereqs": "",
+            "desc": "Individual students or small groups may conduct readings under a faculty member's supervision in one or two selected areas. Students wishing to enrol should contact the Director of the Graduate Program in Women's Studies for permission.\n"
+        },
+        {
+            "dept": "gfws",
+            "code": "6801",
+            "credit": 6.0,
+            "name": "Reading Course",
+            "prereqs": "",
+            "desc": "Individual students or small groups may conduct readings under a faculty member's supervision in one or two selected areas. Students wishing to enrol should contact the Director of the Graduate Program in Women's Studies for permission.\n"
+        },
+        {
+            "dept": "gfws",
+            "code": "6801A",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "Directed Reading"
+        },
+        {
+            "dept": "gfws",
+            "code": "6805",
+            "credit": 3.0,
+            "name": "Health and Illness",
+            "prereqs": "",
+            "desc": "This course is designed to consider current debates about health and care within a feminist political economy framework.  The focus will be Canada but a Canada located within an international context.  Of course students will be invited to introduce other perspectives and other countries into the readings, discussions and their papers."
+        },
+        {
+            "dept": "gfws",
+            "code": "6901",
+            "credit": 3.0,
+            "name": "Feminist Life Writing: Autopathographies",
+            "prereqs": "",
+            "desc": "Examines the subgenre of feminist life writing called autopathography, including verbal/visual/digital texts that deal with illness, pain, mental and physical disabilities, and disruptive corporealities. It draws on recent theories and methodologies developed by scholars of auto/biography, affect, new materialisms, critical disability, ecocriticism, and decolonial thought."
+        },
+        {
+            "dept": "gfws",
+            "code": "6904",
+            "credit": 3.0,
+            "name": "Critical Approaches to 'Race' and Racism",
+            "prereqs": "",
+            "desc": "Explores historical and contemporary projects of \u0091race-making\u0092 and \u0091race-thinking\u0092 through an interdisciplinary and intersectional approach. It investigates the possibilities and limits of critical debates about \u0091race\u0092 and \u0091racism\u0092 through a range of overlapping theoretical perspectives, including: poststructuralism, critical race theory, critical whiteness studies, anti-racist feminism, post-colonial studies, queer theory, and transnationalism and diaspora studies. The investigation will focus on the ways in which the politics of difference is deeply embedded in the "
+        },
+        {
+            "dept": "gfws",
+            "code": "6906",
+            "credit": 3.0,
+            "name": "The Cultural and Social Construction of Girls and Girlhood: Critical Feminist Perspectives",
+            "prereqs": "",
+            "desc": "Drawing upon multiple theoretical perspectives from contemporary girlhood studies, students explore the cultural and social construction of girls and girlhood. Critical feminist perspectives combined with &quot;girls'&quot; own experiences enable students to uncover and critique the ways in which girlhood is socially constructed and regulated through time, place and space. The role of oppression will be explored through an intersectional lens."
+        },
+        {
+            "dept": "gfws",
+            "code": "6907",
+            "credit": 3.0,
+            "name": "MA Seminar in Gender, Feminist and Women's Studies",
+            "prereqs": "",
+            "desc": "Presents students with an overview of the fields of specialization available in this program and introduces them to current critical issues and debates. It also deals with professional development, such as preparing grant applications, conference papers and articles."
+        },
+        {
+            "dept": "gfws",
+            "code": "6908",
+            "credit": 3.0,
+            "name": "Settler Colonialism and Settler Subjects",
+            "prereqs": "",
+            "desc": "The course critically examines settler colonialism and settler subject formations. Constitutive processes of settler subject formation, including racialization and gender will be analysed. While examples from different settler societies are examined, Canadian settler society and subject formations are the central focus of the course. "
+        },
+        {
+            "dept": "gfws",
+            "code": "6914",
+            "credit": 3.0,
+            "name": "Transnational feminism and thewomen in theGlobalSouth",
+            "prereqs": "",
+            "desc": "This graduate level seminar for MA and Ph.Dstudentsisintended to critically discuss transnational feminism's agenda and its impact on women in the global Souththroughadecolonial lens. It addresses crucial questions about decolonizing knowledge and the agency of women in the global South."
+        }
+    ]
+}
