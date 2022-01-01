@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "csla",
+            "code": "2915",
+            "credit": 3.0,
+            "name": "Computer Usage and Software Applications I",
+            "prereqs": "",
+            "desc": "The course will present the main computer components (hardware and software); advanced topics for the use, edition and layout of documents alone or as part of a team; the creation and use of dynamic Web pages; advanced INTERNET information search techniques; and the design and implementation of a relational database using a database management system (DBMS) with applications to specific environments. Course credit exclusions: GL/MODR 1960 3.00, GL/MODR 1970 3.00, GL/SOSC 1960 3.00, GL/SOSC 1970 3.00.\r\n\r\n"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "courses": [
+        {
+            "dept": "coop",
+            "code": "2000",
+            "credit": 2.0,
+            "name": "Introductory Professional Communications",
+            "prereqs": "",
+            "desc": "Workplace and technical writing and oral communication skills aimed at increasing students' competence in communications. Direct instruction is combined with simulations, discussions and group activities to develop clear, accurate, and effective oral and written communication. Prerequisite: Completion of at least 24 credits."
+        },
+        {
+            "dept": "coop",
+            "code": "2001",
+            "credit": 0.0,
+            "name": "Co-op Work Term",
+            "prereqs": "",
+            "desc": "Students will enrol in this course during their work term. Students reflect on the relationship of their academic learning to the Co-op work experience. Employers also provide their evaluation of the student's performance. Successful completion of at least three work term courses is a requirement of the Co-op option. Prerequisites: Open only to student with good standing in the Co-op option requirements for their program. This will typically include completion of certain required courses in the program, or completion of a specified number of credits overall, with a cumulative and/or program-specific and/or course-specific grade or GPA requirement."
+        },
+        {
+            "dept": "coop",
+            "code": "2100",
+            "credit": 2.0,
+            "name": "Professional Development for Co-Op Students",
+            "prereqs": "eng1101 eng1102 eng2001 coop2109",
+            "desc": "Developing an effective e-Portfolio for Lassonde co-op students as a tool for professional development and job finding. Learning from, and adapting to, the transition from university to the workplace. Offered online. Estimated time in required learning activities: 3 hours per week. Prerequisites: Enrolment in the Lassonde Co-op Option, requiring a GPA of 5.0 and completion of: Engineering: 60 credits of core engineering courses, of which at least 30 credits must be at the 2000-level and include LE/ENG 1101 4.00, LE/ENG 1102 4.00, and LE/ENG 2001 3.00. Honours Earth Science, Atmospheric Science: Completion of 50 credits including all core 1000 and 2000 level courses required for the relevant Honours stream. Honours Computer Science or Compute Security: Completion of 50 credits, including at least four of the 2000-level EECS core courses (EECS2001, EECS2011, EECS 2021, EECS2030, EECS2031). To qualify, the student must have attended all mandatory preparatory sessions required by the Lassonde Co-op Stream. This course must betaken during the student's first work-term. Co-requisites: LE/COOP 2109 0.0 Lassonde Coop Work-term.\n\n"
+        },
+        {
+            "dept": "coop",
+            "code": "2109",
+            "credit": 0.0,
+            "name": "Lassonde Co-op Work-term",
+            "prereqs": "",
+            "desc": "Students enrol in this course during their work term. In addition to the work, students reflect on the relationship of their academic learning to the Co-op work experience. Employers also provide their evaluation of the student's performance. Successful completion of at least three work term courses is a requirement of the Co-op option.  Prerequisites:  Open only to students with good standing in the Lassonde Co-op option. This will typically include completion of appropriate required courses in the program, and/or completion of a required number of credits with a specific GPA requirement.  Taken during their first period of work."
+        },
+        {
+            "dept": "coop",
+            "code": "3001",
+            "credit": 0.0,
+            "name": "Co-op Work Term",
+            "prereqs": "",
+            "desc": "Students will enrol in this course during their work term. Students reflect on the relationship of their academic learning to the Co-op work experience. Employers also provide their evaluation of the student's performance. Successful completion of at least three work term courses is a requirement of the Co-op option. Prerequisites: Open only to student with good standing in the Co-op option requirements for their program. This will typically include completion of certain required courses in the program, or completion of a specified number of credits overall, with a cumulative and/or program-specific and/or course-specific grade or GPA requirement."
+        },
+        {
+            "dept": "coop",
+            "code": "3002",
+            "credit": 0.0,
+            "name": "Co-op Work Term",
+            "prereqs": "",
+            "desc": "Students will enrol in this course during their work term. Students reflect on the relationship of their academic learning to the Co-op work experience. Employers also provide their evaluation of the student's performance. Successful completion of at least three work term courses is a requirement of the Co-op option. Prerequisites: Open only to student with good standing in the Co-op option requirements for their program. This will typically include completion of certain required courses in the program, or completion of a specified number of credits overall, with a cumulative and/or program-specific and/or course-specific grade or GPA requirement."
+        },
+        {
+            "dept": "coop",
+            "code": "3003",
+            "credit": 0.0,
+            "name": "Co-op Work Term",
+            "prereqs": "",
+            "desc": "Students will enrol in this course during their work term. Students reflect on the relationship of their academic learning to the Co-op work experience. Employers also provide their evaluation of the student's performance. Successful completion of at least three work term courses is a requirement of the Co-op option. Prerequisites: Open only to student with good standing in the Co-op option requirements for their program. This will typically include completion of certain required courses in the program, or completion of a specified number of credits overall, with a cumulative and/or program-specific and/or course-specific grade or GPA requirement."
+        },
+        {
+            "dept": "coop",
+            "code": "3004",
+            "credit": 0.0,
+            "name": "Co-op Work Term",
+            "prereqs": "",
+            "desc": "Students will enrol in this course during their work term. Students reflect on the relationship of their academic learning to the Co-op work experience. Employers also provide their evaluation of the student's performance. Successful completion of at least three work term courses is a requirement of the Co-op option. Prerequisites: Open only to student with good standing in the Co-op option requirements for their program. This will typically include completion of certain required courses in the program, or completion of a specified number of credits overall, with a cumulative and/or program-specific and/or course-specific grade or GPA requirement."
+        },
+        {
+            "dept": "coop",
+            "code": "3100",
+            "credit": 2.0,
+            "name": "Critical Reflection on Work Experience using Professional Portfolios",
+            "prereqs": "coop2100",
+            "desc": "Learning from the co-op experience and integrating that knowledge into academic studies. Use of the co-op e-Portfolio for targeted discussion topics focusing on professionalism, continuous learning, communications, and the workplace. Estimated time in required learning activities: three hours per week. Prerequisite: LE/COOP 2100 2.00. This course must be taken during the student's last co-op work-term. Enrolment in the Lassonde Co-op Option, requiring a GPA of 5.0 or better. Corequisites: LE/COOP 3109 0.00, or LE/COOP 4109 0.00."
+        },
+        {
+            "dept": "coop",
+            "code": "3109",
+            "credit": 0.0,
+            "name": "Lassonde Co-op Work-term",
+            "prereqs": "",
+            "desc": "Students enrol in this course during their work term. In addition to the work, students reflect on the relationship of their academic learning to the Co-op work experience. Employers also provide their evaluation of the student's performance. Successful completion of at least three work term courses is a requirement of the Co-op option.  Prerequisites:  Open only to students with good standing in the Lassonde Co-op option. This will typically include completion of appropriate required courses in the program, and/or completion of a required number of credits with a specific GPA requirement.  Students normally take LE/COOP 3109 0.0 during their second periods of work, after 90 credits (102 credits for students in the BEng)."
+        }
+    ]
+}

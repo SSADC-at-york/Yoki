@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "dcad",
+            "code": "7060",
+            "credit": 3.0,
+            "name": "Introduction to Applied Statistics",
+            "prereqs": "",
+            "desc": "This course focuses on the use of univariate and multivariate statistics as applied to social and behavioural research within the fields of organizational, management, and consumer studies. It covers descriptive statistics, mean difference testing, analysis of variance and covariance, linear and logistic regression, and a priori sample size calculations, as well as power and effect size calculations."
+        },
+        {
+            "dept": "dcad",
+            "code": "7100",
+            "credit": 3.0,
+            "name": "Logics of Social Research",
+            "prereqs": "",
+            "desc": "This examines the major philosophical debates in the social sciences and explores the rationale of different approaches to social research.  Students learn how to select and develop appropriate research strategies and how to critically examine the use of various research strategies."
+        },
+        {
+            "dept": "dcad",
+            "code": "7250",
+            "credit": 3.0,
+            "name": "Research Design",
+            "prereqs": "",
+            "desc": "Introduces students to research design, strengthens their reasoning and theoretical development skills, helps them effectively apply a range of empirical methodologies to their own research and critically review empirical studies done by others. Topics include types of variables, relationships, sampling and measurement, survey and field research designs, experimental designs, and alternative designs, and research design biases and artifacts."
+        },
+        {
+            "dept": "dcad",
+            "code": "7400",
+            "credit": 3.0,
+            "name": "Qualitative Research Methods",
+            "prereqs": "",
+            "desc": "Provides students with detailed exposure to the qualitative research methodologies that have begun to exert a major influence on management research over the last 10 years."
+        },
+        {
+            "dept": "dcad",
+            "code": "7600",
+            "credit": 1.5,
+            "name": "Graduate Colloquium in Management",
+            "prereqs": "",
+            "desc": "The rules, norms, and standards that surround the field of academics can seem ambiguous, confusing, and opaque to new Ph.D. students in the management disciplines. The purpose of this two-semester course is to provide a means of articulating central themes in this tacit process, and to provide a means of community-building among management-oriented Ph.D. students.\r\nPrerequisite: Open to and required of first- or second-year Ph.D. students in Strategy/Policy and Organization Studies areas."
+        }
+    ]
+}

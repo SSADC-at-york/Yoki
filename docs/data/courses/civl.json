@@ -1,0 +1,436 @@
+{
+    "courses": [
+        {
+            "dept": "civl",
+            "code": "2000",
+            "credit": 3.0,
+            "name": "Civil Engineering Design Project",
+            "prereqs": "eng2001 civl2150",
+            "desc": "Introduction to principles of engineering design via application to a suitable civil engineering project. Students work in groups of three or four, with periodic monitoring of group interaction and performance. Deliverables include a formal design report and a formal oral presentation in front of peers and invited guests. Students' learning experience is enhanced through guest lectures from prominent member of civil engineering industry and academia. Prerequisites: LE/ENG 2001 3.00, LE/CIVL 2150 3.00 Corequisite: LE/ENG 2003 3.00.\nDate of submission: 2017-12-05"
+        },
+        {
+            "dept": "civl",
+            "code": "2120",
+            "credit": 3.0,
+            "name": "Civil Engineering Materials",
+            "prereqs": "",
+            "desc": "Chemical, physical and mechanical properties of common civil engineering materials, such as Portland cement, Portland cement concrete, metals and alloys, wood, asphalt, asphalt concrete, masonry, and polymer composites; phenomenological basis for the properties of these materials; introduction to material characterization and quality control. Prerequisite: SC/CHEM 1100 4.00."
+        },
+        {
+            "dept": "civl",
+            "code": "2150",
+            "credit": 3.0,
+            "name": "Civil Engineering Graphics",
+            "prereqs": "eng1102",
+            "desc": "Introduction to computer-aided drawing with applications in civil engineering and related disciplines. Students will learn about the principles of engineering drawings, create typical drawings using Computer-aided Drawing (CAD) tools, and read and interpret civil and geomatics engineering drawings. Prerequisite: LE/ENG 1102 4.00."
+        },
+        {
+            "dept": "civl",
+            "code": "2160",
+            "credit": 3.0,
+            "name": "Geological Processes",
+            "prereqs": "",
+            "desc": "This course presents essential topics in physical geology and earth sciences, including: plate tectonics and the geological cycle; identification and physical properties of rocks, soil and minerals; igneous, metamorphic and sedimentary rock formation; weathering and soil formation; structural geology and geological mapping; relative age relationships; and, near-surface geological processes and resulting landforms. The course also briefly introduces the students to the topics of earthquakes, landslides and other natural hazards and develops links to the physical properties. Prerequisite: ESSE 1012 3.00."
+        },
+        {
+            "dept": "civl",
+            "code": "2210",
+            "credit": 4.0,
+            "name": "Fluid Mechanics",
+            "prereqs": "math1014 phys1800",
+            "desc": "This course covers the basic properties of fluids and their measurement; fluid statics; kinematics of fluid flow; measurement of pressure; velocity and discharge; conservation of mass, momentum and energy; dimensional analysis. Bernoullis equation and its applications are also introduced. Prerequisites: SC/MATH 1014 3.00, SC/PHYS 1800 3.00. "
+        },
+        {
+            "dept": "civl",
+            "code": "2220",
+            "credit": 4.0,
+            "name": "Mechanics of Materials",
+            "prereqs": "civl2120 phys1800",
+            "desc": "This course builds on the concepts learned in first-year engineering mechanics and emphasizes the understanding and application of three fundamental concepts in solid mechanics - equilibrium, constitutive relationships and compatibility. These concepts are introduced and reinforced using specific examples of axially-loaded members, pure bending, bending combined with shear, and torsion of circular shafts. The students are introduced to basic structural engineering design through simple examples of beam design for bending stresses and deformation. The course also introduces the students to the concept of two-dimensional transformation of stresses and strains using Mohr's circle. Prerequisite: LE/CIVL 2120 3.00; SC/PHYS 1800 3.00. "
+        },
+        {
+            "dept": "civl",
+            "code": "2240",
+            "credit": 3.0,
+            "name": "Introduction to Environmental Engineering",
+            "prereqs": "esse1012 chem1100",
+            "desc": "Physical environment and how it is influenced by human activity; Mass and energy balance of environmental systems; environmental pollution and its causes; basic principles in chemistry and physics to explain the behaviour of pollutants in the environment (air, land and water); contaminant transport through air, water and solids; application of environmental engineering principles to water and wastewater treatment, water resources management, environmental impact assessment; environmental ethics; greenhouse effect; ozone depletion; acid precipitation; sustainable development and life cycle assessment; overview of environmental quality objectives, standards and guidelines. Prerequisites: LE/ESSE 1012 3.00, SC/CHEM 1100 4.00."
+        },
+        {
+            "dept": "civl",
+            "code": "3110",
+            "credit": 3.0,
+            "name": "Soil Mechanics",
+            "prereqs": "civl2160 civl2210 civl2210 civl2220 civl2220",
+            "desc": "The course presents essential topics in soil mechanics, including the origin and nature of soils, soil identification and classification, compaction, seepage theory, groundwater flow nets, stresses and strains in soils, effective stress concept, consolidation, shear strength of soils, and earth pressure theory. Emphasis is on learning of fundamental soil mechanics concepts using examples of their application to geotechnical engineering. Laboratory practicum component of the course provides hands-on experience of laboratory tests that are commonly used for determination of physicochemical and engineering properties of soils. Prerequisites: LE/CIVL 2160 3.00, LE/CIVL 2210 3.00 or LE/CIVL 2210 4.00, LE/CIVL 2220 3.00 or LE/CIVL 2220 4.00."
+        },
+        {
+            "dept": "civl",
+            "code": "3120",
+            "credit": 4.0,
+            "name": "Hydraulics",
+            "prereqs": "civl2210 civl2210",
+            "desc": "This course focuses on fluid flow including flow in pipes and open channels, under laminar and turbulent conditions, in steady or unsteady conditions, and flow through and past various objects. The course covers the equations of motions for fluids, differential fluid flow analysis, potential flow theory and the boundary layer approximation. Prerequisites: LE/CIVL 2210 3.00 or LE/CIVL 2210 4.00."
+        },
+        {
+            "dept": "civl",
+            "code": "3130",
+            "credit": 4.0,
+            "name": "Structural Analysis",
+            "prereqs": "civl2220 civl2220",
+            "desc": "The course emphasizes the basic concepts of structural analysis and introduces computer-aided analytical techniques.  Internal forces in trusses and plane frames ; Bending moment, shear-force and axial-force diagrams in statically determinate structures due to applied loads; methods for estimating deflections; introduction of matrix structural analysis using the stiffness method and its application to 2-D trusses and frames; hand-calculation methods for statically indeterminate structures. Prerequisites:LE/CIVL 2220 3.00 or LE/CIVL 2220 4.00"
+        },
+        {
+            "dept": "civl",
+            "code": "3140",
+            "credit": 3.0,
+            "name": "Civil Engineering Computational Methods",
+            "prereqs": "eecs1021 math2271",
+            "desc": "The course deals with the use of analytical and numerical techniques for solving civil engineering problems. Topics include: matrix solution methods for systems of coupled equations, eigenvalue problems, and coordinate transformations; optimization and linear programming; and the solution of differential equations describing non-stationary physical systems using analytical, finite difference and finite element methods. Prerequisites:  LE/EECS 1021 3.00, SC/MATH 2271 3.00."
+        },
+        {
+            "dept": "civl",
+            "code": "3160",
+            "credit": 3.0,
+            "name": "Transportation Engineering",
+            "prereqs": "esse2630 esse2635 math2930",
+            "desc": "Transportation is fundamental to the economic prosperity of our society. This course introduces civil engineering students to the fundamental elements of transportation engineering, traffic flow theory, highway capacity analysis, geometric design, traffic safety, road classification, and intelligent transportation systems. Prerequisites: LE/ESSE 2630 3.00 or LE/ESSE 2635 3.00; SC/MATH 2930 3.00. Course Credit Exclusion: LE/CIVL 3250 3.00. "
+        },
+        {
+            "dept": "civl",
+            "code": "3210",
+            "credit": 3.0,
+            "name": "Geotechnical Engineering",
+            "prereqs": "civl3110",
+            "desc": "The course focuses on practical applications of soil mechanics concepts to the analysis and design of foundations, excavations, earth-retaining systems and slopes. Topics include: analysis and design of shallow foundations in terms of bearing capacity and settlement; analysis and design and deep foundations including driven and bored piles; analysis and design of earth retaining systems; and, slope stability. Practicum component includes hands-on experience in extracting design parameters from results of site investigation and laboratory tests and preparing a geotechnical design report. Prerequisite: LE/CIVL 3110 3.00."
+        },
+        {
+            "dept": "civl",
+            "code": "3220",
+            "credit": 3.0,
+            "name": "Hydrology",
+            "prereqs": "math2930 civl2210",
+            "desc": "The course introduces basic hydrological processes such as precipitation and abstractions. It also covers engineering applications such as statistical hydrology, regional frequency analysis, water balance methods, the unit hydrograph and rainfall-runoff processes, flow routing techniques, and urban hydrology.  Prerequisites:  SC/MATH 2930 3.00, LE/CIVL 2210 4.00."
+        },
+        {
+            "dept": "civl",
+            "code": "3230",
+            "credit": 4.0,
+            "name": "Introduction to Structural Design",
+            "prereqs": "",
+            "desc": "Provides a review of: basic structural systems, including gravity and lateral load-resisting systems; principles of Limit States Design according to the National Building Code (NBC) of Canada; and dead and live loads, snow and rain loads, and loads due to wind based on the NBC. Properties of structural steel and reinforced concrete will be discussed. Design of structural steel including tension members, compression members, beams, and connections will be based on CSA S16. Design of reinforced concrete according to CSA A23.3 will include: beams in flexural and shear; and columns under axial load, and combined axial load and bending. Prerequisites: LE/CIVL 2120 3.00, LE/CIVL 3130 3.00."
+        },
+        {
+            "dept": "civl",
+            "code": "3240",
+            "credit": 3.0,
+            "name": "Sanitary and Environmental Engineering",
+            "prereqs": "civl2240 civl3120 civl3120",
+            "desc": "Topics in this introductory sanitary and environmental engineering course include: environmental regulations; general wastewater quality parameters; the design of municipal water distribution and wastewater collection systems; basic water chemistry and water quality assessment; physical and chemical treatment processes involved in water and wastewater treatment; brief overview of urban storm water collection systems and the integration of unit processes and operations into a treatment system. Prerequisites: LE/CIVL 2240 3.00, LE/CIVL 3120 3.00 or LE/CIVL 3120 4.00."
+        },
+        {
+            "dept": "civl",
+            "code": "3260",
+            "credit": 3.0,
+            "name": "Transportation Planning and Evaluation",
+            "prereqs": "eng2001 civl3160 civl3250",
+            "desc": "This course introduces students to the major theories, principles and methods used in the field of transportation planning and evaluation. Under transportation planning, the course considers how transportation planners and decision-makers have historically analyzed the way people and goods move around cities. This includes an examination of the four-step travel demand model (the most widely used model) giving emphasis to the analytical techniques used to forecast future daily traffic demand on a roadway network. Under transportation project evaluation, the course presents fundamental concepts for the economic evaluation of roadway infrastructure improvement projects. Emphasis is placed on user and non-user costs with additional applications of lifecycle cost analysis, benefit-cost analysis, and the integration of these tools to support effective decision making. Prerequisites: LE/ENG 2001 3.00; LE/CIVL 3160 3.00 or LE/CIVL 3250 3.00. Course Credit Exclusion: LE/CIVL 4032 3.00.\n \n"
+        },
+        {
+            "dept": "civl",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Civil Engineering Capstone Design Project",
+            "prereqs": "eng2003 eng3000",
+            "desc": "A small group of students will work as a team to undertake a Civil Engineering industry provided design project.  The design solution will include the application of civil engineering knowledge and skills.  The course builds on LE/CIVL 2000.  Students apply at a professional level the knowledge and skills they have acquired from  the Civil Engineering program and receive guidance and expert advice from guest speakers from civil engineering industry and academia on topics related to their design projects. Deliverables include progress reports, a comprehensive design report and a formal oral presentation to an audience comprising peers, instructors and industry professionals. The students are evaluated on their teamwork as well as on individual contributions.  The evaluations include instructor evaluations as well as self and peer evaluations.  Prerequisites: LE/ENG 2003 3.00, LE/ENG 3000 3.00, All LE/CIVL 2XXX &amp; 3XXX-level courses."
+        },
+        {
+            "dept": "civl",
+            "code": "4002",
+            "credit": 3.0,
+            "name": "Reinforced Concrete Design",
+            "prereqs": "",
+            "desc": "Design of reinforced concrete members based on serviceability and ultimate limit states. Design for combined shear and torsion. Review of one-way slabs and introduction to two-way slab systems. Design of two-way slabs using strip method, direct design method, and equivalent frame method. Punching of flat slabs, detailing of drop panels and capitals. Design of axial members subjected to axial load and uniaxial/biaxial bending. Slenderness effects. Non-sway and sway columns. Design of foundations subjected to axial and bending stresses. Introduction to walls, and design of bearing walls. Prerequisites: LE/CIVL 3230 3.00; LE/CIVL 3130 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4003",
+            "credit": 3.0,
+            "name": "Structural Steel Design",
+            "prereqs": "",
+            "desc": "Design of tension members, compression members, and beam-columns. Behaviour and design of composite steel beams. Design of plate girders. Local and lateral torsional buckling. Strength and stability of columns. Shear and tension strength of bolts, prying action, and design of base plates. Design of concrete filled steel tubular sections. Design of truss systems and design of bracing for sway systems and diaphragm action. Prerequisite: LE/CIVL 3230 3.00, LE/CIVL 3130 3.00."
+        },
+        {
+            "dept": "civl",
+            "code": "4004",
+            "credit": 3.0,
+            "name": "Structural Dynamics and Earthquake Engineering",
+            "prereqs": "",
+            "desc": "Characteristics of simple dynamic systems (period, damping); equilibrium of motion of single degree of freedom systems (SDOF) and calculation of free and forced (periodic) vibration response.  Blast loads, arbitrary dynamic excitations.  The Duhamel integral.  Response Spectra. Generalized SDOF systems; Rayleigh's method of dynamic response approximation.  Introduction to Earthquake Engineering.  Earth tectonics, seismicity, and intensity measures of strong ground motions.   Design spectra according to the National Building Code (NBC) of Canada. System behavior. Definition of behavior factor and ductility.   Design forces in practical seismic design.  Regular and Irregular structures, torsional eccentricity, center of resistance in structures.  Outline of detailing provisions for ductility and seismic resilience in concrete, steel and masonry structures. Prerequisites: LE/CIVL 3130 3.00, LE/CIVL 3230 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4011",
+            "credit": 3.0,
+            "name": "Geotechnical Modelling",
+            "prereqs": "civl3140 civl3210",
+            "desc": "The course deals with conceptual understanding and the use and application of physical, analytical and numerical modelling techniques for the analysis and design of geotechnical systems, such as foundations, embankments, natural and constructed slopes, excavations, earth and mine tailings dams, and tunnels. Key concepts as well as analysis and design methodologies are emphasized and reinforced using hands-on computer modelling sessions involving the use of state-of-the-art geotechnical modelling software. Prerequisites: LE/CIVL 3140 3.00; LE/CIVL 3210 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4013",
+            "credit": 3.0,
+            "name": "Hydrogeology",
+            "prereqs": "civl3110 civl2240",
+            "desc": "This course introduces students to hydrogeology and contaminant hydrogeology through theory, and computer simulations. Topics include: hydrologic cycle, groundwater flow on a regional scale; aquifers, aquitards and aquicludes; contaminant transport via groundwater; pumping of confined and unconfined aquifers; groundwater flow modeling, environmental impacts and remediation technologies. Prerequisites: LE/CIVL 3110 3.00, LE/CIVL 2240 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4015",
+            "credit": 3.0,
+            "name": "Frozen Ground Engineering",
+            "prereqs": "civl3210",
+            "desc": "In this course students will examine physical, thermal and mechanical properties of frozen soils, frost action, heat flow in soils and thaw behaviour of frozen ground. The aim of this course is to provide students with an introduction to permafrost engineering. Throughout the course, students will examine topics including: surface features in permafrost, ground ice landforms, thermal regimes in permafrost areas, thermal and mechanical properties of frozen soils, heat flow equations, site investigation in permafrost areas, and foundations and slope stability challenges in permafrost.  Prerequisite: LE/CIVL 3210 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4021",
+            "credit": 3.0,
+            "name": "Hydraulic Structures",
+            "prereqs": "civl3120",
+            "desc": "This course covers the advanced principles and theory of fluid mechanics pertaining to hydraulic structures. Topics include: analysis, evaluation and design of various hydraulic structures including: channel regulation structures, flood control structures; flow measurement structures; dams and spillways; energy dissipation structures; conveyance and water supply structures; drainage and watershed structures; hydropower generation; coastal engineering. The applications of the state-of-the-art numerical models in the design of hydraulic structures are also covered. Prerequisite: LE/CIVL 3120 4.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4022",
+            "credit": 3.0,
+            "name": "Water Resources Engineering",
+            "prereqs": "civl3120 civl3220",
+            "desc": "This course focuses on the advance principles of engineering hydrology and hydraulics and applies them to various water resource engineering systems with a focus on sustainability and environmental integration. The course will review basic hydrology and hydraulics engineering principles and introduce sustainable water resource management and planning, including: Groundwater and surface water processes; Watershed runoff simulation in rural and urban settings;  Numerical simulation of water resources systems; Urban hydrology, water distribution and stormwater management systems; Extreme event analysis, risk &amp; uncertainty for hydrological and hydraulic design; Water-use and stresses in agriculture, industry, domestic, recreation and ecological needs; Water markets and economics of water resources management. Prerequisites: LE/CIVL 3120 4.00, LE/CIVL 3220 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4031",
+            "credit": 3.0,
+            "name": "Pavement Materials and Design",
+            "prereqs": "",
+            "desc": "This course is intended to cover many of the key elements of surface infrastructure system (e.g., pavements). That is, the framework for good pavement design and management, pavement materials, and structural design. More specifically, the following topics will be covered.\n\nProperties and usage of soil and rock as pavement materials; selection and characterization of subgrade, sub-base and base materials; properties and usage of bitumen and asphalt; manufacture and use of bituminous concrete; mix design; use of recycled construction materials in road construction; prediction and characterization of traffic loadings; stress distribution in flexible and rigid pavements; principles of mechanistic design; assessment and prediction of pavement condition; measurement and reporting of physical distress including cracking, rutting and roughness, pavement management system. Prerequisites: LE/CIVL 3110 3.00; LE/CIVL 3250 3.00 or LE/CIVL 3260 3.00 \n"
+        },
+        {
+            "dept": "civl",
+            "code": "4033",
+            "credit": 3.0,
+            "name": "Traffic Simulation Modelling",
+            "prereqs": "civl3250 civl3260",
+            "desc": "CIVL 4033 Traffic Simulation Modelling will teach the principles, theories, and application processes of traffic simulation modelling for 4th year Civil Engineering students to understand the complex interactions between traffics and surface infrastructure system. This course covers a variety of topics related to traffic simulation modelling such as car following and gap acceptance theories and swept path analysis. This course also provides students the opportunity to learn how to use the state-of-the-industry simulation tools (e.g., VISSIM, AutoTURN) to make informed decisions on the various surface infrastructure improvement projects. Prerequisites: LE/CIVL 3250 3.00 or LE/CIVL 3260 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4034",
+            "credit": 3.0,
+            "name": "Freight Transportation",
+            "prereqs": "civl3250 civl3260",
+            "desc": "CIVL 4034 Freight Transportation builds on core transportation courses by adapting the concepts and theories of passenger transportation to the realm of freight transportation with an emphasis on truck patterns. This topic is regionally important given the prominent role of nearby Peel Region as the largest Canadian hub for freight. The course will cover topics such as traditional freight modelling assumptions, the demand for goods movement arising from economic markets, trip generation models, truck movement models such as truck tours, societal impacts of freight, and future impacts of connected and autonomous (CAV) vehicles. In addition, the course will introduce students to optimization problems such as the transportation problem, p-median, and capacitated plant. Prerequisites: LE/CIVL 3250 3.00 or LE/CIVL 3260 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4041",
+            "credit": 3.0,
+            "name": "Landfill Design",
+            "prereqs": "",
+            "desc": "A design-based course where geotechnical and hydrogeological principles are applied to study environmentally sustainable disposal of municipal solid waste. Students will conduct practical design tasks to investigate the planning, design, construction, operation and post-closure of phases of an engineered municipal waste disposal facility. Throughout their design tasks, topics studied will include: source and nature of waste; disposal options; design methodologies; environmental legislation and regulations; public perception; societal and environmental impact of landfills; contaminant transport modeling; use of geosynthetic materials; and design issues and tradeoffs. Prerequisites: CIVL 3210 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4042",
+            "credit": 3.0,
+            "name": "Environmental Impact Assessment and Sustainability",
+            "prereqs": "civl2240 civl3210",
+            "desc": "The course introduces the process of environmental impact assessment (EIA) in the context of sustainable development in Canada. The role of the EIA process in engineering design and control of adverse environmental effects is illustrated using a number of case studies. Regulations such as Clean Water Act, Safe Drinking Water Act, Environmental Assessment Act, and Environmental Protection Act will be discussed. Prerequisites: LE/CIVL 2240 3.00, LE/CIVL 3210 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4110",
+            "credit": 3.0,
+            "name": "Civil Engineering Project Management",
+            "prereqs": "eng2001 eng3000",
+            "desc": "The course builds on the basic principles of project management covered in LE/ENG 2001.  It covers salient features of the most widely accepted practices in the management of large civil engineering projects, grouped sequentially into five phases of initiation, planning, execution, monitoring/control, and closure. These five phases are presented using twelve areas of expertise needed by a professional project manager. The course uses a case-studies-based approach to cover various elements of project management, such as scope, time, cost, quality, human resources, communication, risk and procurement, relevant to large civil engineering projects. Complexities of managing large projects are emphasized using example applications of advanced project control tools. International standards on project management are also introduced. Prerequisites:  LE/ENG 2001 3.00, LE/ENG 3000 3.00"
+        },
+        {
+            "dept": "civl",
+            "code": "4210",
+            "credit": 3.0,
+            "name": "Civil Engineering for a Sustainable Future",
+            "prereqs": "civl4110 envs2150 esse2210",
+            "desc": "Essential components of sustainable development framework; review of completed and on-going civil\nengineering projects using such a framework; discussions on environmental, socio-economic impacts and costs of these projects; sustainable development strategies in the light of infrastructure deficit, adaption of infrastructure to climate change, and water security; ways of building sustainable engineering capacity in urban centres. Prerequisite: LE/CIVL 4110 3.00; ES/ENVS 2150 3.00 or LE/ESSE 2210 3.00.\n"
+        },
+        {
+            "dept": "civl",
+            "code": "6000",
+            "credit": 0.0,
+            "name": "Graduate Seminar Series in Civil Engineering",
+            "prereqs": "",
+            "desc": "The Graduate Seminar Series comprises at least twelve individual seminar events organized by the Department of Civil Engineering approximately once a month throughout the academic year and an annual conference-style all-day Graduate Symposium in which MASc and PhD students give presentations based on their respective research projects. Each MASc student is expected to give at least one presentation at the Graduate Symposium. Each PhD student is expected to give at least two presentations at the Graduate Symposium. All graduate students (MASC and PhD) are required to attend at least 10 graduate seminars during the course of their respective degree programs."
+        },
+        {
+            "dept": "civl",
+            "code": "6001",
+            "credit": 0.0,
+            "name": "Doctor of Philosophy (PhD) in Civil Engineering Thesis",
+            "prereqs": "",
+            "desc": "Thesis Requirement for PhD. in Civil Engineering."
+        },
+        {
+            "dept": "civl",
+            "code": "6002",
+            "credit": 0.0,
+            "name": "Master of Applied Science in Civil Engineering Thesis",
+            "prereqs": "",
+            "desc": "Thesis Requirement for Master of Applied Science in Civil Engineering."
+        },
+        {
+            "dept": "civl",
+            "code": "6100",
+            "credit": 3.0,
+            "name": "Directed Reading in Environmental Engineering",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "civl",
+            "code": "6100B",
+            "credit": 3.0,
+            "name": "Directed Reading in Environmental Engineering",
+            "prereqs": "",
+            "desc": "Emerging, current, or timely topics in Environmental Engineering. Graduate Program Director approval is needed to register in this course. In case of more than one Directed Reading courses being offered in any given term, the courses will be distinguished using sections listed alphabetically."
+        },
+        {
+            "dept": "civl",
+            "code": "6200B",
+            "credit": 3.0,
+            "name": "Directed Reading in Geotechnical Engineering",
+            "prereqs": "",
+            "desc": "Emerging, current, or timely topics in Geotechnical Engineering"
+        },
+        {
+            "dept": "civl",
+            "code": "6221",
+            "credit": 3.0,
+            "name": "Geotechnical Modelling",
+            "prereqs": "",
+            "desc": "Principles and applications of theoretical, numerical and physical modelling in geotechnical engineering. Topics include: Introduction to modelling; idealization of soil behaviour; constitutive modelling; numerical modelling; physical modelling; centrifuge modelling; theoretical modelling. Applications include: embankments; soft ground tunnelling; dams; retaining walls; foundations; soil reinforcement; soil-structure interaction."
+        },
+        {
+            "dept": "civl",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Directed Reading in Geoenvironmental Engineering",
+            "prereqs": "",
+            "desc": "A directed reading course in geoenvironmental engineering.  Approval of the graduate program director is required."
+        },
+        {
+            "dept": "civl",
+            "code": "6320",
+            "credit": 3.0,
+            "name": "Flow and Transport in the Vadose Zone",
+            "prereqs": "",
+            "desc": "This three-module course provides students a fundamental understanding of the flow and\r transport in the vadose zone. Theoretical as well as applied aspects of various processes and\r mechanisms of flow and transport are presented within the context of contaminant migration\rand remediation."
+        },
+        {
+            "dept": "civl",
+            "code": "6321",
+            "credit": 3.0,
+            "name": "Contaminant Hydrogeology",
+            "prereqs": "",
+            "desc": "This course introduces students to contaminant hydrogeology through theory, field visits, and computer simulations and is composed of 3 stand-alone modules. There are no prerequisites for this course."
+        },
+        {
+            "dept": "civl",
+            "code": "6400",
+            "credit": 3.0,
+            "name": "Directed Reading in Structural Engineering",
+            "prereqs": "",
+            "desc": "Approval of the graduate program director is required."
+        },
+        {
+            "dept": "civl",
+            "code": "6411",
+            "credit": 3.0,
+            "name": "Structural Dynamics and Earthquake Engineering",
+            "prereqs": "",
+            "desc": "This three-module course provides students with an introduction to modern seismology, ground-faulting and characteristics of earthquakes, derivation of the dynamic equations of motion of multi-degree of freedom systems, time-history analysis to ground excitations, damping, nonlinear hysteresis, nonlinear spectra, modal properties, analysis in the frequency domain, torsional response of structures, performance limit states and principles of base isolation."
+        },
+        {
+            "dept": "civl",
+            "code": "6420",
+            "credit": 3.0,
+            "name": "Advanced Prestressed Concrete",
+            "prereqs": "",
+            "desc": "This course provides students with an understanding of the mechanics and fundamental\r\nconcepts of prestressed reinforced concrete. The content will include analysis and design\r\nprinciples according to Canadian design standards. The course will culminate with an\r\napplied design project of a prestressed concrete structure. Students are expected to have\r\ncompleted reinforced concrete design at the undergraduate level."
+        },
+        {
+            "dept": "civl",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Directed Reading in Transportation Engineering",
+            "prereqs": "",
+            "desc": "This course may be offered depending on the needs of a graduate student\u0092s research project for a maximum of two successive course offerings and subject to approval by the graduate program director. "
+        },
+        {
+            "dept": "civl",
+            "code": "6511",
+            "credit": 3.0,
+            "name": "Intelligent Transportation Systems",
+            "prereqs": "",
+            "desc": "This course introduces the students to essential features of intelligent transportation systems (ITS) and provides them with the opportunity to explore and investigate the applications of the ITS in delivering safe and efficient transportation systems and in preserving of transportation\r\nassets."
+        },
+        {
+            "dept": "civl",
+            "code": "6521",
+            "credit": 3.0,
+            "name": "Road Safety Engineering",
+            "prereqs": "",
+            "desc": "This course is designed to provide students with a strong theoretical and methodological foundation in road safety analysis. It focuses on the analysis of road accident data, the evaluation of safety countermeasures, the roadway safety management process, and the roadway design consistency."
+        },
+        {
+            "dept": "civl",
+            "code": "6600B",
+            "credit": 3.0,
+            "name": "Directed Reading in Water Resources Engineering",
+            "prereqs": "",
+            "desc": "Emerging, current, or timely topics in Water Resources Engineering"
+        },
+        {
+            "dept": "civl",
+            "code": "6600C",
+            "credit": 3.0,
+            "name": "Directed Reading in Water Resources Engineering",
+            "prereqs": "",
+            "desc": "Emerging, current, or timely topics in Water Resources Engineering"
+        },
+        {
+            "dept": "civl",
+            "code": "6600A",
+            "credit": 3.0,
+            "name": "Directed Reading in Water Resources Engineering",
+            "prereqs": "",
+            "desc": "Emerging, current, or timely topics in Water Resources Engineering"
+        },
+        {
+            "dept": "civl",
+            "code": "6610",
+            "credit": 3.0,
+            "name": "Computational Methods in Hydrodynamics",
+            "prereqs": "",
+            "desc": "This course introduces the scientific principles and practical engineering applications of numerical hydrodynamics. Through this course students will be able to solve the free surface flow equations using mostly finite difference techniques. The course also provides an overview of some of the fundamental mathematical equations governing open channel hydraulics. Throughout this course, students learn and develop advanced computational techniques to solve fundamental unsteady varied hydrodynamic flows, where no analytical solution is available."
+        },
+        {
+            "dept": "civl",
+            "code": "6620",
+            "credit": 3.0,
+            "name": "Data-driven modelling and uncertainty analysis for water resources engineering",
+            "prereqs": "",
+            "desc": "This course will introduce and develop advanced engineering, mathematical and statistical techniques for modelling water resource systems and to quantify the uncertainty of these modelling techniques. The course includes 3 modules related to data-driven models (model development and performance testing), statistical methods (design of experiments, hypothesis testing, Bayesian analysis), and fuzzy set theory (fuzzy models, fuzzy arithmetic, fuzzification techniques)."
+        }
+    ]
+}

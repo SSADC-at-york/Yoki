@@ -1,0 +1,60 @@
+{
+    "courses": [
+        {
+            "dept": "cwr",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Introduction to Creative Writing",
+            "prereqs": "",
+            "desc": "An introduction to the writing of poetry and prose fiction. The main focus of the course will be the student's own writing. Students will be expected to satisfy a number of assignments relating to both fiction and poetry.\nCCE: AP/EN 2600 6.00"
+        },
+        {
+            "dept": "cwr",
+            "code": "3600",
+            "credit": 6.0,
+            "name": "Principles of Creative Writing: Creative Non-fiction and Mixed Genre",
+            "prereqs": "en2600 cwr2600",
+            "desc": "Introduces a variety of writing models and theoretical writing concepts and concerns in the field of creative writing. \nPrerequisites: AP/EN 2600 6.00, AP/CWR 2600 6.00 or equivalent, and submission of a 10-15 page portfolio. Admission to AP/EN 3600 6.00 is subject to the permission of the creative writing program coordinator.\nCCE: AP/EN 3600 "
+        },
+        {
+            "dept": "cwr",
+            "code": "3610",
+            "credit": 6.0,
+            "name": "Intermediate Prose Workshop: Fiction",
+            "prereqs": "",
+            "desc": "A course for students who have demonstrated talent in the writing of prose fiction. Study may be made of the craft of the journal, short story and novel through the work of both recognized writers and students in the course. Note: For students who are not creative writing majors, enrolment in this course is based upon approval of a portfolio of 15 to 20 pages of prose submitted by the student to the coordinator of the creative writing program.\nCCE: AP/EN 3610 6.00"
+        },
+        {
+            "dept": "cwr",
+            "code": "3612",
+            "credit": 3.0,
+            "name": "Genre Fiction Workshop",
+            "prereqs": "en2600 cwr2600",
+            "desc": "This course offers students the chance to write popular fiction in one of three genres: mystery/crime writing; science fiction/speculative fiction; horror/apocalyptic fiction. Students will study representative examples of these forms in short fiction and novels, and produce fiction under the editorial guidance of the instructor and of workshop commentaries. Prerequisites: AP/EN 2600 6.00 or AP/CWR 2600 6.00\nCCE: AP/EN 3612 3.00"
+        },
+        {
+            "dept": "cwr",
+            "code": "3620",
+            "credit": 6.0,
+            "name": "Intermediate Poetry Workshop",
+            "prereqs": "",
+            "desc": "A course for students who are seriously engaged in the practice of poetry, and who wish to explore their strengths and develop the range of their skills in the company of other poets. The workshop approach will encourage learning while doing. Note: For students who are not creative writing majors, enrolment in this course is based upon approval of a portfolio of 15 to 20 pages of poetry submitted by the student to the Coordinator of the Creative Writing program.\nCCE: AP/CWR 3620 6.00"
+        },
+        {
+            "dept": "cwr",
+            "code": "4610",
+            "credit": 6.0,
+            "name": "Senior Prose Workshop: Fiction",
+            "prereqs": "",
+            "desc": "This course is intended primarily for students who have taken AP/EN 3610 6.00 and demonstrated that they can benefit from advanced study of the writing of prose fiction. Students will be expected to re-examine and enlarge potentialities already evident within their work. Prerequisite: Permission of the Instructor.\nCCE: AP/EN 4610 6.00"
+        },
+        {
+            "dept": "cwr",
+            "code": "4620",
+            "credit": 6.0,
+            "name": "Senior Poetry Workshop",
+            "prereqs": "",
+            "desc": "This course is intended primarily for students who have taken AP/EN 3620 6.00 and demonstrated that they can benefit from advanced study of the writing of poetry. Students will be expected to re-examine and enlarge potentialities already evident within their work. \nPrerequisite: Permission of the Instructor.\nCCE: AP/EN 4620 6.00"
+        }
+    ]
+}

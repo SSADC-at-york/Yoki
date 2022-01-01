@@ -1,0 +1,172 @@
+{
+    "courses": [
+        {
+            "dept": "crim",
+            "code": "1650",
+            "credit": 6.0,
+            "name": "Introduction to Criminology",
+            "prereqs": "",
+            "desc": "This course critically investigates processes that define criminality; the relationship between control and consent; the administration of &quot;justice,&quot; and the social contexts within which legal contests occur. It introduces students to critical and contemporary approaches as well as mainstream/traditional explanations. Note: Students must achieve a grade of at least B in this course in order to be permitted to continue as a major in criminology, or to pursue additional criminology courses at the 2000-, 3000- and 4000-levels. Under exceptional circumstances, non-majors who have not obtained a grade of at least B may apply for special consideration to enrol in a criminology course for which AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 is a prerequisite. This application should be made to the criminology program coordinator. \r\nCourse credit exclusion: AP/CRIM 1650 9.00, AP/SOSC 1650 9.00."
+        },
+        {
+            "dept": "crim",
+            "code": "2650",
+            "credit": 6.0,
+            "name": "Theories of Criminology",
+            "prereqs": "crim1650 sosc1650",
+            "desc": "Introduces students to competing theories of criminology and the history of criminology as a field of study. Biological, psychological and sociological theories of crime are compared and contrasted, as well as contemporary theories including symbolic interactionism and critical criminology. Prerequisites: AP/CRIM 1650 9.00, AP/SOSC 1650 9.00 (or equivalent), with a grade of at least B. PRIOR TO WINTER 2010: Course credit exclusion: AP/SOSC 3382 6.00."
+        },
+        {
+            "dept": "crim",
+            "code": "2652",
+            "credit": 6.0,
+            "name": "Criminal Justice Systems",
+            "prereqs": "",
+            "desc": "This course considers the politics at stake in the crime prevention enterprise. A number of specific crime prevention and security initiatives will be examined with a view to exposing their political foundations, and presenting a variety of more progressive alternatives."
+        },
+        {
+            "dept": "crim",
+            "code": "2653",
+            "credit": 6.0,
+            "name": "Research Methods in Criminology",
+            "prereqs": "",
+            "desc": "Introduces students to criminological research and provides a foundation for developing analytical skills by examining ethics, research designs (qualitative, quantitative and hybrid), data collection, data analysis and reporting procedures. Assesses commonly utilized criminological strategies: experiments, surveys (self report, victimization), field studies, ethnographies, analysis of existing records (crime statistics, official reports, historical data), secondary data analysis, content, textual, and documentary analyses. "
+        },
+        {
+            "dept": "crim",
+            "code": "3652",
+            "credit": 3.0,
+            "name": "Ethnographies of Crime and Policing",
+            "prereqs": "",
+            "desc": "This course reviews the application of the ethnographic method to the study of crime and policing, and explores changes in the organization of policing in democratic countries from the mid-20th century to the present."
+        },
+        {
+            "dept": "crim",
+            "code": "3654",
+            "credit": 3.0,
+            "name": "The Politics of Crime Prevention",
+            "prereqs": "",
+            "desc": "This course situates the politics of crime prevention practice and security provision by reference to their underlying philosophies (e.g. rational choice theory, broken windows, etc.) and secondly with regard to specific examples of the practical design and implementation of crime prevention initiatives and security provision. Course credit exclusion: AP/SOSC 3654 6.00; AP/CRIM 2651 3.00, AP/SOSC 2651 3.00. Previously offered as: AP/SOSC 3654 6.00, AP/CRIM 3654 6.00."
+        },
+        {
+            "dept": "crim",
+            "code": "3655",
+            "credit": 3.0,
+            "name": "Policing",
+            "prereqs": "",
+            "desc": "Examines theory and research on policing. Attention is paid to the roles of both state and non-state agencies, institutions, and professions in policing subjectivities and bodies. Students will engage with criminological debates about the role of policing in contemporary society and with current controversies in policing strategies. Course credit exclusions: AP/SOSC 2651 3.00, AP/CRIM 2651 3.00.\n"
+        },
+        {
+            "dept": "crim",
+            "code": "3656",
+            "credit": 3.0,
+            "name": "Punishment",
+            "prereqs": "",
+            "desc": "Examines theory and research on punishment. Attention is paid to the roles of both state and non-state agencies, institutions, and professions in punishing subjectivities and bodies. The course reveals, examines and unsettles the prison-punishment nexus through critical engagement with a range of interdisciplinary empirical and theoretical literatures. Course credit exclusions: AP/CRIM 3652 3.00, AP/SOCI 3652 3.00."
+        },
+        {
+            "dept": "crim",
+            "code": "3657",
+            "credit": 3.0,
+            "name": "Youth Crime",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines youth crime and the Canadian youth criminal justice system. Specifically, the course investigates: the history of the concept of delinquency; criminological approaches to youth criminality and to the legal/moral regulation of youth; the impact of the family, schools, peers and the mass media on youth crime; and youth justice policies and alternatives. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "crim",
+            "code": "3658",
+            "credit": 3.0,
+            "name": "Crime, Science, and Technology",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines how science and technology have altered the terrain of criminal justice and criminology. It focuses not only on the ways in which criminology has been constructed as a science, but also the ways in which technology has created new crimes, new forms of identity (e.g. data doubles), and new spaces that need to be policed (e.g. cyberspace). Topics include fingerprinting, DNA testing, biometrics, surveillance technologies, the regulation of mobilities, the use of robots, and cybercrime. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "crim",
+            "code": "3659",
+            "credit": 3.0,
+            "name": "Criminology and Human Rights",
+            "prereqs": "",
+            "desc": "The purpose of this course is to establish the analytical connections between the knowledge fields of criminology and human rights. Among the topics considered are human rights perspectives within criminology, human rights implications of policing, crime prevention, and state and corporate crimes, International Criminal Court, and international crimes such as genocide, war crimes and crimes against humanity. \nPrerequisites: SOSC 1650 6.00 with a grade of at least B and CRIM 2652  6.00."
+        },
+        {
+            "dept": "crim",
+            "code": "4650",
+            "credit": 6.0,
+            "name": "Criminology Honours Seminar",
+            "prereqs": "crim1650 sosc1650",
+            "desc": "This course engages in an in-depth analysis of a particular topic or theme relevant to criminology. The focus of the course will vary from year to year, depending upon student and faculty interest in specific topics. Prerequisite: AP/CRIM 1650 9.00 or AP/SOSC 1650 9.00 (or equivalent), with a grade of at least B."
+        },
+        {
+            "dept": "crim",
+            "code": "4653",
+            "credit": 6.0,
+            "name": "Transnational and Comparative Criminology",
+            "prereqs": "crim1650 crim1650",
+            "desc": "This course examines criminology in the context of globalization.  Beginning with a discussion of classic comparative criminology, the course explores how globalization has affected criminology.  The course looks at 'transnational' and 'local' forms of crime and engages with several different theories that have been developed to explain the changing field of criminology under transnational conditions.\r\nPrerequisites: AP/SOSC/CRIM 1650 6.00, AP/SOSC/CRIM 1650 9.00 (or equivalent) with a grade of at least B (6.0)"
+        },
+        {
+            "dept": "crim",
+            "code": "4655",
+            "credit": 6.0,
+            "name": "Cultures of Violence",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines microsocial and macrosocial forms of violence. The course explores how violence operates as a form of social control rather than as a psychological impulse or biological drive. Myths and misconceptions about violence are measured against criminological, cultural and sociological theories of violence. The relationship between violence and culture is emphasized. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "crim",
+            "code": "4657",
+            "credit": 6.0,
+            "name": "Crime and the Corporation",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines the tensions between the seriousness of corporate harms and the limited societal and legal responses to harmful activities. Drawing on a variety of theoretical as well as methodological perspectives, the course focuses on the appropriateness of defining corporate harms as 'crimes,' the causes of corporate misconduct, and the strengths and limitations of different policy responses including public regulation, self-regulation, and consumer campaigns. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "crim",
+            "code": "4658",
+            "credit": 6.0,
+            "name": "Law, Crime and Borders",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Explores the historically specific and multiple intersections between processes and practices of borders and bordering and crime and criminal justice. This interdisciplinary course traces the national and global dimensions of these intersections through in-depth examination of scholarship and current debates. Particular attention is paid to class, race/ethnicity, gender, sexuality, age, ability, and nationality. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "crim",
+            "code": "4659",
+            "credit": 6.0,
+            "name": "Indigenous Peoples, Crime, and Justice ",
+            "prereqs": "sosc1650 crim1650 sosc1650 crim1650",
+            "desc": "Examines the current crisis of the over-criminalization and over-incarceration of indigenous peoples in Canada and other similar jurisdictions including the United States, Australia, and New Zealand. Drawing from contemporary criminological and social theory, the course engages in a critical discussion of these issues providing an extended analysis and critique of federal policies regarding indigenous peoples. An interdisciplinary approach is taken in the course with material drawn from literatures in criminology, political science, law, sociology, geography, and history. Prerequisites: AP/SOSC 1650 6.00 or AP/CRIM 1650 6.00 or AP/SOSC 1650 9.00 or AP/CRIM 1650 9.00 (or equivalent) with a grade of at least B."
+        },
+        {
+            "dept": "crim",
+            "code": "4661",
+            "credit": 6.0,
+            "name": "Surveillance and Crime",
+            "prereqs": "sosc1650",
+            "desc": "This course examines theory, practice and research on surveillance from a criminological perspective, emphasizing the role of surveillance in crime control and law enforcement historically and contemporarily. Human rights implications are also examined in relation to class, gender, race and social control.\nPrerequisites: AP/CRIM/SOSC 1650 6.00 (or equivalent), with a minimum grade of B.\nCourse credit exclusions: AP/COMN 4740 3.00 and AP/COMN 4741 3.00"
+        },
+        {
+            "dept": "crim",
+            "code": "4663",
+            "credit": 6.0,
+            "name": "Critical Victimology",
+            "prereqs": "sosc1650",
+            "desc": "The purpose of this course is to introduce students to victimology, the diverse theoretical approaches in the field, and the politics of the victim label, from a critical perspective. The topics considered include: victim precipitation theories and victim blaming; contemporary, critical and radical perspectives in victimology; victims' rights movements; and existing programs and rights instruments for victims in Canada. \n\nPrerequisites: AP/SOSC 1650 6.00 with a grade of at least B."
+        },
+        {
+            "dept": "crim",
+            "code": "4664",
+            "credit": 6.0,
+            "name": "The Politics of Canadian Policing in Global Context ",
+            "prereqs": "sosc1650",
+            "desc": "The course explores the politics of contemporary Canadian policing in the context of the  history of modern governance.  It explores the police role in society and interrogates  policing in terms of fairness, inequality, discrimination and social justice. It further explores the relationship between policing, media, law, politics and social order, emphasizing the  local effects of the global politics of policing. \nPrerequisites: AP/SOSC 1650 6.00 with a grade of at least B \n"
+        },
+        {
+            "dept": "crim",
+            "code": "4665",
+            "credit": 6.0,
+            "name": "Global Approaches to Internet and Digital Crime",
+            "prereqs": "sosc1650",
+            "desc": "This course examines global approaches to a broad variety of internet crimes and technology-related crimes. It considers technology both as a target and tool of regulation. Among the topics considered are the transnational regulation of digital vigilantes and hacking, regulation through algorithms, hate speech, smart cities, data governance, bodily data, digital rights, technologically facilitated domestic violence, and technological colonialism.\nPrerequisites: AP/CRIM/SOSC 1650 6.00 (or equivalent), with a grade of at least B (6.00)."
+        }
+    ]
+}

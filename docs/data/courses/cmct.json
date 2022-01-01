@@ -1,0 +1,236 @@
+{
+    "courses": [
+        {
+            "dept": "cmct",
+            "code": "5501",
+            "credit": 3.0,
+            "name": "Contemporary Theory in the Visual Arts",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "cmct",
+            "code": "6002",
+            "credit": 3.0,
+            "name": "Research Methodologies",
+            "prereqs": "",
+            "desc": "Students in the core courses are required to attend a workshop on research methods in communication and cultural studies. These sessions are designed to complement the theoretical materials presented in the core seminars and will provide an overview of the range of research methods in communication and cultural studies. The course introduces students to a wide range of methods and approaches, including research design (qualitative and quantitative), survey research, content analysis, textual analysis, discourse analysis, historiography, legal and documentary research, ethnographic techniques, cultural studies approaches, and others."
+        },
+        {
+            "dept": "cmct",
+            "code": "6004",
+            "credit": 3.0,
+            "name": "Communication &amp; Culture: An Interdisciplinary Approach",
+            "prereqs": "",
+            "desc": "Introduces a critical approach to the three symbiotic areas of the program at the graduate level: media and culture; politics and policy, and technology in practice: applied perspectives. The course explores each area in modules that concentrate on four aspects: history; philosophy; theory; and principle concepts or issues, with one week dedicated to each aspect in each area."
+        },
+        {
+            "dept": "cmct",
+            "code": "6104",
+            "credit": 3.0,
+            "name": "Reading Television",
+            "prereqs": "",
+            "desc": "Fundamental to contemporary cultural studies is the recognition that the meaning, form and value of cultural products, such as situation comedies, soap operas, and advertisements, cannot be separated from the social context in which they are produced and received. The course will explore such questions as: What are the genre conventions? How do different individuals and communities use and value television products? To what extent do television products promote resistance and change and to what extent do they preserve the status quo? Students will apply several frameworks to selected products in order to analyse how the product works in relation to individuals and communities.\r\nSame as Ryerson Graduate Communication &amp; Culture 925."
+        },
+        {
+            "dept": "cmct",
+            "code": "6105",
+            "credit": 3.0,
+            "name": "Culture and Values in Popular Media",
+            "prereqs": "",
+            "desc": "This course examines the rights, freedoms and social obligations of the media, with special attention to content producers and disseminators, both private and public. The issues of freedom of expression and its limits, access to information, privacy, and accountability are highlighted. The role of audiences-as citizens, consumers and potential producers of content-is also examined.\nSame as Ryerson Graduate Communication &amp; Culture 930."
+        },
+        {
+            "dept": "cmct",
+            "code": "6106",
+            "credit": 3.0,
+            "name": "Popular Music Studies",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "cmct",
+            "code": "6110",
+            "credit": 3.0,
+            "name": "Visual Culture",
+            "prereqs": "",
+            "desc": "The course will begin by exploring the ways in which we have been taught\r how to analyse and understand images, and how to produce and reproduce\r them. The course aims, however, to move beyond analysis of specific\r texts in order to historicize and understand the larger cultural\rmeanings that have been assigned to the visual. We will attempt to come to terms with what W.J.T. Mitchell has called the &quot;&quot;pictorial turn&quot;&quot; in\rall its complexity. The course includes works by philosophers and\r cultural theorists as well as poets, painters, novelists, videographers, \nfilmmakers, and cyberneticists."
+        },
+        {
+            "dept": "cmct",
+            "code": "6113",
+            "credit": 3.0,
+            "name": "Contemporary Topics in Social Theory",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "cmct",
+            "code": "6119",
+            "credit": 3.0,
+            "name": "Sound Studies",
+            "prereqs": "",
+            "desc": "This course introduces graduate students to the interdisciplinary field of sound studies. Topics include ideas of the soundscape, broadcast sound, interior and exterior sound, musical sound, sound and difference. The course covers historical and contemporary sound studies."
+        },
+        {
+            "dept": "cmct",
+            "code": "6133",
+            "credit": 3.0,
+            "name": "History of Things: Objects, Representation, and Display",
+            "prereqs": "",
+            "desc": "This course explores critical debates and interdisciplinary research methods employed in the study of material objects. It draws on case studies and theoretical work on material culture, display, and representation to consider the influence of the 'material turn' on contemporary scholarship and on historical and curatorial practices."
+        },
+        {
+            "dept": "cmct",
+            "code": "6135",
+            "credit": 3.0,
+            "name": "Selected Topics in Media and Culture",
+            "prereqs": "",
+            "desc": "The list of topics for discussion is flexible, depending upon the interests and preparation of students from year to year and the speciality of the course director.  This course is designed to provide opportunities for post-doctoral fellows, visiting scholars and FGS appointed faculty to teach speciality courses in the field of Media and Culture."
+        },
+        {
+            "dept": "cmct",
+            "code": "6136",
+            "credit": 3.0,
+            "name": "The Making of Asian Studies: Critical Perspectives",
+            "prereqs": "",
+            "desc": "Offers a historical examination of the multiple, overlapping processes through which Asian identities and regions were constituted. It will also examine new directions in Asian studies in an era of intensified global flows, transnationalism, and the presence of Asian diaspora in Canada and elsewhere."
+        },
+        {
+            "dept": "cmct",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "The Political Economy of Culture and Communication",
+            "prereqs": "",
+            "desc": "This course reflects the theoretical perspective that communication systems and cultural practices shape and are shaped by the social distribution of power in all societies. It examines the role of the state, the market and civil society in the production and distribution of cultural products and the implications of their relationships for society."
+        },
+        {
+            "dept": "cmct",
+            "code": "6308",
+            "credit": 3.0,
+            "name": "The Politics of Intellectual Property",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "cmct",
+            "code": "6319",
+            "credit": 3.0,
+            "name": "Global Media",
+            "prereqs": "",
+            "desc": "This course examines global media from an historical and critical perspective. Broadcasts, publications, films and digital productions are \r\nviewed as transnational communication channels which have a decisive impact on contemporary life.\r\nSame as Ryerson Graduate Communication &amp; Culture xxx\r\n"
+        },
+        {
+            "dept": "cmct",
+            "code": "6335",
+            "credit": 3.0,
+            "name": "Selected Topics in Politics and Policy",
+            "prereqs": "",
+            "desc": "The list of topics for discussion is flexible, depending upon the interests and preparation of students from year to year and the speciality of the Instructor. This course is designed to provide opportunities for post-doctoral fellows, visiting scholars and FGS appointed faculty to teach speciality courses in the field of Politics and Policy."
+        },
+        {
+            "dept": "cmct",
+            "code": "6340",
+            "credit": 3.0,
+            "name": "Managing the Broadcast &amp; Digital Worlds: Strategy and Change in Television and Online Media",
+            "prereqs": "",
+            "desc": "This course identifies and examines central issues in the management of public and private television enterprises in Canada, and online programming undertakings. Students will analyse the current environment and the scenarios for the future of Canadian broadcasting; they will also investigate how broadcasters, programmers and producers are managing content and revenue on both traditional and digital platforms and in new partnerships.\n Prerequisite: Some related professional experience, plus permission of the Instructor."
+        },
+        {
+            "dept": "cmct",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Advanced Communication Technology",
+            "prereqs": "",
+            "desc": "This course is an exploration of the major current issues for communication and culture raised by contemporary and emerging communication technologies and their applications. It builds on the more basic materials covered in Communication &amp; Culture: Understanding Communication Technologies."
+        },
+        {
+            "dept": "cmct",
+            "code": "6507",
+            "credit": 3.0,
+            "name": "Future Cinema",
+            "prereqs": "",
+            "desc": "Examines the shift from traditional cinematic spectacle to works probing the frontiers of interactive, performative, and networked media. Drawing upon a broad range of scholarship, including film theory, communication studies, cultural studies and new media theory, the course will consider how digital technologies are transforming the semiotic fabric of contemporary visual culture. Our focus will be on the phenomenon Gene Youngblood described three decades ago as \u0091expanded cinema\u0092\u0097an explosion of the frame outward towards immersive, interactive and interconnected (i.e., environmental) forms of culture."
+        },
+        {
+            "dept": "cmct",
+            "code": "6508",
+            "credit": 3.0,
+            "name": "Future Cinema II: Applied Theory",
+            "prereqs": "",
+            "desc": "This hands-on course gives students an opportunity to learn about new screen technologies, approaches and techniques in a lab environment. Students will work in the lab to build prototypes that will function as a testing ground for both new technology and future cinema theory. Our method is iterative: there is an urgent need for scholars in this field to be both theorists and practical experimenters, to research while doing, understanding that the process of exploring firsthand is an important step toward knowing what kinds of knowledges and ways of understanding these new digital tools and artefacts demand, encourage or make possible."
+        },
+        {
+            "dept": "cmct",
+            "code": "6902",
+            "credit": 3.0,
+            "name": "Directed Research in Communication and Culture",
+            "prereqs": "",
+            "desc": "A directed research course is intended to permit the student to conduct research or develop a theoretical perspective in an area of study related to the student's program objectives. The research may take the form of a pilot study for a thesis or dissertation project. Course credit exclusion: Ryerson Graduate Communication &amp; Culture 991."
+        },
+        {
+            "dept": "cmct",
+            "code": "6909",
+            "credit": 3.0,
+            "name": "Field Placements",
+            "prereqs": "",
+            "desc": "Master's students will be able to receive credit for a maximum of two term courses by undertaking field placements in appropriate institutions. Same as Ryerson Graduate Communication &amp; Culture 993 and 093."
+        },
+        {
+            "dept": "cmct",
+            "code": "6909",
+            "credit": 3.0,
+            "name": "Field Placements",
+            "prereqs": "",
+            "desc": "Master's students will be able to receive credit by undertaking field placements in appropriate institutions. Same as Ryerson Graduate Communication &amp; Culture 993 and 093."
+        },
+        {
+            "dept": "cmct",
+            "code": "6911",
+            "credit": 3.0,
+            "name": "Directed Readings (Master's Level)",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "cmct",
+            "code": "7000",
+            "credit": 3.0,
+            "name": "Perspectives in Communication and Cultural Studies",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "cmct",
+            "code": "7002",
+            "credit": 3.0,
+            "name": "Directed Research in Communication and Culture (Doctoral Level )",
+            "prereqs": "",
+            "desc": "A directed research course is intended to permit the student to conduct research or develop a theoretical perspective in an area of study related to the student's program objectives. The research may take the form of a pilot study for a thesis or dissertation project."
+        },
+        {
+            "dept": "cmct",
+            "code": "7011",
+            "credit": 3.0,
+            "name": "Directed Readings (Ph.D. Level)",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "cmct",
+            "code": "7125",
+            "credit": 3.0,
+            "name": "Cinema and Media Studies:  Key Concepts",
+            "prereqs": "",
+            "desc": "Explores key concepts, texts and debates in the field of contemporary cinema and media studies. While maintaining a focus on the intellectual and material histories of cinema studies and media studies as disciplines (and their recent convergence), including epistemological and ontological frameworks, methodological approaches, and institutional and technological supports, the course will emphasize recent developments in cinema and media studies. Three broad areas of study will structure the course: cinema and cultural theory; national and transnational cinema; cinema and technologies of the image."
+        },
+        {
+            "dept": "cmct",
+            "code": "7200",
+            "credit": 3.0,
+            "name": "Advanced Research Methodologies",
+            "prereqs": "",
+            "desc": "The principal aim of this course is to cultivate in students a critical research sensibility that addresses questions of communication and culture and their intersection, with research being defined as an engaged process of enquiry and discovery that leads to the production of social knowledge."
+        }
+    ]
+}
