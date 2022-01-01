@@ -1,6 +1,6 @@
 """
 Scraper module which sends get request to youku food service servers and extracts
-the data from the response, and returns it as a dictionary.
+Data from the response, and returns it as a dictionary.
 """
 
 import datetime
