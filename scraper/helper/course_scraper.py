@@ -5,7 +5,6 @@ import os
 import time
 import threading
 
-
 class CourseScraper:
 
     def __init__(self, exportdir):
@@ -194,31 +193,7 @@ class CourseScraper:
 
         return courses_info
 
-    def start_full_scrape(self):
-        '''
-        calling all the above functions together
-        '''
-
-        # for benchmarking
-        start_time = time.time()
-
-        # get the course search home site
-        site = self.get_course_root_site()
-
-        # from it extract the (current session) url to the 'by subject' site
-        by_faculty_url = self.get_search_by_faculty_url(site)
-
-        # request it to get the content
-        by_faculty_page = requests.get(self.base_url + by_faculty_url).text
-
-        # then get the important stuff from the page
-        current_attributes = self.get_links_from_by_faculty_page(
-            by_faculty_page)
-
-        total_scraped = 0
-
-        # in a loop, scrape all courses in each subject
-        for subject in current_attributes["subjects"]:
+    def scrape_subject(self, subject):
 
             # hotfix to anti-ddos: create new session
             site = self.get_course_root_site()
@@ -246,10 +221,30 @@ class CourseScraper:
             with open(os.path.join(self.export_dir, subject_code + ".json"), 'w', encoding="utf-8") as outfile:
                 json.dump(jobj, outfile, indent=4)
             print(f"Scraped {num_courses} in dept {subject_code}")
-            total_scraped += num_courses
 
-        print(
-            f"Scraped {total_scraped} in total, time taken: {(time.time() - start_time)}")
+    def start_full_scrape(self):
+        '''
+        Starts the full scrape of all courses
+        '''
+
+        # get the course search home site
+        site = self.get_course_root_site()
+
+        # from it extract the (current session) url to the 'by subject' site
+        by_faculty_url = self.get_search_by_faculty_url(site)
+
+        # request it to get the content
+        by_faculty_page = requests.get(self.base_url + by_faculty_url).text
+
+        # then get the important stuff from the page
+        current_attributes = self.get_links_from_by_faculty_page(
+            by_faculty_page)
+
+        # in a loop, scrape all courses in each subject
+        for subject in current_attributes["subjects"]:
+            # USING THREADS TO SPEED UP THE PROCESS
+            thread = threading.Thread(target=self.scrape_subject, args=(subject,))
+            thread.start()
 
 
 def main():
@@ -257,7 +252,10 @@ def main():
     TODO: Migrate to pytest
     '''
     course_scraper = CourseScraper(exportdir="../docs/data/courses")
+    start = time.time()
     course_scraper.start_full_scrape()
+    end = time.time()
+    print(f"Scraped all courses in {end - start} seconds")
 
 
 if __name__ == '__main__':
