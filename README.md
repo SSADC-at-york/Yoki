@@ -78,4 +78,4 @@ _Example_
 ####  ⚠️ NOTE:  DO NOT RUN course_scraper.py a lot it sends a lot of multithreaded request
 Use the pre-cached jsons files that's in [docs/data/courses](https://github.com/SSADC-at-york/Yoki/tree/main/docs/data/courses)
 
-> pls offload :)
+> pls offload :), it's faster to fetch from github anyways!
