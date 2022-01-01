@@ -1,9 +1,17 @@
-name: pylint
+name: pytest
+
 on:
+  push:
+    branches: [ main ]
+    paths-ignore:
+    - '**/*.md'
+    - '**/*.txt'
+    - '**/*.yml'
   pull_request:
     branches: [ main ]
     paths-ignore:
     - '**/*.md'
+    - '**/*.txt'
     - '**/*.yml'
 jobs:
   build:
@@ -21,7 +29,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pipenv --user
-        pipenv install --dev
-    - name: Analysing the code with pylint
+        pipenv install
+    - name:  Run pytests
       run: |
-        find . -type f -name "*.py" | xargs pylint --fail-under 8
+        pytest
