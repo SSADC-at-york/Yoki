@@ -1,0 +1,60 @@
+{
+    "courses": [
+        {
+            "dept": "buec",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Principles of Business Administration",
+            "prereqs": "",
+            "desc": "This course provides an overview of the context within which modern organizations operate. It will examine the development of organizational and managerial theories. A number of contemporary issues and the organizational responses will be discussed."
+        },
+        {
+            "dept": "buec",
+            "code": "1600",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la gestion",
+            "prereqs": "",
+            "desc": "Ce cours porte sur les principes de gestion, les types de gestion, les r\u00f4les/fonctions et les comp\u00e9tences des gestionnaires, et les d\u00e9fis actuels en mati\u00e8re de gestion. La th\u00e9orie, la structure, la culture et le comportement des organisations sont \u00e9tudi\u00e9s. Les concepts th\u00e9oriques sont illustr\u00e9s par des applications pratiques \u00e0 des probl\u00e8mes et des sc\u00e9narios de gestion du monde r\u00e9el. "
+        },
+        {
+            "dept": "buec",
+            "code": "2610",
+            "credit": 3.0,
+            "name": "Introduction \u00e0 la gestion de ressources humaines",
+            "prereqs": "",
+            "desc": "Ce cours analyse le r\u00f4le de la gestion et de l\u0092administration des ressources humaines, notamment l\u0092analyse d\u0092emplois, la planification, la s\u00e9lection, la formation, l\u0092\u00e9valuation du rendement, la r\u00e9mun\u00e9ration, les relations professionnelles et la s\u00e9curit\u00e9, et la sant\u00e9 des employ\u00e9s.\r\nCours incompatible : GL/ILST 2110 3.00."
+        },
+        {
+            "dept": "buec",
+            "code": "2612",
+            "credit": 3.0,
+            "name": "Introduction au marketing",
+            "prereqs": "",
+            "desc": "Ce cours initie les \u00e9tudiants aux modes d\u0092enqu\u00eate en marketing - \u00e0 la fa\u00e7on dont les mercaticiens voient le monde. Les \u00e9tudiants apprennent \u00e0 comprendre les march\u00e9s, ressortir l\u0092information pertinente des donn\u00e9es, \u00e9laborer un plan et g\u00e9rer un programme de marketing."
+        },
+        {
+            "dept": "buec",
+            "code": "3645",
+            "credit": 3.0,
+            "name": "Applied Business Analytics",
+            "prereqs": "buec1600",
+            "desc": "This course covers the processes, methodologies and practices used to transform data into useful information to support\r\nbusiness decision-making. In this hands-on course, students develop basic knowledge of data mining, analytics and visualizations\r\nusing SAP, Tableau and IBM software.\r\nPrerequisite: GL/ILST/BUEC 1600 3.0 or with professor permission."
+        },
+        {
+            "dept": "buec",
+            "code": "3646",
+            "credit": 3.0,
+            "name": "Business Information Systems",
+            "prereqs": "buec1600",
+            "desc": "This course covers the role of information systems in organizations, their support of business operations and decision making, and their impact on organizations' competitive position. Case studies and hands-on computer simulations and exercises are utilized.\r\nPrerequisite: GL/ILST/BUEC 1600 3.0 or with professor permission."
+        },
+        {
+            "dept": "buec",
+            "code": "4500",
+            "credit": 3.0,
+            "name": "Professional work placement",
+            "prereqs": "econ2100",
+            "desc": "For the optional placement, students must spend a minimum of 100 hours working for a company: government agencies, non-profit \r\norganizations, or research institutions. The placement experience must provide organizational experience and contribute to the student's knowledge base in Business Economics or Administration.\r\nPrerequisites: GL/ECON 2100 6.00, a GPA of 5.0 or better in BUEC major and permission of the Department."
+        }
+    ]
+}

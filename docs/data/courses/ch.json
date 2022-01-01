@@ -1,0 +1,156 @@
+{
+    "courses": [
+        {
+            "dept": "ch",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Elementary Modern Standard Chinese",
+            "prereqs": "",
+            "desc": "Introductory course for English speakers who have no knowledge of Chinese. Students are expected to learn to carry on simple everyday conversations in the national language and to read and write approximately 500 Chinese characters. Pattern drills are used primarily in addition to grammatical analysis. Note: Students whose native dialect is Cantonese are directed to AP/CH 3010 6.00."
+        },
+        {
+            "dept": "ch",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Modern Standard Chinese",
+            "prereqs": "ch1000",
+            "desc": "This course continues the work of AP/CH 1000 6.00 so that students can hold discussions on contemporary China and can read and write approximately 1100 characters. Prerequisite: AP/CH 1000 6.00. Course credit exclusion: AP/CH 2030 6.00."
+        },
+        {
+            "dept": "ch",
+            "code": "2200",
+            "credit": 6.0,
+            "name": "Introduction to Chinese Literature",
+            "prereqs": "",
+            "desc": "This course surveys the many genres of Chinese literature from its origins to the present to show the evolution of the literary tradition and its interplay with history, philosophy and politics. The focus is on major works and how to discover their meaning."
+        },
+        {
+            "dept": "ch",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Advanced Modern Standard Chinese",
+            "prereqs": "ch2000",
+            "desc": "This course entails reading, writing, discussion, use of dictionaries and translation practice. The student should, with the aid of dictionaries, be able to read and translate newspaper articles from the People's Republic, modern fiction and non-specialist articles. \nPrerequisite: AP/CH 2000 6.00 with minimum GPA of 4.0"
+        },
+        {
+            "dept": "ch",
+            "code": "3600",
+            "credit": 6.0,
+            "name": "Lu Xun: Representative Works",
+            "prereqs": "ch3000 ch3010",
+            "desc": "This course deals with the creative works of Lu Xun, China's leading 20th-century writer. It focuses on textual analysis of his short stories, prose poems and selected satirical essays. Modern Standard Chinese (Mandarin) is used in class. \r\nPrerequisites: AP/CH 3000 6.00 or AP/CH 3010 6.00 plus any of the 2000-level Chinese literature courses."
+        },
+        {
+            "dept": "ch",
+            "code": "3660",
+            "credit": 6.0,
+            "name": "Modern Chinese Drama: Cao Yu and His Contemporaries (in Chinese)",
+            "prereqs": "ch2200",
+            "desc": "Through an analysis of some of the representative works by Cao Yu and by other major playwrights this course offers a picture of the main thematic and formal patterns of modern Chinese drama (Huaju) as they developed in the Republican era (1911-1949).\r\nPrerequisite: AP/CH 2200 6.00 or equivalent."
+        },
+        {
+            "dept": "ch",
+            "code": "3711",
+            "credit": 3.0,
+            "name": "Women Writers in Modern and Contemporary China",
+            "prereqs": "",
+            "desc": "This course studies fiction by major women writers from the literary revolution of the 1920s to the present; themes, forms and styles are explored in the context of modern China. Discussions are guided by feminist scholarship on modern Chinese literature. Note: Students who are proficient in Chinese may submit their written work in Chinese."
+        },
+        {
+            "dept": "ch",
+            "code": "3790",
+            "credit": 6.0,
+            "name": "Contemporary Chinese Culture Through Literary Texts and Film",
+            "prereqs": "",
+            "desc": "Explores the relationship between ideology and art. Focusing on such aspects as narrative technique and allegory and by investigating the film versions of some of the literary texts under discussion, this course offers insights into contemporary China. \r\nCourse credit exclusion: AP/CH 3791 6.00."
+        },
+        {
+            "dept": "ch",
+            "code": "3791",
+            "credit": 6.0,
+            "name": "Contemporary Chinese Culture Through Literary Texts and Film (in translation)",
+            "prereqs": "",
+            "desc": "Explores the relationship between ideology and art. Focusing on such aspects as narrative technique and allegory and by investigating the film versions of some of the literary texts under discussion, this course offers insights into contemporary China. Course credit exclusion: AP/CH 3790 6.00."
+        },
+        {
+            "dept": "ch",
+            "code": "3800",
+            "credit": 6.0,
+            "name": "Chinese Canadian Diasporic Literature",
+            "prereqs": "",
+            "desc": "This blended course combines both online teaching and face-to-face instruction to study Chinese-Canadian literature from as early as the 1890 to contemporary times written by descendants of early Chinese immigrants as well as new Chinese immigrants. It focuses mainly on fiction but including also poetry, prose essays, and drama both in English and Chinese. While examining these works' artistic qualities, it provides an This blended course combines both online teaching and face-to-face instruction to study Chinese-Canadian literature from as early as the 1890 to contemporary times written by descendants of early Chinese immigrants as well as new Chinese immigrants. It focuses mainly on fiction but including also poetry, prose essays, and drama both in English and Chinese. While examining these works' artistic qualities, it provides an overview of Chinese Canadian history and explores diasporic topics of social and cultural identity, the interaction between traditional roots and the new environment, and between cultural assimilation and resistance, and between Chinese immigrants and other ethnic communities, as reflected in these works."
+        },
+        {
+            "dept": "ch",
+            "code": "3810",
+            "credit": 3.0,
+            "name": "Chinese-American Diasporic Literature",
+            "prereqs": "",
+            "desc": "The course studies Chinese-American literature from its origins in the mid-nineteenth century to recent times, focusing on fiction and biography. It examines its literary developments, as well as its representative writers and works. Both literary characteristics and socio-historical values of some representative works will be explored in the course."
+        },
+        {
+            "dept": "ch",
+            "code": "3820",
+            "credit": 6.0,
+            "name": "Modern and Contemporary Chinese Literature",
+            "prereqs": "ch2200",
+            "desc": "An introduction to modern Chinese literature from 1900 to the present, concentrating on fiction but including also poetry, prose essays and drama, both in Chinese and English translation. The course explores the development and variety of the literature over the period. Emphasis will be given to how the change has affected both the content and shape of literary writing. Prerequisite: AP/CH 2200 6.00 or equivalent."
+        },
+        {
+            "dept": "ch",
+            "code": "3850",
+            "credit": 3.0,
+            "name": "Christianity, Christian Culture and Modern Chinese Culture and Literature",
+            "prereqs": "",
+            "desc": "This course examines the impact of Christianity and Christian culture on modern Chinese culture and society since the early twentieth century. Through the analysis of selected works written by novelists, scholars, theologians and church leaders, students will gain insights into the complex relationship between Christian culture and Chinese society and the role of Christianity in the development of Chinese modernity.\r\nPrerequisites: permission of instructor "
+        },
+        {
+            "dept": "ch",
+            "code": "3860",
+            "credit": 6.0,
+            "name": "Eileen Chang: Major Author Studies in Modern Chinese Literature",
+            "prereqs": "ch2200",
+            "desc": "This course examines the major works of Eileen Chang, one of the greatest modern Chinese writers of the twentieth century. Using different literary theories, students analyze her short stories, essays and novels, as well as their recreations into various media in the socio-historical and geopolitical context of the modern and contemporary Chinese society. All texts are available in English. No Chinese required.\r\nPrerequisites: AP/CH 2200 6.00 or by permission of the instructor\t"
+        },
+        {
+            "dept": "ch",
+            "code": "4050",
+            "credit": 6.0,
+            "name": "Advanced Chinese for Business",
+            "prereqs": "ch3000 ch3010",
+            "desc": "The course deals with the specialized language of business-related subjects, including business etiquette. Materials include a text of formal conversations on typical business transactions, newspaper and journal articles, as well as TV news broadcasts on foreign trade and economic development. \r\nPrerequisites: AP/CH 3000 6.00, AP/CH 3010 6.00, or equivalent, or permission of the Department."
+        },
+        {
+            "dept": "ch",
+            "code": "4300",
+            "credit": 6.0,
+            "name": "Classical Chinese Fiction",
+            "prereqs": "ch3000 ch3010",
+            "desc": "Examines major developments in traditional Chinese fiction. Selected works written in classical and vernacular language that represent a variety of narrative forms. The literary approach focuses on plot construction, characterization, narrative stance, techniques of conveying meaning, and historical and cultural connotations. Prerequisites: AP/CH 3000 6.00, AP/CH 3010 6.00, or any 3000-level Chinese literature course or permission of the department."
+        },
+        {
+            "dept": "ch",
+            "code": "4800",
+            "credit": 6.0,
+            "name": "Humor and Satire in Modern and Contemporary Chinese Literature",
+            "prereqs": "",
+            "desc": "Introduces the world's oldest tradition of humor and satire, and focuses on their characteristics in both written and oral works in modern and contemporary Chinese. Students learn the theory and the relationship between humor and satire, as well as their particular artistic devices. Through reading, acting and analysis of the selected works they experience how the Chinese language is creatively, colourfully and skillfully used and understand why such works are highly appreciated by the Chinese people in their daily lives. Throughout the course, the students are encouraged to bring examples of humor/satire encountered in their own daily lives or reading, and to experiment with composing their own creative humorous and satirical works in Chinese. Prerequisite: Any 3000-level in AP/CH, or with permission of the department."
+        },
+        {
+            "dept": "ch",
+            "code": "4810",
+            "credit": 6.0,
+            "name": "Introduction to English-Chinese Translation",
+            "prereqs": "",
+            "desc": "This course is designed for students with advanced proficiency in English and Chinese. It introduces theories and skills in English-Chinese translation and applies them to different types of texts in various fields. Students may work on final projects in their own field. While including translation from Chinese to English in discussion, the course focuses on translation from English to Chinese.\r\nPrerequisites: Bilingualism. Students must be fluent in both English and Chinese. Placement test required prior to enrolment.\r\nLanguage of Instruction: Chinese and English"
+        },
+        {
+            "dept": "ch",
+            "code": "4880",
+            "credit": 6.0,
+            "name": "Cultural Translation and Chinese Modernities",
+            "prereqs": "",
+            "desc": "Analyzes what meanings of modern and contemporary Chinese literature from the 1900s to the present have both been produced and lost through cultural and media translation. Applies postmodern theories to examine fiction with their recreations into different cultures and into various media of stage productions, TV dramas and films. Investigates the cultures, history, and social conditions in Chinese modernities, both on the mainland and in the diasporas. Prerequisites: Any 3000-level IN AP/CH, or with permission of the department."
+        }
+    ]
+}

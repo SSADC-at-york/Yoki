@@ -1,0 +1,108 @@
+{
+    "courses": [
+        {
+            "dept": "cltr",
+            "code": "1953",
+            "credit": 6.0,
+            "name": "Canadian Writers in Person",
+            "prereqs": "",
+            "desc": "Explores the works of 12 contemporary Canadian writers who give readings to the class and respond to questions about their work."
+        },
+        {
+            "dept": "cltr",
+            "code": "2210",
+            "credit": 6.0,
+            "name": "Media, Culture and Technology",
+            "prereqs": "",
+            "desc": "Combining historical and theoretical content, the course surveys the invention and evolution of media technologies from the invention of writing to the Internet. How technologies alter the social and cultural dynamics of a given period and the relationship between meaning and form will be among the key concerns."
+        },
+        {
+            "dept": "cltr",
+            "code": "2245",
+            "credit": 6.0,
+            "name": "Film and Literature",
+            "prereqs": "",
+            "desc": "Film images in their flux often demand that we uncritically accept them. This course will investigate their meanings and truth and seek to develop a critical discourse for film by means of strategies drawn from the study of literary texts. Previously offered as: AP/HUMA 2670 9.00."
+        },
+        {
+            "dept": "cltr",
+            "code": "2610",
+            "credit": 6.0,
+            "name": "Music in Human Experience",
+            "prereqs": "",
+            "desc": "Introduction to emotional, intellectual, spiritual, and symbolic uses of music through case studies of individual cultures, including consideration of social, political, and historical settings."
+        },
+        {
+            "dept": "cltr",
+            "code": "2860",
+            "credit": 3.0,
+            "name": "In Other Worlds: The Arts and Artists in Digital Environments",
+            "prereqs": "",
+            "desc": "This interdisciplinary course critically examines digital environments including 3D, virtual and augmented realities as new forms of social literacy and new forums for the fine, performing and new media arts.  Cross-Listing: AP/HUMA 2205 \r\nCourse credit exclusion: FA/FACS 2920F 3.00 (prior to Fall 2011).   "
+        },
+        {
+            "dept": "cltr",
+            "code": "3140",
+            "credit": 6.0,
+            "name": "Digital Culture in the Humanities",
+            "prereqs": "",
+            "desc": "Explores the influence of digital technologies on particular aspects of the arts, popular culture, the internet as well as in venues where culture is archived such as universities and museums in North America and internationally. Critical analysis of these cultural practices is enriched with the development of a simple multimedia project. No technical knowledge expected or required. Open to all students."
+        },
+        {
+            "dept": "cltr",
+            "code": "3165",
+            "credit": 3.0,
+            "name": "Griots to Emcees: Examining Culture, Performance and Spoken Word",
+            "prereqs": "",
+            "desc": "Explores the form, function and content of Spoken Word, in terms of language, rhythm, historical developments, social- political contexts, as well as key artists of poetry, rap, dub, slam, lyricism and spoken word as live and direct purveyors of culture. By examining performance as text and artist/creator narratives, commentaries and cultural discourse, students survey the continuum through African storytelling traditions to contemporary global evolutions of lyricism and spoken word. Students explore the varied modes of oral/aural dissemination - including the stage, the page, audio recording, theatre, film and digital media - and analyze orality and voice as tools of cultural affirmation and resistance. The course includes a writing/performance intensive component."
+        },
+        {
+            "dept": "cltr",
+            "code": "3318",
+            "credit": 3.0,
+            "name": "Black Popular Culture",
+            "prereqs": "",
+            "desc": "&quot;Analyzes popular Black popular culture in Diaspora, including music, film, television, style, contemporary visual arts, and including such issues as production, reception and commodification, through the lens of Black cultural theory.\n"
+        },
+        {
+            "dept": "cltr",
+            "code": "3523",
+            "credit": 3.0,
+            "name": "Feminisms and Film",
+            "prereqs": "",
+            "desc": "Feminist filmmakers deploy film as a provocative cultural form to explore women's complex social and cultural locations and issues. This course explores theoretical and practical points of contact between feminism and film to encourage new readings of the intricate subject women. Course credit exclusions: AP/CLTR 3523 6.00, AP/HUMA 3523 6.00.\nPreviously offered as: AP/WMST 3523 6.00, GL/WMST 3523 6.00.\n\n"
+        },
+        {
+            "dept": "cltr",
+            "code": "4000",
+            "credit": 6.0,
+            "name": "Independent Studies in Culture &amp; Expression",
+            "prereqs": "",
+            "desc": "Open to advanced students only, this course offers the highly motivated student an opportunity to pursue intensive study pertaining to a theme emanating from culture and its expression on his or her own under the guidance of an Instructor. Prerequisites: 78 credits; prior acceptance by a faculty supervisor; completion of the Independent Studies contract; and approval by the Chair.\n"
+        },
+        {
+            "dept": "cltr",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Independent Studies in Culture &amp; Expression",
+            "prereqs": "",
+            "desc": "Open to advanced students only, this course offers the highly motivated student an opportunity to pursue intensive study pertaining to a theme emanating from culture and its expression on his or her own under the guidance of an Instructor. Prerequisites: 78 credits; prior acceptance by a faculty supervisor; completion of the Independent Studies contract; and approval by the Chair."
+        },
+        {
+            "dept": "cltr",
+            "code": "4850",
+            "credit": 6.0,
+            "name": "Propaganda and Culture",
+            "prereqs": "",
+            "desc": "Investigates the employment of the created environment and other expressions of culture for propagandistic purposes, meant to advance privileged ideologies in politics, religion, and social interchange. Discusses examples chosen from different eras and communities, including modern and contemporary applications. Prerequisites: 78 credits and permission of the coordinator of Culture and Expression. Course credit exclusion: AP/CLTR 4850 3.00."
+        },
+        {
+            "dept": "cltr",
+            "code": "4851",
+            "credit": 3.0,
+            "name": "Literary, Musical, and Visual Cultures: Modernism Across the Arts",
+            "prereqs": "",
+            "desc": "Examines literary, musical, and visual arts of the modernist period to explore why there is an inter and multidisciplinary impetus during the period and how such crossovers between and among different cultural forms contributes to the generation of new modes of artistic material.\r\nCourse credit exclusion: AP/CLTR 4851 6.00."
+        }
+    ]
+}

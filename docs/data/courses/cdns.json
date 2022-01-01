@@ -1,0 +1,196 @@
+{
+    "courses": [
+        {
+            "dept": "cdns",
+            "code": "1900",
+            "credit": 3.0,
+            "name": "Reconciling Literature: Understanding Texts &amp; Contexts",
+            "prereqs": "",
+            "desc": "This course responds to the Truth and Reconciliation Commission's Calls to Action by examining literature representing Canadian Indigenous peoples. While building student capacity for intercultural understanding, this course introduces literary elements and techniques, and the methods of textual analysis.\r\nCourse credit exclusions: GL/EN 1520 6.00, GL/EN/HUMA 1602 6.00."
+        },
+        {
+            "dept": "cdns",
+            "code": "1920",
+            "credit": 6.0,
+            "name": "Understanding Contemporary Canada",
+            "prereqs": "",
+            "desc": "This course examines the geographical, political, social, historical and cultural contexts for key current issues facing Canadians today. Course credit exclusion: AP/CDNS 2200 6.00."
+        },
+        {
+            "dept": "cdns",
+            "code": "2600",
+            "credit": 6.0,
+            "name": "Introduction to Canadian Politics",
+            "prereqs": "",
+            "desc": "This course examines some of the key institutions and processes of political life in Canada. It deals with the origins and development of Canadian political traditions, political parties, the evolution and contemporary nature of the federal system, the role of interest groups, the electoral system and voting behaviour, the Prime Minister and the Cabinet, the legislative system and the public policy process. Course credit exclusions: GL/POLS 2540 6.00."
+        },
+        {
+            "dept": "cdns",
+            "code": "2602",
+            "credit": 3.0,
+            "name": "La citoyennet\u00e9 et l'immigration au Canada",
+            "prereqs": "",
+            "desc": "Ce cours examine les diff\u00e9rents concepts de la citoyennet\u00e9 au Canada \u00e0 l'aide des perspectives savantes et communautaires. Il l\u0092analyse en relation \u00e0 l\u0092histoire, la th\u00e9orie et la pratique de l\u0092immigration afin d\u0092en d\u00e9finir ses moments-cl\u00e9s, \u00e9volutions et contestations."
+        },
+        {
+            "dept": "cdns",
+            "code": "2602",
+            "credit": 3.0,
+            "name": "Citizenship and Immigration in Canada",
+            "prereqs": "",
+            "desc": "This course examines the various notions of citizenship in Canada from both scholarly and community-based perspectives. It places citizenship in relation to the history, theory and practice of immigration to Canada to highlight its defining moments, evolutions and contestations."
+        },
+        {
+            "dept": "cdns",
+            "code": "2617",
+            "credit": 3.0,
+            "name": "La g\u00e9ographie sociale du Canada ",
+            "prereqs": "",
+            "desc": "Ce cours examine les dynamiques spatiales et processus g\u00e9ographiques formant la soci\u00e9t\u00e9 canadienne d\u0092aujourd\u0092hui. Il explore \u00e9galement \r\nles caract\u00e9ristiques propres aux r\u00e9gions canadiennes. "
+        },
+        {
+            "dept": "cdns",
+            "code": "2630",
+            "credit": 3.0,
+            "name": "Aboriginal Peoples of Canada",
+            "prereqs": "",
+            "desc": "This course covers perspectives on Inuit and Indian communities of Canada; cultural and linguistic diversity; traditional economic and social organization; religion and art; the impact of Western society; contemporary strategies for survival. "
+        },
+        {
+            "dept": "cdns",
+            "code": "2636",
+            "credit": 3.0,
+            "name": "Anishinaabemowin (Ojibway) Language and Culture I",
+            "prereqs": "",
+            "desc": "This course introduces the language and culture of the Anishinaabe (Ojibway) peoples of Ontario from multidisciplinary intercivilizational perspectives. A central component of the course is focused on learning the Anishinaamebowin language within a framework which draws upon indigenous world-views. "
+        },
+        {
+            "dept": "cdns",
+            "code": "2638",
+            "credit": 3.0,
+            "name": "Anishinaabemowin (Ojibway) Language and Culture II",
+            "prereqs": "lin2636",
+            "desc": "This course builds on GL/LIN 2636 3.00, continuing the learning of Anishinaabemowin (Ojibwe language). It extends the depth and breadth of understanding of Indigenous world-views from multidisciplinary perspectives and in the context of understanding  the challenges of Reconciliation. Prerequisite: GL/LIN 2636 3.00."
+        },
+        {
+            "dept": "cdns",
+            "code": "3450",
+            "credit": 3.0,
+            "name": "Oral History Workshop",
+            "prereqs": "",
+            "desc": "This course examines the methodology, theory, and ethics of gathering, preserving, and interpreting the voices and memories of people and communities from the past. Students develop the skills to research, design, carry out, and write about an oral history project. "
+        },
+        {
+            "dept": "cdns",
+            "code": "3621",
+            "credit": 3.0,
+            "name": "Canada in Global Perspective/Le Canada, perspective globale",
+            "prereqs": "",
+            "desc": "This course will examine the impact of globalization on Canada and Canadians. It will focus on international economic forces and the influence they exert on the Canadian economy, on domestic politics and on social relations within Canada./Le cours examine l'impact de la mondialisation sur le Canada et sur les canadiens. Il explore principalement les forces \u00e9conomiques qui sont en jeu et l'influence qu'elles exercent sur l'\u00e9conomie canadienne, sur la politique nationale et sur les relations sociales \u00e0 l'int\u00e9rieur du pays."
+        },
+        {
+            "dept": "cdns",
+            "code": "3663",
+            "credit": 3.0,
+            "name": "Human Rights and Civil Liberties in Canada",
+            "prereqs": "",
+            "desc": "This course examines the development of human rights legislation and the present state of civil liberties in Canada. Among other themes that will be analyzed are holocaust denial; hate literature; gay and lesbian rights; police powers; personal privacy; measures against terrorism; discrimination and affirmative actions. Prerequisite: Six credits in POLS or PHIL or SOCI."
+        },
+        {
+            "dept": "cdns",
+            "code": "3670",
+            "credit": 6.0,
+            "name": "Le multiculturalisme et l'ethnicit\u00e9 au Canada  ",
+            "prereqs": "",
+            "desc": "L'objectif du cours est de comprendre la notion de l'ethnicit\u00e9 et du multiculturalisme et leurs implications pour le Canada. Apr\u00e8s un examen historique des fondements de l'ethnicit\u00e9, le cours \u00e9tudiera les politiques gouvernementales vis-\u00e0-vis l'immigration et le racisme. Enfin, nous examinerons par quels moyens les communaut\u00e9s ethno-culturelles s'organisent aujourd'hui et les implications pour l'avenir du Canada. Cours incompatibles : GL/ILST/HIST 3015 3.00 (Hiver 2003)."
+        },
+        {
+            "dept": "cdns",
+            "code": "3674",
+            "credit": 3.0,
+            "name": "Cultures qu\u00e9b\u00e9coise et francophone canadienne",
+            "prereqs": "",
+            "desc": "Ce cours examine l'\u00e9volution des cultures qu\u00e9b\u00e9coise et francophone canadienne par l'entremise d'une approche pluridisciplinaire. Le roman, le cin\u00e9ma, la culture populaire, et la chanson y seront, entre autres, abord\u00e9s pour analyser les enjeux culturels et identitaires au Qu\u00e9bec et dans la francophonie canadienne, pass\u00e9 et pr\u00e9sent."
+        },
+        {
+            "dept": "cdns",
+            "code": "3680",
+            "credit": 3.0,
+            "name": "La logique de l'enqu\u00eate : m\u00e9thodes qualitatives ",
+            "prereqs": "",
+            "desc": "Une \u00e9tude des relations entre la th\u00e9orie et la pratique de la recherche. Les questions d'objectivit\u00e9 et l'intrusion des valeurs. Le cours se pr\u00e9occupera de la recherche qualitative. Condition pr\u00e9alable : Un cours en \u00c9tudes canadiennes, science politique ou sociologie."
+        },
+        {
+            "dept": "cdns",
+            "code": "3680",
+            "credit": 3.0,
+            "name": "Logic of Social Inquiry: Qualitative Methods ",
+            "prereqs": "",
+            "desc": "An examination of how theories influence the logic of inquiry and research designs. Assumptions concerning objectivity and values are discussed and problems of operationalization are analyzed. Prerequisite: A course in Canadian studies or political science or sociology."
+        },
+        {
+            "dept": "cdns",
+            "code": "3690",
+            "credit": 3.0,
+            "name": "La logique de l'enqu\u00eate : m\u00e9thodes quantitatives",
+            "prereqs": "",
+            "desc": "Le cours examinera d'abord la construction de questionnaire et de c\u00e9dules d'interview pour illustrer les probl\u00e8mes qu'implique la collecte des donn\u00e9es sociales. Ensuite il consid\u00e9rera l'interpr\u00e9tation des statistiques sociales."
+        },
+        {
+            "dept": "cdns",
+            "code": "3690",
+            "credit": 3.0,
+            "name": "The Logic of Social Inquiry: Quantitative Methods (Data Collection and Analysis)",
+            "prereqs": "",
+            "desc": "The course concentrates first on questionnaire design and interview procedures and extrapolates from these techniques the general problems of data collection. Secondly, it examines the logic of research procedures used in assessing and interpreting data. Prerequisite: A course in Canadian studies or political science or sociology."
+        },
+        {
+            "dept": "cdns",
+            "code": "3941",
+            "credit": 6.0,
+            "name": "From Dominion to Domain Name: Twentieth-Century Canadian Literatures",
+            "prereqs": "",
+            "desc": "This course surveys literary production in Canada from the First World War to the late twentieth century. Particular attention is paid to the problems of canon-formation, transnational political issues, and the importance of Indigenous and multicultural works within the literary tradition in English Canada. Translated Francophone works are also examined to provide a comparative study of the literary tradition of Quebec. By covering a variety of texts from across the country, this course aims to provide students with a firm grounding in the historical development of literary cultures in Canada.\r\nCourse credit exclusions: AP/EN 2220 6.00, AP/EN 3230 6.00."
+        },
+        {
+            "dept": "cdns",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "Society, Human Rights, and the Archives",
+            "prereqs": "",
+            "desc": "Through field trips and in-class activities, this course analyses the role of archives in facilitating or impeding human rights activism, movements for redress, and documenting the experience of historically marginalized groups. It considers questions of access, preservation, and memory. "
+        },
+        {
+            "dept": "cdns",
+            "code": "4601",
+            "credit": 3.0,
+            "name": "Indigenous Activism, Resistance and Resurgence",
+            "prereqs": "",
+            "desc": "This course discusses the ways in which Indigenous peoples of Turtle Island have and are actively responding and resisting to assimilation policies, colonialism and state power, with a special focus on the lands claimed by the Canadian state. The course seeks to discuss how Indigenous peoples have sought to protect and assert their distinct political status, rights and cosmologies."
+        },
+        {
+            "dept": "cdns",
+            "code": "4621",
+            "credit": 6.0,
+            "name": "Decolonising Canada - D\u00e9coloniser le Canada",
+            "prereqs": "",
+            "desc": "This seminar course examines the history, current state, and possible futures of Indigenous-non-Indigenous relations in Canada.\r\nCe s\u00e9minaire examine l'histoire, l\u0092\u00e9tat actuel, et les avenirs potentiels des relations entre les autochtones et les non-autochtones au Canada.\r\nPrerequisite: Six credits in any discipline on the study of Canada or permission of the Department.\r\nCourse credit exclusion: GL/CDNS/SOSC 4622 6.00."
+        },
+        {
+            "dept": "cdns",
+            "code": "4641",
+            "credit": 3.0,
+            "name": "Beyond &quot;Two Solitudes&quot;: The Contact Zones of Canadian Literature",
+            "prereqs": "",
+            "desc": "This course challenges the dichotomous model of Canada's anglophones and francophones as &quot;two solitudes&quot; by studying works of fiction, non-fiction and poetry (in English or English translation) that explore the contact zones between English, French and Indigenous Canadian writers."
+        },
+        {
+            "dept": "cdns",
+            "code": "4643",
+            "credit": 3.0,
+            "name": "Writing Toronto",
+            "prereqs": "",
+            "desc": "This course examines the literary representation of Toronto in Canadian prose and poetry, exploring themes of economic, racial, ethnic, and linguistic differences, as well as notions of landscape and identity; it investigates how these representations relate to literary regionalism and nationalist myths of identity. "
+        }
+    ]
+}

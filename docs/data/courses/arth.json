@@ -1,0 +1,292 @@
+{
+    "courses": [
+        {
+            "dept": "arth",
+            "code": "1000",
+            "credit": 3.0,
+            "name": "Critical Issues in Contemporary Art",
+            "prereqs": "",
+            "desc": "Introduces students to visual, conceptual and theoretical language operative in contemporary art and visual culture. Frameworks for understanding contemporary art are examined through theories of representation, spectatorship, production, media, ideology and aesthetics. Open to non-majors. Course credit exclusions: FA/VISA 1000 3.0 and FA/VISA 1040 3.0."
+        },
+        {
+            "dept": "arth",
+            "code": "1130",
+            "credit": 6.0,
+            "name": "Introduction to Art History",
+            "prereqs": "",
+            "desc": "Provides a set of introductory skills and knowledge for all subsequent studies in Art History. The course grounds students in three crucial knowledge bases: core research and writing skills; an introduction to the institutions of the art world (such as journals, museums and galleries) and an entry-level survey of the key areas of York's Art History curriculum. This may include art from Western, Asian, North American and other world traditions as well as international modern and contemporary art. Museum and gallery visits will also be used to provide students with opportunities to examine original artworks and to familiarize themselves with these institutions and the critical issues that surround them."
+        },
+        {
+            "dept": "arth",
+            "code": "1900",
+            "credit": 3.0,
+            "name": "Art in the City",
+            "prereqs": "",
+            "desc": "Introduces non-majors to art issues, practices, and research through an examination of the multifaceted art scene in Toronto. Explores the relationship between the cultural history of the city and the present art scene. Not open to Visual Arts Majors."
+        },
+        {
+            "dept": "arth",
+            "code": "2340",
+            "credit": 3.0,
+            "name": "The Art of Asia",
+            "prereqs": "",
+            "desc": "Provides an interdisciplinary introduction to the art and architecture of East Asia explores a wide range of representations from artifacts and artworks to popular media and the built-environment. Discussions focus on issues of identity formation, political ethics, religious authorities, the nation-state, modernity, colonialism, and race/gender relations. Open to non-majors. Previously offered as:: FA/VISA 2340 6.00."
+        },
+        {
+            "dept": "arth",
+            "code": "2350",
+            "credit": 3.0,
+            "name": "Islamic Art and Architecture",
+            "prereqs": "",
+            "desc": "Offers an interdisciplinary introduction to the main stylistic and iconographic themes in Islamic art and architecture highlighting the diversity of its genres and expressions from the advent of Islam in the 7th century to the rise of Colonialism. Open to non-majors."
+        },
+        {
+            "dept": "arth",
+            "code": "2390",
+            "credit": 3.0,
+            "name": "African Art",
+            "prereqs": "",
+            "desc": "Examines the arts of sub-Saharan Africa from a variety of media (sculpture, painting, architecture, performance, photography and personal decoration) and social contexts (initiation, religious ceremony, political and royal institutions, domestic arenas, cross-cultural exchanges, colonialism, post-colonialism and the international art world). Artistic production is presented primarily by culture group to facilitate comparative analysis around common themes."
+        },
+        {
+            "dept": "arth",
+            "code": "2930",
+            "credit": 3.0,
+            "name": "History of Photography",
+            "prereqs": "",
+            "desc": "Offers a survey of photography from early experiments in the medium to contemporary work. Course Credit Exclusion: FA/VISA 2930 6.00."
+        },
+        {
+            "dept": "arth",
+            "code": "3400",
+            "credit": 3.0,
+            "name": "Cabinets of Curiosities",
+            "prereqs": "",
+            "desc": "Considers the Cabinet of Curiosities, a Renaissance invention designed to classify and preserve collections of &quot;precious&quot; objects, and its more recent manifestations (including museums, artists' installations, and Web sites) to explore a wide range of issues associated with Cultural Studies. Prerequisite: Third-year standing or permission of the Instructor. Course credit exclusion: FA/FACS 3400 3.00."
+        },
+        {
+            "dept": "arth",
+            "code": "3450",
+            "credit": 3.0,
+            "name": "Leonardo da Vinci: Art and Science",
+            "prereqs": "",
+            "desc": "Explores the ideas and production of Leonardo da Vinci-a painter, sculptor, architect and urban planner, musician and composer, costume and stage designer, anatomist, engineer, mathematician, botanist, and natural scientist-as a case study in multidisciplinary across the arts and sciences. Prerequisite: Third-year standing or permission of the Instructor. Course credit exclusion: FA/FACS 3450 3.00."
+        },
+        {
+            "dept": "arth",
+            "code": "3562",
+            "credit": 3.0,
+            "name": "Women in Renaissance and Baroque Art",
+            "prereqs": "visa2560",
+            "desc": "Provides an in-depth study of the various roles women played in Renaissance and Baroque Art, as artist, patron and subject. Prerequisite: FA/VISA 2560 6.00. Course credit exclusion: FA/VISA 3560B 3.00."
+        },
+        {
+            "dept": "arth",
+            "code": "3610",
+            "credit": 3.0,
+            "name": "Art Institutions / Art Networks: Introduction to Museums, Galleries and Visual Art Organizations",
+            "prereqs": "",
+            "desc": "Considers the participation of art institutions and organizations - including the modern museum and art gallery - in cultural networks engaged in arts education, promotion, and support, now subject to post-modern and post-colonial critiques. Open to non-majors."
+        },
+        {
+            "dept": "arth",
+            "code": "3611",
+            "credit": 3.0,
+            "name": "Curatorial Studies: Practices of Display",
+            "prereqs": "",
+            "desc": "Examines the medium of exhibition, particularly how the placement of artifacts creates specific aesthetic, semiotic and ideological contexts. Topics explore the display practices of curators, artists, interpreters, designers, collectors, and dealers. Consideration is given to how the arrangement of exhibitions determines the conceptual and ontological experience of art. Analysis includes a wide range of display forms including museums, galleries, artist-run centres, virtual exhibitions, as well as site specific installations by artists and curators. Readings drawn from the burgeoning interdisciplinary literature centred on exhibitions. Participants are invited to undertake research on particular exhibition sites and present their findings to the class. The objectives of this course is to give a comprehensive overview of how exhibitions are formulated and presented, to develop a critical understanding of the specificities of exhibition discourse, and to introduce a range of methodologies used in developing exhibitions. "
+        },
+        {
+            "dept": "arth",
+            "code": "3630",
+            "credit": 3.0,
+            "name": "Art Crimes",
+            "prereqs": "",
+            "desc": "Examines a range of modern era art crimes to understand how and why art is invested with material and cultural significance. Topics include museum thefts, vandalism, looting, smuggling, fraud and forgeries. Analyzes the negotiations through which some activities in the art world are criminalized while others are deemed unethical but legal and how and why these distinctions change with historical circumstance. Considers the representation of art crimes in popular culture. Studies specific case studies (such as Nazi looting or smuggling through the Getty Museum) from a contextual perspective to consider both the motives that brought them about and the ramifications they leave behind. Examines the methodologies used to research and sometimes solve these crimes. Open to non-majors."
+        },
+        {
+            "dept": "arth",
+            "code": "3680M",
+            "credit": 3.0,
+            "name": "Representations of the Gendered Self",
+            "prereqs": "",
+            "desc": "Addresses the complex visual representations of the gendered self in Western society since the 18th century. The relationship between visual culture, text, art and social discourse is explored. The course examines social categories such as mother, father, man, citizen and how these are imaged and imagined."
+        },
+        {
+            "dept": "arth",
+            "code": "3740",
+            "credit": 3.0,
+            "name": "20th Century Art and Visual Culture in Canada",
+            "prereqs": "visa1110 visa2740",
+            "desc": "Investigates 20th century Canadian arts in the social and political contexts of race and ethnicity, gender, national identity. The course considers the social position of the artist, genres (fine art/craft/folk art), art markets and patrons and the development of arts institutions. Prerequisite: FA/VISA 1110 6.00 or FA/VISA 2740 3.00."
+        },
+        {
+            "dept": "arth",
+            "code": "3999",
+            "credit": 3.0,
+            "name": "New Media Art: From Duchamp to the Postdigital",
+            "prereqs": "",
+            "desc": "This course examines the history of new media art with the goal of providing students with a wide ranging, yet in-depth survey of key figures, artworks, and texts from the last seventy years. The course begins by theoretically interrogating the notions of medium, media, and new media, looking to key figures such as Walter Benjamin, Marshall McLuhan, and Clement Greenberg, before taking a thematic rather than strictly chronological tour through new media art history. Classes consist of a blend of slide lectures, video screenings, student presentations, and group discussion. Classes are organized thematically with weekly topics that will include combinations of the following topics: print, performance, photography, television, cinema, video, animation, systems, networks, surveillance, the body, games and play, social media, virtual worlds, simulation, ecologies, digital decay, and the postdigital. To support this topical breadth this course draws readings from a variety of disciplines that include art history, cinema and media studies, game studies, anthropology, and environmental criticism. By the end of this course students will have gained a broad understanding of the many fluid theoretical relationships between contemporary art and technology, as well as a more specific historical knowledge of key figures and objects with the new media art canon. Open to non-majors."
+        },
+        {
+            "dept": "arth",
+            "code": "4100",
+            "credit": 6.0,
+            "name": "Independent Studies: Art History",
+            "prereqs": "",
+            "desc": "Offers a study program for highly motivated students in an art history discipline. This course gives an individual the opportunity to pursue a specific and intensive personal study which must be arranged in consultation with the Instructor. Prerequisite: Limited to students who have completed a 4000-level course in art history; must have permission of the directing faculty member. Applications may be obtained from, and must be submitted to, the Department of Visual Art &amp; Art History in the spring for the following academic session."
+        },
+        {
+            "dept": "arth",
+            "code": "4100",
+            "credit": 3.0,
+            "name": "Independent Studies: Art History",
+            "prereqs": "",
+            "desc": "Offers a study program for highly motivated students in an art history discipline. This course gives an individual the opportunity to pursue a specific and intensive personal study which must be arranged in consultation with the Instructor. Prerequisite: Limited to students who have completed a 4000-level course in art history; must have permission of the directing faculty member. Applications may be obtained from, and must be submitted to, the Department of Visual Arts in the spring for the following academic session."
+        },
+        {
+            "dept": "arth",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Art Criticism: Principles and Practice",
+            "prereqs": "",
+            "desc": "Examines the principles of art criticism and critical writing through exploration of questions asked and answered by critics, and assumptions they make, whether implicit or explicit. Critics' works inform students' own writings. Gallery visits in Toronto are an integral part of the course. Previously offered as: FA/VISA 4310 6.00."
+        },
+        {
+            "dept": "arth",
+            "code": "4320",
+            "credit": 3.0,
+            "name": "Art History: Then and Now",
+            "prereqs": "",
+            "desc": "This methods seminar offers students a framework for thinking about the discipline of Art History, and for advancing it in the course of their careers as art historians, critics, curators, artists or arts administrators. Students will be given a range of methodological options for analyzing both historical and contemporary artworks, and an overview of the intellectual history of the field. The main objective of the course is to foster critical reflection on the methods art historians have used in the past with an eye to preparing the discipline for its future. Materials for the course may fall under three topic-headings: 1) The Modern Western discipline of Art History, 2) Interdisciplinary approaches in Art History, and 3) New and Non-Western approaches in Art History. Open to non-majors."
+        },
+        {
+            "dept": "arth",
+            "code": "4581",
+            "credit": 3.0,
+            "name": "Artisans and Artists: Early Modern Italy",
+            "prereqs": "",
+            "desc": "Considers the changing role and status of the artist in Early Modern Italy, often characterized as marking the transformation of the professional artisan dedicated to the craft of production into a &quot;divine&quot; intellect with the ability consciously to conceptualize an artistic idea. "
+        },
+        {
+            "dept": "arth",
+            "code": "4610",
+            "credit": 3.0,
+            "name": "The Senses in Art",
+            "prereqs": "",
+            "desc": "Examines the senses in the experience and production of art, with an emphasis on the senses beyond vision -- taste, touch, smell, and hearing - in art and aesthetic experience. Explores how the senses are a prominent factor in contemporary artworks that involve spectators physically, focus on the body, and use new technologies to create distinct perceptual experiences. Considers the regime of visuality and the hierarchy of the senses, the allegorical representation of the senses in art history, and the emergent activation of the non-visual senses in contemporary art practice. Topics will focus on the cultural politics of the senses in art,  with focused case studies on art and taste, art and touch, art and smell, audio art and synaesthetic art. The objectives of this course are 1) to introduce students to the impact of  the senses in art practice with reference to specific works of art ; 2) to study the cultural politics of sensorial mediation; 3) to develop a critical understanding of non-visual aesthetics. Open to non-majors.\r\n"
+        },
+        {
+            "dept": "arth",
+            "code": "4620F",
+            "credit": 3.0,
+            "name": "The Artist and the Modern Museum",
+            "prereqs": "arth2620",
+            "desc": "Recent artistic responses to the modern art museum as providing the context for the consumption of art suggest that the museum may be a dying institutional form. The work of Buren or Broodthaers, for instance, questions the autonomy of art by exposing its reliance or involvement with the museum as its institutional ground. The construction of the category of \u0091\u0091artist\u0092\u0091 in the 19th and 20th centuries is addressed as well as the relations between the \u0091\u0091high art\u0092\u0091 product and the museum as the site of its consumption, display and authorization. Prerequisite: FA/ARTH 2620 6.00 (or period study equivalent) and permission of the course director."
+        },
+        {
+            "dept": "arth",
+            "code": "4640A",
+            "credit": 3.0,
+            "name": "Art, History and the Archive",
+            "prereqs": "",
+            "desc": "Explores theoretical and historical use of archives as containers of memory, authorized histories, and secret passions. Truth and lies, fact and fiction - the archive has served as a source of evidence and historical authority in visual culture studies. Prerequisite: 3rd- or 4th-year standing."
+        },
+        {
+            "dept": "arth",
+            "code": "4950",
+            "credit": 3.0,
+            "name": "Global Contemporary Art: The Last 25 Years",
+            "prereqs": "",
+            "desc": "This seminar examines international mainstream and localized contemporary art production from the perspective of Globalism. The course will critically explore the significance of international biennials, global art and architecture events, art fairs, spectacle culture, and localized grassroots and subculture movements.\r\n\r\nCritical appreciation of the artist's/architect's role in society today in relation to aesthetics, cultural diversity, activism, institutions and economics are all topics of consideration. Students will also examine in-depth how the proliferation of large-scale international survey exhibitions, the rise of the star-curator/architect, the emergence of contemporary art and architecture in the rising economy of Asia, and the hype of international art market, all shape a dynamic global contemporary art practice and reception. On the other hand, new grassroots strategies of resistance, activism and intervention continue to affirm the importance of lived experience, identities and subjectivities. Open to non-majors."
+        },
+        {
+            "dept": "arth",
+            "code": "5100",
+            "credit": 3.0,
+            "name": "Methods:  Historiography and Contemporary Methodologies",
+            "prereqs": "",
+            "desc": "Provides a forum for the examination of the historiography of art history and the various\r methodologies and ideologies that inform current academic practice in the field of art history, visual culture and studies in representation."
+        },
+        {
+            "dept": "arth",
+            "code": "5160",
+            "credit": 3.0,
+            "name": "Theoretical Issues in Contemporary Art",
+            "prereqs": "",
+            "desc": "Examines recent theoretical interventions in the formulation of critical practice in the field of the visual arts. Working from the premise that 'art' and theory are social constructions and therefore, are historically specific practices, this course addresses the intersection between theory and practice at particular moments in time, taking into consideration the implicit and explicit references of artists, critics, historians and contemporary cultural theorists. Course credit exclusion: GS/ARTH 5160 3.00."
+        },
+        {
+            "dept": "arth",
+            "code": "5170",
+            "credit": 3.0,
+            "name": "Museum &amp; Gallery                       ",
+            "prereqs": "",
+            "desc": "Seminar survey of the history of museums will precede the study of cataloguing methods (accession catalogue, exhibition catalogue, catalogue raisonn\u00e9) and of the basic procedures of art works preservation. The ethical and legal implications of the art trade will be discussed. A demonstration of mounting an exhibition will be performed. Scientific methods of research in dating and attribution of works of art will be studied. (Students pursuing this course of study may choose to spend up to two semesters in a detailed\napprenticeship program approved by their supervisors.)\n"
+        },
+        {
+            "dept": "arth",
+            "code": "5175",
+            "credit": 3.0,
+            "name": "Curatorial Practice",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "arth",
+            "code": "5180B",
+            "credit": 3.0,
+            "name": "Visual Culture and Sexualities",
+            "prereqs": "",
+            "desc": "The course looks at contemporary debates in the theory, practice and pedagogies of visual culture with a focus on visual representations of sexualized/gendered bodies, and the ways in which these representations may work to constitute, disrupt, complicate, etc., cultural practices."
+        },
+        {
+            "dept": "arth",
+            "code": "5190",
+            "credit": 3.0,
+            "name": "Placement",
+            "prereqs": "",
+            "desc": "TBA"
+        },
+        {
+            "dept": "arth",
+            "code": "5300",
+            "credit": 3.0,
+            "name": "Individualized reading",
+            "prereqs": "",
+            "desc": "A supervised reading course on a topic for which there is no current course offering. Permission of the Graduate Program Director is required.&quot;"
+        },
+        {
+            "dept": "arth",
+            "code": "5982",
+            "credit": 3.0,
+            "name": "Un-learning the Archive: Facts, Fictions and Missing Histories",
+            "prereqs": "",
+            "desc": "This course addresses the archive \u0096 institutional and informal \u0096 as a source of  historical authority, and as a site of resistance. Students engage in various archival encounters to develop an understanding of archives in relation to research, learning and teaching."
+        },
+        {
+            "dept": "arth",
+            "code": "6000",
+            "credit": 0.0,
+            "name": "Research and Professional Practices Seminar",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "arth",
+            "code": "6010",
+            "credit": 0.0,
+            "name": "Research Paper                         ",
+            "prereqs": "",
+            "desc": "Integrated with an undergraduate course.\n"
+        },
+        {
+            "dept": "arth",
+            "code": "6320",
+            "credit": 3.0,
+            "name": "Performance Art: Politics and Aesthetics\u0094",
+            "prereqs": "",
+            "desc": "Explores major figures and artworks that have defined performance art as a genre. This course examines a range of interdisciplinary practices that fall under the rubric of &quot;performance,&quot; including solo shows, installations, photographic portraiture, happenings, site-specific performance, and stand-up comedy."
+        }
+    ]
+}

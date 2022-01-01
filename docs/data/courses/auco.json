@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "auco",
+            "code": "3555",
+            "credit": 3.0,
+            "name": "Educational Audiology",
+            "prereqs": "",
+            "desc": "This course focuses on maximizing hearing and auditory learning in the classroom for Deaf and Hard-of-Hearing children. It offers an introduction to sound and speech acoustics, the anatomy and physiology of the auditory system, the measurement and effects of dysfunction of various portions of the auditory system, and the role of audition in communication. The focus in the first term will be on clinical audiological practices, hearing aids, FM systems and interpretation of clinical audiological test results. The objective is to gain sufficient familiarity with clinical audiological procedures to allow teachers to work skillfully and collaboratively with parents, audiologists and other professionals. A key part of this course will be the use of amplification by Deaf and Hard-of-Hearing children, in the form of hearing aids, cochlear implants, non-conventional amplification devices and FM systems. The second term of this course focuses on the use of hearing technology in the classroom and the development of listening skills. Students will learn the theoretical and practical aspects of recommending. Fitting, monitoring and troubleshooting hearing technology in the classroom and will also develop an understanding of assessment and development of listening skills for Deaf and Hard-of-Hearing students."
+        },
+        {
+            "dept": "auco",
+            "code": "3565",
+            "credit": 3.0,
+            "name": "Classroom Amplification for Deaf/Hard of Hearing Learners",
+            "prereqs": "",
+            "desc": "This course prepares teachers in the oral/aural stream of the Deaf/Hard of Hearing Program to evaluate the need for classroom amplification, to fit this technology to students' personal amplification, to install the technology in classrooms, and to verify its effectiveness.   \r\nPrerequisites to this course are Listening and Speaking for Learners with Hearing Loss (course code to be determined). \r\nCorequisites to this course are Auditory Verbal Learning (AUDV3590), and Teaching in the Mainstream (INDS3541).\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing.\r\n"
+        }
+    ]
+}

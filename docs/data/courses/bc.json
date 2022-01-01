@@ -1,0 +1,36 @@
+{
+    "courses": [
+        {
+            "dept": "bc",
+            "code": "1800",
+            "credit": 3.0,
+            "name": "First Year Success Seminars in Science",
+            "prereqs": "",
+            "desc": "First Year Success Seminars in Science is designed to help students gain the knowledge, skills, and resourcefulness they will need to be successful Science students at York University.  The course will help students adapt to their faculty and university by providing academic skills training, peer-peer connections and a sense of faculty culture.  Students will develop skills and individualized learning plans that will help them be successful throughout their time as a student at York.  Using the in-class and online environment, students will apply their knowledge through activities, discussions and interactions with staff, faculty and peers."
+        },
+        {
+            "dept": "bc",
+            "code": "3000",
+            "credit": 0.0,
+            "name": "Introduction to Peer Leadership",
+            "prereqs": "",
+            "desc": "Students taking this course will develop a strong foundation to become effective peer leaders and contribute in such roles as peer advisors, peer mentors, peer tutors, Supplemental Instruction leaders, and class representatives."
+        },
+        {
+            "dept": "bc",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Advanced Peer Leadership",
+            "prereqs": "bc3000",
+            "desc": "This course trains students on how to become effective peer leaders on campus. Students will develop a strong foundation to become peer leaders for various programs, organizations, and places of employment. Once per year. Prerequisite: SC/BC 3000 0.00 or permission of the Instructor."
+        },
+        {
+            "dept": "bc",
+            "code": "3900",
+            "credit": 0.0,
+            "name": "Peer Leadership Practicum",
+            "prereqs": "bc3000",
+            "desc": "Provides qualified students a practical work experience that integrates the student's peer leadership knowledge with real-world situations in a volunteer setting at York University. Students will be assigned a Supervisor who will assess performance during the span of the placement. Prerequisite: SC/BC 3000 0.00. Once each term. Students are expected to volunteer for at least five hours per week for one term."
+        }
+    ]
+}

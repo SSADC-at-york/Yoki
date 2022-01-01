@@ -1,0 +1,60 @@
+{
+    "courses": [
+        {
+            "dept": "artm",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Cultural Policy",
+            "prereqs": "artm6301",
+            "desc": "Examines Canadian arts and cultural policy. Topics include the historical development of cultural policy; the formulation and execution of municipal, provincial and federal policies; and current issues and strategies for the future in the arts and cultural industries. The course has a research focus. Where appropriate, policy models in the UK, the US, Europe and Asia will also be analyzed.\r\nPrerequisite: SB/ARTM 6301 3.00 or permission of the Instructor."
+        },
+        {
+            "dept": "artm",
+            "code": "6301",
+            "credit": 3.0,
+            "name": "Issues in Arts and Cultural Management",
+            "prereqs": "",
+            "desc": "Explores the dynamics of different perspectives on the human and economic resources involved in the production, distribution and support of the arts and cultural products in Canada. The central question of this course concerns the management issues that arise from these dynamics. This is a prerequisite course for the MBA Program in Arts and Media Administration. It is intended to service those students who have a real interest in managing in the arts and cultural sector. However, for those students who wish to discover the sector and to test their interest, this is also a useful course."
+        },
+        {
+            "dept": "artm",
+            "code": "6340",
+            "credit": 3.0,
+            "name": "Managing the Broadcast &amp; Digital Worlds: Strategy and Change in Television and Online Media",
+            "prereqs": "",
+            "desc": "This course identifies and examines central issues in the management of public and private television enterprises in Canada, and online programming undertakings. Students will analyse the current environment and the scenarios for the future of Canadian broadcasting; they will also investigate how broadcasters, programmers and producers are managing content and revenue on both traditional and digital platforms and in new partnerships.\n Prerequisite: Some related professional experience, plus permission of the Instructor."
+        },
+        {
+            "dept": "artm",
+            "code": "6350",
+            "credit": 3.0,
+            "name": "The Business of Creativity in the Cultural Sector",
+            "prereqs": "artm6301",
+            "desc": "Negotiation and management of creative rights processes and people are core to the strategic competence of arts and media organizations and their relationship with audiences. Technological developments are changing the way that these organizations approach their business. This course examines this complex evolving business through such topics as: perspectives on creativity; power, conflict and politics relating to managing unions, free-lance talent and celebrities; decision-making for market-risk; financing models, and the impact of the competitive and regulatory environment on management in the cultural sector. This course will be particularly valuable for those interested in the cultural industries including film, music, publishing, broadcasting and the performing arts.\r\n\r\nRecommended prerequisite: SB/ARTM 6301 3.00."
+        },
+        {
+            "dept": "artm",
+            "code": "6360",
+            "credit": 3.0,
+            "name": "Arts, Media and Entertainment: Managing Strategic and Business Solutions in the Digital Media Universe",
+            "prereqs": "",
+            "desc": "The rapidly changing global digital media economy is creating new business models for the Arts, Media and Entertainment sector. This course examines how such models draw on management, creative and policy resources in radically different ways. Students will acquire knowledge and insights to manage digital media's needs for creativity, entrepreneurship, measurement, financial structures and monetization in large and small organizations."
+        },
+        {
+            "dept": "artm",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study: Selected Problems in Arts and Cultural Management",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "artm",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study: Selected Problems in Arts and Cultural Management",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

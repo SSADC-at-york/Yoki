@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "asl",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "American Sign Language, Level I: Introduction to Sign Language Studies",
+            "prereqs": "",
+            "desc": "American Sign Language (ASL) is a language with its own linguistic attributes and roots in the deaf community. Activities focus on using hands, face and other body parts to represent lexical and grammatical aspects of ASL, and on comprehension skills in elementary ASL-based conversation.\r\nLanguage of Instruction: English/American Sign Language."
+        },
+        {
+            "dept": "asl",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "American Sign Language, Level II",
+            "prereqs": "asl1000",
+            "desc": "Activities include lessons on ASL II vocabulary, advanced sentence structures, manual and non-manual grammar, conversation strategies, development of viewing and signing skills and familiarization with genres of ASL literature. By year end, students will be able to discuss basic information in ASL.  \r\nPrerequisite: AP/ASL 1000 6.00 or equivalent, or permission of the Instructor.\n"
+        }
+    ]
+}

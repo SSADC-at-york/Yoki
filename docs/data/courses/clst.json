@@ -1,0 +1,148 @@
+{
+    "courses": [
+        {
+            "dept": "clst",
+            "code": "1105",
+            "credit": 9.0,
+            "name": "Myth and Imagination in Ancient Greece and Rome",
+            "prereqs": "",
+            "desc": "An introduction to ancient and modern myths and theories about myths and mythology in comparative perspectives and their influences on modern literature and art."
+        },
+        {
+            "dept": "clst",
+            "code": "1106",
+            "credit": 9.0,
+            "name": "Egypt in the Greek and Roman Mediterranean",
+            "prereqs": "",
+            "desc": "An examination of Egypt and Egyptians in the imagination and history of the cultures of the Greek and Roman Mediterranean. Course credit exclusion: AP/HUMA 2110 9.00 (prior to Fall 2014)."
+        },
+        {
+            "dept": "clst",
+            "code": "1710",
+            "credit": 6.0,
+            "name": "The Roots of Western Culture. The Ancient World (circa 1000 BC-400 AD)",
+            "prereqs": "",
+            "desc": "Two historical cultures have had an important role in shaping modern thought: the Graeco-Roman and Judaeo-Christian. This course explores these cultures through selective study of their literature, philosophy and religious thought. Course credit exclusion: AP/HUMA 1110 9.00. "
+        },
+        {
+            "dept": "clst",
+            "code": "2100",
+            "credit": 6.0,
+            "name": "Ancient Greece and Rome",
+            "prereqs": "",
+            "desc": "A study of the Greek and Roman world, with particular emphasis on its social, economic and intellectual history, using primary sources archaeological, epigraphic and literary wherever possible."
+        },
+        {
+            "dept": "clst",
+            "code": "2105",
+            "credit": 6.0,
+            "name": "Roman Literature and Culture",
+            "prereqs": "",
+            "desc": "&quot;An introduction to Roman literature and culture, circa 200 BC to AD 200. Emphasis is placed on the literature, art and architecture of the Romans and on the impact of Roman culture on those peoples under Roman rule. Previously offered as: AP/HUMA 2105 9.00."
+        },
+        {
+            "dept": "clst",
+            "code": "2150",
+            "credit": 6.0,
+            "name": "Classical Greek and Roman Archaeology: An Introduction",
+            "prereqs": "",
+            "desc": "The course provides an introduction to the history, theory and methodology of Classical Greek and Roman Archaeology. It examines key archaeological excavations in the Graeco-Roman world to explore the history of Greek and Roman archaeology, circa 1700 to the present. Introducing students to the formation processes of the archaeological record, it also examines modern archaeological methodology, theory and recording techniques."
+        },
+        {
+            "dept": "clst",
+            "code": "2932",
+            "credit": 3.0,
+            "name": "Ancient Greece",
+            "prereqs": "",
+            "desc": "Explores ancient Mediterranean history from the early third millennium BCE through the rise and fall of Alexander the Great in the third century BCE. Proceeding chronologically, the course emphasizes the interdependence of social-political developments and intellectual-cultural movements. Course credit exclusions: GL/HIST 2635 6.00, AP/HIST/CLST 2100 6.00."
+        },
+        {
+            "dept": "clst",
+            "code": "2935",
+            "credit": 3.0,
+            "name": "Ancient Rome",
+            "prereqs": "",
+            "desc": "This course surveys the History of Ancient Rome from the founding of the Republic (753 BCE) to the fall of the Roman Empire in the fifth century. Proceeding chronologically, the course emphasizes the interdependence of socio-political developments and intellectual-cultural movements. Course credit exclusions: GL/HIST 2635 6.00, AP/HIST/CLST 2100 6.00."
+        },
+        {
+            "dept": "clst",
+            "code": "3100",
+            "credit": 6.0,
+            "name": "Greek Drama and Culture",
+            "prereqs": "",
+            "desc": "A survey of ancient Greek drama in translation. The plays will be looked at mainly in terms of structure, of religious thought, and of political expression."
+        },
+        {
+            "dept": "clst",
+            "code": "3105",
+            "credit": 6.0,
+            "name": "Greek and Roman Religion",
+            "prereqs": "",
+            "desc": "Examines Greek and Roman religious beliefs and practices from an interdisciplinary perspective. Special attention is given to four major approaches to the divine (ritual, myth, art and philosophy) and their integration with other aspects of society and culture."
+        },
+        {
+            "dept": "clst",
+            "code": "3150",
+            "credit": 6.0,
+            "name": "Early Greek History from the Bronze Age to the Persian Wars",
+            "prereqs": "",
+            "desc": "Examines the political, social, economic and intellectual history of Greece in the Bronze Age and the Archaic Period. It covers Mycenean Greece, the Dark Age, the rise of the city-state and culminates in the Persian Wars."
+        },
+        {
+            "dept": "clst",
+            "code": "3154",
+            "credit": 3.0,
+            "name": "Egypt from Alexander to Cleopatra",
+            "prereqs": "",
+            "desc": "Examines the social and cultural history of Ptolemaic Egypt from the Macedonian occupation in 332 BC to the death of Cleopatra VII in 30 BC."
+        },
+        {
+            "dept": "clst",
+            "code": "3155",
+            "credit": 3.0,
+            "name": "Egypt after Cleopatra: Society and Culture in a Roman Province",
+            "prereqs": "",
+            "desc": "Examines the social and cultural history of Egypt from the Roman conquest and death of the last Ptolemaic monarch, Cleopatra, in 30 BC to the end of Roman rule in the seventh century AD."
+        },
+        {
+            "dept": "clst",
+            "code": "4035",
+            "credit": 3.0,
+            "name": "Classical Political Theory",
+            "prereqs": "",
+            "desc": "An analysis of a number of texts in classical political theory, focusing on primary texts rather than secondary works, relevant to Greek, Hellenistic and Roman politics. \r\n Course credit exclusions: None.  \r\n\r\n PRIOR TO FALL 2009: Couse credit exclusion: AS/POLS 4030 3.00."
+        },
+        {
+            "dept": "clst",
+            "code": "4103",
+            "credit": 6.0,
+            "name": "Interpretations of Homeric Epic",
+            "prereqs": "",
+            "desc": "Examines the &quot;Iliad&quot; and the &quot;Odyssey&quot; through study of some of the various interpretive strategies, both ancient and modern, which have been applied to these texts."
+        },
+        {
+            "dept": "clst",
+            "code": "4106",
+            "credit": 6.0,
+            "name": "Writing in a Culture of Letters: Ancient Greek Epistolary Literature",
+            "prereqs": "",
+            "desc": "This course will trace the epistolary form in ancient Greek literature, exploring issues including: reading, writing, and literacy; rhetoric and education; literary criticism; the relationship between &quot;real&quot; and literary letters; fiction, fakes, and forgeries in antiquity; the ancient novel; sex and eroticism in Greek literature; friendship in Greek culture; public and private; and social status and hierarchy in antiquity."
+        },
+        {
+            "dept": "clst",
+            "code": "4116",
+            "credit": 6.0,
+            "name": "Alexander the Great: Myth and Reality",
+            "prereqs": "hist2100 huma3100 huma3102 huma3104 huma3105 huma3110 hist3120 hist3125 hist3130 hist3131 hist3135 hist3140 hist3150 hist3152 hist3153 hist3154 hist3160",
+            "desc": "This course studies the life of Alexander the Great. It seeks to set his achievements within the context of Greek, Macedonian and Near Eastern history, and to disentangle the truth about him from the often unreliable and conflicting sources. \r\nPrerequisites: AP/HIST 2100 6.00 or AP/HUMA 3100 6.00 or AP/HUMA 3102 3.00 or AP/HUMA 3104 6.00 or AP/HUMA 3105 6.00 or AP/HUMA 3110 6.00 and AP/HIST 3120 6.00 or AP/HIST 3125 3.00 or AP/HIST 3130 6.00 or AP/HIST 3131 6.00 or AP/HIST 3135 3.00 or AP/HIST 3140 3.00 or AP/HIST 3150 6.00 or AP/HIST 3152 6.00 or AP/HIST 3153 6.00 or AP/HIST 3154 3.00 or AP/HIST 3160 6.00 or departmental permission.\r\nOpen to: Priority is given to History, Classical Studies or Hellenic Studies Honours majors and minors who have successfully completed at least 84 credits."
+        },
+        {
+            "dept": "clst",
+            "code": "4132",
+            "credit": 6.0,
+            "name": "Caesar's Palace: A Social History of the Roman Imperial Court",
+            "prereqs": "hist1100 hist2100 huma3110 hist3120 hist3125 hist3130 hist3131 hist3135 hist3136 hist3140 hist3150 hist3152 hist3154 hist3155 hist3160",
+            "desc": "Roman emperors have traditionally been studied from the point of view of the political decisions that they made. Until recently, less emphasis has been given to the household or court of which they formed the centre. In this course, we examine the new contributions that 'court studies' are making to our understanding of the emperor and his court. Prerequisites: AP/HIST 1100 6.00 or AP/HIST 2100 6.00 or AP/HUMA 3110 6.00 AND AP/HIST 3120 6.00 or AP/HIST 3125 3.00 or AP/HIST 3130 6.00 or AP/HIST 3131 6.00 or AP/HIST 3135 3.00 or AP/HIST 3136 6.00 or AP/HIST 3140 3.00 or AP/HIST 3150 6.00 or AP/HIST 3152 6.00 or AP/HIST 3154 3.00 or AP/HIST 3155 3.00 or AP/HIST 3160 6.00 or departmental permission. Course credit exclusions: AP/HIST 4130 6.00 (prior to Fall 2016) Priority is given to History, Classical Studies or Hellenic Studies Honours majors and minors who have successfully completed at least 84 credits."
+        }
+    ]
+}

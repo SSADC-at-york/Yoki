@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "cltc",
+            "code": "6701",
+            "credit": 3.0,
+            "name": "Selected Topics in Constitutional Law",
+            "prereqs": "",
+            "desc": "This course explores in greater detail important issues and debates in constitutional law.  A new topic is explored in detail in each offering. The course is taught by a visiting expert scholar and/or practitioner in that area."
+        },
+        {
+            "dept": "cltc",
+            "code": "6723",
+            "credit": 6.0,
+            "name": "Fundamental Freedoms in the Canadian Charter",
+            "prereqs": "",
+            "desc": "Examines the fundamental freedoms contained in Section Two of the Charter. It reviews theory and jurisprudence on matters related to religion, expression, assembly and association."
+        },
+        {
+            "dept": "cltc",
+            "code": "6726",
+            "credit": 3.0,
+            "name": "Constitutional Theory",
+            "prereqs": "",
+            "desc": "N/A"
+        }
+    ]
+}

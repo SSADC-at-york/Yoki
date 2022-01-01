@@ -1,0 +1,132 @@
+{
+    "courses": [
+        {
+            "dept": "cclw",
+            "code": "6402",
+            "credit": 3.0,
+            "name": "Foundations of Canadian Law (Online)",
+            "prereqs": "",
+            "desc": "The purpose of this course is to provide students with an introduction to and overview of Canada's legal system and the role of law in Canadian society.  Topics considered include the overarching legal framework, the various sources of Canadian Law, the different branches of Canadian government, separation of powers, the role of international law, the nature and function of common law reasoning and judicial review in the Canadian system, basic approaches to statutory interpretation and selected issues relating to law and Aboriginal peoples. \nThis course is taught in an interactive online format, with regular instructor and classmate interaction.  In each section of the course, students will do independent reading, review multimedia content in the course website, and communicate with their instructor(s) and fellow students.  Regular group work, problem-based learning, practical exercises, and research and writing assignments will be required at key points during the course.  At the conclusion of the course, students will participate in exam review and write an invigilated final exam.\n"
+        },
+        {
+            "dept": "cclw",
+            "code": "6441",
+            "credit": 6.0,
+            "name": "Canadian Constitutional Law (Online)",
+            "prereqs": "",
+            "desc": "The goal of this course is to provide students with an introduction to the various components of Canadian constitutional law, and to the basic principles necessary to understanding and applying the provisions of the constitution in legal practice. The course begins with an introduction to the nature and sources of the Canadian constitution, followed by an overview of amending procedures, and an introduction to the federal nature of the state and the role of the judiciary in upholding the federal division of legislative powers. The course then engages in an in-depth study of constitutional law in relation to federalism, Aboriginal peoples, and the Canadian Charter of Rights and Freedoms. This course is taught in an interactive online format, with regular instructor and classmate interaction.  In each section of the course, students will do independent reading, review multimedia content in the course website, and communicate with their instructor(s) and fellow students.  Regular group work, problem-based learning, practical exercises, and research and writing assignments will be required at key points during the course.  At the conclusion of the course, students will participate in exam review and write an invigilated final exam."
+        },
+        {
+            "dept": "cclw",
+            "code": "6444",
+            "credit": 3.0,
+            "name": "Canadian Professional Responsibility (Online)",
+            "prereqs": "",
+            "desc": "Ethics, access to justice and professionalism-locally and globally-have increasingly become foundational topics of attention over the past several years at all levels of the justice community. This course is designed to look directly at those issues. Specifically, this course provides an introduction to the Canadian legal profession, professional rules, norms and values, regulatory institutions and processes, and the practical ethical issues that lawyers face. It focuses on the context of the Canadian lawyer's many and varied roles: as advocate, advisor, employee, employer, entrepreneur or public servant. It considers the various contexts in which lawyers work: in solo practice, firm practice, government practice or in-house. It also examines lawyers as members of a profession with collective responsibilities in relation to the public interest and access to justice. The course situates these issues within their modern-day context; that is, within a context characterized by local diverse communities, normative pluralism, globalization and transnationalism. This course is taught in an interactive online format, with regular instructor and classmate interaction. In each section of the course, students will do independent reading, review multimedia content in the course website, and communicate with their instructor(s) and fellow students. Regular group work, problem-based learning, practical exercises, and research and writing assignments will be required at key points during the course. At the conclusion of the course, students will participate in exam review and write an invigilated final exam."
+        },
+        {
+            "dept": "cclw",
+            "code": "6502",
+            "credit": 3.0,
+            "name": "Foundations of Canadian Law ",
+            "prereqs": "",
+            "desc": "This course serves as an introduction to the Canadian legal system. It is intended to provide graduate students with a broad conceptual framework of how the law operates in a Canadian context and the basis to pursue more detailed studies in Canadian law.  The focus of the course is primarily on Canada's legal structure, but it also covers some substantive areas of law such as contracts and torts. "
+        },
+        {
+            "dept": "cclw",
+            "code": "6516",
+            "credit": 9.0,
+            "name": "The Canadian Law of Obligations (Contract and Torts)",
+            "prereqs": "",
+            "desc": "This course covers the core concepts in two foundational areas of the Canadian common law -- contract and tort -- by combining that material into one course. There are two overarching bases for the decision to combine contract and torts into one course. First, there is a natural overlap between these two substantive areas of law and as such there is a strong pedagogical reason for the study of these two areas in one course. Second, candidates for the LL.M. program will benefit from the additional opportunity provided to them to take one further subject course instead of taking two separate courses. From a pedagogical standpoint, there is merit to this combination of courses as it affords occasion to talk about the shape and inter-relationship of the common law categories. As this course is envisioned as an introduction, there is an effort to guide candidates through these legal disciplines in a manner that speaks to the distinct features as well as the overlapping points of each. The introduction to the course illustrates to candidates a common origin for contract and torts; thereby underlining the basis of the combination. Beginning with the discussion of remedies, the contemporary connection between contract and torts will be explored in more detail. Finally, candidates are taken through the business/economic scenarios in which contract and torts overlap."
+        },
+        {
+            "dept": "cclw",
+            "code": "6840",
+            "credit": 6.0,
+            "name": "Canadian Contract Law ",
+            "prereqs": "",
+            "desc": "Provides students with an understanding of the principles of the law of contracts in Canada."
+        },
+        {
+            "dept": "cclw",
+            "code": "6841",
+            "credit": 6.0,
+            "name": "Canadian Constitutional Law ",
+            "prereqs": "",
+            "desc": "The goal of this course is to provide students with an introduction to the various components of Canadian constitutional law, and to the basic principles necessary to understanding and applying the provisions of the constitution in legal practice. "
+        },
+        {
+            "dept": "cclw",
+            "code": "6842",
+            "credit": 6.0,
+            "name": "Canadian Administrative Law ",
+            "prereqs": "",
+            "desc": "Administrative Law is the body of law regulating the ways in which government operates. It is about the rules and limits that apply to not only the operations of the Crown, Cabinets, Ministers, government departments, and municipal corporations, but also the various administrative tribunals and agencies deployed by governments for the carrying out of governmental functions of all kinds. This course focuses on the circumstances under which government decision makers are subject to an obligation of procedural fairness, the content of that obligation, the extent to which substantive decision makers are subject to scrutiny by the courts in the name of jurisdiction or other principles of substantive review, and the remedial framework in which superior courts exercise their review powers, including monetary compensation for wrongful administrative action."
+        },
+        {
+            "dept": "cclw",
+            "code": "6843",
+            "credit": 6.0,
+            "name": "Canadian Criminal Law ",
+            "prereqs": "",
+            "desc": "Examines the general principles of liability under the criminal law and various procedural matters relating to the trial of an accused person."
+        },
+        {
+            "dept": "cclw",
+            "code": "6844",
+            "credit": 3.0,
+            "name": "Canadian Professional Responsibility ",
+            "prereqs": "",
+            "desc": "Examines various aspects of the nature and organization of the legal profession in Canada, and the legal and ethical responsibilities of lawyers."
+        },
+        {
+            "dept": "cclw",
+            "code": "6847",
+            "credit": 6.0,
+            "name": "Canadian Public and Constitutional Law",
+            "prereqs": "",
+            "desc": "Provide students with: a) an introduction to and overview of\r Canada's legal system and the role of law in Canadian society; and b) an introduction to the\rvarious components of Canadian constitutional law, and to the basic principles necessary to\runderstanding and applying the provisions of the constitution in legal practice. Topics covered includes foundations of Canadian law and Canadian constitutional law."
+        },
+        {
+            "dept": "cclw",
+            "code": "6849",
+            "credit": 6.0,
+            "name": "Canadian Law of Evidence",
+            "prereqs": "",
+            "desc": "Provides students with an understanding of the principles of the law of evidence in Canada."
+        },
+        {
+            "dept": "cclw",
+            "code": "6850",
+            "credit": 6.0,
+            "name": "Canadian Tort Law ",
+            "prereqs": "",
+            "desc": "Provides students with an understanding of the principles of the law of contracts in Canada."
+        },
+        {
+            "dept": "cclw",
+            "code": "6851",
+            "credit": 6.0,
+            "name": "Canadian Civil and Administrative Procedure",
+            "prereqs": "",
+            "desc": "Provides students with an understanding of the principles and procedures applicable to the major courts and administrative tribunals in the Canadian legal system, with particular focus on Ontario civil procedure. Through the use of practical illustrative examples, students will learn how these adjudicative mechanisms differ and, in some cases, interact or overlap."
+        },
+        {
+            "dept": "cclw",
+            "code": "6853",
+            "credit": 6.0,
+            "name": "Canadian Law of Property",
+            "prereqs": "",
+            "desc": "Introduces the concepts and analytical skills students need to recognize and resolve disputes\r over interests in personal and real property. The course covers the meaning of property, concepts of\r ownership and possession, aboriginal property claims, and rights in land."
+        },
+        {
+            "dept": "cclw",
+            "code": "6878",
+            "credit": 6.0,
+            "name": "Canadian Commercial Law",
+            "prereqs": "",
+            "desc": "An introductory course on commercial law and will expose students to concepts such as secured transactions, penalties and liquidated damages, and sale of goods. Emphasis is placed on how commercial law applies to the business context and in business practices."
+        }
+    ]
+}

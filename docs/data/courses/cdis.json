@@ -1,0 +1,76 @@
+{
+    "courses": [
+        {
+            "dept": "cdis",
+            "code": "5000",
+            "credit": 3.0,
+            "name": "Directed Reading in Critical Disability Studies",
+            "prereqs": "",
+            "desc": "An independent directed reading course on a topic approved by the Faculty member who is the supervisor of the course and the Graduate Program Director. This course can only be taken in extenuating circumstances. Please contact Graduate Program Office for details."
+        },
+        {
+            "dept": "cdis",
+            "code": "5045",
+            "credit": 3.0,
+            "name": "Health Equity and Mental Health Policy",
+            "prereqs": "",
+            "desc": "This course involves an analysis of mental health policy starting with early conceptualizations and approaches to mental health care, to more recent government initiatives and societal approaches in Canada, with a comparison to other international contexts. Integrated with the undergraduate course Atkinson Health Studies 4140 3.0"
+        },
+        {
+            "dept": "cdis",
+            "code": "5095",
+            "credit": 3.0,
+            "name": "Intersectionality, Disability, and Health",
+            "prereqs": "",
+            "desc": "This course traces the profound shifts and challenges for understanding health inequities that Intersectionality theorists and practitioners from Black, Indigenous, and Feminist Studies have brought to Health Studies and Disability Studies, including new methodological and theoretical approaches to gender and gender identity, sexuality, (dis)ability, trauma, structural violence, settler colonial studies, and environmental studies."
+        },
+        {
+            "dept": "cdis",
+            "code": "5100",
+            "credit": 6.0,
+            "name": "Disability Studies:  An Overview",
+            "prereqs": "",
+            "desc": "Provides a broad overview of definitions and paradigms of impairment and disability: medical, psychological, sociopolitical and theoretical perspectives; functionalist, role theory, interactionism, disability and human rights issue, and recent developments in feminist and postmodern approaches to disability. Attention is given to the historical and cultural development of concepts and categories of disability; disability theory and policy at provincial, national and international levels; and implications of theory and practice for the lives of persons with disabilities.\r\n\r\n"
+        },
+        {
+            "dept": "cdis",
+            "code": "5110",
+            "credit": 3.0,
+            "name": "Methodology",
+            "prereqs": "",
+            "desc": "Explores current debates and issues on the implementation of disability research, including emphasis on emancipatory research and participant action research. Areas for discussion include an introduction to doing disability research, qualitative and quantitative research methodologies, involving persons with disabilities in policy and planning, assessment procedures, the dissemination of research findings and accessibility of information."
+        },
+        {
+            "dept": "cdis",
+            "code": "5120",
+            "credit": 3.0,
+            "name": "Critical Disability Law",
+            "prereqs": "",
+            "desc": "Explores disability as a legal category with implications for the human rights of persons with disabilities. Areas for discussion include the history of disability legislation in Canada and internationally; the disability rights movement; the social and legal construction of competence and inequality; social discourse of law and policy; and recent human rights cases."
+        },
+        {
+            "dept": "cdis",
+            "code": "6001",
+            "credit": 0.0,
+            "name": "MA Major Research Paper",
+            "prereqs": "cdis5100 cdis5110 cdis5120",
+            "desc": "Prerequisites: GS/CDIS 5100 6.00, GS/CDIS 5110 3.00, GS/CDIS 5120 3.00, and two 3.00-credits elective courses at graduate level including one course being offered by the Critical Disability Studies graduate program."
+        },
+        {
+            "dept": "cdis",
+            "code": "6100",
+            "credit": 6.0,
+            "name": "Doctoral Seminar in Critical Disability Studies",
+            "prereqs": "",
+            "desc": "This course will provide a broad overview of key texts in the field of disability studies, as well as an in-depth analysis of competing and complementary views about how \u0093disability\u0094 is defined. Areas to be studied include social movement theory and how this theory is reflected in the context of disability activism; tension and collaboration between academics and grass roots activists; gaps in disability studies; marginalization between and among people with disabilities; the notion of a disability community or communities; disability and the law; race, class, gender, and poverty; disability culture and literature; and social policy and the political economy of disability. The seminar also covers disability issues in the developing world and in Europe, including a comparative study of national and international laws pertaining to disability rights protection and the connections between disability rights and human rights, locally, regionally and internationally."
+        },
+        {
+            "dept": "cdis",
+            "code": "6150",
+            "credit": 3.0,
+            "name": "Critical Interpretations of Disability History",
+            "prereqs": "",
+            "desc": "Examines the historical experiences of people with disabilities from medieval European history to twentieth century North American society. Topics to be examined include: pre-industrial interpretations of physical and mental disability; the impact of the industrial revolution on disability as a social category and lived experience; segregation, trans-institutionalization and community living; rehabilitation programs and their critics in the twentieth century; diversity, discrimination and activism within the disability community; the modern development of critical literature on the history of people with disabilities."
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "bfsl",
+            "code": "6770",
+            "credit": 3.0,
+            "name": "Behavioural Economics",
+            "prereqs": "",
+            "desc": "This course provides an overview of behavioural economics as it impacts bankruptcy.  Regulation that could be better designed to reduce overindebtedness and specific features of the Bankruptcy and Insolvency Act that are informed by the tenets of behavioural economics are examined."
+        },
+        {
+            "dept": "bfsl",
+            "code": "6774",
+            "credit": 3.0,
+            "name": "Consumer Bankruptcy Issues and Policies",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "bfsl",
+            "code": "6808",
+            "credit": 3.0,
+            "name": "Insurance Regulation",
+            "prereqs": "",
+            "desc": "This course examinse the regulation of insurance products and insurance companies. In Canada, this is done via both provincial and federal government bodies, and the course will examine the role of the Office of the Superintendent of Financial Institutions (OFSI) as well as other regulatory bodies in the insurance landscape such as the Canadian Council of Insurance Regulators (CCIR)."
+        },
+        {
+            "dept": "bfsl",
+            "code": "6900",
+            "credit": 6.0,
+            "name": "Regulation of Financial Institutions",
+            "prereqs": "",
+            "desc": "This course examines the manner in which Canada regulates financial institutions, including banks, insurance companies, securities dealers and investment fund managers. Among the topics that will be discussed will be the constitutional authority to regulate, the policy approach to regulation, limits on business powers, capital, governance, supervision and anti-money laundering and terrorist financing."
+        },
+        {
+            "dept": "bfsl",
+            "code": "6903",
+            "credit": 6.0,
+            "name": "Banking, Negotiable Instruments, Payment Mechanisms and Securities Transfers",
+            "prereqs": "",
+            "desc": "This course is concerned with the private law aspects governing banking, negotiable instruments, payment mechanisms, and securities transfers. It covers major selected aspects of\n(1) negotiable instruments (notes, bills and cheques under the Bills of Exchange Act),\n(2) the bank and customer relationship (bank accounts and deposits, bank secrecy, bank's liability, etc.),\n(3) the payment system (including under Canadian Payments Association Act),\n(4) payment cards,\n(5) domestic and international electronic and paper based funds transfers (including under UCC Article 4A and UNCITRAL Model Law), (6) letters of credits (under the ICC Uniform Customs and Practices), and (7) transfer of securities in paper and paperless as well as in direct and indirect holding systems."
+        }
+    ]
+}

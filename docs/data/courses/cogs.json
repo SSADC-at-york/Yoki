@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "cogs",
+            "code": "2160",
+            "credit": 3.0,
+            "name": "Minds, Brains and Machines",
+            "prereqs": "",
+            "desc": "An introduction to the study of human cognition and the interdisciplinary field of cognitive science. Questions covered include: What is artificial intelligence? Is it possible that we will someday build computers that think? Does language affect thought? Do we think in language or pictures? How is conscious experience related to the brain?"
+        },
+        {
+            "dept": "cogs",
+            "code": "2800",
+            "credit": 3.0,
+            "name": "Language and Mind",
+            "prereqs": "",
+            "desc": "Explores how the structures of human language reflect the architecture of the human mind. Linguistics issues are related to topics in vision, philosophy, and psychology, among others. The course focuses primarily on internalist views of language, as exemplified in the generative tradition.\r\nCourse credit exclusion: AP/LING 3800 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "cogs",
+            "code": "3750",
+            "credit": 3.0,
+            "name": "Philosophy of Artificial Intelligence",
+            "prereqs": "phil2160 phil2240",
+            "desc": "An introduction to philosophical issues in Artificial Intelligence (AI). The goal is for students to be able to gain basic understanding of the cognitive architectures used by Al programmers, and reflect critically on research in Al from a philosophical perspective. Prerequisites: One of AP/PHIL 2160 3.00 or AP/PHIL 2240 3.00."
+        },
+        {
+            "dept": "cogs",
+            "code": "4750",
+            "credit": 6.0,
+            "name": "Honours Thesis in Cognitive Science",
+            "prereqs": "",
+            "desc": "Students carry out an individual piece of research in cognitive science in consultation with a thesis supervisor and write a thesis. \r\nPrerequisite: Permission of the Instructor."
+        },
+        {
+            "dept": "cogs",
+            "code": "4901",
+            "credit": 6.0,
+            "name": "Honours Seminar in Cognitive Science",
+            "prereqs": "",
+            "desc": "This course is the capstone for students in the cognitive science honours BA program. Students will obtain a greater understanding of the work that cognitive scientists do, and how the theoretical background can be implemented in solving real-world problems and uncovering additional facts about the world. Students will be expected to produce a major work in cognitive science as well as demonstrate their knowledge of the applications of cognition science to many different areas of academia and industry. \r\nNote: Students must be Cognitive Science majors and have successfully completed a minimum of 84 credits in total\r\n\r\nCourse credit exclusion: AP/COGS 4900 6.00 (prior to Fall 2010)."
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "courses": [
+        {
+            "dept": "blis",
+            "code": "6298",
+            "credit": 6.0,
+            "name": "International Commercial Arbitration for Business Law",
+            "prereqs": "",
+            "desc": "An introduction to the law and practice of international commercial arbitration."
+        },
+        {
+            "dept": "blis",
+            "code": "6409",
+            "credit": 6.0,
+            "name": "Online International Business Transactions:  Theory, Law, and Practice",
+            "prereqs": "",
+            "desc": "International Business Transactions uses case studies to analyze international business transactions including: forming the contract, financing and payment techniques, and identifying and addressing barriers to contract fulfillment. Examples include the study of import/export of goods and services, technology transfers, joint ventures and foreign direct investment. The course addresses the challenges of trans-border electronic transactions and doing business on the internet.  The online nature of this course permits the students to engage in activities that simulate the remote, asynchronous nature of real-life cross-border, multi-party business transaction negotiation and documentation. Regular group work, problem-based learning, practical exercises, and research and writing assignments are required at key points during the course.  "
+        },
+        {
+            "dept": "blis",
+            "code": "6501",
+            "credit": 3.0,
+            "name": "Comparative Legal Systems",
+            "prereqs": "",
+            "desc": "This course provides an overview of the classification and operation of major legal systems around the world, using examples from countries that play a prominent role in the global economy."
+        },
+        {
+            "dept": "blis",
+            "code": "6505",
+            "credit": 6.0,
+            "name": "International Trade Law",
+            "prereqs": "",
+            "desc": "International Trade Law begins by exploring and comparing the most significant international trade agreements and structures. Specific areas covered include trade in goods, environmental issues, employment and labour issues, competition law, intellectual property, and dispute resolution mechanisms."
+        },
+        {
+            "dept": "blis",
+            "code": "6509",
+            "credit": 6.0,
+            "name": "International Business Transactions",
+            "prereqs": "",
+            "desc": "International Business Transactions uses case studies to analyze international business transactions, including forming the contract, financing and payment techniques, and identifying and addressing barriers to contract fulllment. Examples include the study of import/export of goods and services, technology transfers, joint ventures and foreign direct investment. The course addresses the challenges of trans-border electronic transactions and doing business on the internet."
+        },
+        {
+            "dept": "blis",
+            "code": "6510",
+            "credit": 6.0,
+            "name": "Taxation of Cross-Border Transactions",
+            "prereqs": "",
+            "desc": "Introduces students to the basic concepts, ideas, structures and potential traps of tax planning for cross-border transactions, and equips students with the basic knowledge and skills to spot tax issues."
+        },
+        {
+            "dept": "blis",
+            "code": "6512",
+            "credit": 3.0,
+            "name": "Anti-Money Laundering and International Country Sanctions - Global Regulatory Challenges",
+            "prereqs": "",
+            "desc": "Explores two areas of increasingly important and challenging global regulation: anti-money laundering legislation and international country sanctions. While important to a broad sector of businesses, they are particularly crucial for financial institutions and businesses involved in cross-border commerce. This course explores the global context for these regulations, including the role of international legal and quasi-legal organizations such as the Financial Action Task Force and the United Nations. The role of anti-money laundering and country sanctions within the context of financial sector regulation and stability overall will be explored, and students will have an opportunity to examine the outcomes, including relative strengths and weaknesses, of the legislation on a domestic and international basis."
+        },
+        {
+            "dept": "blis",
+            "code": "6544",
+            "credit": 3.0,
+            "name": "Corporate Social Responsibility and the Law",
+            "prereqs": "",
+            "desc": "This course examines the legal dimensions of corporate social responsibility (CSR) in the Canadian and International contexts. Students will learn about the meaning, purpose and history of CSR, which encompasses a wide variety of issues including, but not limited to, climate change, human rights, labour standards, business ethics, etc. Students will explore how the law influences companies' CSR practices with reference to federal and provincial law in Canada and selected international laws like in the UK and USA. The course will also cover how the business sector is developing its own governance frameworks for CSR."
+        },
+        {
+            "dept": "blis",
+            "code": "6815",
+            "credit": 3.0,
+            "name": "Business and Human Rights ",
+            "prereqs": "",
+            "desc": "The unanimous adoption of the UN Guiding Principles on Business and Human Rights cemented the notion that businesses play a critical role in supporting human rights in all jurisdictions where they or their affiliates operate. New legislation, regulatory mechanisms, and case law further affirm that governments and courts expect businesses to conduct their affairs in adherence to international human rights obligations. This course provides students with an understanding of what has changed in the area of corporate accountability, and how Business and Human Rights Law affects transnational corporations in Canada and abroad. "
+        },
+        {
+            "dept": "blis",
+            "code": "6838",
+            "credit": 6.0,
+            "name": "Business Associations for International Law Graduates",
+            "prereqs": "",
+            "desc": "This course provides an introduction to the laws governing the predominant forms of businessorganization in Canada \u0096 sole proprietorships, general partnerships, limited partnerships, limited liability partnerships and corporations. The focus of the course is on business corporations,\r\nwith particular reference to the Canada Business Corporations Act. The course canvasses such topics as: the creation and organization of the corporation; the corporation as a distinct entity from its shareholders; the capital structure and activities of the corporation; roles and duties of directors, officers and shareholders; corporate governance; shareholder agreements; shareholder derivative actions and other remedies; and introduction to corporate transactions (mergers and acquisitions)."
+        },
+        {
+            "dept": "blis",
+            "code": "6875",
+            "credit": 3.0,
+            "name": "Canadian Contract Law for Business",
+            "prereqs": "",
+            "desc": "The course is a survey of Canadian contract law intended for lawyers trained in non-common-law jurisdictions and for non-lawyers.  The course provides foundational training in the common law of contracts, focusing on the legal principles involved in formation and enforcement of commercial agreements. The course deals with the general principles of law applicable to the main types of bargain transactions found in contemporary business practice."
+        },
+        {
+            "dept": "blis",
+            "code": "6890",
+            "credit": 3.0,
+            "name": "Topics in Advanced Contract Law",
+            "prereqs": "",
+            "desc": "This course offers students the opportunity to go beyond foundational contract law to explore significant and current issues in business and commercial contracts, particularly those that are relevant to international business law practice. The prerequisite for this course is GSLaw 6875, GSLaw 6840, GSLaw 6516 or an equivalent foundational course in\r\nthe common law of contract."
+        },
+        {
+            "dept": "blis",
+            "code": "6990",
+            "credit": 3.0,
+            "name": "International Finance ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "blis",
+            "code": "6999",
+            "credit": 3.0,
+            "name": "Selected Topics in International Business Law",
+            "prereqs": "",
+            "desc": "This course explores in greater detail important issues and debates in international business law. A new topic is explored in detail in each offering. The course is taught by a visiting expert scholar and/or practitioner in that area."
+        }
+    ]
+}

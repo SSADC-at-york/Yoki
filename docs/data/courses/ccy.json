@@ -1,0 +1,132 @@
+{
+    "courses": [
+        {
+            "dept": "ccy",
+            "code": "1999",
+            "credit": 6.0,
+            "name": "Introduction to Children, Childhood &amp; Youth Studies",
+            "prereqs": "",
+            "desc": "This course introduces students to the field of Children, Childhood &amp; Youth studies. It includes the historical, developmental, anthropological, sociological, and sociocultural approaches that have governed and continue to govern the study of children, childhood and youth. It reviews varied methodological approaches to this growing field. This course focuses on issues around discourses of the rights and power of children and youth and the &quot;new childhood paradigm&quot; in academic disciplines.  Course Credit Exclusion: HUMA 1970 9.0 and 6.0 "
+        },
+        {
+            "dept": "ccy",
+            "code": "2999",
+            "credit": 6.0,
+            "name": "Global Cultures of Children and Young People",
+            "prereqs": "ccy1999",
+            "desc": "This course is a critical, cross-disciplinary introduction to the global cultures of children and young people. It explores the ways young people in diverse places and spaces participate in and express social and cultural values and practices in their everyday lives. It understands childhood as culturally defined, and young people as active agents in and of culture. Prerequisite: AP/CCY 1999 6.00. \r\nCourse Credit Exclusion: AP/HUMA 2690 6.00 and HUMA 2690 9.00"
+        },
+        {
+            "dept": "ccy",
+            "code": "3103",
+            "credit": 6.0,
+            "name": "Children and Childhood in the Ancient Mediterranean World",
+            "prereqs": "",
+            "desc": "Examines childhood experience and the social construction of childhood in the ancient Mediterranean from the Bronze Age to the end of classical antiquity. Course credit exclusion: AP/HUMA 3103 3.00.\n"
+        },
+        {
+            "dept": "ccy",
+            "code": "3687",
+            "credit": 6.0,
+            "name": "Graphic Narratives for and about Children and Youth",
+            "prereqs": "",
+            "desc": "This course examines the graphic novel form as a medium of literature for and about children and youth. It focuses on a selection of graphic novels from a broad range of cultural contexts. By means of these texts that balance literary and visual modes of communication, students study how the graphic novel medium shapes and interrogates our perceptions of childhood and youth in the contemporary world."
+        },
+        {
+            "dept": "ccy",
+            "code": "3690",
+            "credit": 6.0,
+            "name": "Children's Literature &amp; Film Adaptations",
+            "prereqs": "",
+            "desc": "This course analyzes changing constructions of childhood and adolescence in children's literature and adaptations of these constructions in film versions. Issues of 'translation' are highlighted both in critical readings and through the pairing of literary and film texts. Note: Internet access is required for this course."
+        },
+        {
+            "dept": "ccy",
+            "code": "3691",
+            "credit": 3.0,
+            "name": "Picture Books in Children's Culture",
+            "prereqs": "",
+            "desc": "Analyzes interrelationships between literary, visual, and performative arts in children's picture books. Explores relationships between adult and child readers as they mutually make meaning in picture book reading experiences. Studies children's picture books' thematic breadth; diverse word-image relationships; historical development; genres (non-fiction, fiction, wordless, verse, graphic novels); and masters (including Beatrix Potter, Maurice Sendak, Chris van Allsburg). Notes: Priority will be given to Children's Studies and Humanities majors and minors."
+        },
+        {
+            "dept": "ccy",
+            "code": "3692",
+            "credit": 6.0,
+            "name": "Representations of Children's Alterity",
+            "prereqs": "",
+            "desc": "Analyzes representations of children's and youths' alterity in picture books, graphic novels, novels, life writing, documentary and fiction films, photographs, art, advertising, and non-fiction for children and adults. Alterity refers to the &quot;Other,&quot; marginalized through gender, sexuality, race, class, physical and mental (dis)abilities, religion, nation, and the difference between being human and being animal, cyborg, vampire, or alien. Notes: Priority will be given to Children's Studies and Humanities majors and minors."
+        },
+        {
+            "dept": "ccy",
+            "code": "3693",
+            "credit": 3.0,
+            "name": "The Rainbow List: GLBTQ literature and culture for children and youth",
+            "prereqs": "",
+            "desc": "Each year, the Rainbow Project Committee announces its annual Rainbow List. These titles reflect significant gay, lesbian, bisexual, trans-gendered and queer-questioning (GLBTQ) experience for young people from birth to age 18. This course analyzes some of that literature in addition to other expressions and representations of GLBTQ children and youth (film, television, digital media, music, etc.) in a variety of child-centred socio-cultural contexts.\nNote: Priority will be given to Children's Studies and Humanities majors and minors."
+        },
+        {
+            "dept": "ccy",
+            "code": "3998",
+            "credit": 6.0,
+            "name": "The Social and Textual Production of Children's Literature:Research Methods",
+            "prereqs": "ccy1999 ccy2999",
+            "desc": "This course incorporates book history, Childhood Studies, literary analysis, and digital humanities methodologies in its exploration of the social and textual production of children's literature. It focuses on a selection of historical children's texts from the eighteenth to twentieth centuries to study how these archival artefacts shape and interrogate our perceptions of children, childhood and youth in past and contemporary times.\nPrerequisites: AP/CCY 1999 6.00, AP/CCY 2999 6.00\nCourse Credit Exclusions: AP/HUMA 3695 60.0; AP/HUMA 3999 6.00"
+        },
+        {
+            "dept": "ccy",
+            "code": "3999",
+            "credit": 6.0,
+            "name": "Research with Children and Young People: Methods ",
+            "prereqs": "",
+            "desc": "This course explores methods and methodologies for child-centred research with a focus on ethical standards and guidelines that shape the field and sustain best practice for research with children. A child-centred approach is central to examining how children can be an integral part of the research process without being subjected to objectification and/or marginalization.\r\n Prerequisites: CCY 1999 6.00, CCY 2999 6.00\r\nCourse Credit Exclusion:: AP/HUMA 3695 6.00"
+        },
+        {
+            "dept": "ccy",
+            "code": "4140",
+            "credit": 6.0,
+            "name": "Childhood in Canadian Culture",
+            "prereqs": "",
+            "desc": "Explores the human condition of childhood as portrayed and experienced in Canadian culture over time."
+        },
+        {
+            "dept": "ccy",
+            "code": "4141",
+            "credit": 6.0,
+            "name": "Children, Youth, and Digital Culture",
+            "prereqs": "",
+            "desc": "Investigates how children and youth use digital technologies and new media both as &quot;extensions&quot; of individual identities and facilitators of &quot;youth culture.&quot; Texting, sexting, tweeting, learning, playing, protesting, creating-how are youth making meaning of the world through digital youth cultures? What are children and youth doing in a digital world and what are the implications of this for everyone?"
+        },
+        {
+            "dept": "ccy",
+            "code": "4142",
+            "credit": 6.0,
+            "name": "Contemporary Children's Culture",
+            "prereqs": "",
+            "desc": "This course analyses contemporary forms of culture created (or appropriated) by children or produced for children by adults; it also explores the effects of these cultural forms on children's ways of being in the modern world."
+        },
+        {
+            "dept": "ccy",
+            "code": "4145",
+            "credit": 6.0,
+            "name": "Fantasy and Children's Culture",
+            "prereqs": "",
+            "desc": "Explores the fantasy mode in childhood and children's culture made by and for them, including literature, film, toys, songs and games."
+        },
+        {
+            "dept": "ccy",
+            "code": "4998",
+            "credit": 6.0,
+            "name": "The Social and Textual Production of Children's Literature: Honours Research Project",
+            "prereqs": "",
+            "desc": "In this course, students conduct a unique, independent classroom-based research project, using the children's literature collection held by the CTASC at YUL, in addition to other children's literature collections held in the GTA. The course builds on the research skills and methods developed in CCY 3998, facilitates the analysis of research findings, and the dissemination and publication of research knowledge in a formal setting.\nPre-requisite: AP/CCY 3998 6.00"
+        },
+        {
+            "dept": "ccy",
+            "code": "4999",
+            "credit": 6.0,
+            "name": "Research with Children and Young People: Honours Research Project",
+            "prereqs": "",
+            "desc": "In this course, students will conduct a community-based research project (framework for which was created in CCY 3998 6.00 or CCY 3999 6.00). This will include undertaking a unique research project focusing on children and/or youth, submitting a Human participants ethics protocol, conducting independent research, analyzing research findings, and disseminating research knowledge in a formal setting.\nPrerequisites: CCY 1999 6.00, CCY 2999 6.00, CCY 3998 6.00 or CCY 3999 6.00"
+        }
+    ]
+}

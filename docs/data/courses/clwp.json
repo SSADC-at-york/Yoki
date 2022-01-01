@@ -1,0 +1,28 @@
+{
+    "courses": [
+        {
+            "dept": "clwp",
+            "code": "6780",
+            "credit": 3.0,
+            "name": "Wrongful Convictions",
+            "prereqs": "",
+            "desc": "This course examines the causes of wrongful conviction in key common law jurisdictions and how it is being addressed."
+        },
+        {
+            "dept": "clwp",
+            "code": "6781",
+            "credit": 6.0,
+            "name": "Issues in Criminal Law: Hist Evol &amp; Theo",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "clwp",
+            "code": "6879",
+            "credit": 3.0,
+            "name": "Aboriginal People and the Criminal Justice System",
+            "prereqs": "",
+            "desc": "This course examines Aboriginal concepts of justice. It critically analyzes the relationship between Aboriginal people and the Canadian criminal justice system at different stages and through various lenses."
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "courses": [
+        {
+            "dept": "bsus",
+            "code": "4900",
+            "credit": 1.5,
+            "name": "Business &amp; Sustainability: Guided Study",
+            "prereqs": "",
+            "desc": "Guided Study"
+        },
+        {
+            "dept": "bsus",
+            "code": "4900",
+            "credit": 3.0,
+            "name": "Business &amp; Sustainability: Guided Study",
+            "prereqs": "",
+            "desc": "Guided Study"
+        },
+        {
+            "dept": "bsus",
+            "code": "6200",
+            "credit": 3.0,
+            "name": "Managing Ethics &amp; Social Responsibility",
+            "prereqs": "",
+            "desc": "Explores the social and ethical challenges facing contemporary organizations and develops the knowledge and skills necessary to manage these challenges effectively. The emphasis is on enhancing personal moral insight, developing individual and organizational strategies for dealing with social and ethical problems, critically evaluating relevant tools, and managing for global corporate responsibility.\r\n\r\nPrerequisites: All 5100-series Required Foundations of Management Core Courses. Course credit exclusion: SB/ETHC 5510 1.50."
+        },
+        {
+            "dept": "bsus",
+            "code": "6300",
+            "credit": 3.0,
+            "name": "Management Practices for Sustainable Business",
+            "prereqs": "",
+            "desc": "This course situates corporate activity within the wider context of Sustainability. In particular, it provides an overview of important management \r\ntrends, tools and frameworks for integrating environmentally and socially progressive practices into organizational practice. The course also helps understand the interactions between stakeholders and the inherent issues related to their conflicting demands. "
+        },
+        {
+            "dept": "bsus",
+            "code": "6500",
+            "credit": 3.0,
+            "name": "Business Strategies for Sustainability",
+            "prereqs": "",
+            "desc": "All organizations impact the natural and social environment. However, it is only recently that sustainability has become a strategic issue for business and its managers. For increasing numbers of companies, sustainability is now an integrated part of organizational strategy formulation and implementation. Through a series of 'live cases', this course is designed to introduce students to the critical strategic and managerial issues in developing, implementing and adapting strategy to create environmental, social and economic value.\r\n\r\nPrerequisites: All 5100-series Required Foundations of Management Core Courses or with permission of the Instructor."
+        },
+        {
+            "dept": "bsus",
+            "code": "6900",
+            "credit": 3.0,
+            "name": "Individual Study BSUS",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "bsus",
+            "code": "6900",
+            "credit": 1.5,
+            "name": "Individual Study BSUS",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        },
+        {
+            "dept": "bsus",
+            "code": "6901",
+            "credit": 1.5,
+            "name": "Individual Study",
+            "prereqs": "",
+            "desc": "A student may work with an individual faculty member on a topic of mutual interest.  These studies are co-designed by the student and the faculty member based on:  1) learning objectives  2)  means of achieving these objectives  3) method of evaluation."
+        }
+    ]
+}

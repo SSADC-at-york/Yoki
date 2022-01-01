@@ -1,0 +1,36 @@
+{
+    "courses": [
+        {
+            "dept": "bphs",
+            "code": "2090",
+            "credit": 3.0,
+            "name": "Current Topics in Biophysics",
+            "prereqs": "phys1010 isci1310 isci1301 isci1302 phys1800 phys1801 phys1410 phys1420 biol1000 biol1001 isci1110 isci1101 isci1102",
+            "desc": "An introduction to biophysics highlighting major themes in pure and applied biophysical research. Included is coverage of fundamental concepts in fluid mechanics. The course will present biology and physics students with an overview of the role of physics in biological research. Prerequisites: (1) SC/PHYS 1010 6.00, or SC/ISCI 1310 6.00, or both SC/ISCI 1301 3.00 and SC/ISCI 1302 3.00, or both SC/PHYS 1800 3.00 and SC/PHYS 1801 3.00, or a minimum grade of C in SC/PHYS 1410 6.00 or SC/PHYS 1420 6.00; and (2) both SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00, or SC/ISCI 1110 6.00, or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00; or permission of Instructor."
+        },
+        {
+            "dept": "bphs",
+            "code": "3900",
+            "credit": 0.0,
+            "name": "Biophysics Internship Work Term",
+            "prereqs": "bphs3090",
+            "desc": "This experiential education course reflects the work term component of the Technology Internship Program (TIP). Qualified Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four ( i.e. 16 months). Students in this course receive assistance from the Career Centre prior to and during their internship, and are also assigned a Faculty Supervisor/Committee. Prerequisites: Enrolment is by permission only. Criteria for permission include: (1) that students have successfully completed at least nine SC/BPHS or SC/PHYS credits at the 3000-level or higher, including SC/BPHS 3090 3.00, and have a GPA of at least 5.00 in SC/BPHS, SC/BIOL, and SC/PHYS courses overall; (2) that students are enrolled full-time in the Honours program prior to beginning their internship and have attended the mandatory preparatory sessions as outlined by the Career Centre; (3) that students have not been absent for more than two consecutive years as a full-time student from their Honours degree studies; (4) that upon enrolling in this course students have a minimum of nine credits remaining toward their Honours degree and need to return as a full-time student for at least one academic term to complete their degree after completion of their final work term. Registration in SC/BPHS 3900 0.00 provides a record on the transcript for each work term."
+        },
+        {
+            "dept": "bphs",
+            "code": "4080",
+            "credit": 3.0,
+            "name": "Cellular Electrodynamics",
+            "prereqs": "bphs2090 phys2020 phys2060",
+            "desc": "This course will focus on physics relevant to cellular dynamics and transport. Basic principles will include: electrodynamics (e.g., charge transport across cells, Nernst potentials), diffusion, osmosis, and wave propagation. Salient biological topics will be approached in a rigorous mathematical fashion and include those such as: cellular homeostasis, the Hodgkin-Huxley model for action potentials, molecular biology of ion channels, and molecular motors (e.g., motion in low Reynolds-number regimes).  The objective of the course is to help students to integrate the knowledge gained in second and third year biology and physics courses and to use methods of physics to study biological processes. Prerequisites: SC/BPHS 2090 3.00 or permission of the instructor; SC/PHYS 2020 3.00; SC/PHYS 2060 3.00.  Course Credit Exclusion: BPHS 3090 3.00"
+        },
+        {
+            "dept": "bphs",
+            "code": "4310",
+            "credit": 3.0,
+            "name": "Biophysics Research Project",
+            "prereqs": "",
+            "desc": "A faculty-supervised research endeavour in experimental or theoretical biophysics. The student and faculty member must agree upon (and the Biophysics Program Director must approve) the project scope, background reading, milestones including student-faculty meeting schedule, and deliverables including final written report. Six hours per week."
+        }
+    ]
+}

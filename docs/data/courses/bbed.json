@@ -1,0 +1,12 @@
+{
+    "courses": [
+        {
+            "dept": "bbed",
+            "code": "3570",
+            "credit": 3.0,
+            "name": "Bilingual - Bicultural Education",
+            "prereqs": "",
+            "desc": "This course will focus on developing proficiency in American Sign Language (ASL). The purpose of this course is to develop skills in receptive and expressive ASL. Attention will be given to the grammar of ASL, the importance of proper non manual grammatical signals, non manual signals and cultural aspects of ASL and will lead participants to an understanding of how to use ASL in a bilingual classroom. Assessment of ASL abilities will take place during the first class of each course and grading rubrics will be presented to all participants.\r\nNOTE: Courses in this program are part of a professional post-graduate diploma program, and are not open for registration to students outside the program. Courses are not open for auditing."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "courses": [
+        {
+            "dept": "arb",
+            "code": "1000",
+            "credit": 6.0,
+            "name": "Introduction to Modern Standard Arabic",
+            "prereqs": "",
+            "desc": "An introduction to standard written and formal spoken Arabic for true beginners. Course credit exclusion: AP/ARB 1010 6.00."
+        },
+        {
+            "dept": "arb",
+            "code": "1010",
+            "credit": 6.0,
+            "name": "Introduction to Modern Standard Arabic for Advanced Beginners",
+            "prereqs": "",
+            "desc": "This course is designed for students with minimal previous knowledge of spoken and/or written Arabic and focuses on developing proficiency in reading, writing, listening and speaking the standard Arabic language. By the end of this course, students are expected to be able to read and understand short texts of Arabic and translate them from Arabic into English, and vice versa. \r\nCourse credit exclusions: AP/ARB 1000 6.00. Open to: Native speakers of Arabic dialects with no formal training in the Modern Standard Arabic, and readers of the Qur'an and Arabic script with no formal training in Arabic. Not open to: Speakers of Modern Standard Arabic. Notes: An authorization slip is required; it can be obtained at the Main Office of Department of Languages, Literatures and Linguistics, after the required written placement test."
+        },
+        {
+            "dept": "arb",
+            "code": "2000",
+            "credit": 6.0,
+            "name": "Intermediate Arabic",
+            "prereqs": "arb1000",
+            "desc": "This course focuses on the acquisition of more complex grammatical structures, expanding vocabulary and discourse skills, and on developing competence in a wide range of communicative situations in Arabic. Prerequisite: AP/ARB 1000 6.00 or permission of the department."
+        },
+        {
+            "dept": "arb",
+            "code": "2010",
+            "credit": 6.0,
+            "name": "Intermediate Modern Standard Arabic for Heritage Students",
+            "prereqs": "arb1010",
+            "desc": "Designed for students with knowledge of spoken and/or written Arabic exceeding that of a student who took the Introduction course for beginners. Students in this course will have taken the Introduction for Advanced Beginners or will have equivalent knowledge of the language. This course focuses on developing proficiency in reading, writing, listening and speaking the standard Arabic language. By its end, students are expected to be able to read and understand long texts, from a variety of genres of Arabic and translate them from Arabic into English, and vice versa. \r\nPrerequisites: AP/ARB 1010 6.00 or equivalent competence. Course credit exclusion: AP/ARB 2000 6.00. Open to: Native speakers of Arabic dialects with no formal training in the Modern Standard Arabic, and readers of the Qur'an and Arabic script with no formal training in Arabic. Notes: An authorization slip is required; it can be obtained at the Main Office of DLLL, after the required written placement test."
+        },
+        {
+            "dept": "arb",
+            "code": "2700",
+            "credit": 6.0,
+            "name": "Introduction to Arab Culture",
+            "prereqs": "",
+            "desc": "Introduces the diversity of Arab cultures: their values, practices, and cultural products, such as literature, music, Internet and cinema, from the 19th century to present day. No knowledge of Arabic is required. Course credit exclusions: AP/HUMA 2710 6.00."
+        },
+        {
+            "dept": "arb",
+            "code": "3000",
+            "credit": 6.0,
+            "name": "Advanced Standard Arabic",
+            "prereqs": "arb2000",
+            "desc": "This course builds on the listening, speaking, reading and writing skills developed in AP/ARB 2000 6.00. Students study passages from different disciplines, present short dialogues, and lead prepared discussions on different topics. This course also helps students develop translation skills. Prerequisite: AP/ARB 2000 6.00 or permission of the department."
+        }
+    ]
+}

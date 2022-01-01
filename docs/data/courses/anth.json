@@ -1,0 +1,460 @@
+{
+    "courses": [
+        {
+            "dept": "anth",
+            "code": "1140",
+            "credit": 6.0,
+            "name": "What does it mean to be human? Introduction to Sociocultural Anthropology",
+            "prereqs": "",
+            "desc": "This course explores the diversity of human cultures across space and time and addresses the question what it means to be human in contemporary times. Through ethnographic studies from around the world, the course examines issues of race, gender, class, status, and power, among others, and introduces students to anthropology's distinct ways of understanding our fast-changing, multicultural society"
+        },
+        {
+            "dept": "anth",
+            "code": "2020",
+            "credit": 6.0,
+            "name": "Race, Racism &amp; Popular Culture",
+            "prereqs": "",
+            "desc": "This course concentrates on race and racism as a major source of conflict, particularly in Canadian, British\r\nand American societies. The theoretical literature on racism as well as applied models developed to reduce racial conflict will be studied in depth. Course Credit Exclusion: AP/ANTH 3020 6.00"
+        },
+        {
+            "dept": "anth",
+            "code": "2100",
+            "credit": 6.0,
+            "name": "Global Capitalism, Culture, and Conflict",
+            "prereqs": "",
+            "desc": "This course analyzes and critiques the social and cultural foundations of historical and contemporary forms of global capitalism. The curriculum focuses on a critical examination of the social, political, and economic consequences of the production and circulation of global commodities, the rise of consumer capitalism, and the idea of the society of perpetual growth, as well as the resulting patterns of social change that continue to transform cultures worldwide. The rise of various forms of conflict that can accompany these global processes, such as terrorism, religious fundamentalism, xenophobia, racism, and nationalism, will complement our consideration of contemporary issues ranging from immigration, transnational labour mobility, and global flows of technology. Course credit exclusion: AP/ANTH 2100 3.00."
+        },
+        {
+            "dept": "anth",
+            "code": "2110",
+            "credit": 6.0,
+            "name": "Core Concepts in Anthropology",
+            "prereqs": "",
+            "desc": "Critically introduces the history and major traditions of the discipline of Anthropology including fieldwork methods and ethnographic writing. This course further introduces the distinctive contributions of anthropology and provides students with a comprehensive introduction to the core concepts required for upper level anthropology courses. Open to: Anthropology majors/minors."
+        },
+        {
+            "dept": "anth",
+            "code": "2130",
+            "credit": 6.0,
+            "name": "Anthropology Through the Visual: Images of Resistance/Irresistible Images",
+            "prereqs": "",
+            "desc": "This course uses film, video, visual art, photography and social media to explore key concepts in anthropology such as race, ethnicity, nationality, globalization, power, authority, politics, religion, gender, class, sexuality and aesthetics.  Pre-requisites: None.  Co-requisites: None.  Course credit exclusions: None."
+        },
+        {
+            "dept": "anth",
+            "code": "2170",
+            "credit": 6.0,
+            "name": "Sex, Gender and the Body: Cross-Cultural Approaches to the Body, Gender, Sexuality and Kinship ",
+            "prereqs": "",
+            "desc": "Critically examines popular explanations of what is considered natural (and what is not) about sex, gender, emotions and the family. Through a cross-cultural approach, biological models of natural gender roles, as well as sexual and familial relations, are explored and questioned. \r\nCourse credit exclusion: AP/ANTH 2170 3.00. "
+        },
+        {
+            "dept": "anth",
+            "code": "2210",
+            "credit": 6.0,
+            "name": "Advocate and Educate for Change: Applying Anthropology",
+            "prereqs": "",
+            "desc": "This course looks at the development of a publicly engaged anthropology that combines academic and applied anthropology in order to illuminate the larger social issues and problems of our times, encourage broad public conversations about them, and ultimately, affect social change.\nCourse credit exclusions: AP /ANTH 3210 6.00\n\n"
+        },
+        {
+            "dept": "anth",
+            "code": "2220",
+            "credit": 3.0,
+            "name": "From Settler Colonialism to Multiculturalism: An Anthropological Approach ",
+            "prereqs": "",
+            "desc": "This course focuses on the anthropology of settler colonialism and multiculturalism. Through ethnographic texts and visual documentaries, the course examines the relationship between settler colonialism, migration, multiculturalism, and Indigeneity. The course offers an introduction to theories of multiculturalism, co-existence, and nation-making."
+        },
+        {
+            "dept": "anth",
+            "code": "2300",
+            "credit": 3.0,
+            "name": "Intercultural Training Skills",
+            "prereqs": "",
+            "desc": "This course prepares students to negotiate their learning goals in a cross-cultural context while on university exchange.  Topics covered may include culture, participant observation, culture shock, risk &amp; safety, managing intercultural conflict, friendship, travel, politeness, cleanliness, gender &amp; sexuality, gifts, poverty, religion and health."
+        },
+        {
+            "dept": "anth",
+            "code": "2420",
+            "credit": 3.0,
+            "name": "Language and Culture",
+            "prereqs": "",
+            "desc": "This course investigates the relationship between language and culture by exploring analyses of language use in social interaction in both Western and non-Western societies. It investigates the role of language in marking social difference and social change, along dimensions such as gender, ethnicity, class, and religion. It does so by investigating questions about universal versus culture-specific aspects of language structure, language use, and beliefs about language. Drawing on research in linguistic anthropology and sociolinguistics, topics that are investigated include: language acquisition and socialization, language ideology, language and thought, language endangerment, indexicality and performativity. "
+        },
+        {
+            "dept": "anth",
+            "code": "3030",
+            "credit": 3.0,
+            "name": "Discourses Of Colonialism",
+            "prereqs": "",
+            "desc": "Explores the cultural and political significance of colonial discourse in the past and in the present, including an examination of the construction of Euro-American forms of knowledge about other peoples and how these understandings continue to shape global relations of power. Course credit exclusions: AP/ANTH 3030 6.00."
+        },
+        {
+            "dept": "anth",
+            "code": "3040",
+            "credit": 6.0,
+            "name": "The Anthropology of Digital Media and Visual Representation",
+            "prereqs": "",
+            "desc": "This course will look at a wide variety of visual media online, including art, photography, film, and specific digital technologies (such as video games and online museums) to explore the ways in which these shape both the perception of, and the experience of, cultural difference and identity. Of central concern are representations of race, ethnicity, class, gender, and &quot;otherness."
+        },
+        {
+            "dept": "anth",
+            "code": "3110",
+            "credit": 6.0,
+            "name": "Acquiring Research Skills",
+            "prereqs": "anth1110 anth2110",
+            "desc": "This introduction to the experience and practice of research in anthropology focuses on learning qualitative research skills within the context of a project design and implementation. Fieldwork methods, project design, ethics and analysis, as the tools of anthropological research, are explored in this course. Prerequisite: AP/ANTH 1110 6.00 (prior to Fall 2012) or AP/ANTH 2110 6.00 and a minimum of one 2000-level anthropology course."
+        },
+        {
+            "dept": "anth",
+            "code": "3120",
+            "credit": 6.0,
+            "name": "The Anthropology of Tourism",
+            "prereqs": "",
+            "desc": "Explores the sites/sights of tourist practice. Beginning with an historical analysis of tourism in relationship to European colonial expansion, we then consider the cultural significance of contemporary tourism both at home and abroad."
+        },
+        {
+            "dept": "anth",
+            "code": "3190",
+            "credit": 6.0,
+            "name": "Food, Eating, and Nutrition in Cross-cultural Perspective",
+            "prereqs": "",
+            "desc": "Explores the social and cultural basis of human food systems using a cross-cultural approach. Nutritional anthropology, a subfield of medical anthropology, integrates an understanding of human biology with the social and cultural basis of human food systems. We will begin by examining nutrition and the cultural construction of bodily needs, as well as transformations of traditional and indigenous food systems and dietary practices. \nCourse credit exclusions: AP/ANTH 3190 3.00. \n\n"
+        },
+        {
+            "dept": "anth",
+            "code": "3220",
+            "credit": 6.0,
+            "name": "Greed, Globalization and the Gift: The Culture of Capitalism",
+            "prereqs": "",
+            "desc": "Examines capitalist enterprise historically and ethnographically. It focuses upon forms of corporate capitalism; the historic spread of capitalism and the world system; globalization; and the failure of neo-liberal development to deliver economic prosperity."
+        },
+        {
+            "dept": "anth",
+            "code": "3230",
+            "credit": 6.0,
+            "name": "Women, Culture and Society",
+            "prereqs": "",
+            "desc": "Examines the contribution of anthropology to women\u0092s studies, including the relationship between biology and culture, the evolution and learning of sex roles, and the roles and status of women in comparative perspective."
+        },
+        {
+            "dept": "anth",
+            "code": "3270",
+            "credit": 3.0,
+            "name": "The Anthropology of Outer Space",
+            "prereqs": "",
+            "desc": "The Anthropology of Outer Space considers from an anthropological perspective human beings and our concerns beyond Earth, including: human and robotic exploration of the solar system; Mars analogs, simulations, and telepresence; telescope technologies which image the universe; the search for extraterrestrial life (astrobiology and SETI); the private spaceflight revolution; space and the military-industrial complex; and outer space in popular culture."
+        },
+        {
+            "dept": "anth",
+            "code": "3280",
+            "credit": 6.0,
+            "name": "Anthropology and Psychiatry in Global Context",
+            "prereqs": "",
+            "desc": "This course is concerned with furthering the dialogue and mutual engagement between Medical Anthropology and Cultural Psychiatry - in the context of localized communities, multicultural societies, and global networks alike. Applying a pluralized concept of psychiatry, the course will investigate prevalent practices in clinical psychiatry alongside other culturally and historically formulated strategies of coming to terms with locally defined states of mental disorder. It will explore a diversity of modes of experiencing, expressing, recognizing, interpreting, and addressing mental distress, providing participants with a solid theoretical and conceptual basis while, at the same time, exploring a large body of specific empirical case studies. In so doing, the course offers well-contextualized insights into a number of current issues including the pharmaceutical commodification of mental health, the medicalization of difference, personhood and notions of a 'normal' human condition, stigma and idioms of distress, migration and trauma, psychiatric epidemiology and global mental health policy, and symbolic forms of healing. Engaging with ongoing controversies and debates, it encourages new and critical views onto the practical realities and structural challenges of mental disorder and suffering in Canada and beyond.\r\n\r\n\r\n"
+        },
+        {
+            "dept": "anth",
+            "code": "3320",
+            "credit": 6.0,
+            "name": "The Anthropology of Ritual &amp; Religion",
+            "prereqs": "",
+            "desc": "Explores anthropological approaches to the study of religion &amp; ritual in social, cultural and political context, through a variety of ethnographic examples. Topics may include specific examples of major religious traditions of Asia, Africa, and Europe; New Age religious movements; and shamanism and witchcraft. Course credit exclusion: AP/ANTH 3320 3.00 (prior to Fall 2012)."
+        },
+        {
+            "dept": "anth",
+            "code": "3330",
+            "credit": 6.0,
+            "name": "Health &amp; Illness in Cross-Cultural Perspective: Learning and Doing Medical Anthropology ",
+            "prereqs": "",
+            "desc": "This course explores health, illness and medical systems from the viewpoint of social anthropology. It emphasizes medicine and health as culturally significant systems of knowledge and practice. The ways that medical anthropologists apply their knowledge and methods to improve health and social inequalities is a central theme.  "
+        },
+        {
+            "dept": "anth",
+            "code": "3350",
+            "credit": 3.0,
+            "name": "Culture as Performance: The Anthropology of the Arts",
+            "prereqs": "",
+            "desc": "This course covers expressive aspects of culture: ritual, drama, the visual arts, dance and oral literature, in the framework of contemporary anthropological theories. \r\nCourse credit exclusions: AP/ANTH 3350 6.00. \r\n\r\nPRIOR TO FALL 2009: Course credit exclusions: AS/ANTH 3350 3.00 and AS/ANTH 3350 6.00."
+        },
+        {
+            "dept": "anth",
+            "code": "3370",
+            "credit": 3.0,
+            "name": "Power and Violence: The Making of &quot;Modernity&quot;",
+            "prereqs": "",
+            "desc": "Examines the creation and perpetuation of the so called modern world as a dominant socio-cultural system through its increasing proliferation and use of extreme forms of organized violence. It also examines the existence and possibilities of non-violent alternatives. \r\nCourse credit exclusion: AP/ANTH 3370 6.00."
+        },
+        {
+            "dept": "anth",
+            "code": "3380",
+            "credit": 3.0,
+            "name": "The Everyday Politics of Rage: Anthropological Perspectives on Populism",
+            "prereqs": "",
+            "desc": "This course focuses on populism, a concept that has generated a great deal of discussion and debate in media, academic circles and in everyday parlance and conflates widely disparate political and social projects.We use an anthropological lens to investigate the appeal of populism to people who mobilize, vote for, protest and agitate for populist goals."
+        },
+        {
+            "dept": "anth",
+            "code": "3410",
+            "credit": 6.0,
+            "name": "Race, Ethnicity and Nationalism: Us and Them",
+            "prereqs": "",
+            "desc": "Examines the significance and perceptions of race, ethnicity and of nationalism as concepts and as modes of configuring identity and organizing social life cross-culturally."
+        },
+        {
+            "dept": "anth",
+            "code": "3420",
+            "credit": 3.0,
+            "name": "Indigenous Minorities and Human Rights",
+            "prereqs": "",
+            "desc": "This course focuses on how nation states define majorities and minorities, and how such definitions are contested by populations striving for cultural, political and human rights. Questions include: How do people get classified as indigenous or aboriginal? How has globalization enhanced awareness of human rights? Course credit exclusion: AP/ANTH 3420 6.00."
+        },
+        {
+            "dept": "anth",
+            "code": "3440",
+            "credit": 3.0,
+            "name": "Governmentality &amp; Development: Selected Cases",
+            "prereqs": "",
+            "desc": "This course looks at how the Foucauldian concept of &quot;governmental rationality&quot; or governmentality has been applied in development, with an emphasis on charting the unintended consequences of governmental interventions on subject formation (class, race, ethnicity, gender). For example, Indonesia or India may examined as a test case, with emphasis on the colonial and post-colonial transmission of techniques, strategies and programs, and on those who resist them.\r\nCourse credit exclusions: None. "
+        },
+        {
+            "dept": "anth",
+            "code": "3560",
+            "credit": 3.0,
+            "name": "Anthropology of the Senses",
+            "prereqs": "",
+            "desc": "Explores how humans make and understand the world through their senses, the history of the senses in a variety of systems of thought and experience, and the meanings and uses of the senses in a range of contexts. Students critically examine and evaluate particular aspects of the senses as they relate to theories and methods of sociocultural anthropology through lectures, demonstrations and experimentation.\r\nPreviously offered as: AP/ANTH 3560 6.00."
+        },
+        {
+            "dept": "anth",
+            "code": "4010",
+            "credit": 6.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised directed reading course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Note: Directed reading courses require a signed agreement between the student and faculty member, as well as the approval of the undergraduate director."
+        },
+        {
+            "dept": "anth",
+            "code": "4010",
+            "credit": 3.0,
+            "name": "Directed Reading",
+            "prereqs": "",
+            "desc": "A student may take an independent, individually supervised directed reading course, provided that the student and the course meet the requirements as set out by the Faculty of Liberal Arts and Professional Studies and those established by the department. Note: Directed reading courses require a signed agreement between the student and faculty member, as well as the approval of the undergraduate director."
+        },
+        {
+            "dept": "anth",
+            "code": "4110",
+            "credit": 6.0,
+            "name": "Development of Theory in Social Anthropology",
+            "prereqs": "anth1110 anth3110",
+            "desc": "Starting from the major scholars of the last century, the course of anthropology is critically traced through the present century, with the ultimate aim of assessing the contemporary condition of social anthropology. Prerequisites: AP/ANTH 1110 6.00, AP/ANTH 3110 6.00 and a minimum of one 2000-Level anthropology course."
+        },
+        {
+            "dept": "anth",
+            "code": "4130",
+            "credit": 6.0,
+            "name": "The Professional Anthropologist: The Anthropologist as Practitioner",
+            "prereqs": "anth3110",
+            "desc": "Applied Anthropology uses the theory and methods of anthropology in the analysis and solution of practical, legal and policy problems for non-academic clients such as governments, development agencies, NGOs, tribal and ethnic associations, advocacy groups, social-service and educational agencies, and businesses. This course discusses the different set of ethical \r\nconsiderations, research constraints and report formats confronting Applied anthropologists as professionals. The course combines analytical study with a part-time placement in a non-governmental partner agency. \r\nPrerequisites: AP/ANTH 3110 6.00. \r\nNote: This course is open to Anthropology majors/minors only. \r\n"
+        },
+        {
+            "dept": "anth",
+            "code": "4250",
+            "credit": 6.0,
+            "name": "Religious Movements in Global Perspective",
+            "prereqs": "",
+            "desc": "Within a framework of the politics of identity, this course explore the tension between religious and national identities, the character and scope of transnational religious communities, and takes up fundamentalism as one response to developments in cosmopolitan modern societies."
+        },
+        {
+            "dept": "anth",
+            "code": "4270",
+            "credit": 3.0,
+            "name": "Imagined Societies: An Anthropology of Nations Without Boundaries",
+            "prereqs": "",
+            "desc": "Utilizing a selected world wide set of examples, this course explores how minority communities within national boundaries attempt to construct their own national identities. These illustrations underwrite a full discussion of the possibility or impossibility of such minority national identities."
+        },
+        {
+            "dept": "anth",
+            "code": "4330",
+            "credit": 3.0,
+            "name": "Critical Issues in Medical Anthropology",
+            "prereqs": "",
+            "desc": "Comparative perspectives on health, illness and medical systems are studied from the viewpoint of anthropology and related disciplines. Emphasis is placed on understanding the roles of the practitioner and patient in their social and cultural contexts and the importance of applied medical anthropology to the wider community. "
+        },
+        {
+            "dept": "anth",
+            "code": "4340",
+            "credit": 6.0,
+            "name": "Advocacy and Social Movements",
+            "prereqs": "",
+            "desc": "Examines how modern forms of communication have transformed the nature of advocacy and the social construction of knowledge in modern society. Specifically, it examines ways in which cultural norms are modified by the activities of social movements. \nPrerequisite: at least one 6 credit or two 3 credit anthropology courses at 2000 or 3000 level."
+        },
+        {
+            "dept": "anth",
+            "code": "4350",
+            "credit": 3.0,
+            "name": "Perspectives in Visual Anthropology",
+            "prereqs": "",
+            "desc": "Examines how humans produce, receive and use visual media (i.e., photographs, film, etc.) in different societies and cultures, how the visual is differentiated from other forms of expression, and the social and cultural apparatus that support such processes."
+        },
+        {
+            "dept": "anth",
+            "code": "4410",
+            "credit": 3.0,
+            "name": "The Anthropology of Human Rights",
+            "prereqs": "",
+            "desc": "This course surveys anthropology's attempts to confront, analyze, and reframe claims about the nature of human beings implicit in the discourse of human rights."
+        },
+        {
+            "dept": "anth",
+            "code": "4450",
+            "credit": 3.0,
+            "name": "The Anthropology of the City  ",
+            "prereqs": "",
+            "desc": "As a massive assemblage of humans and non-humans, the city poses an interesting set of theoretical and methodological challenges for anthropology. Through a critical reading of ethnographic case studies from Brazil, China, India, and Canada, the course introduces the students to the theoretical concepts and methodological tools used by anthropologists and covers topics such as urban segregation, informality, poverty, immigration or migration, planning, renewal, and dissent."
+        },
+        {
+            "dept": "anth",
+            "code": "4560",
+            "credit": 6.0,
+            "name": "The Anthropology of Science and Technology",
+            "prereqs": "",
+            "desc": "Examines anthropological studies of science and technology to explore the power of scientific facts in contemporary cultures. Considers how facts are produced and stabilized in scientific laboratories, how facts are made to travel, and how we incorporate facts in our daily lives and practices. Key themes include the politics of science in relation to race, gender, identity, and capitalism. \r\nCourse credit exclusion: AP/ANTH 3550 6.00 (prior to Fall 2013), SC/STS 3550 6.00 (prior to Fall 2013)."
+        },
+        {
+            "dept": "anth",
+            "code": "5000",
+            "credit": 6.0,
+            "name": "Graduate Seminar in Ethnographic Research, Practice, and Professionalization ",
+            "prereqs": "",
+            "desc": "Explores 'ethnography' as an anthropological concept and practice. It aims to: 1) examine ethnographic approaches across a range of anthropological fields; 2) explore the ethnographic process from planning to writing to disseminating ethnographic material; and 3) develop proficiencies and professional skills associated with proposal and grant-writing for research projects and the presentation of research."
+        },
+        {
+            "dept": "anth",
+            "code": "5020",
+            "credit": 3.0,
+            "name": "Methods In Social Anthropology         ",
+            "prereqs": "",
+            "desc": "Provides a general overview of research methodology. Its primary focus is on the nature of anthropological field work and the traditional data gathering techniques which flow from our role as participant observers. Lectures and class discussions are supplemented by practical exercises in interviewing, census taking, questionnaire construction and the use of computers. The course examines the multi-faceted role of the field worker in the context of the rapidly changing social reality within which modern anthropological research takes place.\n"
+        },
+        {
+            "dept": "anth",
+            "code": "5030",
+            "credit": 3.0,
+            "name": "Critical Political Ecologies",
+            "prereqs": "",
+            "desc": "Explores how power and knowledge shape intertwined social and ecological relationships, drawing on theoretically-informed ethnographies and other empirical studies, with an emphasis on global south research."
+        },
+        {
+            "dept": "anth",
+            "code": "5040",
+            "credit": 3.0,
+            "name": "Placement Option MA                ",
+            "prereqs": "",
+            "desc": "In certain instances a Candidate for the Masters degree may elect to do an Internship option in order to fulfill course requirements. For example, students specializing in the field of medical anthropology might work in a hospital or psychiatric setting; students concentrating on ethnicity would work with a voluntary association or agency working with immigrants, etc. Prior approval by the Graduate Program Director is required. Final grade to be based on an evaluation by the affiliate institution, communicated in writing to the Graduate Director\n."
+        },
+        {
+            "dept": "anth",
+            "code": "5060",
+            "credit": 3.0,
+            "name": "Classic and Contemporary Theory in Social Anthropology ",
+            "prereqs": "",
+            "desc": "The focus of this course is on contemporary anthropological theory with attention to the  discipline's history and key debates. Examines critical 'turns' in anthropological theory of the late 20th century and tracks their implications for contemporary practice, including reflexivity and experimentation in ethnographic research and writing, as well as feminist, postmodern, postcolonial and decolonial theories. Required course for MA and PhD degrees. "
+        },
+        {
+            "dept": "anth",
+            "code": "5150",
+            "credit": 3.0,
+            "name": "Historical Ethnography and the Anthropology of History",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "anth",
+            "code": "5155",
+            "credit": 3.0,
+            "name": "Anthropology, Art, Aesthetics and Material Culture",
+            "prereqs": "",
+            "desc": " "
+        },
+        {
+            "dept": "anth",
+            "code": "5160",
+            "credit": 3.0,
+            "name": "Fem.Issues In Anth. Hist.&amp; Current Deb ",
+            "prereqs": "",
+            "desc": ": Perceiving Women. This course explores literature in feminist anthropology\nduring the past twenty years. Major theoretical contributions and debates discussed include issues\nthat dominated the field during the 1970's (women in the ethnographic literature; the\npublic/private dichotomy; male dominance; impact of colonialism) as well as current concerns\nregarding feminist methodology, cultural constructions of gender and the female body, and\nwomen's resistance.\n(Same as Women's Studies 6301.03.)\nProfessor Romalis\n"
+        },
+        {
+            "dept": "anth",
+            "code": "5165",
+            "credit": 3.0,
+            "name": "Transnational Sexualities",
+            "prereqs": "",
+            "desc": "This course examines the contemporary articulation and organization of sexual identities and rights in the developing world, and considers how interventions by international agencies, nation-states and advocacy groups have informed/been informed by racial and gender politics, and notions of citizenship."
+        },
+        {
+            "dept": "anth",
+            "code": "5195",
+            "credit": 3.0,
+            "name": "Matters of Nature: Theories and Politics",
+            "prereqs": "",
+            "desc": "This course critically engages with the vast and growing body of work in anthropology, geography and science studies that addresses the discursive and material contours of society-nature relations in historically situated and geographically diverse sites."
+        },
+        {
+            "dept": "anth",
+            "code": "5210",
+            "credit": 3.0,
+            "name": "Independent Directed Reading           ",
+            "prereqs": "",
+            "desc": "Theoretical or Area Focus. Note: In order to fulfill degree course requirements students may register for ONE Independent Directed Reading half-course. The particular theoretical/area topic and Instructor selected must be approved by the Graduate Director.\n\r\n"
+        },
+        {
+            "dept": "anth",
+            "code": "5280",
+            "credit": 3.0,
+            "name": "Bodies and Biotechnologies in Anthropology",
+            "prereqs": "",
+            "desc": "The disciplinary focus of anthropology, and more specifically the anthropology of the body, offers students a critical theoretical perspective and point of departure for the study of the contingency of, and relationship between, bodies and biotechnologies."
+        },
+        {
+            "dept": "anth",
+            "code": "5500",
+            "credit": 3.0,
+            "name": "The Making of Asian Studies: Critical Perspectives",
+            "prereqs": "",
+            "desc": "Offers a historical examination of the multiple, overlapping processes through which Asian identities and regions were constituted. It will also examine new directions in Asian studies in an era of intensified global flows, transnationalism, and the presence of Asian diaspora in Canada and elsewhere."
+        },
+        {
+            "dept": "anth",
+            "code": "6011",
+            "credit": 3.0,
+            "name": "Theoretical Concepts in Ethnographic Inquiry",
+            "prereqs": "",
+            "desc": "A seminar for doctoral students on contemporary and emerging anthropological theories with regard to the contexts of their production and uses. The course critically examines the relationship between anthropological analysis and ethnographic production.\r\nRequired PhD course.\r\n"
+        },
+        {
+            "dept": "anth",
+            "code": "6020",
+            "credit": 3.0,
+            "name": "Advanced Methods In Anthropology       ",
+            "prereqs": "",
+            "desc": "The course deals primarily with traditional field methods used in anthropological field research. It explores the many ramifications of the role of participant observer in small-scale research settings."
+        },
+        {
+            "dept": "anth",
+            "code": "6040",
+            "credit": 3.0,
+            "name": "Placement Option PhD",
+            "prereqs": "",
+            "desc": "In certain instances a Candidate for the Doctoral degree may elect to do an Internship option in order to fulfill course requirements. For example, students specializing in the field of medical anthropology might work in a hospital or psychiatric setting; students concentrating on ethnicity would work with a voluntary association or agency working with immigrants, etc. Prior approval by the Graduate Program Director is required. Final Grade to be based on an evaluation by the affiliate institution, communicated in writing to the Graduate Director.\n"
+        },
+        {
+            "dept": "anth",
+            "code": "6210",
+            "credit": 3.0,
+            "name": "Independent Directed Reading           ",
+            "prereqs": "",
+            "desc": "The topic of an independent directed reading half course and the Instructor selected must have the prior approval of the Graduate Director and the student's Advisory Committee.\n"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "courses": [
+        {
+            "dept": "bchm",
+            "code": "2020",
+            "credit": 3.0,
+            "name": "Biochemistry  ",
+            "prereqs": "",
+            "desc": "A study of the cell biology and biochemistry of biomolecules. Topics include intermediary metabolism related to bioenergetics, including the biology of mitochondria and chloroplasts, protein structure and function, nucleic acid replication, gene expression, chromosome organization and recombinant DNA technology.  Not open to Chemistry majors. Prerequisites: (1) Both SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00, or SC/ISCI 1110 6.00, or both SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00; and (2) both SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00, or SC/CHEM 1000 6.00, or both SC/ISCI 1201 3.00 and SC/ISCI 1202 3.00, or SC/ISCI 1210 6.00.  Course credit exclusion:  SC/CHEM 2050 4.00. "
+        },
+        {
+            "dept": "bchm",
+            "code": "2021",
+            "credit": 3.0,
+            "name": "Cell Biology",
+            "prereqs": "biol1000 biol1001 chem1000 chem1001 isci1110 isci1210 isci1101 isci1102 isci1201 isci1202",
+            "desc": "A study of cell biology and aspects of related biochemistry. Topics include membranes, the endomembrane system, the cytoskeleton, cellular motility, the extracellular matrix, intercellular communication and intracellular regulation. Prerequisites: One of the following: (1) SC/BIOL 1000 3.00 and SC/BIOL 1001 3.00 and SC/CHEM 1000 3.00 and SC/CHEM 1001 3.00 (2) SC/ISCI 1110 6.00 and SC/ISCI 1210 6.00 (3) SC/ISCI 1101 3.00 and SC/ISCI 1102 3.00 and SC/ISCI 1201 3.00 and SC/ISCI 1202 3.00."
+        },
+        {
+            "dept": "bchm",
+            "code": "3010",
+            "credit": 3.0,
+            "name": "Advanced Biochemistry",
+            "prereqs": "biol2020 bchm2020 chem2050 chem2020 chem2021",
+            "desc": "A detailed discussion of enzyme structure and function. The chemistry and metabolism of biological molecules. Metabolic regulation at the level of enzyme activity. Knowledge of general concepts of metabolism and of basic aspects of enzyme structure and function is assumed. Prerequisites: SC/BIOL 2020 3.00 or SC/BCHM 2020 3.00 or SC/CHEM 2050 4.00; SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00."
+        },
+        {
+            "dept": "bchm",
+            "code": "3051",
+            "credit": 3.0,
+            "name": "Macromolecules of Biochemical Interest",
+            "prereqs": "chem2020 chem2021 chem2050 bchm2020 biol2020",
+            "desc": "A discussion of the structures and functions of naturally occurring macromolecules, including nucleic acids, proteins, polysaccharides and related macromolecular conjugates. Prerequisites: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00 and either SC/CHEM 2050 4.00 or SC/BCHM 2020 3.00 or SC/BIOL 2020 3.00."
+        },
+        {
+            "dept": "bchm",
+            "code": "3110",
+            "credit": 3.0,
+            "name": "Molecular Biology I: Nucleic Acid Metabolism",
+            "prereqs": "biol2020 biol2021 biol2040 biol2070",
+            "desc": "Discussion of the metabolism of DNA and RNA, including the physical-chemical properties of nucleic acids; DNA-protein interactions; chromosome structure; nucleic acid replication, repair and recombination; recombinant DNA technology. Prerequisites: SC/BIOL 2020 3.00, SC/BIOL 2021 3.00, SC/BIOL 2040 3.00, and SC/BIOL 2070 3.00."
+        },
+        {
+            "dept": "bchm",
+            "code": "3130",
+            "credit": 3.0,
+            "name": "Molecular Biology II: Regulation of Gene Expression",
+            "prereqs": "biol3110 bchm3110",
+            "desc": "Gene structure and function. Mechanisms of gene expression in prokaryotes and eukaryotes. Storage and retrieval of genetic information; transcription, translation and their control. Prerequisite: SC/BIOL 3110 3.00 or SC/BCHM 3110 3.00."
+        },
+        {
+            "dept": "bchm",
+            "code": "3140",
+            "credit": 4.0,
+            "name": "Advanced Biochemistry and Molecular Genetics Laboratory",
+            "prereqs": "",
+            "desc": "Research techniques used in biochemistry and molecular biology, including recombinant DNA technology, are illustrated. Purification of a restriction endonuclease; isolation and mapping of bacterial plasmids, bacteriophage and recombinant molecules; polymerase chain reaction (PCR); nucleic acid hybridization. Prerequisite or corequisite: SC/BIOL 3110 3.00 or SC/BCHM 3110 3.00. Strongly recommended prerequisite or corequisite: SC/BIOL 3130 3.00 or SC/BCHM 3130 3.00."
+        },
+        {
+            "dept": "bchm",
+            "code": "3901",
+            "credit": 0.0,
+            "name": "Biochemistry Internship Work Term ",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer. Enrollment is by permission only. \n \nPrerequisites: Criteria for permission include:  \n1. A cumulative GPA and a major GPA of at least 7.5;  \n2. Completion of a minimum of 84 credits overall, including a minimum of 40 credits in BCHM, BIOL and CHEM courses;\n 3. Enrolled full-time in the Honours or Specialized Honours program in Biochemistry prior to beginning the internship;  \n4. Student has not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  \n5. Upon enrolling in this course student has a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and must return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n \nNote: This is a pass/fail course, which does not count for degree credit. Registration in BCHM 3901/2/3/4 0.00 provides a record on the transcript for each work term"
+        },
+        {
+            "dept": "bchm",
+            "code": "3902",
+            "credit": 0.0,
+            "name": "Biochemistry Internship Work Term ",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer. Enrollment is by permission only. \n \nPrerequisites: Criteria for permission include:  \n1. A cumulative GPA and a major GPA of at least 7.5;  \n2. Completion of a minimum of 84 credits overall, including a minimum of 40 credits in BCHM, BIOL and CHEM courses;\n 3. Enrolled full-time in the Honours or Specialized Honours program in Biochemistry prior to beginning the internship;  \n4. Student has not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  \n5. Upon enrolling in this course student has a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and must return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n \nNote: This is a pass/fail course, which does not count for degree credit. Registration in BCHM 3901/2/3/4 0.00 provides a record on the transcript for each work term"
+        },
+        {
+            "dept": "bchm",
+            "code": "3903",
+            "credit": 0.0,
+            "name": "Biochemistry Internship Work Term ",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer. Enrollment is by permission only. \n \nPrerequisites: Criteria for permission include:  \n1. A cumulative GPA and a major GPA of at least 7.5;  \n2. Completion of a minimum of 84 credits overall, including a minimum of 40 credits in BCHM, BIOL and CHEM courses;\n 3. Enrolled full-time in the Honours or Specialized Honours program in Biochemistry prior to beginning the internship;  \n4. Student has not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  \n5. Upon enrolling in this course student has a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and must return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n \nNote: This is a pass/fail course, which does not count for degree credit. Registration in BCHM 3901/2/3/4 0.00 provides a record on the transcript for each work term"
+        },
+        {
+            "dept": "bchm",
+            "code": "3904",
+            "credit": 0.0,
+            "name": "Biochemistry Internship Work Term ",
+            "prereqs": "",
+            "desc": "Qualified Honours or Specialized Honours students gain relevant work experience as an integrated complement to their academic studies, reflected in the requirements of a learning agreement and work term report. Students are required to register in this course for each four month work term, with the maximum number of work term courses being four (i.e. 16 months). Students in this course are assigned a Faculty Supervisor/Committee. During the course, students are expected to work at least 480 hours for the employer. Enrollment is by permission only. \n \nPrerequisites: Criteria for permission include:  \n1. A cumulative GPA and a major GPA of at least 7.5;  \n2. Completion of a minimum of 84 credits overall, including a minimum of 40 credits in BCHM, BIOL and CHEM courses;\n 3. Enrolled full-time in the Honours or Specialized Honours program in Biochemistry prior to beginning the internship;  \n4. Student has not been absent for more than two consecutive years as a full-time student from their Honours or Specialized Honours degree studies;  \n5. Upon enrolling in this course student has a minimum of 9 credits remaining toward their Honours or Specialized Honours degree and must return as a full-time student for at least one academic term to complete their degree after completion of their final work term.  \n \nNote: This is a pass/fail course, which does not count for degree credit. Registration in BCHM 3901/2/3/4 0.00 provides a record on the transcript for each work term"
+        },
+        {
+            "dept": "bchm",
+            "code": "4000",
+            "credit": 8.0,
+            "name": "Biochemistry Research Project",
+            "prereqs": "",
+            "desc": "An independent research project, supervised by a faculty member specializing in Biochemistry. Evaluation is based on practical performance, an oral presentation and a written thesis. May be carried out in one term or two consecutive terms. At least 288 hours of work on the project are required. Detailed guidelines are provided in the Biochemistry Handbook. \nOnly open to Honours Biochemistry students in the final year of study, or by permission of the program. Course credit exclusion: SC/CHEM 4000 8.00."
+        },
+        {
+            "dept": "bchm",
+            "code": "4050",
+            "credit": 3.0,
+            "name": "Bioanalytical Chemistry",
+            "prereqs": "biol2020 bchm2020 biol2021 bchm2021 chem2020 chem2021",
+            "desc": "This course describes modern methods of bioanalytical chemistry in their application to the analysis of biological polymers: proteins, nucleic acids, carbohydrates and lipids. Analytical aspects of genomics and proteomics are considered. Prerequisites: SC/BIOL 2020 3.00 or SC/BCHM 2020 3.00 or SC/ CHEM 2050 4.00;  SC/BIOL 2021 3.00 or SC/BCHM 2021 3.00; SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00."
+        },
+        {
+            "dept": "bchm",
+            "code": "4051",
+            "credit": 3.0,
+            "name": "Biological Chemistry",
+            "prereqs": "chem2020 chem2021 bchm2020 biol2020 chem2050 bchm2020 biol2020 chem2030",
+            "desc": "Bio-organic and bio-inorganic topics: active sites in enzymes and metalloproteins, coenzymes; abiotic models; aromatic natural products, terpenoids and some alkaloid classes. Prerequisites: SC/CHEM 2020 6.00 or SC/CHEM 2021 3.00 and either SC/BCHM 2020 3.00 or SC/BIOL 2020 3.00 or SC/CHEM 2050 4.00 or SC/BCHM 2020 4.00 or SC/BIOL 2020 4.00; SC/CHEM 2030 3.00 is strongly recommended."
+        },
+        {
+            "dept": "bchm",
+            "code": "4290",
+            "credit": 4.0,
+            "name": "Biotechnology",
+            "prereqs": "biol3110 bchm3110",
+            "desc": "Covers some of the methods currently in use in biotechnology research in industry and academia. Emphasis is placed on methods for transforming eukaryotes with marker genes. Advanced methods used in molecular biology are also covered. Prerequisite: SC/BIOL 3110 3.00 or SC/BCHM 3110 3.00."
+        }
+    ]
+}

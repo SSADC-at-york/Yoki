@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "adlw",
+            "code": "6572",
+            "credit": 3.0,
+            "name": "Public Inquiries",
+            "prereqs": "",
+            "desc": "This course examines the history, purpose and value of public inquiries as an instrument for investigating concerns relating to systemic and institutional misconduct. Constitutional issues, proposals for reform, and alternatives to public inquiries are considered, as well as a comparison between Canadian public inquiries and processes in other jurisdictions."
+        },
+        {
+            "dept": "adlw",
+            "code": "6701",
+            "credit": 3.0,
+            "name": "Selected Topics in Administrative Law",
+            "prereqs": "",
+            "desc": "This course explores in greater detail important issues and debates in administrative law.  A new topic is explored in detail in each offering. The course is taught by a visiting expert scholar and/or practitioner in that area."
+        },
+        {
+            "dept": "adlw",
+            "code": "6761",
+            "credit": 3.0,
+            "name": "Some Theoretical Perspectives on Public Law &amp; Administration",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "adlw",
+            "code": "6765",
+            "credit": 3.0,
+            "name": "Administrative Law Remedies",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "adlw",
+            "code": "6766",
+            "credit": 3.0,
+            "name": "The Law of Police Oversight",
+            "prereqs": "",
+            "desc": "This course looks at two unsettled questions: who should \u0093police the police\u0094 and how should police accountability bodies be modernized in Ontario? In reviewing these issues this course reviews academic commentaries; enabling statutes of Ontario\u0092s three police oversight\r\nbodies; administrative law principles that guide decision making processes; and emerging case law in the police discipline sphere."
+        }
+    ]
+}

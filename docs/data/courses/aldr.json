@@ -1,0 +1,44 @@
+{
+    "courses": [
+        {
+            "dept": "aldr",
+            "code": "6300",
+            "credit": 6.0,
+            "name": "Introduction to Dispute Resolution",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "aldr",
+            "code": "6301",
+            "credit": 6.0,
+            "name": "The Theory &amp; Practice Of ADR       ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "aldr",
+            "code": "6303",
+            "credit": 6.0,
+            "name": "Dispute Resolution in the Digital Age",
+            "prereqs": "",
+            "desc": "This course introduces participants to the evolving field of online dispute resolution (ODR) and dispute resolution in the digital age. "
+        },
+        {
+            "dept": "aldr",
+            "code": "6306",
+            "credit": 6.0,
+            "name": "Dispute Analysis &amp; Process Design      ",
+            "prereqs": "",
+            "desc": "N/A"
+        },
+        {
+            "dept": "aldr",
+            "code": "6309",
+            "credit": 6.0,
+            "name": "Advanced Conflict Resolution Workshop",
+            "prereqs": "",
+            "desc": "This course examines ways of addressing disputes and conflict in complex settings, through multiple lenses and approaches."
+        }
+    ]
+}

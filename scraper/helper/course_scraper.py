@@ -242,16 +242,18 @@ class CourseScraper:
 
         # in a loop, scrape all courses in each subject
         for subject in current_attributes["subjects"]:
-            # USING THREADS TO SPEED UP THE PROCESS
+            print("Starting thread for subject: " + subject[1])
             thread = threading.Thread(target=self.scrape_subject, args=(subject,))
             thread.start()
+            # waiting for a bit to not overload the server (this is wayyy faster then before)
+            time.sleep(2)
 
 
 def main():
     '''
     TODO: Migrate to pytest
     '''
-    course_scraper = CourseScraper(exportdir="../docs/data/courses")
+    course_scraper = CourseScraper(exportdir="../../docs/data/courses")
     start = time.time()
     course_scraper.start_full_scrape()
     end = time.time()

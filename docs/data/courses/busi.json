@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "busi",
+            "code": "4000",
+            "credit": 3.0,
+            "name": "Teaching Business Studies in the Intermediate-Senior Divisions - A",
+            "prereqs": "",
+            "desc": "This course begins to prepare students to be qualified teachers of Business Studies in Ontario classrooms. It allows students to examine the theories, philosophies, knowledge, policies and practices specific to teaching Business Studies in the intermediate and senior grades.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        },
+        {
+            "dept": "busi",
+            "code": "4001",
+            "credit": 3.0,
+            "name": "Teaching Business Studies in the Intermediate-Senior Divisions \u0096 B",
+            "prereqs": "",
+            "desc": "This course continues to prepare students to be qualified teachers of Business Studies in Ontario classrooms. It develops students' expertise in the theories, philosophies, knowledge, policies and practices specific to teaching Business Studies areas in order to further develop students' expertise for teaching this subject. ED/BUSI 4000 (Part A) is a prerequisite for this course.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
+        }
+    ]
+}
