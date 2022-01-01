@@ -14,7 +14,7 @@ Use Yorku official api, using endpoints they provide BUT THE ISSUE WAS  Yorku do
 ---
 
 ### Who can use it? ✅
-Everyone.
+Everyone. We welcome new contributions to our community.
 
 ---
 
