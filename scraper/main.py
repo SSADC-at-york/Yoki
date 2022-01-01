@@ -3,7 +3,7 @@ Main file which runs the program.
 """
 
 import json
-from helper.scraper import Extractor
+from helper.dine_scraper import Extractor
 
 
 extractor = Extractor()
