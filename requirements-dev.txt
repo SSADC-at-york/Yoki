@@ -1,0 +1,5 @@
+pylint
+pytest
+bs4
+requests
+regex
