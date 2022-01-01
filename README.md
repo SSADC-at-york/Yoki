@@ -1,5 +1,6 @@
 
 # Yorku REST api *for all things York Univesity*
+[![pytest](https://github.com/SSADC-at-york/Yoki/actions/workflows/pytest.yml/badge.svg)](https://github.com/SSADC-at-york/Yoki/actions/workflows/pytest.yml)
 
 ### The problem ❓
 
