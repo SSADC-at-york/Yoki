@@ -86,39 +86,4 @@ class Utils:
             shop_address = shop_address[0].replace(
                 '(', '').replace(')', '').replace(' on map', '').strip()
             return shop_address
-
         return None
-
-
-def debug():
-    util = Utils()
-
-    example_hour1 = "We're currently open.Today's Hours: 8:00 am \u2013 9:00 pm"
-    example_hour2 = "We're currently closed."
-
-    example_address1 = "William Small Centre (Building 15 on map)"
-    example_address2 = "York Lanes (Building 24 on map)"
-
-    print("="*10)
-    print("Running Debug")
-    print("-"*10)
-    print("Running on: ", example_hour1)
-    print(util.extract_time(example_hour1))
-    print("-"*10)
-
-    print("Running on: ", example_hour2)
-    print(util.extract_time(example_hour2) == None)
-    print("-"*10)
-
-    print("Running on: ", example_address1)
-    print(util.extract_shop_name(example_address1))
-    print(util.extract_shop_address(example_address1))
-    print("-"*10)
-
-    print("Running on: ", example_address2)
-    print(util.extract_shop_name(example_address2))
-    print(util.extract_shop_address(example_address2))
-    print("-"*10)
-
-    print("Debug Done")
-    print("="*10)

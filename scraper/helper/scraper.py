@@ -19,10 +19,16 @@ else:
 
 
 class Extractor:
+    """
+    Extracts the dining directory and returns a dictionary containing the data
+    """
     def __init__(self):
         self.current_error = None
 
     def dining_dir(self) -> List:
+        """
+        Returns a list of dictionaries containing the dining directory
+        """
         json_data = {
             "last_updated": None,
             "data": []
