@@ -7,6 +7,8 @@ name = "pypi"
 bs4 = "*"
 requests = "*"
 regex = "*"
+pylint = "*"
+pytest = "*"
 
 [dev-packages]
 pylint = "*"

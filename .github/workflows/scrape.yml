@@ -1,0 +1,29 @@
+name: Scraper
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # runs every Sunday
+    - cron: "0 0 * * 0"
+
+jobs:
+  course_scraper: 
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+      - name: Install pip dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Run course scraper
+        run: |
+          python scraper/helper/course_scraper.py
+      - name: Commit to generated-database branch
+        run: |
+          git checkout -b generated-database
+          git add docs/data/courses
+          git commit -m "Generated database - $(date +'%Y-%m-%d')"
+          git push origin generated-database

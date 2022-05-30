@@ -4,11 +4,11 @@ Data from the response, and returns it as a dictionary.
 """
 
 import datetime
+import sys
 from typing import List
 
 import bs4
 import requests
-import sys
 
 if __name__ == "__main__":
     import utils
@@ -22,6 +22,7 @@ class Extractor:
     """
     Extracts the dining directory and returns a dictionary containing the data
     """
+
     def __init__(self):
         self.current_error = None
 

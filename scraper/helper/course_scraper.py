@@ -1,9 +1,11 @@
-import requests
-import re
 import json
 import os
-import time
+import re
 import threading
+import time
+
+import requests
+
 
 class CourseScraper:
 
@@ -59,7 +61,8 @@ class CourseScraper:
         form_wosid = found_result.group(1)
         form_wosid = form_wosid[:22]
 
-        return {"form_url": form_url, "sessions": sessions, "subjects": subjects, "wosid": form_wosid}
+        return {"form_url": form_url, "sessions": sessions,
+                "subjects": subjects, "wosid": form_wosid}
 
     def get_list_page(self, faculty_page_attrs, subject, session=0):
         '''
@@ -84,8 +87,8 @@ class CourseScraper:
 
         html_tag_format = \
             '<TR bgcolor="#[0-9A-Fa-f]+">[\n\t ]+<TD WIDTH=16%>[A-Z]+/([A-Z]+) +([0-9][0-9][0-9][0-9][a-zA-Z]?) +([0-9].[0-9][0-9])</TD>' + \
-            '[\n\t ]+<TD WIDTH=24%> *([^\<\>]+) *</TD>' + \
-            '[\n\t ]+<TD WIDTH=30%><a href="(/Apps/WebObjects/cdm.woa/\w+/\w+/\w+/[0-9.]+)">[^\<\>]+</a></TD>' + \
+            '[\n\t ]+<TD WIDTH=24%> *([^\\<\\>]+) *</TD>' + \
+            '[\n\t ]+<TD WIDTH=30%><a href="(/Apps/WebObjects/cdm.woa/\\w+/\\w+/\\w+/[0-9.]+)">[^\\<\\>]+</a></TD>' + \
             '[\n\t ]+<TD WIDTH=30%></TD>[\n\t ]+</TR>'
 
         found_result = re.findall(html_tag_format, site_html)
@@ -98,8 +101,8 @@ class CourseScraper:
 
         desc_tag_format = r'<[pP] class *= *"bold">Course Description:</[pP]>[\n\t ]*<[pP]>([^\<\>]+)</[pP]>'
         found_result = re.search(desc_tag_format, site_html)
-        desc_scraped = found_result.group(1)
-        return desc_scraped
+        if found_result:
+            return found_result.group(1)
 
     def get_prereq_from_desc(self, desc, current_course):
         '''
@@ -113,13 +116,15 @@ class CourseScraper:
                          'may not be', 'may be taken', 'ncr', 'corequisite']
         stop_ind = len(desc)
 
-        # we also want to stop at the first occurence of these stop keywords which signify a list of other contexts
+        # we also want to stop at the first occurence of these stop keywords
+        # which signify a list of other contexts
         for keyword in stop_keywords:
             ind = desc.find(keyword)
             if ind < stop_ind and ind >= 0:
                 stop_ind = ind
 
-        # we want to find course codes in the paragraph, they will be of this format
+        # we want to find course codes in the paragraph, they will be of this
+        # format
         course_code_format = r'[a-z]*/*([a-z]+) *([0-9][0-9][0-9][0-9][a-zA-Z]?) +[0-9].[0-9]+'
 
         # extract parts where the prerequisite items are in
@@ -140,11 +145,13 @@ class CourseScraper:
         pre_requirements = []
 
         for result in found_result:
-            if int(result[1][0]) <= level and current_course[1] != result[1] and len(result[0]) >= 2:
+            if int(result[1][0]) <= level and current_course[1] != result[1] and len(
+                    result[0]) >= 2:
                 pre_requirements.append(result)
 
         # now we put the courses together as 1 string
-        # concatenate each course into 1 str first i.e. ('eecs', '1012') -> 'eecs1012'
+        # concatenate each course into 1 str first i.e. ('eecs', '1012') ->
+        # 'eecs1012'
         prereqs = [requirements[0] + requirements[1]
                    for requirements in pre_requirements]
 
@@ -175,7 +182,7 @@ class CourseScraper:
             course_page = requests.get(course_page_url)
 
             # scrape the description from the page
-            desc = self.get_desc_from_course(course_page.text)
+            desc = self.get_desc_from_course(course_page.text) or ''
 
             # scrape the prerequisites too
             prereqs = self.get_prereq_from_desc(desc, course)
@@ -185,9 +192,9 @@ class CourseScraper:
                 "dept": course[0].lower(),
                 "code": course[1],
                 "credit": float(course[2]),
-                "name": course[3],
+                "name": course[3].strip(),
                 "prereqs": prereqs,
-                "desc": desc
+                "desc": desc.strip(),
             }
             courses_info.append(res)
 
@@ -195,32 +202,33 @@ class CourseScraper:
 
     def scrape_subject(self, subject):
 
-            # hotfix to anti-ddos: create new session
-            site = self.get_course_root_site()
-            by_faculty_url = self.get_search_by_faculty_url(site)
-            by_faculty_page = requests.get(self.base_url + by_faculty_url).text
-            new_sess_attributes = self.get_links_from_by_faculty_page(
-                by_faculty_page)
+        # hotfix to anti-ddos: create new session
+        site = self.get_course_root_site()
+        by_faculty_url = self.get_search_by_faculty_url(site)
+        by_faculty_page = requests.get(self.base_url + by_faculty_url).text
+        new_sess_attributes = self.get_links_from_by_faculty_page(
+            by_faculty_page)
 
-            # the subject's number in the current session's html form, and its 2-4 letter code
-            subject_num = subject[0]
-            subject_code = subject[1].lower()
+        # the subject's number in the current session's html form, and its 2-4
+        # letter code
+        subject_num = subject[0]
+        subject_code = subject[1].lower()
 
-            # for each subject, call the scrape function to get its courses
-            subject_courses = self.scrape_courses_from_dept(
-                new_sess_attributes, subject_num
-            )
-            num_courses = len(subject_courses)
+        # for each subject, call the scrape function to get its courses
+        subject_courses = self.scrape_courses_from_dept(
+            new_sess_attributes, subject_num
+        )
+        num_courses = len(subject_courses)
 
-            jobj = {"courses": subject_courses}
+        jobj = {"courses": subject_courses}
 
-            # create file if it doesn't exist
-            if not os.path.exists(self.export_dir):
-                os.makedirs(self.export_dir)
+        # create file if it doesn't exist
+        if not os.path.exists(self.export_dir):
+            os.makedirs(self.export_dir)
 
-            with open(os.path.join(self.export_dir, subject_code + ".json"), 'w', encoding="utf-8") as outfile:
-                json.dump(jobj, outfile, indent=4)
-            print(f"Scraped {num_courses} in dept {subject_code}")
+        with open(os.path.join(self.export_dir, subject_code + ".json"), 'w', encoding="utf-8") as outfile:
+            json.dump(jobj, outfile, indent=4)
+        print(f"Scraped {num_courses} in dept {subject_code}")
 
     def start_full_scrape(self):
         '''
@@ -243,10 +251,11 @@ class CourseScraper:
         # in a loop, scrape all courses in each subject
         for subject in current_attributes["subjects"]:
             print("Starting thread for subject: " + subject[1])
-            thread = threading.Thread(target=self.scrape_subject, args=(subject,))
+            thread = threading.Thread(
+                target=self.scrape_subject, args=(subject,))
             thread.start()
             # waiting for a bit to not overload the server (this is wayyy faster then before)
-            # if you have slow internet, you can increase this to 3-5 seconds 
+            # if you have slow internet, you can increase this to 3-5 seconds
             time.sleep(1)
 
 
@@ -256,7 +265,6 @@ def main():
     '''
     course_scraper = CourseScraper(exportdir="../../docs/data/courses")
     course_scraper.start_full_scrape()
-
 
 
 if __name__ == '__main__':
