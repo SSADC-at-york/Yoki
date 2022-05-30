@@ -2,8 +2,9 @@
 Utility file containing helper functions, error handling, etc.
 """
 
-import regex as re
 import datetime
+
+import regex as re
 
 
 class Error(Exception):
@@ -58,7 +59,7 @@ class Utils:
                 return [
                     self.extract_time_from_word(hours[0]),
                     self.extract_time_from_word(hours[1])
-                    ]
+                ]
             raise TimeExtractError(
                 "Couldn't extract the passed time obj is bad", hours)
         raise TimeExtractError("Couldn't extract hours from the sentence")

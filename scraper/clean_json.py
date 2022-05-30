@@ -4,18 +4,19 @@ import re
 
 all_data = []
 
+
 def seperate_string_num(string):
-        # add space between dept and code
-        # example
-        #  hreq1010 -> hreq 1010
-        string = re.sub(r'([a-zA-Z]{3})([0-9]{3})', r'\1 \2', string)
-        # constant case for name CAPITAL
-        name = string.split(' ')[0]
-        name = name.upper()
-        code = string.split(' ')[-1].lower()
-        if name == code:
-            return name
-        return name + ' ' + code
+    # add space between dept and code
+    # example
+    #  hreq1010 -> hreq 1010
+    string = re.sub(r'([a-zA-Z]{3})([0-9]{3})', r'\1 \2', string)
+    # constant case for name CAPITAL
+    name = string.split(' ')[0]
+    name = name.upper()
+    code = string.split(' ')[-1].lower()
+    if name == code:
+        return name
+    return name + ' ' + code
 
 
 def clean_text(string):
@@ -33,7 +34,8 @@ def clean_text(string):
 
     return string
 
-# go through all .json files in courses raw json folder 
+
+# go through all .json files in courses raw json folder
 for file in os.listdir("courses_raw_json"):
     departments = []
     # deparments is a list dict in the file
@@ -98,12 +100,12 @@ for file in os.listdir("courses_raw_json"):
                     desc = desc.replace("  ", " ")
                     desc = desc.replace("   ", " ")
                 course = {
-                        "code": code,
-                        "name": name,
-                        "credit": credit,
-                        "prereqs": new_prereqs,
-                        "desc": desc
-                    }
+                    "code": code,
+                    "name": name,
+                    "credit": credit,
+                    "prereqs": new_prereqs,
+                    "desc": desc
+                }
                 if course not in departments:
                     departments.append(
                         course
