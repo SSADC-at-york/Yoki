@@ -3,8 +3,8 @@ Main file which runs the program.
 """
 
 import json
-from helper.dine_scraper import Extractor
 
+from helper.dine_scraper import Extractor
 
 extractor = Extractor()
 dining = extractor.dining_dir()
