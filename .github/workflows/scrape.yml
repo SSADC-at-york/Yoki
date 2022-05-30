@@ -21,6 +21,10 @@ jobs:
       - name: Run course scraper
         run: |
           python scraper/helper/course_scraper.py
+      - name: Set Git Credentials
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
       - name: Commit to generated-database branch
         run: |
           git checkout -b generated-database
