@@ -21,6 +21,10 @@ jobs:
       - name: Run course scraper
         run: |
           python scraper/helper/course_scraper.py
+      - uses: actions/upload-artifact@v3
+        with:
+          name: course-data
+          path: docs/data/courses
       - name: Set Git Credentials
         run: |
           git config --global user.name 'github-actions[bot]'
