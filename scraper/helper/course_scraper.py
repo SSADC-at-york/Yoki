@@ -98,8 +98,8 @@ class CourseScraper:
 
         desc_tag_format = r'<[pP] class *= *"bold">Course Description:</[pP]>[\n\t ]*<[pP]>([^\<\>]+)</[pP]>'
         found_result = re.search(desc_tag_format, site_html)
-        desc_scraped = found_result.group(1)
-        return desc_scraped
+        if found_result:
+            return found_result.group(1)
 
     def get_prereq_from_desc(self, desc, current_course):
         '''
@@ -175,7 +175,7 @@ class CourseScraper:
             course_page = requests.get(course_page_url)
 
             # scrape the description from the page
-            desc = self.get_desc_from_course(course_page.text)
+            desc = self.get_desc_from_course(course_page.text) or ''
 
             # scrape the prerequisites too
             prereqs = self.get_prereq_from_desc(desc, course)
@@ -185,9 +185,9 @@ class CourseScraper:
                 "dept": course[0].lower(),
                 "code": course[1],
                 "credit": float(course[2]),
-                "name": course[3],
+                "name": course[3].strip(),
                 "prereqs": prereqs,
-                "desc": desc
+                "desc": desc.strip(),
             }
             courses_info.append(res)
 
