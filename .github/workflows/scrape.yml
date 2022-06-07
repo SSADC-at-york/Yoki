@@ -31,6 +31,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
       - name: Commit to generated-database branch
         run: |
+          git status
           git checkout -b generated-database
           git add docs/data/courses
           git commit -m "Generated database - $(date +'%Y-%m-%d')"
