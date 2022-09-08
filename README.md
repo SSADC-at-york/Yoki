@@ -1,5 +1,5 @@
 
-# Yorku REST api *for all things York Univesity*
+# Yorku REST api *for all things York University*
 [![pytest](https://github.com/SSADC-at-york/Yoki/actions/workflows/pytest.yml/badge.svg)](https://github.com/SSADC-at-york/Yoki/actions/workflows/pytest.yml) [![pylint](https://github.com/SSADC-at-york/Yoki/actions/workflows/pylint.yml/badge.svg?branch=Aayush9029-patch-1)](https://github.com/SSADC-at-york/Yoki/actions/workflows/pylint.yml)
 
 ---
@@ -90,7 +90,10 @@ Use the pre-cached json files that's in [docs/data/courses](https://github.com/S
 
 ### Other York University APIs
 
-Competing York University APIs, made by other students, include:
+Some other York University APIs, made by other students, include:
 
-*  https://yorkapi.isaackogan.com/ by @isaackogan
+*  https://github.com/Aayush9029/YorkuPublic/branches
+*  https://yorkapi.isaackogan.com/ by [@isaackogan](https://github.com/isaackogan)
+*  https://github.com/A-Chidalu/YU-Developer-API
+*  https://github.com/jackehuynh/EasyYU-API
 *  https://github.com/mlisbit/openYorkU-API
