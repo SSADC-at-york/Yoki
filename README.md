@@ -12,7 +12,7 @@ I wanted a yorku API that I could use to automate tasks, navigate efficiently, f
 ---
 
 ### 💡 The solution 
-Use Yorku official api, using endpoints they provide BUT THE ISSUE WAS  Yorku doesn't have an api, so I ended up creating my own.
+Use Yorku official api, using endpoints they provide. But the issue was that Yorku doesn't have an api, so I ended up creating my own.
 
 ---
 
@@ -75,8 +75,8 @@ _Example_
         },
 ```
 
-####  ⚠️ NOTE:  DO NOT RUN course_scraper.py a lot it sends a lot of multithreaded request
-Use the pre-cached jsons files that's in [docs/data/courses](https://github.com/SSADC-at-york/Yoki/tree/main/docs/data/courses)
+#### ⚠️ NOTE: DO NOT RUN course_scraper.py a lot. It sends a lot of multithreaded requests.
+Use the pre-cached json files that's in [docs/data/courses](https://github.com/SSADC-at-york/Yoki/tree/main/docs/data/courses)
 
 > pls offload :), it's faster to fetch from github anyways!
 
@@ -86,3 +86,11 @@ Use the pre-cached jsons files that's in [docs/data/courses](https://github.com/
 
 - [@PresidentKevvol](https://github.com/PresidentKevvol)
 
+---
+
+### Other York University APIs
+
+Competing York University APIs, made by other students, include:
+
+*  https://yorkapi.isaackogan.com/ by @isaackogan
+*  https://github.com/mlisbit/openYorkU-API
