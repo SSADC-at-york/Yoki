@@ -1,36 +1,41 @@
 
-# Yorku REST api *for all things York University*
+# YorkU REST API — for all things York University
 [![pytest](https://github.com/SSADC-at-york/Yoki/actions/workflows/pytest.yml/badge.svg)](https://github.com/SSADC-at-york/Yoki/actions/workflows/pytest.yml) [![pylint](https://github.com/SSADC-at-york/Yoki/actions/workflows/pylint.yml/badge.svg?branch=Aayush9029-patch-1)](https://github.com/SSADC-at-york/Yoki/actions/workflows/pylint.yml)
 
 ---
 
-###  The problem 
+### The problem 
 
-I wanted a yorku API that I could use to automate tasks, navigate efficiently, find buildings, libraries cool hangout/study spots and so on.
-#### And maybe create an app around it to help other students  ¯\\_(ツ)_/¯
+I wanted a YorkU API that I could use to automate tasks and navigate efficiently. I also wanted to find buildings, libraries, cool hangout / study spots, and so on. And maybe create an app around it to help other students ¯\\_(ツ)_/¯
 
 ---
 
-### 💡 The solution 
-Use Yorku official api, using endpoints they provide. But the issue was that Yorku doesn't have an api, so I ended up creating my own.
+### 💡 A solution
+
+It'd be nice to use an official YorkU API, using endpoints they provide. But YorkU doesn't have an API, so I ended up creating my own.
 
 ---
 
 ### ✅ Who can use it?
+
 Everyone. We welcome new contributions to our community.
 
 ---
 
 ### 💻 Endpoints 
-- Food Building database, including open - close time.
-- More to come... like courses, their ratings?, study spots, and so on.
+
+- Dining places database, including and close times.
+- Courses data, including course descriptions and more (but not schedules).
+
+(Ideas for future endpoints: course ratings, study spots, et cetera.)
 
 ---
 
 ### 🎉 Working JSON endpoints
-[Yorku Dining Places Data](https://raw.githubusercontent.com/SSADC-at-york/Yoki/main/docs/data/dining.json)
 
-_Example_
+[YorkU dining places data](https://raw.githubusercontent.com/SSADC-at-york/Yoki/refs/heads/main/docs/data/dining/dining.json)
+
+_Example:_
 ```json
   "data": [
     {
@@ -53,8 +58,9 @@ _Example_
 ```
 ---
 
-### Courses Data
+[YorkU courses data](https://github.com/SSADC-at-york/Yoki/tree/main/docs/data/courses)
 
+_Example:_
 ```json
     "courses": [
         {
@@ -75,10 +81,11 @@ _Example_
         },
 ```
 
-#### ⚠️ NOTE: DO NOT RUN course_scraper.py a lot. It sends a lot of multithreaded requests.
-Use the pre-cached json files that's in [docs/data/courses](https://github.com/SSADC-at-york/Yoki/tree/main/docs/data/courses)
+#### ⚠️ Note: Do not run course_scraper.py a lot. It sends a lot of multithreaded requests.
 
-> pls offload :), it's faster to fetch from github anyways!
+Use the pre-cached json files found in [docs/data/courses](https://github.com/SSADC-at-york/Yoki/tree/main/docs/data/courses)
+
+Pls offload :), it's faster to fetch from GitHub anyway!
 
 ---
 
@@ -92,8 +99,8 @@ Use the pre-cached json files that's in [docs/data/courses](https://github.com/S
 
 Some other York University APIs, made by other students, include:
 
-*  https://github.com/Aayush9029/YorkuPublic/branches
-*  https://yorkapi.isaackogan.com/ by [@isaackogan](https://github.com/isaackogan)
+*  https://github.com/Aayush9029/YorkuPublic/branches/all
+*  https://yorkapi.isaackogan.com/ by [@isaackogan](https://github.com/isaackogan) — [(source)](https://github.com/isaackogan/YorkUAPI)
 *  https://github.com/A-Chidalu/YU-Developer-API
 *  https://github.com/jackehuynh/EasyYU-API
 *  https://github.com/mlisbit/openYorkU-API
