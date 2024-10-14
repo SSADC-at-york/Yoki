@@ -28,7 +28,7 @@
             "dept": "msmg",
             "code": "6150",
             "credit": 3.0,
-            "name": "Data Analytics for Internal &amp; Performance Auditing",
+            "name": "Data Analytics for Internal & Performance Auditing",
             "prereqs": "",
             "desc": "The course focus is on the role of the professional internal or government auditor performing a variety of assurance engagements in a &quot;big data&quot; universe. The types of engagements explored in the course include: performance audits, compliance audits, operational audits, fraud, and IT systems audits. The objective of the course is to develop the technical knowledge with an emphasis of use of data tools and data analysis and practical knowledge necessary to be a competent professional auditor."
         },
@@ -108,7 +108,7 @@
             "dept": "msmg",
             "code": "6570",
             "credit": 3.0,
-            "name": "Reverse Logistics &amp; Closed-Loop Supply Chains",
+            "name": "Reverse Logistics & Closed-Loop Supply Chains",
             "prereqs": "msmg6550 msmg6510",
             "desc": "This course explores reverse logistics/closed-loop supply chains with the goal of helping academics and professionals develop knowledge and expertise in this area. Reverse logistics refers to all managerial operations related to reuse or recycle of products, components or materials. Closed- loop supply chains stand for all operations of dealing with items that are no longer desired or can no longer be used by their users. PREREQUISITES: GS/MSMG6550 3.0 Fundamentals of SCM, GS/MSMG6510 3.00 Analytics for Supply Chain Management."
         }

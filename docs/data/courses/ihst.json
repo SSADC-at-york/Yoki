@@ -4,7 +4,7 @@
             "dept": "ihst",
             "code": "1001",
             "credit": 3.0,
-            "name": "Anatomy &amp; Physiology for Human Health I ",
+            "name": "Anatomy & Physiology for Human Health I ",
             "prereqs": "",
             "desc": "Examines human anatomy and physiology with a focus on health and disease in the body as a whole as well as each body system. Students examine how the different body systems work together to maintain homeostasis and how the systems react when homeostasis is disrupted by disease.   Course credit exclusions: HH/KINE 2011 3.00, HH/KINE 2031 3.00, SC/ NATS 1650 6.00\r\n"
         },
@@ -12,7 +12,7 @@
             "dept": "ihst",
             "code": "1002",
             "credit": 3.0,
-            "name": "Anatomy &amp; Physiology for Human Health II",
+            "name": "Anatomy & Physiology for Human Health II",
             "prereqs": "",
             "desc": "Examines human anatomy and physiology with a focus on health and disease in the body as a whole as well as each body system. Students examine how the different body systems work together to maintain homeostasis and how the systems react when homeostasis is disrupted by disease. Course credit exclusions: HH/KINE 2011 3.00, HH/KINE 2031 3.00, SC/ NATS 1650 6.00.\n"
         },
@@ -44,7 +44,7 @@
             "dept": "ihst",
             "code": "2100",
             "credit": 3.0,
-            "name": "Chronic Diseases &amp; Care",
+            "name": "Chronic Diseases & Care",
             "prereqs": "ihst1000 ihst1001 ihst1002",
             "desc": "Examines the complexity and impact of chronic diseases, also known as non-communicable diseases, within national and international health care systems. It will define and investigate the current prevalence, significance, risk factors and determinants of the major current chronic conditions and their prevention and management. Prerequisites: HH/IHST1000 6.00 or HH/IHST 1001 3.00 and HH/IHST 1002 3.00. "
         },
@@ -150,7 +150,7 @@
             "credit": 9.0,
             "name": "Global Health Practicum",
             "prereqs": "ihst4400",
-            "desc": "Designed to bridge theory and practice in a variety of health settings, the Practicum is a 250-hour planned, supervised and evaluated research and practice based experience in which students are mentored and supported by qualified supervisors and faculty. The course also includes seminars and reflective and applied assignments. Prerequisites: All 3000 &amp; 4000 courses in the program except for HH/IHST 4400 3.00. Open to: Global Health majors."
+            "desc": "Designed to bridge theory and practice in a variety of health settings, the Practicum is a 250-hour planned, supervised and evaluated research and practice based experience in which students are mentored and supported by qualified supervisors and faculty. The course also includes seminars and reflective and applied assignments. Prerequisites: All 3000 & 4000 courses in the program except for HH/IHST 4400 3.00. Open to: Global Health majors."
         },
         {
             "dept": "ihst",

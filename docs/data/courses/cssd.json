@@ -1,0 +1,52 @@
+{
+    "courses": [
+        {
+            "dept": "cssd",
+            "code": "1101",
+            "credit": 3.0,
+            "name": "Coding through Biology (CS1 A)",
+            "prereqs": "",
+            "desc": "Introduction to fundamentals of procedural programming in the context of biology. The lecture component is in two parts: some lectures focus on computer programming skills, and other lectures focus on selected topics from biology. The laboratory component allows students to strengthen computing skills and understanding of the biological concepts through computer simulations and problem solving. Through this experiential journey, students will learn the fundamentals of programming, computational problem solving, as well as the software development process. This course typically runs from week 1 to week 6 of the term. CSSD1101 and CSSD1102 both cover fundamental programming concepts and are meant to reinforce each other by covering those concepts in two different contexts. Course credit exclusions: LE/DIGT 1101 4.00, LE/EECS 1012 3.00, LE/EECS 1015 3.00."
+        },
+        {
+            "dept": "cssd",
+            "code": "1102",
+            "credit": 3.0,
+            "name": "Coding through Chemistry (CS1 B)",
+            "prereqs": "",
+            "desc": "Introduction to fundamentals of procedural programming in the context of chemistry. The lecture component is in two parts: some lectures focus on computer programming skills, and other lectures focus on selected topics from chemistry. The laboratory component allows students to strengthen computing skills and understanding of the chemistry concepts through computer simulations and problem solving. Through this experiential journey, students will learn the fundamentals of programming, computational problem solving, as well as the software development process. This course typically runs from week 7 to week 12 of the term. CSSD1101 and CSSD1102 both cover fundamental programming concepts and are meant to reinforce each other by covering those concepts in two different contexts. Course credit exclusions: LE/DIGT 1101 4.00, LE/EECS 1012 3.00, LE/EECS 1015 3.00."
+        },
+        {
+            "dept": "cssd",
+            "code": "1161",
+            "credit": 2.0,
+            "name": "Teamwork and Communication in Software Development",
+            "prereqs": "",
+            "desc": "This course is focused on teamwork and communication in developing software projects. Topics include communication within centralized, decentralized, and global software teams, collaborative software development, version control systems, issue repositories, open-sourced, crowdsourced, and outsourced software, knowledge sharing and Q/A platforms, ethics, individual and team productivity, diversity, and inclusion within teams. Course credit exclusions: LE/DIGT 1161 2.00"
+        },
+        {
+            "dept": "cssd",
+            "code": "1201",
+            "credit": 4.0,
+            "name": "Coding with Objects (CS2)",
+            "prereqs": "LE/CSSD1101 3.00 or LE/CSSD1102 3.00 or LE/CSSD1050 3.00.",
+            "desc": "CSSD1201 introduces fundamentals of object-oriented programming in the context of real world applications. Students will learn knowledge and computational skills related to designing object-oriented solutions from client perspective, using APIs (Application Programming Interface), software versioning, testing and debugging."
+        },
+        {
+            "dept": "cssd",
+            "code": "1202",
+            "credit": 4.0,
+            "name": "Web-Centric Programming",
+            "prereqs": "LE/CSSD 1050 3.00 or LE/CSSD 1101 3.00 or LE/CSSD 1102 3.00.",
+            "desc": "CSSD1202 covers technologies and skills for full stack web and mobile programming, with a major focus on client-side development, and a smaller focus on server-side implementation. Topics include an introduction to network/Internet protocols; principles of layering, coding by design, and design by contract, particularly applied to web and mobile application architectures; event-driven programming, user interface design, layouts, and dynamic content; server-side model design; client- and server- side scripting; and interacting with data sources. Students will be informed to maintain a security mindset in their development process. Laboratory exercises expose students to a range of real-world problems with a view of enhancing computational thinking and grounding the material covered in lectures. In this journey, students will survey knowledge related to responsive design of full stack web and mobile application development and will learn at least one set of technologies more deeply to develop an industry- or community- inspired web/mobile project while improving skills in software versioning, debugging, and teamwork. The lectures are supplemented by a four-hour weekly lab. The project is developed using a simplified software development process with multiple stages, e.g., documentation/design/development/demonstration. The course promotes self-directed learning, coding by design, design by contract, principle of layering, pair programming or teamwork, use of APIs (Application Programming Interfaces), and enhancing students e-portfolios."
+        },
+        {
+            "dept": "cssd",
+            "code": "1203",
+            "credit": 4.0,
+            "name": "Logic and Computing",
+            "prereqs": "Prerequisites: SC/MATH 1516 3.00; LE/CSSD 1050 3.00 or LE/CSSD 1101 3.00 or CSSD1102 3.00.",
+            "desc": "CSSD1203 introduces the mathematical foundations needed for computer science. Topics include elementary propositional and predicate logic, techniques for proving statements, and asymptotic notation, binary representation, and modular arithmetic. The emphasis is on developing the understanding of fundamental properties of programs, that concerns both their running time and correctness."
+        }
+    ]
+}

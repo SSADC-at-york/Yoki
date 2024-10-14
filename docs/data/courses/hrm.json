@@ -220,7 +220,7 @@
             "dept": "hrm",
             "code": "6400",
             "credit": 3.0,
-            "name": "Organizational Change &amp; Development",
+            "name": "Organizational Change & Development",
             "prereqs": "",
             "desc": "Examines systematic and collaborative approaches to change organizational culture, and is based on scientific methods to increase organizational effectiveness. Topics covered include models of change, the change process, change strategies and interventions, organizational renewal, planned change, the OD consultant, the role of the group, the diagnostic process, dealing with resistance to change, intervention strategies, and organizational transformation.\r\n"
         },
@@ -316,7 +316,7 @@
             "dept": "hrm",
             "code": "7110",
             "credit": 3.0,
-            "name": "Seminar 1: Seminal, Strategic &amp; Macro-Human Resources Management Research",
+            "name": "Seminar 1: Seminal, Strategic & Macro-Human Resources Management Research",
             "prereqs": "adms7010 adms7020 adms7030",
             "desc": "This course involves an in-depth analysis and critique of contemporary research, with a view of carving out human resources management issues that require further research. Prerequisites: GS/ADMS 7010 3.00, GS/ADMS 7020 3.00, GS/ADMS 7030 3.00."
         },

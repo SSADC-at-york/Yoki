@@ -6,7 +6,7 @@
             "credit": 3.0,
             "name": "Mechanical Engineering: Professionalism and Society ",
             "prereqs": "",
-            "desc": "In this course, students explore their role in the profession of mechanical engineering and the relationship between mechanical engineering and society. Students learn about the role of engineering in society, human-centred design principles, working with communities, and technological stewardship principles. These are applied through a major project completed outside of the classroom (e.g. in partnership with a local community or external organization). The course also focuses on various career paths and opportunities, e.g. options in government, private industry, not-for-profit sector, graduate education, entrepreneurial opportunities and technology protection. Students are required to build their professional network, for example, through attending networking events and conducting informational interviews. Finally, this course discusses the professional matters including the value of diversity, allyship in the workplace, life-long learning strategies, working in teams, and giving &amp; receiving feedback. Guest lecturers from industry and other appropriate bodies will be used to provide a firsthand knowledge from practicing engineers and other professionals. Course credit exclusion: LE/MECH 2100 1.00, LE/MECH 2102 2.00. Prerequisite: LE/ENG 1101 4.00."
+            "desc": "In this course, students explore their role in the profession of mechanical engineering and the relationship between mechanical engineering and society. Students learn about the role of engineering in society, human-centred design principles, working with communities, and technological stewardship principles. These are applied through a major project completed outside of the classroom (e.g. in partnership with a local community or external organization). The course also focuses on various career paths and opportunities, e.g. options in government, private industry, not-for-profit sector, graduate education, entrepreneurial opportunities and technology protection. Students are required to build their professional network, for example, through attending networking events and conducting informational interviews. Finally, this course discusses the professional matters including the value of diversity, allyship in the workplace, life-long learning strategies, working in teams, and giving & receiving feedback. Guest lecturers from industry and other appropriate bodies will be used to provide a firsthand knowledge from practicing engineers and other professionals. Course credit exclusion: LE/MECH 2100 1.00, LE/MECH 2102 2.00. Prerequisite: LE/ENG 1101 4.00."
         },
         {
             "dept": "mech",
@@ -44,7 +44,7 @@
             "dept": "mech",
             "code": "2401",
             "credit": 3.0,
-            "name": "Engineering Graphics &amp; CAD Modeling",
+            "name": "Engineering Graphics & CAD Modeling",
             "prereqs": "eng1102",
             "desc": "This course discusses technical drawing principles, introduction and application of computer aided design tools, and solid modeling. Simple model parts, which can be assembled together, are fabricated in teams (e.g., using additive technology). Prerequisite: LE/ENG 1102 4.00. Cross-listed: LE/ESSE 2401 3.00."
         },
@@ -118,7 +118,7 @@
             "credit": 3.0,
             "name": "Solid Mechanics and Materials Laboratory",
             "prereqs": "chem1100 mech2301 mech2502",
-            "desc": "Building on the foundational knowledge in the mechanics of materials, this course introduces students to a number of measurement and characterization methods used for macro- and micro-systems. A selected number of laboratory experiments and demonstrations may include: strain measurements \n(e.g. strain gauges and/or speckles &amp; interferometry method), deflection measurements, hardness, impact, non-destructive testing method for crack detection; material characterization methods including techniques such as SEM, AFM, nano-indentors, etc.; motion measurements, traditional and optical (using imaging methods, e.g. by a cell phone camera). Students will continue to develop their skills in data collection, analysis, and the presentation of findings. Prerequisites: SC/CHEM 1100 4.00; LE/MECH 2301 3.00; LE/MECH 2502 3.00. "
+            "desc": "Building on the foundational knowledge in the mechanics of materials, this course introduces students to a number of measurement and characterization methods used for macro- and micro-systems. A selected number of laboratory experiments and demonstrations may include: strain measurements \n(e.g. strain gauges and/or speckles & interferometry method), deflection measurements, hardness, impact, non-destructive testing method for crack detection; material characterization methods including techniques such as SEM, AFM, nano-indentors, etc.; motion measurements, traditional and optical (using imaging methods, e.g. by a cell phone camera). Students will continue to develop their skills in data collection, analysis, and the presentation of findings. Prerequisites: SC/CHEM 1100 4.00; LE/MECH 2301 3.00; LE/MECH 2502 3.00. "
         },
         {
             "dept": "mech",
@@ -180,7 +180,7 @@
             "dept": "mech",
             "code": "4402",
             "credit": 4.0,
-            "name": "Simulation Tools for Design &amp; Analysis",
+            "name": "Simulation Tools for Design & Analysis",
             "prereqs": "mech2301 eng3330 mech3203 esse3360 mech2401",
             "desc": "This course provides an introduction to numerical modeling (e.g. finite element analysis) and commercial software of choice. The application of commercial software to a selected number of problems (e.g. stress analysis, heat transfer, and/or fluid flow, etc. to design or analyze a system) is discussed. Result verification/interpretation of numerical modeling are emphasized. Prerequisites: \nLE/MECH 2301 3.00 or LE/ENG 3330 3.00, LE/MECH 3203 3.00 or LE/ESSE 3360 3.00, and LE/MECH 2401 3.00."
         },
@@ -286,7 +286,7 @@
             "credit": 3.0,
             "name": "The Finite Element Method in Engineering Analysis",
             "prereqs": "mech3502 math2270 eecs1021",
-            "desc": "Topics include: variational formulations and approximation for continuous systems; stiffness matrix formulations of truss and beam elements; 2D &amp; 3D is oparametric finite elements; shell elements; FEA static analysis; steady state thermal analysis (conduction only); mass matrix formulations; vibration eigen value problems; dynamic (time domain) problems; linear solvers; verification and validation in finite element procedures. Prerequisites: LE/MECH 3502 3.00, SC/MATH 2270 3.00, LE/EECS 1021 3.00 and/or by Instructor\u0092s permission."
+            "desc": "Topics include: variational formulations and approximation for continuous systems; stiffness matrix formulations of truss and beam elements; 2D & 3D is oparametric finite elements; shell elements; FEA static analysis; steady state thermal analysis (conduction only); mass matrix formulations; vibration eigen value problems; dynamic (time domain) problems; linear solvers; verification and validation in finite element procedures. Prerequisites: LE/MECH 3502 3.00, SC/MATH 2270 3.00, LE/EECS 1021 3.00 and/or by Instructor\u0092s permission."
         },
         {
             "dept": "mech",

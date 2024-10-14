@@ -12,7 +12,7 @@
             "dept": "thst",
             "code": "5020",
             "credit": 3.0,
-            "name": "Performance &amp; Culture",
+            "name": "Performance & Culture",
             "prereqs": "",
             "desc": "Examines the current range of contemporary scholarship that employs performance as a tool for analyzing cultural processes. Inherently interdisciplinary in scope, the seminar engages with recent performance studies scholarship and its intersections with critical race theory, historiography, cultural studies, museum studies, technology studies, and popular culture. "
         },
@@ -28,7 +28,7 @@
             "dept": "thst",
             "code": "5051",
             "credit": 3.0,
-            "name": "Theatre &amp; Performance Studies Internship",
+            "name": "Theatre & Performance Studies Internship",
             "prereqs": "",
             "desc": "This course is designed to give graduate students applied, professionally-oriented work experience in a field related to one of the program's fields of specialization and/or the student's research areas. \r\nNote: This course is graded on a pass/fail basis."
         },
@@ -36,9 +36,9 @@
             "dept": "thst",
             "code": "5052",
             "credit": 0.0,
-            "name": "Theatre &amp; Performance Studies Graduate Colloquium ",
+            "name": "Theatre & Performance Studies Graduate Colloquium ",
             "prereqs": "",
-            "desc": "This course discusses research approaches, pedagogical strategies, and various aspects of professional development within theatre and performance studies. This course is required for and only open to Theatre &amp; Performance Studies MA students and first-year PhD students."
+            "desc": "This course discusses research approaches, pedagogical strategies, and various aspects of professional development within theatre and performance studies. This course is required for and only open to Theatre & Performance Studies MA students and first-year PhD students."
         },
         {
             "dept": "thst",

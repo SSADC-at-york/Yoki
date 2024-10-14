@@ -84,7 +84,7 @@
             "dept": "fine",
             "code": "4800",
             "credit": 3.0,
-            "name": "Options,Futures&amp;Other Derivative Securities",
+            "name": "Options,Futures&Other Derivative Securities",
             "prereqs": "fine2000 mgmt1050 omis1000",
             "desc": "This course explains the way in which derivative securities such as options, futures contracts, forward contracts, swaps and interest rate caps can be valued. It discusses arbitrage relationships, risk neutral valuation, the creation of options synthetically, numerical procedures and the evaluation of credit risk.\r\nPrerequisites: SB/FINE 2000 3.00 and SB/MGMT 1050 3.00 (previously offered as: SB/OMIS 1000 3.00).\n Course Credit Exclusion: AP/ECON 4410 3.00."
         },

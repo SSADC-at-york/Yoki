@@ -1,0 +1,20 @@
+{
+    "courses": [
+        {
+            "dept": "digt",
+            "code": "1171",
+            "credit": 3.0,
+            "name": "Being a Digital Citizen",
+            "prereqs": "",
+            "desc": "In this course, students are critically introduced to the digital world they inhabit. Students identify, discuss, and apply concepts of digital ethics to questions and the search for answers in the digital world, with a focus on communicating the development and effects these tools and technologies have on our lives.\n Driving this course is the question: “What do we need to know and do in relation to the past and present of digital technologies to be active, ethical, and literate digital citizens?“"
+        },
+        {
+            "dept": "digt",
+            "code": "1272",
+            "credit": 3.0,
+            "name": "Mobilizing Digital Citizenship",
+            "prereqs": "LE/DIGT 1172",
+            "desc": "In this course, students build on the foundation laid by the prerequisite “Being a Digital Citizen” to collaboratively develop and share a digital prototype that takes into account questions of ethics and equity for the present and the future. \n Driving this course is the question: “How do we understand and choose the tools and technologies to communicate/advocate for ideas/organizations/resources online?”"
+        }
+    ]
+}

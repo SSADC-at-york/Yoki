@@ -30,7 +30,7 @@
             "credit": 3.0,
             "name": "Accounting for Non-Financial Managers",
             "prereqs": "",
-            "desc": "An introduction to accounting covering basic concepts in financial accounting, managerial accounting and finance and their interrelationships.\r\nCourse credit exclusions: AP/ADMS 1500 3.00, AP/ADMS 2500 3.00, AP/ADMS 2510 3.00, AP/ADMB 2510 3.00.\r\n Not open to students in: BCom, Business Economics, Financial &amp; Business Economics.\r\nRequired course for the Business Minor degree program."
+            "desc": "An introduction to accounting covering basic concepts in financial accounting, managerial accounting and finance and their interrelationships.\r\nCourse credit exclusions: AP/ADMS 1500 3.00, AP/ADMS 2500 3.00, AP/ADMS 2510 3.00, AP/ADMB 2510 3.00.\r\n Not open to students in: BCom, Business Economics, Financial & Business Economics.\r\nRequired course for the Business Minor degree program."
         },
         {
             "dept": "adms",
@@ -206,7 +206,7 @@
             "credit": 3.0,
             "name": "Introduction to Management Science",
             "prereqs": "adms2320",
-            "desc": "This course is an introduction to the basic theory underlying Management Science and Operations Research. This course not only helps the students learn how to model real life problems as mathematical models, but also provides them the mathematical foundation and the spreadsheet skills to solve them. Specifically, using spreadsheets, the course focuses on modeling a variety of applications of finance, marketing and production/operations management with spreadsheets. Some of these applications include inventory control, workforce management, location and distribution problems, revenue management, portfolio selection, capital budgeting, and optimal sales allocation. The course also focuses on theories on basic optimization techniques such as the simplex method for solving linear programming, duality theory, Branch-&amp;-Bound algorithm for solving integer linear programming and multi-criteria decision making. \nPrerequisite: AP/ADMS 2320 3.00. \nCourse credit exclusion: AP/ADMB 3330 3.00."
+            "desc": "This course is an introduction to the basic theory underlying Management Science and Operations Research. This course not only helps the students learn how to model real life problems as mathematical models, but also provides them the mathematical foundation and the spreadsheet skills to solve them. Specifically, using spreadsheets, the course focuses on modeling a variety of applications of finance, marketing and production/operations management with spreadsheets. Some of these applications include inventory control, workforce management, location and distribution problems, revenue management, portfolio selection, capital budgeting, and optimal sales allocation. The course also focuses on theories on basic optimization techniques such as the simplex method for solving linear programming, duality theory, Branch-&-Bound algorithm for solving integer linear programming and multi-criteria decision making. \nPrerequisite: AP/ADMS 2320 3.00. \nCourse credit exclusion: AP/ADMB 3330 3.00."
         },
         {
             "dept": "adms",

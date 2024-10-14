@@ -596,7 +596,7 @@
             "dept": "econ",
             "code": "4210",
             "credit": 3.0,
-            "name": "Economic Forecasting &amp; Analysis        ",
+            "name": "Economic Forecasting & Analysis        ",
             "prereqs": "",
             "desc": "An increasing number of organizations make explicit forecasts of the economic environment within which they will be operating as a basis for forward-looking plans. This course assesses the main forecasting methods in relation to the length of the forecasting time horizon. Several systematic appraisals of past forecasts are reviewed.\r\n\r\nPrerequisites: SB/ECON 2000 3.00 or SB/INTL 1200 3.00 and SB/INTL 1210 3.00\r\nCourse Credit Exclusion: AP/ECON 3210 3.00."
         },
@@ -964,7 +964,7 @@
             "dept": "econ",
             "code": "6990M",
             "credit": 3.0,
-            "name": "Reading &amp; Research                     ",
+            "name": "Reading & Research                     ",
             "prereqs": "",
             "desc": "N/A"
         },

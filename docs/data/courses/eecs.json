@@ -630,7 +630,7 @@
             "credit": 3.0,
             "name": "Information Networks",
             "prereqs": "eecs3421 eecs3101 math2030 math2930",
-            "desc": "Information networks are effective representations of pairwise relationships between objects. Examples include technological networks (e.g., World Wide Web), online social networks (e.g., Facebook), and biological networks (e.g., Protein-to-Protein interactions). The study of information networks is an emerging discipline of immense importance that combines graph theory, probability and statistics, data mining and analysis, and computational social science. This course provides students with both theoretical knowledge and practical experience of the field by covering models and algorithms of information networks and their basic properties. In addition, analysis of information networks provides the means to explore large, complex data coming from vastly diverse sources and to inform computational problems and better decisions. Topics include: basic graph theory, network measurements, network models, community detection, graph partitioning, link analysis, link prediction, information cascades &amp; epidemics, influence maximization, network ties, recommendation systems, mining graphs, and connections to problems in the social sciences and economics. Prerequisites: cumulative GPA of 4.50 or better over all major EECS courses (without second digit &quot;5&quot;), LE/EECS 3421 3.00, LE/EECS 3101 3.00, SC/MATH 2030 3.00 or SC/MATH 2930 3.00.\n\nDate of submission: 2017-03-07"
+            "desc": "Information networks are effective representations of pairwise relationships between objects. Examples include technological networks (e.g., World Wide Web), online social networks (e.g., Facebook), and biological networks (e.g., Protein-to-Protein interactions). The study of information networks is an emerging discipline of immense importance that combines graph theory, probability and statistics, data mining and analysis, and computational social science. This course provides students with both theoretical knowledge and practical experience of the field by covering models and algorithms of information networks and their basic properties. In addition, analysis of information networks provides the means to explore large, complex data coming from vastly diverse sources and to inform computational problems and better decisions. Topics include: basic graph theory, network measurements, network models, community detection, graph partitioning, link analysis, link prediction, information cascades & epidemics, influence maximization, network ties, recommendation systems, mining graphs, and connections to problems in the social sciences and economics. Prerequisites: cumulative GPA of 4.50 or better over all major EECS courses (without second digit &quot;5&quot;), LE/EECS 3421 3.00, LE/EECS 3101 3.00, SC/MATH 2030 3.00 or SC/MATH 2930 3.00.\n\nDate of submission: 2017-03-07"
         },
         {
             "dept": "eecs",
@@ -854,7 +854,7 @@
             "credit": 3.0,
             "name": "Analog Integrated Circuits Design ",
             "prereqs": "",
-            "desc": "This course presents analog circuit principles for the analysis and design of high-performance circuits in modern technologies. Its techniques enable the realization of wide-band amplifiers, low-noise amplifiers, operational amplifiers, and feedback amplifiers. Advanced computer simulation, and physical layout are presented. Integrated with the undergraduate course Lassonde Electrical Engineering &amp; Computer Science 4611 3.0."
+            "desc": "This course presents analog circuit principles for the analysis and design of high-performance circuits in modern technologies. Its techniques enable the realization of wide-band amplifiers, low-noise amplifiers, operational amplifiers, and feedback amplifiers. Advanced computer simulation, and physical layout are presented. Integrated with the undergraduate course Lassonde Electrical Engineering & Computer Science 4611 3.0."
         },
         {
             "dept": "eecs",
@@ -870,7 +870,7 @@
             "credit": 3.0,
             "name": "Directed Reading",
             "prereqs": "",
-            "desc": "A reading course suited to students with special interests. Students select areas of study in consultation with their supervisor. These areas should not significantly overlap with material covered in courses currently offered at York University and undergraduate or graduate courses taken by the student either at York University or elsewhere.\r\n\r\nDirected reading courses require a completed Directed Reading Form, which can be obtained from the Assistant of the Graduate Program in Electrical Engineering &amp; Computer Science. Normally, students may take only directed reading course (EECS 6002) during a degree program."
+            "desc": "A reading course suited to students with special interests. Students select areas of study in consultation with their supervisor. These areas should not significantly overlap with material covered in courses currently offered at York University and undergraduate or graduate courses taken by the student either at York University or elsewhere.\r\n\r\nDirected reading courses require a completed Directed Reading Form, which can be obtained from the Assistant of the Graduate Program in Electrical Engineering & Computer Science. Normally, students may take only directed reading course (EECS 6002) during a degree program."
         },
         {
             "dept": "eecs",
@@ -886,7 +886,7 @@
             "credit": 3.0,
             "name": "Digital Image Processing:  Theory and Algorithms",
             "prereqs": "",
-            "desc": "Fundamental image processing theories and algorithms. Signal representation using transforms, wavelets and frames is overviewed. Signal reconstruction methods using total variation, sparse coding and low-rank prior, based on convex optimization, are discussed. Applications include image compression, restoration and enhancement.\r\nPrior background in digital signal processing (Electrical Engineering &amp; Computer Science 4452 3.0 or equivalent) and numerical linear algebra is strongly recommended."
+            "desc": "Fundamental image processing theories and algorithms. Signal representation using transforms, wavelets and frames is overviewed. Signal reconstruction methods using total variation, sparse coding and low-rank prior, based on convex optimization, are discussed. Applications include image compression, restoration and enhancement.\r\nPrior background in digital signal processing (Electrical Engineering & Computer Science 4452 3.0 or equivalent) and numerical linear algebra is strongly recommended."
         },
         {
             "dept": "eecs",
@@ -916,7 +916,7 @@
             "dept": "eecs",
             "code": "6327",
             "credit": 3.0,
-            "name": "Probabilistic Models &amp; Machine Learning",
+            "name": "Probabilistic Models & Machine Learning",
             "prereqs": "",
             "desc": "Intelligent systems must make effective judgements in the face of uncertainty.  This requires probabilistic models to represent complex relationships between random variables (learning) as well as algorithms that produce good estimates and decisions based on these models (inference).  This course explores both probabilistic learning and inference, in a range of application areas."
         },

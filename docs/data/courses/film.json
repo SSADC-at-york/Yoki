@@ -44,7 +44,7 @@
             "dept": "film",
             "code": "1123",
             "credit": 3.0,
-            "name": "Writing for Games &amp; Interactive Media I ",
+            "name": "Writing for Games & Interactive Media I ",
             "prereqs": "",
             "desc": "This course introduces students to the basic principles of writing for games and interactive media, including core concepts of storytelling, and the ways in which interactive writing departs from the traditional. From social media storytelling to branching fictions, video and text games, and non-linear interactive websites, theories of storytelling and gameplay (narratology and ludology) will inform learning through hands-on, project-based work designing characters, branching storylines, and environmental storyworlds. No pre-requisites. Note: Required of all first-year BFA Media Arts majors. Enrolment is limited to BA and BFA film majors."
         },
@@ -86,7 +86,7 @@
             "credit": 6.0,
             "name": "The Biology of Story",
             "prereqs": "",
-            "desc": "How do writers, filmmakers, and other creators go about finding and shaping the stories they tell? In what ways are the patterns of story woven into our lives, our society, our world? Or are we and our world woven by the patterns of story?\r\nBiology of Story is a 24-week, largely asynchronous, fully online course. Proceeding from the practical insights of those who tell stories in many forms, the course will also explore the growing use of narrative in a wide range of fields towards rethinking social and institutional assumptions and releasing human potential. Open to non-majors.\r\nRanging across multiple Creative Arts (Film &amp; Television, Interactive &amp; Transmedia, Oral Literature &amp; Folklore, Literature &amp; Creative Writing), Humanities (Native Studies, Education, Religious Studies, Psychology, Journalism, Peace &amp; Conflict Studies) and Sciences (Life Sciences, Cosmology, Health &amp; Medicine), the course will follow the thread of story as it informs, and is informed by, each discipline. \r\nA range of learning activities will involve students in individual and group work equally demanding of analytical rigour, creative imagination, and personal reflection; while building first-year University skills at research, writing, and informed discussion.\r\nKey insights from the cultural knowledge of First Nations and other indigenous peoples, traditionally rooted in story, will frame the course's epistemological approach."
+            "desc": "How do writers, filmmakers, and other creators go about finding and shaping the stories they tell? In what ways are the patterns of story woven into our lives, our society, our world? Or are we and our world woven by the patterns of story?\r\nBiology of Story is a 24-week, largely asynchronous, fully online course. Proceeding from the practical insights of those who tell stories in many forms, the course will also explore the growing use of narrative in a wide range of fields towards rethinking social and institutional assumptions and releasing human potential. Open to non-majors.\r\nRanging across multiple Creative Arts (Film & Television, Interactive & Transmedia, Oral Literature & Folklore, Literature & Creative Writing), Humanities (Native Studies, Education, Religious Studies, Psychology, Journalism, Peace & Conflict Studies) and Sciences (Life Sciences, Cosmology, Health & Medicine), the course will follow the thread of story as it informs, and is informed by, each discipline. \r\nA range of learning activities will involve students in individual and group work equally demanding of analytical rigour, creative imagination, and personal reflection; while building first-year University skills at research, writing, and informed discussion.\r\nKey insights from the cultural knowledge of First Nations and other indigenous peoples, traditionally rooted in story, will frame the course's epistemological approach."
         },
         {
             "dept": "film",
@@ -100,7 +100,7 @@
             "dept": "film",
             "code": "2010",
             "credit": 6.0,
-            "name": "Film &amp; Video Production",
+            "name": "Film & Video Production",
             "prereqs": "film1010 film1020 film1400",
             "desc": "Offers an intensive exploration of the techniques basic to film and electronic production. The emphasis is on producing several short subjects in both media for the widest possible experience and exploration of different forms in both media. Four hours. Prerequisites: FA/FILM 1010 3.00, FA/FILM 1020 3.00, FA/FILM 1400 6.00 and permission of the production committee.  Corequisites: FA/FILM 2020 3.00, FA/FILM 2120 6.00, FA/FILM 2400 6.00 and FA/FILM 2170 3.00."
         },
@@ -108,9 +108,9 @@
             "dept": "film",
             "code": "2065",
             "credit": 3.0,
-            "name": "Photography: Post Production for Screen &amp; Web",
+            "name": "Photography: Post Production for Screen & Web",
             "prereqs": "",
-            "desc": "This online course introduces students to photographic software and concepts related to the digital environment. Students will acquire skills in digital workflow and image processing by introducing raw files to Adobe Lightroom and Photoshop. Students will use software to produce and manipulate photographs for the screen &amp; web. By the end of the course students will have acquired a working knowledge of the basic tools, applications and creative techniques related to digital, screen-based photography.\n\nThis course has compulsory supplementary fees. Students will require access to a computer equipped with Adobe Lightroom Classic and Photoshop. Access to a DSLR camera is advantageous. Requires skill in basic digital photography. Students seeking camera and photography fundamentals should register in VISA 2061 before taking this course. VISA 2065 is open to visual arts majors and is a prerequisite for 3000-level photography courses. This course is cross-listed with FA/FILM 2065 3.00 and is open to Film majors (BA and BFA). Course credit exclusions: FA/VISA 2006 3.00; FA/FILM 2065 3.00."
+            "desc": "This online course introduces students to photographic software and concepts related to the digital environment. Students will acquire skills in digital workflow and image processing by introducing raw files to Adobe Lightroom and Photoshop. Students will use software to produce and manipulate photographs for the screen & web. By the end of the course students will have acquired a working knowledge of the basic tools, applications and creative techniques related to digital, screen-based photography.\n\nThis course has compulsory supplementary fees. Students will require access to a computer equipped with Adobe Lightroom Classic and Photoshop. Access to a DSLR camera is advantageous. Requires skill in basic digital photography. Students seeking camera and photography fundamentals should register in VISA 2061 before taking this course. VISA 2065 is open to visual arts majors and is a prerequisite for 3000-level photography courses. This course is cross-listed with FA/FILM 2065 3.00 and is open to Film majors (BA and BFA). Course credit exclusions: FA/VISA 2006 3.00; FA/FILM 2065 3.00."
         },
         {
             "dept": "film",
@@ -140,9 +140,9 @@
             "dept": "film",
             "code": "2170",
             "credit": 3.0,
-            "name": "Production Planning &amp; Management",
+            "name": "Production Planning & Management",
             "prereqs": "film1010 film1020 film1400",
-            "desc": "Offers a practical course in film &amp; video production planning including: script breakdown, scheduling, budgeting, financing, legal issues, collective agreements and administrative procedures. Additional fee required. Prerequisites: FA/FILM 1010 3.00, FA/FILM 1020 3.00, FA/FILM 1400 6.00. Corequisites: FA/FILM 2010 6.00, FA/FILM 2020 3.00, FA/FILM 2120 6.00, FA/FILM 2400 6.00. Course credit exclusion: FA/FILM 3170 3.00."
+            "desc": "Offers a practical course in film & video production planning including: script breakdown, scheduling, budgeting, financing, legal issues, collective agreements and administrative procedures. Additional fee required. Prerequisites: FA/FILM 1010 3.00, FA/FILM 1020 3.00, FA/FILM 1400 6.00. Corequisites: FA/FILM 2010 6.00, FA/FILM 2020 3.00, FA/FILM 2120 6.00, FA/FILM 2400 6.00. Course credit exclusion: FA/FILM 3170 3.00."
         },
         {
             "dept": "film",
@@ -276,7 +276,7 @@
             "dept": "film",
             "code": "3175",
             "credit": 3.0,
-            "name": "Production Planning &amp; Management I",
+            "name": "Production Planning & Management I",
             "prereqs": "film2010",
             "desc": "Offers a practical course in film production planning including script breakdown, scheduling, budgeting, financing, legal issues, collective agreements and administrative procedures. Examines the creative and financial role of the production team, including the Production Manage, Assistant Directors and the Location Manager in detail. Students will apply these skills on a senior Fiction, Documentary or Alternative project during the course. Open to non-production majors by permission of the Film Department. Prerequisites: FA/FILM 2010 9.00 and permission of the Department of Film."
         },
@@ -492,23 +492,23 @@
             "dept": "film",
             "code": "4191",
             "credit": 6.0,
-            "name": "Field Placement for Cinema &amp; Media Studies/Media Arts ",
+            "name": "Field Placement for Cinema & Media Studies/Media Arts ",
             "prereqs": "",
-            "desc": "An experiential education field placement course specifically for students in the BA in Cinema &amp; Media Studies and BFA in Media Arts. Students undertake field placements in moving image media industry sites, supervised and guided by AMPD faculty and staff. Open to majors only.\r\n\r\nPrerequisites: 60 credits and enrollment in the Honours BA in Cinema &amp; Media Studies or BFA in Media Arts (i.e. students are eligible to take Field Placements in Year 3 and Year 4 of their degrees)."
+            "desc": "An experiential education field placement course specifically for students in the BA in Cinema & Media Studies and BFA in Media Arts. Students undertake field placements in moving image media industry sites, supervised and guided by AMPD faculty and staff. Open to majors only.\r\n\r\nPrerequisites: 60 credits and enrollment in the Honours BA in Cinema & Media Studies or BFA in Media Arts (i.e. students are eligible to take Field Placements in Year 3 and Year 4 of their degrees)."
         },
         {
             "dept": "film",
             "code": "4191",
             "credit": 3.0,
-            "name": "Field Placement for Cinema &amp; Media Studies/Media Arts",
+            "name": "Field Placement for Cinema & Media Studies/Media Arts",
             "prereqs": "",
-            "desc": "An experiential education field placement course specifically for students in the BA in Cinema &amp; Media Studies and BFA in Media Arts. Students undertake field placements in moving image media industry sites, supervised and guided by AMPD faculty and staff. Open to majors only.\r\n\r\nPrerequisites: 60 credits and enrollment in the Honours BA in Cinema &amp; Media Studies or BFA in Media Arts (i.e. students are eligible to take Field Placements in Year 3 and Year 4 of their degrees)."
+            "desc": "An experiential education field placement course specifically for students in the BA in Cinema & Media Studies and BFA in Media Arts. Students undertake field placements in moving image media industry sites, supervised and guided by AMPD faculty and staff. Open to majors only.\r\n\r\nPrerequisites: 60 credits and enrollment in the Honours BA in Cinema & Media Studies or BFA in Media Arts (i.e. students are eligible to take Field Placements in Year 3 and Year 4 of their degrees)."
         },
         {
             "dept": "film",
             "code": "4230",
             "credit": 3.0,
-            "name": "The Business of Film &amp; Television",
+            "name": "The Business of Film & Television",
             "prereqs": "film2200 film2230",
             "desc": "Provides a thorough overview of the business environment in which films, television programs, and other moving image productions are financed, developed, produced and distributed. Open to all Film Majors. Prerequisites: FA/FILM 2200 3.00 and FA/FILM 2230 3.00."
         },
@@ -558,7 +558,7 @@
             "credit": 6.0,
             "name": "Independent Studies in Film/Television",
             "prereqs": "",
-            "desc": "Open to fourth-year Film &amp; Video students, the Independent Studies course gives the individual student an opportunity to pursue a specific and intensive personal study under the supervision of a faculty member on topics not offered in other courses in the Department. Proposed topics are subject to Department approval. Each student is required to complete an Independent Studies form prior to the commencement of an academic session.  \r\nNote: Department of Film equipment is not available to students enrolled in Independent Studies courses.\r\nIndependent Studies in Production is for production related proposals other than making a film or video outside of one of the third- and fourth-year project courses. Film/video productions will not normally be considered for this course."
+            "desc": "Open to fourth-year Film & Video students, the Independent Studies course gives the individual student an opportunity to pursue a specific and intensive personal study under the supervision of a faculty member on topics not offered in other courses in the Department. Proposed topics are subject to Department approval. Each student is required to complete an Independent Studies form prior to the commencement of an academic session.  \r\nNote: Department of Film equipment is not available to students enrolled in Independent Studies courses.\r\nIndependent Studies in Production is for production related proposals other than making a film or video outside of one of the third- and fourth-year project courses. Film/video productions will not normally be considered for this course."
         },
         {
             "dept": "film",
@@ -670,7 +670,7 @@
             "credit": 3.0,
             "name": "Field Placement",
             "prereqs": "",
-            "desc": "Students may earn academic credit for work experience (paid or unpaid) that is relevant to film &amp; media. Students link theory with practice, conduct research, and learn about professional practices in cinema and media studies, production, and/or screenwriting. All Internship courses must be approved by the Graduate Program Director."
+            "desc": "Students may earn academic credit for work experience (paid or unpaid) that is relevant to film & media. Students link theory with practice, conduct research, and learn about professional practices in cinema and media studies, production, and/or screenwriting. All Internship courses must be approved by the Graduate Program Director."
         },
         {
             "dept": "film",
@@ -678,7 +678,7 @@
             "credit": 3.0,
             "name": "Field Placement",
             "prereqs": "",
-            "desc": "Students may earn academic credit for work experience (paid or unpaid) that is relevant to film &amp; media. Students link theory with practice, conduct research, and learn about professional practices in cinema and media studies, production, and/or screenwriting. All Internship courses must be approved by the Graduate Program Director."
+            "desc": "Students may earn academic credit for work experience (paid or unpaid) that is relevant to film & media. Students link theory with practice, conduct research, and learn about professional practices in cinema and media studies, production, and/or screenwriting. All Internship courses must be approved by the Graduate Program Director."
         },
         {
             "dept": "film",
@@ -716,9 +716,9 @@
             "dept": "film",
             "code": "6215",
             "credit": 3.0,
-            "name": "21st Century Critical Theory and Film &amp; Media Arts",
+            "name": "21st Century Critical Theory and Film & Media Arts",
             "prereqs": "",
-            "desc": "This course provides an overview for Film/Cinema &amp; Media Studies graduate students (MFA, MA, and PhD) of tendencies in contemporary critical theory covering a wide range of approaches, oriented towards multiple constituencies, and emphasizing the use of theory as a speculative agent within creative work with an emphasis on moving image and sonic practice. Students will become conversant with theoretical perspectives through presentations on selected readings, culminating in a speculative proposal leveraging theory in order to imagine the future of their artistic practice."
+            "desc": "This course provides an overview for Film/Cinema & Media Studies graduate students (MFA, MA, and PhD) of tendencies in contemporary critical theory covering a wide range of approaches, oriented towards multiple constituencies, and emphasizing the use of theory as a speculative agent within creative work with an emphasis on moving image and sonic practice. Students will become conversant with theoretical perspectives through presentations on selected readings, culminating in a speculative proposal leveraging theory in order to imagine the future of their artistic practice."
         },
         {
             "dept": "film",

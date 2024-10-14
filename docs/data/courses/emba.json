@@ -68,7 +68,7 @@
             "dept": "emba",
             "code": "6035",
             "credit": 4.0,
-            "name": "Mergers &amp; Acquisitions and Other Reorganization Methods",
+            "name": "Mergers & Acquisitions and Other Reorganization Methods",
             "prereqs": "",
             "desc": "The course involves the analysis of corporate restructuring strategies including mergers, acquisitions, and takeovers focusing on fundamental concepts of valuation and analytical tools of corporate finance related to restructuring. The course integrates the corporate governance and agency dimensions, financial and strategic management aspects, and legal and accounting considerations into a unified framework, applying theoretical approaches with the case study method."
         },
@@ -222,7 +222,7 @@
             "credit": 2.0,
             "name": "Creating and Managing Strategic Alliances",
             "prereqs": "",
-            "desc": "Examines the theory and practice of creating and managing different types of strategic alliances, such as joint ventures,\r\nlicensing agreements, buyer-supplier partnerships, and consortia. It enables students to better understand the costs and benefits of strategic alliances compared to other strategies such as internal development or M&amp;A, design alliances, and avoid potential problems and complications in managing them."
+            "desc": "Examines the theory and practice of creating and managing different types of strategic alliances, such as joint ventures,\r\nlicensing agreements, buyer-supplier partnerships, and consortia. It enables students to better understand the costs and benefits of strategic alliances compared to other strategies such as internal development or M&A, design alliances, and avoid potential problems and complications in managing them."
         },
         {
             "dept": "emba",
@@ -366,7 +366,7 @@
             "credit": 2.0,
             "name": "Investment Banks, Hedge Funds and Private Equity",
             "prereqs": "",
-            "desc": "Wall Street, Hedge Funds and LBO Funds focuses on the key role that investment banks, LBO funds and hedge funds play in the M&amp;A and corporate finance markets and their influence on corporate decision-making and governance. Competition between investment banks, LBO funds and hedge funds will be considered in the context of resulting threats and opportunities for corporations. "
+            "desc": "Wall Street, Hedge Funds and LBO Funds focuses on the key role that investment banks, LBO funds and hedge funds play in the M&A and corporate finance markets and their influence on corporate decision-making and governance. Competition between investment banks, LBO funds and hedge funds will be considered in the context of resulting threats and opportunities for corporations. "
         }
     ]
 }

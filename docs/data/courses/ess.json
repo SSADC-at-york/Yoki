@@ -94,7 +94,7 @@
             "credit": 3.0,
             "name": "Feedback Control Systems",
             "prereqs": "",
-            "desc": "This course covers the fundamentals of control system design and analysis using statespace methods. It includes both the practical and theoretical aspects of the topic. The students will learn the way to design controllers using state-space methods and evaluate the control performance and validate if these controllers are robust to system uncertainties and external disturbances. Knowledge of linear algebra, differential equations (including Laplace Transforms) and complex numbers is essential for this course. Same as GS Mathematics &amp; Statistics 6655 3.0/Integrated with Lassone Engineering 4650 3.0."
+            "desc": "This course covers the fundamentals of control system design and analysis using statespace methods. It includes both the practical and theoretical aspects of the topic. The students will learn the way to design controllers using state-space methods and evaluate the control performance and validate if these controllers are robust to system uncertainties and external disturbances. Knowledge of linear algebra, differential equations (including Laplace Transforms) and complex numbers is essential for this course. Same as GS Mathematics & Statistics 6655 3.0/Integrated with Lassone Engineering 4650 3.0."
         }
     ]
 }

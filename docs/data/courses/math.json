@@ -980,9 +980,9 @@
             "dept": "math",
             "code": "6462",
             "credit": 3.0,
-            "name": "Mathematics &amp; Statistics 6462 3.0:  Functional Analysis II.",
+            "name": "Mathematics & Statistics 6462 3.0:  Functional Analysis II.",
             "prereqs": "",
-            "desc": "The material of this course may vary according to the interests of the class.  Typical topics include weak and weak* topologies, Alaoglu\u0092s theorem, topological vector spaces, spectra of linear operators, introduction to Hilbert space operators, Fredholm operators, unbounded operators, semigroups of operators, introduction to Banach and C*-algebras. \r\n\r\nPrerequisite:  Mathematics &amp; Statistics 6461 3.0 or equivalent."
+            "desc": "The material of this course may vary according to the interests of the class.  Typical topics include weak and weak* topologies, Alaoglu\u0092s theorem, topological vector spaces, spectra of linear operators, introduction to Hilbert space operators, Fredholm operators, unbounded operators, semigroups of operators, introduction to Banach and C*-algebras. \r\n\r\nPrerequisite:  Mathematics & Statistics 6461 3.0 or equivalent."
         },
         {
             "dept": "math",
@@ -1110,7 +1110,7 @@
             "credit": 3.0,
             "name": "Feedback Control Systems",
             "prereqs": "",
-            "desc": "This course covers the fundamentals of control system design and analysis using statespace methods. It includes both the practical and theoretical aspects of the topic. The students will learn the way to design controllers using state-space methods and evaluate the control performance and validate if these controllers are robust to system uncertainties and external disturbances. Knowledge of linear algebra, differential equations (including Laplace Transforms) and complex numbers is essential for this course. Same as GS Mathematics &amp; Statistics 6655 3.0/Integrated with Lassone Engineering 4650 3.0."
+            "desc": "This course covers the fundamentals of control system design and analysis using statespace methods. It includes both the practical and theoretical aspects of the topic. The students will learn the way to design controllers using state-space methods and evaluate the control performance and validate if these controllers are robust to system uncertainties and external disturbances. Knowledge of linear algebra, differential equations (including Laplace Transforms) and complex numbers is essential for this course. Same as GS Mathematics & Statistics 6655 3.0/Integrated with Lassone Engineering 4650 3.0."
         },
         {
             "dept": "math",
@@ -1158,13 +1158,13 @@
             "credit": 3.0,
             "name": "Mathematical Epidemiology",
             "prereqs": "",
-            "desc": "This course will cover the basic tools required to critically read modelling papers and to develop and use models as research tools.  Models of infectious disease; threshold conditions for epidemic outbreaks, the basic reproductive rate of a disease; vaccination strategies to control infection. Emphasis will be placed on setting up and utilizing mathematical models to understand infectious disease processes and to evaluate potential control strategies. This course will provide an opportunity for students who are interested in using mathematical modelling techniques to study  the transmission dynamics of infectious disease on a  population level. The course will help to develop modelling, analytical and computational expertise in both continuous time and discrete time dynamical models for the study of infectious diseases.  Prerequisites: Atkinson/Arts/Science Mathematics &amp; Statistics 2270 3.0: &quot;Differential equations or equivalent and some numerical skills&quot; or equivalent and familiarity with Maple or Matlab or Mathematica"
+            "desc": "This course will cover the basic tools required to critically read modelling papers and to develop and use models as research tools.  Models of infectious disease; threshold conditions for epidemic outbreaks, the basic reproductive rate of a disease; vaccination strategies to control infection. Emphasis will be placed on setting up and utilizing mathematical models to understand infectious disease processes and to evaluate potential control strategies. This course will provide an opportunity for students who are interested in using mathematical modelling techniques to study  the transmission dynamics of infectious disease on a  population level. The course will help to develop modelling, analytical and computational expertise in both continuous time and discrete time dynamical models for the study of infectious diseases.  Prerequisites: Atkinson/Arts/Science Mathematics & Statistics 2270 3.0: &quot;Differential equations or equivalent and some numerical skills&quot; or equivalent and familiarity with Maple or Matlab or Mathematica"
         },
         {
             "dept": "math",
             "code": "6937",
             "credit": 3.0,
-            "name": "Practicum in Industrial &amp; Applied Mathematics",
+            "name": "Practicum in Industrial & Applied Mathematics",
             "prereqs": "",
             "desc": "N/A"
         }
