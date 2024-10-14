@@ -100,7 +100,7 @@
             "dept": "omis",
             "code": "6000",
             "credit": 3.0,
-            "name": "Models&amp;Applications In Operational Res ",
+            "name": "Models&Applications In Operational Res ",
             "prereqs": "omis5120 omis5210",
             "desc": "Provides a survey of selected topics in operational research (OR). Emphasis is placed on the practical application of OR tools rather than on the mathematical properties. Application areas include: financial planning and portfolio selection, production, priority planning and marketing. Topics include: linear programming and its applications; programming to achieve a set of goals or targets with applications in finance and production; capital budgeting and project selection; transportation and network models; and portfolio models.\r\n\r\nPrerequisites: SB/OMIS 5120 1.50 and SB/OMIS 5210 1.50 or permission of the Instructor."
         },
@@ -164,7 +164,7 @@
             "dept": "omis",
             "code": "6350",
             "credit": 3.0,
-            "name": "Advanced Spreadsheet Modelling &amp; Programming for Business",
+            "name": "Advanced Spreadsheet Modelling & Programming for Business",
             "prereqs": "omis5110 omis5120",
             "desc": "This course enables the design, development, and implementation of integrated business analysis systems by combining the extended functionality of spreadsheets with the Visual Basic for Applications (VBA) programming language. The course demonstrates the power of combining the advanced analysis and modelling techniques of spreadsheets and VBA through applications to several practical problems from disparate business functions.\r\nPrerequisites: SB/OMIS 5110 1.50 and SB/OMIS 5120 1.50 or permission of the Instructor."
         },
@@ -222,7 +222,7 @@
             "credit": 3.0,
             "name": "Strategic Operations Management II",
             "prereqs": "",
-            "desc": "The primary objective of OMIS 7200 is to survey the major theoretical perspectives and issues under the general heading of manufacturing and supply chain strategy (M&amp;SCS). The seminar is designed to guide Ph.D. students through various topics in the evolution of operations strategy and its interface with the business strategy and extensions to competing through supply chains. The seminar surveys the field from a number of perspectives, including impact of the research, appropriateness of the design and research tools, and emerging themes. This course will stress the use of theory in framing research questions, and particularly in directing empirically-based research."
+            "desc": "The primary objective of OMIS 7200 is to survey the major theoretical perspectives and issues under the general heading of manufacturing and supply chain strategy (M&SCS). The seminar is designed to guide Ph.D. students through various topics in the evolution of operations strategy and its interface with the business strategy and extensions to competing through supply chains. The seminar surveys the field from a number of perspectives, including impact of the research, appropriateness of the design and research tools, and emerging themes. This course will stress the use of theory in framing research questions, and particularly in directing empirically-based research."
         },
         {
             "dept": "omis",

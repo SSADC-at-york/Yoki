@@ -4,7 +4,7 @@
             "dept": "edfr",
             "code": "2000",
             "credit": 3.0,
-            "name": "Teaching &amp; Learning French in an Immersion Context",
+            "name": "Teaching & Learning French in an Immersion Context",
             "prereqs": "",
             "desc": "Introduces candidates to the theory and practice of immersion education. Emphasis is placed on the teaching of language through content, and fostering the development of language and cultural awareness in diverse French immersion contexts in Ontario and Canada.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
         },
@@ -12,7 +12,7 @@
             "dept": "edfr",
             "code": "3000",
             "credit": 3.0,
-            "name": "Teaching &amp; Learning French in a Core French Context",
+            "name": "Teaching & Learning French in a Core French Context",
             "prereqs": "",
             "desc": "This course addresses teaching and learning French as an additional language in Core French contexts in Ontario and Canada. Current research in FSL education is examined, and methods and techniques to develop learners' ability to interact in French are emphasized.\nThis course is only available to students in the Bachelor of Education (BEd) degree program."
         }

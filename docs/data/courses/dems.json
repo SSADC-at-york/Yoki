@@ -204,7 +204,7 @@
             "dept": "dems",
             "code": "5080",
             "credit": 6.0,
-            "name": "Disaster &amp; Emergency Management Practicum",
+            "name": "Disaster & Emergency Management Practicum",
             "prereqs": "dems5010 dems5020 dems5030",
             "desc": "Placements in the field provide students with the opportunity to apply theories of disaster and emergency management in a variety of organizations within the private, public and non-governmental organization sectors. Prerequisites: GS/DEMS 5010 3.00, GS/DEMS 5020 3.00 and GS/DEMS 5030 3.00."
         },
@@ -246,7 +246,7 @@
             "credit": 6.0,
             "name": "Major Research Paper",
             "prereqs": "",
-            "desc": "The purpose of the major research paper develops the student's ability to do research beyond a normal course paper. In its style, length, and quality, the major research paper takes the form of a publishable academic article of around 80 to 100 pages. The major research paper is supervised by a faculty member of the Disaster &amp; Emergency Management program. "
+            "desc": "The purpose of the major research paper develops the student's ability to do research beyond a normal course paper. In its style, length, and quality, the major research paper takes the form of a publishable academic article of around 80 to 100 pages. The major research paper is supervised by a faculty member of the Disaster & Emergency Management program. "
         }
     ]
 }
