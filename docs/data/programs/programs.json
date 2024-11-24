@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "name": "accounting",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/accounting",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 3,
+    "name": "actuarial-science",
+    "url": "https://futurestudents.yorku.ca/program//program/actuarial-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 5,
+    "name": "actuarial-science",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/actuarial-science",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 7,
+    "name": "advocacy-and-public-engagement",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/advocacy-and-public-engagement",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 9,
+    "name": "african-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/african-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 11,
+    "name": "anthropology",
+    "url": "https://futurestudents.yorku.ca/program//program/anthropology",
+    "is_certificate": ""
+  },
+  {
+    "id": 13,
+    "name": "anti-racist-research-practice",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/anti-racist-research-practice",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 15,
+    "name": "applied-mathematics",
+    "url": "https://futurestudents.yorku.ca/program//program/applied-mathematics",
+    "is_certificate": ""
+  },
+  {
+    "id": 17,
+    "name": "athletic-therapy",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/athletic-therapy",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 19,
+    "name": "education",
+    "url": "https://futurestudents.yorku.ca/program//program/education",
+    "is_certificate": ""
+  },
+  {
+    "id": 21,
+    "name": "bachelor-of-education-french",
+    "url": "https://futurestudents.yorku.ca/program//program/bachelor-of-education-french",
+    "is_certificate": ""
+  },
+  {
+    "id": 23,
+    "name": "biochemistry",
+    "url": "https://futurestudents.yorku.ca/program//program/biochemistry",
+    "is_certificate": ""
+  },
+  {
+    "id": 25,
+    "name": "biology/science",
+    "url": "https://futurestudents.yorku.ca/program//program/biology/science",
+    "is_certificate": ""
+  },
+  {
+    "id": 27,
+    "name": "biology/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/biology/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 29,
+    "name": "biomedical-physics",
+    "url": "https://futurestudents.yorku.ca/program//program/biomedical-physics",
+    "is_certificate": ""
+  },
+  {
+    "id": 31,
+    "name": "biomedical-science",
+    "url": "https://futurestudents.yorku.ca/program//program/biomedical-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 33,
+    "name": "biotechnology",
+    "url": "https://futurestudents.yorku.ca/program//program/biotechnology",
+    "is_certificate": ""
+  },
+  {
+    "id": 35,
+    "name": "black-canadian-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/black-canadian-studies",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 37,
+    "name": "business-society",
+    "url": "https://futurestudents.yorku.ca/program//program/business-society",
+    "is_certificate": ""
+  },
+  {
+    "id": 39,
+    "name": "business-administration",
+    "url": "https://futurestudents.yorku.ca/program//program/business-administration",
+    "is_certificate": ""
+  },
+  {
+    "id": 41,
+    "name": "business-economics/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/business-economics/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 43,
+    "name": "business-economics/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/business-economics/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 45,
+    "name": "canadian-business-for-internationally-educated-professionals",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/canadian-business-for-internationally-educated-professionals",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 47,
+    "name": "chemistry",
+    "url": "https://futurestudents.yorku.ca/program//program/chemistry",
+    "is_certificate": ""
+  },
+  {
+    "id": 49,
+    "name": "childrens-literature",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/childrens-literature",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 51,
+    "name": "children-childhood-youth",
+    "url": "https://futurestudents.yorku.ca/program//program/children-childhood-youth",
+    "is_certificate": ""
+  },
+  {
+    "id": 53,
+    "name": "cinema-media-arts",
+    "url": "https://futurestudents.yorku.ca/program//program/cinema-media-arts",
+    "is_certificate": ""
+  },
+  {
+    "id": 55,
+    "name": "media-arts",
+    "url": "https://futurestudents.yorku.ca/program//program/media-arts",
+    "is_certificate": ""
+  },
+  {
+    "id": 57,
+    "name": "cinema-media-production",
+    "url": "https://futurestudents.yorku.ca/program//program/cinema-media-production",
+    "is_certificate": ""
+  },
+  {
+    "id": 59,
+    "name": "screenwriting",
+    "url": "https://futurestudents.yorku.ca/program//program/screenwriting",
+    "is_certificate": ""
+  },
+  {
+    "id": 61,
+    "name": "cities-regions-planning",
+    "url": "https://futurestudents.yorku.ca/program//program/cities-regions-planning",
+    "is_certificate": ""
+  },
+  {
+    "id": 63,
+    "name": "civil-engineering",
+    "url": "https://futurestudents.yorku.ca/program//program/civil-engineering",
+    "is_certificate": ""
+  },
+  {
+    "id": 65,
+    "name": "classical-studies-classics",
+    "url": "https://futurestudents.yorku.ca/program//program/classical-studies-classics",
+    "is_certificate": ""
+  },
+  {
+    "id": 67,
+    "name": "climate-solutions-and-sustainable-energy",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/climate-solutions-and-sustainable-energy",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 69,
+    "name": "cognitive-science",
+    "url": "https://futurestudents.yorku.ca/program//program/cognitive-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 71,
+    "name": "commerce",
+    "url": "https://futurestudents.yorku.ca/program//program/commerce",
+    "is_certificate": ""
+  },
+  {
+    "id": 73,
+    "name": "commerce-qualification-year",
+    "url": "https://futurestudents.yorku.ca/program//program/commerce-qualification-year",
+    "is_certificate": ""
+  },
+  {
+    "id": 75,
+    "name": "communication-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/communication-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 77,
+    "name": "communication-social-media-and-public-relations",
+    "url": "https://futurestudents.yorku.ca/program//program/communication-social-media-and-public-relations",
+    "is_certificate": ""
+  },
+  {
+    "id": 79,
+    "name": "communications",
+    "url": "https://futurestudents.yorku.ca/program//program/communications",
+    "is_certificate": ""
+  },
+  {
+    "id": 81,
+    "name": "computer-engineering",
+    "url": "https://futurestudents.yorku.ca/program//program/computer-engineering",
+    "is_certificate": ""
+  },
+  {
+    "id": 83,
+    "name": "computer-science",
+    "url": "https://futurestudents.yorku.ca/program//program/computer-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 85,
+    "name": "computer-science-for-software-development",
+    "url": "https://futurestudents.yorku.ca/program//program/computer-science-for-software-development",
+    "is_certificate": ""
+  },
+  {
+    "id": 87,
+    "name": "computer-security",
+    "url": "https://futurestudents.yorku.ca/program//program/computer-security",
+    "is_certificate": ""
+  },
+  {
+    "id": 89,
+    "name": "creative-technologies",
+    "url": "https://futurestudents.yorku.ca/program//program/creative-technologies",
+    "is_certificate": ""
+  },
+  {
+    "id": 91,
+    "name": "creative-writing",
+    "url": "https://futurestudents.yorku.ca/program//program/creative-writing",
+    "is_certificate": ""
+  },
+  {
+    "id": 93,
+    "name": "criminology",
+    "url": "https://futurestudents.yorku.ca/program//program/criminology",
+    "is_certificate": ""
+  },
+  {
+    "id": 95,
+    "name": "criminology-qualification-year",
+    "url": "https://futurestudents.yorku.ca/program//program/criminology-qualification-year",
+    "is_certificate": ""
+  },
+  {
+    "id": 97,
+    "name": "public-history",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/public-history",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 99,
+    "name": "community-arts-practice",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/community-arts-practice",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 101,
+    "name": "culture-medicine-and-health",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/culture-medicine-and-health",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 103,
+    "name": "dance",
+    "url": "https://futurestudents.yorku.ca/program//program/dance",
+    "is_certificate": ""
+  },
+  {
+    "id": 105,
+    "name": "data-science",
+    "url": "https://futurestudents.yorku.ca/program//program/data-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 107,
+    "name": "design",
+    "url": "https://futurestudents.yorku.ca/program//program/design",
+    "is_certificate": ""
+  },
+  {
+    "id": 109,
+    "name": "digital-health",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/digital-health",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 111,
+    "name": "digital-media/lassonde",
+    "url": "https://futurestudents.yorku.ca/program//program/digital-media/lassonde",
+    "is_certificate": ""
+  },
+  {
+    "id": 113,
+    "name": "digital-media/ampd",
+    "url": "https://futurestudents.yorku.ca/program//program/digital-media/ampd",
+    "is_certificate": ""
+  },
+  {
+    "id": 115,
+    "name": "digital-technologies",
+    "url": "https://futurestudents.yorku.ca/program//program/digital-technologies",
+    "is_certificate": ""
+  },
+  {
+    "id": 117,
+    "name": "disaster-emergency-management",
+    "url": "https://futurestudents.yorku.ca/program//program/disaster-emergency-management",
+    "is_certificate": ""
+  },
+  {
+    "id": 119,
+    "name": "dteil",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/dteil",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 121,
+    "name": "earth-atmospheric-science",
+    "url": "https://futurestudents.yorku.ca/program//program/earth-atmospheric-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 123,
+    "name": "east-asian-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/east-asian-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 125,
+    "name": "economics/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/economics/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 127,
+    "name": "economics/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/economics/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 129,
+    "name": "economics-qualification-year",
+    "url": "https://futurestudents.yorku.ca/program//program/economics-qualification-year",
+    "is_certificate": ""
+  },
+  {
+    "id": 131,
+    "name": "educational-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/educational-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 133,
+    "name": "electrical-engineering",
+    "url": "https://futurestudents.yorku.ca/program//program/electrical-engineering",
+    "is_certificate": ""
+  },
+  {
+    "id": 135,
+    "name": "emergency-management",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/emergency-management",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 137,
+    "name": "engineering",
+    "url": "https://futurestudents.yorku.ca/program//program/engineering",
+    "is_certificate": ""
+  },
+  {
+    "id": 139,
+    "name": "engineering-intl-development-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/engineering-intl-development-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 141,
+    "name": "english",
+    "url": "https://futurestudents.yorku.ca/program//program/english",
+    "is_certificate": ""
+  },
+  {
+    "id": 143,
+    "name": "english-professional-writing",
+    "url": "https://futurestudents.yorku.ca/program//program/english-professional-writing",
+    "is_certificate": ""
+  },
+  {
+    "id": 145,
+    "name": "english-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/english-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 147,
+    "name": "entrepreneurship-and-innovation",
+    "url": "https://futurestudents.yorku.ca/program//program/entrepreneurship-and-innovation",
+    "is_certificate": ""
+  },
+  {
+    "id": 149,
+    "name": "environmental-arts-justice",
+    "url": "https://futurestudents.yorku.ca/program//program/environmental-arts-justice",
+    "is_certificate": ""
+  },
+  {
+    "id": 151,
+    "name": "environmental-biology",
+    "url": "https://futurestudents.yorku.ca/program//program/environmental-biology",
+    "is_certificate": ""
+  },
+  {
+    "id": 153,
+    "name": "environmental-science",
+    "url": "https://futurestudents.yorku.ca/program//program/environmental-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 155,
+    "name": "philosophy/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/philosophy/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 157,
+    "name": "financial-business-economics",
+    "url": "https://futurestudents.yorku.ca/program//program/financial-business-economics",
+    "is_certificate": ""
+  },
+  {
+    "id": 159,
+    "name": "financial-planning",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/financial-planning",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 161,
+    "name": "financial-technologies",
+    "url": "https://futurestudents.yorku.ca/program//program/financial-technologies",
+    "is_certificate": ""
+  },
+  {
+    "id": 163,
+    "name": "first-year-exploration/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/first-year-exploration/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 165,
+    "name": "first-year-science",
+    "url": "https://futurestudents.yorku.ca/program//program/first-year-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 167,
+    "name": "fitness-exercise-counselling",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/fitness-exercise-counselling",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 169,
+    "name": "french-studies/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/french-studies/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 171,
+    "name": "french-studies/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/french-studies/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 173,
+    "name": "womens-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/womens-studies",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 175,
+    "name": "gender-womens-studies/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/gender-womens-studies/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 177,
+    "name": "geomatic-engineering",
+    "url": "https://futurestudents.yorku.ca/program//program/geomatic-engineering",
+    "is_certificate": ""
+  },
+  {
+    "id": 179,
+    "name": "geographic-information-systems",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/geographic-information-systems",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 181,
+    "name": "german-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/german-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 183,
+    "name": "global-geography",
+    "url": "https://futurestudents.yorku.ca/program//program/global-geography",
+    "is_certificate": ""
+  },
+  {
+    "id": 185,
+    "name": "global-health",
+    "url": "https://futurestudents.yorku.ca/program//program/global-health",
+    "is_certificate": ""
+  },
+  {
+    "id": 187,
+    "name": "history/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/history/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 189,
+    "name": "global-political-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/global-political-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 191,
+    "name": "health-society",
+    "url": "https://futurestudents.yorku.ca/program//program/health-society",
+    "is_certificate": ""
+  },
+  {
+    "id": 193,
+    "name": "health-policy-management-digital-health",
+    "url": "https://futurestudents.yorku.ca/program//program/health-policy-management-digital-health",
+    "is_certificate": ""
+  },
+  {
+    "id": 195,
+    "name": "health-services-financial-management",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/health-services-financial-management",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 197,
+    "name": "health-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/health-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 199,
+    "name": "hebrew-jewish-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/hebrew-jewish-studies",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 201,
+    "name": "hellenic-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/hellenic-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 203,
+    "name": "history/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/history/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 205,
+    "name": "human-resources-management",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/human-resources-management",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 207,
+    "name": "human-resources-management",
+    "url": "https://futurestudents.yorku.ca/program//program/human-resources-management",
+    "is_certificate": ""
+  },
+  {
+    "id": 209,
+    "name": "human-resources-management-for-internationally-educated-professionals",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/human-resources-management-for-internationally-educated-professionals",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 211,
+    "name": "human-rights-equity-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/human-rights-equity-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 213,
+    "name": "humanities",
+    "url": "https://futurestudents.yorku.ca/program//program/humanities",
+    "is_certificate": ""
+  },
+  {
+    "id": 215,
+    "name": "indigenous-studies-certificate",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/indigenous-studies-certificate",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 217,
+    "name": "indigenous-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/indigenous-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 219,
+    "name": "individualized-studies/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/individualized-studies/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 221,
+    "name": "information-technology",
+    "url": "https://futurestudents.yorku.ca/program//program/information-technology",
+    "is_certificate": ""
+  },
+  {
+    "id": 223,
+    "name": "information-technology-auditing-assurance",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/information-technology-auditing-assurance",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 225,
+    "name": "information-technology-for-internationally-educated-professionals",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/information-technology-for-internationally-educated-professionals",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 227,
+    "name": "integrative-arts",
+    "url": "https://futurestudents.yorku.ca/program//program/integrative-arts",
+    "is_certificate": ""
+  },
+  {
+    "id": 229,
+    "name": "social-science",
+    "url": "https://futurestudents.yorku.ca/program//program/social-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 231,
+    "name": "international-development-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/international-development-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 233,
+    "name": "international-studies-business-administration",
+    "url": "https://futurestudents.yorku.ca/program//program/international-studies-business-administration",
+    "is_certificate": ""
+  },
+  {
+    "id": 235,
+    "name": "international-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/international-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 237,
+    "name": "investment-management",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/investment-management",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 239,
+    "name": "italian-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/italian-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 241,
+    "name": "jewish-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/jewish-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 243,
+    "name": "jewish-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/jewish-studies",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 245,
+    "name": "kinesiology-health-science",
+    "url": "https://futurestudents.yorku.ca/program//program/kinesiology-health-science",
+    "is_certificate": ""
+  },
+  {
+    "id": 247,
+    "name": "language",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/language",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 249,
+    "name": "first-year-engineering-core",
+    "url": "https://futurestudents.yorku.ca/program//program/first-year-engineering-core",
+    "is_certificate": ""
+  },
+  {
+    "id": 251,
+    "name": "law-social-thought",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/law-social-thought",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 253,
+    "name": "law-society",
+    "url": "https://futurestudents.yorku.ca/program//program/law-society",
+    "is_certificate": ""
+  },
+  {
+    "id": 255,
+    "name": "law-society",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/law-society",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 257,
+    "name": "law-society-qualification-year",
+    "url": "https://futurestudents.yorku.ca/program//program/law-society-qualification-year",
+    "is_certificate": ""
+  },
+  {
+    "id": 259,
+    "name": "law",
+    "url": "https://futurestudents.yorku.ca/program//program/law",
+    "is_certificate": ""
+  },
+  {
+    "id": 261,
+    "name": "linguistics",
+    "url": "https://futurestudents.yorku.ca/program//program/linguistics",
+    "is_certificate": ""
+  },
+  {
+    "id": 263,
+    "name": "linguistics-language-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/linguistics-language-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 265,
+    "name": "logistics",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/logistics",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 267,
+    "name": "management",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/management",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 269,
+    "name": "marketing",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/marketing",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 271,
+    "name": "mathematics/science",
+    "url": "https://futurestudents.yorku.ca/program//program/mathematics/science",
+    "is_certificate": ""
+  },
+  {
+    "id": 273,
+    "name": "mathematics/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/mathematics/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 275,
+    "name": "mathematics-education",
+    "url": "https://futurestudents.yorku.ca/program//program/mathematics-education",
+    "is_certificate": ""
+  },
+  {
+    "id": 277,
+    "name": "mechanical-engineering",
+    "url": "https://futurestudents.yorku.ca/program//program/mechanical-engineering",
+    "is_certificate": ""
+  },
+  {
+    "id": 279,
+    "name": "meteorology",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/meteorology",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 281,
+    "name": "music",
+    "url": "https://futurestudents.yorku.ca/program//program/music",
+    "is_certificate": ""
+  },
+  {
+    "id": 283,
+    "name": "neuroscience",
+    "url": "https://futurestudents.yorku.ca/program//program/neuroscience",
+    "is_certificate": ""
+  },
+  {
+    "id": 285,
+    "name": "hh/nursing",
+    "url": "https://futurestudents.yorku.ca/program//program/hh/nursing",
+    "is_certificate": ""
+  },
+  {
+    "id": 287,
+    "name": "nursing",
+    "url": "https://futurestudents.yorku.ca/program//program/nursing",
+    "is_certificate": ""
+  },
+  {
+    "id": 289,
+    "name": "nursing-ien",
+    "url": "https://futurestudents.yorku.ca/program//program/nursing-ien",
+    "is_certificate": ""
+  },
+  {
+    "id": 291,
+    "name": "nursing-second-entry",
+    "url": "https://futurestudents.yorku.ca/program//program/nursing-second-entry",
+    "is_certificate": ""
+  },
+  {
+    "id": 293,
+    "name": "philosophy/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/philosophy/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 295,
+    "name": "physics-astronomy",
+    "url": "https://futurestudents.yorku.ca/program//program/physics-astronomy",
+    "is_certificate": ""
+  },
+  {
+    "id": 297,
+    "name": "political-science/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/political-science/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 299,
+    "name": "political-science/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/political-science/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 301,
+    "name": "portuguese-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/portuguese-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 303,
+    "name": "practical-ethics",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/practical-ethics",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 305,
+    "name": "translation-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/translation-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 307,
+    "name": "professional-writing",
+    "url": "https://futurestudents.yorku.ca/program//program/professional-writing",
+    "is_certificate": ""
+  },
+  {
+    "id": 309,
+    "name": "proficiency-in-spanish",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/proficiency-in-spanish",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 311,
+    "name": "psychology/health",
+    "url": "https://futurestudents.yorku.ca/program//program/psychology/health",
+    "is_certificate": ""
+  },
+  {
+    "id": 313,
+    "name": "psychology/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/psychology/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 315,
+    "name": "public-administration",
+    "url": "https://futurestudents.yorku.ca/program//program/public-administration",
+    "is_certificate": ""
+  },
+  {
+    "id": 317,
+    "name": "public-administration-and-law",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/public-administration-and-law",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 319,
+    "name": "public-policy-analysis",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/public-policy-analysis",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 321,
+    "name": "refugee-and-migration-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/refugee-and-migration-studies",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 323,
+    "name": "refugee-migration-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/refugee-migration-studies",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 325,
+    "name": "rehabilitation-services",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/rehabilitation-services",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 327,
+    "name": "religious-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/religious-studies",
+    "is_certificate": ""
+  },
+  {
+    "id": 329,
+    "name": "science-technology-and-society",
+    "url": "https://futurestudents.yorku.ca/program//program/science-technology-and-society",
+    "is_certificate": ""
+  },
+  {
+    "id": 331,
+    "name": "sexuality-studies/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/sexuality-studies/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 333,
+    "name": "sexuality-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/sexuality-studies",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 335,
+    "name": "social-work",
+    "url": "https://futurestudents.yorku.ca/program//program/social-work",
+    "is_certificate": ""
+  },
+  {
+    "id": 337,
+    "name": "social-work-post-degree",
+    "url": "https://futurestudents.yorku.ca/program//program/social-work-post-degree",
+    "is_certificate": ""
+  },
+  {
+    "id": 339,
+    "name": "sociology/laps",
+    "url": "https://futurestudents.yorku.ca/program//program/sociology/laps",
+    "is_certificate": ""
+  },
+  {
+    "id": 341,
+    "name": "sociology/glendon",
+    "url": "https://futurestudents.yorku.ca/program//program/sociology/glendon",
+    "is_certificate": ""
+  },
+  {
+    "id": 343,
+    "name": "software-engineering",
+    "url": "https://futurestudents.yorku.ca/program//program/software-engineering",
+    "is_certificate": ""
+  },
+  {
+    "id": 345,
+    "name": "space-engineering",
+    "url": "https://futurestudents.yorku.ca/program//program/space-engineering",
+    "is_certificate": ""
+  },
+  {
+    "id": 347,
+    "name": "spanish",
+    "url": "https://futurestudents.yorku.ca/program//program/spanish",
+    "is_certificate": ""
+  },
+  {
+    "id": 349,
+    "name": "spanish-and-latin-american-cultures-and-societies",
+    "url": "https://futurestudents.yorku.ca/program//program/spanish-and-latin-american-cultures-and-societies",
+    "is_certificate": ""
+  },
+  {
+    "id": 351,
+    "name": "spanish-english",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/spanish-english",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 353,
+    "name": "speech-language-sciences",
+    "url": "https://futurestudents.yorku.ca/program//program/speech-language-sciences",
+    "is_certificate": ""
+  },
+  {
+    "id": 355,
+    "name": "sport-management",
+    "url": "https://futurestudents.yorku.ca/program//program/sport-management",
+    "is_certificate": ""
+  },
+  {
+    "id": 357,
+    "name": "statistics",
+    "url": "https://futurestudents.yorku.ca/program//program/statistics",
+    "is_certificate": ""
+  },
+  {
+    "id": 359,
+    "name": "sustainable-environmental-management",
+    "url": "https://futurestudents.yorku.ca/program//program/sustainable-environmental-management",
+    "is_certificate": ""
+  },
+  {
+    "id": 361,
+    "name": "tesol",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/tesol",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 363,
+    "name": "technical-professional-writing",
+    "url": "https://futurestudents.yorku.ca/program//program/certificates/technical-professional-writing",
+    "is_certificate": "TRUE"
+  },
+  {
+    "id": 365,
+    "name": "theatre",
+    "url": "https://futurestudents.yorku.ca/program//program/theatre",
+    "is_certificate": ""
+  },
+  {
+    "id": 367,
+    "name": "performance-creation",
+    "url": "https://futurestudents.yorku.ca/program//program/performance-creation",
+    "is_certificate": ""
+  },
+  {
+    "id": 369,
+    "name": "undecided-major",
+    "url": "https://futurestudents.yorku.ca/program//program/undecided-major",
+    "is_certificate": ""
+  },
+  {
+    "id": 371,
+    "name": "undeclared/euc",
+    "url": "https://futurestudents.yorku.ca/program//program/undeclared/euc",
+    "is_certificate": ""
+  },
+  {
+    "id": 373,
+    "name": "undeclared-major",
+    "url": "https://futurestudents.yorku.ca/program//program/undeclared-major",
+    "is_certificate": ""
+  },
+  {
+    "id": 375,
+    "name": "art-history",
+    "url": "https://futurestudents.yorku.ca/program//program/art-history",
+    "is_certificate": ""
+  },
+  {
+    "id": 377,
+    "name": "visual-arts",
+    "url": "https://futurestudents.yorku.ca/program//program/visual-arts",
+    "is_certificate": ""
+  },
+  {
+    "id": 379,
+    "name": "work-labour-studies",
+    "url": "https://futurestudents.yorku.ca/program//program/work-labour-studies",
+    "is_certificate": ""
+  }
+]
