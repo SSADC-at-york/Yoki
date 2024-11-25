@@ -1,0 +1,638 @@
+[
+  {
+    "id": 1,
+    "name": "accounting",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/accounting",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 3,
+    "name": "professional-accounting",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/professional-accounting",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 6,
+    "name": "advanced-accounting",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/advanced-accounting",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 7,
+    "name": "advanced-hebrew-jewish-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/advanced-hebrew-jewish-studies",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 9,
+    "name": "anthropology-social",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/anthropology-social",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 11,
+    "name": "art-history-and-visual-culture",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/art-history-and-visual-culture",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 13,
+    "name": "artificial-intelligence",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/artificial-intelligence",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 15,
+    "name": "arts-and-media-administration",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/arts-and-media-administration",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 17,
+    "name": "asian-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/asian-studies",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 19,
+    "name": "biology",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/biology",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 21,
+    "name": "biotechnology",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/biotechnology",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 23,
+    "name": "biotechnology-management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/biotechnology-management",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 25,
+    "name": "business-administration",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/business-administration",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 27,
+    "name": "business-analytics",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/business-analytics",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 29,
+    "name": "business-and-the-environment",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/business-and-the-environment",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 31,
+    "name": "chemistry",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/chemistry",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 33,
+    "name": "cinema-and-media-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/cinema-and-media-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 35,
+    "name": "civil-engineering",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/civil-engineering",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 37,
+    "name": "communication-and-culture",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/communication-and-culture",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 39,
+    "name": "comparative-literature",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/comparative-literature",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 41,
+    "name": "conference-interpreting",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/conference-interpreting",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 43,
+    "name": "critical-disability-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/critical-disability-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 45,
+    "name": "culture-communication-leadership-in-canadian-business",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/culture-communication-leadership-in-canadian-business",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 47,
+    "name": "curatorial-studies-in-visual-culture",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/curatorial-studies-in-visual-culture",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 49,
+    "name": "dance",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/dance",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 51,
+    "name": "democratic-administration",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/democratic-administration",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 53,
+    "name": "design",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/design",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 55,
+    "name": "development-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/development-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 57,
+    "name": "digital-media",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/digital-media",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 59,
+    "name": "disaster-and-emergency-management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/disaster-and-emergency-management",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 61,
+    "name": "early-childhood-education",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/early-childhood-education",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 63,
+    "name": "earth-and-space-science",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/earth-and-space-science",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 65,
+    "name": "economics",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/economics",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 67,
+    "name": "education-urban-environments",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/education-urban-environments",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 69,
+    "name": "education-language-culture-and-teaching",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/education-language-culture-and-teaching",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 71,
+    "name": "electrical-engineering-and-computer-science",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/electrical-engineering-and-computer-science",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 73,
+    "name": "english",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/english",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 75,
+    "name": "environmental-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/environmental-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 77,
+    "name": "environmental-sustainability-education",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/environmental-sustainability-education",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 79,
+    "name": "etudes-francaises",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/etudes-francaises",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 81,
+    "name": "etudes-francophones",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/etudes-francophones",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 83,
+    "name": "european-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/european-studies",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 85,
+    "name": "film",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/film",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 87,
+    "name": "finance",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/finance",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 89,
+    "name": "financial-accountability",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/financial-accountability",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 91,
+    "name": "financial-engineering",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/financial-engineering",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 93,
+    "name": "foundations-of-canadian-law",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/foundations-of-canadian-law",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 95,
+    "name": "womens-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/womens-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 97,
+    "name": "general-interpreting",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/general-interpreting",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 99,
+    "name": "geography",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/geography",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 101,
+    "name": "global-health",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/global-health",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 103,
+    "name": "global-metals-and-minerals-management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/global-metals-and-minerals-management",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 105,
+    "name": "health",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/health",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 107,
+    "name": "health-industry-management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/health-industry-management",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 109,
+    "name": "health-psychology",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/health-psychology",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 111,
+    "name": "history",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/history",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 113,
+    "name": "human-resources-management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/human-resources-management",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 115,
+    "name": "humanities",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/humanities",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 117,
+    "name": "information-technology",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/information-technology",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 119,
+    "name": "interdisciplinary-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/interdisciplinary-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 121,
+    "name": "intermediate-accounting",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/intermediate-accounting",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 123,
+    "name": "international-and-security-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/international-and-security-studies",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 125,
+    "name": "jewish-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/jewish-studies",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 127,
+    "name": "justice-system-administration",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/justice-system-administration",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 129,
+    "name": "kinesiology-and-health-science",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/kinesiology-and-health-science",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 131,
+    "name": "language-literacy-education",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/language-literacy-education",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 133,
+    "name": "latin-american-and-caribbean-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/latin-american-and-caribbean-studies",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 135,
+    "name": "law",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/law",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 137,
+    "name": "law-professional-development",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/law-professional-development",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 139,
+    "name": "law-for-law-enforcement-professionals",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/law-for-law-enforcement-professionals",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 141,
+    "name": "leadership-community-engagement",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/leadership-community-engagement",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 143,
+    "name": "linguistics-and-applied-linguistics",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/linguistics-and-applied-linguistics",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 145,
+    "name": "management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/management",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 147,
+    "name": "management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/management",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 149,
+    "name": "management-practice",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/management-practice",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 151,
+    "name": "marketing",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/marketing",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 153,
+    "name": "mba-in-tech-leadership",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/mba-in-tech-leadership",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 155,
+    "name": "mathematics-and-statistics",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/mathematics-and-statistics",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 157,
+    "name": "mathematics-education",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/mathematics-education",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 159,
+    "name": "mechanical-engineering",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/mechanical-engineering",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 161,
+    "name": "music",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/music",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 163,
+    "name": "neuroscience",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/neuroscience",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 165,
+    "name": "nursing",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/nursing",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 167,
+    "name": "philosophy",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/philosophy",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 169,
+    "name": "physics-and-astronomy",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/physics-and-astronomy",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 171,
+    "name": "political-science",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/political-science",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 173,
+    "name": "advanced-management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/advanced-management",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 175,
+    "name": "community-culture-policy",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/community-culture-policy",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 177,
+    "name": "psychology",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/psychology",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 179,
+    "name": "public-and-international-affairs",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/public-and-international-affairs",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 181,
+    "name": "public-policy-administration-and-law",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/public-policy-administration-and-law",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 183,
+    "name": "quantitative-methods",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/quantitative-methods",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 185,
+    "name": "real-estate-infrastructure",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/real-estate-infrastructure",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 187,
+    "name": "refugee-and-migration-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/refugee-and-migration-studies",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 189,
+    "name": "science-and-technology-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/science-and-technology-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 191,
+    "name": "social-and-political-thought",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/social-and-political-thought",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 193,
+    "name": "social-work",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/social-work",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 195,
+    "name": "socio-legal-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/socio-legal-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 197,
+    "name": "sociology",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/sociology",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 199,
+    "name": "supply-chain-management",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/supply-chain-management",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 201,
+    "name": "theatre",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/theatre",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 203,
+    "name": "theatre-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/theatre-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 205,
+    "name": "translation-studies",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/translation-studies",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 208,
+    "name": "value-theory-applied-ethics",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/value-theory-applied-ethics",
+    "is_diploma": "TRUE"
+  },
+  {
+    "id": 209,
+    "name": "visual-arts",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/visual-arts",
+    "is_diploma": "FALSE"
+  },
+  {
+    "id": 211,
+    "name": "world-literature",
+    "url": "https://futurestudents.yorku.ca/graduate/programs/diplomas/world-literature",
+    "is_diploma": "TRUE"
+  }
+]
