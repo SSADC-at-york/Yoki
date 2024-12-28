@@ -658,7 +658,7 @@
   {
     "id": 83,
     "dept": "Finance",
-    "first": ".",
+    "first": "Samuel",
     "last": "Alagurajah",
     "numratings": 25,
     "overall_rating": 4
@@ -17520,14 +17520,6 @@
     "overall_rating": 3.6
   },
   {
-    "id": 2191,
-    "dept": "Film",
-    "first": ".",
-    "last": "Kispal-Kovacs/",
-    "numratings": 5,
-    "overall_rating": 3.7
-  },
-  {
     "id": 2192,
     "dept": "Social Work",
     "first": "Brigette",
@@ -20312,14 +20304,6 @@
     "overall_rating": 4.9
   },
   {
-    "id": 2540,
-    "dept": "Not Specified",
-    "first": ".",
-    "last": "Lukac",
-    "numratings": 6,
-    "overall_rating": 4.8
-  },
-  {
     "id": 2541,
     "dept": "Humanities",
     "first": "Jonathan",
@@ -20466,8 +20450,8 @@
   {
     "id": 2559,
     "dept": "Social Science",
-    "first": ".",
-    "last": "Lykke De La Cour",
+    "first": "Lykke",
+    "last": "De La Cour",
     "numratings": 7,
     "overall_rating": 3.1
   },
@@ -20507,7 +20491,7 @@
     "id": 2564,
     "dept": "Business",
     "first": "Mary",
-    "last": "MA",
+    "last": "Ma",
     "numratings": 6,
     "overall_rating": 3
   },
@@ -20539,7 +20523,7 @@
     "id": 2568,
     "dept": "Accounting",
     "first": "Li Zhi",
-    "last": "MA",
+    "last": "Ma",
     "numratings": 38,
     "overall_rating": 2.4
   },
@@ -26194,7 +26178,7 @@
   {
     "id": 3275,
     "dept": "Biology",
-    "first": ".",
+    "first": "Dr.",
     "last": "Pat",
     "numratings": 7,
     "overall_rating": 4.2
@@ -35994,8 +35978,8 @@
   {
     "id": 4500,
     "dept": "Economics",
-    "first": ".",
-    "last": "Wai-Ming Ho",
+    "first": "Wai-Ming",
+    "last": "Ho",
     "numratings": 6,
     "overall_rating": 4.6
   },
@@ -37302,14 +37286,6 @@
     "last": "Wintre",
     "numratings": 153,
     "overall_rating": 2.7
-  },
-  {
-    "id": 4664,
-    "dept": "Psychology",
-    "first": ".",
-    "last": "Wintres",
-    "numratings": 7,
-    "overall_rating": 3.6
   },
   {
     "id": 4665,
